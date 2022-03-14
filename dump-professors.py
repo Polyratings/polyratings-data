@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
 
     ids = response.json()
-    num_processes = os.cpu_count() - 1
+    num_processes = max(1, os.cpu_count() - 1)
 
     try:
         chunked_ids = [ids[i:i+CHUNK_SIZE] for i in range(0, len(ids), CHUNK_SIZE)]
