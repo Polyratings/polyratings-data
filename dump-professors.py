@@ -15,14 +15,14 @@ def get_professors(id_list):
         resp = requests.post(
                 POLYRATINGS_API_BASE + f'admin/bulk/professors', json={'keys':id_list},
                 headers={'Authorization': f'Bearer {auth_token}'},
-                timeout=20
+                timeout=8
         )
     # sometimes the request to Cloudflare hangs, so we put a timeout to re-fire the request
     except requests.exceptions.ReadTimeout as _:
         resp = requests.post(
                 POLYRATINGS_API_BASE + f'admin/bulk/professors',
                 json={'keys':id_list}, headers={'Authorization': f'Bearer {auth_token}'},
-                timeout=20
+                timeout=14
         )
 
     if resp.status_code != 200:
