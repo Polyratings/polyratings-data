@@ -30,7 +30,7 @@ jobs:
             - name: Commit Generated Files
               uses: EndBug/add-and-commit@v9
               with:
-                  add: ['professor-dump.json', 'professor-list.json']
+                  add: '["professor-dump.json", "professor-list.json"]'
                   author_name: 'Addison Tustin'
                   author_email: 'addison@atustin.dev'
                   message: 'Upload new DB dump at ${{ steps.date.outputs.date }}'
