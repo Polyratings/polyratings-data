@@ -6,6 +6,9 @@ import json
 
 POLYRATINGS_API_BASE = 'https://api-prod.polyratings.dev/'
 
+# arbitrary chunk size, this should be adjusted based on the performance of the workflow runner
+CHUNK_SIZE = 200
+
 def get_professors(id_list):
     print(f'Current ids: {id_list}')
     try:
@@ -54,8 +57,7 @@ if __name__ == '__main__':
     num_processes = os.cpu_count() - 1
 
     try:
-        chunk_size = int(len(ids) / num_processes)
-        chunked_ids = [ids[i:i+chunk_size] for i in range(0, len(ids), chunk_size)]
+        chunked_ids = [ids[i:i+chunk_size] for i in range(0, len(ids), CHUNK_SIZE)]
         pool = mp.Pool(num_processes)
         professors = list(pool.imap_unordered(get_professors, chunked_ids))
     finally:
