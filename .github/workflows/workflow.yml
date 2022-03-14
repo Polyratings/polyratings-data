@@ -13,9 +13,12 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Checkout Repo
-              uses: actions/checkout@master
+              uses: actions/checkout@v3
+              with:
+                  ref: 'runner'
 
             - name: Run Python Script
+              run: 'python3 dump-professors.py'
               env:
                   POLYRATINGS_USERNAME: ${{ secrets.POLYRATINGS_USERNAME }}
                   POLYRATINGS_PASSWORD: ${{ secrets.POLYRATINGS_PASSWORD }}
