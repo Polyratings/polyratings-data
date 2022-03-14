@@ -57,7 +57,7 @@ if __name__ == '__main__':
     num_processes = os.cpu_count() - 1
 
     try:
-        chunked_ids = [ids[i:i+chunk_size] for i in range(0, len(ids), CHUNK_SIZE)]
+        chunked_ids = [ids[i:i+CHUNK_SIZE] for i in range(0, len(ids), CHUNK_SIZE)]
         pool = mp.Pool(num_processes)
         professors = list(pool.imap_unordered(get_professors, chunked_ids))
     finally:
