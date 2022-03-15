@@ -5,7 +5,7 @@ on:
         branches:
             - runner
     schedule:
-        - cron: '0 0 * * *'
+        - cron: '10 54 * * *'
 
 jobs:
     db-dumper:
@@ -18,10 +18,13 @@ jobs:
                   ref: 'runner'
 
             - name: Run Python Script
-              run: 'python3 dump-professors.py'
+              uses: nick-fields/retry@v2
               env:
                   POLYRATINGS_USERNAME: ${{ secrets.POLYRATINGS_USERNAME }}
                   POLYRATINGS_PASSWORD: ${{ secrets.POLYRATINGS_PASSWORD }}
+              with: 
+                  command: 'python3 dump-professors.py'
+                  max_attempts: 3
 
             - name: Get Current Date
               id: date
