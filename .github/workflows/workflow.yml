@@ -5,7 +5,7 @@ on:
         branches:
             - runner
     schedule:
-        - cron: '26 11 * * *'
+        - cron: '37 11 * * *'
 
 jobs:
     db-dumper:
