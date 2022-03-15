@@ -5,7 +5,7 @@ on:
         branches:
             - runner
     schedule:
-        - cron: '12 11 * * *'
+        - cron: '26 11 * * *'
 
 jobs:
     db-dumper:
@@ -25,6 +25,7 @@ jobs:
               with: 
                   command: 'python3 dump-professors.py'
                   max_attempts: 3
+                  timeout_minutes: 5
 
             - name: Get Current Date
               id: date
