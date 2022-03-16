@@ -1,11 +1,11 @@
 name: Daily Polyratings DB Dump
-
 on:
     schedule:
-        - cron: '13 12 * * *'
+        - cron: "13 */6 * * *"
     push:
         branches:
             - runner
+    workflow_dispatch:
     
 
 jobs:
