@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Polyratings/polyratings-data#readme",
   "dependencies": {
-    "@polyratings/client": "^0.0.8",
+    "@polyratings/client": "*",
     "node-fetch": "^2.6.7"
   }
 }
