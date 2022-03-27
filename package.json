@@ -1,0 +1,24 @@
+{
+  "name": "polyratings-data",
+  "version": "1.0.0",
+  "description": "Polyratings Data ----- The following repository contains a daily dump of the **entire** [Polyratings.com](https://polyratings.dev) site.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polyratings/polyratings-data.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polyratings/polyratings-data/issues"
+  },
+  "homepage": "https://github.com/Polyratings/polyratings-data#readme",
+  "dependencies": {
+    "@polyratings/client": "^0.0.8",
+    "node-fetch": "^2.6.7"
+  }
+}
