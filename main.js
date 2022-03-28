@@ -1,22 +1,32 @@
+require("reflect-metadata");
 const fs = require("fs");
-const fetch = require("node-fetch")
-const { Client, PROD_ENV } = require("@polyratings/client");
+const fetch = require("node-fetch");
+const { plainToInstance, instanceToPlain } = require("class-transformer");
+const { Client, PROD_ENV, Internal } = require("@polyratings/client");
 
-global.fetch = fetch
+global.fetch = fetch;
 
 async function main() {
   const client = new Client(PROD_ENV);
   await client.auth.login({
-    username: process.env.POLYRATINGS_USERNAME,
-    password: process.env.POLYRATINGS_PASSWORD,
+    username: "mfish33",
+    password: "polyratings2021",
   });
-  const allProfessors = await client.admin.bulkKvRecord("professors");
 
+  const allProfessors = await client.admin.bulkKvRecord("professors");
+  // delete all professor key to generate it ourselves
+  delete allProfessors.all;
+
+  const generatedAllProfessors = plainToInstance(
+    Internal.TruncatedProfessorDTO,
+    prodProfessorsPlain,
+    { excludeExtraneousValues: true }
+  );
+  const generatedAllProfessorsPlain = instanceToPlain(generatedAllProfessors);
   fs.writeFileSync(
     "professor-list.json",
-    JSON.stringify(allProfessors.all, null, 2)
+    JSON.stringify(generatedAllProfessorsPlain, null, 2)
   );
-  delete allProfessors.all;
 
   fs.writeFileSync(
     "professor-dump.json",
