@@ -19,7 +19,7 @@ async function main() {
 
   const generatedAllProfessors = plainToInstance(
     Internal.TruncatedProfessorDTO,
-    allProfessors,
+    Object.values(allProfessors),
     { excludeExtraneousValues: true }
   );
   const generatedAllProfessorsPlain = instanceToPlain(generatedAllProfessors);
