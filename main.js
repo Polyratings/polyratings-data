@@ -9,8 +9,8 @@ global.fetch = fetch;
 async function main() {
   const client = new Client(PROD_ENV);
   await client.auth.login({
-    username: "mfish33",
-    password: "polyratings2021",
+    username: process.env.POLYRATINGS_USERNAME,
+    password: process.env.POLYRATINGS_PASSWORD,
   });
 
   const allProfessors = await client.admin.bulkKvRecord("professors");
@@ -19,7 +19,7 @@ async function main() {
 
   const generatedAllProfessors = plainToInstance(
     Internal.TruncatedProfessorDTO,
-    prodProfessorsPlain,
+    allProfessors,
     { excludeExtraneousValues: true }
   );
   const generatedAllProfessorsPlain = instanceToPlain(generatedAllProfessors);
