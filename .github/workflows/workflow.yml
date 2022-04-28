@@ -36,12 +36,13 @@ jobs:
               run: |
                   git stash --include-untracked
                   git fetch
-                  git checkout data
+                  git checkout --orphan clean-data origin/data
                   rm prof* || echo "Could not remove prof files, likely don't exist"
                   git stash pop
                   git add professor-dump.json professor-list.json
                   git config --global user.email "addison@atustin.dev"
                   git config --global user.name "Addison Tustin"
                   git diff --quiet && git diff --staged --quiet || git commit -m "Upload new DB dump at ${{ steps.date.outputs.date }}" 
-                  git push origin data --force
+                  git branch -u origin/data
+                  git push origin HEAD:data --force
 
