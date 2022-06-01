@@ -4,7 +4,7 @@ import os
 import multiprocessing as mp
 import json
 
-POLYRATINGS_API_BASE = 'https://api-prod.polyratings.dev/'
+POLYRATINGS_API_BASE = 'https://api-prod.polyratings.org/'
 
 # arbitrary chunk size, this should be adjusted based on the performance of the workflow runner
 CHUNK_SIZE = 200
