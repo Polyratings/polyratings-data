@@ -7680,10 +7680,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 30,
+    "numEvals": 31,
+    "overallRating": 2.21,
     "materialClear": 2.03,
-    "studentDifficulties": 2.32,
-    "overallRating": 2.22,
+    "studentDifficulties": 2.31,
     "courses": [
       "IME 223",
       "IME 314",
@@ -13000,10 +13000,10 @@
     "department": "CSC",
     "firstName": "Andrew",
     "lastName": "Migler",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 1,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "CSC 365"
     ]
