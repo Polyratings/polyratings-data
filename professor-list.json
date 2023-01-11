@@ -2978,12 +2978,13 @@
     "department": "MU",
     "firstName": "Nicholas",
     "lastName": "Waldron",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "MU 101"
+      "MU 101",
+      "MU 176"
     ]
   },
   {
@@ -8157,10 +8158,10 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 42,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.63,
-    "overallRating": 3.58,
+    "numEvals": 43,
+    "overallRating": 3.59,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.64,
     "courses": [
       "HIST 201",
       "HIST 213",
@@ -20504,10 +20505,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 85,
-    "materialClear": 1.54,
+    "numEvals": 86,
+    "overallRating": 1.66,
+    "materialClear": 1.56,
     "studentDifficulties": 1.74,
-    "overallRating": 1.64,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -23087,10 +23088,10 @@
     "department": "BMED",
     "firstName": "Kristen",
     "lastName": "Cardinal",
-    "numEvals": 14,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.88,
-    "overallRating": 2.81,
+    "numEvals": 15,
+    "overallRating": 2.89,
+    "materialClear": 3.01,
+    "studentDifficulties": 2.95,
     "courses": [
       "BMED 101",
       "BMED 111",
