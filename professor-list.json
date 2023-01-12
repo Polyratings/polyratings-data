@@ -18502,10 +18502,10 @@
     "department": "COMS",
     "firstName": "Jodie",
     "lastName": "Steele",
-    "numEvals": 26,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.62,
-    "overallRating": 3.58,
+    "numEvals": 27,
+    "overallRating": 3.56,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.6,
     "courses": [
       "COMS 102",
       "PSY 302",
@@ -19501,10 +19501,10 @@
     "department": "ENGL",
     "firstName": "Erin",
     "lastName": "Martin-Elston",
-    "numEvals": 62,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.42,
-    "overallRating": 2.44,
+    "numEvals": 63,
+    "overallRating": 2.45,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.43,
     "courses": [
       "ENGL 134",
       "ENGL 143",
@@ -22119,10 +22119,10 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 117,
+    "numEvals": 118,
     "overallRating": 3.47,
     "materialClear": 3.43,
-    "studentDifficulties": 3.4,
+    "studentDifficulties": 3.41,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -26416,13 +26416,14 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "MATH 142",
-      "MATH 306"
+      "MATH 306",
+      "MATH 143"
     ]
   },
   {
@@ -26550,10 +26551,10 @@
     "department": "CE",
     "firstName": "Tracy",
     "lastName": "Thatcher",
-    "numEvals": 16,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.88,
-    "overallRating": 2.82,
+    "numEvals": 17,
+    "overallRating": 2.71,
+    "materialClear": 2.83,
+    "studentDifficulties": 2.83,
     "courses": [
       "ENVE 264",
       "ENVE 309",
@@ -26561,7 +26562,8 @@
       "ENVE 325",
       "ENVE 330",
       "ENVE 331",
-      "ENVE 421"
+      "ENVE 421",
+      "ENVE 111"
     ]
   },
   {
