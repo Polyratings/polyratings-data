@@ -2964,13 +2964,14 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 4,
-    "overallRating": 1,
+    "numEvals": 5,
+    "overallRating": 0.8,
     "materialClear": 1,
-    "studentDifficulties": 1,
+    "studentDifficulties": 1.2,
     "courses": [
       "CHEM 121",
-      "CHEM 126"
+      "CHEM 126",
+      "CHEM 127"
     ]
   },
   {
@@ -7456,10 +7457,10 @@
     "department": "HIST",
     "firstName": "Roger",
     "lastName": "Hall",
-    "numEvals": 30,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.12,
-    "overallRating": 3.33,
+    "numEvals": 31,
+    "overallRating": 3.35,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.15,
     "courses": [
       "HIST 201",
       "HIST 202",
@@ -9812,10 +9813,10 @@
     "department": "BRAE",
     "firstName": "Tom",
     "lastName": "Mastin",
-    "numEvals": 40,
-    "materialClear": 3.38,
+    "numEvals": 41,
+    "overallRating": 3.35,
+    "materialClear": 3.4,
     "studentDifficulties": 3.13,
-    "overallRating": 3.33,
     "courses": [
       "BRAE 237",
       "BRAE 239",
@@ -15127,10 +15128,10 @@
     "department": "MATH",
     "firstName": "Marvin",
     "lastName": "McClendon",
-    "numEvals": 2,
-    "overallRating": 0.5,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "numEvals": 3,
+    "overallRating": 0.33,
+    "materialClear": 0.33,
+    "studentDifficulties": 0.67,
     "courses": [
       "MATH 143"
     ]
@@ -23910,10 +23911,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 32,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.82,
-    "overallRating": 3.82,
+    "numEvals": 33,
+    "overallRating": 3.83,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.83,
     "courses": [
       "MATH 112",
       "MATH 141",
@@ -24996,10 +24997,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 23,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.38,
-    "overallRating": 2.63,
+    "numEvals": 24,
+    "overallRating": 2.65,
+    "materialClear": 2.73,
+    "studentDifficulties": 2.36,
     "courses": [
       "ENGL 134",
       "ENGL 149"
