@@ -15128,12 +15128,13 @@
     "department": "MATH",
     "firstName": "Marvin",
     "lastName": "McClendon",
-    "numEvals": 4,
-    "overallRating": 0.5,
-    "materialClear": 0.25,
-    "studentDifficulties": 0.5,
+    "numEvals": 5,
+    "overallRating": 0.4,
+    "materialClear": 0.2,
+    "studentDifficulties": 0.6,
     "courses": [
-      "MATH 143"
+      "MATH 143",
+      "MATH 118"
     ]
   },
   {
@@ -20506,9 +20507,9 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 86,
+    "numEvals": 87,
     "overallRating": 1.66,
-    "materialClear": 1.56,
+    "materialClear": 1.55,
     "studentDifficulties": 1.74,
     "courses": [
       "CHEM 110",
@@ -21286,10 +21287,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 89,
+    "numEvals": 90,
+    "overallRating": 3.63,
     "materialClear": 3.66,
     "studentDifficulties": 3.56,
-    "overallRating": 3.63,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -27514,10 +27515,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 33,
-    "materialClear": 2,
-    "studentDifficulties": 1.87,
-    "overallRating": 1.97,
+    "numEvals": 34,
+    "overallRating": 2,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.84,
     "courses": [
       "BIO 161",
       "BIO 221",
