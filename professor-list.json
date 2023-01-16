@@ -5997,6 +5997,19 @@
     ]
   },
   {
+    "id": "359f3007-aa22-40a4-be9a-42b3e9a990b2",
+    "department": "STAT",
+    "firstName": "Frank",
+    "lastName": "Giron",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "STAT"
+    ]
+  },
+  {
     "id": "35e2b442-3af2-4261-a0c8-066222500c47",
     "department": "MATH",
     "firstName": "Maria",
@@ -9557,10 +9570,10 @@
     "department": "CHEM",
     "firstName": "Alan",
     "lastName": "Kiste",
-    "numEvals": 63,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.19,
-    "overallRating": 2.34,
+    "numEvals": 64,
+    "overallRating": 2.37,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.2,
     "courses": [
       "CHEM 125",
       "CHEM 127",
@@ -17333,6 +17346,19 @@
       "BIO 161",
       "BIO 351",
       "BIO 452"
+    ]
+  },
+  {
+    "id": "9cd9758e-ed10-4da1-838f-74ca603fc4a3",
+    "department": "COMS",
+    "firstName": "Vincent",
+    "lastName": "Meserko",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
     ]
   },
   {
