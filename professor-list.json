@@ -12828,7 +12828,7 @@
     "department": "ES",
     "firstName": "Alex",
     "lastName": "Wescott",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17817,10 +17817,10 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 99,
+    "numEvals": 100,
+    "overallRating": 3.81,
     "materialClear": 3.81,
     "studentDifficulties": 3.76,
-    "overallRating": 3.81,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -22147,7 +22147,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 118,
+    "numEvals": 119,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -25024,13 +25024,14 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 24,
-    "overallRating": 2.65,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.36,
+    "numEvals": 25,
+    "overallRating": 2.66,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.39,
     "courses": [
       "ENGL 134",
-      "ENGL 149"
+      "ENGL 149",
+      "ENGL 147"
     ]
   },
   {
