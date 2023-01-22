@@ -17949,6 +17949,19 @@
     ]
   },
   {
+    "id": "a280f0cf-75e5-4feb-b5c4-125368ff76b0",
+    "department": "MATH",
+    "firstName": "Stathis",
+    "lastName": "Charalampidis",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
+    ]
+  },
+  {
     "id": "a2869265-0df4-4961-8b9b-5470bcaec1d5",
     "department": "AERO",
     "firstName": "Robert",
@@ -22406,6 +22419,19 @@
       "ARCH 132",
       "ARCH 133",
       "ARCH 252"
+    ]
+  },
+  {
+    "id": "d3725081-3f53-4823-b2d9-4551418ba729",
+    "department": "CHEM",
+    "firstName": "Michael",
+    "lastName": "Bordbar",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 1,
+    "courses": [
+      "CHEM"
     ]
   },
   {
