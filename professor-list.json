@@ -17685,15 +17685,16 @@
     "department": "HIST",
     "firstName": "Joel",
     "lastName": "Orth",
-    "numEvals": 23,
-    "materialClear": 3.27,
-    "studentDifficulties": 3.31,
-    "overallRating": 3.27,
+    "numEvals": 24,
+    "overallRating": 3.3,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.34,
     "courses": [
       "HIST 202",
       "HIST 207",
       "HIST 322",
-      "HIST 408"
+      "HIST 408",
+      "HNRS 202"
     ]
   },
   {
@@ -23734,10 +23735,10 @@
     "department": "MATH",
     "firstName": "Joyce",
     "lastName": "Linn",
-    "numEvals": 43,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.47,
-    "overallRating": 3.63,
+    "numEvals": 44,
+    "overallRating": 3.64,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.48,
     "courses": [
       "HIST 110",
       "MATH 141",
@@ -24531,6 +24532,19 @@
       "PSY 370",
       "PSY 372",
       "PSY 555"
+    ]
+  },
+  {
+    "id": "e44d5a4f-e747-4cd4-9433-eb2bb6ba9627",
+    "department": "ENGL",
+    "firstName": "Andrew",
+    "lastName": "Hall",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
     ]
   },
   {
