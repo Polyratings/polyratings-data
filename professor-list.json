@@ -7703,17 +7703,18 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 82,
-    "materialClear": 2.97,
-    "studentDifficulties": 2.78,
-    "overallRating": 2.95,
+    "numEvals": 83,
+    "overallRating": 2.96,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.79,
     "courses": [
       "TH 110",
       "TH 201",
       "TH 210",
       "TH 227",
       "TH 228",
-      "TH 360"
+      "TH 360",
+      "HNRS 299"
     ]
   },
   {
@@ -14076,10 +14077,10 @@
     "department": "MATH",
     "firstName": "Erin",
     "lastName": "Pearse",
-    "numEvals": 39,
+    "numEvals": 40,
+    "overallRating": 3.01,
     "materialClear": 2.85,
-    "studentDifficulties": 2.98,
-    "overallRating": 2.98,
+    "studentDifficulties": 3.01,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -14090,7 +14091,8 @@
       "MATH 335",
       "MATH 344",
       "MATH 412",
-      "MATH 453"
+      "MATH 453",
+      "HNRS 244"
     ]
   },
   {
@@ -18301,17 +18303,18 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 49,
+    "numEvals": 50,
+    "overallRating": 3.26,
     "materialClear": 3.22,
-    "studentDifficulties": 3.1,
-    "overallRating": 3.24,
+    "studentDifficulties": 3.12,
     "courses": [
       "MATH 142",
       "MATH 143",
       "MATH 206",
       "MATH 241",
       "MATH 408",
-      "MATH 481"
+      "MATH 481",
+      "HNRS 241"
     ]
   },
   {
@@ -21326,10 +21329,10 @@
     "department": "PHYS",
     "firstName": "William",
     "lastName": "Horst",
-    "numEvals": 165,
+    "numEvals": 166,
+    "overallRating": 2.08,
     "materialClear": 2.35,
-    "studentDifficulties": 1.97,
-    "overallRating": 2.07,
+    "studentDifficulties": 1.98,
     "courses": [
       "PHYS 111",
       "MATH 118",
@@ -22112,10 +22115,10 @@
     "department": "ENGL",
     "firstName": "Sadie",
     "lastName": "Johann",
-    "numEvals": 33,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.56,
-    "overallRating": 3.35,
+    "numEvals": 34,
+    "overallRating": 3.37,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.57,
     "courses": [
       "ENGL 133",
       "ENGL 134",
