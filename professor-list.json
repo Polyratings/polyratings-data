@@ -9731,6 +9731,19 @@
     ]
   },
   {
+    "id": "596ebbae-6ac9-4453-8d89-d1514d70f3b8",
+    "department": "POLS",
+    "firstName": "Charles",
+    "lastName": "Barclay",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ]
+  },
+  {
     "id": "598ec6b5-865a-4587-8142-e68db70bd89e",
     "department": "EE",
     "firstName": "Kenneth",
@@ -9982,6 +9995,19 @@
       "HUM 310",
       "FR 322",
       "FR 400"
+    ]
+  },
+  {
+    "id": "5bc3ff7e-9a78-4471-850c-ea1455fce836",
+    "department": "CSC",
+    "firstName": "Adnan",
+    "lastName": "Awan",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "CSC"
     ]
   },
   {
