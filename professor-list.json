@@ -1818,10 +1818,10 @@
     "department": "PHIL",
     "firstName": "Dwight",
     "lastName": "Brown",
-    "numEvals": 69,
+    "numEvals": 68,
+    "overallRating": 3.01,
     "materialClear": 3.08,
     "studentDifficulties": 2.96,
-    "overallRating": 3.01,
     "courses": [
       "PHIL 101",
       "PHIL 212",
@@ -20852,6 +20852,19 @@
     ]
   },
   {
+    "id": "c0fb6abd-f92a-4209-bc7a-d85097fbee9e",
+    "department": "CHEM",
+    "firstName": "Justin",
+    "lastName": "Hancock",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 2,
+    "courses": [
+      "CHEM"
+    ]
+  },
+  {
     "id": "c10db745-222a-41a5-9f76-0d3e6469f84f",
     "department": "WGS",
     "firstName": "Tom",
@@ -22160,16 +22173,17 @@
     "department": "ENGL",
     "firstName": "Sadie",
     "lastName": "Johann",
-    "numEvals": 34,
-    "overallRating": 3.37,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.57,
+    "numEvals": 35,
+    "overallRating": 3.39,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.58,
     "courses": [
       "ENGL 133",
       "ENGL 134",
       "ENGL 145",
       "ENGL 148",
-      "ENGL 149"
+      "ENGL 149",
+      "HNRS 149"
     ]
   },
   {
