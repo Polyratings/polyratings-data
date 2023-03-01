@@ -5938,12 +5938,13 @@
     "department": "MATH",
     "firstName": "Kathleen",
     "lastName": "Hogue",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "MATH"
+      "MATH",
+      "MATH 142"
     ]
   },
   {
@@ -10002,12 +10003,13 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 2,
+    "materialClear": 1,
     "studentDifficulties": 1,
     "courses": [
-      "CSC"
+      "CSC",
+      "CSC 202"
     ]
   },
   {
@@ -10655,13 +10657,14 @@
     "department": "CHEM",
     "firstName": "Adam ",
     "lastName": "Groves",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.25,
     "courses": [
       "CHEM 128",
-      "CHEM 369"
+      "CHEM 369",
+      "CHEM 125"
     ]
   },
   {
@@ -19640,16 +19643,17 @@
     "department": "ENGL",
     "firstName": "Erin",
     "lastName": "Martin-Elston",
-    "numEvals": 63,
-    "overallRating": 2.45,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.43,
+    "numEvals": 64,
+    "overallRating": 2.46,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.44,
     "courses": [
       "ENGL 134",
       "ENGL 143",
       "ENGL 145",
       "HNRS 145",
-      "ENGL 149"
+      "ENGL 149",
+      "ENGL 147"
     ]
   },
   {
@@ -26385,10 +26389,10 @@
     "department": "PHYS",
     "firstName": "Robert",
     "lastName": "Holtzapple",
-    "numEvals": 59,
-    "overallRating": 3.6,
+    "numEvals": 60,
+    "overallRating": 3.59,
     "materialClear": 3.77,
-    "studentDifficulties": 3.47,
+    "studentDifficulties": 3.45,
     "courses": [
       "PHYS 133",
       "PHYS 141",
