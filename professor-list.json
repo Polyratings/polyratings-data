@@ -10804,12 +10804,13 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "MATH"
+      "MATH",
+      "MATH 141"
     ]
   },
   {
