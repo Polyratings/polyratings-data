@@ -3577,6 +3577,19 @@
     ]
   },
   {
+    "id": "1dab4b1a-71d5-404f-82bc-e96df0519a4b",
+    "department": "PHYS",
+    "firstName": "Benjamin",
+    "lastName": "Shlaer",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "PHYS"
+    ]
+  },
+  {
     "id": "1dc9c04b-d8c1-499d-8213-afb49e89f56e",
     "department": "NR",
     "firstName": "Marni",
@@ -11691,10 +11704,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 123,
-    "overallRating": 1.87,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.72,
+    "numEvals": 124,
+    "overallRating": 1.86,
+    "materialClear": 1.97,
+    "studentDifficulties": 1.71,
     "courses": [
       "CE 204",
       "CE 211",
@@ -13235,10 +13248,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 56,
-    "materialClear": 1.92,
-    "studentDifficulties": 2.15,
-    "overallRating": 2.05,
+    "numEvals": 55,
+    "overallRating": 2.01,
+    "materialClear": 1.88,
+    "studentDifficulties": 2.12,
     "courses": [
       "CPE 101",
       "CSC 101",
