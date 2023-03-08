@@ -1524,6 +1524,19 @@
     ]
   },
   {
+    "id": "0d17a5d0-b9fb-4fb3-96da-32f76cdb305f",
+    "department": "MATH",
+    "firstName": "Vanessa",
+    "lastName": "Newsome-Slade",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "MATH"
+    ]
+  },
+  {
     "id": "0d3d29e7-c078-4eb8-b5e6-eb0813acd753",
     "department": "BIO",
     "firstName": "Nikki",
@@ -5187,6 +5200,19 @@
     "courses": [
       "EE 255",
       "EE 228"
+    ]
+  },
+  {
+    "id": "2e6a9669-5ee1-42a9-beed-64ac685572a1",
+    "department": "ENGL",
+    "firstName": "Christopher",
+    "lastName": "Hayter",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 2,
+    "courses": [
+      "ENGL"
     ]
   },
   {
@@ -9422,12 +9448,11 @@
     "department": "BIO",
     "firstName": "Lisa",
     "lastName": "Needles",
-    "numEvals": 27,
+    "numEvals": 26,
     "overallRating": 1.71,
     "materialClear": 1.57,
     "studentDifficulties": 1.9,
     "courses": [
-      "BIO 101",
       "BIO 160",
       "BIO 227",
       "MSC 328",
