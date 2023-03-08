@@ -20870,12 +20870,13 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 1,
-    "overallRating": 2,
+    "numEvals": 2,
+    "overallRating": 2.5,
     "materialClear": 3,
-    "studentDifficulties": 2,
+    "studentDifficulties": 3,
     "courses": [
-      "CHEM"
+      "CHEM",
+      "CHEM 124"
     ]
   },
   {
