@@ -2260,6 +2260,19 @@
     ]
   },
   {
+    "id": "11efec99-0614-49b8-9189-bf871ce14fe5",
+    "department": "MATH",
+    "firstName": "James",
+    "lastName": "Crew",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "MATH"
+    ]
+  },
+  {
     "id": "11f1cf28-f2f5-4fa0-a284-66e051467e70",
     "department": "PHYS",
     "firstName": "John George",
@@ -8289,13 +8302,14 @@
     "department": "CSC",
     "firstName": "Ayaan",
     "lastName": "Kazerouni",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.6,
     "studentDifficulties": 4,
     "courses": [
       "CPE 203",
-      "CSC 313"
+      "CSC 313",
+      "CSC 123"
     ]
   },
   {
@@ -8358,10 +8372,10 @@
     "department": "ENGL",
     "firstName": "Bill",
     "lastName": "Fitzhenry",
-    "numEvals": 64,
+    "numEvals": 65,
+    "overallRating": 3.9,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
-    "overallRating": 3.9,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -13760,7 +13774,7 @@
     "department": "ES",
     "firstName": "Alpen",
     "lastName": "Razi",
-    "numEvals": 27,
+    "numEvals": 28,
     "overallRating": 3.96,
     "materialClear": 3.89,
     "studentDifficulties": 3.91,
@@ -14272,10 +14286,10 @@
     "department": "KINE",
     "firstName": "Don",
     "lastName": "Clegg",
-    "numEvals": 46,
-    "overallRating": 3.13,
-    "materialClear": 3.19,
-    "studentDifficulties": 3.15,
+    "numEvals": 47,
+    "overallRating": 3.15,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.17,
     "courses": [
       "KINE 180",
       "KINE 200",
@@ -18380,6 +18394,19 @@
       "ARCH 131",
       "ARCH 132",
       "ARCH 133"
+    ]
+  },
+  {
+    "id": "a58067ee-9241-41f5-9065-29e8a03e9cd4",
+    "department": "CSC",
+    "firstName": "Vanessa",
+    "lastName": "Rivera",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "CSC"
     ]
   },
   {
@@ -22957,6 +22984,19 @@
     ]
   },
   {
+    "id": "d67bcde0-efec-43bd-9cb0-432e9eb11bb6",
+    "department": "ES",
+    "firstName": "Oscar",
+    "lastName": "Gutierrez",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
+    ]
+  },
+  {
     "id": "d67bf2e9-1746-4a5a-bf50-2e43658b3a1f",
     "department": "MATH",
     "firstName": "Derik",
@@ -27124,7 +27164,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 203,
+    "numEvals": 204,
     "overallRating": 3.43,
     "materialClear": 3.43,
     "studentDifficulties": 3.33,
