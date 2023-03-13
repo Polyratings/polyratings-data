@@ -2264,12 +2264,13 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2.5,
     "courses": [
-      "MATH"
+      "MATH",
+      "MATH 141"
     ]
   },
   {
