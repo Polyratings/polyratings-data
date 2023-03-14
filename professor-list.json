@@ -10421,10 +10421,10 @@
     "department": "STAT",
     "firstName": "Matt",
     "lastName": "Carlton",
-    "numEvals": 111,
+    "numEvals": 112,
+    "overallRating": 3.71,
     "materialClear": 3.75,
     "studentDifficulties": 3.65,
-    "overallRating": 3.71,
     "courses": [
       "MATH 118",
       "STAT 130",
@@ -10441,7 +10441,8 @@
       "STAT 350",
       "STAT 425",
       "STAT 426",
-      "STAT 427"
+      "STAT 427",
+      "STAT 305"
     ]
   },
   {
@@ -11824,10 +11825,10 @@
     "department": "EE",
     "firstName": "Ahmad",
     "lastName": "Nafisi",
-    "numEvals": 59,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.64,
-    "overallRating": 3.52,
+    "numEvals": 60,
+    "overallRating": 3.53,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.65,
     "courses": [
       "EE 110",
       "EE 112",
@@ -11839,7 +11840,8 @@
       "EE 303",
       "EE 325",
       "EE 406",
-      "EE 407"
+      "EE 407",
+      "EE 212"
     ]
   },
   {
@@ -14530,10 +14532,10 @@
     "department": "EE",
     "firstName": "Gary",
     "lastName": "Perks",
-    "numEvals": 207,
+    "numEvals": 208,
+    "overallRating": 3.57,
     "materialClear": 3.65,
     "studentDifficulties": 3.49,
-    "overallRating": 3.57,
     "courses": [
       "EE 112",
       "CPE 133",
@@ -14552,7 +14554,8 @@
       "EE 321",
       "EE 322",
       "EE 342",
-      "EE 361"
+      "EE 361",
+      "CPE 233"
     ]
   },
   {
