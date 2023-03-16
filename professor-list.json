@@ -342,6 +342,19 @@
     ]
   },
   {
+    "id": "033282a5-f663-46f7-b64d-bd33fc7a9911",
+    "department": "MATH",
+    "firstName": "Kyle",
+    "lastName": "Rachman",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
+    ]
+  },
+  {
     "id": "03614e87-82c5-4cc8-b96e-760137c06b49",
     "department": "BUS",
     "firstName": "Lei-da",
@@ -2918,10 +2931,10 @@
     "department": "MATH",
     "firstName": "Morgan",
     "lastName": "Sherman",
-    "numEvals": 57,
-    "materialClear": 3.33,
+    "numEvals": 58,
+    "overallRating": 3.36,
+    "materialClear": 3.31,
     "studentDifficulties": 3.29,
-    "overallRating": 3.37,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -7893,10 +7906,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 20,
-    "overallRating": 2.25,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.43,
+    "numEvals": 21,
+    "overallRating": 2.14,
+    "materialClear": 1.93,
+    "studentDifficulties": 2.31,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -9402,6 +9415,19 @@
     ]
   },
   {
+    "id": "5575a507-2616-45d8-a763-b2eef79281a4",
+    "department": "MATH",
+    "firstName": "Riley",
+    "lastName": "Somers",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 3,
+    "courses": [
+      "MATH"
+    ]
+  },
+  {
     "id": "55b89de9-ce40-46b6-bd80-3286b68b623f",
     "department": "MATE",
     "firstName": "Mohsen",
@@ -10057,10 +10083,10 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 6,
-    "overallRating": 0.5,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "numEvals": 7,
+    "overallRating": 0.57,
+    "materialClear": 0.57,
+    "studentDifficulties": 0.43,
     "courses": [
       "CSC",
       "CSC 202"
@@ -12512,10 +12538,10 @@
     "department": "COMS",
     "firstName": "Jeremy",
     "lastName": "Teitelbaum",
-    "numEvals": 176,
-    "materialClear": 2.19,
-    "studentDifficulties": 1.69,
-    "overallRating": 1.87,
+    "numEvals": 177,
+    "overallRating": 1.86,
+    "materialClear": 2.18,
+    "studentDifficulties": 1.68,
     "courses": [
       "HNRS 101",
       "SCM 101",
@@ -13808,6 +13834,19 @@
     ]
   },
   {
+    "id": "7bd30ced-4a5c-438d-896a-d22380692a95",
+    "department": "TH",
+    "firstName": "Phyllis",
+    "lastName": "Wong",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "TH"
+    ]
+  },
+  {
     "id": "7c01310c-acde-4fda-8ffe-0237ad5a5f24",
     "department": "ITP",
     "firstName": "Jessica",
@@ -14265,7 +14304,7 @@
     "department": "BIO",
     "firstName": "Matt",
     "lastName": "Ritter",
-    "numEvals": 104,
+    "numEvals": 105,
     "overallRating": 3.74,
     "materialClear": 3.79,
     "studentDifficulties": 3.68,
@@ -15700,6 +15739,19 @@
       "MATH 419",
       "MATH 442",
       "MATH 443"
+    ]
+  },
+  {
+    "id": "8ba3f348-3512-416b-ba99-eb06d55f2127",
+    "department": "MATH",
+    "firstName": "Patrick",
+    "lastName": "Orson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
     ]
   },
   {
@@ -18386,6 +18438,19 @@
     ]
   },
   {
+    "id": "a546008e-c378-4b50-b7f4-b882eca5d604",
+    "department": "EE",
+    "firstName": "Brendan",
+    "lastName": "Rhatigan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "EE"
+    ]
+  },
+  {
     "id": "a570f3a3-0c5b-435d-a7da-2fedad18c3a0",
     "department": "ARCH",
     "firstName": "Emily",
@@ -20453,6 +20518,19 @@
     ]
   },
   {
+    "id": "bc612d3b-2f51-4ad6-99ff-eaf54d176254",
+    "department": "AGB",
+    "firstName": "Lucy",
+    "lastName": "McGowan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "AGB"
+    ]
+  },
+  {
     "id": "bc813f7a-f19b-4ed1-b80d-88163a4b8539",
     "department": "BUS",
     "firstName": "Norm",
@@ -21569,6 +21647,19 @@
     ]
   },
   {
+    "id": "c79362fb-b5e6-4f81-8838-d785380cc966",
+    "department": "BIO",
+    "firstName": "Mallary",
+    "lastName": "Greenly-Wacker",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "BIO"
+    ]
+  },
+  {
     "id": "c7b11934-d727-4d1f-a5f4-8d22d2896757",
     "department": "CSC",
     "firstName": "John",
@@ -21640,6 +21731,19 @@
     "courses": [
       "DSCI 330",
       "DSCI 420"
+    ]
+  },
+  {
+    "id": "c8890b55-bc59-45e5-b5a8-7858e3863add",
+    "department": "POLS",
+    "firstName": "Kathryn",
+    "lastName": "Mulholland",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "POLS"
     ]
   },
   {
@@ -22178,6 +22282,19 @@
       "GEOG 370",
       "SOC 370",
       "GEOG 408"
+    ]
+  },
+  {
+    "id": "ce650533-6d2d-45e9-abe4-8a46c18a1bf9",
+    "department": "IME",
+    "firstName": "Bryan",
+    "lastName": "Lutz",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "IME"
     ]
   },
   {
@@ -24030,10 +24147,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 55,
-    "materialClear": 2.46,
-    "studentDifficulties": 2.44,
-    "overallRating": 2.46,
+    "numEvals": 56,
+    "overallRating": 2.47,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.45,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -25096,6 +25213,19 @@
     "courses": [
       "ASCI 221",
       "ASCI 222"
+    ]
+  },
+  {
+    "id": "e96a96cb-3de2-41ad-8909-e46e3b6ba16b",
+    "department": "ES",
+    "firstName": "Dan ",
+    "lastName": "Castilow ",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
     ]
   },
   {
