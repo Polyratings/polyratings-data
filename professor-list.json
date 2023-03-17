@@ -11095,15 +11095,16 @@
     "department": "BIO",
     "firstName": "Jason",
     "lastName": "Blank",
-    "numEvals": 22,
-    "overallRating": 2.14,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.09,
+    "numEvals": 23,
+    "overallRating": 2.22,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.13,
     "courses": [
       "BIO 161",
       "BIO 162",
       "BIO 361",
-      "BIO 433"
+      "BIO 433",
+      "BIO 409"
     ]
   },
   {
@@ -13218,10 +13219,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 55,
-    "overallRating": 3.41,
-    "materialClear": 3.35,
-    "studentDifficulties": 3.41,
+    "numEvals": 56,
+    "overallRating": 3.42,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.42,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -16804,9 +16805,9 @@
     "department": "PHYS",
     "firstName": "Hilary",
     "lastName": "Jacks",
-    "numEvals": 4,
-    "overallRating": 1.5,
-    "materialClear": 2.25,
+    "numEvals": 5,
+    "overallRating": 1.4,
+    "materialClear": 1.8,
     "studentDifficulties": 3,
     "courses": [
       "PHYS 133",
