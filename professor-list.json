@@ -355,6 +355,19 @@
     ]
   },
   {
+    "id": "0351fa69-28bb-44a9-8e15-98d3f296f0ec",
+    "department": "ME",
+    "firstName": "Carlos",
+    "lastName": "Soto",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ]
+  },
+  {
     "id": "03614e87-82c5-4cc8-b96e-760137c06b49",
     "department": "BUS",
     "firstName": "Lei-da",
@@ -6748,10 +6761,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 54,
-    "overallRating": 2.39,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.24,
+    "numEvals": 53,
+    "overallRating": 2.44,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.28,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -16262,6 +16275,19 @@
     "overallRating": 1.5,
     "courses": [
       "BIO 231"
+    ]
+  },
+  {
+    "id": "906ab2bb-3cf6-4a58-9b2d-238d52d81ea6",
+    "department": "COMS",
+    "firstName": "Alexa",
+    "lastName": "Loken",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
     ]
   },
   {
