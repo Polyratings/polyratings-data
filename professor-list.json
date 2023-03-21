@@ -4095,10 +4095,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 127,
-    "materialClear": 2.92,
-    "studentDifficulties": 2.9,
-    "overallRating": 2.86,
+    "numEvals": 128,
+    "overallRating": 2.85,
+    "materialClear": 2.91,
+    "studentDifficulties": 2.89,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -9575,16 +9575,17 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 33,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.4,
-    "overallRating": 3.4,
+    "numEvals": 34,
+    "overallRating": 3.42,
+    "materialClear": 3.52,
+    "studentDifficulties": 3.42,
     "courses": [
       "HIST 110",
       "HIST 111",
       "HIST 303",
       "HIST 334",
-      "HIST 441"
+      "HIST 441",
+      "HIST 225"
     ]
   },
   {
@@ -11368,12 +11369,13 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
-    "materialClear": 4,
+    "materialClear": 3,
     "studentDifficulties": 1,
     "courses": [
-      "MATH"
+      "MATH",
+      "MATH 141"
     ]
   },
   {
@@ -13228,10 +13230,10 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 115,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.52,
+    "numEvals": 116,
     "overallRating": 3.48,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.52,
     "courses": [
       "STAT 221",
       "STAT 251",
@@ -18217,7 +18219,7 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 138,
+    "numEvals": 139,
     "overallRating": 2.29,
     "materialClear": 2.39,
     "studentDifficulties": 2.02,
