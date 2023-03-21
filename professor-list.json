@@ -1554,12 +1554,14 @@
     "department": "MATH",
     "firstName": "Vanessa",
     "lastName": "Newsome-Slade",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 0,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
-      "MATH"
+      "MATH",
+      "MATH 118",
+      "MATH 161"
     ]
   },
   {
@@ -7425,12 +7427,13 @@
     "department": "ARCE",
     "firstName": "Anahid",
     "lastName": "Behrouzi",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ARCE 212"
+      "ARCE 212",
+      "ARCE 371"
     ]
   },
   {
