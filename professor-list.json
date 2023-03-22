@@ -12054,15 +12054,16 @@
     "department": "POLS",
     "firstName": "Sada",
     "lastName": "Andrews",
-    "numEvals": 13,
-    "overallRating": 3.65,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.65,
+    "numEvals": 14,
+    "overallRating": 3.68,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.68,
     "courses": [
       "POLS 180",
       "POLS 225",
       "POLS 426",
-      "POLS 245"
+      "POLS 245",
+      "POLS 334"
     ]
   },
   {
@@ -13001,10 +13002,10 @@
     "department": "MATH",
     "firstName": "Dana",
     "lastName": "Paquin",
-    "numEvals": 47,
-    "materialClear": 3.79,
+    "numEvals": 48,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
     "studentDifficulties": 3.85,
-    "overallRating": 3.79,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -13041,7 +13042,7 @@
     "department": "CSC",
     "firstName": "Kirsten",
     "lastName": "Mork",
-    "numEvals": 3,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -13068,10 +13069,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 94,
-    "overallRating": 2.68,
-    "materialClear": 2.78,
-    "studentDifficulties": 2.56,
+    "numEvals": 96,
+    "overallRating": 2.7,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.55,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -18196,12 +18197,13 @@
     "department": "MATH",
     "firstName": "Stathis",
     "lastName": "Charalampidis",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH",
+      "MATH 244"
     ]
   },
   {
@@ -19930,10 +19932,10 @@
     "department": "POLS",
     "firstName": "Martin",
     "lastName": "Battle",
-    "numEvals": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
-    "overallRating": 2.75,
+    "numEvals": 4,
+    "overallRating": 3.06,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.25,
     "courses": [
       "POLS 112",
       "POLS 361"
@@ -25460,10 +25462,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 25,
-    "overallRating": 2.66,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.39,
+    "numEvals": 26,
+    "overallRating": 2.63,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.38,
     "courses": [
       "ENGL 134",
       "ENGL 149",
