@@ -7786,7 +7786,7 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 83,
+    "numEvals": 84,
     "overallRating": 2.96,
     "materialClear": 2.98,
     "studentDifficulties": 2.79,
@@ -12573,10 +12573,10 @@
     "department": "COMS",
     "firstName": "Jeremy",
     "lastName": "Teitelbaum",
-    "numEvals": 177,
-    "overallRating": 1.86,
+    "numEvals": 178,
+    "overallRating": 1.87,
     "materialClear": 2.18,
-    "studentDifficulties": 1.68,
+    "studentDifficulties": 1.69,
     "courses": [
       "HNRS 101",
       "SCM 101",
@@ -14364,10 +14364,10 @@
     "department": "KINE",
     "firstName": "Don",
     "lastName": "Clegg",
-    "numEvals": 47,
-    "overallRating": 3.15,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.17,
+    "numEvals": 48,
+    "overallRating": 3.17,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.19,
     "courses": [
       "KINE 180",
       "KINE 200",
@@ -14376,7 +14376,8 @@
       "KINE 270",
       "KINE 303",
       "KINE 452",
-      "KINE 585"
+      "KINE 585",
+      "HLTH 250"
     ]
   },
   {
@@ -19631,9 +19632,9 @@
     "department": "ES",
     "firstName": "Lydia ",
     "lastName": "Heberling",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
@@ -21703,12 +21704,13 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 1,
-    "overallRating": 0,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2.5,
+    "studentDifficulties": 3,
     "courses": [
-      "BIO"
+      "BIO",
+      "BIO 161"
     ]
   },
   {
@@ -25464,10 +25466,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 26,
-    "overallRating": 2.63,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.38,
+    "numEvals": 27,
+    "overallRating": 2.61,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.4,
     "courses": [
       "ENGL 134",
       "ENGL 149",
