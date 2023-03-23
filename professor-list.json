@@ -9768,12 +9768,13 @@
     "department": "ASCI",
     "firstName": "McFarlane",
     "lastName": "Zach",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AEPS 221"
+      "AEPS 221",
+      "ASCI 112"
     ]
   },
   {
@@ -27984,9 +27985,9 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 34,
+    "numEvals": 35,
     "overallRating": 2,
-    "materialClear": 2.06,
+    "materialClear": 2.09,
     "studentDifficulties": 1.84,
     "courses": [
       "BIO 161",
