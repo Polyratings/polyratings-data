@@ -3076,10 +3076,10 @@
     "department": "CSC",
     "firstName": "Aaron",
     "lastName": "Keen",
-    "numEvals": 88,
-    "overallRating": 2.86,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.75,
+    "numEvals": 89,
+    "overallRating": 2.87,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.76,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -10465,10 +10465,10 @@
     "department": "STAT",
     "firstName": "Matt",
     "lastName": "Carlton",
-    "numEvals": 112,
-    "overallRating": 3.71,
+    "numEvals": 113,
+    "overallRating": 3.69,
     "materialClear": 3.75,
-    "studentDifficulties": 3.65,
+    "studentDifficulties": 3.64,
     "courses": [
       "MATH 118",
       "STAT 130",
@@ -11372,13 +11372,14 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 1,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 0.67,
     "courses": [
       "MATH",
-      "MATH 141"
+      "MATH 141",
+      "MATH 161"
     ]
   },
   {
@@ -12202,12 +12203,13 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2,
+    "studentDifficulties": 2.33,
     "courses": [
-      "CE 204"
+      "CE 204",
+      "CE 207"
     ]
   },
   {
@@ -25760,7 +25762,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 181,
+    "numEvals": 182,
     "overallRating": 3.46,
     "materialClear": 3.44,
     "studentDifficulties": 3.27,
