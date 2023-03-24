@@ -6083,12 +6083,13 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 1.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "STAT"
+      "STAT",
+      "STAT 312"
     ]
   },
   {
@@ -6947,10 +6948,10 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 257,
-    "overallRating": 2.36,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.47,
+    "numEvals": 258,
+    "overallRating": 2.37,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.48,
     "courses": [
       "ECON 111",
       "ECON 201",
@@ -23871,10 +23872,10 @@
     "department": "CSC",
     "firstName": "Zachary",
     "lastName": "Peterson",
-    "numEvals": 17,
-    "overallRating": 3.7,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.53,
+    "numEvals": 18,
+    "overallRating": 3.72,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.56,
     "courses": [
       "CPE 123",
       "CSC 123",
