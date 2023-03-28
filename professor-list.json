@@ -5422,6 +5422,19 @@
     ]
   },
   {
+    "id": "2f64b22e-2a22-4908-9bfe-d528077127e4",
+    "department": "BUS",
+    "firstName": "Neal",
+    "lastName": "King",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 0,
+    "courses": [
+      "BUS"
+    ]
+  },
+  {
     "id": "2f832159-0417-459d-8592-8bf20c99a0cb",
     "department": "CSC",
     "firstName": "Clint",
@@ -10930,13 +10943,14 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "MATH",
-      "MATH 141"
+      "MATH 141",
+      "MATH 142"
     ]
   },
   {
@@ -21757,10 +21771,10 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "BIO",
       "BIO 161"
@@ -22977,12 +22991,12 @@
   {
     "id": "d4e754bf-3d8c-4691-ad71-e63718d44e9d",
     "department": "WVIT",
-    "firstName": "Beniot ",
-    "lastName": "LECAT",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 1,
+    "firstName": "Beno\u00eet",
+    "lastName": "Lecat",
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2.5,
     "courses": [
       "WVIT 102"
     ]
