@@ -3142,6 +3142,19 @@
     ]
   },
   {
+    "id": "19653bbf-c0d6-4566-a705-bcb4f918fe03",
+    "department": "CHEM",
+    "firstName": "Joanna",
+    "lastName": "Laird",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "CHEM"
+    ]
+  },
+  {
     "id": "196c694c-01cd-4de6-b8eb-ef14e3b0aa54",
     "department": "CSC",
     "firstName": "Clark",
@@ -3408,6 +3421,19 @@
     "studentDifficulties": 4,
     "courses": [
       "COMS"
+    ]
+  },
+  {
+    "id": "1b4c80d6-db66-44b7-969a-aac54b063301",
+    "department": "BIO",
+    "firstName": "Robert",
+    "lastName": "Schroeter",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BIO"
     ]
   },
   {
@@ -13073,9 +13099,9 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 97,
-    "overallRating": 2.71,
-    "materialClear": 2.81,
+    "numEvals": 96,
+    "overallRating": 2.7,
+    "materialClear": 2.8,
     "studentDifficulties": 2.55,
     "courses": [
       "CPE 101",
@@ -15186,12 +15212,11 @@
     "department": "CHEM",
     "firstName": "Corinne",
     "lastName": "Lehr",
-    "numEvals": 45,
+    "numEvals": 43,
+    "overallRating": 1.91,
     "materialClear": 1.88,
     "studentDifficulties": 1.92,
-    "overallRating": 1.93,
     "courses": [
-      "CHEM 101",
       "CHEM 110",
       "CHEM 128",
       "CHEM 129",
@@ -16685,6 +16710,19 @@
       "BUS 215",
       "BUS 412",
       "BUS 429"
+    ]
+  },
+  {
+    "id": "9426f0cb-0740-43c2-a873-8e957ff54873",
+    "department": "ECON",
+    "firstName": "Joseph",
+    "lastName": "Kuehn",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "ECON"
     ]
   },
   {
@@ -18829,6 +18867,19 @@
       "COMS 102",
       "PSY 302",
       "PSY 329"
+    ]
+  },
+  {
+    "id": "a97b65a5-6db1-470b-b050-257efe36d4cd",
+    "department": "SS",
+    "firstName": "Rebecca",
+    "lastName": "Graham",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "SS"
     ]
   },
   {
@@ -23438,6 +23489,19 @@
       "CE 351",
       "CE 356",
       "CE 208"
+    ]
+  },
+  {
+    "id": "d8225544-f231-4d41-a7f4-86a8424686f2",
+    "department": "ME",
+    "firstName": "Mohammad",
+    "lastName": "Hasan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
     ]
   },
   {
