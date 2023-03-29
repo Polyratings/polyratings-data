@@ -3662,12 +3662,13 @@
     "department": "PHYS",
     "firstName": "Benjamin",
     "lastName": "Shlaer",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "PHYS"
+      "PHYS",
+      "PHYS 142"
     ]
   },
   {
@@ -6089,12 +6090,13 @@
     "department": "IME",
     "firstName": "Eric",
     "lastName": "Pulse",
-    "numEvals": 10,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.73,
-    "overallRating": 3.64,
+    "numEvals": 11,
+    "overallRating": 3.67,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.75,
     "courses": [
-      "IME 143"
+      "IME 143",
+      "IME 145"
     ]
   },
   {
@@ -7045,10 +7047,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 16,
-    "materialClear": 2.1,
-    "studentDifficulties": 2.55,
-    "overallRating": 2.55,
+    "numEvals": 17,
+    "overallRating": 2.52,
+    "materialClear": 2.09,
+    "studentDifficulties": 2.52,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -15362,13 +15364,15 @@
     "department": "MATH",
     "firstName": "Marvin",
     "lastName": "McClendon",
-    "numEvals": 6,
-    "overallRating": 0.33,
-    "materialClear": 0.17,
-    "studentDifficulties": 0.5,
+    "numEvals": 8,
+    "overallRating": 0.37,
+    "materialClear": 0.13,
+    "studentDifficulties": 0.62,
     "courses": [
       "MATH 143",
-      "MATH 118"
+      "MATH 118",
+      "STAT 141",
+      "MATH 141"
     ]
   },
   {
@@ -17751,10 +17755,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 20,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.71,
-    "overallRating": 2.81,
+    "numEvals": 21,
+    "overallRating": 2.87,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.77,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -17762,7 +17766,8 @@
       "MATH 229",
       "MATH 242",
       "MATH 300",
-      "MATH 329"
+      "MATH 329",
+      "MATH 143"
     ]
   },
   {
@@ -21616,10 +21621,10 @@
     "department": "MATH",
     "firstName": "Lawrence",
     "lastName": "Sze",
-    "numEvals": 160,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.54,
+    "numEvals": 161,
     "overallRating": 2.49,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.54,
     "courses": [
       "MATH 118",
       "MATH 141",
