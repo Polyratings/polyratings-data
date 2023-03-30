@@ -2466,10 +2466,10 @@
     "department": "BIO",
     "firstName": "Francis",
     "lastName": "Villablanca",
-    "numEvals": 47,
-    "materialClear": 2.45,
-    "studentDifficulties": 2.3,
-    "overallRating": 2.28,
+    "numEvals": 48,
+    "overallRating": 2.32,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.34,
     "courses": [
       "BIO 213",
       "BIO 321",
@@ -2596,10 +2596,10 @@
     "department": "ENGL",
     "firstName": "Regulus",
     "lastName": "Allen",
-    "numEvals": 48,
-    "materialClear": 2.3,
-    "studentDifficulties": 1.75,
-    "overallRating": 1.85,
+    "numEvals": 49,
+    "overallRating": 1.87,
+    "materialClear": 2.31,
+    "studentDifficulties": 1.78,
     "courses": [
       "ENGL 205",
       "ENGL 230",
@@ -4681,10 +4681,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Battenburg",
-    "numEvals": 16,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.11,
-    "overallRating": 3.5,
+    "numEvals": 17,
+    "overallRating": 3.47,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.04,
     "courses": [
       "ENGL 240",
       "ENGL 253",
@@ -17910,10 +17910,10 @@
     "department": "HIST",
     "firstName": "Elizabeth",
     "lastName": "Sine",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "HIST 202"
     ]
@@ -19891,14 +19891,15 @@
     "department": "BIO",
     "firstName": "Cilnton",
     "lastName": "Francis",
-    "numEvals": 12,
-    "materialClear": 2.23,
-    "studentDifficulties": 2.38,
-    "overallRating": 2.31,
+    "numEvals": 14,
+    "overallRating": 2.55,
+    "materialClear": 2.49,
+    "studentDifficulties": 2.61,
     "courses": [
       "ZOO 323",
       "BIO 401",
-      "BIO 445"
+      "BIO 445",
+      "BIO 323"
     ]
   },
   {
@@ -25484,10 +25485,10 @@
     "department": "BIO",
     "firstName": "Lars",
     "lastName": "Tomanek",
-    "numEvals": 11,
-    "materialClear": 1.64,
-    "studentDifficulties": 2.09,
-    "overallRating": 1.82,
+    "numEvals": 12,
+    "overallRating": 1.84,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.08,
     "courses": [
       "BIO 162",
       "BIO 324",
@@ -25595,15 +25596,16 @@
     "department": "ENGL",
     "firstName": "Dawn",
     "lastName": "Janke",
-    "numEvals": 7,
-    "materialClear": 3.13,
-    "studentDifficulties": 3.38,
-    "overallRating": 3.25,
+    "numEvals": 8,
+    "overallRating": 3.34,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.46,
     "courses": [
       "ENGL 133",
       "ENGL 134",
       "ENGL 145",
-      "ENGL 364"
+      "ENGL 364",
+      "ENGL 368"
     ]
   },
   {
@@ -26974,7 +26976,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
