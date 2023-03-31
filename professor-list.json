@@ -5278,12 +5278,13 @@
     "department": "ENGL",
     "firstName": "Christopher",
     "lastName": "Hayter",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
     "materialClear": 0,
     "studentDifficulties": 2,
     "courses": [
-      "ENGL"
+      "ENGL",
+      "ENGL 145"
     ]
   },
   {
@@ -27211,9 +27212,9 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 60,
-    "overallRating": 3.29,
-    "materialClear": 3.4,
+    "numEvals": 61,
+    "overallRating": 3.3,
+    "materialClear": 3.41,
     "studentDifficulties": 3.16,
     "courses": [
       "BIO 112",
