@@ -7212,10 +7212,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 20,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.81,
-    "overallRating": 3.76,
+    "numEvals": 22,
+    "overallRating": 3.78,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.83,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -11642,10 +11642,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Ashley",
-    "numEvals": 58,
-    "materialClear": 3.05,
-    "studentDifficulties": 3.02,
-    "overallRating": 3.08,
+    "numEvals": 59,
+    "overallRating": 3.1,
+    "materialClear": 3.07,
+    "studentDifficulties": 3.04,
     "courses": [
       "ENGL 134",
       "ENGL 143",
@@ -15318,13 +15318,14 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
-      "PHYS 143"
+      "PHYS 143",
+      "PSY 142"
     ]
   },
   {
@@ -19875,17 +19876,18 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 49,
-    "overallRating": 2.83,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.62,
+    "numEvals": 50,
+    "overallRating": 2.85,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.65,
     "courses": [
       "ME 129",
       "ME 130",
       "ME 151",
       "ME 211",
       "ME 212",
-      "ME 228"
+      "ME 228",
+      "ME 251"
     ]
   },
   {
