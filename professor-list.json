@@ -1879,6 +1879,19 @@
     ]
   },
   {
+    "id": "0f3bb44c-6cc4-4c4f-aa88-fe6ebc3ea40b",
+    "department": "ME",
+    "firstName": "Ben",
+    "lastName": "Lutz",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ]
+  },
+  {
     "id": "0f476bc1-9830-447c-a1da-a484d9356991",
     "department": "CSC",
     "firstName": "David",
@@ -2421,6 +2434,19 @@
       "PHYS 141",
       "EE 242",
       "EE 301"
+    ]
+  },
+  {
+    "id": "13d63b30-4c27-4cc5-a201-f0f2c9e0fd70",
+    "department": "ME",
+    "firstName": "Jacques",
+    "lastName": "Belanger",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
     ]
   },
   {
@@ -6086,6 +6112,19 @@
       "ME 229",
       "ME 234",
       "ME 240"
+    ]
+  },
+  {
+    "id": "35492fe1-2167-44a7-9717-1226bbac1710",
+    "department": "CPE",
+    "firstName": "Joseph",
+    "lastName": "Callenes-Sloan",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "CPE"
     ]
   },
   {
@@ -13619,10 +13658,10 @@
     "department": "CE",
     "firstName": "Eric",
     "lastName": "Kasper",
-    "numEvals": 73,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.61,
-    "overallRating": 2.62,
+    "numEvals": 74,
+    "overallRating": 2.63,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.6,
     "courses": [
       "CE 201",
       "CE 204",
@@ -13690,6 +13729,19 @@
     "overallRating": 2.92,
     "courses": [
       "BUS 434"
+    ]
+  },
+  {
+    "id": "7a3ef25a-14ac-467c-bbb8-377bbe0d0c72",
+    "department": "ME",
+    "firstName": "Lauren",
+    "lastName": "Rueda",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
     ]
   },
   {
@@ -14001,6 +14053,19 @@
     "studentDifficulties": 4,
     "courses": [
       "CM 232"
+    ]
+  },
+  {
+    "id": "7cb965d5-fe0a-4b69-bc8f-b60680ccb7d8",
+    "department": "ES",
+    "firstName": "Jorge",
+    "lastName": "Moraga",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "ES"
     ]
   },
   {
@@ -18702,6 +18767,19 @@
       "FSN 310",
       "FSN 416",
       "FSN 429"
+    ]
+  },
+  {
+    "id": "a7437c8a-f803-4f88-a845-9e110f52f105",
+    "department": "ME",
+    "firstName": "Ramanan",
+    "lastName": "Sritharan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
     ]
   },
   {
@@ -26763,6 +26841,19 @@
     "overallRating": 1.67,
     "courses": [
       "AGB 213"
+    ]
+  },
+  {
+    "id": "f62173af-02b3-4312-8da8-32e6f5015c3d",
+    "department": "STAT",
+    "firstName": "Zoe",
+    "lastName": "Rehnberg",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "STAT"
     ]
   },
   {
