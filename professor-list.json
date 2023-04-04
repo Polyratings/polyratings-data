@@ -4134,10 +4134,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 76,
-    "overallRating": 3.44,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.5,
+    "numEvals": 77,
+    "overallRating": 3.45,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.51,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -6457,10 +6457,10 @@
     "department": "MATH",
     "firstName": "Goro",
     "lastName": "Kato",
-    "numEvals": 191,
-    "materialClear": 3.01,
-    "studentDifficulties": 2.92,
+    "numEvals": 192,
     "overallRating": 3.09,
+    "materialClear": 3.02,
+    "studentDifficulties": 2.93,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -7089,10 +7089,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 17,
-    "overallRating": 2.52,
-    "materialClear": 2.09,
-    "studentDifficulties": 2.52,
+    "numEvals": 18,
+    "overallRating": 2.49,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.49,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -7251,16 +7251,17 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 22,
-    "overallRating": 3.78,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.83,
+    "numEvals": 23,
+    "overallRating": 3.75,
+    "materialClear": 3.84,
+    "studentDifficulties": 3.79,
     "courses": [
       "CPE 101",
       "CPE 103",
       "MATH 118",
       "CPE 202",
-      "MATH 221"
+      "MATH 221",
+      "CSC 430"
     ]
   },
   {
@@ -13736,12 +13737,13 @@
     "department": "ME",
     "firstName": "Lauren",
     "lastName": "Rueda",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
+      "ME",
+      "ME 128"
     ]
   },
   {
@@ -15383,14 +15385,15 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
       "PHYS 143",
-      "PSY 142"
+      "PSY 142",
+      "PHYS 141"
     ]
   },
   {
@@ -15433,10 +15436,10 @@
     "department": "MATH",
     "firstName": "Marvin",
     "lastName": "McClendon",
-    "numEvals": 9,
-    "overallRating": 0.44,
-    "materialClear": 0.12,
-    "studentDifficulties": 0.77,
+    "numEvals": 10,
+    "overallRating": 0.4,
+    "materialClear": 0.21,
+    "studentDifficulties": 0.69,
     "courses": [
       "MATH 143",
       "MATH 118",
@@ -15648,17 +15651,18 @@
     "department": "ENGL",
     "firstName": "Brenda",
     "lastName": "Helmbrecht",
-    "numEvals": 12,
-    "materialClear": 2.59,
-    "studentDifficulties": 2.27,
-    "overallRating": 2.46,
+    "numEvals": 13,
+    "overallRating": 2.58,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.4,
     "courses": [
       "ENGL 134",
       "WS 301",
       "ENGL 371",
       "ENGL 469",
       "ENGL 505",
-      "ENGL 220"
+      "ENGL 220",
+      "ENGL 373"
     ]
   },
   {
@@ -16980,10 +16984,10 @@
     "department": "PHYS",
     "firstName": "Hilary",
     "lastName": "Jacks",
-    "numEvals": 5,
-    "overallRating": 1.4,
-    "materialClear": 1.8,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 1.33,
+    "materialClear": 1.83,
+    "studentDifficulties": 2.83,
     "courses": [
       "PHYS 133",
       "PHYS 141"
@@ -18308,10 +18312,10 @@
     "department": "CE",
     "firstName": "Gregg",
     "lastName": "Fiegel",
-    "numEvals": 45,
-    "materialClear": 3.32,
-    "studentDifficulties": 3.34,
-    "overallRating": 3.53,
+    "numEvals": 46,
+    "overallRating": 3.5,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.29,
     "courses": [
       "CE 111",
       "CE 114",
@@ -18320,7 +18324,8 @@
       "CE 381",
       "CE 382",
       "CE 481",
-      "CE 581"
+      "CE 581",
+      "CE 112"
     ]
   },
   {
@@ -24807,10 +24812,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Bellardo",
-    "numEvals": 34,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.34,
-    "overallRating": 2.51,
+    "numEvals": 35,
+    "overallRating": 2.55,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.39,
     "courses": [
       "CSC 101",
       "CPE 123",
@@ -24823,7 +24828,8 @@
       "CPE 464",
       "CSC 464",
       "CSC 465",
-      "CPE 569"
+      "CPE 569",
+      "CPE 315"
     ]
   },
   {
@@ -24966,10 +24972,10 @@
     "department": "PHIL",
     "firstName": "Jacob",
     "lastName": "Sparks",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 3.5,
+    "studentDifficulties": 2.75,
     "courses": [
       "PHIL 323"
     ]
