@@ -8323,10 +8323,10 @@
     "department": "BIO",
     "firstName": "Edward",
     "lastName": "Himelblau",
-    "numEvals": 69,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.56,
-    "overallRating": 3.56,
+    "numEvals": 70,
+    "overallRating": 3.57,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.57,
     "courses": [
       "BIO 161",
       "BIO 162",
@@ -9642,8 +9642,8 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 83,
-    "overallRating": 2.12,
+    "numEvals": 84,
+    "overallRating": 2.13,
     "materialClear": 2.07,
     "studentDifficulties": 2.28,
     "courses": [
@@ -11140,12 +11140,13 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Long",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CHEM 312"
+      "CHEM 312",
+      "CHEM 127"
     ]
   },
   {
@@ -11199,10 +11200,10 @@
     "department": "BIO",
     "firstName": "Jason",
     "lastName": "Blank",
-    "numEvals": 23,
-    "overallRating": 2.22,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.13,
+    "numEvals": 24,
+    "overallRating": 2.25,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.21,
     "courses": [
       "BIO 161",
       "BIO 162",
@@ -16224,10 +16225,10 @@
     "department": "ASCI",
     "firstName": "Mark",
     "lastName": "Edwards",
-    "numEvals": 39,
-    "materialClear": 2.58,
-    "studentDifficulties": 2.12,
-    "overallRating": 2.33,
+    "numEvals": 41,
+    "overallRating": 2.37,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.16,
     "courses": [
       "ASCI 112",
       "ASCI 220",
@@ -17548,10 +17549,10 @@
     "department": "CHEM",
     "firstName": "Tammy",
     "lastName": "Campbell",
-    "numEvals": 38,
+    "numEvals": 39,
+    "overallRating": 1.37,
     "materialClear": 1.18,
-    "studentDifficulties": 1.64,
-    "overallRating": 1.38,
+    "studentDifficulties": 1.65,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -25465,12 +25466,13 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ES 255"
+      "ES 255",
+      "WGS 345"
     ]
   },
   {
