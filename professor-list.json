@@ -4,10 +4,10 @@
     "department": "CHEM",
     "firstName": "Parisa",
     "lastName": "Mahjoor",
-    "numEvals": 19,
+    "numEvals": 18,
+    "overallRating": 0.64,
     "materialClear": 0.82,
     "studentDifficulties": 0.45,
-    "overallRating": 0.64,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -2438,6 +2438,19 @@
     ]
   },
   {
+    "id": "138f93c1-0d91-486f-a7ef-c736eebd6204",
+    "department": "CSC",
+    "firstName": "Dev ",
+    "lastName": "Sisodia",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "CPE"
+    ]
+  },
+  {
     "id": "13d63b30-4c27-4cc5-a201-f0f2c9e0fd70",
     "department": "ME",
     "firstName": "Jacques",
@@ -3497,6 +3510,19 @@
     "overallRating": 2.5,
     "courses": [
       "PHYS 101"
+    ]
+  },
+  {
+    "id": "1b9d4df4-308e-4d2a-8934-4466335e6429",
+    "department": "ENGL",
+    "firstName": "Krista",
+    "lastName": "Sarraf",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
     ]
   },
   {
@@ -4756,6 +4782,19 @@
     ]
   },
   {
+    "id": "2904107f-6ddc-4802-8d52-942f508eb914",
+    "department": "ENGL",
+    "firstName": "Isabell ",
+    "lastName": "Garcia",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "ENGL"
+    ]
+  },
+  {
     "id": "29249276-e853-4975-9ad2-78d6104054a1",
     "department": "MATH",
     "firstName": "Jason",
@@ -5141,6 +5180,19 @@
     "courses": [
       "LS 230",
       "LS 250"
+    ]
+  },
+  {
+    "id": "2ce31b5d-c4ff-45cb-bc2e-b56063a4d05d",
+    "department": "ME",
+    "firstName": "Stephen",
+    "lastName": "Kwok-Choon",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
     ]
   },
   {
@@ -11638,6 +11690,19 @@
     ]
   },
   {
+    "id": "682158d5-f9b3-4f25-b88d-571bd7bdd3d5",
+    "department": "IME",
+    "firstName": "Jeff",
+    "lastName": "Zimmerman",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "IME"
+    ]
+  },
+  {
     "id": "6886828d-ba6e-4183-9343-a18fdaf6219a",
     "department": "CHEM",
     "firstName": "Ray",
@@ -12287,6 +12352,19 @@
       "ASCI 223",
       "ASCI 405",
       "ASCI 450"
+    ]
+  },
+  {
+    "id": "6fb88aa6-9be8-4266-a82c-c3e945deb0df",
+    "department": "STAT",
+    "firstName": "Emily",
+    "lastName": "Robinson",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "STAT"
     ]
   },
   {
@@ -14356,10 +14434,10 @@
     "department": "MATH",
     "firstName": "Erin",
     "lastName": "Pearse",
-    "numEvals": 43,
-    "overallRating": 2.94,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.94,
+    "numEvals": 42,
+    "overallRating": 2.99,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.99,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -14622,6 +14700,19 @@
     "studentDifficulties": 3,
     "courses": [
       "CRSC 133"
+    ]
+  },
+  {
+    "id": "815c1251-26d1-4bc3-a076-678d956e94e9",
+    "department": "HLTH",
+    "firstName": "Laura",
+    "lastName": "Yassa",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "HLTH"
     ]
   },
   {
@@ -16228,10 +16319,10 @@
     "department": "ASCI",
     "firstName": "Mark",
     "lastName": "Edwards",
-    "numEvals": 41,
-    "overallRating": 2.37,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.16,
+    "numEvals": 40,
+    "overallRating": 2.35,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.14,
     "courses": [
       "ASCI 112",
       "ASCI 220",
@@ -16525,6 +16616,20 @@
       "CPE 101",
       "CSC 102",
       "CSC 141"
+    ]
+  },
+  {
+    "id": "90e0b35c-af79-46c7-aca2-f3983e59d872",
+    "department": "CSC",
+    "firstName": "Rodrigo",
+    "lastName": "Canaan",
+    "numEvals": 2,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CSC",
+      "CSC 349"
     ]
   },
   {
@@ -21018,10 +21123,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 88,
-    "overallRating": 1.69,
-    "materialClear": 1.58,
-    "studentDifficulties": 1.77,
+    "numEvals": 87,
+    "overallRating": 1.66,
+    "materialClear": 1.55,
+    "studentDifficulties": 1.74,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -21808,6 +21913,19 @@
     ]
   },
   {
+    "id": "c6ebb945-014a-4e2b-b2a3-b1027e059e56",
+    "department": "STAT",
+    "firstName": "Jerry",
+    "lastName": "Balakrishnan",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "STAT"
+    ]
+  },
+  {
     "id": "c6fc3446-df7a-44d5-9e5d-034a66ec0dc2",
     "department": "HIST",
     "firstName": "Jason",
@@ -21824,6 +21942,19 @@
       "HIST 221",
       "HIST 222",
       "HIST 441"
+    ]
+  },
+  {
+    "id": "c6fff02e-de89-48d5-8922-d8a512594cb5",
+    "department": "ES",
+    "firstName": "Gabriel",
+    "lastName": "Soldatenko",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
     ]
   },
   {
@@ -25625,6 +25756,19 @@
     ]
   },
   {
+    "id": "ea8375f2-127e-4960-9d00-843e15416758",
+    "department": "COMS",
+    "firstName": "Brooke-Ashley",
+    "lastName": "Lipson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CPE"
+    ]
+  },
+  {
     "id": "eaaf820d-ff5d-4235-921c-07985fd6c248",
     "department": "MU",
     "firstName": "Paul",
@@ -26233,6 +26377,19 @@
       "CD 350",
       "CD 401",
       "CD 430"
+    ]
+  },
+  {
+    "id": "f0fcbe55-5f29-4852-af29-698fc06e8f20",
+    "department": "CSC",
+    "firstName": "Bret",
+    "lastName": "Hartman",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "CSC"
     ]
   },
   {
