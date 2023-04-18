@@ -2133,10 +2133,10 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 40,
+    "numEvals": 41,
+    "overallRating": 3.04,
     "materialClear": 2.98,
     "studentDifficulties": 2.88,
-    "overallRating": 3.02,
     "courses": [
       "ASTR 102",
       "PHYS 121",
@@ -3717,10 +3717,10 @@
     "department": "PHYS",
     "firstName": "Benjamin",
     "lastName": "Shlaer",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "PHYS",
       "PHYS 142"
