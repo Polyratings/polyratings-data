@@ -14939,10 +14939,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 191,
-    "overallRating": 2.61,
-    "materialClear": 2.48,
-    "studentDifficulties": 2.39,
+    "numEvals": 193,
+    "overallRating": 2.63,
+    "materialClear": 2.49,
+    "studentDifficulties": 2.4,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -17278,12 +17278,13 @@
     "department": "CSC",
     "firstName": "Ashlee",
     "lastName": "Pieris",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 2.5,
+    "materialClear": 2.67,
+    "studentDifficulties": 3,
     "courses": [
-      "CSC 202"
+      "CSC 202",
+      "CSC 101"
     ]
   },
   {
@@ -21822,8 +21823,8 @@
     "department": "MATH",
     "firstName": "Lawrence",
     "lastName": "Sze",
-    "numEvals": 161,
-    "overallRating": 2.49,
+    "numEvals": 162,
+    "overallRating": 2.48,
     "materialClear": 2.34,
     "studentDifficulties": 2.54,
     "courses": [
@@ -26092,7 +26093,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 182,
+    "numEvals": 183,
     "overallRating": 3.46,
     "materialClear": 3.44,
     "studentDifficulties": 3.27,
@@ -26666,13 +26667,14 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
-      "PHYS 121"
+      "PHYS 121",
+      "PHYS 143"
     ]
   },
   {
