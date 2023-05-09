@@ -2403,10 +2403,10 @@
     "department": "CSC",
     "firstName": "Mugizi Robert",
     "lastName": "Rwebangira",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 2.8,
+    "materialClear": 2.6,
+    "studentDifficulties": 3,
     "courses": [
       "CSC 248",
       "CPE 202"
@@ -3202,12 +3202,13 @@
     "department": "CHEM",
     "firstName": "Joanna",
     "lastName": "Laird",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 3,
     "studentDifficulties": 2,
     "courses": [
-      "CHEM"
+      "CHEM",
+      "CHEM 124"
     ]
   },
   {
