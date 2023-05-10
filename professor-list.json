@@ -18315,12 +18315,13 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "CHEM"
+      "CHEM",
+      "CHEM 124"
     ]
   },
   {
@@ -24764,10 +24765,10 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 89,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.44,
-    "overallRating": 1.59,
+    "numEvals": 90,
+    "overallRating": 1.62,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.47,
     "courses": [
       "BIO 101",
       "BIO 111",
