@@ -209,14 +209,15 @@
     "department": "EE",
     "firstName": "Taufik",
     "lastName": "Taufik",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "EE 302",
       "EE 212"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "02c296ab-bd67-46c5-8647-5305d6f84824",
