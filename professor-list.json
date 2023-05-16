@@ -12913,10 +12913,10 @@
     "department": "MATH",
     "firstName": "Kate",
     "lastName": "Riley",
-    "numEvals": 77,
-    "overallRating": 3.27,
+    "numEvals": 78,
+    "overallRating": 3.24,
     "materialClear": 3.32,
-    "studentDifficulties": 3.24,
+    "studentDifficulties": 3.21,
     "courses": [
       "MATH 127",
       "MATH 132",
@@ -12931,7 +12931,10 @@
       "MATH 328",
       "MATH 329",
       "MATH 443"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "74446784-fc60-4b91-adf6-b9efe1656d67",
@@ -16041,13 +16044,14 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
-    ]
+      "MATH 248"
+    ],
+    "tags": {}
   },
   {
     "id": "8bb1391d-a16b-47fe-9794-b67b13232e85",
