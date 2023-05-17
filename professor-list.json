@@ -2742,13 +2742,16 @@
     "department": "COMS",
     "firstName": "Lori",
     "lastName": "Temko",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "COMS 101"
-    ]
+    ],
+    "tags": {
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "161914e9-31b0-4df6-bfc4-79b50ef56b32",
@@ -24892,15 +24895,17 @@
     "department": "PHIL",
     "firstName": "Francisco",
     "lastName": "Fernflores",
-    "numEvals": 22,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.96,
-    "overallRating": 2.96,
+    "numEvals": 23,
+    "overallRating": 3.01,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.01,
     "courses": [
       "PHIL 230",
       "PHIL 231",
-      "PHIL 321"
-    ]
+      "PHIL 321",
+      "PHIL 241"
+    ],
+    "tags": {}
   },
   {
     "id": "e2058522-9099-4d8e-94e6-4d7367d7fd7e",
