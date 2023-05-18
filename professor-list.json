@@ -18832,13 +18832,14 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "CSC"
-    ]
+      "CSC 101"
+    ],
+    "tags": {}
   },
   {
     "id": "a5e30926-e729-4fbf-9127-1e30de1a0831",
