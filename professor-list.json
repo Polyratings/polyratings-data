@@ -19804,10 +19804,10 @@
     "department": "CE",
     "firstName": "Nirupam",
     "lastName": "Pal",
-    "numEvals": 67,
-    "materialClear": 1.24,
-    "studentDifficulties": 1.21,
-    "overallRating": 1.21,
+    "numEvals": 68,
+    "overallRating": 1.19,
+    "materialClear": 1.22,
+    "studentDifficulties": 1.19,
     "courses": [
       "ENGR 213",
       "ENVE 216",
@@ -19820,7 +19820,10 @@
       "ENVE 455",
       "ENGR 581",
       "ENGR 582"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "b14f945c-4f66-4a52-b1f0-27ec78940f59",
