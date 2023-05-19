@@ -13563,10 +13563,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 58,
-    "overallRating": 2.03,
-    "materialClear": 1.89,
-    "studentDifficulties": 2.08,
+    "numEvals": 59,
+    "overallRating": 2,
+    "materialClear": 1.86,
+    "studentDifficulties": 2.04,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -13578,7 +13578,12 @@
       "CSC 202",
       "CPE 203",
       "CSC 203"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "7794a3b9-2746-4fc2-aec5-000d759b1e49",
