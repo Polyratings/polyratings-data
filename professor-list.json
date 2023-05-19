@@ -1740,10 +1740,10 @@
     "department": "PHYS",
     "firstName": "Jonathan",
     "lastName": "Fernsler",
-    "numEvals": 45,
-    "overallRating": 2.6,
-    "materialClear": 2.47,
-    "studentDifficulties": 2.86,
+    "numEvals": 46,
+    "overallRating": 2.59,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.84,
     "courses": [
       "PSC 101",
       "PHYS 121",
@@ -1756,7 +1756,10 @@
       "PHYS 145",
       "PHYS 211",
       "PHYS 401"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "0e6234e5-0e12-4e97-8a88-9b199ec391ee",
@@ -14956,17 +14959,21 @@
     "department": "ECON",
     "firstName": "Adam",
     "lastName": "Werner",
-    "numEvals": 42,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.17,
-    "overallRating": 2.5,
+    "numEvals": 44,
+    "overallRating": 2.56,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.23,
     "courses": [
       "ECON 201",
       "ECON 210",
       "ECON 221",
       "ECON 222",
-      "GSB 523"
-    ]
+      "GSB 523",
+      "ECON 311"
+    ],
+    "tags": {
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "828edd03-1cae-4f92-8a39-708dbaf1469e",
@@ -17564,10 +17571,10 @@
     "department": "STAT",
     "firstName": "Kevin",
     "lastName": "Ross",
-    "numEvals": 33,
-    "overallRating": 3.58,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.38,
+    "numEvals": 34,
+    "overallRating": 3.56,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.4,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -17576,7 +17583,8 @@
       "STAT 252",
       "STAT 301",
       "STAT 305"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "9a5bee3b-f150-4d46-b3c7-f5d45e32e122",
@@ -19721,14 +19729,19 @@
     "department": "ENGL",
     "firstName": "Deb",
     "lastName": "Donig",
-    "numEvals": 2,
-    "overallRating": 0.5,
-    "materialClear": 1.5,
-    "studentDifficulties": 0,
+    "numEvals": 3,
+    "overallRating": 0.67,
+    "materialClear": 1.33,
+    "studentDifficulties": 0.33,
     "courses": [
       "ENGL 364",
       "ENGL 202"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "b04582c3-553f-47c4-8482-f4bba15f09d6",
@@ -26052,14 +26065,17 @@
     "department": "BUS",
     "firstName": "Dan",
     "lastName": "Banfield",
-    "numEvals": 17,
-    "overallRating": 3.91,
-    "materialClear": 3.84,
-    "studentDifficulties": 3.79,
+    "numEvals": 18,
+    "overallRating": 3.92,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.8,
     "courses": [
       "BUS 214",
       "BUS 215"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "eca8d710-6996-4a45-9924-8b5065348ef4",
@@ -27106,14 +27122,16 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2,
+    "studentDifficulties": 1.67,
     "courses": [
-      "STAT",
       "STAT 301"
-    ]
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "f664ac53-23c4-4581-a322-8b5c20b8e0ed",
