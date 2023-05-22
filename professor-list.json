@@ -24146,9 +24146,9 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 55,
-    "overallRating": 3.19,
-    "materialClear": 2.85,
+    "numEvals": 56,
+    "overallRating": 3.2,
+    "materialClear": 2.87,
     "studentDifficulties": 3.23,
     "courses": [
       "MATH 141",
@@ -24158,7 +24158,12 @@
       "MATH 221",
       "MATH 241",
       "MATH 244"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "d9e18ac0-143d-4ba5-b933-e8ea82bb8ac4",
