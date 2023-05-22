@@ -220,6 +220,19 @@
     "tags": {}
   },
   {
+    "id": "02c1242e-ae8d-43c2-bf0c-43eba8793f25",
+    "department": "COMS",
+    "firstName": "Darrian",
+    "lastName": "Carroll",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ]
+  },
+  {
     "id": "02c296ab-bd67-46c5-8647-5305d6f84824",
     "department": "EE",
     "firstName": "Michael",
@@ -15806,6 +15819,19 @@
     ]
   },
   {
+    "id": "88df8ef9-0ce6-4361-9380-3551449fa99e",
+    "department": "ENGL",
+    "firstName": "Ethan",
+    "lastName": "Powers",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ]
+  },
+  {
     "id": "8903df0f-78e9-473b-922d-52085b47bf4a",
     "department": "ENGL",
     "firstName": "Brenda",
@@ -17700,10 +17726,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 52,
-    "materialClear": 1.7,
+    "numEvals": 53,
+    "overallRating": 1.96,
+    "materialClear": 1.71,
     "studentDifficulties": 1.98,
-    "overallRating": 1.98,
     "courses": [
       "EE 111",
       "EE 208",
@@ -17717,8 +17743,10 @@
       "EE 346",
       "EE 375",
       "EE 402",
-      "EE 406"
-    ]
+      "EE 406",
+      "EE 255"
+    ],
+    "tags": {}
   },
   {
     "id": "9b5b3acc-98e7-414d-94cd-3aa65b269dc8",
@@ -21489,6 +21517,19 @@
       "MATH 406",
       "MATH 437",
       "MATH 481"
+    ]
+  },
+  {
+    "id": "c11b0874-8fd4-4c79-a693-0fb68e33dba5",
+    "department": "BUS",
+    "firstName": "Chris",
+    "lastName": "Ainsworth",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
     ]
   },
   {
