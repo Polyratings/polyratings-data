@@ -7949,13 +7949,15 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 1,
-    "overallRating": 0,
+    "numEvals": 2,
+    "overallRating": 0.5,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
-      "MATE 210"
-    ]
+      "MATE 210",
+      "BRAE 348"
+    ],
+    "tags": {}
   },
   {
     "id": "45baa272-390d-4f77-a142-fa2273ea869c",
