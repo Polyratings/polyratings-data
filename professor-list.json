@@ -3222,14 +3222,18 @@
     "department": "CHEM",
     "firstName": "Joanna",
     "lastName": "Laird",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 1.67,
     "courses": [
-      "CHEM",
       "CHEM 124"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "196c694c-01cd-4de6-b8eb-ef14e3b0aa54",
@@ -11905,10 +11909,10 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 64,
-    "materialClear": 2.84,
+    "numEvals": 65,
+    "overallRating": 2.89,
+    "materialClear": 2.86,
     "studentDifficulties": 2.71,
-    "overallRating": 2.87,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -11920,7 +11924,8 @@
       "MATH 336",
       "MATH 481",
       "MATH 482"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "69fe8277-b095-4a45-9d7b-837a11bb6f06",
@@ -12074,17 +12079,18 @@
     "department": "PHYS",
     "firstName": "Matt",
     "lastName": "Mewes",
-    "numEvals": 18,
-    "overallRating": 3.37,
-    "materialClear": 3.47,
-    "studentDifficulties": 2.94,
+    "numEvals": 19,
+    "overallRating": 3.4,
+    "materialClear": 3.5,
+    "studentDifficulties": 2.89,
     "courses": [
       "PHYS 123",
       "PHYS 132",
       "PHYS 133",
       "PHYS 141",
       "PHYS 318"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6aaf180a-c394-4b1a-a919-f01661f7b5ba",
@@ -15557,16 +15563,17 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.6,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
       "PHYS 143",
       "PSY 142",
       "PHYS 141"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8733f0de-5817-4702-8f6f-17abdbd81e55",
@@ -17726,10 +17733,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 53,
-    "overallRating": 1.96,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.98,
+    "numEvals": 54,
+    "overallRating": 1.92,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.96,
     "courses": [
       "EE 111",
       "EE 208",
@@ -17746,7 +17753,11 @@
       "EE 406",
       "EE 255"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "9b5b3acc-98e7-414d-94cd-3aa65b269dc8",
@@ -17922,13 +17933,14 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
-    ]
+      "COMS 101"
+    ],
+    "tags": {}
   },
   {
     "id": "9cf62de7-03fd-4ae0-afac-bfea3e36a7bd",
@@ -18415,7 +18427,7 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 103,
+    "numEvals": 104,
     "overallRating": 3.8,
     "materialClear": 3.8,
     "studentDifficulties": 3.75,
@@ -18436,7 +18448,8 @@
       "MATH 437",
       "MATH 481",
       "MATH 550"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "a1df1514-65f5-46f5-b0ab-e41cd905101c",
@@ -22008,10 +22021,10 @@
     "department": "PHYS",
     "firstName": "William",
     "lastName": "Horst",
-    "numEvals": 166,
+    "numEvals": 167,
     "overallRating": 2.08,
     "materialClear": 2.35,
-    "studentDifficulties": 1.98,
+    "studentDifficulties": 1.97,
     "courses": [
       "PHYS 111",
       "MATH 118",
@@ -22023,8 +22036,10 @@
       "PHYS 133",
       "MATH 141",
       "PHYS 141",
-      "PHYS 142"
-    ]
+      "PHYS 142",
+      "PSY 143"
+    ],
+    "tags": {}
   },
   {
     "id": "c6ae4309-59c6-4f24-875e-0e13b4fdd237",
@@ -26820,15 +26835,16 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.67,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
       "PHYS 121",
       "PHYS 143"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "f336f2ee-990a-4a47-9729-d879d88971c0",
