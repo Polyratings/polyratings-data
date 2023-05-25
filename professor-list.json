@@ -3509,13 +3509,15 @@
     "department": "BIO",
     "firstName": "Robert",
     "lastName": "Schroeter",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "BIO"
-    ]
+      "BIO 161",
+      "BIO 263"
+    ],
+    "tags": {}
   },
   {
     "id": "1b665c4f-911b-4c83-91fb-3158d81dbfa2",
@@ -5099,10 +5101,10 @@
     "department": "PHIL",
     "firstName": "Keith",
     "lastName": "Abney",
-    "numEvals": 136,
-    "materialClear": 2.63,
+    "numEvals": 137,
+    "overallRating": 2.32,
+    "materialClear": 2.62,
     "studentDifficulties": 2.07,
-    "overallRating": 2.34,
     "courses": [
       "PHIL 124",
       "PHIL 125",
@@ -5120,7 +5122,10 @@
       "PHIL 336",
       "PHIL 337",
       "PHIL 339"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1
+    }
   },
   {
     "id": "2bfc3bc9-5343-43c1-9439-49ff05c066dd",
@@ -7949,15 +7954,19 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 2,
-    "overallRating": 0.5,
+    "numEvals": 3,
+    "overallRating": 0.67,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
       "MATE 210",
       "BRAE 348"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "45baa272-390d-4f77-a142-fa2273ea869c",
