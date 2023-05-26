@@ -3179,15 +3179,19 @@
     "department": "BUS",
     "firstName": "Doug",
     "lastName": "Cerf",
-    "numEvals": 24,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.42,
-    "overallRating": 3.46,
+    "numEvals": 25,
+    "overallRating": 3.4,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.36,
     "courses": [
       "BUS 321",
       "BUS 322",
       "BUS 323"
-    ]
+    ],
+    "tags": {
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "18eea604-ace6-4f47-a2f8-f978e3375628",
@@ -4297,16 +4301,17 @@
     "department": "PHIL",
     "firstName": "Laura",
     "lastName": "Andes",
-    "numEvals": 64,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.24,
-    "overallRating": 1.44,
+    "numEvals": 65,
+    "overallRating": 1.42,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.25,
     "courses": [
       "PHIL 126",
       "PHIL 230",
       "PHIL 231",
       "EDES 408"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "23c9f779-32e8-47d0-9912-f42adde8b391",
@@ -17325,8 +17330,8 @@
     "department": "STAT",
     "firstName": "Ulric",
     "lastName": "Lund",
-    "numEvals": 95,
-    "overallRating": 3.25,
+    "numEvals": 96,
+    "overallRating": 3.26,
     "materialClear": 3.29,
     "studentDifficulties": 3.13,
     "courses": [
@@ -17344,7 +17349,10 @@
       "STAT 425",
       "STAT 430",
       "STAT 513"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "96cfe39e-beb5-41be-9b83-9abfa376ae19",
@@ -19808,10 +19816,10 @@
     "department": "ENGL",
     "firstName": "Jose",
     "lastName": "Navarro",
-    "numEvals": 25,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.22,
-    "overallRating": 3.37,
+    "numEvals": 26,
+    "overallRating": 3.39,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.25,
     "courses": [
       "ENGL 145",
       "ENGL 202",
@@ -19820,8 +19828,10 @@
       "ES 340",
       "ENGL 346",
       "ENGL 349",
-      "ENGL 381"
-    ]
+      "ENGL 381",
+      "ES 324"
+    ],
+    "tags": {}
   },
   {
     "id": "b05442e0-bea5-4c5d-896e-187d900aad75",
