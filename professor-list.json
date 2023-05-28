@@ -1066,14 +1066,19 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 25,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.33,
-    "overallRating": 2.37,
+    "numEvals": 26,
+    "overallRating": 2.43,
+    "materialClear": 2.43,
+    "studentDifficulties": 2.39,
     "courses": [
       "BUS 438",
       "BUS 439"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "09b48d98-0615-4808-a211-e58c5de4ec27",
