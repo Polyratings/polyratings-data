@@ -6461,16 +6461,17 @@
     "department": "ASCI",
     "firstName": "Rodrigo Manjarin",
     "lastName": "Arredondo",
-    "numEvals": 14,
-    "materialClear": 1.39,
-    "studentDifficulties": 1.4,
-    "overallRating": 1.81,
+    "numEvals": 15,
+    "overallRating": 1.82,
+    "materialClear": 1.36,
+    "studentDifficulties": 1.51,
     "courses": [
       "ASCI 220",
       "ASCI 229",
       "ASCI 363",
       "ASCI 351"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "387d47d5-34a8-4bec-95fd-591967e99ecf",
@@ -17789,17 +17790,19 @@
     "department": "CHEM",
     "firstName": "Tammy",
     "lastName": "Campbell",
-    "numEvals": 39,
-    "overallRating": 1.37,
-    "materialClear": 1.18,
-    "studentDifficulties": 1.65,
+    "numEvals": 40,
+    "overallRating": 1.36,
+    "materialClear": 1.15,
+    "studentDifficulties": 1.61,
     "courses": [
       "CHEM 110",
       "CHEM 111",
       "CHEM 124",
       "CHEM 127",
-      "CHEM 371"
-    ]
+      "CHEM 371",
+      "CHEM 128"
+    ],
+    "tags": {}
   },
   {
     "id": "9b907391-d5b3-42bf-ab96-9e7616ecf4cd",
@@ -27678,10 +27681,10 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 61,
-    "overallRating": 3.3,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.16,
+    "numEvals": 62,
+    "overallRating": 3.31,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.17,
     "courses": [
       "BIO 112",
       "BIO 210",
@@ -27689,7 +27692,8 @@
       "BIO 302",
       "BIO 303",
       "SCM 325"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "f9fece86-49a3-4617-8ce7-42d804028e7b",
