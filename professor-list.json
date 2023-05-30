@@ -4912,10 +4912,10 @@
     "department": "ENGL",
     "firstName": "Patricia",
     "lastName": "Kuznetsoff",
-    "numEvals": 90,
-    "overallRating": 2.39,
-    "materialClear": 2.47,
-    "studentDifficulties": 2.56,
+    "numEvals": 91,
+    "overallRating": 2.37,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.55,
     "courses": [
       "ENGL 102",
       "ENGL 134",
@@ -4924,7 +4924,11 @@
       "ENGL 251",
       "ENGL 253",
       "ENGL 350"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "2a9a925e-6305-4546-957b-b10b78f95f9d",
@@ -16744,14 +16748,15 @@
     "department": "CSC",
     "firstName": "Rodrigo",
     "lastName": "Canaan",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC",
-      "CSC 349"
-    ]
+      "CSC 349",
+      "CSC 580"
+    ],
+    "tags": {}
   },
   {
     "id": "910353ad-a0c8-4620-b54c-0e8339fdbf7d",
@@ -20171,6 +20176,19 @@
       "CE 457",
       "CE 500",
       "CE 540"
+    ]
+  },
+  {
+    "id": "b3801c2f-07fe-4183-ae17-4875969c9866",
+    "department": "COMS",
+    "firstName": "Anuraj",
+    "lastName": "Dhillon",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1,
+    "courses": [
+      "COMS"
     ]
   },
   {
