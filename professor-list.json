@@ -12560,6 +12560,19 @@
     ]
   },
   {
+    "id": "710271b3-0001-4e94-90f8-970bbce1799e",
+    "department": "HIST",
+    "firstName": "Nathan ",
+    "lastName": "Perry",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 1,
+    "courses": [
+      "HIST"
+    ]
+  },
+  {
     "id": "71201e52-81a8-440e-8544-205aaef7a9ac",
     "department": "CRP",
     "firstName": "D.Gregg",
@@ -14340,13 +14353,18 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Bockmon",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
-    ]
+      "CHEM 128"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7d765ae0-0fa4-4a11-8023-e644cca0a672",
@@ -21814,13 +21832,19 @@
     "department": "CHEM",
     "firstName": "Erik",
     "lastName": "Sapper ",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM 124"
-    ]
+      "CHEM 124",
+      "CHEM 127"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "c44cea47-65b5-4f1e-8648-68d88819ec86",
@@ -25823,14 +25847,16 @@
     "department": "ES",
     "firstName": "Dan ",
     "lastName": "Castilow ",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ES",
       "ES 254"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "e9757729-d0fd-4677-857e-521e0c1c614a",
