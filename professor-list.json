@@ -3028,10 +3028,10 @@
     "department": "MATH",
     "firstName": "Morgan",
     "lastName": "Sherman",
-    "numEvals": 58,
-    "overallRating": 3.36,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.29,
+    "numEvals": 59,
+    "overallRating": 3.37,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.3,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -3043,7 +3043,8 @@
       "MATH 344",
       "MATH 505",
       "MATH 248"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "17e44356-8fb1-4780-89e2-be61765bfd67",
@@ -6248,14 +6249,15 @@
     "department": "CPE",
     "firstName": "Joseph",
     "lastName": "Callenes-Sloan",
-    "numEvals": 2,
-    "overallRating": 2.5,
+    "numEvals": 3,
+    "overallRating": 3,
     "materialClear": 2,
     "studentDifficulties": 3,
     "courses": [
-      "CPE",
-      "CPE 333"
-    ]
+      "CPE 333",
+      "CPE 133"
+    ],
+    "tags": {}
   },
   {
     "id": "356a4453-3567-4d2e-98f3-42f9d743c65a",
@@ -8554,16 +8556,17 @@
     "department": "CSC",
     "firstName": "Ayaan",
     "lastName": "Kazerouni",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.72,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "CPE 203",
       "CSC 313",
       "CSC 123",
       "CSC 513"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "4b0918e8-a5bc-47cc-bac3-799f8c3e60ce",
