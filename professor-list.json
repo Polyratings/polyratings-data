@@ -24926,7 +24926,7 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 36,
+    "numEvals": 37,
     "overallRating": 3.84,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
@@ -24936,7 +24936,12 @@
       "MATH 142",
       "MATH 143",
       "MATH 241"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "e0719651-08a4-43bd-9701-b218f36d1976",
@@ -26976,14 +26981,16 @@
     "department": "CHEM",
     "firstName": "Tstevan ",
     "lastName": "Aleksandrov",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 1,
-    "studentDifficulties": 0,
+    "numEvals": 4,
+    "overallRating": 1.25,
+    "materialClear": 1.5,
+    "studentDifficulties": 0.75,
     "courses": [
       "CHEM 128",
-      "CHEM 125"
-    ]
+      "CHEM 125",
+      "CHEM 124"
+    ],
+    "tags": {}
   },
   {
     "id": "f39fe2f1-937b-4cd5-a237-aa7e2377a5d3",
