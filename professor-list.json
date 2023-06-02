@@ -3102,15 +3102,17 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 5,
-    "overallRating": 0.8,
-    "materialClear": 1,
-    "studentDifficulties": 1.2,
+    "numEvals": 6,
+    "overallRating": 1.17,
+    "materialClear": 1.17,
+    "studentDifficulties": 1.33,
     "courses": [
       "CHEM 121",
       "CHEM 126",
-      "CHEM 127"
-    ]
+      "CHEM 127",
+      "CHEM 124"
+    ],
+    "tags": {}
   },
   {
     "id": "1846e94f-a6ba-4d76-8295-c0d260884da0",
@@ -6054,10 +6056,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 114,
-    "overallRating": 3.42,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.25,
+    "numEvals": 115,
+    "overallRating": 3.43,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.26,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -6068,7 +6070,8 @@
       "ANT 360",
       "SOC 360",
       "ANT 415"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "335aff78-6ef9-43b6-9163-9fe28f92879e",
@@ -6201,17 +6204,18 @@
     "department": "BUS",
     "firstName": "Stern",
     "lastName": "Neill",
-    "numEvals": 21,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.3,
-    "overallRating": 3.43,
+    "numEvals": 22,
+    "overallRating": 3.37,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.33,
     "courses": [
       "BUS 342",
       "BUS 346",
       "BUS 413",
       "BUS 418",
       "BUS 446"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "34c2c46f-132f-42cf-8375-7c9ec9c401de",
@@ -24259,10 +24263,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 56,
-    "overallRating": 3.2,
-    "materialClear": 2.87,
-    "studentDifficulties": 3.23,
+    "numEvals": 57,
+    "overallRating": 3.21,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.24,
     "courses": [
       "MATH 141",
       "MATH 142",
