@@ -18670,10 +18670,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 140,
-    "overallRating": 2.3,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.03,
+    "numEvals": 141,
+    "overallRating": 2.31,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.04,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18691,7 +18691,12 @@
       "MATH 412",
       "MATH 413",
       "MATH 437"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a2bf0a5e-f12b-49fb-8d6b-65c5341c3cc7",
@@ -20799,7 +20804,7 @@
     "department": "LS",
     "firstName": "Brian",
     "lastName": "Beaton",
-    "numEvals": 47,
+    "numEvals": 48,
     "overallRating": 0.14,
     "materialClear": 0.12,
     "studentDifficulties": 0.12,
@@ -20841,8 +20846,13 @@
       "ITAL 528",
       "PHIL 555",
       "RELS 555",
-      "GEOG 589"
-    ]
+      "GEOG 589",
+      "MATH 460"
+    ],
+    "tags": {
+      "Pop Quizzes": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "b8d248c0-705e-47a4-b08e-d2cbb3d3e75f",
