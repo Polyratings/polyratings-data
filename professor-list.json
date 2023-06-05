@@ -2155,9 +2155,9 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 41,
-    "overallRating": 3.04,
-    "materialClear": 2.98,
+    "numEvals": 42,
+    "overallRating": 3.02,
+    "materialClear": 2.93,
     "studentDifficulties": 2.88,
     "courses": [
       "ASTR 102",
@@ -2166,8 +2166,10 @@
       "PHYS 132",
       "PHYS 133",
       "PHYS 141",
-      "PHYS 211"
-    ]
+      "PHYS 211",
+      "PHYS 142"
+    ],
+    "tags": {}
   },
   {
     "id": "10cf35b0-058c-4d44-ab71-92bbf663fe4c",
@@ -5687,13 +5689,16 @@
     "department": "COMS",
     "firstName": "Joe",
     "lastName": "Whitt",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "3022383d-8545-4529-9320-c24a8fee2fad",
@@ -8196,10 +8201,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 68,
+    "numEvals": 69,
+    "overallRating": 3.82,
     "materialClear": 3.8,
     "studentDifficulties": 3.81,
-    "overallRating": 3.82,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -8211,7 +8216,10 @@
       "MATH 341",
       "MATH 344",
       "MATH 481"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "47a02aba-0492-4f2f-9bb7-07dde9074df8",
@@ -10990,15 +10998,16 @@
     "department": "CHEM",
     "firstName": "Adam ",
     "lastName": "Groves",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.71,
+    "materialClear": 2.43,
+    "studentDifficulties": 2.43,
     "courses": [
       "CHEM 128",
       "CHEM 369",
       "CHEM 125"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6238327b-f70a-43d1-8541-cbacde1ed97d",
@@ -11954,7 +11963,7 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 65,
+    "numEvals": 66,
     "overallRating": 2.89,
     "materialClear": 2.86,
     "studentDifficulties": 2.71,
@@ -11970,7 +11979,10 @@
       "MATH 481",
       "MATH 482"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "69fe8277-b095-4a45-9d7b-837a11bb6f06",
@@ -14360,17 +14372,19 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Bockmon",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM 128"
+      "CHEM 128",
+      "CHEM 125"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Class Handouts": 2,
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -17730,10 +17744,10 @@
     "department": "PHYS",
     "firstName": "Karl",
     "lastName": "Saunders",
-    "numEvals": 87,
-    "overallRating": 2.71,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.74,
+    "numEvals": 88,
+    "overallRating": 2.72,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.75,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -17742,7 +17756,12 @@
       "PHYS 141",
       "PHYS 301",
       "PHYS 142"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "9a928dd7-90b3-4ad5-9fd7-af2fb63797bf",
