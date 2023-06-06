@@ -7464,15 +7464,20 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 32,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.35,
-    "overallRating": 3.5,
+    "numEvals": 33,
+    "overallRating": 3.52,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.34,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 149"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "41a17d34-d84a-4416-a710-63676c87c682",
@@ -12490,14 +12495,15 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 5,
-    "overallRating": 1.8,
-    "materialClear": 1.2,
-    "studentDifficulties": 2.4,
+    "numEvals": 6,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 2.5,
     "courses": [
       "CE 204",
       "CE 207"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6fe93b93-6cac-481a-ace7-ba8eca9ea495",
@@ -17595,10 +17601,10 @@
     "department": "CHEM",
     "firstName": "Gregory",
     "lastName": "Scott",
-    "numEvals": 49,
-    "materialClear": 3.35,
-    "studentDifficulties": 3.31,
-    "overallRating": 3.39,
+    "numEvals": 50,
+    "overallRating": 3.4,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.32,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -17606,7 +17612,8 @@
       "CHEM 127",
       "CHEM 128",
       "CHEM 129"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "981bd3ef-2983-4f81-beb3-7218a3b96190",
@@ -18694,10 +18701,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 141,
+    "numEvals": 142,
     "overallRating": 2.31,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.04,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.03,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19385,10 +19392,10 @@
     "department": "STAT",
     "firstName": "Samuel",
     "lastName": "Frame",
-    "numEvals": 85,
+    "numEvals": 86,
+    "overallRating": 1.94,
     "materialClear": 2.33,
     "studentDifficulties": 1.65,
-    "overallRating": 1.94,
     "courses": [
       "STAT 217",
       "STAT 251",
@@ -19399,8 +19406,10 @@
       "STAT 331",
       "STAT 416",
       "GSB 512",
-      "STAT 301"
-    ]
+      "STAT 301",
+      "STAT 302"
+    ],
+    "tags": {}
   },
   {
     "id": "aaed26e2-d4ee-4780-8e65-8f4d08abd84d",
@@ -20774,10 +20783,10 @@
     "department": "AERO",
     "firstName": "Dianne",
     "lastName": "DeTurris",
-    "numEvals": 32,
-    "overallRating": 2.11,
-    "materialClear": 2.14,
-    "studentDifficulties": 2.35,
+    "numEvals": 33,
+    "overallRating": 2.05,
+    "materialClear": 2.08,
+    "studentDifficulties": 2.28,
     "courses": [
       "AERO 101",
       "AERO 299",
@@ -20786,7 +20795,8 @@
       "AERO 304",
       "AERO 401",
       "AERO 540"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b823d69f-8e41-409e-91e0-e9c4a2098377",
@@ -23064,18 +23074,24 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 111,
-    "overallRating": 2.83,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.82,
+    "numEvals": 112,
+    "overallRating": 2.84,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.83,
     "courses": [
       "CHEM 111",
       "CHEM 124",
       "CHEM 125",
       "CHEM 127",
       "CHEM 129",
-      "CHEM 331"
-    ]
+      "CHEM 331",
+      "CHEM 128"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "cff090f4-e4bc-4c88-a93f-b1de2ae88a3a",
@@ -23937,10 +23953,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 31,
-    "overallRating": 3.57,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.49,
+    "numEvals": 32,
+    "overallRating": 3.52,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.41,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -23949,7 +23965,8 @@
       "MATH 182",
       "MATH 221",
       "MATH 244"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "d7bef6e5-b8ab-4a59-b847-4ae8ad005e49",
