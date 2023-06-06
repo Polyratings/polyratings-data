@@ -6062,6 +6062,19 @@
     ]
   },
   {
+    "id": "32f6a2b7-d906-4b5d-8ff6-00257d891bb1",
+    "department": "POLS",
+    "firstName": "Todd",
+    "lastName": "Porter",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ]
+  },
+  {
     "id": "332982f7-7f1f-4e39-8e49-ccde8bd79f1b",
     "department": "SOC",
     "firstName": "Jennifer",
@@ -6226,6 +6239,19 @@
       "BUS 446"
     ],
     "tags": {}
+  },
+  {
+    "id": "34c1c480-7590-4b17-ac8b-4f574092d813",
+    "department": "EE",
+    "firstName": "Benjamin",
+    "lastName": "Hawkins",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BMED"
+    ]
   },
   {
     "id": "34c2c46f-132f-42cf-8375-7c9ec9c401de",
@@ -9536,6 +9562,19 @@
       "ECON 222",
       "ECON 304",
       "ECON 401"
+    ]
+  },
+  {
+    "id": "54281c48-08e0-4048-9ae8-a53019fc4ea8",
+    "department": "BIO",
+    "firstName": "Jean",
+    "lastName": "Davidson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BIO"
     ]
   },
   {
@@ -17839,10 +17878,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 54,
-    "overallRating": 1.92,
-    "materialClear": 1.68,
-    "studentDifficulties": 1.96,
+    "numEvals": 53,
+    "overallRating": 1.96,
+    "materialClear": 1.71,
+    "studentDifficulties": 1.98,
     "courses": [
       "EE 111",
       "EE 208",
@@ -18701,10 +18740,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 142,
+    "numEvals": 141,
     "overallRating": 2.31,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.03,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.04,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19553,6 +19592,19 @@
       "EE 314",
       "EE 525",
       "EE 528"
+    ]
+  },
+  {
+    "id": "ac106829-16c3-4610-b9f1-5cbbf1d5bffb",
+    "department": "ES",
+    "firstName": "Guadalupe",
+    "lastName": "Arellanes",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
     ]
   },
   {
@@ -21686,6 +21738,19 @@
     ]
   },
   {
+    "id": "c15b693a-c08e-4e15-9efc-f215b0b1fb88",
+    "department": "BIO",
+    "firstName": "Jaimie",
+    "lastName": "Bunting",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "BIO"
+    ]
+  },
+  {
     "id": "c17f9053-58ae-4214-a0ee-fd4787aceb12",
     "department": "TH",
     "firstName": "Christina",
@@ -21827,6 +21892,19 @@
       "PHYS 123",
       "PHYS 132",
       "PHYS 141"
+    ]
+  },
+  {
+    "id": "c3358d93-32a8-4f8b-be10-7319ac84265a",
+    "department": "CHEM",
+    "firstName": "Bradley",
+    "lastName": "Moran",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CHEM"
     ]
   },
   {
@@ -27858,6 +27936,19 @@
       "CE 382",
       "CE 481",
       "CE 585"
+    ]
+  },
+  {
+    "id": "fa1b91e8-d795-48bf-9654-3d62a1762efd",
+    "department": "ES",
+    "firstName": "Jennifer ",
+    "lastName": "Leal",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "ES"
     ]
   },
   {
