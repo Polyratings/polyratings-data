@@ -4,13 +4,12 @@
     "department": "CHEM",
     "firstName": "Parisa",
     "lastName": "Mahjoor",
-    "numEvals": 18,
+    "numEvals": 17,
     "overallRating": 0.64,
     "materialClear": 0.82,
     "studentDifficulties": 0.45,
     "courses": [
       "CHEM 110",
-      "CHEM 124",
       "CHEM 127",
       "CHEM 316"
     ]
@@ -3713,6 +3712,24 @@
       "ART 317",
       "ART 318"
     ]
+  },
+  {
+    "id": "1cedbef6-d8f4-4f94-af5b-c20857a24f1c",
+    "department": "FSN",
+    "firstName": "Lauren",
+    "lastName": "Papanos",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "FSN"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "1d54bfac-44e5-4e3f-b699-43f28dd8f6f5",
@@ -10082,6 +10099,20 @@
     ]
   },
   {
+    "id": "58e20dec-dd3a-4ec3-baaa-ba3efeeb94ad",
+    "department": "CE",
+    "firstName": "Reza",
+    "lastName": "Eslami",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 3,
+    "courses": [
+      "CE"
+    ],
+    "tags": {}
+  },
+  {
     "id": "58e4c662-f3b8-437c-9b6b-7e8c90913104",
     "department": "CHEM",
     "firstName": "Barbara",
@@ -14449,7 +14480,7 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Bockmon",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19749,6 +19780,24 @@
     ]
   },
   {
+    "id": "aca9b66f-30a3-41fa-bcc1-415dd4ff2e79",
+    "department": "CSC",
+    "firstName": " Lubomir",
+    "lastName": "Stanchev",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "DATA"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
+  },
+  {
     "id": "ace9d899-dc2d-4d33-afe7-511b29876fc0",
     "department": "CSC",
     "firstName": "Austin",
@@ -21683,6 +21732,24 @@
       "ME 501",
       "ME 503"
     ]
+  },
+  {
+    "id": "c0bb660c-556a-4936-8b04-05e13d29de54",
+    "department": "ES",
+    "firstName": "Ryan",
+    "lastName": "Buyco",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "c0bbc8f7-437c-4d68-9162-835c9b7d863e",
@@ -23794,6 +23861,20 @@
       "RELS 374",
       "RELS 378"
     ]
+  },
+  {
+    "id": "d5789a88-3968-4f22-8a4a-0aa55d1b4a24",
+    "department": "ME",
+    "firstName": "Eric",
+    "lastName": "Espinoza-Wade",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {}
   },
   {
     "id": "d5dbf3be-429f-4a18-8530-dbd6dc05598d",
