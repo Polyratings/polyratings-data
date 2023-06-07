@@ -10364,16 +10364,17 @@
     "department": "ES",
     "firstName": "Jenell",
     "lastName": "Navarro",
-    "numEvals": 19,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.45,
-    "overallRating": 3.5,
+    "numEvals": 20,
+    "overallRating": 3.53,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.48,
     "courses": [
       "ES 112",
       "WGS 201",
       "ES 340",
       "ES 253"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "5b827029-e5fd-45de-9cff-8b27c2c41ec1",
@@ -19510,10 +19511,10 @@
     "department": "STAT",
     "firstName": "Samuel",
     "lastName": "Frame",
-    "numEvals": 86,
+    "numEvals": 88,
     "overallRating": 1.94,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.65,
+    "materialClear": 2.35,
+    "studentDifficulties": 1.61,
     "courses": [
       "STAT 217",
       "STAT 251",
@@ -19527,7 +19528,10 @@
       "STAT 301",
       "STAT 302"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2
+    }
   },
   {
     "id": "aaed26e2-d4ee-4780-8e65-8f4d08abd84d",
@@ -27583,15 +27587,17 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 3,
-    "overallRating": 2.33,
+    "numEvals": 4,
+    "overallRating": 2.25,
     "materialClear": 2,
-    "studentDifficulties": 1.67,
+    "studentDifficulties": 2,
     "courses": [
       "STAT 301"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
