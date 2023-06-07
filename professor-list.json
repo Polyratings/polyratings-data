@@ -286,10 +286,10 @@
     "department": "SPAN",
     "firstName": "Tanya",
     "lastName": "Chroman",
-    "numEvals": 20,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
-    "overallRating": 3.41,
+    "numEvals": 21,
+    "overallRating": 3.34,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.43,
     "courses": [
       "SPAN 101",
       "SPAN 102",
@@ -297,7 +297,12 @@
       "SPAN 124",
       "SPAN 202",
       "SPAN 203"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "0321ac06-30e3-4cf5-a8d4-d426b4e25021",
@@ -3471,17 +3476,23 @@
     "department": "AEPS",
     "firstName": "Benjamin",
     "lastName": "Hoover",
-    "numEvals": 8,
-    "overallRating": 2.11,
-    "materialClear": 3,
-    "studentDifficulties": 2.33,
+    "numEvals": 9,
+    "overallRating": 2.32,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.52,
     "courses": [
       "EHS 120",
       "EHS 124",
       "EHS 223",
       "EHS 233",
-      "EHS 351"
-    ]
+      "EHS 351",
+      "AEPS 124"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "1b05791c-ac24-4010-9626-66e04aa92fd4",
@@ -7424,18 +7435,20 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 24,
-    "overallRating": 3.76,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.8,
+    "numEvals": 25,
+    "overallRating": 3.77,
+    "materialClear": 3.86,
+    "studentDifficulties": 3.81,
     "courses": [
       "CPE 101",
       "CPE 103",
       "MATH 118",
       "CPE 202",
       "MATH 221",
-      "CSC 430"
-    ]
+      "CSC 430",
+      "CSC 248"
+    ],
+    "tags": {}
   },
   {
     "id": "41532f7f-c8cb-4634-8acc-035bd5d56f25",
@@ -11908,15 +11921,20 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Ashley",
-    "numEvals": 59,
+    "numEvals": 60,
     "overallRating": 3.1,
-    "materialClear": 3.07,
-    "studentDifficulties": 3.04,
+    "materialClear": 3.09,
+    "studentDifficulties": 3.06,
     "courses": [
       "ENGL 134",
       "ENGL 143",
       "ENGL 145"
-    ]
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "69152fa3-c1d2-438b-8cae-320836a85cf6",
@@ -12122,10 +12140,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 125,
+    "numEvals": 126,
     "overallRating": 1.85,
-    "materialClear": 1.97,
-    "studentDifficulties": 1.7,
+    "materialClear": 1.98,
+    "studentDifficulties": 1.69,
     "courses": [
       "CE 204",
       "CE 211",
@@ -12139,7 +12157,11 @@
       "ME 341",
       "AERO 540",
       "ME 448"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "6a863eeb-06b0-47e8-ac7a-da76b457ac36",
@@ -12334,10 +12356,10 @@
     "department": "AEPS",
     "firstName": "Lauren",
     "lastName": "Garner",
-    "numEvals": 19,
-    "overallRating": 2.95,
+    "numEvals": 20,
+    "overallRating": 3,
     "materialClear": 3,
-    "studentDifficulties": 2.86,
+    "studentDifficulties": 2.92,
     "courses": [
       "AG 101",
       "CRSC 120",
@@ -12350,8 +12372,13 @@
       "FRSC 230",
       "FRSC 342",
       "CRSC 410",
-      "CRSC 470"
-    ]
+      "CRSC 470",
+      "AEPS 101"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6ca731ca-3693-4dff-83c4-5d936cda3a70",
@@ -14742,7 +14769,7 @@
     "department": "BIO",
     "firstName": "Matt",
     "lastName": "Ritter",
-    "numEvals": 105,
+    "numEvals": 106,
     "overallRating": 3.74,
     "materialClear": 3.79,
     "studentDifficulties": 3.68,
@@ -14760,7 +14787,12 @@
       "HUM 330",
       "BOT 433",
       "BIO 470"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Pop Quizzes": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7fa083ef-bebf-4115-b9c9-cf838fc67cea",
@@ -15959,7 +15991,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -15967,9 +15999,10 @@
       "ENGL 134"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -16870,10 +16903,10 @@
     "department": "PHIL",
     "firstName": "Richard",
     "lastName": "Graziano",
-    "numEvals": 65,
-    "overallRating": 2.57,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.46,
+    "numEvals": 66,
+    "overallRating": 2.59,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.45,
     "courses": [
       "PHIL 132",
       "PHIL 230",
@@ -16884,7 +16917,11 @@
       "PHIL 412",
       "PHIL 423"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9144cac3-84d5-4872-aa26-1fb573f88a38",
@@ -17342,10 +17379,10 @@
     "department": "EE",
     "firstName": "Xiaomin",
     "lastName": "Jin",
-    "numEvals": 34,
-    "materialClear": 1.69,
-    "studentDifficulties": 2.15,
-    "overallRating": 2,
+    "numEvals": 37,
+    "overallRating": 2.03,
+    "materialClear": 1.72,
+    "studentDifficulties": 2.21,
     "courses": [
       "EE 212",
       "EE 306",
@@ -17356,7 +17393,13 @@
       "EE 375",
       "EE 402",
       "EE 403"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 2,
+      "Class Handouts": 2,
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1
+    }
   },
   {
     "id": "96650737-1d20-49ff-abfe-09115fa4632a",
@@ -18499,13 +18542,17 @@
     "department": "CSC",
     "firstName": "Irene",
     "lastName": "Humer",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 2.5,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
-    ]
+      "CSC 203",
+      "CSC 357"
+    ],
+    "tags": {
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a11c3cd9-0856-460f-bdb8-33008fe4fffe",
@@ -19414,17 +19461,18 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 38,
-    "overallRating": 1.44,
-    "materialClear": 1.64,
-    "studentDifficulties": 1.51,
+    "numEvals": 39,
+    "overallRating": 1.43,
+    "materialClear": 1.65,
+    "studentDifficulties": 1.47,
     "courses": [
       "ENGR 110",
       "MATE 210",
       "MATE 215",
       "MATE 232",
       "MATE 410"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "aab12eb6-8d0c-4fe1-9c09-e37963515767",
@@ -22569,15 +22617,21 @@
     "department": "DSCI",
     "firstName": "Chi Kong",
     "lastName": "Yeung",
-    "numEvals": 9,
-    "overallRating": 3.89,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.89,
+    "numEvals": 10,
+    "overallRating": 3.9,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.9,
     "courses": [
       "DSCI 231",
       "DSCI 233",
-      "DSCI 401"
-    ]
+      "DSCI 401",
+      "ASCI 290"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "ca110490-3d6d-44a0-8124-7d8d35edf962",
@@ -22940,10 +22994,10 @@
     "department": "ME",
     "firstName": "Hans",
     "lastName": "Mayer",
-    "numEvals": 53,
-    "materialClear": 3.01,
-    "studentDifficulties": 2.63,
-    "overallRating": 2.72,
+    "numEvals": 54,
+    "overallRating": 2.74,
+    "materialClear": 3.03,
+    "studentDifficulties": 2.64,
     "courses": [
       "ME 236",
       "AERO 301",
@@ -22954,7 +23008,8 @@
       "ME 357",
       "BMED 434",
       "BMED 435"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "cd7ca44b-7756-463d-bc28-c2a155ddd816",
@@ -23222,7 +23277,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 120,
+    "numEvals": 121,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -23232,7 +23287,12 @@
       "CHEM 125",
       "CHEM 127",
       "CHEM 128"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d1404ca6-1232-4aaf-af90-8b75e1d12bf5",
@@ -26435,13 +26495,15 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.67,
     "courses": [
-      "ME 211"
-    ]
+      "ME 211",
+      "ME 347"
+    ],
+    "tags": {}
   },
   {
     "id": "ed4666c2-b1a7-4ada-963c-d70b9c2f4e1d",
@@ -26793,13 +26855,18 @@
     "department": "CSC",
     "firstName": "Bret",
     "lastName": "Hartman",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CSC"
-    ]
+      "CSC 321"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f0fdf2bd-0950-4a75-9809-f4459a69f83a",
@@ -27007,14 +27074,18 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 2.33,
     "studentDifficulties": 3,
     "courses": [
-      "COMS",
       "COMS 100"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f267c186-db77-4eb5-a671-791250401c98",
