@@ -1923,16 +1923,17 @@
     "department": "CSC",
     "firstName": "David",
     "lastName": "Parkinson",
-    "numEvals": 19,
-    "overallRating": 3.4,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.35,
+    "numEvals": 20,
+    "overallRating": 3.43,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.38,
     "courses": [
       "CPE 102",
       "CSC 102",
       "CPE 202",
       "CSC 202"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "0f5faa54-0bea-4192-8739-cb9a46ee84f6",
@@ -2490,6 +2491,20 @@
     "studentDifficulties": 4,
     "courses": [
       "CPE 101"
+    ],
+    "tags": {}
+  },
+  {
+    "id": "13b2240c-b811-4db6-8bdc-a76c77421c59",
+    "department": "FSN",
+    "firstName": "Verena",
+    "lastName": "Alexander",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "FSN"
     ],
     "tags": {}
   },
@@ -3653,14 +3668,17 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 32,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.56,
-    "overallRating": 3.62,
+    "numEvals": 33,
+    "overallRating": 3.63,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.57,
     "courses": [
       "ART 112",
       "ART 212"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "1c6ea584-1eb9-4e09-a121-9c503ec07ac3",
@@ -7787,6 +7805,24 @@
     ]
   },
   {
+    "id": "4352e955-1edb-4737-b8b5-47a95017ea8c",
+    "department": "CE",
+    "firstName": "Omar",
+    "lastName": "Khan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CE"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
+  },
+  {
     "id": "435cf0cd-2be9-4397-8af1-9bbb001310da",
     "department": "PHIL",
     "firstName": "Paul",
@@ -8124,10 +8160,10 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 272,
+    "numEvals": 273,
+    "overallRating": 2.51,
     "materialClear": 2.52,
     "studentDifficulties": 2.54,
-    "overallRating": 2.51,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -8142,7 +8178,8 @@
       "COMS 131",
       "SPC 146",
       "SPC 201"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "46b6e6af-7744-4b95-823b-e44cef5e8c9f",
@@ -14390,13 +14427,14 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 2,
-    "materialClear": 3,
+    "materialClear": 2.5,
     "studentDifficulties": 3,
     "courses": [
-      "ES"
-    ]
+      "ES 255"
+    ],
+    "tags": {}
   },
   {
     "id": "7cdfac25-5058-4ade-9c04-c6b5377845ca",
@@ -20975,16 +21013,19 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 53,
-    "materialClear": 2.23,
+    "numEvals": 54,
+    "overallRating": 2.17,
+    "materialClear": 2.21,
     "studentDifficulties": 2.26,
-    "overallRating": 2.19,
     "courses": [
       "ECON 201",
       "ECON 221",
       "ECON 434",
       "ECON 435"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "b8a65d32-dbf7-4a96-9910-093e79fe2063",
@@ -22303,10 +22344,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 43,
-    "overallRating": 3.53,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.51,
+    "numEvals": 44,
+    "overallRating": 3.47,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.48,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -22315,7 +22356,8 @@
       "PSY 450",
       "PSY 460",
       "PSY 520"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "c6496a9b-8ea8-498d-9662-9b8a478fafe0",
@@ -28169,7 +28211,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 32,
+    "numEvals": 31,
     "overallRating": 3.88,
     "materialClear": 3.86,
     "studentDifficulties": 3.87,
@@ -28178,8 +28220,7 @@
       "MATH 142",
       "MATH 143",
       "MATH 221",
-      "MATH 222",
-      "TH 381"
+      "MATH 222"
     ]
   },
   {
