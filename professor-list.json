@@ -3383,9 +3383,9 @@
     "department": "CPE",
     "firstName": "Stephen",
     "lastName": "Beard",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.85,
+    "materialClear": 3.87,
     "studentDifficulties": 4,
     "courses": [
       "CSC 430",
@@ -3393,7 +3393,8 @@
       "CSC 524",
       "CPE 426",
       "CPE 315"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1a89a391-3dc2-4d41-8a3d-e01ed8cd3432",
@@ -17686,10 +17687,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 33,
-    "overallRating": 3.11,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.02,
+    "numEvals": 34,
+    "overallRating": 3.14,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.05,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -17703,7 +17704,8 @@
       "CSC 103",
       "CPE 348",
       "CSC 348"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "97991e5e-2c7f-4a2b-b3c2-8e0a0fa8ee94",
