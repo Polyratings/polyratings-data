@@ -4973,10 +4973,10 @@
     "department": "ENGL",
     "firstName": "Patricia",
     "lastName": "Kuznetsoff",
-    "numEvals": 91,
-    "overallRating": 2.37,
-    "materialClear": 2.45,
-    "studentDifficulties": 2.55,
+    "numEvals": 92,
+    "overallRating": 2.34,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.53,
     "courses": [
       "ENGL 102",
       "ENGL 134",
@@ -4988,7 +4988,9 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Recorded Lectures": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -12631,10 +12633,10 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 6,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 2.5,
+    "numEvals": 7,
+    "overallRating": 1.29,
+    "materialClear": 0.86,
+    "studentDifficulties": 2.29,
     "courses": [
       "CE 204",
       "CE 207"
@@ -15127,7 +15129,7 @@
     "department": "EE",
     "firstName": "Gary",
     "lastName": "Perks",
-    "numEvals": 208,
+    "numEvals": 209,
     "overallRating": 3.57,
     "materialClear": 3.65,
     "studentDifficulties": 3.49,
@@ -15151,7 +15153,8 @@
       "EE 342",
       "EE 361",
       "CPE 233"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "824c1c43-8884-43fa-b2ed-f915bde3daab",
@@ -16037,10 +16040,10 @@
     "department": "STAT",
     "firstName": "Jimmy",
     "lastName": "Doi",
-    "numEvals": 112,
+    "numEvals": 113,
+    "overallRating": 3.63,
     "materialClear": 3.78,
-    "studentDifficulties": 3.62,
-    "overallRating": 3.64,
+    "studentDifficulties": 3.61,
     "courses": [
       "STAT 112",
       "STAT 118",
@@ -16055,7 +16058,12 @@
       "STAT 418",
       "STAT 542",
       "AEPS 150"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "88df8ef9-0ce6-4361-9380-3551449fa99e",
@@ -17910,10 +17918,10 @@
     "department": "PHYS",
     "firstName": "Karl",
     "lastName": "Saunders",
-    "numEvals": 88,
-    "overallRating": 2.72,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.75,
+    "numEvals": 89,
+    "overallRating": 2.73,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.76,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -17924,8 +17932,8 @@
       "PHYS 142"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Uploads Slides": 1,
+      "Fast Response Time": 2,
+      "Uploads Slides": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -20541,10 +20549,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 51,
+    "numEvals": 52,
     "overallRating": 2.83,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.64,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.67,
     "courses": [
       "ME 129",
       "ME 130",
@@ -20554,7 +20562,11 @@
       "ME 228",
       "ME 251",
       "ME 318"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "b4806304-8d46-4040-ae3a-26aca65c4c2c",
@@ -21015,10 +21027,10 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 54,
-    "overallRating": 2.17,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.26,
+    "numEvals": 55,
+    "overallRating": 2.13,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.22,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -23254,16 +23266,19 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 47,
-    "materialClear": 2.96,
-    "studentDifficulties": 2.58,
+    "numEvals": 48,
     "overallRating": 2.77,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.59,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 350",
       "PHIL 411"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "cf3c33ad-f893-4419-81d8-14e15b811d93",
@@ -23304,18 +23319,22 @@
     "department": "IME",
     "firstName": "Trian",
     "lastName": "Georgeou",
-    "numEvals": 20,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.81,
-    "overallRating": 3.71,
+    "numEvals": 21,
+    "overallRating": 3.72,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.82,
     "courses": [
       "IME 140",
       "IME 142",
       "IME 143",
       "IME 144",
       "IME 145",
-      "IME 335"
-    ]
+      "IME 335",
+      "IME 146"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "cfe1c763-58a1-42e9-b0bc-b5b521d520b8",
@@ -25248,7 +25267,7 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 37,
+    "numEvals": 38,
     "overallRating": 3.84,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
@@ -25261,7 +25280,7 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -26984,17 +27003,19 @@
     "department": "CSC",
     "firstName": "Bret",
     "lastName": "Hartman",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 2.5,
+    "studentDifficulties": 3,
     "courses": [
       "CSC 321"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -27562,13 +27583,14 @@
     "department": "EE",
     "firstName": "Ying",
     "lastName": "Leighton",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 0.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "EE 321"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "f5567855-a840-4fd8-9d3d-9300b8175738",
