@@ -6976,13 +6976,14 @@
     "department": "IME",
     "firstName": "Kyle",
     "lastName": "Debernardi",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "IME 146"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "3c9c2c41-fc99-4d43-89e4-64e84f3cb57d",
@@ -25875,10 +25876,10 @@
     "department": "ME",
     "firstName": "James",
     "lastName": "LoCascio",
-    "numEvals": 159,
-    "materialClear": 2.37,
-    "studentDifficulties": 1.76,
-    "overallRating": 1.94,
+    "numEvals": 160,
+    "overallRating": 1.95,
+    "materialClear": 2.38,
+    "studentDifficulties": 1.77,
     "courses": [
       "ME 211",
       "ME 212",
@@ -25892,7 +25893,11 @@
       "ME 344",
       "ME 346",
       "ME 350"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "e4afa080-c3f3-4f36-8cad-de26281ca044",
