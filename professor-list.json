@@ -3123,10 +3123,10 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 6,
-    "overallRating": 1.17,
-    "materialClear": 1.17,
-    "studentDifficulties": 1.33,
+    "numEvals": 7,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1.14,
     "courses": [
       "CHEM 121",
       "CHEM 126",
@@ -5567,7 +5567,7 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 139,
+    "numEvals": 140,
     "overallRating": 3.61,
     "materialClear": 3.64,
     "studentDifficulties": 3.49,
@@ -5585,7 +5585,12 @@
       "MATH 459",
       "MATH 481",
       "MATH 482"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "2f08a398-4ed3-4eb1-862b-b93a246fd003",
@@ -12832,10 +12837,10 @@
     "department": "CE",
     "firstName": "Eltahry",
     "lastName": "Elghandour",
-    "numEvals": 142,
-    "materialClear": 2.52,
-    "studentDifficulties": 2.68,
-    "overallRating": 2.64,
+    "numEvals": 143,
+    "overallRating": 2.65,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.69,
     "courses": [
       "CE 121",
       "CE 204",
@@ -12847,8 +12852,10 @@
       "CE 251",
       "CE 344",
       "AERO 432",
-      "AERO 433"
-    ]
+      "AERO 433",
+      "ME 161"
+    ],
+    "tags": {}
   },
   {
     "id": "7195256b-1611-4c96-85a2-57d1c091d165",
@@ -15255,9 +15262,9 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 193,
-    "overallRating": 2.63,
-    "materialClear": 2.49,
+    "numEvals": 194,
+    "overallRating": 2.64,
+    "materialClear": 2.5,
     "studentDifficulties": 2.4,
     "courses": [
       "MATH 112",
@@ -15273,7 +15280,8 @@
       "MATH 244",
       "MATH 328",
       "MATH 344"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "82b97898-c409-4c98-ab50-ba5ba49e8460",
