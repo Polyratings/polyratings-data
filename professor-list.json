@@ -13526,10 +13526,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 97,
-    "overallRating": 2.67,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.52,
+    "numEvals": 98,
+    "overallRating": 2.68,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.54,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -13544,7 +13544,11 @@
       "CSC 225",
       "CSC 234",
       "CSC 357"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "76653a11-a692-47d1-b959-c7255d0bacdd",
@@ -24348,13 +24352,19 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
-    ]
+      "ME 212",
+      "ME 326"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d829367d-6532-4ed7-aa60-484dd0f88299",
@@ -24992,10 +25002,10 @@
     "department": "MATH",
     "firstName": "Joyce",
     "lastName": "Linn",
-    "numEvals": 44,
-    "overallRating": 3.64,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.48,
+    "numEvals": 45,
+    "overallRating": 3.65,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.49,
     "courses": [
       "HIST 110",
       "MATH 141",
@@ -25004,7 +25014,8 @@
       "MATH 241",
       "MATH 244",
       "MATH 344"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "dd484786-e5da-4efb-825e-17ec44c92186",
