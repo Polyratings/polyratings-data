@@ -11946,13 +11946,18 @@
     "department": "IME",
     "firstName": "Jeff",
     "lastName": "Zimmerman",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "IME"
-    ]
+      "IME 145",
+      "IME 144"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "6886828d-ba6e-4183-9343-a18fdaf6219a",
@@ -18719,7 +18724,7 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 104,
+    "numEvals": 105,
     "overallRating": 3.8,
     "materialClear": 3.8,
     "studentDifficulties": 3.75,
@@ -18741,7 +18746,11 @@
       "MATH 481",
       "MATH 550"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "a1df1514-65f5-46f5-b0ab-e41cd905101c",
@@ -19255,10 +19264,10 @@
     "department": "PHIL",
     "firstName": "Adam",
     "lastName": "BenShea",
-    "numEvals": 12,
-    "materialClear": 3.62,
-    "studentDifficulties": 3,
-    "overallRating": 3.23,
+    "numEvals": 13,
+    "overallRating": 3.29,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.08,
     "courses": [
       "RELS 201",
       "RELS 302",
@@ -19266,7 +19275,8 @@
       "RELS 304",
       "RELS 374",
       "PHIL 378"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "a72417c3-c1e2-4ac8-be8f-f2877c7046f2",
@@ -19933,10 +19943,10 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 153,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.67,
+    "numEvals": 155,
     "overallRating": 2.73,
+    "materialClear": 2.85,
+    "studentDifficulties": 2.67,
     "courses": [
       "ENGL 101",
       "ENGL 148",
@@ -19952,7 +19962,10 @@
       "LA 320",
       "HUM 340",
       "ENGL 145"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "adcd4f2b-ed5b-41ff-a6b9-aa3a2eb58b8b",
