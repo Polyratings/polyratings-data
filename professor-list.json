@@ -847,15 +847,16 @@
     "department": "LA",
     "firstName": "David",
     "lastName": "Watts",
-    "numEvals": 5,
-    "materialClear": 2.2,
-    "studentDifficulties": 2,
-    "overallRating": 1.6,
+    "numEvals": 6,
+    "overallRating": 1.5,
+    "materialClear": 2,
+    "studentDifficulties": 1.83,
     "courses": [
       "LA 202",
       "LA 211",
       "LA 461"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "07032fdb-4be4-4107-b2aa-e219f91385df",
@@ -5477,14 +5478,17 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "EE 255",
       "EE 228"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "2e6a9669-5ee1-42a9-beed-64ac685572a1",
@@ -18014,10 +18018,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 53,
-    "overallRating": 1.96,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.98,
+    "numEvals": 54,
+    "overallRating": 1.94,
+    "materialClear": 1.7,
+    "studentDifficulties": 2.02,
     "courses": [
       "EE 111",
       "EE 208",
@@ -25876,10 +25880,10 @@
     "department": "ME",
     "firstName": "James",
     "lastName": "LoCascio",
-    "numEvals": 160,
-    "overallRating": 1.95,
-    "materialClear": 2.38,
-    "studentDifficulties": 1.77,
+    "numEvals": 161,
+    "overallRating": 1.96,
+    "materialClear": 2.39,
+    "studentDifficulties": 1.78,
     "courses": [
       "ME 211",
       "ME 212",
@@ -25896,7 +25900,7 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
