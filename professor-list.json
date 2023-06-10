@@ -12648,15 +12648,18 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 7,
-    "overallRating": 1.29,
-    "materialClear": 0.86,
-    "studentDifficulties": 2.29,
+    "numEvals": 11,
+    "overallRating": 2.27,
+    "materialClear": 2,
+    "studentDifficulties": 2.91,
     "courses": [
       "CE 204",
       "CE 207"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "6fe93b93-6cac-481a-ace7-ba8eca9ea495",
