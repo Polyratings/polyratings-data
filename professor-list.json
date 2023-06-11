@@ -8325,7 +8325,7 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 69,
+    "numEvals": 70,
     "overallRating": 3.82,
     "materialClear": 3.8,
     "studentDifficulties": 3.81,
@@ -12643,23 +12643,24 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "STAT"
-    ]
+      "STAT 331"
+    ],
+    "tags": {}
   },
   {
     "id": "6fbba008-5abb-4c62-93d6-d4e7a597685d",
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 21,
-    "overallRating": 1.34,
-    "materialClear": 1.14,
-    "studentDifficulties": 1.62,
+    "numEvals": 22,
+    "overallRating": 1.28,
+    "materialClear": 1.09,
+    "studentDifficulties": 1.59,
     "courses": [
       "CE 204",
       "CE 207"
