@@ -974,17 +974,19 @@
     "department": "GRC",
     "firstName": "Malcolm",
     "lastName": "Keif",
-    "numEvals": 17,
-    "materialClear": 3.17,
-    "studentDifficulties": 2.78,
-    "overallRating": 2.89,
+    "numEvals": 18,
+    "overallRating": 2.9,
+    "materialClear": 3.16,
+    "studentDifficulties": 2.74,
     "courses": [
       "GRC 102",
       "GRC 316",
       "GRC 320",
       "GRC 324",
-      "GRC 403"
-    ]
+      "GRC 403",
+      "GRC 404"
+    ],
+    "tags": {}
   },
   {
     "id": "08573d1b-e82d-4561-b5a2-520948285607",
@@ -6124,13 +6126,19 @@
     "department": "POLS",
     "firstName": "Todd",
     "lastName": "Porter",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
-    ]
+      "POLS 245",
+      "POLS 111"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "332982f7-7f1f-4e39-8e49-ccde8bd79f1b",
@@ -12648,10 +12656,10 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 11,
-    "overallRating": 2.27,
-    "materialClear": 2,
-    "studentDifficulties": 2.91,
+    "numEvals": 21,
+    "overallRating": 1.34,
+    "materialClear": 1.14,
+    "studentDifficulties": 1.62,
     "courses": [
       "CE 204",
       "CE 207"
