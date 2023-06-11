@@ -12558,13 +12558,14 @@
     "department": "BUS",
     "firstName": "Shaimaa",
     "lastName": "Ewais",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 3.5,
     "courses": [
       "BUS 391"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6e79504a-14b9-4d22-a935-1dc5ef1f6124",
@@ -21839,12 +21840,13 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ES"
+      "ES 256",
+      "ES 335"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
