@@ -2144,7 +2144,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 172,
+    "numEvals": 173,
     "overallRating": 3.57,
     "materialClear": 3.64,
     "studentDifficulties": 3.38,
@@ -2156,7 +2156,12 @@
       "BUS 304",
       "BUS 410",
       "BUS 461"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "10bdbba7-9814-4631-b142-e047a22ec6fc",
@@ -12658,10 +12663,10 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 22,
-    "overallRating": 1.28,
-    "materialClear": 1.09,
-    "studentDifficulties": 1.59,
+    "numEvals": 26,
+    "overallRating": 1.7,
+    "materialClear": 1.55,
+    "studentDifficulties": 1.96,
     "courses": [
       "CE 204",
       "CE 207"
