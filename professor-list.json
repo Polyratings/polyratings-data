@@ -8334,7 +8334,7 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 70,
+    "numEvals": 71,
     "overallRating": 3.82,
     "materialClear": 3.8,
     "studentDifficulties": 3.81,
@@ -11285,6 +11285,24 @@
       "CPE 436",
       "CSC 436"
     ]
+  },
+  {
+    "id": "63409eb9-5fd5-40f3-b04c-1b9670048688",
+    "department": "EE",
+    "firstName": "RJ",
+    "lastName": "Macaranas",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "EE"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "63d88ef1-d1f5-47ee-9d69-1ec0fc11ae8a",
@@ -19121,6 +19139,24 @@
     ]
   },
   {
+    "id": "a4167a42-8493-472d-b8a6-1ec423e804f5",
+    "department": "ASCI",
+    "firstName": "Siroj",
+    "lastName": "Pokharel",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ASCI"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
+  },
+  {
     "id": "a4253e79-1287-4a0d-aaa1-b3a7fe36e00a",
     "department": "PHIL",
     "firstName": "Eleanor",
@@ -19361,13 +19397,18 @@
     "department": "ME",
     "firstName": "Ramanan",
     "lastName": "Sritharan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
-    ]
+      "ME 328",
+      "ME 251"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a7526470-ee2c-435f-9eae-6adc62a7d039",
@@ -19610,10 +19651,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 39,
-    "overallRating": 1.43,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.47,
+    "numEvals": 40,
+    "overallRating": 1.39,
+    "materialClear": 1.61,
+    "studentDifficulties": 1.43,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -19985,9 +20026,9 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 155,
+    "numEvals": 154,
     "overallRating": 2.73,
-    "materialClear": 2.85,
+    "materialClear": 2.86,
     "studentDifficulties": 2.67,
     "courses": [
       "ENGL 101",
@@ -21634,6 +21675,23 @@
       "MATH 318",
       "MATH 344"
     ]
+  },
+  {
+    "id": "be8ae34b-4b2a-45a6-b674-0b896ee0070d",
+    "department": "ES",
+    "firstName": "Kristian ",
+    "lastName": "Vasquez",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "bec98738-4464-4b5d-8263-9d9f7a64ae2e",
@@ -24632,6 +24690,24 @@
     ]
   },
   {
+    "id": "d9236e57-b34c-4aaf-b06d-542199c27fa4",
+    "department": "ASCI",
+    "firstName": "Ike",
+    "lastName": "Kang",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "ASCI"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
+  },
+  {
     "id": "d92d972a-40a9-44cf-8f4f-3dbf31d786f7",
     "department": "STAT",
     "firstName": "James",
@@ -27572,6 +27648,23 @@
       "PHYS 133",
       "PHYS 141"
     ]
+  },
+  {
+    "id": "f427b6c8-1ab0-48ac-b62e-1bf3de7a5fb8",
+    "department": "BUS",
+    "firstName": "Bradford",
+    "lastName": "Anderson",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 2,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "f4345299-356a-4a70-a4b0-b15c7c7b517e",
