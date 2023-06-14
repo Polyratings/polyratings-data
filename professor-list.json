@@ -17717,14 +17717,15 @@
     "department": "CSC",
     "firstName": "Ashlee",
     "lastName": "Pieris",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 2.67,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 2.25,
     "courses": [
       "CSC 202",
       "CSC 101"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "9720f04d-614e-4adb-a402-22ba9c91c329",
@@ -18784,7 +18785,7 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 105,
+    "numEvals": 106,
     "overallRating": 3.8,
     "materialClear": 3.8,
     "studentDifficulties": 3.75,
@@ -18807,9 +18808,11 @@
       "MATH 550"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -19493,10 +19496,10 @@
     "department": "MATH",
     "firstName": "Vincent",
     "lastName": "Bonini",
-    "numEvals": 38,
-    "overallRating": 3.48,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.25,
+    "numEvals": 39,
+    "overallRating": 3.49,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.27,
     "courses": [
       "MATH 141",
       "MATH 143",
@@ -19505,7 +19508,12 @@
       "MATH 244",
       "MATH 304",
       "MATH 306"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a83ef80d-14ec-404b-aa2a-e7a5319506c8",
@@ -21088,13 +21096,18 @@
     "department": "COMS",
     "firstName": "Erin",
     "lastName": "Zamora",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b80b1a21-c8b8-400f-8070-d58689d8a8a1",
