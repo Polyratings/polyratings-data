@@ -9010,13 +9010,17 @@
     "department": "PHYS",
     "firstName": "Michael",
     "lastName": "Leyton",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.33,
     "courses": [
       "PHYS 132"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4f12cb8d-b92e-4959-b8f0-46e685d3588b",
@@ -19522,10 +19526,10 @@
     "department": "MATH",
     "firstName": "Vincent",
     "lastName": "Bonini",
-    "numEvals": 39,
-    "overallRating": 3.49,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.27,
+    "numEvals": 40,
+    "overallRating": 3.5,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.29,
     "courses": [
       "MATH 141",
       "MATH 143",
@@ -19536,9 +19540,10 @@
       "MATH 306"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
