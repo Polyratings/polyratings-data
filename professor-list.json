@@ -14649,16 +14649,17 @@
     "department": "BUS",
     "firstName": "Adam",
     "lastName": "Bordeman",
-    "numEvals": 15,
-    "overallRating": 2.81,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.51,
+    "numEvals": 16,
+    "overallRating": 2.76,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.42,
     "courses": [
       "BUS 214",
       "BUS 321"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Recorded Lectures": 1
     }
   },
   {
