@@ -902,10 +902,10 @@
     "department": "MU",
     "firstName": "Alyson",
     "lastName": "McLamore",
-    "numEvals": 25,
-    "overallRating": 3.08,
-    "materialClear": 3.42,
-    "studentDifficulties": 2.92,
+    "numEvals": 26,
+    "overallRating": 3.12,
+    "materialClear": 3.44,
+    "studentDifficulties": 2.96,
     "courses": [
       "MU 320",
       "MU 324",
@@ -915,8 +915,10 @@
       "MU 360"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "No Breaks During Lecture": 1
+      "Fast Response Time": 2,
+      "No Breaks During Lecture": 1,
+      "Pop Quizzes": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -25137,13 +25139,18 @@
     "department": "PHIL",
     "firstName": "Brian",
     "lastName": "Looper",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "PHIL 331"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1
+    }
   },
   {
     "id": "dc62518b-355d-4bca-b683-5990c24bbabb",
