@@ -4378,9 +4378,9 @@
     "department": "PHIL",
     "firstName": "Laura",
     "lastName": "Andes",
-    "numEvals": 65,
-    "overallRating": 1.42,
-    "materialClear": 1.68,
+    "numEvals": 66,
+    "overallRating": 1.4,
+    "materialClear": 1.65,
     "studentDifficulties": 1.25,
     "courses": [
       "PHIL 126",
@@ -4388,7 +4388,9 @@
       "PHIL 231",
       "EDES 408"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "23c9f779-32e8-47d0-9912-f42adde8b391",
@@ -5560,7 +5562,7 @@
     "department": "PHIL",
     "firstName": "Damien",
     "lastName": "Barnes",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5570,7 +5572,8 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9961,10 +9964,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 84,
-    "overallRating": 2.13,
-    "materialClear": 2.07,
-    "studentDifficulties": 2.28,
+    "numEvals": 85,
+    "overallRating": 2.14,
+    "materialClear": 2.08,
+    "studentDifficulties": 2.29,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -9975,7 +9978,11 @@
       "SCM 102",
       "SPC 102",
       "SPC 202"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "575abf2e-dad7-406f-9549-f6a895dcf502",
@@ -13136,13 +13143,17 @@
     "department": "ME",
     "firstName": "Joy",
     "lastName": "Lane",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "ME 211"
-    ]
+      "ME 211",
+      "ME 234"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "73792518-8cf7-432e-8dc5-6c6277532ae0",
@@ -28409,13 +28420,17 @@
     "department": "ES",
     "firstName": "Jennifer ",
     "lastName": "Leal",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 1,
+    "materialClear": 1,
     "studentDifficulties": 2,
     "courses": [
-      "ES"
-    ]
+      "ES 253"
+    ],
+    "tags": {
+      "Pop Quizzes": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "fa213618-8bc8-4442-832a-f90c668ccdd6",
