@@ -879,6 +879,20 @@
     ]
   },
   {
+    "id": "0725ba87-ae7e-4a0e-9c4f-e4569cc65bcc",
+    "department": "CE",
+    "firstName": "Preston",
+    "lastName": "Jones",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CE"
+    ],
+    "tags": {}
+  },
+  {
     "id": "0739f636-6b9e-4f95-b76e-035a1ddf4bfd",
     "department": "EE",
     "firstName": "David",
@@ -17759,6 +17773,20 @@
     "tags": {}
   },
   {
+    "id": "9703c0d2-b6d5-4702-a007-e7e115d6bb47",
+    "department": "ME",
+    "firstName": "Daniel",
+    "lastName": "Castro",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {}
+  },
+  {
     "id": "9720f04d-614e-4adb-a402-22ba9c91c329",
     "department": "CHEM",
     "firstName": "Rob",
@@ -18005,10 +18033,10 @@
     "department": "PHYS",
     "firstName": "Matthew",
     "lastName": "Moelter",
-    "numEvals": 79,
-    "overallRating": 3.57,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.49,
+    "numEvals": 78,
+    "overallRating": 3.59,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.5,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -19315,10 +19343,10 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "CSC 101"
     ],
@@ -24746,6 +24774,22 @@
       "JOUR 385",
       "JOUR 401"
     ]
+  },
+  {
+    "id": "d8f2fbdb-af41-4991-87bc-e886995fc31a",
+    "department": "BRAE",
+    "firstName": "Paul",
+    "lastName": "Reichardt",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "BRAE"
+    ],
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "d9236e57-b34c-4aaf-b06d-542199c27fa4",
