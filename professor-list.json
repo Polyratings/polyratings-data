@@ -8219,7 +8219,7 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 273,
+    "numEvals": 274,
     "overallRating": 2.51,
     "materialClear": 2.52,
     "studentDifficulties": 2.54,
@@ -8238,7 +8238,10 @@
       "SPC 146",
       "SPC 201"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "46b6e6af-7744-4b95-823b-e44cef5e8c9f",
@@ -26501,14 +26504,20 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ES 255",
-      "WGS 345"
-    ]
+      "WGS 345",
+      "ES 253"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "e9789fd8-39db-496b-95a0-8d9e1ce4213e",
