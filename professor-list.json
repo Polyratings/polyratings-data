@@ -22059,14 +22059,18 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 2,
-    "overallRating": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
     "materialClear": 3,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
-      "CHEM",
       "CHEM 124"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "c10db745-222a-41a5-9f76-0d3e6469f84f",
@@ -24866,7 +24870,7 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 57,
+    "numEvals": 58,
     "overallRating": 3.21,
     "materialClear": 2.89,
     "studentDifficulties": 3.24,
@@ -24880,9 +24884,11 @@
       "MATH 244"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -25083,10 +25089,10 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 40,
+    "numEvals": 41,
+    "overallRating": 2.79,
     "materialClear": 2.9,
-    "studentDifficulties": 2.76,
-    "overallRating": 2.78,
+    "studentDifficulties": 2.77,
     "courses": [
       "STAT 217",
       "STAT 218",
@@ -25095,8 +25101,12 @@
       "STAT 302",
       "STAT 305",
       "STAT 321",
-      "STAT 323"
-    ]
+      "STAT 323",
+      "STAT 150"
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "dc04e02f-bdb0-4ddb-b40d-560441e02e32",
