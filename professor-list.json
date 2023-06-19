@@ -11517,14 +11517,16 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Long",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "CHEM 312",
-      "CHEM 127"
-    ]
+      "CHEM 127",
+      "CHEM 125"
+    ],
+    "tags": {}
   },
   {
     "id": "64c1887e-7848-454d-b409-db11435d0e11",
@@ -15567,15 +15569,16 @@
     "department": "CE",
     "firstName": "Daniel",
     "lastName": "See",
-    "numEvals": 10,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.7,
-    "overallRating": 2.6,
+    "numEvals": 11,
+    "overallRating": 2.73,
+    "materialClear": 2.91,
+    "studentDifficulties": 2.82,
     "courses": [
       "CE 113",
       "CE 114",
       "CE 207"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8454bdad-a97a-4937-a8f9-7f5a1b984ef9",
@@ -16466,12 +16469,13 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
-      "MATH 248"
+      "MATH 248",
+      "MATH 143"
     ],
     "tags": {}
   },
