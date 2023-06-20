@@ -25962,15 +25962,18 @@
     "department": "EE",
     "firstName": "Rich",
     "lastName": "Murray",
-    "numEvals": 4,
-    "materialClear": 3.44,
-    "studentDifficulties": 3.63,
-    "overallRating": 3.44,
+    "numEvals": 5,
+    "overallRating": 3.15,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.5,
     "courses": [
       "EE 460",
       "EE 462",
       "EE 143"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "e30fb00b-66e1-46d7-99a2-266f59b4c8dd",
