@@ -22384,10 +22384,10 @@
     "department": "STAT",
     "firstName": "Beth",
     "lastName": "Chance",
-    "numEvals": 66,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.38,
-    "overallRating": 3.4,
+    "numEvals": 67,
+    "overallRating": 3.41,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.39,
     "courses": [
       "STAT 130",
       "STAT 150",
@@ -22401,7 +22401,12 @@
       "STAT 414",
       "STAT 418",
       "STAT 512"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c49a2d98-9999-4c2b-87ef-e52644948531",
@@ -27529,17 +27534,18 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 2.33,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 2.25,
+    "studentDifficulties": 3.25,
     "courses": [
-      "COMS 100"
+      "COMS 100",
+      "COMS 316"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -28694,8 +28700,8 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 205,
-    "overallRating": 3.43,
+    "numEvals": 206,
+    "overallRating": 3.42,
     "materialClear": 3.43,
     "studentDifficulties": 3.33,
     "courses": [
