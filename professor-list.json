@@ -4886,6 +4886,20 @@
     ]
   },
   {
+    "id": "27f7ec39-5049-4b6d-8fc8-b88dab313c9d",
+    "department": "ENGL",
+    "firstName": "Scott",
+    "lastName": "Ferree",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {}
+  },
+  {
     "id": "281974f4-21f4-4098-aa21-cd9497bb29dc",
     "department": "ENGL",
     "firstName": "John",
@@ -25102,10 +25116,10 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 41,
-    "overallRating": 2.79,
-    "materialClear": 2.9,
-    "studentDifficulties": 2.77,
+    "numEvals": 42,
+    "overallRating": 2.82,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.8,
     "courses": [
       "STAT 217",
       "STAT 218",
@@ -25118,7 +25132,9 @@
       "STAT 150"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Zoom Office Hours": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -25632,6 +25648,24 @@
       "ME 404",
       "ME 517"
     ]
+  },
+  {
+    "id": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
+    "department": "WGS",
+    "firstName": "Ednie",
+    "lastName": "Garrison",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "WGS"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "e10c0dd5-9bd9-46fe-983d-affbd67c1763",
@@ -27982,10 +28016,10 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 5,
-    "overallRating": 2.6,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.2,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
     "courses": [
       "STAT 301",
       "STAT 331"
@@ -27993,7 +28027,7 @@
     "tags": {
       "Inflexible Deadline Policy": 3,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Attendance Policy": 1
     }
   },
