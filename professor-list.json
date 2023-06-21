@@ -7279,18 +7279,22 @@
     "department": "ECON",
     "firstName": "Daniel",
     "lastName": "Seiver",
-    "numEvals": 73,
+    "numEvals": 74,
+    "overallRating": 2.25,
     "materialClear": 2.33,
-    "studentDifficulties": 1.98,
-    "overallRating": 2.23,
+    "studentDifficulties": 1.99,
     "courses": [
       "ECON 101",
       "ECON 122",
       "ECON 221",
       "ECON 222",
       "ECON 313",
-      "ECON 337"
-    ]
+      "ECON 337",
+      "ECON 405"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "3f0eccd6-fb4a-4d3b-9de1-c12a4b6bef24",
@@ -17433,13 +17437,17 @@
     "department": "ECON",
     "firstName": "Joseph",
     "lastName": "Kuehn",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ECON"
-    ]
+      "ECON 221",
+      "ECON 339"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "94549e5e-ad62-4305-81c9-72559c50ea2a",
@@ -18807,10 +18815,10 @@
     "department": "CSC",
     "firstName": "Irene",
     "lastName": "Humer",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 2.75,
+    "studentDifficulties": 3,
     "courses": [
       "CSC 203",
       "CSC 357"
@@ -18818,7 +18826,9 @@
     "tags": {
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
     }
   },
   {
