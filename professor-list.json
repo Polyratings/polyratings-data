@@ -3394,17 +3394,18 @@
     "department": "BUS",
     "firstName": "Ziemowit",
     "lastName": "Bednarek",
-    "numEvals": 30,
-    "materialClear": 2,
+    "numEvals": 31,
+    "overallRating": 2.05,
+    "materialClear": 1.94,
     "studentDifficulties": 2.03,
-    "overallRating": 2.09,
     "courses": [
       "BUS 342",
       "BUS 431",
       "BUS 438",
       "BUS 531",
       "GSB 531"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1a048bb0-ab1e-4a0a-a7e8-1b1316bf16ff",
@@ -9683,16 +9684,17 @@
     "department": "CHEM",
     "firstName": "Andres",
     "lastName": "Martinez",
-    "numEvals": 20,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.29,
-    "overallRating": 3.57,
+    "numEvals": 21,
+    "overallRating": 3.59,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.32,
     "courses": [
       "CHEM 101",
       "CHEM 127",
       "CHEM 128",
       "CHEM 331"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "53faf140-8d63-457c-83a7-4d732a532c2c",
@@ -9729,15 +9731,21 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "WGS 301",
       "WGS 145",
-      "COMS 101"
-    ]
+      "COMS 101",
+      "COMS 145"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5462afb4-789e-4fe4-89b6-a03d7b9171ae",
@@ -13625,13 +13633,19 @@
     "department": "CSC",
     "firstName": "Kirsten",
     "lastName": "Mork",
-    "numEvals": 5,
-    "overallRating": 4,
+    "numEvals": 6,
+    "overallRating": 3.83,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CPE 203"
-    ]
+      "CPE 203",
+      "CSC 101"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "764d608b-6876-408f-988a-d3e243891246",
@@ -17718,10 +17732,10 @@
     "department": "STAT",
     "firstName": "Ulric",
     "lastName": "Lund",
-    "numEvals": 96,
-    "overallRating": 3.26,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.13,
+    "numEvals": 97,
+    "overallRating": 3.27,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.14,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -19771,10 +19785,10 @@
     "department": "STAT",
     "firstName": "Samuel",
     "lastName": "Frame",
-    "numEvals": 88,
+    "numEvals": 89,
     "overallRating": 1.94,
     "materialClear": 2.35,
-    "studentDifficulties": 1.61,
+    "studentDifficulties": 1.6,
     "courses": [
       "STAT 217",
       "STAT 251",
@@ -21998,17 +22012,20 @@
     "department": "PHIL",
     "firstName": "Jeremy",
     "lastName": "Dickinson",
-    "numEvals": 27,
-    "overallRating": 2.83,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.75,
+    "numEvals": 28,
+    "overallRating": 2.84,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.76,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 312",
       "PHIL 317",
       "PHIL 335"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "c083bbb4-5406-4867-aa87-c4c61e74d932",
@@ -24496,10 +24513,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 32,
-    "overallRating": 3.52,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.41,
+    "numEvals": 33,
+    "overallRating": 3.5,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.4,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -24509,7 +24526,9 @@
       "MATH 221",
       "MATH 244"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d7bef6e5-b8ab-4a59-b847-4ae8ad005e49",
