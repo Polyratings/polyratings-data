@@ -5811,7 +5811,7 @@
     "department": "COMS",
     "firstName": "Joe",
     "lastName": "Whitt",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5819,7 +5819,8 @@
       "COMS 101"
     ],
     "tags": {
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -8344,17 +8345,18 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 21,
-    "overallRating": 2.14,
-    "materialClear": 1.93,
-    "studentDifficulties": 2.31,
+    "numEvals": 22,
+    "overallRating": 2.22,
+    "materialClear": 2.02,
+    "studentDifficulties": 2.39,
     "courses": [
       "CPE 225",
       "CSC 225",
       "CPE 315",
       "EE 449",
       "CPE 357"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "47876259-968b-4e66-bd7f-5a91d9c20160",
@@ -10320,10 +10322,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 40,
+    "numEvals": 41,
+    "overallRating": 2.86,
     "materialClear": 3.05,
-    "studentDifficulties": 2.68,
-    "overallRating": 2.88,
+    "studentDifficulties": 2.64,
     "courses": [
       "EE 112",
       "EE 201",
@@ -10333,7 +10335,8 @@
       "EE 342",
       "EE 368",
       "EE 113"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "59aacf60-fff6-4af3-8028-e8b9d698085c",
@@ -12225,10 +12228,10 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 66,
-    "overallRating": 2.89,
-    "materialClear": 2.86,
-    "studentDifficulties": 2.71,
+    "numEvals": 67,
+    "overallRating": 2.91,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.73,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -15966,17 +15969,22 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
       "PHYS 143",
       "PSY 142",
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 142"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "8733f0de-5817-4702-8f6f-17abdbd81e55",
