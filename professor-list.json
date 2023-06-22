@@ -22869,10 +22869,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Clements",
-    "numEvals": 64,
-    "materialClear": 2.58,
-    "studentDifficulties": 2.52,
-    "overallRating": 2.6,
+    "numEvals": 65,
+    "overallRating": 2.59,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.51,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -22881,7 +22881,11 @@
       "CSC 202",
       "CPE 430",
       "CSC 430"
-    ]
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "c7cf608c-b164-411b-90c5-1c0ce49c0ba4",
