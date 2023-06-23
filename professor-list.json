@@ -8345,10 +8345,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 22,
-    "overallRating": 2.22,
-    "materialClear": 2.02,
-    "studentDifficulties": 2.39,
+    "numEvals": 23,
+    "overallRating": 2.3,
+    "materialClear": 2.11,
+    "studentDifficulties": 2.46,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -8356,7 +8356,10 @@
       "EE 449",
       "CPE 357"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "47876259-968b-4e66-bd7f-5a91d9c20160",
