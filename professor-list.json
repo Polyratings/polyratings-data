@@ -5028,10 +5028,10 @@
     "department": "ENGL",
     "firstName": "Patricia",
     "lastName": "Kuznetsoff",
-    "numEvals": 92,
-    "overallRating": 2.34,
-    "materialClear": 2.42,
-    "studentDifficulties": 2.53,
+    "numEvals": 93,
+    "overallRating": 2.33,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.51,
     "courses": [
       "ENGL 102",
       "ENGL 134",
@@ -5042,9 +5042,9 @@
       "ENGL 350"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Inflexible Grading Policy": 2,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Inflexible Deadline Policy": 1
     }
   },
@@ -7911,10 +7911,10 @@
     "department": "PHIL",
     "firstName": "Paul",
     "lastName": "Miklowitz",
-    "numEvals": 91,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.39,
+    "numEvals": 92,
     "overallRating": 2.59,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.39,
     "courses": [
       "HNRS 230",
       "PHIL 230",
@@ -7922,7 +7922,8 @@
       "PHIL 315",
       "HUM 335",
       "PHIL 457"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "436ac3ea-924c-40be-a4da-356210634e01",
@@ -7966,15 +7967,20 @@
     "department": "HIST",
     "firstName": "Roger",
     "lastName": "Hall",
-    "numEvals": 32,
-    "overallRating": 3.37,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.18,
+    "numEvals": 33,
+    "overallRating": 3.39,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.2,
     "courses": [
       "HIST 201",
       "HIST 202",
       "HIST 320"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "43d28b7c-0e9e-4f58-9feb-75565943ca18",
@@ -22205,13 +22211,14 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 2,
+    "studentDifficulties": 3,
     "courses": [
-      "BIO"
-    ]
+      "BIO 111"
+    ],
+    "tags": {}
   },
   {
     "id": "c17f9053-58ae-4214-a0ee-fd4787aceb12",
@@ -23712,7 +23719,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 121,
+    "numEvals": 122,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
