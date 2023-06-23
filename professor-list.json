@@ -22369,13 +22369,16 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
-    ]
+      "CHEM 124"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c366c80e-4d08-4796-acee-441a25fea702",
