@@ -14357,13 +14357,18 @@
     "department": "AERO",
     "firstName": "Arnold",
     "lastName": "Deffo",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AERO 331"
-    ]
+      "AERO 331",
+      "AERO 300"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "7b5ba0ad-52ae-4465-aa61-a05bc01c5dc4",
