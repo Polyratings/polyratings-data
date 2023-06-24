@@ -19389,13 +19389,17 @@
     "department": "EE",
     "firstName": "Brendan",
     "lastName": "Rhatigan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "EE"
-    ]
+      "EE 242",
+      "EE 201"
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "a570f3a3-0c5b-435d-a7da-2fedad18c3a0",
