@@ -19126,10 +19126,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 141,
-    "overallRating": 2.31,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.04,
+    "numEvals": 142,
+    "overallRating": 2.3,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.03,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19151,7 +19151,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -23705,10 +23707,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 112,
-    "overallRating": 2.84,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.83,
+    "numEvals": 113,
+    "overallRating": 2.85,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.84,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -23719,9 +23721,10 @@
       "CHEM 128"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
