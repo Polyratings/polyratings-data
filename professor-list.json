@@ -5376,13 +5376,19 @@
     "department": "ME",
     "firstName": "Stephen",
     "lastName": "Kwok-Choon",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
-    ]
+      "ME 212",
+      "ME 341"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "2ce8c1b8-2a6b-4990-887c-96091141be93",
@@ -8840,7 +8846,7 @@
     "department": "ENGL",
     "firstName": "Bill",
     "lastName": "Fitzhenry",
-    "numEvals": 67,
+    "numEvals": 68,
     "overallRating": 3.9,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
@@ -8859,7 +8865,10 @@
       "ENGL 339",
       "ENGR 339",
       "ENGL 439"
-    ]
+    ],
+    "tags": {
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "4c6ad3ca-38e4-4b8d-8731-1a9cbfed1448",
@@ -9698,6 +9707,22 @@
       "BMED 420",
       "BMED 455"
     ]
+  },
+  {
+    "id": "53d7611c-df50-46b6-8c26-525d2c8ecbb8",
+    "department": "MATH",
+    "firstName": "Charlie",
+    "lastName": "Liou",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "53f9bd74-f447-4429-b39c-148e0b289a08",
@@ -11374,17 +11399,18 @@
     "department": "EE",
     "firstName": "RJ",
     "lastName": "Macaranas",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "EE"
+      "EE 251"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -12775,10 +12801,10 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 33,
-    "overallRating": 2.06,
-    "materialClear": 1.94,
-    "studentDifficulties": 2.28,
+    "numEvals": 28,
+    "overallRating": 1.72,
+    "materialClear": 1.58,
+    "studentDifficulties": 1.97,
     "courses": [
       "CE 204",
       "CE 207"
@@ -19550,17 +19576,19 @@
     "department": "ME",
     "firstName": "Ramanan",
     "lastName": "Sritharan",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "ME 328",
       "ME 251"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -19771,6 +19799,22 @@
       "SS",
       "SS 120"
     ]
+  },
+  {
+    "id": "a9d7da17-c872-47ab-af41-b17f6184e931",
+    "department": "CSC",
+    "firstName": "Jenny",
+    "lastName": "Wang",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "aa2c7732-c33e-4581-ab0c-c62e8bd51f73",
@@ -28016,10 +28060,10 @@
     "department": "EE",
     "firstName": "Ying",
     "lastName": "Leighton",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 0.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 0.25,
+    "studentDifficulties": 2.5,
     "courses": [
       "EE 321",
       "EE 201"
@@ -28052,6 +28096,23 @@
       "IME 144",
       "IME 146"
     ]
+  },
+  {
+    "id": "f56a596e-f3da-4e32-b308-b6c1946842ff",
+    "department": "PHIL",
+    "firstName": "Ava",
+    "lastName": "Wright",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "PHIL"
+    ],
+    "tags": {
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f5f19553-4f82-448a-ad5f-f19ff4dc8394",
