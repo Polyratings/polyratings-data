@@ -22266,14 +22266,18 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "BIO 111"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "c17f9053-58ae-4214-a0ee-fd4787aceb12",
