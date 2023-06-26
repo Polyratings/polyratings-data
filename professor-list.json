@@ -4883,13 +4883,18 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 2,
     "courses": [
       "BUS 215"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "27f7ec39-5049-4b6d-8fc8-b88dab313c9d",
@@ -13403,13 +13408,19 @@
     "department": "STAT",
     "firstName": "James",
     "lastName": "Oksanish",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 3,
     "courses": [
-      "STAT 312"
-    ]
+      "STAT 312",
+      "STAT 251"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "746a1911-a32e-40a1-899b-841f24660af0",
