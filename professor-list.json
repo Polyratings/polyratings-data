@@ -2422,16 +2422,21 @@
     "department": "ES",
     "firstName": "Elvira",
     "lastName": "Pulitano",
-    "numEvals": 33,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.06,
-    "overallRating": 2.15,
+    "numEvals": 34,
+    "overallRating": 2.2,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.12,
     "courses": [
       "ES 241",
       "ES 242",
       "ES 340",
       "ES 380"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "124f0030-8d5f-4b2c-84f9-c99620c60efb",
@@ -3064,10 +3069,10 @@
     "department": "ENGL",
     "firstName": "Catherine",
     "lastName": "Waitinas",
-    "numEvals": 34,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.74,
-    "overallRating": 2.76,
+    "numEvals": 35,
+    "overallRating": 2.77,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.78,
     "courses": [
       "ENGL 231",
       "ENGL 240",
@@ -3075,7 +3080,12 @@
       "ENGL 253",
       "ENGL 303",
       "ENGL 345"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "17c66353-0157-4dc3-90b8-b3d7415f646f",
