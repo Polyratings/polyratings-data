@@ -2523,14 +2523,18 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.33,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "CPE 101"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "13b2240c-b811-4db6-8bdc-a76c77421c59",
