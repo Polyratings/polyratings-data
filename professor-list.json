@@ -1938,13 +1938,18 @@
     "department": "ME",
     "firstName": "Ben",
     "lastName": "Lutz",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
-    ]
+      "ME 328",
+      "ME 234"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "0f476bc1-9830-447c-a1da-a484d9356991",
@@ -6453,14 +6458,16 @@
     "department": "IME",
     "firstName": "Eric",
     "lastName": "Pulse",
-    "numEvals": 11,
-    "overallRating": 3.67,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.75,
+    "numEvals": 12,
+    "overallRating": 3.7,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.77,
     "courses": [
       "IME 143",
-      "IME 145"
-    ]
+      "IME 145",
+      "IME 146"
+    ],
+    "tags": {}
   },
   {
     "id": "358dfdd2-9925-4f26-99f0-be3d8addc838",
@@ -9638,10 +9645,10 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 50,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.21,
-    "overallRating": 2.3,
+    "numEvals": 51,
+    "overallRating": 2.29,
+    "materialClear": 2.26,
+    "studentDifficulties": 2.23,
     "courses": [
       "CSC 141",
       "CSC 231",
@@ -9650,7 +9657,8 @@
       "CSC 235",
       "CSC 302",
       "CSC 310"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "53445c32-0779-4179-84b0-e301b22fd05b",
@@ -25443,10 +25451,10 @@
     "department": "MATH",
     "firstName": "Joyce",
     "lastName": "Linn",
-    "numEvals": 45,
-    "overallRating": 3.65,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.49,
+    "numEvals": 46,
+    "overallRating": 3.64,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.48,
     "courses": [
       "HIST 110",
       "MATH 141",
@@ -25456,7 +25464,9 @@
       "MATH 244",
       "MATH 344"
     ],
-    "tags": {}
+    "tags": {
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "dd484786-e5da-4efb-825e-17ec44c92186",
