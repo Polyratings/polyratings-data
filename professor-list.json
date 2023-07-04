@@ -22365,14 +22365,18 @@
     "department": "BIO",
     "firstName": "Grace",
     "lastName": "Goschke",
-    "numEvals": 123,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.17,
-    "overallRating": 2.32,
+    "numEvals": 124,
+    "overallRating": 2.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.18,
     "courses": [
       "BIO 111",
       "BIO 302"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c1c06eea-c7d1-4db3-8a06-11b3a9088080",
