@@ -11130,10 +11130,10 @@
     "department": "ME",
     "firstName": "John",
     "lastName": "Chen",
-    "numEvals": 41,
-    "overallRating": 3.55,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.47,
+    "numEvals": 42,
+    "overallRating": 3.56,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.48,
     "courses": [
       "ME 211",
       "ME 212",
@@ -11141,7 +11141,11 @@
       "ME 303",
       "ME 343",
       "ME 350"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "6098a3e6-62a9-4b83-b353-c0d3d72ef8d1",
@@ -28917,7 +28921,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 206,
+    "numEvals": 207,
     "overallRating": 3.42,
     "materialClear": 3.43,
     "studentDifficulties": 3.33,
