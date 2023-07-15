@@ -19522,10 +19522,10 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 53,
+    "numEvals": 54,
+    "overallRating": 3.72,
     "materialClear": 3.75,
-    "studentDifficulties": 3.67,
-    "overallRating": 3.71,
+    "studentDifficulties": 3.68,
     "courses": [
       "HIST 110",
       "HIST 210",
@@ -19537,8 +19537,10 @@
       "HIST 444",
       "HIST 461",
       "HIST 501",
-      "HIST 510"
-    ]
+      "HIST 510",
+      "HIST 223"
+    ],
+    "tags": {}
   },
   {
     "id": "a5f5cd6b-cea1-4d5b-b7a7-014185b586a3",
