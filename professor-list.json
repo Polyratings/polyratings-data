@@ -5033,6 +5033,22 @@
     ]
   },
   {
+    "id": "29b50a10-669f-4322-889f-3d01796b7d6c",
+    "department": "MATE",
+    "firstName": "Blasius",
+    "lastName": "Ngayakamo",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATE"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "29dd52de-264f-45b0-b72c-2dff53657c76",
     "department": "MU",
     "firstName": "India",
@@ -6661,6 +6677,22 @@
       "COMS 322",
       "COMS 470"
     ]
+  },
+  {
+    "id": "38543400-c599-4d81-afdc-c6a3a350e24b",
+    "department": "CHEM",
+    "firstName": "Tsvetan",
+    "lastName": "Aleksandrov",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 3,
+    "courses": [
+      "CHEM"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "387102af-54cc-4e92-b6a4-75e7f5d58acc",
