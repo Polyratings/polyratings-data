@@ -19195,10 +19195,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 142,
-    "overallRating": 2.3,
+    "numEvals": 143,
+    "overallRating": 2.31,
     "materialClear": 2.4,
-    "studentDifficulties": 2.03,
+    "studentDifficulties": 2.04,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19215,13 +19215,14 @@
       "MATH 408",
       "MATH 412",
       "MATH 413",
-      "MATH 437"
+      "MATH 437",
+      "MATH 406"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Zoom Office Hours": 1,
+      "Flexible Grading Policy": 2,
+      "Zoom Office Hours": 2,
       "Inflexible Grading Policy": 1
     }
   },
