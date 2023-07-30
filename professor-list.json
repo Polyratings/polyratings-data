@@ -5184,6 +5184,23 @@
     ]
   },
   {
+    "id": "2b07c9bf-6124-4351-b978-a1763d70ce55",
+    "department": "MATH",
+    "firstName": "Charlie",
+    "lastName": "Hogue",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
+  },
+  {
     "id": "2b2c4bd7-3dd9-4f51-8f70-7bf5a32ed76c",
     "department": "MATE",
     "firstName": "Trevor",
