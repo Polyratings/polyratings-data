@@ -3208,14 +3208,15 @@
     "department": "MU",
     "firstName": "Nicholas",
     "lastName": "Waldron",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "MU 101",
       "MU 176"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1851bb62-32d6-455f-bfb6-29488ccd7753",
@@ -9710,10 +9711,10 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 51,
-    "overallRating": 2.29,
+    "numEvals": 52,
+    "overallRating": 2.28,
     "materialClear": 2.26,
-    "studentDifficulties": 2.23,
+    "studentDifficulties": 2.19,
     "courses": [
       "CSC 141",
       "CSC 231",
@@ -9723,7 +9724,11 @@
       "CSC 302",
       "CSC 310"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "53445c32-0779-4179-84b0-e301b22fd05b",
@@ -18263,9 +18268,9 @@
     "department": "PHYS",
     "firstName": "Karl",
     "lastName": "Saunders",
-    "numEvals": 89,
+    "numEvals": 90,
     "overallRating": 2.73,
-    "materialClear": 2.78,
+    "materialClear": 2.79,
     "studentDifficulties": 2.76,
     "courses": [
       "PHYS 121",
@@ -18278,8 +18283,9 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Uploads Slides": 2,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 3,
+      "No Breaks During Lecture": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -28876,7 +28882,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 3.88,
     "materialClear": 3.86,
     "studentDifficulties": 3.87,
@@ -28886,7 +28892,12 @@
       "MATH 143",
       "MATH 221",
       "MATH 222"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "fa4f2fc7-4a72-4596-b9de-eb5ad42fdeac",
