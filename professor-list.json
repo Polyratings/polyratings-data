@@ -4325,14 +4325,19 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.67,
     "courses": [
       "EE 306",
       "EE 307"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "22c2456d-8540-4574-ac27-499d65a4caef",
