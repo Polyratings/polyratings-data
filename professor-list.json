@@ -3117,10 +3117,10 @@
     "department": "MATH",
     "firstName": "Morgan",
     "lastName": "Sherman",
-    "numEvals": 59,
-    "overallRating": 3.37,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.3,
+    "numEvals": 60,
+    "overallRating": 3.31,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.26,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -3133,7 +3133,11 @@
       "MATH 505",
       "MATH 248"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "17e44356-8fb1-4780-89e2-be61765bfd67",
