@@ -9586,6 +9586,24 @@
     ]
   },
   {
+    "id": "51c6d479-5909-459d-8f32-4cbffa30abac",
+    "department": "ART",
+    "firstName": "Shane",
+    "lastName": "Anderson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ART"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "51fc0705-5148-4101-ad29-624f0061ad01",
     "department": "ART",
     "firstName": "Teresa",
@@ -11127,6 +11145,24 @@
       "ENGR 581",
       "ENGR 583"
     ]
+  },
+  {
+    "id": "5ffe95db-d4fe-421b-ae2a-5d9cc644dd49",
+    "department": "ENGL",
+    "firstName": "Raymond",
+    "lastName": "Brennan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "600bf0e1-c334-45d4-b7ac-c9e6c51ecd20",
