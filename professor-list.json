@@ -29062,10 +29062,10 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 207,
-    "overallRating": 3.42,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.33,
+    "numEvals": 208,
+    "overallRating": 3.4,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.32,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -29082,7 +29082,9 @@
       "MATH 244",
       "MATH 344"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "fadbaab5-011c-4d4e-9688-eb3dc5f18515",
