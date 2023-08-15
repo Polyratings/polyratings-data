@@ -13681,13 +13681,17 @@
     "department": "PSY",
     "firstName": "Roxanne",
     "lastName": "Rassti",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "PSY 375"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "750954fb-ce7f-4297-9c10-12c15e858b14",
