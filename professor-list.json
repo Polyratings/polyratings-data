@@ -3881,10 +3881,10 @@
     "department": "STAT",
     "firstName": "Jeffrey",
     "lastName": "Sklar",
-    "numEvals": 59,
-    "materialClear": 3.54,
+    "numEvals": 60,
+    "overallRating": 3.33,
+    "materialClear": 3.55,
     "studentDifficulties": 3.13,
-    "overallRating": 3.34,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -3892,7 +3892,8 @@
       "STAT 321",
       "STAT 324",
       "STAT 419"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1dab4b1a-71d5-404f-82bc-e96df0519a4b",
