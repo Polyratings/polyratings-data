@@ -12397,14 +12397,19 @@
     "department": "SPAN",
     "firstName": "Alex",
     "lastName": "Flores",
-    "numEvals": 4,
-    "materialClear": 2,
-    "studentDifficulties": 2.33,
-    "overallRating": 2,
+    "numEvals": 5,
+    "overallRating": 2.2,
+    "materialClear": 2.2,
+    "studentDifficulties": 2.46,
     "courses": [
       "SPAN 101",
       "SPAN 103"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "69dca2d3-8387-49e5-a912-b07ac1827a07",
@@ -18404,10 +18409,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 55,
-    "overallRating": 1.92,
-    "materialClear": 1.69,
-    "studentDifficulties": 2,
+    "numEvals": 56,
+    "overallRating": 1.89,
+    "materialClear": 1.66,
+    "studentDifficulties": 1.96,
     "courses": [
       "EE 111",
       "EE 208",
