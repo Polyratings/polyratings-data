@@ -5124,10 +5124,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 75,
-    "materialClear": 2.18,
-    "studentDifficulties": 2.21,
-    "overallRating": 2.27,
+    "numEvals": 76,
+    "overallRating": 2.29,
+    "materialClear": 2.19,
+    "studentDifficulties": 2.23,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -5143,8 +5143,10 @@
       "MATE 230",
       "ME 236",
       "MATE 340",
-      "MATE 450"
-    ]
+      "MATE 450",
+      "ME 212"
+    ],
+    "tags": {}
   },
   {
     "id": "2ad4d2bf-8e85-4859-90ea-73bdfe1fcfb3",
@@ -22938,10 +22940,10 @@
     "department": "MATH",
     "firstName": "Lawrence",
     "lastName": "Sze",
-    "numEvals": 162,
+    "numEvals": 163,
     "overallRating": 2.48,
     "materialClear": 2.34,
-    "studentDifficulties": 2.54,
+    "studentDifficulties": 2.55,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -22956,7 +22958,8 @@
       "MATH 341",
       "MATH 437",
       "MATH 481"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "c6507394-22ba-4583-9063-e28e627edc4b",
@@ -27391,7 +27394,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 184,
+    "numEvals": 185,
     "overallRating": 3.45,
     "materialClear": 3.43,
     "studentDifficulties": 3.27,
