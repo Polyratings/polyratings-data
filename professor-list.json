@@ -4478,16 +4478,20 @@
     "department": "PHYS",
     "firstName": "Xiaofeng (Jack)",
     "lastName": "Wang",
-    "numEvals": 33,
-    "overallRating": 1.76,
-    "materialClear": 1.46,
-    "studentDifficulties": 1.82,
+    "numEvals": 34,
+    "overallRating": 1.74,
+    "materialClear": 1.45,
+    "studentDifficulties": 1.8,
     "courses": [
       "PHYS 121",
       "PHYS 122",
       "PHYS 132",
-      "PHYS 133"
-    ]
+      "PHYS 133",
+      "PHYS 142"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "244c81b0-f2b1-4204-a5fc-d30b29dbddcd",
@@ -11615,10 +11619,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 148,
-    "overallRating": 2.35,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.29,
+    "numEvals": 149,
+    "overallRating": 2.36,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.3,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -11639,7 +11643,8 @@
       "MATH 431",
       "MATH 432",
       "MATH 433"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6447729f-af52-475c-bcd9-423d918998f1",
