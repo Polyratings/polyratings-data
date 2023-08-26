@@ -13903,10 +13903,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 99,
-    "overallRating": 2.69,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.55,
+    "numEvals": 100,
+    "overallRating": 2.7,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.56,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -16761,9 +16761,9 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 76,
+    "numEvals": 77,
     "overallRating": 3.38,
-    "materialClear": 3.43,
+    "materialClear": 3.42,
     "studentDifficulties": 3.15,
     "courses": [
       "CPE 101",
@@ -16777,7 +16777,8 @@
       "CSC 453",
       "CPE 464",
       "CSC 464"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8bc4af2f-2d2f-48d5-9442-e35dbbd68f2e",
@@ -19090,14 +19091,15 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.33,
     "courses": [
-      "CHEM",
-      "CHEM 124"
-    ]
+      "CHEM 124",
+      "PHYS 141"
+    ],
+    "tags": {}
   },
   {
     "id": "a14b9a4a-e17b-4a76-81c9-2a30f98e0216",
