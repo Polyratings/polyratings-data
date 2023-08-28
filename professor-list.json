@@ -23288,10 +23288,10 @@
     "department": "BIO",
     "firstName": "Jenn",
     "lastName": "Yost",
-    "numEvals": 47,
+    "numEvals": 48,
+    "overallRating": 3.94,
     "materialClear": 3.96,
     "studentDifficulties": 3.88,
-    "overallRating": 3.94,
     "courses": [
       "BIO 121",
       "BOT 121",
@@ -23301,7 +23301,8 @@
       "BOT 313",
       "BIO 433",
       "BOT 433"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "c9fafe3a-452b-4155-bc99-a354b9627d4d",
