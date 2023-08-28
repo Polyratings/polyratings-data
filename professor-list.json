@@ -3368,10 +3368,10 @@
     "department": "CRP",
     "firstName": "Umut",
     "lastName": "Toker",
-    "numEvals": 12,
+    "numEvals": 11,
+    "overallRating": 3.67,
     "materialClear": 3.67,
     "studentDifficulties": 3.67,
-    "overallRating": 3.67,
     "courses": [
       "CRP 201",
       "CRP 202",
@@ -9386,6 +9386,23 @@
     ],
     "tags": {
       "Recorded Lectures": 1
+    }
+  },
+  {
+    "id": "4faf9c65-5878-4205-8912-4988dc6a09dc",
+    "department": "WGS",
+    "firstName": "Alexia",
+    "lastName": "Arani",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "WGS"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -28838,6 +28855,22 @@
       "ES 322",
       "ES 335"
     ]
+  },
+  {
+    "id": "f96d727a-f112-4c41-b3e4-c55719e5b1ea",
+    "department": "MATH",
+    "firstName": "Sean",
+    "lastName": "Watson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "f9876335-ef61-418d-9804-903770797b81",
