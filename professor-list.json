@@ -26302,10 +26302,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Bellardo",
-    "numEvals": 35,
-    "overallRating": 2.55,
-    "materialClear": 2.42,
-    "studentDifficulties": 2.39,
+    "numEvals": 36,
+    "overallRating": 2.56,
+    "materialClear": 2.44,
+    "studentDifficulties": 2.43,
     "courses": [
       "CSC 101",
       "CPE 123",
@@ -26320,7 +26320,12 @@
       "CSC 465",
       "CPE 569",
       "CPE 315"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "e2cbe207-050c-4685-8309-14b9bc8af61d",
