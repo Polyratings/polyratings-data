@@ -4026,6 +4026,20 @@
     ]
   },
   {
+    "id": "1f3a1b46-fda2-4b26-a459-765781d7a701",
+    "department": "ISLA",
+    "firstName": "Stina",
+    "lastName": "Attebery",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ISLA"
+    ],
+    "tags": {}
+  },
+  {
     "id": "1f47e0ea-6a14-4f84-9aeb-898630ad566d",
     "department": "BUS",
     "firstName": "Sharon",
@@ -6180,6 +6194,23 @@
       "ARCH 351",
       "ARCH 352"
     ]
+  },
+  {
+    "id": "31f8e995-c234-47a1-9128-5308a772c12a",
+    "department": "ENGL",
+    "firstName": "Scott",
+    "lastName": "Hamilton",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "31fa4ff6-d393-412f-8663-2c1f138a099a",
@@ -23266,6 +23297,24 @@
     ]
   },
   {
+    "id": "c916c929-d171-490e-ad19-1ad9faae54bc",
+    "department": "MU",
+    "firstName": "Idona",
+    "lastName": "Cabrinha",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MU"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
+  },
+  {
     "id": "c936844e-6ddf-44d0-abb1-b5ec6f1977be",
     "department": "PHYS",
     "firstName": "Glen",
@@ -29769,15 +29818,16 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 35,
-    "overallRating": 2,
-    "materialClear": 2.09,
-    "studentDifficulties": 1.84,
+    "numEvals": 36,
+    "overallRating": 1.94,
+    "materialClear": 2.03,
+    "studentDifficulties": 1.79,
     "courses": [
       "BIO 161",
       "BIO 221",
       "MCRO 221"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "ff9c4871-dacd-49a5-8cf2-65dd8b52d202",
