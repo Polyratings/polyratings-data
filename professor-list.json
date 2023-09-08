@@ -6332,10 +6332,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 115,
+    "numEvals": 116,
     "overallRating": 3.43,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.26,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.27,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -9159,13 +9159,14 @@
     "department": "CHEM",
     "firstName": "Leslie",
     "lastName": "Hamachi",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "CHEM 124"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "4de0b45f-6c3e-4c6f-8dab-ab65dbf88f2d",
@@ -9947,13 +9948,15 @@
     "department": "BIO",
     "firstName": "Jean",
     "lastName": "Davidson",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
-    ]
+      "BIO 305",
+      "BIO 161"
+    ],
+    "tags": {}
   },
   {
     "id": "5454a6d7-4b1a-43d4-94e2-cb4b33b02481",
@@ -11275,17 +11278,23 @@
     "department": "ENGL",
     "firstName": "William",
     "lastName": "Walters",
-    "numEvals": 73,
-    "materialClear": 2.69,
-    "studentDifficulties": 2.71,
-    "overallRating": 2.69,
+    "numEvals": 74,
+    "overallRating": 2.65,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.69,
     "courses": [
       "ENGL 101",
       "ENGL 134",
       "ENGL 145",
       "ENGL 148",
-      "ENGL 149"
-    ]
+      "ENGL 149",
+      "ENGL 147"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "607e061a-8b61-4697-a373-a778800a82a0",
@@ -18246,10 +18255,10 @@
     "department": "CHEM",
     "firstName": "Gregory",
     "lastName": "Scott",
-    "numEvals": 50,
-    "overallRating": 3.4,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.32,
+    "numEvals": 51,
+    "overallRating": 3.41,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.33,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -18376,10 +18385,10 @@
     "department": "PHYS",
     "firstName": "Matthew",
     "lastName": "Moelter",
-    "numEvals": 78,
-    "overallRating": 3.59,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.5,
+    "numEvals": 79,
+    "overallRating": 3.57,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.49,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -18458,10 +18467,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 29,
-    "overallRating": 3.34,
-    "materialClear": 3.27,
-    "studentDifficulties": 3.2,
+    "numEvals": 30,
+    "overallRating": 3.33,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.23,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18469,7 +18478,8 @@
       "MATH 241",
       "MATH 248",
       "MATH 540"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "9b13a7c2-22ae-4dc6-a3d6-b98a11552490",
@@ -22439,17 +22449,19 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -25994,8 +26006,8 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 39,
-    "overallRating": 3.84,
+    "numEvals": 40,
+    "overallRating": 3.82,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
     "courses": [
@@ -26070,12 +26082,12 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 1,
     "studentDifficulties": 3,
     "courses": [
-      "WGS"
+      "WGS 201"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -26671,17 +26683,19 @@
     "department": "CHEM",
     "firstName": "Nisa",
     "lastName": "Satumtira",
-    "numEvals": 38,
-    "materialClear": 1.61,
+    "numEvals": 39,
+    "overallRating": 1.87,
+    "materialClear": 1.65,
     "studentDifficulties": 2.11,
-    "overallRating": 1.84,
     "courses": [
       "CHEM 111",
       "CHEM 124",
       "CHEM 127",
       "CHEM 128",
-      "CHEM 129"
-    ]
+      "CHEM 129",
+      "CHEM 125"
+    ],
+    "tags": {}
   },
   {
     "id": "e4d9f6cf-5521-4037-ac8c-45c8a710862b",
