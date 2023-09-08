@@ -223,13 +223,15 @@
     "department": "COMS",
     "firstName": "Darrian",
     "lastName": "Carroll",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
-    ]
+      "COMS 332",
+      "COMS 205"
+    ],
+    "tags": {}
   },
   {
     "id": "02c296ab-bd67-46c5-8647-5305d6f84824",
@@ -13136,13 +13138,15 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 1,
+    "materialClear": 2.5,
+    "studentDifficulties": 1.5,
     "courses": [
-      "HIST"
-    ]
+      "HIST 222",
+      "HIST 225"
+    ],
+    "tags": {}
   },
   {
     "id": "71201e52-81a8-440e-8544-205aaef7a9ac",
