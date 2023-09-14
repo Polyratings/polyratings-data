@@ -744,13 +744,14 @@
     "department": "ARCH",
     "firstName": "Zahra",
     "lastName": "Rasti",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
       "ARCH 253"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "06532128-f8b0-4514-a33b-1c6429974263",
@@ -11498,12 +11499,13 @@
     "department": "ARCH",
     "firstName": "Alex",
     "lastName": "Hirsig",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ARCH"
+      "ARCH 353",
+      "ARCH 351"
     ],
     "tags": {
       "High In-Person Availability": 1,
