@@ -5340,10 +5340,10 @@
     "department": "PHIL",
     "firstName": "Keith",
     "lastName": "Abney",
-    "numEvals": 137,
-    "overallRating": 2.32,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.07,
+    "numEvals": 138,
+    "overallRating": 2.31,
+    "materialClear": 2.61,
+    "studentDifficulties": 2.05,
     "courses": [
       "PHIL 124",
       "PHIL 125",
@@ -5363,7 +5363,10 @@
       "PHIL 339"
     ],
     "tags": {
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Hybrid Option": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -5413,17 +5416,22 @@
     "department": "PHIL",
     "firstName": "Ryan",
     "lastName": "Jenkins",
-    "numEvals": 28,
-    "materialClear": 3.76,
+    "numEvals": 29,
+    "overallRating": 3.7,
+    "materialClear": 3.77,
     "studentDifficulties": 3.86,
-    "overallRating": 3.69,
     "courses": [
       "PHIL 126",
       "PHIL 231",
       "PHIL 322",
       "PHIL 323",
       "PHIL 342"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "2c770f03-2d67-459b-bbe5-fb0506e60d45",
@@ -11302,13 +11310,19 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHIL 323"
-    ]
+      "PHIL 323",
+      "PHIL 336"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "60953a30-148b-4437-bab0-fd64a33a651f",
@@ -19595,16 +19609,22 @@
     "department": "PHIL",
     "firstName": "Eleanor",
     "lastName": "Helms",
-    "numEvals": 31,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.25,
-    "overallRating": 3.31,
+    "numEvals": 32,
+    "overallRating": 3.33,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.27,
     "courses": [
       "PHIL 230",
       "PHIL 312",
       "PHIL 316",
-      "PHIL 350"
-    ]
+      "PHIL 350",
+      "PHIL 319"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "a441de34-418a-4b42-a873-18f0eb7ae0c6",
@@ -22365,10 +22385,10 @@
     "department": "PHIL",
     "firstName": "Jeremy",
     "lastName": "Dickinson",
-    "numEvals": 28,
-    "overallRating": 2.84,
-    "materialClear": 2.84,
-    "studentDifficulties": 2.76,
+    "numEvals": 29,
+    "overallRating": 2.88,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.8,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -22377,7 +22397,10 @@
       "PHIL 335"
     ],
     "tags": {
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -26183,17 +26206,24 @@
     "department": "PHIL",
     "firstName": "Francisco",
     "lastName": "Fernflores",
-    "numEvals": 23,
-    "overallRating": 3.01,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.01,
+    "numEvals": 26,
+    "overallRating": 3.13,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.13,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 321",
-      "PHIL 241"
+      "PHIL 241",
+      "PHIL 421"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 3,
+      "Honor DRC Accommodations": 3,
+      "Uploads Slides": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "e2058522-9099-4d8e-94e6-4d7367d7fd7e",
@@ -26488,13 +26518,19 @@
     "department": "PHIL",
     "firstName": "Jacob",
     "lastName": "Sparks",
-    "numEvals": 4,
-    "overallRating": 2.75,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.75,
+    "numEvals": 5,
+    "overallRating": 3,
+    "materialClear": 3.6,
+    "studentDifficulties": 3,
     "courses": [
-      "PHIL 323"
-    ]
+      "PHIL 323",
+      "PHIL 331"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "e3782858-1570-418e-a098-5f49306d8aa6",
