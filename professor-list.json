@@ -2592,13 +2592,16 @@
     "department": "BUS",
     "firstName": "Barry",
     "lastName": "VanderKelen",
-    "numEvals": 8,
-    "materialClear": 3,
-    "studentDifficulties": 2.75,
-    "overallRating": 2.88,
+    "numEvals": 9,
+    "overallRating": 3,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.89,
     "courses": [
       "BUS 401"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "1428b52d-4648-4065-9eb4-c70942f3e598",
@@ -5833,13 +5836,14 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 2.5,
+    "studentDifficulties": 1.5,
     "courses": [
-      "BUS"
-    ]
+      "BUS 391"
+    ],
+    "tags": {}
   },
   {
     "id": "2f832159-0417-459d-8592-8bf20c99a0cb",
