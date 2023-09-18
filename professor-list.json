@@ -8821,15 +8821,19 @@
     "department": "ENGL",
     "firstName": "Rebekah",
     "lastName": "Maples",
-    "numEvals": 21,
+    "numEvals": 22,
+    "overallRating": 3.83,
     "materialClear": 3.91,
-    "studentDifficulties": 3.82,
-    "overallRating": 3.82,
+    "studentDifficulties": 3.83,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 147"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "4a469193-899a-45b5-abcf-a3de59c8045d",
