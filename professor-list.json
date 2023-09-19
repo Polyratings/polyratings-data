@@ -28129,16 +28129,20 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 3.8,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
       "PHYS 121",
       "PHYS 143"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f336f2ee-990a-4a47-9729-d879d88971c0",
