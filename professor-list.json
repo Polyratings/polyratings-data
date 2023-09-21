@@ -27909,16 +27909,22 @@
     "department": "CHIN",
     "firstName": "Sophia",
     "lastName": "Chen",
-    "numEvals": 10,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.55,
-    "overallRating": 2.82,
+    "numEvals": 11,
+    "overallRating": 2.93,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.5,
     "courses": [
       "CE 101",
       "FORL 101",
       "CE 103",
-      "FORL 103"
-    ]
+      "FORL 103",
+      "CHIN 103"
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "f12fd897-3a9b-40e5-8cad-54b605c12417",
