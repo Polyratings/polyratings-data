@@ -19749,14 +19749,18 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 3,
-    "overallRating": 2.67,
+    "numEvals": 4,
+    "overallRating": 2.75,
     "materialClear": 3,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.25,
     "courses": [
       "CSC 101"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a5e30926-e729-4fbf-9127-1e30de1a0831",
@@ -23096,10 +23100,10 @@
     "department": "PHYS",
     "firstName": "William",
     "lastName": "Horst",
-    "numEvals": 168,
-    "overallRating": 2.08,
-    "materialClear": 2.35,
-    "studentDifficulties": 1.96,
+    "numEvals": 169,
+    "overallRating": 2.09,
+    "materialClear": 2.36,
+    "studentDifficulties": 1.97,
     "courses": [
       "PHYS 111",
       "MATH 118",
@@ -23116,7 +23120,9 @@
       "PHYS 143"
     ],
     "tags": {
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Fast Response Time": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
