@@ -239,16 +239,17 @@
     "firstName": "Michael",
     "lastName": "Cirovic",
     "numEvals": 24,
+    "overallRating": 1.39,
     "materialClear": 1.57,
     "studentDifficulties": 1.43,
-    "overallRating": 1.39,
     "courses": [
       "EE 109",
       "EE 110",
       "EE 309",
       "EE 409",
       "EE 460"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "02d1d453-2d00-4512-813d-fee0c7d2105c",
@@ -8371,10 +8372,10 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 85,
-    "overallRating": 2.97,
-    "materialClear": 2.99,
-    "studentDifficulties": 2.8,
+    "numEvals": 86,
+    "overallRating": 2.96,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.79,
     "courses": [
       "TH 110",
       "TH 201",
@@ -8383,7 +8384,11 @@
       "TH 228",
       "TH 360",
       "HNRS 299"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "463c26e0-711f-40d4-840e-abc08cbd9b29",
