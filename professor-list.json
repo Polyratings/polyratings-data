@@ -20658,16 +20658,20 @@
     "department": "AGB",
     "firstName": "Ricky",
     "lastName": "Volpe",
-    "numEvals": 16,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.63,
-    "overallRating": 3.58,
+    "numEvals": 17,
+    "overallRating": 3.49,
+    "materialClear": 3.32,
+    "studentDifficulties": 3.53,
     "courses": [
       "AGB 327",
       "AGB 404",
       "AGB 422",
       "AGB 425"
-    ]
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "af6ede7c-406f-4ae2-b8cf-142d316a1b8b",
