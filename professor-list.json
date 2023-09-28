@@ -5120,10 +5120,10 @@
     "department": "ENGL",
     "firstName": "Patricia",
     "lastName": "Kuznetsoff",
-    "numEvals": 93,
-    "overallRating": 2.33,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.51,
+    "numEvals": 94,
+    "overallRating": 2.34,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.52,
     "courses": [
       "ENGL 102",
       "ENGL 134",
@@ -5137,7 +5137,7 @@
       "Zoom Office Hours": 2,
       "Inflexible Grading Policy": 2,
       "Recorded Lectures": 2,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2
     }
   },
   {
@@ -5937,7 +5937,7 @@
     "department": "COMS",
     "firstName": "Joe",
     "lastName": "Whitt",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7306,10 +7306,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 53,
-    "overallRating": 2.44,
-    "materialClear": 2.48,
-    "studentDifficulties": 2.28,
+    "numEvals": 54,
+    "overallRating": 2.41,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.24,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -7318,7 +7318,12 @@
       "PHYS 141",
       "PHYS 211",
       "PHYS 341"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "3db68996-5636-4327-b44b-6ee009b7f6d4",
@@ -26751,10 +26756,10 @@
     "department": "CHEM",
     "firstName": "Nisa",
     "lastName": "Satumtira",
-    "numEvals": 39,
+    "numEvals": 40,
     "overallRating": 1.87,
-    "materialClear": 1.65,
-    "studentDifficulties": 2.11,
+    "materialClear": 1.68,
+    "studentDifficulties": 2.16,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -26763,7 +26768,10 @@
       "CHEM 129",
       "CHEM 125"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "e4d9f6cf-5521-4037-ac8c-45c8a710862b",
