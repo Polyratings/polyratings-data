@@ -14415,10 +14415,10 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 93,
-    "materialClear": 2.04,
-    "studentDifficulties": 1.64,
-    "overallRating": 1.82,
+    "numEvals": 94,
+    "overallRating": 1.83,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.67,
     "courses": [
       "ENGL 134",
       "ENGL 141",
@@ -14431,7 +14431,11 @@
       "ENGL 334",
       "ENGL 335",
       "ENGL 382"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "790ac45d-059c-43e0-871d-5232417a0218",
@@ -21055,10 +21059,10 @@
     "department": "WGS",
     "firstName": "Ruth",
     "lastName": "Kalin",
-    "numEvals": 70,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.94,
+    "numEvals": 71,
     "overallRating": 2.93,
+    "materialClear": 3.14,
+    "studentDifficulties": 2.95,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -21066,7 +21070,8 @@
       "WGS 301",
       "WGS 320",
       "WGS 340"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b331e797-693b-4f15-bce5-5b546376e68a",
