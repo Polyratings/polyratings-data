@@ -8342,13 +8342,14 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 1,
     "courses": [
       "MATE 210",
-      "BRAE 348"
+      "BRAE 348",
+      "CHEM 127"
     ],
     "tags": {
       "High In-Person Availability": 1,
