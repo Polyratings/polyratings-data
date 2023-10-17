@@ -3818,17 +3818,19 @@
     "department": "FSN",
     "firstName": "Lauren",
     "lastName": "Papanos",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 2,
     "courses": [
-      "FSN"
+      "FSN 250"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -4383,10 +4385,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 77,
-    "overallRating": 3.45,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.51,
+    "numEvals": 79,
+    "overallRating": 3.47,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.49,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -4394,7 +4396,11 @@
       "MATH 241",
       "MATH 244",
       "MATH 344"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 2
+    }
   },
   {
     "id": "232418f4-56c0-40af-8c87-eecb4a104a3e",
@@ -14291,10 +14297,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 59,
-    "overallRating": 2,
-    "materialClear": 1.86,
-    "studentDifficulties": 2.04,
+    "numEvals": 60,
+    "overallRating": 2.02,
+    "materialClear": 1.88,
+    "studentDifficulties": 2.02,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -14308,9 +14314,9 @@
       "CSC 203"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -14806,7 +14812,7 @@
     "department": "ES",
     "firstName": "Alpen",
     "lastName": "Razi",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 3.96,
     "materialClear": 3.89,
     "studentDifficulties": 3.91,
@@ -14819,7 +14825,11 @@
       "ES 380",
       "ES 254"
     ],
-    "tags": {}
+    "tags": {
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "7bc42e42-644e-4eeb-a114-44789b2e4725",
@@ -23279,10 +23289,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Clements",
-    "numEvals": 65,
-    "overallRating": 2.59,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.51,
+    "numEvals": 66,
+    "overallRating": 2.6,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.53,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -23294,7 +23304,8 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -25580,10 +25591,10 @@
     "department": "CSC",
     "firstName": "Zachary",
     "lastName": "Peterson",
-    "numEvals": 18,
-    "overallRating": 3.72,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.56,
+    "numEvals": 19,
+    "overallRating": 3.73,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.58,
     "courses": [
       "CPE 123",
       "CSC 123",
@@ -25591,7 +25602,12 @@
       "CSC 453",
       "CSC 456",
       "CSC 458"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "db529e88-c479-44ee-9acb-0cc46c902b53",
