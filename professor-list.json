@@ -1805,10 +1805,10 @@
     "department": "PHYS",
     "firstName": "Jonathan",
     "lastName": "Fernsler",
-    "numEvals": 46,
-    "overallRating": 2.59,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.84,
+    "numEvals": 48,
+    "overallRating": 2.63,
+    "materialClear": 2.52,
+    "studentDifficulties": 2.88,
     "courses": [
       "PSC 101",
       "PHYS 121",
@@ -1820,10 +1820,15 @@
       "PHYS 142",
       "PHYS 145",
       "PHYS 211",
-      "PHYS 401"
+      "PHYS 401",
+      "PHYS 143"
     ],
     "tags": {
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -12544,10 +12549,10 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 67,
+    "numEvals": 68,
     "overallRating": 2.91,
     "materialClear": 2.88,
-    "studentDifficulties": 2.73,
+    "studentDifficulties": 2.72,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -12562,7 +12567,8 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -15642,10 +15648,10 @@
     "department": "EE",
     "firstName": "Gary",
     "lastName": "Perks",
-    "numEvals": 209,
-    "overallRating": 3.57,
+    "numEvals": 210,
+    "overallRating": 3.56,
     "materialClear": 3.65,
-    "studentDifficulties": 3.49,
+    "studentDifficulties": 3.48,
     "courses": [
       "EE 112",
       "CPE 133",
@@ -15667,7 +15673,11 @@
       "EE 361",
       "CPE 233"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "824c1c43-8884-43fa-b2ed-f915bde3daab",
@@ -24354,15 +24364,19 @@
     "department": "ENGL",
     "firstName": "Alicia",
     "lastName": "Moretti",
-    "numEvals": 22,
-    "materialClear": 3.13,
-    "studentDifficulties": 3.18,
-    "overallRating": 3.18,
+    "numEvals": 23,
+    "overallRating": 3.22,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.22,
     "courses": [
       "ENGL 134",
       "ENGL 290",
       "ENGL 391"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "d2ecfd48-bba6-408e-afc9-e928d7981b79",
