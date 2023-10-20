@@ -6318,10 +6318,10 @@
     "department": "ME",
     "firstName": "Joe",
     "lastName": "Mello",
-    "numEvals": 40,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.3,
-    "overallRating": 3.37,
+    "numEvals": 41,
+    "overallRating": 3.34,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.27,
     "courses": [
       "BIO 111",
       "ME 128",
@@ -6331,7 +6331,11 @@
       "ME 328",
       "ME 329",
       "ME 412"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "32f6a2b7-d906-4b5d-8ff6-00257d891bb1",
