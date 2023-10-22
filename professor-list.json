@@ -4439,10 +4439,10 @@
     "department": "EE",
     "firstName": "Fred",
     "lastName": "DePiero",
-    "numEvals": 30,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.48,
-    "overallRating": 3.55,
+    "numEvals": 31,
+    "overallRating": 3.56,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.5,
     "courses": [
       "EE 112",
       "EE 201",
@@ -4455,7 +4455,10 @@
       "EE 419",
       "EE 515",
       "EE 525"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "2395b5d8-16b5-42e8-8753-f0553903dd50",
@@ -11733,10 +11736,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 149,
+    "numEvals": 150,
     "overallRating": 2.36,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.3,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.31,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -11758,7 +11761,10 @@
       "MATH 432",
       "MATH 433"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "6447729f-af52-475c-bcd9-423d918998f1",
@@ -21216,10 +21222,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 52,
-    "overallRating": 2.83,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.67,
+    "numEvals": 53,
+    "overallRating": 2.85,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.7,
     "courses": [
       "ME 129",
       "ME 130",
@@ -21231,8 +21237,10 @@
       "ME 318"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "High In-Person Availability": 2,
+      "Class Handouts": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
