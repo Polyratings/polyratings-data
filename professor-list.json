@@ -7738,10 +7738,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 25,
-    "overallRating": 3.77,
-    "materialClear": 3.86,
-    "studentDifficulties": 3.81,
+    "numEvals": 26,
+    "overallRating": 3.78,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.82,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -7751,7 +7751,11 @@
       "CSC 430",
       "CSC 248"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "41532f7f-c8cb-4634-8acc-035bd5d56f25",
