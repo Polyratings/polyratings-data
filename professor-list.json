@@ -10720,7 +10720,7 @@
     "department": "PHYS",
     "firstName": "Antonio",
     "lastName": "Garcia",
-    "numEvals": 113,
+    "numEvals": 112,
     "overallRating": 2.65,
     "materialClear": 2.68,
     "studentDifficulties": 2.44,
@@ -14248,6 +14248,23 @@
       "CRP 457",
       "CRP 530"
     ]
+  },
+  {
+    "id": "772c4b8a-ce23-4afb-a5e5-05987a599046",
+    "department": "PHYS",
+    "firstName": "Pasha",
+    "lastName": "Tabatabai ",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "77355efd-cfb8-477e-ab85-0d7913f37bdf",
@@ -25836,12 +25853,11 @@
     "department": "MATH",
     "firstName": "Joyce",
     "lastName": "Linn",
-    "numEvals": 46,
+    "numEvals": 45,
     "overallRating": 3.64,
     "materialClear": 3.68,
     "studentDifficulties": 3.48,
     "courses": [
-      "HIST 110",
       "MATH 141",
       "MATH 142",
       "MATH 143",
