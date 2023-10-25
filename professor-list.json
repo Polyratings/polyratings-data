@@ -5159,10 +5159,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 76,
-    "overallRating": 2.29,
+    "numEvals": 77,
+    "overallRating": 2.31,
     "materialClear": 2.19,
-    "studentDifficulties": 2.23,
+    "studentDifficulties": 2.24,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -5181,7 +5181,10 @@
       "MATE 450",
       "ME 212"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "2ad4d2bf-8e85-4859-90ea-73bdfe1fcfb3",
@@ -8705,10 +8708,10 @@
     "department": "CE",
     "firstName": "Garrett",
     "lastName": "Hall",
-    "numEvals": 59,
-    "overallRating": 3.09,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.2,
+    "numEvals": 60,
+    "overallRating": 3.11,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.18,
     "courses": [
       "CE 204",
       "CE 205",
@@ -8721,7 +8724,11 @@
       "CE 407",
       "CE 501"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Does Not Use Canvas": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "48f2b060-fb3a-4aac-843f-42404398762a",
@@ -13102,10 +13109,10 @@
     "department": "CE",
     "firstName": "Mamadou",
     "lastName": "Konate",
-    "numEvals": 32,
-    "overallRating": 2,
+    "numEvals": 33,
+    "overallRating": 1.97,
     "materialClear": 1.88,
-    "studentDifficulties": 2.23,
+    "studentDifficulties": 2.25,
     "courses": [
       "CE 204",
       "CE 207"
@@ -18846,13 +18853,18 @@
     "department": "PHIL",
     "firstName": "Sam",
     "lastName": "Zahn",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHIL 230"
-    ]
+      "PHIL 230",
+      "PHIL 126"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9d48cd91-d505-47a6-a15f-5ae2502d73ab",
@@ -24624,10 +24636,10 @@
     "department": "CE",
     "firstName": "Daniel",
     "lastName": "Jansen",
-    "numEvals": 31,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.06,
-    "overallRating": 3.34,
+    "numEvals": 32,
+    "overallRating": 3.33,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.09,
     "courses": [
       "CE 111",
       "CE 201",
@@ -24637,7 +24649,12 @@
       "CE 259",
       "CE 355",
       "CE 559"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "d4fdc462-122e-431d-a152-b98b57711f07",
@@ -28554,13 +28571,18 @@
     "department": "CE",
     "firstName": "David",
     "lastName": "Houghton",
-    "numEvals": 7,
-    "materialClear": 2.88,
-    "studentDifficulties": 3.25,
-    "overallRating": 3.25,
+    "numEvals": 8,
+    "overallRating": 3.34,
+    "materialClear": 2.9,
+    "studentDifficulties": 3.34,
     "courses": [
-      "CE 475"
-    ]
+      "CE 475",
+      "CE 251"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f55e5e70-6b9e-4733-aac3-0429e44f325b",
