@@ -12509,17 +12509,19 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 27,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.78,
-    "overallRating": 3.78,
+    "numEvals": 28,
+    "overallRating": 3.72,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.68,
     "courses": [
       "EE 212",
       "EE 306",
       "EE 308",
       "EE 409",
-      "EE 412"
-    ]
+      "EE 412",
+      "EE 115"
+    ],
+    "tags": {}
   },
   {
     "id": "6954d890-80fb-4979-bc08-63a97160331a",
