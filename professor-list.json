@@ -14985,14 +14985,18 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "ES 255"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7cdfac25-5058-4ade-9c04-c6b5377845ca",
