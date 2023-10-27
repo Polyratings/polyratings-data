@@ -12614,10 +12614,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 43,
-    "materialClear": 1.69,
-    "studentDifficulties": 1.49,
-    "overallRating": 1.46,
+    "numEvals": 44,
+    "overallRating": 1.47,
+    "materialClear": 1.7,
+    "studentDifficulties": 1.5,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -12627,7 +12627,10 @@
       "MATH 162",
       "MATH 221",
       "MATH 241"
-    ]
+    ],
+    "tags": {
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "6a5b72db-84a9-4537-a943-b9cf1cd10954",
