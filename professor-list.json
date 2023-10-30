@@ -13965,7 +13965,7 @@
     "department": "MATH",
     "firstName": "Dana",
     "lastName": "Paquin",
-    "numEvals": 49,
+    "numEvals": 50,
     "overallRating": 3.76,
     "materialClear": 3.76,
     "studentDifficulties": 3.85,
@@ -13978,7 +13978,9 @@
       "MATH 244",
       "MATH 341"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "75ffa6c5-64a6-4c03-baca-a65ef0cabc4c",
