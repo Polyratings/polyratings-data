@@ -23925,10 +23925,10 @@
     "department": "ME",
     "firstName": "Hans",
     "lastName": "Mayer",
-    "numEvals": 54,
-    "overallRating": 2.74,
-    "materialClear": 3.03,
-    "studentDifficulties": 2.64,
+    "numEvals": 55,
+    "overallRating": 2.76,
+    "materialClear": 3.05,
+    "studentDifficulties": 2.66,
     "courses": [
       "ME 236",
       "AERO 301",
@@ -23940,7 +23940,10 @@
       "BMED 434",
       "BMED 435"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Pop Quizzes": 1
+    }
   },
   {
     "id": "cd7ca44b-7756-463d-bc28-c2a155ddd816",
