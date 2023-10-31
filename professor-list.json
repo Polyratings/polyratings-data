@@ -8524,10 +8524,10 @@
     "department": "POLS",
     "firstName": "Craig",
     "lastName": "Arceneaux",
-    "numEvals": 51,
-    "materialClear": 3.26,
-    "studentDifficulties": 2.87,
-    "overallRating": 3.17,
+    "numEvals": 52,
+    "overallRating": 3.13,
+    "materialClear": 3.22,
+    "studentDifficulties": 2.81,
     "courses": [
       "POLS 215",
       "POLS 225",
@@ -8541,7 +8541,11 @@
       "POLS 339",
       "POLS 381",
       "POLS 482"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "4730925a-34d3-47b9-b66c-4efbb6f070c6",
@@ -12686,10 +12690,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 126,
+    "numEvals": 127,
     "overallRating": 1.85,
-    "materialClear": 1.98,
-    "studentDifficulties": 1.69,
+    "materialClear": 2,
+    "studentDifficulties": 1.68,
     "courses": [
       "CE 204",
       "CE 211",
@@ -12706,7 +12710,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
