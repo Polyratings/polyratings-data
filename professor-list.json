@@ -10861,14 +10861,17 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 9,
-    "overallRating": 0.44,
-    "materialClear": 0.44,
-    "studentDifficulties": 0.44,
+    "numEvals": 10,
+    "overallRating": 0.8,
+    "materialClear": 0.6,
+    "studentDifficulties": 0.6,
     "courses": [
       "CSC 202"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "5bc8356d-eb5e-45a4-9a4b-0c7d86599db6",
@@ -20257,10 +20260,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 40,
-    "overallRating": 1.39,
-    "materialClear": 1.61,
-    "studentDifficulties": 1.43,
+    "numEvals": 41,
+    "overallRating": 1.36,
+    "materialClear": 1.57,
+    "studentDifficulties": 1.4,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -26213,10 +26216,10 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 90,
-    "overallRating": 1.62,
-    "materialClear": 1.68,
-    "studentDifficulties": 1.47,
+    "numEvals": 91,
+    "overallRating": 1.65,
+    "materialClear": 1.71,
+    "studentDifficulties": 1.5,
     "courses": [
       "BIO 101",
       "BIO 111",
@@ -26229,7 +26232,11 @@
       "BIO 434",
       "BIO 435",
       "BIO 446"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "e094e787-9966-49ba-af0e-5c8cb242bc7a",
