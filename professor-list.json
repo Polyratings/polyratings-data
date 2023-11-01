@@ -20260,10 +20260,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 41,
-    "overallRating": 1.36,
-    "materialClear": 1.57,
-    "studentDifficulties": 1.4,
+    "numEvals": 42,
+    "overallRating": 1.33,
+    "materialClear": 1.63,
+    "studentDifficulties": 1.46,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -20271,7 +20271,10 @@
       "MATE 232",
       "MATE 410"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "aab12eb6-8d0c-4fe1-9c09-e37963515767",
