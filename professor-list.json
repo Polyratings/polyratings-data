@@ -16945,10 +16945,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 77,
-    "overallRating": 3.38,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.15,
+    "numEvals": 78,
+    "overallRating": 3.35,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.12,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -16962,7 +16962,10 @@
       "CPE 464",
       "CSC 464"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "8bc4af2f-2d2f-48d5-9442-e35dbbd68f2e",
