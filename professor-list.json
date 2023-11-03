@@ -6628,14 +6628,15 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 1.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 1,
+    "studentDifficulties": 2.33,
     "courses": [
-      "STAT",
+      "STAT 217",
       "STAT 312"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "35e2b442-3af2-4261-a0c8-066222500c47",
@@ -12693,10 +12694,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 127,
-    "overallRating": 1.85,
-    "materialClear": 2,
-    "studentDifficulties": 1.68,
+    "numEvals": 128,
+    "overallRating": 1.84,
+    "materialClear": 1.98,
+    "studentDifficulties": 1.67,
     "courses": [
       "CE 204",
       "CE 211",
@@ -12716,7 +12717,9 @@
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
