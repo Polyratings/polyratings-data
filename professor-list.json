@@ -13524,7 +13524,7 @@
     "department": "COMS",
     "firstName": "Jeremy",
     "lastName": "Teitelbaum",
-    "numEvals": 178,
+    "numEvals": 179,
     "overallRating": 1.87,
     "materialClear": 2.18,
     "studentDifficulties": 1.69,
@@ -13537,8 +13537,13 @@
       "SCM 102",
       "SPC 102",
       "COMS 103",
-      "SPC 202"
-    ]
+      "SPC 202",
+      "COMS 101"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "73128d05-4afc-4bdd-9d02-ee2f23ba75f4",
