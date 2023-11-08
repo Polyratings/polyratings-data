@@ -20699,17 +20699,23 @@
     "department": "ART",
     "firstName": "Elizabeth",
     "lastName": "Adan",
-    "numEvals": 36,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.47,
-    "overallRating": 3.55,
+    "numEvals": 37,
+    "overallRating": 3.56,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.48,
     "courses": [
       "ART 112",
       "ART 118",
       "ART 311",
       "ART 312",
-      "ART 315"
-    ]
+      "ART 315",
+      "WGS 210"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "ae675ff8-4700-4c3f-bde5-96f89be935ab",
