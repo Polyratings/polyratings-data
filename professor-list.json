@@ -115,7 +115,7 @@
     "department": "ENGL",
     "firstName": "Mark",
     "lastName": "Roberts",
-    "numEvals": 201,
+    "numEvals": 202,
     "overallRating": 3.82,
     "materialClear": 3.89,
     "studentDifficulties": 3.84,
@@ -131,7 +131,8 @@
       "ENGL 251",
       "ENGL 253",
       "ENGL 302"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "01fd32c7-541d-4ce7-bf51-27fda36299ae",
@@ -13983,7 +13984,7 @@
     "department": "MATH",
     "firstName": "Dana",
     "lastName": "Paquin",
-    "numEvals": 50,
+    "numEvals": 51,
     "overallRating": 3.76,
     "materialClear": 3.76,
     "studentDifficulties": 3.85,
@@ -19994,10 +19995,10 @@
     "department": "ME",
     "firstName": "Ramanan",
     "lastName": "Sritharan",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 3,
+    "studentDifficulties": 2.25,
     "courses": [
       "ME 328",
       "ME 251"
