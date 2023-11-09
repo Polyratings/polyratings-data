@@ -16452,10 +16452,10 @@
     "department": "MATH",
     "firstName": "Marvin",
     "lastName": "McClendon",
-    "numEvals": 12,
-    "overallRating": 0.33,
-    "materialClear": 0.17,
-    "studentDifficulties": 0.58,
+    "numEvals": 13,
+    "overallRating": 0.3,
+    "materialClear": 0.16,
+    "studentDifficulties": 0.54,
     "courses": [
       "MATH 143",
       "MATH 118",
@@ -17490,10 +17490,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 148,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.6,
-    "overallRating": 1.82,
+    "numEvals": 149,
+    "overallRating": 1.81,
+    "materialClear": 1.7,
+    "studentDifficulties": 1.59,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -17509,7 +17509,11 @@
       "PSC 320",
       "PHYS 391",
       "PSC 392"
-    ]
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "90b8500c-c2db-47ac-a8f5-8a970038ba60",
@@ -18843,10 +18847,10 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.67,
     "courses": [
       "COMS 101"
     ],
