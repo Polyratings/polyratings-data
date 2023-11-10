@@ -2535,6 +2535,24 @@
     ]
   },
   {
+    "id": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
+    "department": "MATH",
+    "firstName": "Kathryn",
+    "lastName": "Voltmer",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 2,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
+    }
+  },
+  {
     "id": "13562eb8-4c24-490e-9783-bb47d17a3213",
     "department": "EE",
     "firstName": "William",
@@ -3601,10 +3619,10 @@
     "department": "CSC",
     "firstName": "Dekhtyar",
     "lastName": "Alexander",
-    "numEvals": 34,
-    "materialClear": 1.97,
-    "studentDifficulties": 1.97,
+    "numEvals": 33,
     "overallRating": 1.93,
+    "materialClear": 1.97,
+    "studentDifficulties": 1.96,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -5389,6 +5407,24 @@
       "Hybrid Option": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1
+    }
+  },
+  {
+    "id": "2be673cc-d6b8-483b-a02f-aba184b86a4d",
+    "department": "MATH",
+    "firstName": "Elena",
+    "lastName": "Dimitrova",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -7469,12 +7505,11 @@
     "department": "ECON",
     "firstName": "Daniel",
     "lastName": "Seiver",
-    "numEvals": 74,
+    "numEvals": 73,
     "overallRating": 2.25,
     "materialClear": 2.33,
     "studentDifficulties": 1.99,
     "courses": [
-      "ECON 101",
       "ECON 122",
       "ECON 221",
       "ECON 222",
@@ -14368,10 +14403,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 61,
-    "overallRating": 2.05,
-    "materialClear": 1.91,
-    "studentDifficulties": 2.05,
+    "numEvals": 60,
+    "overallRating": 2.02,
+    "materialClear": 1.88,
+    "studentDifficulties": 2.02,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -14922,7 +14957,7 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 2,
+    "numEvals": 1,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17494,10 +17529,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 149,
-    "overallRating": 1.81,
-    "materialClear": 1.7,
-    "studentDifficulties": 1.59,
+    "numEvals": 148,
+    "overallRating": 1.82,
+    "materialClear": 1.71,
+    "studentDifficulties": 1.6,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -20704,6 +20739,24 @@
     ]
   },
   {
+    "id": "add4db4e-770d-49e6-89b2-76bafcfcb6d4",
+    "department": "COMS",
+    "firstName": "Connie",
+    "lastName": "Young-Johnson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
+  },
+  {
     "id": "adf94e3b-8961-4899-80e7-7ff6455850d1",
     "department": "ART",
     "firstName": "Elizabeth",
@@ -21417,6 +21470,20 @@
       "ENGL 386",
       "ENGL 388"
     ]
+  },
+  {
+    "id": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+    "department": "BUS",
+    "firstName": "Chuancai",
+    "lastName": "Zhang",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {}
   },
   {
     "id": "b578a3a9-4ab1-4246-9e85-74f69e3a3039",
@@ -24189,10 +24256,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 116,
-    "overallRating": 2.88,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.87,
+    "numEvals": 115,
+    "overallRating": 2.87,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.86,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -28528,6 +28595,24 @@
       "PHYS 211",
       "PSC 305"
     ]
+  },
+  {
+    "id": "f47c9768-f6da-4c8c-ad57-a9ba87ca5e5e",
+    "department": "CSC",
+    "firstName": "Lucas",
+    "lastName": "Pierce",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f4b5fca9-6e46-4060-a2bc-3e7383515dda",
