@@ -14368,10 +14368,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 60,
-    "overallRating": 2.02,
-    "materialClear": 1.88,
-    "studentDifficulties": 2.02,
+    "numEvals": 61,
+    "overallRating": 2.05,
+    "materialClear": 1.91,
+    "studentDifficulties": 2.05,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -14922,13 +14922,16 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "TH"
-    ]
+      "TH 210"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "7c01310c-acde-4fda-8ffe-0237ad5a5f24",
