@@ -23382,7 +23382,7 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 90,
+    "numEvals": 91,
     "overallRating": 3.63,
     "materialClear": 3.66,
     "studentDifficulties": 3.56,
@@ -23394,7 +23394,12 @@
       "HIST 221",
       "HIST 222",
       "HIST 441"
-    ]
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c6fff02e-de89-48d5-8922-d8a512594cb5",
@@ -26945,17 +26950,19 @@
     "department": "ARCH",
     "firstName": "Meredith",
     "lastName": "Sattler",
-    "numEvals": 8,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.38,
-    "overallRating": 2.63,
+    "numEvals": 9,
+    "overallRating": 2.56,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.34,
     "courses": [
       "EDES 123",
       "ARCH 251",
       "ARCH 252",
       "ARCH 253",
-      "ARCH 307"
-    ]
+      "ARCH 307",
+      "EDES 350"
+    ],
+    "tags": {}
   },
   {
     "id": "e4c5c5b0-2843-403a-b285-d173fe807b48",
