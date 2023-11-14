@@ -8289,10 +8289,10 @@
     "department": "FR",
     "firstName": "Brian",
     "lastName": "Kennelly",
-    "numEvals": 45,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.53,
-    "overallRating": 2.55,
+    "numEvals": 46,
+    "overallRating": 2.58,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.56,
     "courses": [
       "FR 101",
       "FR 102",
@@ -8306,7 +8306,10 @@
       "FR 305",
       "HUM 310",
       "FR 350"
-    ]
+    ],
+    "tags": {
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "4492e415-31c3-447c-8d58-ad474c54f453",
