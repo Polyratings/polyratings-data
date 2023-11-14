@@ -5810,6 +5810,24 @@
     ]
   },
   {
+    "id": "2eed0992-a5ac-4478-bcc3-7df2a4ac06ef",
+    "department": "ISLA",
+    "firstName": "Lauren",
+    "lastName": "Beck",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "ISLA"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
+  },
+  {
     "id": "2efa98a4-d3da-420e-bc70-fc907156435f",
     "department": "MATH",
     "firstName": "Anton",
@@ -18673,6 +18691,20 @@
     "tags": {}
   },
   {
+    "id": "9afbf9cc-a1e8-4389-b850-6b06c087070b",
+    "department": "FSN",
+    "firstName": "Lindsey",
+    "lastName": "Ross",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "FSN"
+    ],
+    "tags": {}
+  },
+  {
     "id": "9b13a7c2-22ae-4dc6-a3d6-b98a11552490",
     "department": "IME",
     "firstName": "Mohamed",
@@ -22034,6 +22066,22 @@
       "CSC 469",
       "CSC 569"
     ]
+  },
+  {
+    "id": "bbb2a9f6-cb67-4b57-8600-2f083fcfb191",
+    "department": "ENGL",
+    "firstName": "Alex",
+    "lastName": "Dunne",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "bbcbc35b-1c74-4c71-baea-d199816b1989",
@@ -27225,6 +27273,20 @@
       "CPE 102",
       "CSC 471"
     ]
+  },
+  {
+    "id": "e8c4c218-91f8-4e33-82a9-2ca6013c2a1a",
+    "department": "ME",
+    "firstName": "Andrew ",
+    "lastName": "Maas",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {}
   },
   {
     "id": "e8d91a13-9047-4eed-87cb-39dbaec8e135",
