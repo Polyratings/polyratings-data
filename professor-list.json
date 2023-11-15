@@ -21501,10 +21501,10 @@
     "department": "ENGL",
     "firstName": "Lisa",
     "lastName": "Coffman",
-    "numEvals": 40,
-    "materialClear": 3.19,
-    "studentDifficulties": 3.02,
-    "overallRating": 3.1,
+    "numEvals": 41,
+    "overallRating": 3.12,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.04,
     "courses": [
       "ENGL 134",
       "ENGL 251",
@@ -21514,7 +21514,8 @@
       "ENGL 351",
       "ENGL 386",
       "ENGL 388"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
