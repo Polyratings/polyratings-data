@@ -7580,10 +7580,10 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 259,
-    "overallRating": 2.37,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.49,
+    "numEvals": 260,
+    "overallRating": 2.38,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.5,
     "courses": [
       "ECON 111",
       "ECON 201",
@@ -7595,7 +7595,12 @@
       "ECON 304",
       "BUS 523",
       "GSB 523"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "3fa9db1c-b73f-44cc-a724-7aa1d3ef4de1",
@@ -12757,10 +12762,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 128,
-    "overallRating": 1.84,
-    "materialClear": 1.98,
-    "studentDifficulties": 1.67,
+    "numEvals": 129,
+    "overallRating": 1.83,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.66,
     "courses": [
       "CE 204",
       "CE 211",
@@ -27279,14 +27284,18 @@
     "department": "ME",
     "firstName": "Andrew ",
     "lastName": "Maas",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
+      "ME 228"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "e8d91a13-9047-4eed-87cb-39dbaec8e135",
