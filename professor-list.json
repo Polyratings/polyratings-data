@@ -22344,6 +22344,24 @@
     ]
   },
   {
+    "id": "bd5c2f7b-5fa6-44b6-a8e3-14c8ec449c59",
+    "department": "BUS",
+    "firstName": "David",
+    "lastName": "Wu",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "bda00940-37a9-4863-94b6-6c45aad420fa",
     "department": "CSC",
     "firstName": "Zoe",
@@ -23256,6 +23274,24 @@
       "PHYS 141",
       "PHYS 142"
     ]
+  },
+  {
+    "id": "c5f5604d-0c1b-449d-82dd-29384091128a",
+    "department": "PHYS",
+    "firstName": "Christopher",
+    "lastName": "Culbreath",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "c5fdc21b-77d4-48ee-a092-7a3829326698",
