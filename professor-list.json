@@ -8781,10 +8781,10 @@
     "department": "CE",
     "firstName": "Garrett",
     "lastName": "Hall",
-    "numEvals": 60,
-    "overallRating": 3.11,
-    "materialClear": 3.08,
-    "studentDifficulties": 3.18,
+    "numEvals": 61,
+    "overallRating": 3.12,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.19,
     "courses": [
       "CE 204",
       "CE 205",
@@ -8799,8 +8799,9 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Does Not Use Canvas": 1,
-      "Uploads Slides": 1
+      "Does Not Use Canvas": 2,
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1
     }
   },
   {
