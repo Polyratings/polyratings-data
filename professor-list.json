@@ -8435,10 +8435,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 5,
-    "overallRating": 1.2,
-    "materialClear": 0.8,
-    "studentDifficulties": 0.8,
+    "numEvals": 6,
+    "overallRating": 1.33,
+    "materialClear": 1,
+    "studentDifficulties": 0.67,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -8447,8 +8447,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
