@@ -1900,10 +1900,10 @@
     "department": "SOC",
     "firstName": "James",
     "lastName": "Keese",
-    "numEvals": 80,
-    "overallRating": 2.81,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.62,
+    "numEvals": 81,
+    "overallRating": 2.79,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.61,
     "courses": [
       "GEOG 150",
       "SOC 150",
@@ -1915,12 +1915,15 @@
       "GEOG 340",
       "ANT 370",
       "GEOG 370",
-      "SOC 370"
+      "SOC 370",
+      "GEOG 350"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
