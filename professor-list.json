@@ -6785,15 +6785,21 @@
     "department": "FSN",
     "firstName": "Marilyn",
     "lastName": "Tseng",
-    "numEvals": 34,
-    "materialClear": 2,
-    "studentDifficulties": 1.89,
-    "overallRating": 1.86,
+    "numEvals": 35,
+    "overallRating": 1.92,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.92,
     "courses": [
       "FSN 255",
       "KINE 255",
-      "KINE 298"
-    ]
+      "KINE 298",
+      "HLTH 298"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "36d7394d-ef0d-4080-bb78-a095b4d17ecd",
