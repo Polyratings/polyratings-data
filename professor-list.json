@@ -2548,17 +2548,18 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 1,
     "courses": [
-      "MATH"
+      "MATH 141"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1,
-      "Inflexible Grading Policy": 1
+      "Class Handouts": 2,
+      "Inflexible Grading Policy": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -3235,17 +3236,21 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 8,
-    "overallRating": 0.88,
-    "materialClear": 0.88,
-    "studentDifficulties": 1,
+    "numEvals": 9,
+    "overallRating": 0.78,
+    "materialClear": 0.89,
+    "studentDifficulties": 1.11,
     "courses": [
       "CHEM 121",
       "CHEM 126",
       "CHEM 127",
       "CHEM 124"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "1846e94f-a6ba-4d76-8295-c0d260884da0",
