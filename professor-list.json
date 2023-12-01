@@ -1624,15 +1624,15 @@
     "department": "MATH",
     "firstName": "Vanessa",
     "lastName": "Newsome-Slade",
-    "numEvals": 3,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1,
     "courses": [
-      "MATH",
       "MATH 118",
       "MATH 161"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "0d3d29e7-c078-4eb8-b5e6-eb0813acd753",
@@ -17489,10 +17489,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 137,
+    "numEvals": 138,
+    "overallRating": 1.85,
     "materialClear": 1.75,
-    "studentDifficulties": 1.79,
-    "overallRating": 1.84,
+    "studentDifficulties": 1.8,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -17510,7 +17510,11 @@
       "MATH 408",
       "MATH 412",
       "MATH 481"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "9020d72b-79a0-45b4-9c42-855a79cf9a8e",
