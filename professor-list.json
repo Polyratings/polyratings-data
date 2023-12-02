@@ -15998,17 +15998,21 @@
     "department": "EE",
     "firstName": "Ashraf",
     "lastName": "Elbarbary",
-    "numEvals": 6,
-    "overallRating": 3.17,
-    "materialClear": 2.83,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 3.15,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.86,
     "courses": [
       "EE 211",
       "PHYS 133",
       "PHYS 142",
       "PHYS 141"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "82ea81aa-9eea-49a2-aa91-e6c50712b592",
@@ -19924,14 +19928,20 @@
     "department": "GER",
     "firstName": "Angelica",
     "lastName": "Browne",
-    "numEvals": 2,
-    "materialClear": 2.67,
-    "studentDifficulties": 3.33,
-    "overallRating": 3.33,
+    "numEvals": 3,
+    "overallRating": 3.55,
+    "materialClear": 3.11,
+    "studentDifficulties": 3.55,
     "courses": [
       "GER 201",
-      "GER 233"
-    ]
+      "GER 233",
+      "WLC 101"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "a546008e-c378-4b50-b7f4-b882eca5d604",
