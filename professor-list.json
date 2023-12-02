@@ -5193,10 +5193,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 77,
+    "numEvals": 78,
     "overallRating": 2.31,
     "materialClear": 2.19,
-    "studentDifficulties": 2.24,
+    "studentDifficulties": 2.22,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -5217,7 +5217,9 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Class Handouts": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -25221,10 +25223,10 @@
     "department": "CE",
     "firstName": "Amro",
     "lastName": "El Badawy",
-    "numEvals": 18,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.86,
-    "overallRating": 3.81,
+    "numEvals": 19,
+    "overallRating": 3.82,
+    "materialClear": 3.82,
+    "studentDifficulties": 3.87,
     "courses": [
       "CE 251",
       "ENVE 323",
@@ -25234,7 +25236,12 @@
       "CE 431",
       "ENVE 438",
       "ENVE 470"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "d7170b26-5836-4362-8775-ce104d4e1f72",
