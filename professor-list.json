@@ -808,6 +808,20 @@
     ]
   },
   {
+    "id": "068c2ad3-6d35-40e4-ab6f-a8806689c547",
+    "department": "ITAL",
+    "firstName": "Teresiana",
+    "lastName": "Matarrese",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ITAL"
+    ],
+    "tags": {}
+  },
+  {
     "id": "06a73773-1b8a-4823-8878-131e8cdeb300",
     "department": "PHYS",
     "firstName": "Robert",
@@ -7545,6 +7559,20 @@
     ]
   },
   {
+    "id": "3e73b179-df27-4a4b-bb5d-ceedbd726923",
+    "department": "EE",
+    "firstName": "MD",
+    "lastName": "Salam",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 4,
+    "courses": [
+      "EE"
+    ],
+    "tags": {}
+  },
+  {
     "id": "3ecc893e-02ef-468b-b460-ac4fa2158b4e",
     "department": "ECON",
     "firstName": "Daniel",
@@ -9742,10 +9770,10 @@
     "department": "CSC",
     "firstName": "Mark",
     "lastName": "Hutchenreuther",
-    "numEvals": 125,
+    "numEvals": 124,
+    "overallRating": 1.47,
     "materialClear": 1.46,
     "studentDifficulties": 1.38,
-    "overallRating": 1.47,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -9882,6 +9910,24 @@
     "courses": [
       "BUS 214"
     ]
+  },
+  {
+    "id": "526871bf-d2e5-4f5c-b1e9-b7740dc5be6c",
+    "department": "ARCH",
+    "firstName": "Bryan",
+    "lastName": "Shields",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 1,
+    "courses": [
+      "ARCH"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "5285af28-2155-4d4d-b811-a01f02977d60",
@@ -11677,6 +11723,24 @@
     }
   },
   {
+    "id": "622babff-3199-48fa-8e66-051b81b703be",
+    "department": "EDUC",
+    "firstName": "Lidar",
+    "lastName": "Eini",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "EDUC"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
+  },
+  {
     "id": "6238327b-f70a-43d1-8541-cbacde1ed97d",
     "department": "BUS",
     "firstName": "Jeff",
@@ -12913,6 +12977,24 @@
       "FNR 306",
       "FNR 412"
     ]
+  },
+  {
+    "id": "6b3f7582-b9e8-4547-8487-95735d5f1ee5",
+    "department": "CPE",
+    "firstName": "Maria",
+    "lastName": "Pantoja",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "CPE"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6b7ed7b1-3803-408d-b9b1-730080f84266",
@@ -18544,10 +18626,10 @@
     "department": "CHEM",
     "firstName": "Javier",
     "lastName": "Aguilera",
-    "numEvals": 52,
+    "numEvals": 51,
+    "overallRating": 0.26,
     "materialClear": 0.29,
     "studentDifficulties": 0.21,
-    "overallRating": 0.26,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -19582,6 +19664,24 @@
       "FSN 250",
       "FSN 415"
     ]
+  },
+  {
+    "id": "a253623e-9e05-40de-8204-6cb076deca47",
+    "department": "ECON",
+    "firstName": "Bill",
+    "lastName": "Lindsay",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "ECON"
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "a2572db6-d9ba-4cf5-a6d4-bac4faa5c4ec",
@@ -21073,10 +21173,10 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Carroll",
-    "numEvals": 25,
+    "numEvals": 24,
+    "overallRating": 2.49,
     "materialClear": 2.53,
-    "studentDifficulties": 2.34,
-    "overallRating": 2.5,
+    "studentDifficulties": 2.33,
     "courses": [
       "CHEM 110",
       "CHEM 127",
