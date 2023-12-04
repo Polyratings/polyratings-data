@@ -3633,9 +3633,9 @@
     "department": "CSC",
     "firstName": "Dekhtyar",
     "lastName": "Alexander",
-    "numEvals": 33,
-    "overallRating": 1.93,
-    "materialClear": 1.97,
+    "numEvals": 34,
+    "overallRating": 1.9,
+    "materialClear": 1.94,
     "studentDifficulties": 1.96,
     "courses": [
       "CPE 101",
@@ -3649,7 +3649,8 @@
       "CSC 570",
       "CPE 365",
       "CSC 560"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1b1cd964-ce1c-46ec-9627-354310b402a9",
@@ -15326,15 +15327,20 @@
     "department": "ME",
     "firstName": "Steffen",
     "lastName": "Peuker",
-    "numEvals": 27,
-    "materialClear": 1.82,
-    "studentDifficulties": 1.79,
-    "overallRating": 1.86,
+    "numEvals": 28,
+    "overallRating": 1.9,
+    "materialClear": 1.86,
+    "studentDifficulties": 1.87,
     "courses": [
       "ME 128",
       "ME 163",
       "ME 302"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "7e3c8381-00f9-443c-a1fc-78ecfba68f4b",
@@ -20823,12 +20829,12 @@
     "department": "COMS",
     "firstName": "Connie",
     "lastName": "Young-Johnson",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
+      "COMS 102"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -26502,17 +26508,20 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 1.33,
+    "materialClear": 0.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "WGS 201"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Hybrid Option": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
