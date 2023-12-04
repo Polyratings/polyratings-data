@@ -1807,9 +1807,9 @@
     "department": "PHYS",
     "firstName": "Jonathan",
     "lastName": "Fernsler",
-    "numEvals": 48,
-    "overallRating": 2.63,
-    "materialClear": 2.52,
+    "numEvals": 49,
+    "overallRating": 2.64,
+    "materialClear": 2.55,
     "studentDifficulties": 2.88,
     "courses": [
       "PSC 101",
@@ -1828,9 +1828,11 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Recorded Lectures": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -19974,16 +19976,21 @@
     "department": "ARCH",
     "firstName": "Emily",
     "lastName": "White",
-    "numEvals": 10,
-    "materialClear": 3,
-    "studentDifficulties": 2.9,
-    "overallRating": 2.9,
+    "numEvals": 11,
+    "overallRating": 3,
+    "materialClear": 3.09,
+    "studentDifficulties": 2.73,
     "courses": [
       "ARCH 101",
       "ARCH 131",
       "ARCH 132",
       "ARCH 133"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a58067ee-9241-41f5-9065-29e8a03e9cd4",
@@ -20324,15 +20331,20 @@
     "department": "COMS",
     "firstName": "Jodie",
     "lastName": "Steele",
-    "numEvals": 27,
-    "overallRating": 3.56,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.6,
+    "numEvals": 28,
+    "overallRating": 3.54,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.54,
     "courses": [
       "COMS 102",
       "PSY 302",
       "PSY 329"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "a97b65a5-6db1-470b-b050-257efe36d4cd",
