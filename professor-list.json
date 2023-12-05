@@ -8730,7 +8730,7 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 71,
+    "numEvals": 72,
     "overallRating": 3.82,
     "materialClear": 3.8,
     "studentDifficulties": 3.81,
@@ -8747,7 +8747,8 @@
       "MATH 481"
     ],
     "tags": {
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -12683,19 +12684,23 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 28,
-    "overallRating": 3.72,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.68,
+    "numEvals": 32,
+    "overallRating": 3.73,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.69,
     "courses": [
       "EE 212",
       "EE 306",
       "EE 308",
       "EE 409",
       "EE 412",
-      "EE 115"
+      "EE 115",
+      "EE 145"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6954d890-80fb-4979-bc08-63a97160331a",
@@ -19105,10 +19110,10 @@
     "department": "PHIL",
     "firstName": "Sam",
     "lastName": "Zahn",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.6,
     "courses": [
       "PHIL 230",
       "PHIL 126"
@@ -24523,10 +24528,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 115,
+    "numEvals": 116,
     "overallRating": 2.87,
     "materialClear": 2.78,
-    "studentDifficulties": 2.86,
+    "studentDifficulties": 2.87,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -24539,7 +24544,7 @@
     "tags": {
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Flexible Deadline Policy": 2,
       "Class Handouts": 3,
       "Supplemental Study Material": 2
