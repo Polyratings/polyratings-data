@@ -2249,10 +2249,10 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 42,
-    "overallRating": 3.02,
-    "materialClear": 2.93,
-    "studentDifficulties": 2.88,
+    "numEvals": 43,
+    "overallRating": 3.04,
+    "materialClear": 2.95,
+    "studentDifficulties": 2.91,
     "courses": [
       "ASTR 102",
       "PHYS 121",
@@ -2263,7 +2263,11 @@
       "PHYS 211",
       "PHYS 142"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "10cf35b0-058c-4d44-ab71-92bbf663fe4c",
@@ -8484,10 +8488,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 6,
-    "overallRating": 1.33,
-    "materialClear": 1,
-    "studentDifficulties": 0.67,
+    "numEvals": 7,
+    "overallRating": 1.14,
+    "materialClear": 0.86,
+    "studentDifficulties": 0.57,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -12219,10 +12223,10 @@
     "department": "PHYS",
     "firstName": "Walter",
     "lastName": "Ryan",
-    "numEvals": 16,
-    "overallRating": 3.77,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.76,
+    "numEvals": 17,
+    "overallRating": 3.72,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.66,
     "courses": [
       "PHYS 141",
       "PHYS 201",
@@ -12232,7 +12236,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
