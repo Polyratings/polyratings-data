@@ -960,13 +960,16 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 25,
-    "materialClear": 2.84,
-    "studentDifficulties": 2.73,
-    "overallRating": 2.69,
+    "numEvals": 26,
+    "overallRating": 2.74,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.78,
     "courses": [
       "COMS 101"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "07f011b7-9e38-48b5-b259-46775e412e89",
