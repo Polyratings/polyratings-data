@@ -10108,12 +10108,13 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.67,
     "studentDifficulties": 3,
     "courses": [
-      "MATH"
+      "MATH 161",
+      "MATH 118"
     ],
     "tags": {
       "No Breaks During Lecture": 1
@@ -14477,12 +14478,12 @@
     "department": "PHYS",
     "firstName": "Pasha",
     "lastName": "Tabatabai ",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 2.5,
     "materialClear": 3,
-    "studentDifficulties": 3,
+    "studentDifficulties": 2.5,
     "courses": [
-      "PHYS"
+      "PHYS 141"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -15338,10 +15339,10 @@
     "department": "BUS",
     "firstName": "Adam",
     "lastName": "Bordeman",
-    "numEvals": 16,
-    "overallRating": 2.76,
-    "materialClear": 2.58,
-    "studentDifficulties": 2.42,
+    "numEvals": 17,
+    "overallRating": 2.83,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.45,
     "courses": [
       "BUS 214",
       "BUS 321"
