@@ -8868,15 +8868,16 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 39,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.73,
-    "overallRating": 3.8,
+    "numEvals": 40,
+    "overallRating": 3.81,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.74,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 149"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "48feeb13-25ac-4c6e-9a67-29b9dd79c304",
@@ -10560,10 +10561,10 @@
     "department": "CHEM",
     "firstName": "Alan",
     "lastName": "Kiste",
-    "numEvals": 64,
-    "overallRating": 2.37,
-    "materialClear": 2.51,
-    "studentDifficulties": 2.2,
+    "numEvals": 65,
+    "overallRating": 2.4,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.23,
     "courses": [
       "CHEM 125",
       "CHEM 127",
@@ -10573,7 +10574,8 @@
       "CHEM 316",
       "CHEM 318",
       "CHEM 465"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "57fbe9c5-582f-4194-b275-8132c02ecfea",
@@ -22950,10 +22952,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 4,
-    "overallRating": 2.75,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "CHEM 124"
     ],
