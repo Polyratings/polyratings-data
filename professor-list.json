@@ -6657,17 +6657,18 @@
     "department": "ME",
     "firstName": "Sarah",
     "lastName": "Harding",
-    "numEvals": 22,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.67,
-    "overallRating": 2.91,
+    "numEvals": 23,
+    "overallRating": 2.87,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.64,
     "courses": [
       "ME 128",
       "ME 134",
       "ME 229",
       "ME 234",
       "ME 240"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "35492fe1-2167-44a7-9717-1226bbac1710",
@@ -19445,10 +19446,10 @@
     "department": "MATE",
     "firstName": "Rob",
     "lastName": "Carter",
-    "numEvals": 38,
-    "overallRating": 3.51,
+    "numEvals": 39,
+    "overallRating": 3.52,
     "materialClear": 3.18,
-    "studentDifficulties": 3.35,
+    "studentDifficulties": 3.37,
     "courses": [
       "MATE 110",
       "IME 140",
@@ -19457,7 +19458,8 @@
       "MATE 151",
       "IME 156",
       "MATE 215"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "a0e769a4-13d1-4691-ba68-805b2e2ec989",
@@ -21896,10 +21898,10 @@
     "department": "CHEM",
     "firstName": "Hasan",
     "lastName": "Palandoken",
-    "numEvals": 39,
-    "materialClear": 3.06,
-    "studentDifficulties": 2.48,
-    "overallRating": 2.73,
+    "numEvals": 40,
+    "overallRating": 2.76,
+    "materialClear": 3.08,
+    "studentDifficulties": 2.52,
     "courses": [
       "CHEM 216",
       "CHEM 217",
@@ -21907,7 +21909,11 @@
       "CHEM 316",
       "CHEM 317",
       "CHEM 318"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "b6ca4acb-9a61-4a21-9f48-a76af2c49f53",
