@@ -9927,17 +9927,19 @@
     "department": "ARCH",
     "firstName": "Bryan",
     "lastName": "Shields",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 1,
+    "studentDifficulties": 2.67,
     "courses": [
-      "ARCH"
+      "ARCH 131"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Fast Response Time": 3,
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 2,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -10109,16 +10111,16 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.25,
     "courses": [
       "MATH 161",
       "MATH 118"
     ],
     "tags": {
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -20117,17 +20119,19 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 4,
-    "overallRating": 2.75,
+    "numEvals": 5,
+    "overallRating": 2.8,
     "materialClear": 3,
-    "studentDifficulties": 3.25,
+    "studentDifficulties": 3.4,
     "courses": [
-      "CSC 101"
+      "CSC 101",
+      "CSC 203"
     ],
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -21695,12 +21699,12 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 2.5,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 319"
     ],
     "tags": {}
   },
@@ -25461,13 +25465,15 @@
     "department": "BUS",
     "firstName": "Trisha ",
     "lastName": "Daughtrey ",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "BUS 215"
-    ]
+      "BUS 215",
+      "BUS 320"
+    ],
+    "tags": {}
   },
   {
     "id": "d7a3980b-69f3-4c17-8f9c-513e2f7e7315",
@@ -26472,14 +26478,15 @@
     "department": "POLS",
     "firstName": "Brett",
     "lastName": "Savage",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "POLS 245",
       "POLS 344"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "dfb2a543-39bf-43a7-87b1-703baa7ad0c3",
@@ -29126,10 +29133,10 @@
     "department": "PHYS",
     "firstName": "Robert",
     "lastName": "Holtzapple",
-    "numEvals": 61,
-    "overallRating": 3.6,
+    "numEvals": 62,
+    "overallRating": 3.61,
     "materialClear": 3.77,
-    "studentDifficulties": 3.46,
+    "studentDifficulties": 3.47,
     "courses": [
       "PHYS 133",
       "PHYS 141",
@@ -29137,7 +29144,10 @@
       "PHYS 405",
       "PHYS 406"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "f679309b-0cdc-4334-af5b-b50b2f8a23aa",
