@@ -13849,10 +13849,10 @@
     "department": "LA",
     "firstName": "Christine",
     "lastName": "O'Hara",
-    "numEvals": 14,
-    "overallRating": 2.61,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.61,
+    "numEvals": 15,
+    "overallRating": 2.7,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.57,
     "courses": [
       "LA 130",
       "LA 202",
@@ -13860,7 +13860,8 @@
       "LA 212",
       "LA 349",
       "LA 352"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "7429c539-7b64-4987-b0d6-3560431dc245",
@@ -13979,10 +13980,10 @@
     "department": "AGB",
     "firstName": "Lynn",
     "lastName": "Hamilton",
-    "numEvals": 91,
-    "overallRating": 2.27,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.05,
+    "numEvals": 92,
+    "overallRating": 2.26,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.04,
     "courses": [
       "AGB 101",
       "AGB 212",
@@ -13992,7 +13993,10 @@
       "AGB 313",
       "AGB 314",
       "AGB 412"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "749cf666-80e1-4762-8ad1-8de8cfa315d3",
@@ -22963,10 +22967,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.6,
+    "numEvals": 7,
+    "overallRating": 2.14,
+    "materialClear": 2.43,
+    "studentDifficulties": 2.57,
     "courses": [
       "CHEM 124"
     ],
@@ -23681,13 +23685,17 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2.5,
+    "studentDifficulties": 3,
     "courses": [
-      "ES"
-    ]
+      "ES 255"
+    ],
+    "tags": {
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "c73101b6-d442-46e5-9bd4-15789a5c4d03",
@@ -28588,10 +28596,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 126,
-    "materialClear": 2.01,
+    "numEvals": 127,
+    "overallRating": 1.72,
+    "materialClear": 2,
     "studentDifficulties": 1.63,
-    "overallRating": 1.73,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -28611,7 +28619,8 @@
       "ENGL 459",
       "ENGL 501",
       "ENGL 512"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "f2633611-976b-424a-954f-8c2649da095b",
