@@ -347,10 +347,10 @@
     "department": "POLS",
     "firstName": "Shelley",
     "lastName": "Hurt",
-    "numEvals": 89,
-    "materialClear": 1.87,
-    "studentDifficulties": 1.78,
+    "numEvals": 90,
     "overallRating": 1.82,
+    "materialClear": 1.86,
+    "studentDifficulties": 1.78,
     "courses": [
       "POLS 111",
       "POLS 225",
@@ -361,7 +361,11 @@
       "POLS 426",
       "POLS 451",
       "POLS 461"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "033282a5-f663-46f7-b64d-bd33fc7a9911",
@@ -6150,13 +6154,17 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Anderson",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "CSC 466"
-    ]
+      "CSC 466",
+      "CSC 448"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "30dbcf40-143a-465e-a5c2-4a4b22c68618",
@@ -20811,16 +20819,19 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 7,
-    "overallRating": 3.57,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.57,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.62,
     "courses": [
       "CSC 248",
       "CSC 225",
       "CSC 202"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "ac9faccb-cfe3-439c-8d4f-45d7ef31f681",
@@ -23213,15 +23224,18 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 125"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -27622,9 +27636,9 @@
     "department": "PSY",
     "firstName": "Laura",
     "lastName": "Freberg",
-    "numEvals": 111,
-    "overallRating": 3.43,
-    "materialClear": 3.45,
+    "numEvals": 112,
+    "overallRating": 3.42,
+    "materialClear": 3.44,
     "studentDifficulties": 3.35,
     "courses": [
       "PSY 101",
@@ -27632,7 +27646,12 @@
       "PSY 304",
       "PSY 340",
       "PSY 456"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "e9987026-5b3c-4b0b-94cd-65cd2224dd4e",
