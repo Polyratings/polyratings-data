@@ -6201,14 +6201,19 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Noori",
-    "numEvals": 32,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.79,
-    "overallRating": 2.79,
+    "numEvals": 33,
+    "overallRating": 2.83,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.83,
     "courses": [
       "ME 211",
       "ME 318"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "30ed9378-a398-4aed-96e2-8b1ef56ee332",
