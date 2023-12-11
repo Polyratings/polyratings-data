@@ -7695,10 +7695,10 @@
     "department": "ITP",
     "firstName": "Nianpin",
     "lastName": "Cheng",
-    "numEvals": 16,
-    "overallRating": 1.84,
-    "materialClear": 1.89,
-    "studentDifficulties": 2,
+    "numEvals": 17,
+    "overallRating": 1.91,
+    "materialClear": 1.9,
+    "studentDifficulties": 2.12,
     "courses": [
       "STAT 251",
       "IME 301",
@@ -7707,7 +7707,11 @@
       "IT 332",
       "IME 405",
       "IT 410"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "3fe012bc-f278-49dd-ad67-4c3bc3c74268",
@@ -9606,10 +9610,10 @@
     "department": "CPE",
     "firstName": "Bryan",
     "lastName": "Mealy",
-    "numEvals": 86,
-    "overallRating": 3.54,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.56,
+    "numEvals": 87,
+    "overallRating": 3.53,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.57,
     "courses": [
       "CPE 129",
       "CPE 133",
@@ -9627,7 +9631,10 @@
       "EE 464"
     ],
     "tags": {
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Hybrid Option": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -13442,13 +13449,14 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 1.33,
     "courses": [
       "HIST 222",
-      "HIST 225"
+      "HIST 225",
+      "HIST 306"
     ],
     "tags": {}
   },
@@ -14413,13 +14421,19 @@
     "department": "CSC",
     "firstName": "Andrew",
     "lastName": "Migler",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3,
+    "studentDifficulties": 3.67,
     "courses": [
-      "CSC 365"
-    ]
+      "CSC 365",
+      "CSC 357"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "76f23cee-9b55-4b8a-b4fb-eca6d0d79776",
@@ -20140,10 +20154,10 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 5,
-    "overallRating": 2.8,
+    "numEvals": 6,
+    "overallRating": 3,
     "materialClear": 3,
-    "studentDifficulties": 3.4,
+    "studentDifficulties": 3.33,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -26054,10 +26068,10 @@
     "department": "MATH",
     "firstName": "Charles",
     "lastName": "Camp",
-    "numEvals": 48,
-    "materialClear": 1.51,
-    "studentDifficulties": 1.57,
-    "overallRating": 1.57,
+    "numEvals": 49,
+    "overallRating": 1.56,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.56,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -26068,7 +26082,8 @@
       "MATH 418",
       "MATH 451",
       "MATH 452"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "db2a5278-1575-443e-abcf-5d68b6e82243",
@@ -29878,17 +29893,19 @@
     "department": "CHEM",
     "firstName": "Derik",
     "lastName": "Frantz",
-    "numEvals": 32,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.41,
-    "overallRating": 3.53,
+    "numEvals": 33,
+    "overallRating": 3.54,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.43,
     "courses": [
       "CHEM 216",
       "CHEM 217",
       "CHEM 218",
       "CHEM 316",
-      "CHEM 317"
-    ]
+      "CHEM 317",
+      "CHEM 312"
+    ],
+    "tags": {}
   },
   {
     "id": "fad73f10-0664-4df9-91f3-d91210f3a26b",
