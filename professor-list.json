@@ -17806,7 +17806,7 @@
     "department": "CSC",
     "firstName": "Rodrigo",
     "lastName": "Canaan",
-    "numEvals": 3,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17814,7 +17814,11 @@
       "CSC 349",
       "CSC 580"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "910353ad-a0c8-4620-b54c-0e8339fdbf7d",
