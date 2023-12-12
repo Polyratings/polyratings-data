@@ -2067,17 +2067,21 @@
     "department": "ME",
     "firstName": "John",
     "lastName": "Ridgely",
-    "numEvals": 13,
-    "materialClear": 3,
-    "studentDifficulties": 2.86,
-    "overallRating": 2.86,
+    "numEvals": 14,
+    "overallRating": 2.87,
+    "materialClear": 3.07,
+    "studentDifficulties": 2.87,
     "courses": [
       "ME 318",
       "ME 329",
       "ME 405",
       "ME 422",
-      "ME 507"
-    ]
+      "ME 507",
+      "ME 128"
+    ],
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "0f872900-f1db-4984-ab3d-0473538166b1",
@@ -13870,10 +13874,10 @@
     "department": "LA",
     "firstName": "Christine",
     "lastName": "O'Hara",
-    "numEvals": 15,
-    "overallRating": 2.7,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.57,
+    "numEvals": 16,
+    "overallRating": 2.78,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.66,
     "courses": [
       "LA 130",
       "LA 202",
@@ -13882,7 +13886,11 @@
       "LA 349",
       "LA 352"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "7429c539-7b64-4987-b0d6-3560431dc245",
@@ -14246,10 +14254,10 @@
     "department": "CSC",
     "firstName": "Kirsten",
     "lastName": "Mork",
-    "numEvals": 7,
-    "overallRating": 3.71,
+    "numEvals": 8,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 3.86,
+    "studentDifficulties": 3.88,
     "courses": [
       "CPE 203",
       "CSC 101"
@@ -14281,10 +14289,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 100,
-    "overallRating": 2.7,
+    "numEvals": 102,
+    "overallRating": 2.68,
     "materialClear": 2.8,
-    "studentDifficulties": 2.56,
+    "studentDifficulties": 2.51,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -14303,7 +14311,8 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -14376,10 +14385,10 @@
     "department": "ME",
     "firstName": "Pam",
     "lastName": "Ridgely",
-    "numEvals": 9,
-    "overallRating": 0,
-    "materialClear": 0.12,
-    "studentDifficulties": 0,
+    "numEvals": 10,
+    "overallRating": 0.2,
+    "materialClear": 0.21,
+    "studentDifficulties": 0.1,
     "courses": [
       "ME 236"
     ],
@@ -14995,16 +15004,20 @@
     "department": "PHIL",
     "firstName": "David",
     "lastName": "Zoller",
-    "numEvals": 11,
-    "materialClear": 2.91,
-    "studentDifficulties": 2.91,
-    "overallRating": 3.09,
+    "numEvals": 12,
+    "overallRating": 3.17,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 331",
       "PHIL 335"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7b7eb369-3292-4bf7-a667-15012f72443d",
@@ -15463,10 +15476,10 @@
     "department": "ME",
     "firstName": "Steffen",
     "lastName": "Peuker",
-    "numEvals": 28,
-    "overallRating": 1.9,
+    "numEvals": 29,
+    "overallRating": 1.97,
     "materialClear": 1.86,
-    "studentDifficulties": 1.87,
+    "studentDifficulties": 1.94,
     "courses": [
       "ME 128",
       "ME 163",
@@ -17193,9 +17206,9 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 78,
-    "overallRating": 3.35,
-    "materialClear": 3.39,
+    "numEvals": 80,
+    "overallRating": 3.31,
+    "materialClear": 3.33,
     "studentDifficulties": 3.12,
     "courses": [
       "CPE 101",
@@ -17212,7 +17225,7 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 3
     }
   },
   {
@@ -17820,18 +17833,19 @@
     "department": "CSC",
     "firstName": "Rodrigo",
     "lastName": "Canaan",
-    "numEvals": 5,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.71,
     "studentDifficulties": 4,
     "courses": [
       "CSC 349",
       "CSC 580"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -20116,9 +20130,9 @@
     "department": "EE",
     "firstName": "Brendan",
     "lastName": "Rhatigan",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "EE 242",
@@ -20574,10 +20588,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 42,
-    "overallRating": 1.33,
-    "materialClear": 1.63,
-    "studentDifficulties": 1.46,
+    "numEvals": 43,
+    "overallRating": 1.3,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.43,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -24465,10 +24479,10 @@
     "department": "GER",
     "firstName": "Christian",
     "lastName": "Anderson",
-    "numEvals": 29,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.53,
-    "overallRating": 3.47,
+    "numEvals": 30,
+    "overallRating": 3.49,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.55,
     "courses": [
       "GER 101",
       "GER 102",
@@ -24477,7 +24491,12 @@
       "GER 203",
       "CRP 335",
       "GER 350"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "ceaa73ef-63da-469c-8926-ab6674008041",
@@ -28148,7 +28167,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 186,
+    "numEvals": 187,
     "overallRating": 3.44,
     "materialClear": 3.42,
     "studentDifficulties": 3.27,
@@ -29649,9 +29668,9 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 62,
+    "numEvals": 63,
     "overallRating": 3.31,
-    "materialClear": 3.42,
+    "materialClear": 3.4,
     "studentDifficulties": 3.17,
     "courses": [
       "BIO 112",
