@@ -20889,12 +20889,13 @@
     "department": "CSC",
     "firstName": " Lubomir",
     "lastName": "Stanchev",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
     "materialClear": 2,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "DATA"
+      "DATA 301",
+      "CSC 365"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -21779,14 +21780,15 @@
     "department": "IME",
     "firstName": "Kevin",
     "lastName": "Williams",
-    "numEvals": 34,
-    "overallRating": 3.75,
-    "materialClear": 3.19,
-    "studentDifficulties": 3.55,
+    "numEvals": 35,
+    "overallRating": 3.73,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.56,
     "courses": [
       "IME 141",
       "IME 142"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b5985049-f58e-4a0d-8ac3-7bd6cfcb0ab8",
