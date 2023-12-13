@@ -2043,10 +2043,10 @@
     "department": "ME",
     "firstName": "Mason",
     "lastName": "Medizade",
-    "numEvals": 46,
-    "materialClear": 0.71,
-    "studentDifficulties": 0.65,
-    "overallRating": 0.83,
+    "numEvals": 47,
+    "overallRating": 0.81,
+    "materialClear": 0.69,
+    "studentDifficulties": 0.64,
     "courses": [
       "ME 234",
       "ME 236",
@@ -2060,7 +2060,8 @@
       "ME 436",
       "ME 470",
       "ME 488"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "0f80a2ca-58c8-4393-8413-91093c2cfd16",
@@ -10908,7 +10909,7 @@
     "department": "PHYS",
     "firstName": "Antonio",
     "lastName": "Garcia",
-    "numEvals": 112,
+    "numEvals": 113,
     "overallRating": 2.65,
     "materialClear": 2.68,
     "studentDifficulties": 2.44,
@@ -10928,7 +10929,8 @@
       "GEOL 323",
       "SS 323",
       "GEOL 401"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "5b346a76-ae7a-4863-870e-124b98d3ec75",
@@ -28723,13 +28725,15 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC 305"
-    ]
+      "CSC 305",
+      "CSC 357"
+    ],
+    "tags": {}
   },
   {
     "id": "f30c3604-5eb7-49d0-8e7a-3d48fff7ac0b",
