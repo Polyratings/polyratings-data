@@ -11045,17 +11045,18 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 11,
-    "overallRating": 0.91,
-    "materialClear": 0.73,
-    "studentDifficulties": 0.73,
+    "numEvals": 12,
+    "overallRating": 1,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.92,
     "courses": [
       "CSC 202"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -17213,10 +17214,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 80,
-    "overallRating": 3.31,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.12,
+    "numEvals": 81,
+    "overallRating": 3.32,
+    "materialClear": 3.34,
+    "studentDifficulties": 3.13,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -17232,7 +17233,10 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 3
+      "Does Not Use Canvas": 3,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
