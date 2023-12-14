@@ -9620,9 +9620,9 @@
     "department": "CPE",
     "firstName": "Bryan",
     "lastName": "Mealy",
-    "numEvals": 87,
-    "overallRating": 3.53,
-    "materialClear": 3.44,
+    "numEvals": 88,
+    "overallRating": 3.54,
+    "materialClear": 3.43,
     "studentDifficulties": 3.57,
     "courses": [
       "CPE 129",
@@ -9644,7 +9644,9 @@
       "Recorded Lectures": 1,
       "Hybrid Option": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -11049,17 +11051,17 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 1,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.92,
+    "materialClear": 0.62,
+    "studentDifficulties": 0.93,
     "courses": [
       "CSC 202"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Inflexible Deadline Policy": 1
     }
   },
@@ -25313,17 +25315,23 @@
     "department": "CHEM",
     "firstName": "Anya",
     "lastName": "Goodman",
-    "numEvals": 34,
-    "overallRating": 2.63,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.72,
+    "numEvals": 35,
+    "overallRating": 2.55,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.7,
     "courses": [
       "CHEM 128",
       "CHEM 308",
       "CHEM 313",
       "CHEM 371",
-      "CHEM 475"
-    ]
+      "CHEM 475",
+      "CHEM 418"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "d65579d2-d40c-478c-9e96-088bd98a3784",
