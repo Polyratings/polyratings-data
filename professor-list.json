@@ -13002,10 +13002,10 @@
     "department": "EE",
     "firstName": "Ahmad",
     "lastName": "Nafisi",
-    "numEvals": 60,
-    "overallRating": 3.53,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.65,
+    "numEvals": 61,
+    "overallRating": 3.54,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.66,
     "courses": [
       "EE 110",
       "EE 112",
@@ -13019,7 +13019,10 @@
       "EE 406",
       "EE 407",
       "EE 212"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6abe43d2-1ae4-4d72-833a-97080d10fbd1",
@@ -17203,15 +17206,18 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.75,
     "courses": [
       "MATH 248",
       "MATH 143"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "8bb1391d-a16b-47fe-9794-b67b13232e85",
@@ -19845,10 +19851,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 143,
-    "overallRating": 2.31,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.04,
+    "numEvals": 144,
+    "overallRating": 2.29,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.03,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19872,7 +19878,7 @@
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 2,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Inflexible Grading Policy": 1
     }
   },
@@ -23036,19 +23042,20 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 7,
-    "overallRating": 2.14,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.57,
+    "numEvals": 8,
+    "overallRating": 2.37,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.75,
     "courses": [
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 127"
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
