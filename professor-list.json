@@ -2664,15 +2664,15 @@
     "department": "BUS",
     "firstName": "Barry",
     "lastName": "VanderKelen",
-    "numEvals": 9,
-    "overallRating": 3,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.89,
+    "numEvals": 10,
+    "overallRating": 2.9,
+    "materialClear": 3.1,
+    "studentDifficulties": 2.8,
     "courses": [
       "BUS 401"
     ],
     "tags": {
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2
     }
   },
   {
@@ -10836,10 +10836,10 @@
     "department": "GSA",
     "firstName": "Rodney",
     "lastName": "Mock",
-    "numEvals": 48,
-    "overallRating": 3.06,
-    "materialClear": 2.98,
-    "studentDifficulties": 2.9,
+    "numEvals": 49,
+    "overallRating": 3.02,
+    "materialClear": 2.94,
+    "studentDifficulties": 2.86,
     "courses": [
       "BUS 320",
       "BUS 417",
@@ -10847,7 +10847,11 @@
       "GSA 540",
       "GSA 541",
       "GSA 549"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "5a1d6068-4c33-4d49-9b07-87c2593c779e",
@@ -18881,10 +18885,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 30,
-    "overallRating": 3.33,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.23,
+    "numEvals": 31,
+    "overallRating": 3.35,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.25,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18893,7 +18897,11 @@
       "MATH 248",
       "MATH 540"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "9afbf9cc-a1e8-4389-b850-6b06c087070b",
@@ -23108,17 +23116,19 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.5,
     "courses": [
-      "BIO 111"
+      "BIO 111",
+      "BIO 150"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -23749,16 +23759,17 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 1.33,
+    "materialClear": 1.67,
+    "studentDifficulties": 2,
     "courses": [
       "ES 255"
     ],
     "tags": {
-      "Pop Quizzes": 1,
-      "No Breaks During Lecture": 1
+      "Pop Quizzes": 2,
+      "No Breaks During Lecture": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
