@@ -24392,14 +24392,17 @@
     "department": "ECON",
     "firstName": "Wilson",
     "lastName": "Kang",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "ECON",
-      "ECON 221"
-    ]
+      "ECON 221",
+      "ECON 424"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "cd4c2d14-900b-47a3-8eee-880dce44e303",
