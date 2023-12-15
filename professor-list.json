@@ -11519,16 +11519,21 @@
     "department": "ECON",
     "firstName": "Matthew",
     "lastName": "Cole",
-    "numEvals": 18,
-    "materialClear": 2.3,
-    "studentDifficulties": 2.15,
-    "overallRating": 2.3,
+    "numEvals": 19,
+    "overallRating": 2.39,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.19,
     "courses": [
       "ECON 201",
       "ECON 311",
       "ECON 312",
       "ECON 404"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6035d6a8-0ab4-4894-8713-222eb891b7fe",
@@ -11949,15 +11954,19 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.8,
     "courses": [
-      "MATH",
       "MATH 141",
       "MATH 142"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6419284e-5965-4c48-ad0a-6cb010b6d646",
@@ -13004,10 +13013,10 @@
     "department": "EE",
     "firstName": "Ahmad",
     "lastName": "Nafisi",
-    "numEvals": 61,
-    "overallRating": 3.54,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.66,
+    "numEvals": 62,
+    "overallRating": 3.55,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.67,
     "courses": [
       "EE 110",
       "EE 112",
@@ -13023,7 +13032,8 @@
       "EE 212"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -13470,16 +13480,18 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.33,
+    "numEvals": 4,
+    "overallRating": 2,
+    "materialClear": 2.5,
+    "studentDifficulties": 1.75,
     "courses": [
       "HIST 222",
       "HIST 225",
       "HIST 306"
     ],
-    "tags": {}
+    "tags": {
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "71201e52-81a8-440e-8544-205aaef7a9ac",
@@ -19419,13 +19431,19 @@
     "department": "HIST",
     "firstName": "Elizabeth",
     "lastName": "Sine",
-    "numEvals": 2,
-    "overallRating": 3,
+    "numEvals": 3,
+    "overallRating": 3.33,
     "materialClear": 3,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
-      "HIST 202"
-    ]
+      "HIST 202",
+      "HIST 322"
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "9f6bd652-d726-4b2a-a5c1-d9f344767a3f",
@@ -19658,7 +19676,7 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 106,
+    "numEvals": 107,
     "overallRating": 3.8,
     "materialClear": 3.8,
     "studentDifficulties": 3.75,
@@ -19678,14 +19696,15 @@
       "MATH 435",
       "MATH 437",
       "MATH 481",
-      "MATH 550"
+      "MATH 550",
+      "MATH 202"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2
     }
   },
   {
@@ -22458,7 +22477,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 125,
+    "numEvals": 126,
     "overallRating": 3.9,
     "materialClear": 3.93,
     "studentDifficulties": 3.87,
@@ -22478,7 +22497,12 @@
       "MATH 412",
       "MATH 413",
       "MATH 550"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "bc578426-c964-40d6-a016-7e7bae627aa1",
@@ -23044,20 +23068,20 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 8,
-    "overallRating": 2.37,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.75,
+    "numEvals": 9,
+    "overallRating": 2.55,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.89,
     "courses": [
       "CHEM 124",
       "CHEM 127"
     ],
     "tags": {
-      "Supplemental Study Material": 2,
-      "Uploads Slides": 2,
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 3,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 2
+      "Fast Response Time": 3
     }
   },
   {
@@ -23125,19 +23149,21 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 4,
-    "overallRating": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
       "BIO 111",
       "BIO 150"
     ],
     "tags": {
       "Recorded Lectures": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -23362,18 +23388,20 @@
     "department": "CHEM",
     "firstName": "Erik",
     "lastName": "Sapper ",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.75,
     "courses": [
       "CHEM 124",
       "CHEM 127"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 2,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -29222,22 +29250,23 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 7,
-    "overallRating": 2.57,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.71,
+    "numEvals": 8,
+    "overallRating": 2.62,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.75,
     "courses": [
       "STAT 301",
       "STAT 331"
     ],
     "tags": {
       "Inflexible Deadline Policy": 3,
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 3,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 4,
       "Flexible Attendance Policy": 1,
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -29459,15 +29488,21 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "MATH 142",
       "MATH 306",
-      "MATH 143"
-    ]
+      "MATH 143",
+      "MATH 241"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "f7f020d1-dfa0-4be0-ab13-c22fa529d68c",
@@ -29709,9 +29744,9 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 63,
-    "overallRating": 3.31,
-    "materialClear": 3.4,
+    "numEvals": 64,
+    "overallRating": 3.32,
+    "materialClear": 3.41,
     "studentDifficulties": 3.17,
     "courses": [
       "BIO 112",
@@ -29721,7 +29756,9 @@
       "BIO 303",
       "SCM 325"
     ],
-    "tags": {}
+    "tags": {
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "f9fece86-49a3-4617-8ce7-42d804028e7b",
