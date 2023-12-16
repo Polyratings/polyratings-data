@@ -5470,17 +5470,19 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 142",
+      "MATH 206"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -14397,6 +14399,24 @@
     ]
   },
   {
+    "id": "768c16d7-6902-4233-adf8-6d8af4986921",
+    "department": "CSC",
+    "firstName": "Ken",
+    "lastName": "Kubiak",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "76998b40-6d7f-4f73-851c-77ae7a3f1bdc",
     "department": "PHIL",
     "firstName": "Albus",
@@ -17869,9 +17889,9 @@
     "department": "CSC",
     "firstName": "Rodrigo",
     "lastName": "Canaan",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.71,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "CSC 349",
@@ -17880,8 +17900,9 @@
     "tags": {
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -18369,7 +18390,7 @@
     "department": "EE",
     "firstName": "Xiaomin",
     "lastName": "Jin",
-    "numEvals": 37,
+    "numEvals": 36,
     "overallRating": 2.03,
     "materialClear": 1.72,
     "studentDifficulties": 2.21,
@@ -18732,14 +18753,13 @@
     "department": "CHEM",
     "firstName": "Javier",
     "lastName": "Aguilera",
-    "numEvals": 51,
+    "numEvals": 50,
     "overallRating": 0.26,
     "materialClear": 0.29,
     "studentDifficulties": 0.21,
     "courses": [
       "CHEM 124",
       "CHEM 125",
-      "BOT 272",
       "CHEM 312"
     ]
   },
