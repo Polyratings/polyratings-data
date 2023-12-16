@@ -11821,10 +11821,10 @@
     "department": "ME",
     "firstName": "Jesse",
     "lastName": "Maddren",
-    "numEvals": 43,
+    "numEvals": 44,
+    "overallRating": 3.64,
     "materialClear": 3.8,
-    "studentDifficulties": 3.63,
-    "overallRating": 3.63,
+    "studentDifficulties": 3.64,
     "courses": [
       "ME 302",
       "ME 313",
@@ -11834,7 +11834,8 @@
       "ME 356",
       "ME 440",
       "ME 458"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "62c679f7-5818-452b-a695-6af12ca4139a",
@@ -22305,10 +22306,10 @@
     "department": "ME",
     "firstName": "Hemanth",
     "lastName": "Porumamilla",
-    "numEvals": 36,
-    "materialClear": 2.89,
-    "studentDifficulties": 2.5,
-    "overallRating": 2.83,
+    "numEvals": 37,
+    "overallRating": 2.86,
+    "materialClear": 2.92,
+    "studentDifficulties": 2.54,
     "courses": [
       "ME 134",
       "ME 211",
@@ -22316,7 +22317,10 @@
       "ME 318",
       "ME 422",
       "ME 440"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "b9df3acb-1f00-4954-9399-8e56c62a5eae",
@@ -23068,20 +23072,23 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 9,
-    "overallRating": 2.55,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.89,
+    "numEvals": 10,
+    "overallRating": 2.7,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.9,
     "courses": [
       "CHEM 124",
-      "CHEM 127"
+      "CHEM 127",
+      "CHEM 128"
     ],
     "tags": {
       "Supplemental Study Material": 3,
       "Uploads Slides": 3,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 3
+      "Fast Response Time": 3,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
