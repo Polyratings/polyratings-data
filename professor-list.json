@@ -10361,13 +10361,14 @@
     "department": "MATH",
     "firstName": "Riley",
     "lastName": "Somers",
-    "numEvals": 1,
-    "overallRating": 2,
+    "numEvals": 2,
+    "overallRating": 1.5,
     "materialClear": 1,
-    "studentDifficulties": 3,
+    "studentDifficulties": 2,
     "courses": [
-      "MATH"
-    ]
+      "MATH 118"
+    ],
+    "tags": {}
   },
   {
     "id": "55b89de9-ce40-46b6-bd80-3286b68b623f",
