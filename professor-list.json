@@ -1211,6 +1211,24 @@
     ]
   },
   {
+    "id": "09e2899c-7c46-4d45-bb3b-c6c1c31194cc",
+    "department": "MATH",
+    "firstName": "Brian Tyrrell-Nic",
+    "lastName": "Dhonncha",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1
+    }
+  },
+  {
     "id": "09eded0c-469c-4a80-b68a-85ecd58c34cd",
     "department": "ASCI",
     "firstName": "Matthew",
@@ -11054,18 +11072,19 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 1,
-    "materialClear": 0.62,
-    "studentDifficulties": 0.93,
+    "materialClear": 0.65,
+    "studentDifficulties": 0.94,
     "courses": [
       "CSC 202"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 3,
-      "Inflexible Deadline Policy": 1
+      "Uploads Slides": 4,
+      "Inflexible Deadline Policy": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -11449,6 +11468,22 @@
     ]
   },
   {
+    "id": "5ee9328b-7ce7-498b-95fa-bbef957b2529",
+    "department": "BRAE",
+    "firstName": "Adam ",
+    "lastName": "Scattini",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BRAE"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "5f80e9c1-fe15-46bd-9242-11c5ebd30fde",
     "department": "CE",
     "firstName": "Yarrow",
@@ -11714,6 +11749,23 @@
       "ENGL 311",
       "ENGL 319"
     ]
+  },
+  {
+    "id": "61731ced-fc44-4fba-9cf8-00b4c10b5ac0",
+    "department": "NR",
+    "firstName": "Jeremy",
+    "lastName": "James",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 0,
+    "studentDifficulties": 3,
+    "courses": [
+      "NR"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "61a541d6-10dc-4055-b450-b1b1d8bfa205",
@@ -28834,10 +28886,10 @@
     "department": "PHIL",
     "firstName": "Stephen",
     "lastName": "Lloyd-Moffett",
-    "numEvals": 46,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.28,
-    "overallRating": 3.46,
+    "numEvals": 47,
+    "overallRating": 3.43,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.25,
     "courses": [
       "RELS 201",
       "RELS 203",
@@ -28854,7 +28906,12 @@
       "RELS 372",
       "PHIL 380",
       "RELS 380"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "f321421f-2b8a-4e8d-9820-17b3b1ad257b",
