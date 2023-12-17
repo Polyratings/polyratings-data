@@ -9964,6 +9964,22 @@
     ]
   },
   {
+    "id": "52280e62-fc4b-4c62-bc33-014ed8107356",
+    "department": "POLS",
+    "firstName": "Richard",
+    "lastName": "Kline",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "523a9aaf-a6f4-4580-8e3e-e7047f47c0b8",
     "department": "BUS",
     "firstName": "Michelle",
@@ -12482,10 +12498,10 @@
     "department": "EE",
     "firstName": "Dennis",
     "lastName": "Derickson",
-    "numEvals": 19,
-    "materialClear": 2.3,
-    "studentDifficulties": 2.55,
-    "overallRating": 2.41,
+    "numEvals": 20,
+    "overallRating": 2.44,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.57,
     "courses": [
       "EE 111",
       "EE 212",
@@ -12495,8 +12511,12 @@
       "EE 412",
       "EE 416",
       "EE 425",
-      "EE 541"
-    ]
+      "EE 541",
+      "EE 151"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "66a8823c-ede7-41a2-b783-d36796fefe65",
