@@ -5336,16 +5336,18 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
-    "materialClear": 2,
-    "studentDifficulties": 1,
+    "materialClear": 1.5,
+    "studentDifficulties": 0.5,
     "courses": [
-      "MATH"
+      "MATH 141",
+      "MATH 118"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Deadline Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -12535,15 +12537,18 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 1,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 3.33,
+    "studentDifficulties": 1.33,
     "courses": [
-      "MATH",
-      "MATH 141",
-      "MATH 161"
-    ]
+      "MATH 161",
+      "MATH 141"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "66e2d70a-f3fc-4946-a17b-26db06b43bad",
