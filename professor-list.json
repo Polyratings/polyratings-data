@@ -5336,18 +5336,18 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 0,
-    "materialClear": 1.5,
-    "studentDifficulties": 0.5,
+    "materialClear": 1,
+    "studentDifficulties": 0.33,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 2,
-      "No Breaks During Lecture": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Deadline Policy": 3,
+      "No Breaks During Lecture": 2,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -5769,10 +5769,10 @@
     "department": "STAT",
     "firstName": "Heather",
     "lastName": "Smith",
-    "numEvals": 108,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.44,
-    "overallRating": 2.47,
+    "numEvals": 109,
+    "overallRating": 2.48,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.45,
     "courses": [
       "STAT 211",
       "STAT 218",
@@ -5782,7 +5782,12 @@
       "STAT 312",
       "STAT 421",
       "STAT 512"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "2e1da759-8c4f-4aca-b3f2-9c7a30b711ae",
@@ -19307,10 +19312,10 @@
     "department": "PHYS",
     "firstName": "Vardha",
     "lastName": "Bennert",
-    "numEvals": 27,
-    "overallRating": 2.72,
-    "materialClear": 2.59,
-    "studentDifficulties": 2.69,
+    "numEvals": 28,
+    "overallRating": 2.73,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.7,
     "courses": [
       "ASTR 101",
       "PHYS 101",
@@ -19320,7 +19325,12 @@
       "PHYS 141",
       "PHYS 211",
       "ASTR 302"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9cd3bb05-bb8f-4e31-8055-d27271da5c60",
