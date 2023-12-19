@@ -1942,9 +1942,9 @@
     "department": "SOC",
     "firstName": "James",
     "lastName": "Keese",
-    "numEvals": 81,
-    "overallRating": 2.79,
-    "materialClear": 2.81,
+    "numEvals": 82,
+    "overallRating": 2.8,
+    "materialClear": 2.82,
     "studentDifficulties": 2.61,
     "courses": [
       "GEOG 150",
@@ -18499,14 +18499,17 @@
     "department": "JPNS",
     "firstName": "Junko",
     "lastName": "Cleave",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "JPNS"
+      "JPNS 101"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "95f8c98e-9393-4cf0-9119-23749d39d1eb",
@@ -24065,17 +24068,18 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 3,
-    "overallRating": 1.33,
-    "materialClear": 1.67,
-    "studentDifficulties": 2,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.5,
     "courses": [
       "ES 255"
     ],
     "tags": {
-      "Pop Quizzes": 2,
-      "No Breaks During Lecture": 2,
-      "Flexible Attendance Policy": 1
+      "Pop Quizzes": 3,
+      "No Breaks During Lecture": 3,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
