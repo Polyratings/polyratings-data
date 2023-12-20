@@ -1644,10 +1644,10 @@
     "department": "ENGL",
     "firstName": "Glen",
     "lastName": "Starkey",
-    "numEvals": 115,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.77,
-    "overallRating": 2.83,
+    "numEvals": 116,
+    "overallRating": 2.84,
+    "materialClear": 2.89,
+    "studentDifficulties": 2.78,
     "courses": [
       "ENGL 102",
       "ENGL 112",
@@ -1656,7 +1656,8 @@
       "ENGL 145",
       "ENGL 215",
       "ENGL 302"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "0d17a5d0-b9fb-4fb3-96da-32f76cdb305f",
@@ -4746,13 +4747,17 @@
     "department": "BUS",
     "firstName": "Guy",
     "lastName": "Savage",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "BUS 391"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "2584a32f-07c8-404c-b4e1-8e859c1c3f0a",
@@ -6502,9 +6507,9 @@
     "department": "POLS",
     "firstName": "Todd",
     "lastName": "Porter",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.33,
     "studentDifficulties": 4,
     "courses": [
       "POLS 245",
@@ -8554,10 +8559,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 9,
-    "overallRating": 0.89,
-    "materialClear": 0.67,
-    "studentDifficulties": 1.33,
+    "numEvals": 10,
+    "overallRating": 0.8,
+    "materialClear": 0.6,
+    "studentDifficulties": 1.2,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -8566,9 +8571,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -9058,10 +9063,10 @@
     "department": "ENGL",
     "firstName": "Rebekah",
     "lastName": "Maples",
-    "numEvals": 22,
-    "overallRating": 3.83,
+    "numEvals": 23,
+    "overallRating": 3.84,
     "materialClear": 3.91,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -9980,15 +9985,19 @@
     "department": "POLS",
     "firstName": "Richard",
     "lastName": "Kline",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 230",
+      "POLS 112"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -11080,10 +11089,10 @@
     "department": "FR",
     "firstName": "John",
     "lastName": "Thompson",
-    "numEvals": 26,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.57,
-    "overallRating": 3.52,
+    "numEvals": 27,
+    "overallRating": 3.54,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.59,
     "courses": [
       "FR 101",
       "FR 103",
@@ -11095,7 +11104,12 @@
       "HUM 310",
       "FR 322",
       "FR 400"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "5bc3ff7e-9a78-4471-850c-ea1455fce836",
@@ -14643,9 +14657,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 116,
+    "numEvals": 117,
     "overallRating": 3.48,
-    "materialClear": 3.22,
+    "materialClear": 3.23,
     "studentDifficulties": 3.52,
     "courses": [
       "STAT 221",
@@ -14653,7 +14667,8 @@
       "STAT 252",
       "STAT 262",
       "STAT 324"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "7712386a-36a0-4ea5-a995-4d9dfbdc30cf",
@@ -18340,10 +18355,10 @@
     "department": "ECON",
     "firstName": "Joseph",
     "lastName": "Kuehn",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "ECON 221",
       "ECON 339"
@@ -18570,10 +18585,10 @@
     "department": "EE",
     "firstName": "Xiaomin",
     "lastName": "Jin",
-    "numEvals": 36,
-    "overallRating": 2.03,
-    "materialClear": 1.72,
-    "studentDifficulties": 2.21,
+    "numEvals": 37,
+    "overallRating": 2.06,
+    "materialClear": 1.73,
+    "studentDifficulties": 2.23,
     "courses": [
       "EE 212",
       "EE 306",
@@ -18588,8 +18603,8 @@
     "tags": {
       "Zoom Office Hours": 2,
       "Class Handouts": 2,
-      "Uploads Slides": 1,
-      "Recorded Lectures": 1
+      "Uploads Slides": 2,
+      "Recorded Lectures": 2
     }
   },
   {
@@ -18986,10 +19001,10 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 13,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.36,
-    "overallRating": 3.21,
+    "numEvals": 14,
+    "overallRating": 3.27,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.41,
     "courses": [
       "ENGL 231",
       "ENGL 305",
@@ -18997,7 +19012,8 @@
       "ENGL 338",
       "ENGL 349",
       "ENGL 439"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "99cbf65c-f534-4087-b71a-ce3754a62990",
@@ -20909,10 +20925,10 @@
     "department": "STAT",
     "firstName": "Samuel",
     "lastName": "Frame",
-    "numEvals": 89,
-    "overallRating": 1.94,
-    "materialClear": 2.35,
-    "studentDifficulties": 1.6,
+    "numEvals": 90,
+    "overallRating": 1.96,
+    "materialClear": 2.37,
+    "studentDifficulties": 1.63,
     "courses": [
       "STAT 217",
       "STAT 251",
@@ -20928,7 +20944,7 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 3
     }
   },
   {
@@ -21753,13 +21769,17 @@
     "department": "ES",
     "firstName": "Lydia ",
     "lastName": "Heberling",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b2e8c1d5-b920-4a70-a658-d3cad2958742",
@@ -22383,7 +22403,7 @@
     "department": "COMS",
     "firstName": "Erin",
     "lastName": "Zamora",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
