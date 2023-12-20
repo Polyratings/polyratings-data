@@ -12159,17 +12159,22 @@
     "department": "BIO",
     "firstName": "Sandi",
     "lastName": "Clement",
-    "numEvals": 31,
-    "materialClear": 2.81,
-    "studentDifficulties": 3.13,
-    "overallRating": 2.94,
+    "numEvals": 32,
+    "overallRating": 2.97,
+    "materialClear": 2.85,
+    "studentDifficulties": 3.16,
     "courses": [
       "BIO 161",
       "BIO 302",
       "WGS 350",
       "BIO 351",
       "BIO 375"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "64666fdd-47a1-491d-8fa5-26cc8fd93419",
