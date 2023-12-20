@@ -16270,7 +16270,7 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 194,
+    "numEvals": 196,
     "overallRating": 2.64,
     "materialClear": 2.5,
     "studentDifficulties": 2.4,
@@ -16289,7 +16289,9 @@
       "MATH 328",
       "MATH 344"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Grading Policy": 2
+    }
   },
   {
     "id": "82b97898-c409-4c98-ab50-ba5ba49e8460",
