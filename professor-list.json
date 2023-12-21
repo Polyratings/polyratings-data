@@ -6790,15 +6790,17 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 4,
-    "overallRating": 1.25,
-    "materialClear": 0.75,
-    "studentDifficulties": 2,
+    "numEvals": 5,
+    "overallRating": 1.4,
+    "materialClear": 1,
+    "studentDifficulties": 2.2,
     "courses": [
       "STAT 217",
       "STAT 312"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "35e2b442-3af2-4261-a0c8-066222500c47",
@@ -7476,10 +7478,10 @@
     "department": "ME",
     "firstName": "Kim",
     "lastName": "Shollenberger",
-    "numEvals": 34,
-    "materialClear": 2.88,
+    "numEvals": 35,
+    "overallRating": 2.97,
+    "materialClear": 2.91,
     "studentDifficulties": 2.88,
-    "overallRating": 2.94,
     "courses": [
       "ME 236",
       "ME 302",
@@ -7489,7 +7491,8 @@
       "ME 344",
       "ME 347",
       "ME 554"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "3dad6655-92e6-403d-91fc-af63ca736da6",
@@ -11258,15 +11261,21 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.75,
-    "overallRating": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.8,
     "courses": [
       "SOC 355",
       "SOC 406",
-      "SOC 412"
-    ]
+      "SOC 412",
+      "ES 112"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5c469df1-96ce-47cb-a099-22d35a5c52b6",
