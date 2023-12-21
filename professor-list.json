@@ -1215,17 +1215,19 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 3,
     "courses": [
-      "MATH"
+      "MATH 143"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 1
+      "Supplemental Study Material": 2,
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -5262,9 +5264,9 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 78,
-    "overallRating": 2.31,
-    "materialClear": 2.19,
+    "numEvals": 79,
+    "overallRating": 2.29,
+    "materialClear": 2.17,
     "studentDifficulties": 2.22,
     "courses": [
       "CHEM 110",
@@ -10814,10 +10816,10 @@
     "department": "PHYS",
     "firstName": "John",
     "lastName": "Sharpe",
-    "numEvals": 60,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.33,
-    "overallRating": 3.45,
+    "numEvals": 61,
+    "overallRating": 3.46,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.34,
     "courses": [
       "ASTR 101",
       "ASTR 102",
@@ -10830,7 +10832,10 @@
       "PHYS 133",
       "PHYS 141",
       "PHYS 342"
-    ]
+    ],
+    "tags": {
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "596ebbae-6ac9-4453-8d89-d1514d70f3b8",
@@ -15316,7 +15321,7 @@
     "department": "ES",
     "firstName": "Alpen",
     "lastName": "Razi",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 3.96,
     "materialClear": 3.89,
     "studentDifficulties": 3.91,
@@ -15330,9 +15335,10 @@
       "ES 254"
     ],
     "tags": {
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -17629,9 +17635,9 @@
     "department": "COMS",
     "firstName": "Rebecca",
     "lastName": "Laidlaw",
-    "numEvals": 162,
-    "overallRating": 2.89,
-    "materialClear": 2.97,
+    "numEvals": 163,
+    "overallRating": 2.9,
+    "materialClear": 2.98,
     "studentDifficulties": 2.74,
     "courses": [
       "CM 101",
@@ -17642,7 +17648,8 @@
       "SPC 102",
       "SCM 111",
       "COMS 202"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8e923ce0-c1a2-4910-a2fb-f20bfc14f898",
@@ -26329,10 +26336,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 59,
-    "overallRating": 3.22,
-    "materialClear": 2.91,
-    "studentDifficulties": 3.25,
+    "numEvals": 60,
+    "overallRating": 3.23,
+    "materialClear": 2.93,
+    "studentDifficulties": 3.26,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -26347,7 +26354,8 @@
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1,
       "Recorded Lectures": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -26473,10 +26481,10 @@
     "department": "MATH",
     "firstName": "Charles",
     "lastName": "Camp",
-    "numEvals": 49,
-    "overallRating": 1.56,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.56,
+    "numEvals": 50,
+    "overallRating": 1.57,
+    "materialClear": 1.49,
+    "studentDifficulties": 1.57,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -26558,10 +26566,10 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 42,
+    "numEvals": 43,
     "overallRating": 2.82,
     "materialClear": 2.93,
-    "studentDifficulties": 2.8,
+    "studentDifficulties": 2.83,
     "courses": [
       "STAT 217",
       "STAT 218",
