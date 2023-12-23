@@ -12174,10 +12174,10 @@
     "department": "BIO",
     "firstName": "Sandi",
     "lastName": "Clement",
-    "numEvals": 32,
-    "overallRating": 2.97,
+    "numEvals": 33,
+    "overallRating": 3,
     "materialClear": 2.85,
-    "studentDifficulties": 3.16,
+    "studentDifficulties": 3.19,
     "courses": [
       "BIO 161",
       "BIO 302",
@@ -12188,7 +12188,10 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -16370,10 +16373,10 @@
     "department": "EE",
     "firstName": "Ashraf",
     "lastName": "Elbarbary",
-    "numEvals": 7,
-    "overallRating": 3.15,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.86,
+    "numEvals": 8,
+    "overallRating": 3.13,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.75,
     "courses": [
       "EE 211",
       "PHYS 133",
@@ -16383,7 +16386,7 @@
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -26795,10 +26798,10 @@
     "department": "CHEM",
     "firstName": "Kevin",
     "lastName": "Kingsbury",
-    "numEvals": 43,
-    "materialClear": 2.98,
-    "studentDifficulties": 2.86,
+    "numEvals": 44,
     "overallRating": 2.95,
+    "materialClear": 3,
+    "studentDifficulties": 2.84,
     "courses": [
       "CHEM 110",
       "CHEM 128",
@@ -26812,7 +26815,11 @@
       "CHEM 319",
       "CHEM 445",
       "CHEM 481"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "dd7e7ab3-10d9-4207-9d58-85d683884d2a",
@@ -29185,13 +29192,14 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 2.25,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 2.4,
+    "studentDifficulties": 3.2,
     "courses": [
       "COMS 100",
-      "COMS 316"
+      "COMS 316",
+      "COMS 101"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
