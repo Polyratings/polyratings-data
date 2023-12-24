@@ -5092,14 +5092,19 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Ferree",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 133",
+      "ENGL 391"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "281974f4-21f4-4098-aa21-cd9497bb29dc",
@@ -15044,10 +15049,10 @@
     "department": "CE",
     "firstName": "Eric",
     "lastName": "Kasper",
-    "numEvals": 74,
-    "overallRating": 2.63,
-    "materialClear": 2.63,
-    "studentDifficulties": 2.6,
+    "numEvals": 75,
+    "overallRating": 2.65,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.62,
     "courses": [
       "CE 201",
       "CE 204",
@@ -15058,7 +15063,8 @@
       "CE 453",
       "CE 501",
       "CE 504"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "79cb514d-e67a-406a-b141-5d14419a0159",
@@ -28665,10 +28671,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 88,
-    "materialClear": 3.11,
+    "numEvals": 89,
+    "overallRating": 3.01,
+    "materialClear": 3.12,
     "studentDifficulties": 2.72,
-    "overallRating": 3,
     "courses": [
       "ENGL 250",
       "ENGL 251",
@@ -28683,7 +28689,11 @@
       "ENGL 439",
       "ENGL 459",
       "ENGL 502"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "ee48c272-2127-4d1a-b77f-dd1c3e03cb62",
