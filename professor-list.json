@@ -14454,20 +14454,22 @@
     "department": "CSC",
     "firstName": "Kirsten",
     "lastName": "Mork",
-    "numEvals": 9,
-    "overallRating": 3.78,
-    "materialClear": 4,
-    "studentDifficulties": 3.89,
+    "numEvals": 10,
+    "overallRating": 3.8,
+    "materialClear": 3.9,
+    "studentDifficulties": 3.9,
     "courses": [
       "CPE 203",
       "CSC 101"
     ],
     "tags": {
       "Recorded Lectures": 3,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -18672,10 +18674,10 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 98,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.52,
+    "numEvals": 99,
     "overallRating": 3.45,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.52,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -18688,7 +18690,12 @@
       "CSC 234",
       "CPE 110",
       "CPE 353"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9688ac23-4501-4959-9622-eef24a4dd04c",
@@ -19177,14 +19184,18 @@
     "department": "FSN",
     "firstName": "Lindsey",
     "lastName": "Ross",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2.5,
     "courses": [
-      "FSN"
+      "FSN 319"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9b13a7c2-22ae-4dc6-a3d6-b98a11552490",
@@ -19413,10 +19424,10 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.5,
     "courses": [
       "COMS 101"
     ],
