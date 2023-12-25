@@ -2465,15 +2465,15 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3.33,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.25,
     "courses": [
-      "MATH",
-      "MATH 141",
-      "MATH 142"
-    ]
+      "MATH 142",
+      "MATH 141"
+    ],
+    "tags": {}
   },
   {
     "id": "11f1cf28-f2f5-4fa0-a284-66e051467e70",
