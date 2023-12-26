@@ -2285,10 +2285,10 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 43,
+    "numEvals": 44,
     "overallRating": 3.04,
-    "materialClear": 2.95,
-    "studentDifficulties": 2.91,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.93,
     "courses": [
       "ASTR 102",
       "PHYS 121",
@@ -6400,12 +6400,12 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ENGL"
+      "ENGL 145"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -13184,10 +13184,10 @@
     "department": "EE",
     "firstName": "Ahmad",
     "lastName": "Nafisi",
-    "numEvals": 62,
-    "overallRating": 3.55,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.67,
+    "numEvals": 63,
+    "overallRating": 3.56,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.68,
     "courses": [
       "EE 110",
       "EE 112",
@@ -14196,13 +14196,15 @@
     "department": "EE",
     "firstName": "Chuck",
     "lastName": "Bland",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "EE 375"
-    ]
+      "EE 375",
+      "EE 241"
+    ],
+    "tags": {}
   },
   {
     "id": "748664d2-24f4-4750-a1fe-25c59f0f4eac",
@@ -19541,10 +19543,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 22,
-    "overallRating": 2.92,
-    "materialClear": 2.92,
-    "studentDifficulties": 2.83,
+    "numEvals": 23,
+    "overallRating": 2.88,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.79,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19553,7 +19555,8 @@
       "MATH 242",
       "MATH 300",
       "MATH 329",
-      "MATH 143"
+      "MATH 143",
+      "MATH 248"
     ],
     "tags": {}
   },
