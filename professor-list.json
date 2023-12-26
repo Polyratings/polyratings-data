@@ -1849,10 +1849,10 @@
     "department": "PHYS",
     "firstName": "Jonathan",
     "lastName": "Fernsler",
-    "numEvals": 49,
-    "overallRating": 2.64,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.88,
+    "numEvals": 50,
+    "overallRating": 2.65,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.86,
     "courses": [
       "PSC 101",
       "PHYS 121",
@@ -1871,10 +1871,11 @@
       "Zoom Office Hours": 1,
       "Recorded Lectures": 1,
       "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -2518,20 +2519,24 @@
     "department": "ES",
     "firstName": "Elvira",
     "lastName": "Pulitano",
-    "numEvals": 34,
-    "overallRating": 2.2,
-    "materialClear": 2.46,
-    "studentDifficulties": 2.12,
+    "numEvals": 35,
+    "overallRating": 2.17,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.15,
     "courses": [
       "ES 241",
       "ES 242",
       "ES 340",
-      "ES 380"
+      "ES 380",
+      "ES 253"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -3853,17 +3858,19 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 35,
-    "overallRating": 3.65,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.59,
+    "numEvals": 36,
+    "overallRating": 3.66,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.6,
     "courses": [
       "ART 112",
       "ART 212"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -14689,9 +14696,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 117,
+    "numEvals": 118,
     "overallRating": 3.48,
-    "materialClear": 3.23,
+    "materialClear": 3.24,
     "studentDifficulties": 3.52,
     "courses": [
       "STAT 221",
@@ -14700,7 +14707,11 @@
       "STAT 262",
       "STAT 324"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "7712386a-36a0-4ea5-a995-4d9dfbdc30cf",
@@ -17150,7 +17161,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19626,10 +19637,10 @@
     "department": "SOC",
     "firstName": "Ryan",
     "lastName": "Alaniz",
-    "numEvals": 53,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.38,
-    "overallRating": 3.31,
+    "numEvals": 54,
+    "overallRating": 3.29,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.39,
     "courses": [
       "SOC 110",
       "SOC 111",
@@ -19638,7 +19649,12 @@
       "SOC 218",
       "HUM 310",
       "SOC 310"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9ecfac36-fcb0-45b3-bc1e-c845eeabbe17",
@@ -20108,13 +20124,14 @@
     "department": "MATH",
     "firstName": "Stathis",
     "lastName": "Charalampidis",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "MATH 241",
-      "MATH 244"
+      "MATH 244",
+      "MATH 143"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -22509,10 +22526,10 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 57,
+    "numEvals": 58,
     "overallRating": 2.11,
     "materialClear": 2.16,
-    "studentDifficulties": 2.18,
+    "studentDifficulties": 2.16,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -22521,7 +22538,8 @@
       "ECON 222"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -28168,10 +28186,10 @@
     "department": "PSY",
     "firstName": "Laura",
     "lastName": "Freberg",
-    "numEvals": 112,
-    "overallRating": 3.42,
+    "numEvals": 114,
+    "overallRating": 3.41,
     "materialClear": 3.44,
-    "studentDifficulties": 3.35,
+    "studentDifficulties": 3.34,
     "courses": [
       "PSY 101",
       "PSY 201",
@@ -28181,8 +28199,10 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Recorded Lectures": 1,
-      "Uploads Slides": 1
+      "Recorded Lectures": 3,
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -30494,7 +30514,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 209,
+    "numEvals": 210,
     "overallRating": 3.4,
     "materialClear": 3.42,
     "studentDifficulties": 3.32,
