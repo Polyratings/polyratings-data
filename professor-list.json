@@ -22823,9 +22823,9 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 126,
-    "overallRating": 3.9,
-    "materialClear": 3.93,
+    "numEvals": 127,
+    "overallRating": 3.89,
+    "materialClear": 3.92,
     "studentDifficulties": 3.87,
     "courses": [
       "MATH 112",
@@ -22847,7 +22847,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -26984,10 +26986,10 @@
     "department": "CSC",
     "firstName": "Franz",
     "lastName": "Kurfess",
-    "numEvals": 25,
-    "materialClear": 2.93,
-    "studentDifficulties": 3.37,
-    "overallRating": 3.15,
+    "numEvals": 26,
+    "overallRating": 3.11,
+    "materialClear": 2.86,
+    "studentDifficulties": 3.36,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -27001,7 +27003,11 @@
       "CSC 486",
       "CSC 580",
       "CSC 581"
-    ]
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "df5cbd42-bf2d-478b-8867-27c897144957",
