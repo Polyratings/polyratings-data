@@ -8234,9 +8234,9 @@
     "department": "ARCE",
     "firstName": "Craig",
     "lastName": "Baltimore",
-    "numEvals": 38,
-    "overallRating": 2.03,
-    "materialClear": 2.22,
+    "numEvals": 39,
+    "overallRating": 2.05,
+    "materialClear": 2.24,
     "studentDifficulties": 1.97,
     "courses": [
       "ARCE 211",
@@ -8250,7 +8250,11 @@
       "ARCE 322",
       "ARCE 444",
       "ARCE 226"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "42735272-e1e2-42c6-a87d-3ec4134fc7c4",
@@ -12915,10 +12919,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 32,
-    "overallRating": 3.73,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.69,
+    "numEvals": 33,
+    "overallRating": 3.71,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.64,
     "courses": [
       "EE 212",
       "EE 306",
@@ -17447,10 +17451,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 81,
-    "overallRating": 3.32,
-    "materialClear": 3.34,
-    "studentDifficulties": 3.13,
+    "numEvals": 82,
+    "overallRating": 3.29,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.1,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -17465,10 +17469,10 @@
       "CSC 464"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 3,
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 4,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1
     }
   },
@@ -23382,10 +23386,10 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.5,
     "courses": [
       "ES 256",
       "ES 335"
@@ -24021,10 +24025,10 @@
     "department": "MATH",
     "firstName": "Lawrence",
     "lastName": "Sze",
-    "numEvals": 163,
+    "numEvals": 164,
     "overallRating": 2.48,
     "materialClear": 2.34,
-    "studentDifficulties": 2.55,
+    "studentDifficulties": 2.56,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -24038,9 +24042,12 @@
       "MATH 336",
       "MATH 341",
       "MATH 437",
-      "MATH 481"
+      "MATH 481",
+      "MATH 334"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "c6507394-22ba-4583-9063-e28e627edc4b",
@@ -24714,10 +24721,10 @@
     "department": "ARCH",
     "firstName": "Don",
     "lastName": "Choi",
-    "numEvals": 65,
+    "numEvals": 66,
     "overallRating": 3.16,
-    "materialClear": 3.44,
-    "studentDifficulties": 2.9,
+    "materialClear": 3.43,
+    "studentDifficulties": 2.89,
     "courses": [
       "ARCH 217",
       "ARCH 218",
@@ -24726,7 +24733,11 @@
       "ARCH 222",
       "ARCH 320",
       "ARCH 420"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "cca9fd72-71ea-4a7a-9100-6877c7890b8a",
