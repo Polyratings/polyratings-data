@@ -23435,10 +23435,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 10,
-    "overallRating": 2.7,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.9,
+    "numEvals": 11,
+    "overallRating": 2.73,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.91,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -23446,12 +23446,13 @@
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 3,
-      "No Breaks During Lecture": 1,
+      "Uploads Slides": 4,
+      "No Breaks During Lecture": 2,
       "High In-Person Availability": 1,
       "Fast Response Time": 3,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -27048,15 +27049,19 @@
     "department": "ASCI",
     "firstName": "Kim",
     "lastName": "Sprayberry",
-    "numEvals": 13,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.85,
-    "overallRating": 3.85,
+    "numEvals": 14,
+    "overallRating": 3.86,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.86,
     "courses": [
       "ASCI 229",
       "ASCI 438",
       "ASCI 490"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "dfb6d82a-df9b-4cc3-b7c4-7ba973ac6de0",
