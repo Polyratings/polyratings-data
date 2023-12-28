@@ -12622,13 +12622,14 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 3.33,
-    "studentDifficulties": 1.33,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 3.43,
+    "studentDifficulties": 1.57,
     "courses": [
       "MATH 161",
-      "MATH 141"
+      "MATH 141",
+      "MATH 142"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
@@ -21401,7 +21402,7 @@
     "department": "COMS",
     "firstName": "Connie",
     "lastName": "Young-Johnson",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -24230,14 +24231,14 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 3,
-    "overallRating": 2.67,
+    "numEvals": 4,
+    "overallRating": 2.5,
     "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.25,
     "courses": [
-      "BIO",
       "BIO 161"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "c7b11934-d727-4d1f-a5f4-8d22d2896757",
