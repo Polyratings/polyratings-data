@@ -152,6 +152,23 @@
     ]
   },
   {
+    "id": "022bc4b1-a0b8-4eb2-a212-a4234973de94",
+    "department": "ME",
+    "firstName": "Allan",
+    "lastName": "Glover",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
+    }
+  },
+  {
     "id": "023a7952-a1db-4628-8bc7-08c35884c15d",
     "department": "ARCH",
     "firstName": "Marc J.",
@@ -1215,19 +1232,21 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.33,
     "courses": [
       "MATH 143"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -2365,6 +2384,20 @@
       "HLTH 260",
       "CD 340"
     ]
+  },
+  {
+    "id": "1173414b-4b60-45ed-95ab-a159f39b1593",
+    "department": "BIO",
+    "firstName": "Larisa",
+    "lastName": "Vredevoe",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BIO"
+    ],
+    "tags": {}
   },
   {
     "id": "118d90db-c8b7-4756-bf21-f7e12ac683b7",
@@ -4252,10 +4285,10 @@
     "department": "STAT",
     "firstName": "Steve",
     "lastName": "Rein",
-    "numEvals": 91,
-    "materialClear": 2.04,
-    "studentDifficulties": 2.15,
+    "numEvals": 92,
     "overallRating": 2.15,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.16,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -4271,7 +4304,8 @@
       "STAT 416",
       "STAT 418",
       "STAT 513"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "2084d3d1-38dd-48ec-8130-2488aef74b78",
@@ -6312,6 +6346,20 @@
     ]
   },
   {
+    "id": "3100296b-aa65-41e7-b10f-453a03a3b64a",
+    "department": "ASCI",
+    "firstName": "Sarah",
+    "lastName": "Stewart",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2,
+    "courses": [
+      "ASCI"
+    ],
+    "tags": {}
+  },
+  {
     "id": "310e9f01-8166-492d-8f37-83c8ddd7e511",
     "department": "SOC",
     "firstName": "Liz",
@@ -8153,6 +8201,24 @@
     ]
   },
   {
+    "id": "41dafa23-0af0-4540-807d-66e7f34e18cd",
+    "department": "ASCI",
+    "firstName": "Laura",
+    "lastName": "Backus",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ASCI"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "41ea6378-4ef5-4b5b-b102-6cf410ab933b",
     "department": "PHYS",
     "firstName": "Themistoklis",
@@ -8291,6 +8357,24 @@
       "IT 415",
       "GSB 534"
     ]
+  },
+  {
+    "id": "4314190b-d96e-442a-9230-60c52e152610",
+    "department": "EDUC",
+    "firstName": "Jesse",
+    "lastName": "Sanford",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "EDUC"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4352e955-1edb-4737-b8b5-47a95017ea8c",
@@ -12885,6 +12969,24 @@
     }
   },
   {
+    "id": "69047654-cb2c-4300-8286-4f93c128fbaf",
+    "department": "CHEM",
+    "firstName": "Matthew",
+    "lastName": "Zoerb",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "CHEM"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "69152fa3-c1d2-438b-8cae-320836a85cf6",
     "department": "ME",
     "firstName": "Xi",
@@ -15242,6 +15344,20 @@
     }
   },
   {
+    "id": "7b24f8e3-3a73-4363-ad4f-94169718b12d",
+    "department": "CRP",
+    "firstName": "Beate",
+    "lastName": "von Bischopinck",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CRP"
+    ],
+    "tags": {}
+  },
+  {
     "id": "7b5ba0ad-52ae-4465-aa61-a05bc01c5dc4",
     "department": "PHIL",
     "firstName": "David",
@@ -16337,7 +16453,7 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 196,
+    "numEvals": 197,
     "overallRating": 2.64,
     "materialClear": 2.5,
     "studentDifficulties": 2.4,
@@ -19399,6 +19515,23 @@
     ]
   },
   {
+    "id": "9ca56b7a-49fc-48e0-bc8e-bda0c792807e",
+    "department": "STAT",
+    "firstName": "Immanuel ",
+    "lastName": "Williams",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "STAT"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "9cb9b220-f200-4d37-b158-929772082c23",
     "department": "PHYS",
     "firstName": "Vardha",
@@ -20820,6 +20953,20 @@
     ]
   },
   {
+    "id": "a8d60bc0-b692-4b90-bae0-a97dae214e79",
+    "department": "ME",
+    "firstName": "Cooper",
+    "lastName": "Minehart",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {}
+  },
+  {
     "id": "a9231ca7-7371-4cab-94a7-4f7752ba112c",
     "department": "BUS",
     "firstName": "Zafar",
@@ -21985,6 +22132,37 @@
     "courses": [
       "IME 327"
     ]
+  },
+  {
+    "id": "b3ebc752-9e02-4b0b-8f05-bf0d78f85ff4",
+    "department": "CRP",
+    "firstName": "Dave",
+    "lastName": "Amos",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CRP"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "b3f3bd06-33c1-4132-8242-e8b9a0da8601",
+    "department": "BUS",
+    "firstName": "Mallory",
+    "lastName": "Stoffel",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {}
   },
   {
     "id": "b3fc9a02-d1c0-4916-b363-c0eb3d2ff5d6",
@@ -24867,6 +25045,20 @@
     ]
   },
   {
+    "id": "cdb163d8-97a4-4ad4-a97c-1cc85e8ee7bb",
+    "department": "MATH",
+    "firstName": "Robert",
+    "lastName": "Lopez",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {}
+  },
+  {
     "id": "cdcf44bf-3ce3-4438-b70e-4d519e6a408a",
     "department": "KINE",
     "firstName": "Sonja",
@@ -25237,6 +25429,23 @@
     "courses": [
       "BIO 111"
     ]
+  },
+  {
+    "id": "d1f397d4-d592-4442-9104-93f0fefc2c4b",
+    "department": "CSC",
+    "firstName": "BJ",
+    "lastName": "Klingenberg",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "d21b68f0-f543-47e5-b821-159d6e2a09af",
@@ -27723,6 +27932,22 @@
     ]
   },
   {
+    "id": "e412ae31-ff53-42a5-9e81-f23cbce3e588",
+    "department": "UNIV",
+    "firstName": "Debi",
+    "lastName": "Hill",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "UNIV"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
+  },
+  {
     "id": "e44d5a4f-e747-4cd4-9433-eb2bb6ba9627",
     "department": "ENGL",
     "firstName": "Andrew",
@@ -28980,6 +29205,24 @@
     ]
   },
   {
+    "id": "f0368df2-14fa-40e8-87f0-5c2452d590d0",
+    "department": "ME",
+    "firstName": "Kerry",
+    "lastName": "Lane",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
+  },
+  {
     "id": "f0800cbd-a45f-46f1-9f19-e662d5f1b1b1",
     "department": "ENGL",
     "firstName": "Carol",
@@ -29234,7 +29477,7 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 127,
+    "numEvals": 128,
     "overallRating": 1.72,
     "materialClear": 2,
     "studentDifficulties": 1.63,
@@ -29258,7 +29501,10 @@
       "ENGL 501",
       "ENGL 512"
     ],
-    "tags": {}
+    "tags": {
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "f2633611-976b-424a-954f-8c2649da095b",
@@ -30274,6 +30520,20 @@
     "tags": {
       "No Breaks During Lecture": 1
     }
+  },
+  {
+    "id": "f9c05b72-903c-4250-85f7-77dd541d973e",
+    "department": "STAT",
+    "firstName": "Trevor",
+    "lastName": "Ruiz",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "STAT"
+    ],
+    "tags": {}
   },
   {
     "id": "f9fece86-49a3-4617-8ce7-42d804028e7b",
