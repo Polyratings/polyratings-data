@@ -28275,10 +28275,10 @@
     "department": "ME",
     "firstName": "Patrick",
     "lastName": "Lemieux",
-    "numEvals": 36,
-    "materialClear": 2.84,
-    "studentDifficulties": 2.62,
-    "overallRating": 2.64,
+    "numEvals": 38,
+    "overallRating": 2.6,
+    "materialClear": 2.74,
+    "studentDifficulties": 2.61,
     "courses": [
       "ME 303",
       "ME 341",
@@ -28289,7 +28289,10 @@
       "ME 444",
       "ME 488",
       "ME 542"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 2
+    }
   },
   {
     "id": "ea3fa0ff-75a3-4000-9b06-4d6c69dc9c5d",
