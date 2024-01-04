@@ -10598,16 +10598,19 @@
     "department": "BIO",
     "firstName": "Lisa",
     "lastName": "Needles",
-    "numEvals": 26,
-    "overallRating": 1.71,
-    "materialClear": 1.57,
-    "studentDifficulties": 1.9,
+    "numEvals": 27,
+    "overallRating": 1.76,
+    "materialClear": 1.62,
+    "studentDifficulties": 1.98,
     "courses": [
       "BIO 160",
       "BIO 227",
       "MSC 328",
       "BIO 437"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "562d05fe-4102-4dfa-9c86-b8859090dafa",
@@ -29057,16 +29060,18 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
-    "materialClear": 3,
+    "materialClear": 2.5,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS"
+      "PHYS 143"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1
+      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
