@@ -13770,17 +13770,17 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 1.75,
+    "materialClear": 2.4,
+    "studentDifficulties": 1.4,
     "courses": [
       "HIST 222",
       "HIST 225",
       "HIST 306"
     ],
     "tags": {
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -18743,15 +18743,19 @@
     "department": "PHYS",
     "firstName": "Hilary",
     "lastName": "Jacks",
-    "numEvals": 8,
-    "overallRating": 1.5,
-    "materialClear": 1.87,
-    "studentDifficulties": 2.38,
+    "numEvals": 9,
+    "overallRating": 1.44,
+    "materialClear": 1.77,
+    "studentDifficulties": 2.34,
     "courses": [
       "PHYS 133",
       "PHYS 141"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "965d8a4b-3a60-428a-8de8-402042806efe",
