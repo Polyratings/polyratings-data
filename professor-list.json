@@ -15182,10 +15182,10 @@
     "department": "CE",
     "firstName": "Eric",
     "lastName": "Kasper",
-    "numEvals": 75,
-    "overallRating": 2.65,
+    "numEvals": 76,
+    "overallRating": 2.67,
     "materialClear": 2.65,
-    "studentDifficulties": 2.62,
+    "studentDifficulties": 2.64,
     "courses": [
       "CE 201",
       "CE 204",
@@ -15197,7 +15197,9 @@
       "CE 501",
       "CE 504"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1
+    }
   },
   {
     "id": "79cb514d-e67a-406a-b141-5d14419a0159",
