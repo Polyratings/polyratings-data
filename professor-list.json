@@ -5556,18 +5556,19 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "MATH 142",
-      "MATH 206"
+      "MATH 206",
+      "MATH 202"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Supplemental Study Material": 2,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
+      "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 1
     }
   },
@@ -18730,17 +18731,18 @@
     "department": "MATH",
     "firstName": "Cierra",
     "lastName": "Street",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "MATH"
+      "MATH 141"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "High In-Person Availability": 2,
+      "Class Handouts": 2,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -28413,7 +28415,7 @@
     "department": "ES",
     "firstName": "Dan ",
     "lastName": "Castilow ",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -28421,7 +28423,8 @@
       "ES 254"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
