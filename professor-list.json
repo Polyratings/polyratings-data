@@ -20066,15 +20066,19 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "CHEM 124",
       "PHYS 141"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a14b9a4a-e17b-4a76-81c9-2a30f98e0216",
