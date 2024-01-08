@@ -4537,10 +4537,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 80,
-    "overallRating": 3.48,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.5,
+    "numEvals": 81,
+    "overallRating": 3.49,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.51,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -4551,8 +4551,9 @@
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Uploads Slides": 3,
+      "Fast Response Time": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -18090,13 +18091,14 @@
     "department": "COMS",
     "firstName": "Alexa",
     "lastName": "Loken",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
-    ]
+      "COMS 101"
+    ],
+    "tags": {}
   },
   {
     "id": "9098a0cf-9ee2-40cd-9567-2135fbc51a89",
@@ -21410,10 +21412,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.62,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.66,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -23512,10 +23514,10 @@
     "department": "CSC",
     "firstName": "Hasmik",
     "lastName": "Gharibyan",
-    "numEvals": 135,
-    "overallRating": 1.4,
-    "materialClear": 1.53,
-    "studentDifficulties": 1.35,
+    "numEvals": 136,
+    "overallRating": 1.42,
+    "materialClear": 1.55,
+    "studentDifficulties": 1.37,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -23527,7 +23529,8 @@
       "CSC 445",
       "CSC 449",
       "CSC 540"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "c061a5c1-a660-4eed-9f15-24901fd3d926",
