@@ -2721,13 +2721,19 @@
     "department": "ME",
     "firstName": "Jacques",
     "lastName": "Belanger",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
-    ]
+      "ME 302",
+      "ME 437"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "1422ccd2-3e5f-4480-b292-f2b0c4e649d2",
