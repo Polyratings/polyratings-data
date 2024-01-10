@@ -13585,14 +13585,16 @@
     "department": "BUS",
     "firstName": "Shaimaa",
     "lastName": "Ewais",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2,
+    "studentDifficulties": 3.33,
     "courses": [
       "BUS 391"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "6e79504a-14b9-4d22-a935-1dc5ef1f6124",
@@ -14830,9 +14832,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 118,
-    "overallRating": 3.48,
-    "materialClear": 3.24,
+    "numEvals": 120,
+    "overallRating": 3.47,
+    "materialClear": 3.21,
     "studentDifficulties": 3.52,
     "courses": [
       "STAT 221",
@@ -15772,10 +15774,10 @@
     "department": "BUS",
     "firstName": "Adam",
     "lastName": "Bordeman",
-    "numEvals": 17,
-    "overallRating": 2.83,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.45,
+    "numEvals": 18,
+    "overallRating": 2.78,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.43,
     "courses": [
       "BUS 214",
       "BUS 321"
@@ -20220,14 +20222,15 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 21,
-    "overallRating": 3.7,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.61,
+    "numEvals": 22,
+    "overallRating": 3.71,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.63,
     "courses": [
       "BUS 207",
       "BUS 404"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "a23fb88f-8db4-4196-a9df-7fb1a8837a78",
@@ -24228,10 +24231,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 44,
-    "overallRating": 3.47,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.48,
+    "numEvals": 45,
+    "overallRating": 3.42,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.4,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -30689,7 +30692,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 35,
+    "numEvals": 36,
     "overallRating": 3.88,
     "materialClear": 3.86,
     "studentDifficulties": 3.87,
@@ -30702,7 +30705,7 @@
       "MATH 141"
     ],
     "tags": {
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Fast Response Time": 2,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
