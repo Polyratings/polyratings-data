@@ -14565,7 +14565,7 @@
     "department": "ES",
     "firstName": "Alex",
     "lastName": "Wescott",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -14576,8 +14576,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 2,
-      "Zoom Office Hours": 1
+      "Uploads Slides": 3,
+      "Zoom Office Hours": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -14861,10 +14862,10 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 120,
+    "numEvals": 121,
     "overallRating": 3.47,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.52,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.51,
     "courses": [
       "STAT 221",
       "STAT 251",
@@ -14873,7 +14874,7 @@
       "STAT 324"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1
     }
@@ -20255,10 +20256,10 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 22,
-    "overallRating": 3.71,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.63,
+    "numEvals": 23,
+    "overallRating": 3.72,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.65,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -25302,16 +25303,18 @@
     "department": "NR",
     "firstName": "Brian",
     "lastName": "Greenwood",
-    "numEvals": 13,
-    "overallRating": 2.36,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.43,
+    "numEvals": 14,
+    "overallRating": 2.48,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.54,
     "courses": [
       "REC 101",
       "REC 160",
       "REC 201",
-      "REC 260"
-    ]
+      "REC 260",
+      "RPTA 201"
+    ],
+    "tags": {}
   },
   {
     "id": "cf9327f9-d768-40d7-8408-9beed4ece604",
@@ -28723,15 +28726,20 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 29,
-    "overallRating": 2.53,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.38,
+    "numEvals": 30,
+    "overallRating": 2.58,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.43,
     "courses": [
       "ENGL 134",
       "ENGL 149",
       "ENGL 147"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "eb1c5f13-f3dd-48b6-aecb-4a9a57c317fb",
@@ -28883,10 +28891,10 @@
     "department": "BUS",
     "firstName": "Sisi",
     "lastName": "Pouraghabagher",
-    "numEvals": 53,
+    "numEvals": 54,
     "overallRating": 3.79,
     "materialClear": 3.81,
-    "studentDifficulties": 3.66,
+    "studentDifficulties": 3.65,
     "courses": [
       "BUS 214"
     ],
