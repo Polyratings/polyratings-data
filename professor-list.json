@@ -4681,10 +4681,10 @@
     "department": "PHYS",
     "firstName": "Xiaofeng (Jack)",
     "lastName": "Wang",
-    "numEvals": 35,
-    "overallRating": 1.8,
-    "materialClear": 1.49,
-    "studentDifficulties": 1.86,
+    "numEvals": 36,
+    "overallRating": 1.81,
+    "materialClear": 1.56,
+    "studentDifficulties": 1.89,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -4693,7 +4693,9 @@
       "PHYS 142"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -7870,17 +7872,19 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 19,
-    "overallRating": 2.41,
-    "materialClear": 1.92,
-    "studentDifficulties": 2.41,
+    "numEvals": 20,
+    "overallRating": 2.39,
+    "materialClear": 1.87,
+    "studentDifficulties": 2.34,
     "courses": [
       "CHEM 124",
       "CHEM 125",
       "CHEM 128",
       "CHEM 312"
     ],
-    "tags": {}
+    "tags": {
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "400c012d-e779-43ba-8777-06811ea7153c",
@@ -9539,10 +9543,10 @@
     "department": "POLS",
     "firstName": "Anika",
     "lastName": "Leithner",
-    "numEvals": 81,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.6,
-    "overallRating": 3.48,
+    "numEvals": 82,
+    "overallRating": 3.46,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.57,
     "courses": [
       "POLS 111",
       "POLS 131",
@@ -9555,7 +9559,10 @@
       "POLS 383",
       "POLS 420",
       "POLS 428"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "4d9621ef-13ab-4783-a45b-eda6f21b2a13",
@@ -12251,18 +12258,19 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.83,
     "courses": [
       "MATH 141",
       "MATH 142"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -14884,10 +14892,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 56,
-    "overallRating": 3.42,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.42,
+    "numEvals": 57,
+    "overallRating": 3.43,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.43,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -14897,7 +14905,8 @@
       "MATH 327",
       "MATH 328",
       "MATH 423"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "7719cb14-8a0a-4ec4-be59-1c8b70e59f15",
@@ -19366,10 +19375,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 31,
-    "overallRating": 3.35,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.25,
+    "numEvals": 32,
+    "overallRating": 3.37,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.27,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -19381,7 +19390,8 @@
     "tags": {
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -19763,10 +19773,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 23,
-    "overallRating": 2.88,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.79,
+    "numEvals": 24,
+    "overallRating": 2.93,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.8,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -20713,10 +20723,10 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 6,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3.14,
+    "materialClear": 3.14,
+    "studentDifficulties": 3.28,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -21636,7 +21646,7 @@
     "department": "COMS",
     "firstName": "Connie",
     "lastName": "Young-Johnson",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -21646,7 +21656,9 @@
     "tags": {
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -22738,7 +22750,7 @@
     "department": "COMS",
     "firstName": "Erin",
     "lastName": "Zamora",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -22747,10 +22759,10 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Deadline Policy": 2,
+      "Flexible Deadline Policy": 3,
       "Uploads Slides": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -24501,14 +24513,18 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 4,
-    "overallRating": 2.5,
+    "numEvals": 5,
+    "overallRating": 2.4,
     "materialClear": 3,
-    "studentDifficulties": 3.25,
+    "studentDifficulties": 2.8,
     "courses": [
       "BIO 161"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "c7b11934-d727-4d1f-a5f4-8d22d2896757",
@@ -28502,7 +28518,7 @@
     "department": "ES",
     "firstName": "Dan ",
     "lastName": "Castilow ",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
