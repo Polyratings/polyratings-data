@@ -4522,20 +4522,21 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.8,
     "courses": [
       "EE 306",
       "EE 307"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "No Breaks During Lecture": 1,
-      "Recorded Lectures": 1,
-      "Class Handouts": 1
+      "Recorded Lectures": 2,
+      "Class Handouts": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -8706,10 +8707,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 11,
-    "overallRating": 0.82,
-    "materialClear": 0.55,
-    "studentDifficulties": 1.18,
+    "numEvals": 12,
+    "overallRating": 1,
+    "materialClear": 0.84,
+    "studentDifficulties": 1.42,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -8718,7 +8719,7 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 1
@@ -12701,10 +12702,10 @@
     "department": "EE",
     "firstName": "Dennis",
     "lastName": "Derickson",
-    "numEvals": 20,
-    "overallRating": 2.44,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.57,
+    "numEvals": 21,
+    "overallRating": 2.47,
+    "materialClear": 2.28,
+    "studentDifficulties": 2.59,
     "courses": [
       "EE 111",
       "EE 212",
@@ -17638,10 +17639,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 82,
-    "overallRating": 3.29,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.1,
+    "numEvals": 83,
+    "overallRating": 3.27,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.07,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -17656,8 +17657,8 @@
       "CSC 464"
     ],
     "tags": {
-      "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 4,
+      "Inflexible Grading Policy": 3,
+      "Does Not Use Canvas": 5,
       "High In-Person Availability": 1,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 1
@@ -24290,10 +24291,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 45,
-    "overallRating": 3.42,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.4,
+    "numEvals": 46,
+    "overallRating": 3.43,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.41,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -25320,10 +25321,10 @@
     "department": "NR",
     "firstName": "Brian",
     "lastName": "Greenwood",
-    "numEvals": 14,
-    "overallRating": 2.48,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.54,
+    "numEvals": 15,
+    "overallRating": 2.58,
+    "materialClear": 2.52,
+    "studentDifficulties": 2.64,
     "courses": [
       "REC 101",
       "REC 160",
@@ -25331,7 +25332,11 @@
       "REC 260",
       "RPTA 201"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "cf9327f9-d768-40d7-8408-9beed4ece604",
