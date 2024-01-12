@@ -8789,7 +8789,7 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 275,
+    "numEvals": 276,
     "overallRating": 2.5,
     "materialClear": 2.52,
     "studentDifficulties": 2.53,
@@ -8809,9 +8809,9 @@
       "SPC 201"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -13704,18 +13704,19 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "STAT 331",
       "STAT 218"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Flexible Deadline Policy": 2,
+      "Supplemental Study Material": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
