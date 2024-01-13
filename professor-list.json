@@ -29015,10 +29015,10 @@
     "department": "ME",
     "firstName": "William",
     "lastName": "Murray",
-    "numEvals": 29,
-    "materialClear": 2.9,
-    "studentDifficulties": 3,
+    "numEvals": 30,
     "overallRating": 2.97,
+    "materialClear": 2.9,
+    "studentDifficulties": 3.03,
     "courses": [
       "ME 212",
       "ME 305",
@@ -29026,7 +29026,12 @@
       "ME 405",
       "ME 422",
       "ME 506"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "ed6f4f14-9e8b-46fd-87ef-a26d1cb696ef",
