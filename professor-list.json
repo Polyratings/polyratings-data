@@ -8707,10 +8707,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 12,
-    "overallRating": 1,
-    "materialClear": 0.84,
-    "studentDifficulties": 1.42,
+    "numEvals": 13,
+    "overallRating": 0.92,
+    "materialClear": 0.78,
+    "studentDifficulties": 1.31,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -8719,7 +8719,7 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 1
@@ -10642,10 +10642,10 @@
     "department": "BIO",
     "firstName": "Lisa",
     "lastName": "Needles",
-    "numEvals": 27,
-    "overallRating": 1.76,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.98,
+    "numEvals": 28,
+    "overallRating": 1.84,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.05,
     "courses": [
       "BIO 160",
       "BIO 227",
@@ -10653,7 +10653,9 @@
       "BIO 437"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -21213,10 +21215,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 43,
-    "overallRating": 1.3,
-    "materialClear": 1.59,
-    "studentDifficulties": 1.43,
+    "numEvals": 44,
+    "overallRating": 1.32,
+    "materialClear": 1.62,
+    "studentDifficulties": 1.44,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -21225,8 +21227,9 @@
       "MATE 410"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -23165,7 +23168,7 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -23175,8 +23178,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Does Not Use Canvas": 1,
-      "Uploads Slides": 2,
-      "High In-Person Availability": 1
+      "Uploads Slides": 3,
+      "High In-Person Availability": 1,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -28717,13 +28722,15 @@
     "department": "COMS",
     "firstName": "Brooke-Ashley",
     "lastName": "Lipson",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CPE"
-    ]
+      "CPE 101",
+      "COMS 101"
+    ],
+    "tags": {}
   },
   {
     "id": "eaaf820d-ff5d-4235-921c-07985fd6c248",
