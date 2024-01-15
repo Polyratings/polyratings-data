@@ -26574,15 +26574,18 @@
     "department": "BUS",
     "firstName": "Trisha ",
     "lastName": "Daughtrey ",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 215",
       "BUS 320"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d7a3980b-69f3-4c17-8f9c-513e2f7e7315",
