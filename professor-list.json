@@ -244,7 +244,7 @@
     "department": "COMS",
     "firstName": "Darrian",
     "lastName": "Carroll",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -3276,10 +3276,10 @@
     "department": "MATH",
     "firstName": "Morgan",
     "lastName": "Sherman",
-    "numEvals": 61,
-    "overallRating": 3.3,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.27,
+    "numEvals": 62,
+    "overallRating": 3.31,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.28,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -6350,18 +6350,19 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Noori",
-    "numEvals": 33,
-    "overallRating": 2.83,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.83,
+    "numEvals": 34,
+    "overallRating": 2.86,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.86,
     "courses": [
       "ME 211",
       "ME 318"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -10776,10 +10777,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 34,
-    "overallRating": 3.42,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.42,
+    "numEvals": 35,
+    "overallRating": 3.44,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.44,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -10787,7 +10788,8 @@
       "HIST 334",
       "HIST 441",
       "HIST 225"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "57a9d53d-54c6-4cb2-a2fe-f3957ac1e265",
@@ -16049,10 +16051,10 @@
     "department": "ME",
     "firstName": "Steffen",
     "lastName": "Peuker",
-    "numEvals": 29,
-    "overallRating": 1.97,
-    "materialClear": 1.86,
-    "studentDifficulties": 1.94,
+    "numEvals": 30,
+    "overallRating": 2,
+    "materialClear": 1.93,
+    "studentDifficulties": 2.01,
     "courses": [
       "ME 128",
       "ME 163",
@@ -23227,15 +23229,16 @@
     "department": "MATE",
     "firstName": "Eric",
     "lastName": "Beaton",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "MATE"
+      "MATE 210"
     ],
     "tags": {
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -24489,10 +24492,10 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "PHYS 142"
     ],
@@ -31078,7 +31081,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 36,
+    "numEvals": 37,
     "overallRating": 3.88,
     "materialClear": 3.86,
     "studentDifficulties": 3.87,
