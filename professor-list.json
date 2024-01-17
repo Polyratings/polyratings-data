@@ -2216,10 +2216,10 @@
     "department": "COMS",
     "firstName": "jnan",
     "lastName": "blau",
-    "numEvals": 23,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.31,
-    "overallRating": 3.58,
+    "numEvals": 24,
+    "overallRating": 3.6,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.34,
     "courses": [
       "COMS 101",
       "ENGL 101",
@@ -2232,7 +2232,8 @@
       "COMS 416",
       "SPC 416",
       "COMS 450"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "0fe890dd-4fe2-4909-8b1a-72a371721672",
@@ -28805,7 +28806,7 @@
     "department": "ES",
     "firstName": "Dan ",
     "lastName": "Castilow ",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -28813,8 +28814,10 @@
       "ES 254"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Zoom Office Hours": 1
+      "Flexible Attendance Policy": 3,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
