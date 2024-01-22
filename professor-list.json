@@ -10409,16 +10409,19 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 5,
-    "overallRating": 3.2,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 161",
-      "MATH 118"
+      "MATH 118",
+      "MATH 119"
     ],
     "tags": {
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 3,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -16281,10 +16284,10 @@
     "department": "KINE",
     "firstName": "Don",
     "lastName": "Clegg",
-    "numEvals": 48,
-    "overallRating": 3.17,
-    "materialClear": 3.23,
-    "studentDifficulties": 3.19,
+    "numEvals": 49,
+    "overallRating": 3.19,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.21,
     "courses": [
       "KINE 180",
       "KINE 200",
@@ -16295,7 +16298,12 @@
       "KINE 452",
       "KINE 585",
       "HLTH 250"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7fabc619-b170-497f-81d0-81a08eabce34",
@@ -21874,7 +21882,7 @@
     "department": "COMS",
     "firstName": "Connie",
     "lastName": "Young-Johnson",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -21882,10 +21890,10 @@
       "COMS 102"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 3,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1
     }
   },
