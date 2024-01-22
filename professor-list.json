@@ -6905,10 +6905,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 6,
-    "overallRating": 1.33,
-    "materialClear": 0.83,
-    "studentDifficulties": 2.17,
+    "numEvals": 7,
+    "overallRating": 1.71,
+    "materialClear": 1.28,
+    "studentDifficulties": 2.43,
     "courses": [
       "STAT 217",
       "STAT 312"
@@ -9119,10 +9119,10 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 40,
+    "numEvals": 41,
     "overallRating": 3.81,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.74,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.75,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -21432,12 +21432,12 @@
     "department": "FSN",
     "firstName": "Marisa",
     "lastName": "Bolivar",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "FSN"
+      "FSN 250"
     ],
     "tags": {}
   },
