@@ -19300,10 +19300,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 34,
-    "overallRating": 3.14,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.05,
+    "numEvals": 35,
+    "overallRating": 3.16,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.08,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -19318,7 +19318,10 @@
       "CPE 348",
       "CSC 348"
     ],
-    "tags": {}
+    "tags": {
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "97991e5e-2c7f-4a2b-b3c2-8e0a0fa8ee94",
