@@ -23863,10 +23863,10 @@
     "department": "CSC",
     "firstName": "Hasmik",
     "lastName": "Gharibyan",
-    "numEvals": 136,
-    "overallRating": 1.42,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.37,
+    "numEvals": 137,
+    "overallRating": 1.44,
+    "materialClear": 1.57,
+    "studentDifficulties": 1.38,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -23879,7 +23879,11 @@
       "CSC 449",
       "CSC 540"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "c061a5c1-a660-4eed-9f15-24901fd3d926",
