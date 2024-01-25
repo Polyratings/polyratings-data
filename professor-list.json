@@ -3855,13 +3855,15 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Sarraf",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
-    ]
+      "ENGL 317",
+      "ENGL 221"
+    ],
+    "tags": {}
   },
   {
     "id": "1ba22972-a27a-4723-bbf8-fa419cac8728",
