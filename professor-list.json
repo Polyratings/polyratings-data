@@ -21666,10 +21666,10 @@
     "department": "CSC",
     "firstName": "Tim",
     "lastName": "Kearns",
-    "numEvals": 83,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.87,
-    "overallRating": 1.95,
+    "numEvals": 84,
+    "overallRating": 1.93,
+    "materialClear": 1.89,
+    "studentDifficulties": 1.85,
     "courses": [
       "CSC 101",
       "CSC 102",
@@ -21690,8 +21690,10 @@
       "CPE 365",
       "CSC 365",
       "CSC 375",
-      "ENGR 550"
-    ]
+      "ENGR 550",
+      "CSC 480"
+    ],
+    "tags": {}
   },
   {
     "id": "ac2d787e-4e1f-43f0-b4b9-a360c0edd5e8",
