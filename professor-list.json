@@ -932,14 +932,18 @@
     "department": "CE",
     "firstName": "Preston",
     "lastName": "Jones",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CE"
+      "CE 113"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "0739f636-6b9e-4f95-b76e-035a1ddf4bfd",
@@ -1240,10 +1244,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 3.6,
+    "studentDifficulties": 2.8,
     "courses": [
       "MATH 143"
     ],
@@ -20725,15 +20729,17 @@
     "department": "MATH",
     "firstName": "Zoe ",
     "lastName": "Nepsa",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 0,
+    "materialClear": 0.5,
     "studentDifficulties": 1,
     "courses": [
-      "MATH"
+      "MATH 118",
+      "MATH 141"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
