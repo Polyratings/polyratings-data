@@ -12887,10 +12887,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 9,
-    "overallRating": 3,
-    "materialClear": 3.45,
-    "studentDifficulties": 1.88,
+    "numEvals": 10,
+    "overallRating": 3.1,
+    "materialClear": 3.51,
+    "studentDifficulties": 2.09,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -25442,13 +25442,17 @@
     "department": "BRAE",
     "firstName": "Sara",
     "lastName": "Kuwahara",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "BRAE 348"
-    ]
+      "BRAE 348",
+      "BRAE 150"
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "cdb163d8-97a4-4ad4-a97c-1cc85e8ee7bb",
