@@ -9877,9 +9877,9 @@
     "department": "CPE",
     "firstName": "Bryan",
     "lastName": "Mealy",
-    "numEvals": 88,
-    "overallRating": 3.54,
-    "materialClear": 3.43,
+    "numEvals": 89,
+    "overallRating": 3.55,
+    "materialClear": 3.44,
     "studentDifficulties": 3.57,
     "courses": [
       "CPE 129",
@@ -9895,15 +9895,17 @@
       "CPE 336",
       "CPE 432",
       "CPE 439",
-      "EE 464"
+      "EE 464",
+      "CPE 450"
     ],
     "tags": {
-      "Recorded Lectures": 1,
-      "Hybrid Option": 1,
+      "Recorded Lectures": 2,
+      "Hybrid Option": 2,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -30494,10 +30496,10 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 8,
-    "overallRating": 2.62,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.75,
+    "numEvals": 9,
+    "overallRating": 2.33,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "STAT 301",
       "STAT 331"
@@ -31489,10 +31491,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 5,
-    "overallRating": 0.6,
-    "materialClear": 1.2,
-    "studentDifficulties": 1,
+    "numEvals": 6,
+    "overallRating": 0.5,
+    "materialClear": 1.17,
+    "studentDifficulties": 0.83,
     "courses": [
       "MATH 141"
     ],
