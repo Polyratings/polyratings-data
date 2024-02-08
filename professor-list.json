@@ -803,10 +803,10 @@
     "department": "SOC",
     "firstName": "Terry",
     "lastName": "Jones",
-    "numEvals": 102,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.18,
-    "overallRating": 3.34,
+    "numEvals": 103,
+    "overallRating": 3.35,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.19,
     "courses": [
       "ANT 201",
       "SOC 201",
@@ -818,7 +818,12 @@
       "ANT 311",
       "ANT 312",
       "ANT 320"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "06824399-5145-4438-9b25-a8b2138089ea",
@@ -3926,18 +3931,18 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 36,
-    "overallRating": 3.66,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.6,
+    "numEvals": 37,
+    "overallRating": 3.67,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.61,
     "courses": [
       "ART 112",
       "ART 212"
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Uploads Slides": 1,
-      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 2,
       "Class Handouts": 1
     }
   },
@@ -11197,16 +11202,20 @@
     "department": "BRAE",
     "firstName": "Tom",
     "lastName": "Mastin",
-    "numEvals": 41,
-    "overallRating": 3.35,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.13,
+    "numEvals": 42,
+    "overallRating": 3.34,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.15,
     "courses": [
       "BRAE 237",
       "BRAE 239",
       "BRAE 345",
       "BRAE 447"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "5af80dce-ca18-4e5f-8324-b86c7f840f6e",
@@ -15057,10 +15066,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 57,
-    "overallRating": 3.43,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.43,
+    "numEvals": 58,
+    "overallRating": 3.44,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.44,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -15071,7 +15080,11 @@
       "MATH 328",
       "MATH 423"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "7719cb14-8a0a-4ec4-be59-1c8b70e59f15",
