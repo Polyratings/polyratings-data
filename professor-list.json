@@ -2015,17 +2015,19 @@
     "department": "PHYS",
     "firstName": "Erik",
     "lastName": "Veach",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 2.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3,
+    "studentDifficulties": 3.75,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -5598,9 +5600,9 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "MATH 142",
@@ -13825,16 +13827,17 @@
     "department": "AGC",
     "firstName": "James",
     "lastName": "Bingaman",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AGC"
+      "AGC 205"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -21231,10 +21234,10 @@
     "department": "MATH",
     "firstName": "Vincent",
     "lastName": "Bonini",
-    "numEvals": 42,
-    "overallRating": 3.5,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.3,
+    "numEvals": 43,
+    "overallRating": 3.51,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.32,
     "courses": [
       "MATH 141",
       "MATH 143",
