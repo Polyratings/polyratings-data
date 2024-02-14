@@ -5446,18 +5446,18 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 0,
     "materialClear": 1,
-    "studentDifficulties": 0.33,
+    "studentDifficulties": 0.25,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
       "Inflexible Deadline Policy": 3,
-      "No Breaks During Lecture": 2,
-      "Inflexible Grading Policy": 2
+      "No Breaks During Lecture": 3,
+      "Inflexible Grading Policy": 3
     }
   },
   {
@@ -15770,15 +15770,16 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "TH 210"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
