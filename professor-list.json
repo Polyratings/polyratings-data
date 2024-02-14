@@ -2526,15 +2526,18 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 142",
       "MATH 141"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "11f1cf28-f2f5-4fa0-a284-66e051467e70",
@@ -9268,18 +9271,20 @@
     "department": "ENGL",
     "firstName": "Rebekah",
     "lastName": "Maples",
-    "numEvals": 23,
-    "overallRating": 3.84,
+    "numEvals": 24,
+    "overallRating": 3.85,
     "materialClear": 3.91,
-    "studentDifficulties": 3.84,
+    "studentDifficulties": 3.85,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 147"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 1,
+      "Recorded Lectures": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -15862,17 +15867,20 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
       "ES 255"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -19127,9 +19135,9 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 99,
-    "overallRating": 3.45,
-    "materialClear": 3.48,
+    "numEvals": 100,
+    "overallRating": 3.46,
+    "materialClear": 3.49,
     "studentDifficulties": 3.52,
     "courses": [
       "CPE 101",
@@ -19405,10 +19413,10 @@
     "department": "CHEM",
     "firstName": "Gregory",
     "lastName": "Scott",
-    "numEvals": 51,
-    "overallRating": 3.41,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.33,
+    "numEvals": 52,
+    "overallRating": 3.42,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.34,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -19417,7 +19425,10 @@
       "CHEM 128",
       "CHEM 129"
     ],
-    "tags": {}
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "981bd3ef-2983-4f81-beb3-7218a3b96190",
@@ -25719,17 +25730,21 @@
     "department": "IME",
     "firstName": "Jill",
     "lastName": "Speece",
-    "numEvals": 8,
-    "materialClear": 1.63,
-    "studentDifficulties": 1.5,
-    "overallRating": 1.5,
+    "numEvals": 9,
+    "overallRating": 1.67,
+    "materialClear": 1.89,
+    "studentDifficulties": 1.78,
     "courses": [
       "IME 223",
       "IME 305",
       "IME 326",
       "IME 420",
-      "IME 424"
-    ]
+      "IME 424",
+      "IME 101"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "d0393e45-e0b5-4d44-bbd0-ed640d5fc599",
