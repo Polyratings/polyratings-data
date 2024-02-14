@@ -14214,17 +14214,17 @@
     "department": "ENGL",
     "firstName": "Caleb",
     "lastName": "Nichols",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 134"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -25402,16 +25402,18 @@
     "department": "ECON",
     "firstName": "Wilson",
     "lastName": "Kang",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.25,
     "studentDifficulties": 4,
     "courses": [
       "ECON 221",
       "ECON 424"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
