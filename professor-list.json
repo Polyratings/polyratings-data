@@ -8949,7 +8949,7 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 276,
+    "numEvals": 277,
     "overallRating": 2.5,
     "materialClear": 2.52,
     "studentDifficulties": 2.53,
@@ -8971,7 +8971,8 @@
     "tags": {
       "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -9267,6 +9268,24 @@
     "courses": [
       "BUS 207"
     ]
+  },
+  {
+    "id": "493eec41-8e9a-407b-849e-1b4f1ee82ff1",
+    "department": "STAT",
+    "firstName": "Allison",
+    "lastName": "Theobold",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "STAT"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4945d089-c972-45dd-8492-97e84dba7158",
@@ -10538,10 +10557,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 6,
-    "overallRating": 3.17,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.5,
+    "numEvals": 7,
+    "overallRating": 2.86,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.14,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -10550,7 +10569,9 @@
     "tags": {
       "No Breaks During Lecture": 3,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 2
     }
   },
   {
@@ -15119,16 +15140,17 @@
     "department": "ARCH",
     "firstName": "Ryan",
     "lastName": "Brockett",
-    "numEvals": 6,
-    "materialClear": 3.28,
-    "studentDifficulties": 2.94,
-    "overallRating": 3.11,
+    "numEvals": 7,
+    "overallRating": 3.24,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.09,
     "courses": [
       "ARCH 131",
       "ARCH 132",
       "ARCH 251",
       "ARCH 253"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "76f18c4a-9d86-4276-bab3-bf44955d38cb",
@@ -16934,7 +16956,7 @@
     "id": "82ea81aa-9eea-49a2-aa91-e6c50712b592",
     "department": "AERO",
     "firstName": "Kira",
-    "lastName": "Aberbromby",
+    "lastName": "Abercromby",
     "numEvals": 20,
     "overallRating": 3.39,
     "materialClear": 3.34,
@@ -28087,20 +28109,21 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 3,
-    "overallRating": 1.33,
-    "materialClear": 0.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.75,
     "courses": [
       "WGS 201"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -29559,15 +29582,21 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.25,
     "courses": [
       "ME 211",
-      "ME 347"
+      "ME 347",
+      "ME 420"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 2,
+      "Inflexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 2,
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "ed4666c2-b1a7-4ada-963c-d70b9c2f4e1d",
@@ -31711,15 +31740,15 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 6,
-    "overallRating": 0.83,
-    "materialClear": 1.5,
+    "numEvals": 7,
+    "overallRating": 0.85,
+    "materialClear": 1.43,
     "studentDifficulties": 0.99,
     "courses": [
       "MATH 141"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 2
