@@ -115,7 +115,7 @@
     "department": "ENGL",
     "firstName": "Mark",
     "lastName": "Roberts",
-    "numEvals": 203,
+    "numEvals": 204,
     "overallRating": 3.82,
     "materialClear": 3.89,
     "studentDifficulties": 3.84,
@@ -134,7 +134,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 2,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -5725,10 +5727,10 @@
     "department": "AGB",
     "firstName": "Neal",
     "lastName": "MacDougall",
-    "numEvals": 91,
-    "overallRating": 1.2,
+    "numEvals": 92,
+    "overallRating": 1.19,
     "materialClear": 1.35,
-    "studentDifficulties": 1.16,
+    "studentDifficulties": 1.19,
     "courses": [
       "AGB 212",
       "AG 213",
@@ -5741,7 +5743,8 @@
       "AGB 369",
       "AGB 460",
       "AGB 514"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "2c8e4241-4f53-4556-8eb9-f6d74455e4aa",
@@ -14997,10 +15000,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 102,
-    "overallRating": 2.68,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.51,
+    "numEvals": 103,
+    "overallRating": 2.69,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.52,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -15018,9 +15021,10 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Uploads Slides": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -15567,10 +15571,10 @@
     "department": "CE",
     "firstName": "Eric",
     "lastName": "Kasper",
-    "numEvals": 76,
-    "overallRating": 2.67,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.64,
+    "numEvals": 77,
+    "overallRating": 2.69,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.66,
     "courses": [
       "CE 201",
       "CE 204",
