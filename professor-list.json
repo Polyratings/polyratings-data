@@ -21112,18 +21112,19 @@
     "department": "GER",
     "firstName": "Angelica",
     "lastName": "Browne",
-    "numEvals": 3,
-    "overallRating": 3.55,
-    "materialClear": 3.11,
-    "studentDifficulties": 3.55,
+    "numEvals": 4,
+    "overallRating": 3.16,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.66,
     "courses": [
       "GER 201",
       "GER 233",
-      "WLC 101"
+      "WLC 101",
+      "WLC 310"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Class Handouts": 1
     }
   },
