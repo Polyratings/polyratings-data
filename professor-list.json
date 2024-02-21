@@ -8019,10 +8019,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 20,
-    "overallRating": 2.39,
-    "materialClear": 1.87,
-    "studentDifficulties": 2.34,
+    "numEvals": 21,
+    "overallRating": 2.28,
+    "materialClear": 1.78,
+    "studentDifficulties": 2.23,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -8030,7 +8030,9 @@
       "CHEM 312"
     ],
     "tags": {
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
