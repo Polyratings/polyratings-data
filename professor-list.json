@@ -1029,14 +1029,20 @@
     "department": "KINE",
     "firstName": "Christine",
     "lastName": "Hackman",
-    "numEvals": 4,
-    "overallRating": 1.6,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.8,
+    "numEvals": 5,
+    "overallRating": 2.08,
+    "materialClear": 2.24,
+    "studentDifficulties": 3.04,
     "courses": [
       "KINE 305",
-      "KINE 434"
-    ]
+      "KINE 434",
+      "HLTH 434"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "08343e3f-0e32-4d53-b38e-659caee0bd5d",
@@ -1529,10 +1535,10 @@
     "department": "BIO",
     "firstName": "Nathaniel",
     "lastName": "Martinez",
-    "numEvals": 10,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.64,
-    "overallRating": 3.55,
+    "numEvals": 11,
+    "overallRating": 3.59,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.67,
     "courses": [
       "BIO 221",
       "MCRO 221",
@@ -1540,7 +1546,10 @@
       "MCRO 224",
       "BIO 342",
       "MCRO 342"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "0c366055-d914-4e46-a6f9-916880300b74",
@@ -2419,12 +2428,13 @@
     "department": "BIO",
     "firstName": "Larisa",
     "lastName": "Vredevoe",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 429",
+      "MCRO 320"
     ],
     "tags": {}
   },
@@ -6299,16 +6309,17 @@
     "department": "ME",
     "firstName": "Thomas",
     "lastName": "Mackin",
-    "numEvals": 20,
-    "materialClear": 2.86,
-    "studentDifficulties": 3.38,
-    "overallRating": 2.9,
+    "numEvals": 21,
+    "overallRating": 2.95,
+    "materialClear": 2.91,
+    "studentDifficulties": 3.41,
     "courses": [
       "ME 211",
       "ME 212",
       "ME 328",
       "ME 329"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "30527664-6bb5-4322-a36d-f743c3406aa2",
@@ -8861,10 +8872,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 13,
-    "overallRating": 0.92,
-    "materialClear": 0.78,
-    "studentDifficulties": 1.31,
+    "numEvals": 14,
+    "overallRating": 0.85,
+    "materialClear": 0.72,
+    "studentDifficulties": 1.22,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -8873,9 +8884,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 6,
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Attendance Policy": 7,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 1
     }
   },
@@ -11217,17 +11228,17 @@
     "department": "SOC",
     "firstName": "Nikhil",
     "lastName": "Deb",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "SOC"
+      "SOC 218"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -11318,13 +11329,15 @@
     "department": "ENGL",
     "firstName": "Katrina",
     "lastName": "Prow",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ENGL 145"
-    ]
+      "ENGL 145",
+      "ENGL 387"
+    ],
+    "tags": {}
   },
   {
     "id": "5a35866d-f198-43ca-9397-d7a560cbaa20",
@@ -11655,10 +11668,10 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.8,
+    "numEvals": 7,
+    "overallRating": 3.85,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.85,
     "courses": [
       "SOC 355",
       "SOC 406",
@@ -11666,9 +11679,11 @@
       "ES 112"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 3,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 2,
+      "Fast Response Time": 2
     }
   },
   {
@@ -12930,15 +12945,19 @@
     "department": "JOUR",
     "firstName": "Antonio",
     "lastName": "Prado",
-    "numEvals": 13,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.54,
-    "overallRating": 3.23,
+    "numEvals": 14,
+    "overallRating": 3.21,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.57,
     "courses": [
       "JOUR 203",
       "JOUR 285",
-      "JOUR 334"
-    ]
+      "JOUR 334",
+      "JOUR 318"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "664b614e-22f8-49de-a1b8-4d454687f685",
@@ -24165,10 +24184,10 @@
     "department": "PHIL",
     "firstName": "Jeremy",
     "lastName": "Dickinson",
-    "numEvals": 29,
+    "numEvals": 30,
     "overallRating": 2.88,
     "materialClear": 2.88,
-    "studentDifficulties": 2.8,
+    "studentDifficulties": 2.81,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -24599,10 +24618,10 @@
     "department": "STAT",
     "firstName": "Beth",
     "lastName": "Chance",
-    "numEvals": 67,
-    "overallRating": 3.41,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.39,
+    "numEvals": 68,
+    "overallRating": 3.42,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.4,
     "courses": [
       "STAT 130",
       "STAT 150",
@@ -24615,12 +24634,15 @@
       "STAT 410",
       "STAT 414",
       "STAT 418",
-      "STAT 512"
+      "STAT 512",
+      "STAT 313"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -27993,17 +28015,21 @@
     "department": "FSN",
     "firstName": "Corinne",
     "lastName": "Kohlen",
-    "numEvals": 12,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.69,
-    "overallRating": 3.54,
+    "numEvals": 13,
+    "overallRating": 3.42,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.64,
     "courses": [
       "FSN 121",
       "FSN 210",
       "FSN 250",
       "FSN 310",
       "FSN 315"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "e0175751-ca70-45f8-bfbe-0dc73549597a",
