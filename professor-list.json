@@ -6992,10 +6992,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 7,
-    "overallRating": 1.71,
-    "materialClear": 1.28,
-    "studentDifficulties": 2.43,
+    "numEvals": 8,
+    "overallRating": 1.62,
+    "materialClear": 1.25,
+    "studentDifficulties": 2.13,
     "courses": [
       "STAT 217",
       "STAT 312"
@@ -12537,19 +12537,20 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.71,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.85,
     "courses": [
       "MATH 141",
       "MATH 142"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1
     }
   },
   {
