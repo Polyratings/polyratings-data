@@ -939,7 +939,7 @@
     "department": "CE",
     "firstName": "Preston",
     "lastName": "Jones",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -947,9 +947,9 @@
       "CE 113"
     ],
     "tags": {
-      "Recorded Lectures": 1,
-      "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Recorded Lectures": 2,
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 2
     }
   },
   {
@@ -7674,17 +7674,21 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Regan",
-    "numEvals": 58,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.46,
-    "overallRating": 2.42,
+    "numEvals": 59,
+    "overallRating": 2.43,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.47,
     "courses": [
       "ENGL 134",
       "ENGL 148",
       "ENGL 149",
       "ENGL 210",
-      "ENGL 310"
-    ]
+      "ENGL 310",
+      "ENGL 147"
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "3cf5d062-c99c-421c-9093-d757279a431f",
@@ -8019,10 +8023,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 21,
-    "overallRating": 2.28,
-    "materialClear": 1.78,
-    "studentDifficulties": 2.23,
+    "numEvals": 22,
+    "overallRating": 2.18,
+    "materialClear": 1.7,
+    "studentDifficulties": 2.31,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -17751,7 +17755,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19818,10 +19822,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 32,
-    "overallRating": 3.37,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.27,
+    "numEvals": 33,
+    "overallRating": 3.39,
+    "materialClear": 3.35,
+    "studentDifficulties": 3.29,
     "courses": [
       "MATH 141",
       "MATH 142",
