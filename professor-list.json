@@ -8023,10 +8023,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 22,
-    "overallRating": 2.18,
-    "materialClear": 1.7,
-    "studentDifficulties": 2.31,
+    "numEvals": 24,
+    "overallRating": 2,
+    "materialClear": 1.56,
+    "studentDifficulties": 2.12,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -8034,9 +8034,10 @@
       "CHEM 312"
     ],
     "tags": {
-      "Does Not Use Canvas": 2,
-      "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "Does Not Use Canvas": 3,
+      "Inflexible Deadline Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -25001,10 +25002,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 91,
-    "overallRating": 3.63,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.56,
+    "numEvals": 92,
+    "overallRating": 3.6,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.53,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -29620,10 +29621,10 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 1,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "materialClear": 1.67,
+    "studentDifficulties": 2,
     "courses": [
       "CSC 248",
       "CSC 349"
