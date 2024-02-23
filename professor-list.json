@@ -17755,18 +17755,20 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL 134"
+      "ENGL 134",
+      "ENGL 145"
     ],
     "tags": {
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Deadline Policy": 3,
+      "Flexible Grading Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -21344,10 +21346,10 @@
     "department": "ME",
     "firstName": "Ramanan",
     "lastName": "Sritharan",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3.2,
-    "studentDifficulties": 2.6,
+    "numEvals": 6,
+    "overallRating": 2.5,
+    "materialClear": 3,
+    "studentDifficulties": 2.33,
     "courses": [
       "ME 328",
       "ME 251",
@@ -21357,8 +21359,9 @@
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1,
-      "High In-Person Availability": 1
+      "Inflexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Pop Quizzes": 1
     }
   },
   {
