@@ -29617,14 +29617,19 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
     "materialClear": 2,
-    "studentDifficulties": 1,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CSC"
+      "CSC 248",
+      "CSC 349"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "ed341406-4808-47d2-a048-9005dcdc35ab",
