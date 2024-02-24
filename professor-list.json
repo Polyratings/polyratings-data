@@ -1352,12 +1352,12 @@
     "department": "MATH",
     "firstName": "Rebecca",
     "lastName": "Bishop",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 0.5,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "MATH"
+      "MATH 115"
     ],
     "tags": {
       "Honor DRC Accommodations": 1
@@ -20964,13 +20964,14 @@
     "department": "MATH",
     "firstName": "Zoe ",
     "lastName": "Nepsa",
-    "numEvals": 2,
-    "overallRating": 1,
-    "materialClear": 0.5,
-    "studentDifficulties": 1,
+    "numEvals": 3,
+    "overallRating": 0.67,
+    "materialClear": 0.33,
+    "studentDifficulties": 0.67,
     "courses": [
       "MATH 118",
-      "MATH 141"
+      "MATH 141",
+      "MATH 161"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
