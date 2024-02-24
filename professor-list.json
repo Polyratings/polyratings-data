@@ -11605,6 +11605,23 @@
     ]
   },
   {
+    "id": "5bf9b22c-ee09-42d6-81b7-4ece403bf933",
+    "department": "HLTH",
+    "firstName": "Adrienne",
+    "lastName": "Lent",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "HLTH"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "5bfd4591-3978-4bb6-8f86-afb312200cbb",
     "department": "EE",
     "firstName": "Kurt",
@@ -12953,15 +12970,14 @@
     "department": "JOUR",
     "firstName": "Antonio",
     "lastName": "Prado",
-    "numEvals": 14,
-    "overallRating": 3.21,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.57,
+    "numEvals": 13,
+    "overallRating": 3.23,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.54,
     "courses": [
       "JOUR 203",
       "JOUR 285",
-      "JOUR 334",
-      "JOUR 318"
+      "JOUR 334"
     ],
     "tags": {
       "Uploads Slides": 1
@@ -19664,6 +19680,25 @@
     ]
   },
   {
+    "id": "98dee929-d3aa-471f-b626-a2729fe651d6",
+    "department": "POLS",
+    "firstName": "Annie",
+    "lastName": "Frew",
+    "numEvals": 2,
+    "overallRating": 4,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
+    "courses": [
+      "POLS 112"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 2,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "98e0848c-3836-4bed-9bce-fcac01cf80dd",
     "department": "CRP",
     "firstName": "Vicente",
@@ -20945,6 +20980,23 @@
       "EE 251",
       "EE 533"
     ]
+  },
+  {
+    "id": "a2d71929-6476-488f-af24-846e9331fbcb",
+    "department": "HLTH",
+    "firstName": "Melissa",
+    "lastName": "Cline",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "HLTH"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a2fd21ba-2d38-4b1e-8754-8b0eb01bf391",
@@ -29792,6 +29844,24 @@
     }
   },
   {
+    "id": "ee582c85-1756-46d0-b918-9fd19838353b",
+    "department": "PHYS",
+    "firstName": "Stamatis",
+    "lastName": "Vokos",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
+    }
+  },
+  {
     "id": "ee66a424-3897-407b-921f-3c5339821665",
     "department": "PHYS",
     "firstName": "James",
@@ -30337,10 +30407,10 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 4,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 4,
     "courses": [
       "CSC 305",
       "CSC 357"
@@ -30931,6 +31001,24 @@
       "IT 345",
       "IT 407"
     ]
+  },
+  {
+    "id": "f74a7bac-49c8-4b7a-b3d5-fd9eda539ef2",
+    "department": "HIST",
+    "firstName": "John",
+    "lastName": "Paniagua",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "HIST"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "f754c28c-de85-43e2-b3cc-941e866ff76c",
