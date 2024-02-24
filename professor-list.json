@@ -15297,16 +15297,18 @@
     "department": "PHYS",
     "firstName": "Pasha",
     "lastName": "Tabatabai ",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
