@@ -12844,9 +12844,9 @@
     "department": "SOC",
     "firstName": "Stacey",
     "lastName": "Rucas",
-    "numEvals": 93,
-    "overallRating": 3.35,
-    "materialClear": 3.49,
+    "numEvals": 94,
+    "overallRating": 3.36,
+    "materialClear": 3.5,
     "studentDifficulties": 3.36,
     "courses": [
       "SOC 101",
@@ -12861,7 +12861,12 @@
       "ANT 345",
       "ANT 350",
       "ANT 455"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "65f13398-d680-467b-8a67-c66a689a6d47",
