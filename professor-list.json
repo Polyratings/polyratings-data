@@ -20098,16 +20098,19 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "STAT"
+      "STAT 252"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -25129,10 +25132,10 @@
     "department": "ARCE",
     "firstName": "Brent",
     "lastName": "Nuttall",
-    "numEvals": 19,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.6,
-    "overallRating": 3.55,
+    "numEvals": 20,
+    "overallRating": 3.57,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.62,
     "courses": [
       "ARCE 211",
       "ARCE 212",
@@ -25143,7 +25146,8 @@
       "ARCE 448",
       "ARCE 451",
       "ARCE 452"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "c79362fb-b5e6-4f81-8838-d785380cc966",
@@ -29858,15 +29862,15 @@
     "department": "PHYS",
     "firstName": "Stamatis",
     "lastName": "Vokos",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 1.5,
+    "studentDifficulties": 2,
     "courses": [
-      "PHYS"
+      "PHYS 104"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1
     }
