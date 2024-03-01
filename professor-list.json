@@ -6959,14 +6959,15 @@
     "department": "IME",
     "firstName": "Eric",
     "lastName": "Pulse",
-    "numEvals": 12,
-    "overallRating": 3.7,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.77,
+    "numEvals": 13,
+    "overallRating": 3.42,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.48,
     "courses": [
       "IME 143",
       "IME 145",
-      "IME 146"
+      "IME 146",
+      "ME 111"
     ],
     "tags": {}
   },
@@ -8404,17 +8405,17 @@
     "department": "ASCI",
     "firstName": "Laura",
     "lastName": "Backus",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ASCI"
+      "ASCI 229"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -15632,10 +15633,10 @@
     "department": "CE",
     "firstName": "Eric",
     "lastName": "Kasper",
-    "numEvals": 77,
-    "overallRating": 2.69,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.66,
+    "numEvals": 78,
+    "overallRating": 2.71,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.68,
     "courses": [
       "CE 201",
       "CE 204",
