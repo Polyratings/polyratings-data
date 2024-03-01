@@ -1761,6 +1761,23 @@
     ]
   },
   {
+    "id": "0d7c190e-30f0-4546-ac7b-947589695764",
+    "department": "SOC",
+    "firstName": "Jess",
+    "lastName": "Lee",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "SOC"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
+  },
+  {
     "id": "0d887a6c-715a-4f2f-a51b-3dbd2ed775c1",
     "department": "AGB",
     "firstName": "Ron",
@@ -5500,18 +5517,19 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 4,
-    "overallRating": 0,
+    "numEvals": 5,
+    "overallRating": 0.2,
     "materialClear": 1,
-    "studentDifficulties": 0.25,
+    "studentDifficulties": 0.4,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Deadline Policy": 4,
       "No Breaks During Lecture": 3,
-      "Inflexible Grading Policy": 3
+      "Inflexible Grading Policy": 4,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -6542,6 +6560,20 @@
     ]
   },
   {
+    "id": "319b2330-1591-44b7-892f-141c562384ec",
+    "department": "AERO",
+    "firstName": "Chokri",
+    "lastName": "Sendi",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "AERO"
+    ],
+    "tags": {}
+  },
+  {
     "id": "31b36c17-43d1-4421-8d14-1fc432424f7d",
     "department": "PSY",
     "firstName": "Julie Spencer",
@@ -7472,6 +7504,23 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1
+    }
+  },
+  {
+    "id": "3a932848-31fc-4156-a7bd-22a5782712a8",
+    "department": "AERO",
+    "firstName": "Paulo",
+    "lastName": "Iscold",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "AERO"
+    ],
+    "tags": {
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -8961,10 +9010,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 32,
-    "overallRating": 2.2,
-    "materialClear": 2.06,
-    "studentDifficulties": 2.24,
+    "numEvals": 33,
+    "overallRating": 2.25,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.29,
     "courses": [
       "IME 223",
       "IME 314",
@@ -8973,7 +9022,8 @@
       "IT 371",
       "IME 410",
       "IME 418",
-      "IME 443"
+      "IME 443",
+      "IME 315"
     ],
     "tags": {}
   },
@@ -16540,6 +16590,20 @@
     }
   },
   {
+    "id": "7f9a822a-b2b1-45f2-95fc-d8dd389a38a8",
+    "department": "IME",
+    "firstName": "Kelly",
+    "lastName": "Kurtz",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "IME"
+    ],
+    "tags": {}
+  },
+  {
     "id": "7fa083ef-bebf-4115-b9c9-cf838fc67cea",
     "department": "KINE",
     "firstName": "Don",
@@ -21054,6 +21118,23 @@
     "courses": [
       "POLS 112"
     ]
+  },
+  {
+    "id": "a36ef6a4-8001-4564-ae1e-639dbc6622cd",
+    "department": "SPAN",
+    "firstName": "Rene",
+    "lastName": "Carrasco",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "SPAN"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a3a3448c-a0e6-4dbf-bf2a-c79c3c707e05",
@@ -26499,7 +26580,7 @@
     "department": "BUS",
     "firstName": "Lisa",
     "lastName": "Simon",
-    "numEvals": 141,
+    "numEvals": 140,
     "overallRating": 2,
     "materialClear": 2.07,
     "studentDifficulties": 1.98,
