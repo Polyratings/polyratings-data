@@ -5672,14 +5672,15 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.75,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.8,
     "courses": [
       "MATH 142",
       "MATH 206",
-      "MATH 202"
+      "MATH 202",
+      "MATH 248"
     ],
     "tags": {
       "High In-Person Availability": 2,
@@ -20163,7 +20164,7 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -20171,11 +20172,12 @@
       "STAT 252"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Uploads Slides": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1,
-      "Class Handouts": 1
+      "Flexible Deadline Policy": 2,
+      "Class Handouts": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -31228,7 +31230,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 7,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -31240,11 +31242,12 @@
       "MATH 412"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 3,
+      "Flexible Deadline Policy": 1
     }
   },
   {
