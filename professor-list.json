@@ -12182,10 +12182,10 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "PHIL 323",
       "PHIL 336"
@@ -12193,7 +12193,8 @@
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -15194,12 +15195,12 @@
     "department": "CSC",
     "firstName": "Ken",
     "lastName": "Kubiak",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
+      "CSC 307"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -18961,16 +18962,18 @@
     "department": "CHEM",
     "firstName": "Sandra",
     "lastName": "Ward",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 4,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 3,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CHEM"
+      "CHEM 216",
+      "CHEM 128"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -22870,13 +22873,15 @@
     "department": "COMS",
     "firstName": "Anuraj",
     "lastName": "Dhillon",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "COMS"
-    ]
+      "COMS 101",
+      "COMS 418"
+    ],
+    "tags": {}
   },
   {
     "id": "b3b82211-4e0e-4b83-9bdb-afd374eb7d41",
