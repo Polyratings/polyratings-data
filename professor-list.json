@@ -6182,18 +6182,18 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 3,
-    "overallRating": 2,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.33,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1.25,
+    "studentDifficulties": 1,
     "courses": [
       "BUS 391",
       "BUS 392"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -12622,20 +12622,21 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 7,
-    "overallRating": 3.71,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.74,
     "courses": [
       "MATH 141",
       "MATH 142"
     ],
     "tags": {
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -21884,10 +21885,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 44,
-    "overallRating": 1.32,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.44,
+    "numEvals": 45,
+    "overallRating": 1.36,
+    "materialClear": 1.65,
+    "studentDifficulties": 1.45,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -32015,10 +32016,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 8,
-    "overallRating": 0.74,
-    "materialClear": 1.38,
-    "studentDifficulties": 0.87,
+    "numEvals": 9,
+    "overallRating": 0.66,
+    "materialClear": 1.23,
+    "studentDifficulties": 0.77,
     "courses": [
       "MATH 141"
     ],
