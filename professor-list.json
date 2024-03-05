@@ -6182,14 +6182,19 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 2,
+    "materialClear": 1.67,
+    "studentDifficulties": 1.33,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 392"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "2f832159-0417-459d-8592-8bf20c99a0cb",
@@ -8320,10 +8325,10 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 33,
-    "overallRating": 3.52,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.34,
+    "numEvals": 34,
+    "overallRating": 3.53,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.36,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -8332,7 +8337,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -13756,10 +13763,10 @@
     "department": "EE",
     "firstName": "Ahmad",
     "lastName": "Nafisi",
-    "numEvals": 63,
-    "overallRating": 3.56,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.68,
+    "numEvals": 64,
+    "overallRating": 3.57,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.69,
     "courses": [
       "EE 110",
       "EE 112",
@@ -13775,7 +13782,7 @@
       "EE 212"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Deadline Policy": 1
     }
   },
@@ -15583,10 +15590,10 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 94,
-    "overallRating": 1.83,
-    "materialClear": 2.06,
-    "studentDifficulties": 1.67,
+    "numEvals": 95,
+    "overallRating": 1.85,
+    "materialClear": 2.08,
+    "studentDifficulties": 1.68,
     "courses": [
       "ENGL 134",
       "ENGL 141",
@@ -15602,7 +15609,8 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -16872,7 +16880,7 @@
     "department": "EE",
     "firstName": "Gary",
     "lastName": "Perks",
-    "numEvals": 211,
+    "numEvals": 212,
     "overallRating": 3.56,
     "materialClear": 3.65,
     "studentDifficulties": 3.48,
@@ -16898,11 +16906,12 @@
       "CPE 233"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Flexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -20063,18 +20072,20 @@
     "department": "EE",
     "firstName": "Majid",
     "lastName": "Poshtan",
-    "numEvals": 22,
-    "materialClear": 3.05,
-    "studentDifficulties": 3.23,
-    "overallRating": 3.09,
+    "numEvals": 23,
+    "overallRating": 3.13,
+    "materialClear": 3.09,
+    "studentDifficulties": 3.26,
     "courses": [
       "EE 212",
       "EE 255",
       "EE 295",
       "EE 302",
       "EE 342",
-      "EE 511"
-    ]
+      "EE 511",
+      "EE 242"
+    ],
+    "tags": {}
   },
   {
     "id": "9be90a86-7cc2-40f5-8b81-cb4261f7202d",
@@ -20167,20 +20178,21 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.75,
     "courses": [
-      "STAT 252"
+      "STAT 252",
+      "STAT 251"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Uploads Slides": 1,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 2,
-      "Class Handouts": 1,
-      "Flexible Attendance Policy": 1
+      "Class Handouts": 2,
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -28450,10 +28462,10 @@
     "department": "ASCI",
     "firstName": "Jaymie",
     "lastName": "Noland",
-    "numEvals": 32,
-    "materialClear": 3.15,
+    "numEvals": 33,
+    "overallRating": 3.18,
+    "materialClear": 3.18,
     "studentDifficulties": 3.06,
-    "overallRating": 3.15,
     "courses": [
       "ASCI 101",
       "ASCI 102",
@@ -28462,7 +28474,11 @@
       "ASCI 223",
       "VS 223",
       "ASCI 227"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "e213d83f-8f02-46a6-aee6-6b6fe988a07f",
