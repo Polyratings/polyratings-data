@@ -8476,6 +8476,20 @@
     }
   },
   {
+    "id": "41dd766d-fa70-42b6-946e-28fdca35ae9a",
+    "department": "PHYS",
+    "firstName": "Afshin",
+    "lastName": "Montakhab",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {}
+  },
+  {
     "id": "41ea6378-4ef5-4b5b-b102-6cf410ab933b",
     "department": "PHYS",
     "firstName": "Themistoklis",
@@ -11037,6 +11051,24 @@
     "tags": {}
   },
   {
+    "id": "579068f1-99e1-4cd9-be36-e1c393babe43",
+    "department": "ASCI",
+    "firstName": "Mohammed",
+    "lastName": "Abo-Ismail",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2,
+    "courses": [
+      "ASCI"
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
+  },
+  {
     "id": "57a9d53d-54c6-4cb2-a2fe-f3957ac1e265",
     "department": "BUS",
     "firstName": "Fiona",
@@ -11754,10 +11786,10 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.85,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.83,
     "courses": [
       "SOC 355",
       "SOC 406",
@@ -19969,6 +20001,23 @@
     }
   },
   {
+    "id": "9ada0ff3-fd33-4a92-92b3-59731e511d73",
+    "department": "PHYS",
+    "firstName": "Isinsu",
+    "lastName": "Toker",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
+    }
+  },
+  {
     "id": "9afbf9cc-a1e8-4389-b850-6b06c087070b",
     "department": "FSN",
     "firstName": "Lindsey",
@@ -24778,20 +24827,21 @@
     "department": "CHEM",
     "firstName": "Erik",
     "lastName": "Sapper ",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.6,
     "courses": [
       "CHEM 124",
       "CHEM 127"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -26511,6 +26561,24 @@
     ]
   },
   {
+    "id": "d374fb10-5e2a-4363-9ee3-991f7280eeed",
+    "department": "BUS",
+    "firstName": "Lisa ",
+    "lastName": "Anderson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "d3cf264d-e7cb-48ec-a66d-40eef389da6c",
     "department": "FSN",
     "firstName": "Elisabeth",
@@ -27297,10 +27365,10 @@
     "department": "BMED",
     "firstName": "Kristen",
     "lastName": "Cardinal",
-    "numEvals": 16,
-    "overallRating": 2.96,
-    "materialClear": 3.07,
-    "studentDifficulties": 3.02,
+    "numEvals": 17,
+    "overallRating": 3.02,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.08,
     "courses": [
       "BMED 101",
       "BMED 111",
@@ -27309,7 +27377,8 @@
       "ENGR 420",
       "BMED 422",
       "BMED 510"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "d88d09a8-378d-4c75-b679-c75b333962d8",
@@ -32397,6 +32466,24 @@
       "BIO 409",
       "BIO 434"
     ]
+  },
+  {
+    "id": "fedaa724-94b8-4b33-958f-e5a76dd709b3",
+    "department": "COMS",
+    "firstName": "Lauren",
+    "lastName": "Kolodziejski",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "ff03b310-86ab-47d7-9cd4-f99d8fce4d61",
