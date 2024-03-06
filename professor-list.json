@@ -848,14 +848,18 @@
     "department": "ITAL",
     "firstName": "Teresiana",
     "lastName": "Matarrese",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ITAL"
+      "ITAL 101"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "06a73773-1b8a-4823-8878-131e8cdeb300",
@@ -4151,14 +4155,15 @@
     "department": "PHYS",
     "firstName": "Benjamin",
     "lastName": "Shlaer",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 1.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 2.25,
+    "studentDifficulties": 3,
     "courses": [
-      "PHYS",
-      "PHYS 142"
-    ]
+      "PHYS 142",
+      "PHYS 141"
+    ],
+    "tags": {}
   },
   {
     "id": "1dc9c04b-d8c1-499d-8213-afb49e89f56e",
@@ -5760,9 +5765,9 @@
     "department": "AGB",
     "firstName": "Neal",
     "lastName": "MacDougall",
-    "numEvals": 92,
+    "numEvals": 93,
     "overallRating": 1.19,
-    "materialClear": 1.35,
+    "materialClear": 1.36,
     "studentDifficulties": 1.19,
     "courses": [
       "AGB 212",
@@ -5777,7 +5782,10 @@
       "AGB 460",
       "AGB 514"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "2c8e4241-4f53-4556-8eb9-f6d74455e4aa",
@@ -8155,10 +8163,10 @@
     "department": "ARCH",
     "firstName": "Stephen",
     "lastName": "Phillips",
-    "numEvals": 27,
-    "materialClear": 3.48,
-    "studentDifficulties": 3,
-    "overallRating": 3.22,
+    "numEvals": 28,
+    "overallRating": 3.25,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.04,
     "courses": [
       "ARCH 217",
       "ARCH 351",
@@ -8166,7 +8174,8 @@
       "ARCH 451",
       "ARCH 452",
       "ARCH 481"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "404f625a-385c-499a-9bde-f4011411dca5",
@@ -8209,14 +8218,20 @@
     "department": "IME",
     "firstName": "Daniel",
     "lastName": "Franchi",
-    "numEvals": 8,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.6,
-    "overallRating": 3.5,
+    "numEvals": 9,
+    "overallRating": 3.56,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.64,
     "courses": [
       "IME 314",
-      "IME 409"
-    ]
+      "IME 409",
+      "IME 315"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "40ffdae2-0abc-43bd-a37f-422df76cd927",
@@ -9161,10 +9176,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 26,
-    "overallRating": 2.42,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.56,
+    "numEvals": 27,
+    "overallRating": 2.48,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.61,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -9174,8 +9189,9 @@
     ],
     "tags": {
       "Class Handouts": 3,
-      "Uploads Slides": 2,
-      "Fast Response Time": 2
+      "Uploads Slides": 3,
+      "Fast Response Time": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -13387,10 +13403,10 @@
     "department": "IME",
     "firstName": "Jeff",
     "lastName": "Zimmerman",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
       "IME 145",
       "IME 144"
@@ -14126,12 +14142,13 @@
     "department": "AGC",
     "firstName": "James",
     "lastName": "Bingaman",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AGC 205"
+      "AGC 205",
+      "AGC 301"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -14507,8 +14524,8 @@
     "department": "ENGL",
     "firstName": "Caleb",
     "lastName": "Nichols",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -19179,16 +19196,18 @@
     "department": "ECON",
     "firstName": "Joseph",
     "lastName": "Kuehn",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 3.75,
     "courses": [
       "ECON 221",
       "ECON 339"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -20630,17 +20649,20 @@
     "department": "HIST",
     "firstName": "Joel",
     "lastName": "Orth",
-    "numEvals": 24,
-    "overallRating": 3.3,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.34,
+    "numEvals": 25,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.37,
     "courses": [
       "HIST 202",
       "HIST 207",
       "HIST 322",
       "HIST 408",
       "HNRS 202"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a0131398-5085-47f3-a0ac-f6dada23329e",
@@ -24849,10 +24871,10 @@
     "department": "STAT",
     "firstName": "Beth",
     "lastName": "Chance",
-    "numEvals": 68,
-    "overallRating": 3.42,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.4,
+    "numEvals": 69,
+    "overallRating": 3.4,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.37,
     "courses": [
       "STAT 130",
       "STAT 150",
@@ -24872,8 +24894,9 @@
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 1,
-      "Flexible Deadline Policy": 1,
-      "Class Handouts": 1
+      "Flexible Deadline Policy": 2,
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -28592,10 +28615,10 @@
     "department": "CE",
     "firstName": "Ryan",
     "lastName": "Smith",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.14,
+    "studentDifficulties": 3.85,
     "courses": [
       "CE 204",
       "MATE 210",
@@ -29966,7 +29989,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 187,
+    "numEvals": 188,
     "overallRating": 3.44,
     "materialClear": 3.42,
     "studentDifficulties": 3.27,
@@ -29988,7 +30011,9 @@
       "MATH 318",
       "MATH 344"
     ],
-    "tags": {}
+    "tags": {
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "ee39ff0e-e412-4d29-bffc-c14e2ea85a55",
