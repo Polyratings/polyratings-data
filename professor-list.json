@@ -2998,10 +2998,10 @@
     "department": "PHYS",
     "firstName": "Anthony",
     "lastName": "Buffa",
-    "numEvals": 48,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.58,
-    "overallRating": 2.66,
+    "numEvals": 49,
+    "overallRating": 2.61,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.55,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -3009,7 +3009,8 @@
       "PHYS 131",
       "PHYS 132",
       "PHYS 133"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "15212162-eb5c-494d-8a1f-b34eaab94bb2",
@@ -7362,10 +7363,10 @@
     "department": "MATH",
     "firstName": "Goro",
     "lastName": "Kato",
-    "numEvals": 192,
+    "numEvals": 193,
     "overallRating": 3.09,
-    "materialClear": 3.02,
-    "studentDifficulties": 2.93,
+    "materialClear": 3.03,
+    "studentDifficulties": 2.94,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -7377,7 +7378,8 @@
       "MATH 244",
       "MATH 248",
       "MATH 341"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "39025e78-0f8a-480f-b74a-5d41c81848b4",
@@ -8090,10 +8092,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 24,
-    "overallRating": 2,
-    "materialClear": 1.56,
-    "studentDifficulties": 2.12,
+    "numEvals": 25,
+    "overallRating": 1.92,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.04,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -8102,8 +8104,8 @@
     ],
     "tags": {
       "Does Not Use Canvas": 3,
-      "Inflexible Deadline Policy": 2,
-      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 3,
+      "No Breaks During Lecture": 2,
       "Inflexible Grading Policy": 1
     }
   },
@@ -15746,10 +15748,10 @@
     "department": "CE",
     "firstName": "Eric",
     "lastName": "Kasper",
-    "numEvals": 79,
-    "overallRating": 2.73,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.7,
+    "numEvals": 80,
+    "overallRating": 2.75,
+    "materialClear": 2.73,
+    "studentDifficulties": 2.72,
     "courses": [
       "CE 201",
       "CE 204",
@@ -31230,12 +31232,13 @@
     "department": "HIST",
     "firstName": "John",
     "lastName": "Paniagua",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "HIST"
+      "HIST 304",
+      "HIST 223"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -32116,12 +32119,13 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 9,
-    "overallRating": 0.66,
-    "materialClear": 1.23,
-    "studentDifficulties": 0.77,
+    "numEvals": 10,
+    "overallRating": 0.59,
+    "materialClear": 1.11,
+    "studentDifficulties": 0.69,
     "courses": [
-      "MATH 141"
+      "MATH 141",
+      "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 2,
