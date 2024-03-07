@@ -8495,14 +8495,16 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
     "materialClear": 2,
-    "studentDifficulties": 1,
+    "studentDifficulties": 0.5,
     "courses": [
-      "PHYS"
+      "PHYS 141"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "41ea6378-4ef5-4b5b-b102-6cf410ab933b",
@@ -9176,10 +9178,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 27,
-    "overallRating": 2.48,
-    "materialClear": 2.31,
-    "studentDifficulties": 2.61,
+    "numEvals": 28,
+    "overallRating": 2.53,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.66,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -9188,10 +9190,11 @@
       "CPE 357"
     ],
     "tags": {
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Uploads Slides": 3,
       "Fast Response Time": 2,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -22393,19 +22396,20 @@
     "department": "COMS",
     "firstName": "Connie",
     "lastName": "Young-Johnson",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS 102"
+      "COMS 102",
+      "COMS 101"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Attendance Policy": 1,
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2
     }
   },
   {
@@ -30673,9 +30677,9 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.83,
+    "materialClear": 3.85,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
@@ -31595,10 +31599,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.33,
     "courses": [
       "MATH 244"
     ],
