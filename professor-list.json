@@ -29820,14 +29820,18 @@
     "department": "BUS",
     "firstName": "Sisi",
     "lastName": "Pouraghabagher",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 3.79,
     "materialClear": 3.81,
-    "studentDifficulties": 3.65,
+    "studentDifficulties": 3.66,
     "courses": [
       "BUS 214"
     ],
-    "tags": {}
+    "tags": {
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "ec9ac2f1-d603-4fc1-833b-72d2e5e5c58c",
