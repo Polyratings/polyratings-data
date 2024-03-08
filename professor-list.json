@@ -1769,16 +1769,17 @@
     "department": "SOC",
     "firstName": "Jess",
     "lastName": "Lee",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 2,
     "materialClear": 2,
     "studentDifficulties": 1,
     "courses": [
-      "SOC"
+      "SOC 111"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -3242,6 +3243,24 @@
     ]
   },
   {
+    "id": "16eb0060-6be7-466a-8459-082f7f640e4c",
+    "department": "ME",
+    "firstName": "Alan",
+    "lastName": "Zhang",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "17054b84-bb40-466e-beac-d5779f5738e8",
     "department": "BUS",
     "firstName": "Joseph",
@@ -3808,14 +3827,13 @@
     "department": "AEPS",
     "firstName": "Benjamin",
     "lastName": "Hoover",
-    "numEvals": 9,
-    "overallRating": 2.32,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.52,
+    "numEvals": 8,
+    "overallRating": 2.35,
+    "materialClear": 3.12,
+    "studentDifficulties": 2.54,
     "courses": [
       "EHS 120",
       "EHS 124",
-      "EHS 223",
       "EHS 233",
       "EHS 351",
       "AEPS 124"
@@ -11826,6 +11844,24 @@
     }
   },
   {
+    "id": "5c407cab-8ce4-4bd6-b3d0-1ebd501be814",
+    "department": "AGC",
+    "firstName": "Moses",
+    "lastName": "Mike",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "AGC"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "5c469df1-96ce-47cb-a099-22d35a5c52b6",
     "department": "BIO",
     "firstName": "Alejandra",
@@ -13169,14 +13205,18 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 3,
-    "overallRating": 1,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.67,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 1.5,
+    "studentDifficulties": 1,
     "courses": [
       "CSC 101"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "66a8823c-ede7-41a2-b783-d36796fefe65",
@@ -17855,6 +17895,24 @@
       "CSC 357",
       "CSC 590"
     ]
+  },
+  {
+    "id": "889cd777-e896-4169-9b6b-a96627c17b73",
+    "department": "COMS",
+    "firstName": "Carmen",
+    "lastName": "Navarro",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "88d70b62-a7ac-41a1-89e8-30202e7a1b56",
@@ -23194,14 +23252,17 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 3,
-    "materialClear": 2.5,
+    "materialClear": 2.67,
     "studentDifficulties": 4,
     "courses": [
       "BUS 319"
     ],
-    "tags": {}
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b578a3a9-4ab1-4246-9e85-74f69e3a3039",
