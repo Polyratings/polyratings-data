@@ -30664,10 +30664,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 2.4,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 3,
+    "materialClear": 2.17,
+    "studentDifficulties": 3,
     "courses": [
       "COMS 100",
       "COMS 316",
@@ -30676,7 +30676,8 @@
     "tags": {
       "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
