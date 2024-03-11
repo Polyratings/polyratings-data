@@ -9198,10 +9198,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 28,
-    "overallRating": 2.53,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.66,
+    "numEvals": 29,
+    "overallRating": 2.55,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.71,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -9211,10 +9211,12 @@
     ],
     "tags": {
       "Class Handouts": 4,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Fast Response Time": 2,
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -9389,16 +9391,18 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 42,
+    "numEvals": 43,
     "overallRating": 3.81,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.76,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.77,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 149"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "48feeb13-25ac-4c6e-9a67-29b9dd79c304",
@@ -10701,21 +10705,23 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 7,
-    "overallRating": 2.86,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.14,
+    "numEvals": 8,
+    "overallRating": 2.88,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.12,
     "courses": [
       "MATH 161",
       "MATH 118",
-      "MATH 119"
+      "MATH 119",
+      "MATH 141"
     ],
     "tags": {
-      "No Breaks During Lecture": 3,
+      "No Breaks During Lecture": 4,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
       "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -12168,12 +12174,13 @@
     "department": "ENGL",
     "firstName": "sasha",
     "lastName": "poma",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 133",
+      "ENGL 134"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -12186,12 +12193,13 @@
     "department": "ENGL",
     "firstName": "Raymond",
     "lastName": "Brennan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 134",
+      "ENGL 145"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -13690,10 +13698,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 44,
-    "overallRating": 1.47,
-    "materialClear": 1.7,
-    "studentDifficulties": 1.5,
+    "numEvals": 45,
+    "overallRating": 1.5,
+    "materialClear": 1.73,
+    "studentDifficulties": 1.51,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -29964,17 +29972,17 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 4,
-    "overallRating": 0.75,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.75,
+    "numEvals": 5,
+    "overallRating": 0.8,
+    "materialClear": 1,
+    "studentDifficulties": 1.8,
     "courses": [
       "CSC 248",
       "CSC 349"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 3,
       "No Breaks During Lecture": 1
     }
   },
