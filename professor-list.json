@@ -1769,17 +1769,19 @@
     "department": "SOC",
     "firstName": "Jess",
     "lastName": "Lee",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 1,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "SOC 111"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Honor DRC Accommodations": 2,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -5541,10 +5543,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 5,
-    "overallRating": 0.2,
-    "materialClear": 1,
-    "studentDifficulties": 0.4,
+    "numEvals": 6,
+    "overallRating": 0.83,
+    "materialClear": 1.5,
+    "studentDifficulties": 1,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -5553,7 +5555,9 @@
       "Inflexible Deadline Policy": 4,
       "No Breaks During Lecture": 3,
       "Inflexible Grading Policy": 4,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -29972,18 +29976,18 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 5,
-    "overallRating": 0.8,
-    "materialClear": 1,
-    "studentDifficulties": 1.8,
+    "numEvals": 6,
+    "overallRating": 0.67,
+    "materialClear": 0.83,
+    "studentDifficulties": 1.5,
     "courses": [
       "CSC 248",
       "CSC 349"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Uploads Slides": 3,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 4,
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -32193,10 +32197,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 10,
-    "overallRating": 0.59,
-    "materialClear": 1.11,
-    "studentDifficulties": 0.69,
+    "numEvals": 11,
+    "overallRating": 0.54,
+    "materialClear": 1.01,
+    "studentDifficulties": 0.63,
     "courses": [
       "MATH 141",
       "MATH 118"
