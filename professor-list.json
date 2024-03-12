@@ -8121,10 +8121,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 25,
-    "overallRating": 1.92,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.04,
+    "numEvals": 22,
+    "overallRating": 2.18,
+    "materialClear": 1.7,
+    "studentDifficulties": 2.32,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -10682,6 +10682,24 @@
       "TH 210",
       "TH 227"
     ]
+  },
+  {
+    "id": "53632d5a-d339-4137-bf1b-90affc658342",
+    "department": "MATH",
+    "firstName": "Jeffrey",
+    "lastName": "Tan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "5394f5f4-22ae-4e59-ad44-18e7b24a503c",
@@ -16396,6 +16414,20 @@
     ]
   },
   {
+    "id": "7d8d2101-38d4-4953-b511-d7b1ab9e475d",
+    "department": "MATH",
+    "firstName": "Andrew",
+    "lastName": "Haase",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {}
+  },
+  {
     "id": "7debfe67-43d8-41c1-88db-b24fb16dfdb1",
     "department": "BUS",
     "firstName": "Adam",
@@ -17266,10 +17298,10 @@
     "department": "HIST",
     "firstName": "Christina",
     "lastName": "Firpo",
-    "numEvals": 89,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.76,
-    "overallRating": 2.77,
+    "numEvals": 90,
+    "overallRating": 2.78,
+    "materialClear": 2.74,
+    "studentDifficulties": 2.77,
     "courses": [
       "COMS 101",
       "HIST 215",
@@ -17282,7 +17314,12 @@
       "HIST 330",
       "HIST 405",
       "HIST 421"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "8335279b-1649-4560-ae9a-30f0055fb6b7",
@@ -17488,10 +17525,10 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 4,
-    "overallRating": 1.25,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.25,
+    "numEvals": 3,
+    "overallRating": 0.33,
+    "materialClear": 1.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "HLTH 260"
     ],
@@ -21443,6 +21480,24 @@
     ]
   },
   {
+    "id": "a4698335-a066-4bc8-94ce-621bdc9e7b65",
+    "department": "ES",
+    "firstName": "Becca",
+    "lastName": "Lucas",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 3,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "a4821d68-a5cd-4bc0-a413-f3d86363109c",
     "department": "STAT",
     "firstName": "Kelly ",
@@ -23782,6 +23837,20 @@
       "CHEM 127",
       "CHEM 129"
     ]
+  },
+  {
+    "id": "b922a3b0-e695-4bbb-b665-82f3cdaeee41",
+    "department": "CSC",
+    "firstName": "Sumona",
+    "lastName": "Mukhopadhyay",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {}
   },
   {
     "id": "b9260031-77aa-414e-9dec-52abc100ab4a",
@@ -27109,6 +27178,22 @@
     ]
   },
   {
+    "id": "d6a776ca-500b-4a88-8aac-c2fa71efa4b2",
+    "department": "ES",
+    "firstName": "Mt",
+    "lastName": "Vallarta",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
+  },
+  {
     "id": "d6ab623d-8a70-4c4a-bd59-9bde20405c68",
     "department": "ARCH",
     "firstName": "Mark",
@@ -27911,10 +27996,10 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 43,
+    "numEvals": 44,
     "overallRating": 2.82,
     "materialClear": 2.93,
-    "studentDifficulties": 2.83,
+    "studentDifficulties": 2.86,
     "courses": [
       "STAT 217",
       "STAT 218",
