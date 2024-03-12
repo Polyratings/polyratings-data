@@ -3962,10 +3962,10 @@
     "department": "JOUR",
     "firstName": "Brady",
     "lastName": "Teufel",
-    "numEvals": 12,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.33,
-    "overallRating": 3.58,
+    "numEvals": 13,
+    "overallRating": 3.61,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.38,
     "courses": [
       "JOUR 203",
       "JOUR 285",
@@ -3973,7 +3973,8 @@
       "JOUR 390",
       "JOUR 407",
       "JOUR 410"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1bd6b46e-b99b-461b-a617-bb04a05f6c3d",
@@ -14205,7 +14206,7 @@
     "department": "AGC",
     "firstName": "James",
     "lastName": "Bingaman",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -14216,7 +14217,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -25128,10 +25130,10 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.33,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.33,
     "courses": [
       "PHYS 142"
     ],
@@ -25416,10 +25418,10 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 6,
-    "overallRating": 2.17,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.15,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.72,
     "courses": [
       "BIO 161"
     ],
@@ -32447,12 +32449,12 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 3,
     "studentDifficulties": 3,
     "courses": [
-      "STAT"
+      "STAT 218"
     ],
     "tags": {
       "Class Handouts": 1
