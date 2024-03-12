@@ -4554,16 +4554,22 @@
     "department": "ITP",
     "firstName": "Manocher",
     "lastName": "Djassemi",
-    "numEvals": 26,
-    "overallRating": 2.23,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.17,
+    "numEvals": 27,
+    "overallRating": 2.18,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.13,
     "courses": [
       "IT 260",
       "IT 326",
       "IT 329",
-      "IT 390"
-    ]
+      "IT 390",
+      "ITP 150"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "21ec6c95-5a1c-4142-ba11-23d9e8932695",
@@ -9073,10 +9079,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 33,
-    "overallRating": 2.25,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.29,
+    "numEvals": 34,
+    "overallRating": 2.24,
+    "materialClear": 2.09,
+    "studentDifficulties": 2.28,
     "courses": [
       "IME 223",
       "IME 314",
@@ -17480,10 +17486,10 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 2,
-    "overallRating": 0.5,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "numEvals": 4,
+    "overallRating": 1.25,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.25,
     "courses": [
       "HLTH 260"
     ],
@@ -26057,14 +26063,19 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "MATH"
+      "MATH 143",
+      "MATH 244"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "cdcf44bf-3ce3-4438-b70e-4d519e6a408a",
@@ -26205,18 +26216,20 @@
     "department": "ENGL",
     "firstName": "Sadie",
     "lastName": "Johann",
-    "numEvals": 35,
-    "overallRating": 3.39,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.58,
+    "numEvals": 36,
+    "overallRating": 3.41,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.59,
     "courses": [
       "ENGL 133",
       "ENGL 134",
       "ENGL 145",
       "ENGL 148",
       "ENGL 149",
-      "HNRS 149"
-    ]
+      "HNRS 149",
+      "ENGL 147"
+    ],
+    "tags": {}
   },
   {
     "id": "cf8a7def-9502-45e7-8ee7-40f85c4da2a8",
@@ -30392,10 +30405,10 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 70,
-    "materialClear": 2.54,
-    "studentDifficulties": 2.36,
-    "overallRating": 2.35,
+    "numEvals": 71,
+    "overallRating": 2.37,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.38,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -30404,7 +30417,12 @@
       "ENGL 253",
       "ENGL 254",
       "ENGL 350"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "f09fa1bf-dcd7-4c9a-93b0-1789f861884b",
@@ -32197,10 +32215,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 12,
-    "overallRating": 0.5,
-    "materialClear": 1.01,
-    "studentDifficulties": 0.58,
+    "numEvals": 13,
+    "overallRating": 0.46,
+    "materialClear": 0.93,
+    "studentDifficulties": 0.54,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -32210,7 +32228,8 @@
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 3,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Hybrid Option": 1
     }
   },
   {
