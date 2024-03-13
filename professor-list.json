@@ -8163,10 +8163,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 22,
-    "overallRating": 2.18,
-    "materialClear": 1.7,
-    "studentDifficulties": 2.32,
+    "numEvals": 23,
+    "overallRating": 2.09,
+    "materialClear": 1.63,
+    "studentDifficulties": 2.22,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -8174,8 +8174,8 @@
       "CHEM 312"
     ],
     "tags": {
-      "Does Not Use Canvas": 3,
-      "Inflexible Deadline Policy": 3,
+      "Does Not Use Canvas": 4,
+      "Inflexible Deadline Policy": 4,
       "No Breaks During Lecture": 2,
       "Inflexible Grading Policy": 1
     }
@@ -14468,10 +14468,10 @@
     "department": "MU",
     "firstName": "David",
     "lastName": "Arrivee",
-    "numEvals": 27,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.76,
-    "overallRating": 3.76,
+    "numEvals": 28,
+    "overallRating": 3.77,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.77,
     "courses": [
       "MU 101",
       "MU 104",
@@ -14479,7 +14479,12 @@
       "MU 325",
       "MU 340",
       "MU 374"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "714368a9-3250-4942-890c-8ebd181973b2",
