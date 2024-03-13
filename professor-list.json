@@ -3555,10 +3555,10 @@
     "department": "CSC",
     "firstName": "Aaron",
     "lastName": "Keen",
-    "numEvals": 89,
-    "overallRating": 2.87,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.76,
+    "numEvals": 90,
+    "overallRating": 2.88,
+    "materialClear": 2.89,
+    "studentDifficulties": 2.77,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -3575,7 +3575,12 @@
       "CPE 431",
       "CSC 431",
       "CSC 530"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "18edcc6c-ce30-48dd-a24d-610707ddf6a8",
@@ -21468,17 +21473,17 @@
     "department": "ASCI",
     "firstName": "Siroj",
     "lastName": "Pokharel",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ASCI"
+      "ASCI 211"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 2
     }
   },
   {
