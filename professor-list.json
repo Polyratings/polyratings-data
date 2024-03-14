@@ -2789,9 +2789,9 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.56,
     "studentDifficulties": 4,
     "courses": [
       "CPE 101",
@@ -2800,11 +2800,12 @@
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 2,
+      "Flexible Deadline Policy": 3,
       "Zoom Office Hours": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -5332,8 +5333,8 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Ferree",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -5341,9 +5342,10 @@
       "ENGL 391"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -16218,8 +16220,8 @@
     "department": "ES",
     "firstName": "Alpen",
     "lastName": "Razi",
-    "numEvals": 33,
-    "overallRating": 3.96,
+    "numEvals": 34,
+    "overallRating": 3.93,
     "materialClear": 3.89,
     "studentDifficulties": 3.91,
     "courses": [
@@ -16235,7 +16237,10 @@
       "Pop Quizzes": 2,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Zoom Office Hours": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -30348,17 +30353,19 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS"
+      "PHYS 143",
+      "PHYS 121"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
