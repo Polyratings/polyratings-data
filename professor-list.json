@@ -2086,16 +2086,17 @@
     "department": "PHYS",
     "firstName": "Erik",
     "lastName": "Veach",
-    "numEvals": 4,
-    "overallRating": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.2,
     "materialClear": 3,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.8,
     "courses": [
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 143"
     ],
     "tags": {
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1,
+      "Class Handouts": 2,
+      "Supplemental Study Material": 2,
       "No Breaks During Lecture": 2,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1
@@ -4831,10 +4832,10 @@
     "department": "PHYS",
     "firstName": "Xiaofeng (Jack)",
     "lastName": "Wang",
-    "numEvals": 36,
-    "overallRating": 1.81,
-    "materialClear": 1.56,
-    "studentDifficulties": 1.89,
+    "numEvals": 37,
+    "overallRating": 1.76,
+    "materialClear": 1.52,
+    "studentDifficulties": 1.84,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -4844,8 +4845,8 @@
     ],
     "tags": {
       "Uploads Slides": 1,
-      "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1
+      "Fast Response Time": 2,
+      "Inflexible Grading Policy": 2
     }
   },
   {
