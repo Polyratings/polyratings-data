@@ -2131,9 +2131,9 @@
     "department": "ME",
     "firstName": "Ben",
     "lastName": "Lutz",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "ME 328",
@@ -4733,14 +4733,19 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 128,
-    "overallRating": 2.85,
-    "materialClear": 2.91,
-    "studentDifficulties": 2.89,
+    "numEvals": 129,
+    "overallRating": 2.83,
+    "materialClear": 2.9,
+    "studentDifficulties": 2.87,
     "courses": [
       "ENGL 134",
       "ENGL 145"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "2344db9d-a770-4f00-baac-4a0241ccfe9a",
@@ -9442,10 +9447,10 @@
     "department": "CE",
     "firstName": "Garrett",
     "lastName": "Hall",
-    "numEvals": 61,
-    "overallRating": 3.12,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.19,
+    "numEvals": 62,
+    "overallRating": 3.13,
+    "materialClear": 3.11,
+    "studentDifficulties": 3.2,
     "courses": [
       "CE 204",
       "CE 205",
@@ -15402,18 +15407,20 @@
     "department": "CE",
     "firstName": "Mario",
     "lastName": "Esola",
-    "numEvals": 16,
-    "materialClear": 2.94,
-    "studentDifficulties": 3,
-    "overallRating": 2.94,
+    "numEvals": 17,
+    "overallRating": 2.77,
+    "materialClear": 2.77,
+    "studentDifficulties": 3.06,
     "courses": [
       "ARCE 211",
       "ARCE 226",
       "ARCE 315",
       "ARCE 316",
       "CE 351",
-      "CE 352"
-    ]
+      "CE 352",
+      "CE 207"
+    ],
+    "tags": {}
   },
   {
     "id": "768c16d7-6902-4233-adf8-6d8af4986921",
@@ -15452,10 +15459,10 @@
     "department": "ME",
     "firstName": "Pam",
     "lastName": "Ridgely",
-    "numEvals": 10,
-    "overallRating": 0.2,
-    "materialClear": 0.21,
-    "studentDifficulties": 0.1,
+    "numEvals": 11,
+    "overallRating": 0.18,
+    "materialClear": 0.19,
+    "studentDifficulties": 0.09,
     "courses": [
       "ME 236"
     ],
@@ -17823,9 +17830,9 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.72,
+    "numEvals": 8,
+    "overallRating": 3.87,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
@@ -17835,10 +17842,10 @@
       "PHYS 142"
     ],
     "tags": {
-      "Class Handouts": 2,
-      "Uploads Slides": 2,
+      "Class Handouts": 3,
+      "Uploads Slides": 3,
       "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -18826,10 +18833,10 @@
     "department": "ME",
     "firstName": "Andrew",
     "lastName": "Kean",
-    "numEvals": 31,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.03,
-    "overallRating": 3.15,
+    "numEvals": 32,
+    "overallRating": 3.11,
+    "materialClear": 3.14,
+    "studentDifficulties": 3,
     "courses": [
       "ME 302",
       "ME 341",
@@ -18837,7 +18844,8 @@
       "ME 440",
       "ME 514",
       "ME 236"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8feee440-81f1-450a-bbb3-b11923db3720",
@@ -23316,10 +23324,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 2.85,
     "materialClear": 2.79,
-    "studentDifficulties": 2.72,
+    "studentDifficulties": 2.73,
     "courses": [
       "ME 129",
       "ME 130",
@@ -29611,12 +29619,13 @@
     "department": "CSC",
     "firstName": "Iris",
     "lastName": "Ho",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
+      "CSC 240",
+      "CSC 248"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -32459,10 +32468,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 15,
-    "overallRating": 0.4,
-    "materialClear": 0.8,
-    "studentDifficulties": 0.47,
+    "numEvals": 16,
+    "overallRating": 0.38,
+    "materialClear": 0.81,
+    "studentDifficulties": 0.44,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -32471,8 +32480,8 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 5,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 6,
+      "Inflexible Deadline Policy": 4,
       "Hybrid Option": 1
     }
   },
