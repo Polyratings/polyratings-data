@@ -24238,7 +24238,7 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -24248,10 +24248,11 @@
     "tags": {
       "Fast Response Time": 2,
       "Does Not Use Canvas": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "High In-Person Availability": 1,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -28642,10 +28643,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 40,
+    "numEvals": 41,
     "overallRating": 3.82,
     "materialClear": 3.84,
-    "studentDifficulties": 3.84,
+    "studentDifficulties": 3.82,
     "courses": [
       "MATH 112",
       "MATH 141",
