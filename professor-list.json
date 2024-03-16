@@ -30236,18 +30236,20 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 6,
-    "overallRating": 0.67,
-    "materialClear": 0.83,
-    "studentDifficulties": 1.5,
+    "numEvals": 7,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1.86,
     "courses": [
       "CSC 248",
       "CSC 349"
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 4,
-      "No Breaks During Lecture": 2
+      "Uploads Slides": 5,
+      "No Breaks During Lecture": 2,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -31405,16 +31407,17 @@
     "department": "PHIL",
     "firstName": "Ava",
     "lastName": "Wright",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "PHIL"
+      "PHIL 323"
     ],
     "tags": {
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 1,
+      "Fast Response Time": 1
     }
   },
   {
