@@ -15445,14 +15445,15 @@
     "department": "PHIL",
     "firstName": "Albus",
     "lastName": "Dumbledore",
-    "numEvals": 2,
-    "materialClear": 3.25,
-    "studentDifficulties": 2.5,
-    "overallRating": 2.75,
+    "numEvals": 3,
+    "overallRating": 3.17,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
       "PHIL 150",
       "PHIL 230"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "76e0af89-403c-4b42-9d91-7e7a39b967f0",
@@ -24802,17 +24803,18 @@
     "department": "EE",
     "firstName": "Siavash",
     "lastName": "Farzan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "EE"
+      "EE 302"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 2,
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
