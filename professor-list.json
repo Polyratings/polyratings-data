@@ -12616,16 +12616,21 @@
     "department": "CHEM",
     "firstName": "Adam ",
     "lastName": "Groves",
-    "numEvals": 7,
-    "overallRating": 2.71,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.43,
+    "numEvals": 8,
+    "overallRating": 2.62,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.25,
     "courses": [
       "CHEM 128",
       "CHEM 369",
-      "CHEM 125"
+      "CHEM 125",
+      "CHEM 127"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "620e31d3-d103-483b-a832-3470fc08e759",
@@ -13558,10 +13563,10 @@
     "department": "IME",
     "firstName": "Jeff",
     "lastName": "Zimmerman",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.6,
     "courses": [
       "IME 145",
       "IME 144"
@@ -20940,10 +20945,10 @@
     "department": "MATE",
     "firstName": "Rob",
     "lastName": "Carter",
-    "numEvals": 39,
-    "overallRating": 3.52,
+    "numEvals": 40,
+    "overallRating": 3.53,
     "materialClear": 3.18,
-    "studentDifficulties": 3.37,
+    "studentDifficulties": 3.39,
     "courses": [
       "MATE 110",
       "IME 140",
@@ -24759,17 +24764,17 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.6,
     "courses": [
       "ES 256",
       "ES 335"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
-      "Pop Quizzes": 2,
+      "Pop Quizzes": 3,
       "No Breaks During Lecture": 1
     }
   },
