@@ -19737,10 +19737,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 68,
-    "overallRating": 2.39,
-    "materialClear": 2.69,
-    "studentDifficulties": 2.31,
+    "numEvals": 69,
+    "overallRating": 2.41,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.33,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -19751,9 +19751,11 @@
       "BUS 387"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1
     }
   },
   {
