@@ -5122,16 +5122,19 @@
     "department": "MATH",
     "firstName": "Lukas",
     "lastName": "Dakhlia",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "MATH"
+      "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -5291,8 +5294,8 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 303,
-    "overallRating": 1.81,
+    "numEvals": 304,
+    "overallRating": 1.8,
     "materialClear": 2.14,
     "studentDifficulties": 1.7,
     "courses": [
@@ -13014,16 +13017,20 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Long",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2.75,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.6,
+    "studentDifficulties": 3,
     "courses": [
       "CHEM 312",
       "CHEM 127",
-      "CHEM 125"
+      "CHEM 125",
+      "CHEM 217"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "64c1887e-7848-454d-b409-db11435d0e11",
@@ -13321,17 +13328,17 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 4,
-    "overallRating": 1.75,
-    "materialClear": 1.5,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 2,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.6,
     "courses": [
       "CSC 101"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "High In-Person Availability": 2,
+      "Flexible Deadline Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -15065,8 +15072,8 @@
     "department": "AGB",
     "firstName": "Lynn",
     "lastName": "Hamilton",
-    "numEvals": 92,
-    "overallRating": 2.26,
+    "numEvals": 93,
+    "overallRating": 2.27,
     "materialClear": 2.66,
     "studentDifficulties": 2.04,
     "courses": [
@@ -15080,7 +15087,10 @@
       "AGB 412"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -16869,10 +16879,10 @@
     "department": "KINE",
     "firstName": "Don",
     "lastName": "Clegg",
-    "numEvals": 49,
-    "overallRating": 3.19,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.21,
+    "numEvals": 50,
+    "overallRating": 3.21,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.23,
     "courses": [
       "KINE 180",
       "KINE 200",
@@ -23225,15 +23235,20 @@
     "department": "COMS",
     "firstName": "Anuraj",
     "lastName": "Dhillon",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "COMS 101",
-      "COMS 418"
+      "COMS 418",
+      "COMS 211"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b3b82211-4e0e-4b83-9bdb-afd374eb7d41",
@@ -24239,13 +24254,18 @@
     "department": "AGB",
     "firstName": "Lucy",
     "lastName": "McGowan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "AGB"
-    ]
+      "AGB 212"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "bc6cf593-6ab0-4730-8a03-170e89a52af5",
