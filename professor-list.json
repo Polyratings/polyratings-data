@@ -3492,15 +3492,16 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 10,
-    "overallRating": 0.8,
-    "materialClear": 0.9,
-    "studentDifficulties": 1.1,
+    "numEvals": 11,
+    "overallRating": 0.82,
+    "materialClear": 0.91,
+    "studentDifficulties": 1.09,
     "courses": [
       "CHEM 121",
       "CHEM 126",
       "CHEM 127",
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 125"
     ],
     "tags": {
       "Class Handouts": 1,
@@ -25347,10 +25348,10 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 6,
-    "overallRating": 3.33,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.33,
+    "numEvals": 8,
+    "overallRating": 2.75,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.75,
     "courses": [
       "PHYS 142"
     ],
@@ -32121,7 +32122,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 37,
+    "numEvals": 38,
     "overallRating": 3.88,
     "materialClear": 3.86,
     "studentDifficulties": 3.87,
@@ -32134,11 +32135,12 @@
       "MATH 141"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
-      "Fast Response Time": 2,
+      "Zoom Office Hours": 5,
+      "Fast Response Time": 3,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
