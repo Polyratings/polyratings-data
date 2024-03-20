@@ -11584,15 +11584,19 @@
     "department": "ENGL",
     "firstName": "Katrina",
     "lastName": "Prow",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.75,
     "courses": [
       "ENGL 145",
       "ENGL 387"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 2,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "5a35866d-f198-43ca-9397-d7a560cbaa20",
@@ -21688,9 +21692,9 @@
     "department": "EE",
     "firstName": "Brendan",
     "lastName": "Rhatigan",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "EE 242",
@@ -27928,10 +27932,10 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Fogle",
-    "numEvals": 60,
-    "materialClear": 1.9,
-    "studentDifficulties": 1.65,
-    "overallRating": 1.72,
+    "numEvals": 61,
+    "overallRating": 1.71,
+    "materialClear": 1.87,
+    "studentDifficulties": 1.64,
     "courses": [
       "CHEM 101",
       "CHEM 110",
@@ -27940,8 +27944,10 @@
       "CHEM 313",
       "CHEM 371",
       "CHEM 373",
-      "CHEM 474"
-    ]
+      "CHEM 474",
+      "CHEM 403"
+    ],
+    "tags": {}
   },
   {
     "id": "d99929b0-9d0e-4b5d-9b41-5eaf778849d9",
@@ -30682,12 +30688,13 @@
     "department": "ME",
     "firstName": "Kerry",
     "lastName": "Lane",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
+      "ME 212",
+      "ME 211"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -32156,7 +32163,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 39,
+    "numEvals": 40,
     "overallRating": 3.86,
     "materialClear": 3.86,
     "studentDifficulties": 3.85,
@@ -32169,7 +32176,7 @@
       "MATH 141"
     ],
     "tags": {
-      "Zoom Office Hours": 5,
+      "Zoom Office Hours": 6,
       "Fast Response Time": 3,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
