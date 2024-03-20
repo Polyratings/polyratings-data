@@ -1558,10 +1558,10 @@
     "department": "BIO",
     "firstName": "Nathaniel",
     "lastName": "Martinez",
-    "numEvals": 11,
-    "overallRating": 3.59,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.67,
+    "numEvals": 12,
+    "overallRating": 3.62,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.7,
     "courses": [
       "BIO 221",
       "MCRO 221",
@@ -9097,15 +9097,16 @@
     "department": "BIO",
     "firstName": "Lauren",
     "lastName": "Chan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 263",
+      "BIO 363"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -10869,7 +10870,7 @@
     "department": "BIO",
     "firstName": "Jean",
     "lastName": "Davidson",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -10877,7 +10878,9 @@
       "BIO 305",
       "BIO 161"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5454a6d7-4b1a-43d4-94e2-cb4b33b02481",
@@ -13807,15 +13810,16 @@
     "department": "SS",
     "firstName": "Gordon",
     "lastName": "Rees",
-    "numEvals": 8,
-    "overallRating": 3.88,
-    "materialClear": 3.88,
+    "numEvals": 9,
+    "overallRating": 3.89,
+    "materialClear": 3.89,
     "studentDifficulties": 4,
     "courses": [
       "SS 121",
       "ES 223",
       "SS 321"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6a01710e-f974-4913-b596-68e477453198",
@@ -18682,15 +18686,16 @@
     "department": "BIO",
     "firstName": "Gita",
     "lastName": "Kolluru",
-    "numEvals": 39,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.08,
-    "overallRating": 3.15,
+    "numEvals": 41,
+    "overallRating": 3.07,
+    "materialClear": 3.34,
+    "studentDifficulties": 2.95,
     "courses": [
       "BIO 123",
       "BIO 263",
       "BIO 414"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8efc8e78-0c5a-4c22-9f19-b3a57af5e813",
@@ -22112,14 +22117,14 @@
     "department": "SS",
     "firstName": "Rebecca",
     "lastName": "Graham",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3,
     "materialClear": 3,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "SS",
       "SS 120"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "a9ab5851-a561-40f7-8f84-4bcceb7beef9",
@@ -27216,17 +27221,21 @@
     "department": "NR",
     "firstName": "Chris",
     "lastName": "Surfleet",
-    "numEvals": 17,
-    "overallRating": 2.5,
-    "materialClear": 1.94,
-    "studentDifficulties": 2.28,
+    "numEvals": 18,
+    "overallRating": 2.53,
+    "materialClear": 2,
+    "studentDifficulties": 2.21,
     "courses": [
       "SS 202",
       "FNR 215",
       "FNR 218",
       "FNR 320",
-      "FNR 420"
-    ]
+      "FNR 420",
+      "NR 320"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "d61c2304-95bc-4d63-a15c-46e64fda9fdc",
@@ -29804,7 +29813,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -29814,9 +29823,9 @@
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -30270,20 +30279,21 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 7,
-    "overallRating": 1,
+    "numEvals": 8,
+    "overallRating": 0.88,
     "materialClear": 1,
-    "studentDifficulties": 1.86,
+    "studentDifficulties": 1.88,
     "courses": [
       "CSC 248",
       "CSC 349"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Uploads Slides": 5,
       "No Breaks During Lecture": 2,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -32146,10 +32156,10 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 38,
-    "overallRating": 3.88,
+    "numEvals": 39,
+    "overallRating": 3.86,
     "materialClear": 3.86,
-    "studentDifficulties": 3.87,
+    "studentDifficulties": 3.85,
     "courses": [
       "MATH 118",
       "MATH 142",
