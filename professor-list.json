@@ -15717,10 +15717,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 61,
-    "overallRating": 2.04,
-    "materialClear": 1.88,
-    "studentDifficulties": 2.04,
+    "numEvals": 62,
+    "overallRating": 2.07,
+    "materialClear": 1.9,
+    "studentDifficulties": 2.07,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -18161,7 +18161,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18171,9 +18171,9 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 3,
-      "Flexible Grading Policy": 2,
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 4,
+      "Flexible Grading Policy": 3,
       "High In-Person Availability": 1
     }
   },
@@ -21067,10 +21067,10 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "CHEM 124",
       "PHYS 141"
@@ -21078,7 +21078,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
