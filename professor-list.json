@@ -8371,10 +8371,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 26,
-    "overallRating": 3.78,
+    "numEvals": 27,
+    "overallRating": 3.79,
     "materialClear": 3.87,
-    "studentDifficulties": 3.82,
+    "studentDifficulties": 3.83,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -24012,14 +24012,16 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "CSC"
+      "CSC 101"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b9260031-77aa-414e-9dec-52abc100ab4a",
