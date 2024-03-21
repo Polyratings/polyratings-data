@@ -25523,10 +25523,10 @@
     "department": "PHYS",
     "firstName": "William",
     "lastName": "Horst",
-    "numEvals": 171,
-    "overallRating": 2.07,
-    "materialClear": 2.34,
-    "studentDifficulties": 1.96,
+    "numEvals": 172,
+    "overallRating": 2.06,
+    "materialClear": 2.33,
+    "studentDifficulties": 1.95,
     "courses": [
       "PHYS 111",
       "MATH 118",
@@ -25545,7 +25545,9 @@
     "tags": {
       "Pop Quizzes": 1,
       "Fast Response Time": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -29832,7 +29834,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -29842,9 +29844,11 @@
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Hybrid Option": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -30215,17 +30219,18 @@
     "department": "BUS",
     "firstName": "Sisi",
     "lastName": "Pouraghabagher",
-    "numEvals": 55,
+    "numEvals": 56,
     "overallRating": 3.79,
     "materialClear": 3.81,
-    "studentDifficulties": 3.66,
+    "studentDifficulties": 3.67,
     "courses": [
       "BUS 214"
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Zoom Office Hours": 1,
-      "Uploads Slides": 1
+      "Zoom Office Hours": 2,
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
