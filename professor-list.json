@@ -5521,10 +5521,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 79,
+    "numEvals": 80,
     "overallRating": 2.29,
     "materialClear": 2.17,
-    "studentDifficulties": 2.22,
+    "studentDifficulties": 2.24,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -5547,7 +5547,8 @@
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
       "Class Handouts": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -6201,8 +6202,8 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 141,
-    "overallRating": 3.61,
+    "numEvals": 142,
+    "overallRating": 3.6,
     "materialClear": 3.64,
     "studentDifficulties": 3.49,
     "courses": [
@@ -6223,7 +6224,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -9454,10 +9456,10 @@
     "department": "CE",
     "firstName": "Garrett",
     "lastName": "Hall",
-    "numEvals": 62,
-    "overallRating": 3.13,
-    "materialClear": 3.11,
-    "studentDifficulties": 3.2,
+    "numEvals": 63,
+    "overallRating": 3.14,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.21,
     "courses": [
       "CE 204",
       "CE 205",
@@ -9472,9 +9474,11 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 3,
       "Uploads Slides": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -22524,18 +22528,20 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 9,
-    "overallRating": 3.66,
-    "materialClear": 3.88,
-    "studentDifficulties": 3.66,
+    "numEvals": 10,
+    "overallRating": 3.69,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.69,
     "courses": [
       "CSC 248",
       "CSC 225",
-      "CSC 202"
+      "CSC 202",
+      "CSC 349"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -28715,7 +28721,7 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 41,
+    "numEvals": 42,
     "overallRating": 3.82,
     "materialClear": 3.84,
     "studentDifficulties": 3.82,
@@ -28727,7 +28733,7 @@
       "MATH 241"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Fast Response Time": 3,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1
@@ -32559,19 +32565,19 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 16,
-    "overallRating": 0.38,
-    "materialClear": 0.81,
-    "studentDifficulties": 0.44,
+    "numEvals": 17,
+    "overallRating": 0.48,
+    "materialClear": 0.88,
+    "studentDifficulties": 0.47,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 6,
+      "Inflexible Grading Policy": 7,
       "Inflexible Deadline Policy": 4,
       "Hybrid Option": 1
     }
