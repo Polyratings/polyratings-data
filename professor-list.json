@@ -3492,10 +3492,10 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 11,
-    "overallRating": 0.82,
-    "materialClear": 0.91,
-    "studentDifficulties": 1.09,
+    "numEvals": 12,
+    "overallRating": 1.09,
+    "materialClear": 1.17,
+    "studentDifficulties": 1.33,
     "courses": [
       "CHEM 121",
       "CHEM 126",
@@ -6058,10 +6058,10 @@
     "department": "STAT",
     "firstName": "Heather",
     "lastName": "Smith",
-    "numEvals": 109,
-    "overallRating": 2.48,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.45,
+    "numEvals": 110,
+    "overallRating": 2.49,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.46,
     "courses": [
       "STAT 211",
       "STAT 218",
@@ -6075,7 +6075,8 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -8600,10 +8601,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 3,
-    "overallRating": 1,
-    "materialClear": 1.33,
-    "studentDifficulties": 0.67,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 2,
+    "studentDifficulties": 1.5,
     "courses": [
       "PHYS 141"
     ],
@@ -13398,10 +13399,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 10,
-    "overallRating": 3.1,
-    "materialClear": 3.51,
-    "studentDifficulties": 2.09,
+    "numEvals": 11,
+    "overallRating": 3.18,
+    "materialClear": 3.55,
+    "studentDifficulties": 2.26,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -17765,15 +17766,16 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 38,
-    "materialClear": 2.1,
-    "studentDifficulties": 2.36,
-    "overallRating": 2.08,
+    "numEvals": 39,
+    "overallRating": 2.13,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.35,
     "courses": [
       "STAT 218",
       "STAT 251",
       "STAT 321"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "868c827b-6fa4-4255-9b55-03b154160b74",
@@ -20030,10 +20032,10 @@
     "department": "CHEM",
     "firstName": "Gregory",
     "lastName": "Scott",
-    "numEvals": 53,
-    "overallRating": 3.43,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.35,
+    "numEvals": 54,
+    "overallRating": 3.4,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.36,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -20044,7 +20046,7 @@
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3
     }
   },
   {
