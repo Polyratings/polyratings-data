@@ -12367,10 +12367,10 @@
     "department": "ECON",
     "firstName": "Matthew",
     "lastName": "Cole",
-    "numEvals": 20,
-    "overallRating": 2.37,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.18,
+    "numEvals": 21,
+    "overallRating": 2.4,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.22,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -12379,8 +12379,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -13659,9 +13660,9 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Ashley",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 3.1,
-    "materialClear": 3.09,
+    "materialClear": 3.1,
     "studentDifficulties": 3.06,
     "courses": [
       "ENGL 134",
