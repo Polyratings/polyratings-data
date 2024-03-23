@@ -22184,15 +22184,16 @@
     "department": "CSC",
     "firstName": "Jenny",
     "lastName": "Wang",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 2,
     "materialClear": 2,
     "studentDifficulties": 2,
     "courses": [
-      "CSC"
+      "CSC 484",
+      "CSC 365"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -29717,7 +29718,7 @@
     "department": "CSC",
     "firstName": "Iris",
     "lastName": "Ho",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -29727,7 +29728,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
