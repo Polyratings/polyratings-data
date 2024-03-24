@@ -2789,9 +2789,9 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
-    "materialClear": 3.56,
+    "materialClear": 3.6,
     "studentDifficulties": 4,
     "courses": [
       "CPE 101",
@@ -2800,12 +2800,13 @@
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Zoom Office Hours": 2,
       "Uploads Slides": 3,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Flexible Grading Policy": 2,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -5342,10 +5343,10 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Ferree",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "ENGL 133",
       "ENGL 391"
@@ -19464,10 +19465,10 @@
     "department": "ECON",
     "firstName": "Joseph",
     "lastName": "Kuehn",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.8,
     "courses": [
       "ECON 221",
       "ECON 339"
@@ -21522,10 +21523,10 @@
     "department": "KINE",
     "firstName": "Heather",
     "lastName": "Starnes",
-    "numEvals": 12,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.5,
+    "numEvals": 13,
+    "overallRating": 3.08,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.46,
     "courses": [
       "KINE 250",
       "KINE 255",
@@ -21533,7 +21534,11 @@
       "KINE 298",
       "KINE 319",
       "HLTH 255"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a3d13256-1f6b-4406-9c18-312669c761eb",
@@ -23407,10 +23412,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 55,
-    "overallRating": 2.85,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.73,
+    "numEvals": 56,
+    "overallRating": 2.87,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.75,
     "courses": [
       "ME 129",
       "ME 130",
@@ -23425,8 +23430,9 @@
       "High In-Person Availability": 2,
       "Class Handouts": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 2,
-      "Supplemental Study Material": 1
+      "Uploads Slides": 3,
+      "Supplemental Study Material": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -24448,18 +24454,19 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Wu",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 207"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Fast Response Time": 1,
-      "Uploads Slides": 2,
-      "Inflexible Grading Policy": 1
+      "Uploads Slides": 3,
+      "Inflexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -24841,18 +24848,19 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.67,
     "courses": [
       "ES 256",
       "ES 335"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
-      "Pop Quizzes": 3,
-      "No Breaks During Lecture": 1
+      "Pop Quizzes": 4,
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -28815,10 +28823,10 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 91,
-    "overallRating": 1.65,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.5,
+    "numEvals": 92,
+    "overallRating": 1.66,
+    "materialClear": 1.72,
+    "studentDifficulties": 1.52,
     "courses": [
       "BIO 101",
       "BIO 111",
@@ -28834,7 +28842,8 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -32066,17 +32075,19 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 4,
-    "overallRating": 2.5,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.5,
+    "numEvals": 5,
+    "overallRating": 2.8,
+    "materialClear": 3,
+    "studentDifficulties": 2.8,
     "courses": [
       "MATH 244",
       "MATH 142"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
