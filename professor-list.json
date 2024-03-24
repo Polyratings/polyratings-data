@@ -8606,17 +8606,18 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 6,
-    "overallRating": 1.5,
-    "materialClear": 1.33,
-    "studentDifficulties": 1.17,
+    "numEvals": 7,
+    "overallRating": 1.29,
+    "materialClear": 1.14,
+    "studentDifficulties": 1,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -21466,23 +21467,24 @@
     "department": "MATH",
     "firstName": "Zoe ",
     "lastName": "Nepsa",
-    "numEvals": 8,
-    "overallRating": 2.37,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.63,
+    "numEvals": 9,
+    "overallRating": 2.55,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.78,
     "courses": [
       "MATH 118",
       "MATH 141",
       "MATH 161"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 3,
       "Fast Response Time": 3,
-      "Flexible Deadline Policy": 4,
-      "Flexible Grading Policy": 1
+      "Flexible Deadline Policy": 5,
+      "Flexible Grading Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -32064,16 +32066,17 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.5,
     "courses": [
-      "MATH 244"
+      "MATH 244",
+      "MATH 142"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
