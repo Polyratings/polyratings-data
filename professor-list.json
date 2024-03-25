@@ -1959,10 +1959,10 @@
     "department": "PHYS",
     "firstName": "Jonathan",
     "lastName": "Fernsler",
-    "numEvals": 50,
-    "overallRating": 2.65,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.86,
+    "numEvals": 51,
+    "overallRating": 2.64,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.8,
     "courses": [
       "PSC 101",
       "PHYS 121",
@@ -5835,9 +5835,9 @@
     "department": "PHIL",
     "firstName": "Ryan",
     "lastName": "Jenkins",
-    "numEvals": 30,
-    "overallRating": 3.71,
-    "materialClear": 3.78,
+    "numEvals": 31,
+    "overallRating": 3.72,
+    "materialClear": 3.79,
     "studentDifficulties": 3.86,
     "courses": [
       "PHIL 126",
@@ -13527,14 +13527,20 @@
     "department": "POLS",
     "firstName": "Jennifer",
     "lastName": "Denbow",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 3,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.25,
+    "studentDifficulties": 3,
     "courses": [
       "POLS 230",
-      "POLS 245"
-    ]
+      "POLS 245",
+      "POLS 343"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "67b2e48d-af95-48b0-aee6-8518baa5f23a",
@@ -25433,16 +25439,16 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 9,
-    "overallRating": 2.44,
-    "materialClear": 2.34,
-    "studentDifficulties": 2.44,
+    "numEvals": 10,
+    "overallRating": 2.3,
+    "materialClear": 2.21,
+    "studentDifficulties": 2.3,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 2,
       "Class Handouts": 1,
@@ -31830,7 +31836,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -31840,7 +31846,8 @@
       "MATH 143",
       "MATH 241",
       "MATH 412",
-      "MATH 413"
+      "MATH 413",
+      "MATH 304"
     ],
     "tags": {
       "High In-Person Availability": 3,
