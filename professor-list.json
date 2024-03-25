@@ -7614,10 +7614,10 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 42,
-    "overallRating": 3.69,
+    "numEvals": 43,
+    "overallRating": 3.7,
     "materialClear": 3.79,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.75,
     "courses": [
       "HIST 201",
       "HIST 207",
@@ -7629,7 +7629,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -13739,10 +13741,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 33,
-    "overallRating": 3.71,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.64,
+    "numEvals": 34,
+    "overallRating": 3.72,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.59,
     "courses": [
       "EE 212",
       "EE 306",
@@ -13750,11 +13752,12 @@
       "EE 409",
       "EE 412",
       "EE 115",
-      "EE 145"
+      "EE 145",
+      "EE 215"
     ],
     "tags": {
-      "Recorded Lectures": 1,
-      "Uploads Slides": 1
+      "Recorded Lectures": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -32616,20 +32619,20 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 18,
-    "overallRating": 0.45,
-    "materialClear": 0.89,
-    "studentDifficulties": 0.5,
+    "numEvals": 19,
+    "overallRating": 0.53,
+    "materialClear": 0.95,
+    "studentDifficulties": 0.53,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 7,
-      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 8,
+      "Inflexible Deadline Policy": 5,
       "Hybrid Option": 1
     }
   },
