@@ -7334,15 +7334,16 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 1,
-    "overallRating": 1,
+    "numEvals": 2,
+    "overallRating": 0.5,
     "materialClear": 0,
-    "studentDifficulties": 3,
+    "studentDifficulties": 2,
     "courses": [
-      "CHEM"
+      "CHEM 129",
+      "CHEM 128"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
