@@ -14741,17 +14741,18 @@
     "department": "ENGL",
     "firstName": "Caleb",
     "lastName": "Nichols",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -32385,10 +32386,10 @@
     "department": "CHEM",
     "firstName": "Derik",
     "lastName": "Frantz",
-    "numEvals": 33,
-    "overallRating": 3.54,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.43,
+    "numEvals": 34,
+    "overallRating": 3.55,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.45,
     "courses": [
       "CHEM 216",
       "CHEM 217",
@@ -32397,7 +32398,11 @@
       "CHEM 317",
       "CHEM 312"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "fad73f10-0664-4df9-91f3-d91210f3a26b",
