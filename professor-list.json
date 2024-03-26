@@ -8621,16 +8621,16 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 8,
-    "overallRating": 1.25,
-    "materialClear": 1.12,
-    "studentDifficulties": 1,
+    "numEvals": 10,
+    "overallRating": 1.6,
+    "materialClear": 1.3,
+    "studentDifficulties": 1.5,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1
     }
@@ -13688,10 +13688,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Ashley",
-    "numEvals": 61,
+    "numEvals": 62,
     "overallRating": 3.1,
     "materialClear": 3.1,
-    "studentDifficulties": 3.06,
+    "studentDifficulties": 3.08,
     "courses": [
       "ENGL 134",
       "ENGL 143",
@@ -13700,7 +13700,8 @@
     "tags": {
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -19496,17 +19497,17 @@
     "department": "ECON",
     "firstName": "Joseph",
     "lastName": "Kuehn",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.71,
     "courses": [
       "ECON 221",
       "ECON 339"
     ],
     "tags": {
-      "Uploads Slides": 2,
-      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 3,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -22294,14 +22295,16 @@
     "department": "FSN",
     "firstName": "Marisa",
     "lastName": "Bolivar",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "FSN 250"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1
+    }
   },
   {
     "id": "aaa7e652-298a-4925-8ca4-205d2c87b7a0",
@@ -25292,10 +25295,10 @@
     "department": "STAT",
     "firstName": "Beth",
     "lastName": "Chance",
-    "numEvals": 69,
-    "overallRating": 3.4,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.37,
+    "numEvals": 70,
+    "overallRating": 3.41,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.38,
     "courses": [
       "STAT 130",
       "STAT 150",
@@ -25314,10 +25317,11 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1,
-      "Flexible Deadline Policy": 2,
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 3,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -28700,14 +28704,15 @@
     "department": "ASCI",
     "firstName": "Kim",
     "lastName": "Sprayberry",
-    "numEvals": 14,
-    "overallRating": 3.86,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.86,
+    "numEvals": 15,
+    "overallRating": 3.87,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.87,
     "courses": [
       "ASCI 229",
       "ASCI 438",
-      "ASCI 490"
+      "ASCI 490",
+      "ASCI 310"
     ],
     "tags": {
       "Fast Response Time": 1,
