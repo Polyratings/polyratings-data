@@ -4741,18 +4741,20 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 129,
+    "numEvals": 130,
     "overallRating": 2.83,
-    "materialClear": 2.9,
-    "studentDifficulties": 2.87,
+    "materialClear": 2.89,
+    "studentDifficulties": 2.88,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
