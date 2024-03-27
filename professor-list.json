@@ -8706,14 +8706,19 @@
     "department": "ARCE",
     "firstName": "Anahid",
     "lastName": "Behrouzi",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ARCE 212",
       "ARCE 371"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "424ec767-b9c0-462d-a3f3-daf87e36458a",
@@ -18498,10 +18503,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 83,
-    "overallRating": 3.27,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.07,
+    "numEvals": 84,
+    "overallRating": 3.25,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.06,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -18516,10 +18521,10 @@
       "CSC 464"
     ],
     "tags": {
-      "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 5,
+      "Inflexible Grading Policy": 4,
+      "Does Not Use Canvas": 6,
       "High In-Person Availability": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Attendance Policy": 1
     }
   },
@@ -21823,10 +21828,10 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 51,
-    "overallRating": 3.24,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.1,
+    "numEvals": 53,
+    "overallRating": 3.16,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.08,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -21835,9 +21840,14 @@
       "MATH 408",
       "MATH 481",
       "HNRS 241",
-      "HNRS 143"
+      "HNRS 143",
+      "MATH 482"
     ],
-    "tags": {}
+    "tags": {
+      "Supplemental Study Material": 2,
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 2
+    }
   },
   {
     "id": "a5e4bab2-832d-4b80-b12b-c3ef2eb240cd",
@@ -25533,10 +25543,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 46,
-    "overallRating": 3.43,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.41,
+    "numEvals": 47,
+    "overallRating": 3.44,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.42,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -28063,9 +28073,9 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 60,
-    "overallRating": 3.23,
-    "materialClear": 2.93,
+    "numEvals": 61,
+    "overallRating": 3.24,
+    "materialClear": 2.95,
     "studentDifficulties": 3.26,
     "courses": [
       "MATH 141",
@@ -28074,12 +28084,13 @@
       "MATH 161",
       "MATH 221",
       "MATH 241",
-      "MATH 244"
+      "MATH 244",
+      "MATH 182"
     ],
     "tags": {
-      "Class Handouts": 2,
-      "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1,
+      "Class Handouts": 3,
+      "Supplemental Study Material": 2,
+      "Flexible Grading Policy": 2,
       "Recorded Lectures": 1,
       "Uploads Slides": 2,
       "Honor DRC Accommodations": 1
