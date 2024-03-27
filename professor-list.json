@@ -12803,16 +12803,18 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 26,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.23,
-    "overallRating": 2.31,
+    "numEvals": 27,
+    "overallRating": 2.37,
+    "materialClear": 2.19,
+    "studentDifficulties": 2.3,
     "courses": [
       "ENGL 133",
       "ENGL 145",
       "ENGL 149",
-      "ENGL 302"
-    ]
+      "ENGL 302",
+      "ENGL 312"
+    ],
+    "tags": {}
   },
   {
     "id": "6326ea35-78a5-49ac-904f-bbc786681a74",
@@ -15541,10 +15543,10 @@
     "department": "ME",
     "firstName": "Pam",
     "lastName": "Ridgely",
-    "numEvals": 11,
-    "overallRating": 0.18,
-    "materialClear": 0.19,
-    "studentDifficulties": 0.09,
+    "numEvals": 12,
+    "overallRating": 0.25,
+    "materialClear": 0.26,
+    "studentDifficulties": 0.08,
     "courses": [
       "ME 236"
     ],
@@ -18926,10 +18928,10 @@
     "department": "ME",
     "firstName": "Andrew",
     "lastName": "Kean",
-    "numEvals": 32,
-    "overallRating": 3.11,
-    "materialClear": 3.14,
-    "studentDifficulties": 3,
+    "numEvals": 33,
+    "overallRating": 3.08,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.94,
     "courses": [
       "ME 302",
       "ME 341",
@@ -25486,16 +25488,16 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 11,
-    "overallRating": 2.09,
-    "materialClear": 2.01,
-    "studentDifficulties": 2.27,
+    "numEvals": 12,
+    "overallRating": 2.25,
+    "materialClear": 2.09,
+    "studentDifficulties": 2.41,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 3,
+      "Does Not Use Canvas": 4,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 2,
       "Class Handouts": 1,
@@ -26985,10 +26987,10 @@
     "department": "PHYS",
     "firstName": "Tatiana",
     "lastName": "Kuriabova",
-    "numEvals": 20,
-    "materialClear": 2.05,
-    "studentDifficulties": 2.24,
-    "overallRating": 2.33,
+    "numEvals": 21,
+    "overallRating": 2.36,
+    "materialClear": 2.1,
+    "studentDifficulties": 2.32,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -26997,7 +26999,12 @@
       "PHYS 132",
       "PHYS 211",
       "PHYS 301"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d3003d9f-1907-49d0-8c52-b90d1217877a",
