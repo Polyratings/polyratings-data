@@ -4741,10 +4741,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 130,
-    "overallRating": 2.83,
-    "materialClear": 2.89,
-    "studentDifficulties": 2.88,
+    "numEvals": 131,
+    "overallRating": 2.82,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.87,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -4753,7 +4753,7 @@
       "Flexible Attendance Policy": 2,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Fast Response Time": 1
     }
   },
@@ -6667,10 +6667,10 @@
     "department": "ARCH",
     "firstName": "Keith",
     "lastName": "Wiley",
-    "numEvals": 27,
-    "overallRating": 3.56,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.48,
+    "numEvals": 28,
+    "overallRating": 3.58,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.43,
     "courses": [
       "ARCH 101",
       "ARCH 105",
@@ -6684,9 +6684,10 @@
       "ARCH 252"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -18453,10 +18454,10 @@
     "department": "MATH",
     "firstName": "Todd",
     "lastName": "Grundmeier",
-    "numEvals": 61,
+    "numEvals": 62,
+    "overallRating": 3.82,
     "materialClear": 3.72,
     "studentDifficulties": 3.72,
-    "overallRating": 3.82,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18471,7 +18472,8 @@
       "MATH 419",
       "MATH 442",
       "MATH 443"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "8ba3f348-3512-416b-ba99-eb06d55f2127",
@@ -18951,10 +18953,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 139,
-    "overallRating": 1.85,
+    "numEvals": 140,
+    "overallRating": 1.86,
     "materialClear": 1.75,
-    "studentDifficulties": 1.8,
+    "studentDifficulties": 1.81,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -18975,7 +18977,8 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -25468,16 +25471,16 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 10,
-    "overallRating": 2.3,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.3,
+    "numEvals": 11,
+    "overallRating": 2.09,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.27,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 2,
       "Class Handouts": 1,
@@ -30567,12 +30570,13 @@
     "department": "PHYS",
     "firstName": "Stamatis",
     "lastName": "Vokos",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 1.5,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 1.33,
+    "studentDifficulties": 2.33,
     "courses": [
-      "PHYS 104"
+      "PHYS 104",
+      "PHYS 141"
     ],
     "tags": {
       "High In-Person Availability": 2,
