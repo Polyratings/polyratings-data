@@ -10948,10 +10948,10 @@
     "department": "PHYS",
     "firstName": "Thomas",
     "lastName": "Gutierrez",
-    "numEvals": 38,
-    "materialClear": 2.73,
-    "studentDifficulties": 3.1,
-    "overallRating": 3.03,
+    "numEvals": 39,
+    "overallRating": 3.05,
+    "materialClear": 2.76,
+    "studentDifficulties": 3.12,
     "courses": [
       "PHYS 121",
       "PHYS 132",
@@ -10964,7 +10964,12 @@
       "PHYS 317",
       "PHYS 408",
       "PHYS 424"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "54c52211-aa7e-4dfd-b4a1-56edb2e8b0a6",
@@ -13376,17 +13381,17 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 5,
-    "overallRating": 2,
-    "materialClear": 1.8,
-    "studentDifficulties": 1.6,
+    "numEvals": 6,
+    "overallRating": 2.33,
+    "materialClear": 2.17,
+    "studentDifficulties": 2,
     "courses": [
       "CSC 101"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Flexible Deadline Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 3
     }
   },
   {
@@ -13879,10 +13884,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 46,
-    "overallRating": 1.49,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.5,
+    "numEvals": 47,
+    "overallRating": 1.46,
+    "materialClear": 1.77,
+    "studentDifficulties": 1.47,
     "courses": [
       "MATH 116",
       "MATH 118",
