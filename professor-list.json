@@ -3117,9 +3117,9 @@
     "department": "COMS",
     "firstName": "Lori",
     "lastName": "Temko",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 2.8,
     "studentDifficulties": 3,
     "courses": [
       "COMS 101"
@@ -31189,7 +31189,7 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -31197,7 +31197,11 @@
       "CSC 305",
       "CSC 357"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "f30c3604-5eb7-49d0-8e7a-3d48fff7ac0b",
