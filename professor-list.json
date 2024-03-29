@@ -400,13 +400,14 @@
     "department": "MATH",
     "firstName": "Kyle",
     "lastName": "Rachman",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 2,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
-    ]
+      "MATH 118"
+    ],
+    "tags": {}
   },
   {
     "id": "0351fa69-28bb-44a9-8e15-98d3f296f0ec",
@@ -12924,10 +12925,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 151,
-    "overallRating": 2.37,
-    "materialClear": 2.15,
-    "studentDifficulties": 2.32,
+    "numEvals": 152,
+    "overallRating": 2.38,
+    "materialClear": 2.16,
+    "studentDifficulties": 2.33,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -12951,7 +12952,8 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -22162,7 +22164,7 @@
     "department": "ME",
     "firstName": "Cooper",
     "lastName": "Minehart",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -22172,9 +22174,11 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Class Handouts": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Hybrid Option": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
