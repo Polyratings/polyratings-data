@@ -850,17 +850,21 @@
     "department": "ITAL",
     "firstName": "Teresiana",
     "lastName": "Matarrese",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "ITAL 101"
+      "ITAL 101",
+      "WLC 310"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
