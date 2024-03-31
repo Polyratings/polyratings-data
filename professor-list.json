@@ -2763,12 +2763,13 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 2,
-    "overallRating": 0,
-    "materialClear": 1.5,
-    "studentDifficulties": 1,
+    "numEvals": 3,
+    "overallRating": 1,
+    "materialClear": 1.67,
+    "studentDifficulties": 2,
     "courses": [
-      "MATH 141"
+      "MATH 141",
+      "MATH 119"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
