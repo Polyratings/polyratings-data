@@ -11860,19 +11860,21 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 16,
-    "overallRating": 1,
-    "materialClear": 0.7,
-    "studentDifficulties": 1.07,
+    "numEvals": 17,
+    "overallRating": 1.12,
+    "materialClear": 0.89,
+    "studentDifficulties": 1.24,
     "courses": [
       "CSC 202"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Inflexible Deadline Policy": 2,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -17375,10 +17377,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 197,
+    "numEvals": 198,
     "overallRating": 2.64,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.4,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.41,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -21584,16 +21586,18 @@
     "department": "SPAN",
     "firstName": "Rene",
     "lastName": "Carrasco",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "SPAN"
+      "SPAN 233"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
