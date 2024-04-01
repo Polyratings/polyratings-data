@@ -18546,10 +18546,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 84,
-    "overallRating": 3.25,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.06,
+    "numEvals": 85,
+    "overallRating": 3.22,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.04,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -18564,11 +18564,12 @@
       "CSC 464"
     ],
     "tags": {
-      "Inflexible Grading Policy": 4,
-      "Does Not Use Canvas": 6,
+      "Inflexible Grading Policy": 5,
+      "Does Not Use Canvas": 7,
       "High In-Person Availability": 1,
       "Fast Response Time": 3,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -20054,10 +20055,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 35,
-    "overallRating": 3.16,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.08,
+    "numEvals": 36,
+    "overallRating": 3.18,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.11,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -30723,9 +30724,9 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 3,
-    "materialClear": 2.5,
+    "materialClear": 2.33,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143"
