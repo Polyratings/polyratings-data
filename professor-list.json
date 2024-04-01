@@ -1267,17 +1267,17 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 7,
-    "overallRating": 3.43,
-    "materialClear": 3.72,
-    "studentDifficulties": 3,
+    "numEvals": 8,
+    "overallRating": 3.5,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.13,
     "courses": [
       "MATH 143",
       "MATH 241"
     ],
     "tags": {
-      "Class Handouts": 2,
-      "Supplemental Study Material": 4,
+      "Class Handouts": 3,
+      "Supplemental Study Material": 5,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 1,
       "Uploads Slides": 3,
@@ -2798,9 +2798,9 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
-    "materialClear": 3.6,
+    "materialClear": 3.64,
     "studentDifficulties": 4,
     "courses": [
       "CPE 101",
@@ -2809,9 +2809,9 @@
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 4,
-      "Zoom Office Hours": 2,
-      "Uploads Slides": 3,
+      "Flexible Deadline Policy": 5,
+      "Zoom Office Hours": 3,
+      "Uploads Slides": 4,
       "Class Handouts": 1,
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1,
@@ -5329,9 +5329,9 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 304,
-    "overallRating": 1.8,
-    "materialClear": 2.14,
+    "numEvals": 305,
+    "overallRating": 1.79,
+    "materialClear": 2.13,
     "studentDifficulties": 1.7,
     "courses": [
       "CM 101",
@@ -6480,17 +6480,21 @@
     "department": "ME",
     "firstName": "Thomas",
     "lastName": "Mackin",
-    "numEvals": 21,
-    "overallRating": 2.95,
-    "materialClear": 2.91,
-    "studentDifficulties": 3.41,
+    "numEvals": 22,
+    "overallRating": 3,
+    "materialClear": 2.96,
+    "studentDifficulties": 3.44,
     "courses": [
       "ME 211",
       "ME 212",
       "ME 328",
       "ME 329"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "30527664-6bb5-4322-a36d-f743c3406aa2",
@@ -6786,9 +6790,9 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 3,
-    "materialClear": 3.33,
+    "materialClear": 3,
     "studentDifficulties": 3,
     "courses": [
       "ENGL 145"
@@ -9137,22 +9141,25 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 15,
-    "overallRating": 0.79,
-    "materialClear": 0.81,
-    "studentDifficulties": 1.21,
+    "numEvals": 16,
+    "overallRating": 0.93,
+    "materialClear": 0.95,
+    "studentDifficulties": 1.26,
     "courses": [
       "MATE 210",
       "BRAE 348",
       "CHEM 127",
-      "CHEM 110"
+      "CHEM 110",
+      "CHEM 124"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 8,
+      "Inflexible Attendance Policy": 9,
       "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 4,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9345,10 +9352,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 30,
-    "overallRating": 2.6,
-    "materialClear": 2.44,
-    "studentDifficulties": 2.75,
+    "numEvals": 31,
+    "overallRating": 2.65,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.79,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -9357,9 +9364,9 @@
       "CPE 357"
     ],
     "tags": {
-      "Class Handouts": 4,
-      "Uploads Slides": 4,
-      "Fast Response Time": 2,
+      "Class Handouts": 5,
+      "Uploads Slides": 5,
+      "Fast Response Time": 3,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
@@ -16356,7 +16363,7 @@
     "department": "ES",
     "firstName": "Alpen",
     "lastName": "Razi",
-    "numEvals": 34,
+    "numEvals": 35,
     "overallRating": 3.93,
     "materialClear": 3.89,
     "studentDifficulties": 3.91,
@@ -24364,7 +24371,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 128,
+    "numEvals": 129,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -28940,10 +28947,10 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 92,
-    "overallRating": 1.66,
-    "materialClear": 1.72,
-    "studentDifficulties": 1.52,
+    "numEvals": 93,
+    "overallRating": 1.69,
+    "materialClear": 1.74,
+    "studentDifficulties": 1.55,
     "courses": [
       "BIO 101",
       "BIO 111",
