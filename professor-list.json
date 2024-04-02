@@ -8651,10 +8651,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 10,
-    "overallRating": 1.6,
-    "materialClear": 1.3,
-    "studentDifficulties": 1.5,
+    "numEvals": 11,
+    "overallRating": 1.55,
+    "materialClear": 1.27,
+    "studentDifficulties": 1.45,
     "courses": [
       "PHYS 141"
     ],
@@ -32370,7 +32370,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 41,
+    "numEvals": 42,
     "overallRating": 3.86,
     "materialClear": 3.86,
     "studentDifficulties": 3.85,
@@ -32380,11 +32380,12 @@
       "MATH 143",
       "MATH 221",
       "MATH 222",
-      "MATH 141"
+      "MATH 141",
+      "MATH 241"
     ],
     "tags": {
-      "Zoom Office Hours": 7,
-      "Fast Response Time": 3,
+      "Zoom Office Hours": 8,
+      "Fast Response Time": 4,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
       "Honor DRC Accommodations": 1,
