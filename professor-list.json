@@ -2798,10 +2798,10 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 11,
-    "overallRating": 4,
-    "materialClear": 3.64,
-    "studentDifficulties": 4,
+    "numEvals": 12,
+    "overallRating": 3.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.92,
     "courses": [
       "CPE 101",
       "CSC 357"
@@ -8651,18 +8651,19 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 11,
-    "overallRating": 1.55,
-    "materialClear": 1.27,
-    "studentDifficulties": 1.45,
+    "numEvals": 12,
+    "overallRating": 1.67,
+    "materialClear": 1.41,
+    "studentDifficulties": 1.66,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9352,10 +9353,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 31,
-    "overallRating": 2.65,
-    "materialClear": 2.46,
-    "studentDifficulties": 2.79,
+    "numEvals": 32,
+    "overallRating": 2.69,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.83,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -23516,10 +23517,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 56,
-    "overallRating": 2.87,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.75,
+    "numEvals": 57,
+    "overallRating": 2.84,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.7,
     "courses": [
       "ME 129",
       "ME 130",
@@ -24372,7 +24373,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 129,
+    "numEvals": 130,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -24394,11 +24395,12 @@
       "MATH 550"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 2,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -24438,17 +24440,18 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS 143"
+      "PHYS 143",
+      "PHYS 142"
     ],
     "tags": {
       "Fast Response Time": 2,
       "Does Not Use Canvas": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "High In-Person Availability": 1,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 2,
@@ -32745,10 +32748,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 19,
-    "overallRating": 0.53,
-    "materialClear": 0.95,
-    "studentDifficulties": 0.53,
+    "numEvals": 20,
+    "overallRating": 0.5,
+    "materialClear": 0.9,
+    "studentDifficulties": 0.5,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -32757,7 +32760,7 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 8,
+      "Inflexible Grading Policy": 9,
       "Inflexible Deadline Policy": 5,
       "Hybrid Option": 1
     }
