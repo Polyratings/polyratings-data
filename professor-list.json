@@ -3304,12 +3304,12 @@
     "department": "ME",
     "firstName": "Alan",
     "lastName": "Zhang",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
+      "ME 211"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -3876,16 +3876,17 @@
     "department": "ME",
     "firstName": "Charles",
     "lastName": "Birdsong",
-    "numEvals": 54,
-    "materialClear": 2.21,
-    "studentDifficulties": 1.82,
+    "numEvals": 55,
     "overallRating": 2.11,
+    "materialClear": 2.21,
+    "studentDifficulties": 1.81,
     "courses": [
       "ME 212",
       "ME 236",
       "ME 326",
       "ME 422"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "1b015227-319b-4e60-a842-67648e0de8a7",
@@ -19375,13 +19376,14 @@
     "department": "CHEM",
     "firstName": "Sandra",
     "lastName": "Ward",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.33,
     "courses": [
       "CHEM 216",
-      "CHEM 128"
+      "CHEM 128",
+      "CHEM 125"
     ],
     "tags": {
       "Class Handouts": 1,
@@ -24444,7 +24446,7 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -24454,11 +24456,11 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "Uploads Slides": 5,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "No Breaks During Lecture": 1
     }
   },
@@ -25777,18 +25779,18 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 4,
-    "overallRating": 1.75,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.5,
+    "numEvals": 5,
+    "overallRating": 2,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.8,
     "courses": [
       "ES 255"
     ],
     "tags": {
       "Pop Quizzes": 3,
-      "No Breaks During Lecture": 3,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "No Breaks During Lecture": 4,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
