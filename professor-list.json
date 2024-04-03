@@ -21946,10 +21946,10 @@
     "department": "PHIL",
     "firstName": "Adam",
     "lastName": "BenShea",
-    "numEvals": 13,
-    "overallRating": 3.29,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.08,
+    "numEvals": 14,
+    "overallRating": 3.34,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.15,
     "courses": [
       "RELS 201",
       "RELS 302",
@@ -21958,7 +21958,11 @@
       "RELS 374",
       "PHIL 378"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "a72417c3-c1e2-4ac8-be8f-f2877c7046f2",
@@ -25542,16 +25546,16 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 12,
-    "overallRating": 2.25,
-    "materialClear": 2.09,
-    "studentDifficulties": 2.41,
+    "numEvals": 13,
+    "overallRating": 2.31,
+    "materialClear": 2.08,
+    "studentDifficulties": 2.38,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 4,
+      "Does Not Use Canvas": 5,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 2,
       "Class Handouts": 1,
@@ -26788,7 +26792,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 122,
+    "numEvals": 123,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -26802,7 +26806,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -29018,13 +29024,17 @@
     "department": "PSY",
     "firstName": "Tom",
     "lastName": "Steffora",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "PSY 405"
-    ]
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "e15943da-904a-4f1f-b5dc-f4e948336835",
@@ -32373,7 +32383,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 42,
+    "numEvals": 43,
     "overallRating": 3.86,
     "materialClear": 3.86,
     "studentDifficulties": 3.85,
@@ -32387,8 +32397,8 @@
       "MATH 241"
     ],
     "tags": {
-      "Zoom Office Hours": 8,
-      "Fast Response Time": 4,
+      "Zoom Office Hours": 9,
+      "Fast Response Time": 5,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
       "Honor DRC Accommodations": 1,
@@ -32748,10 +32758,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 20,
-    "overallRating": 0.5,
-    "materialClear": 0.9,
-    "studentDifficulties": 0.5,
+    "numEvals": 21,
+    "overallRating": 0.48,
+    "materialClear": 0.86,
+    "studentDifficulties": 0.48,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -32760,7 +32770,7 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 9,
+      "Inflexible Grading Policy": 10,
       "Inflexible Deadline Policy": 5,
       "Hybrid Option": 1
     }
