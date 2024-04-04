@@ -12486,19 +12486,20 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 4,
-    "overallRating": 2.75,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 3,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.2,
     "courses": [
       "PHIL 323",
       "PHIL 336"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 1,
-      "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 1
+      "Fast Response Time": 2,
+      "Supplemental Study Material": 2,
+      "Inflexible Grading Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
