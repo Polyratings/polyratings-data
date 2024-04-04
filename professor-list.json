@@ -1267,10 +1267,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 8,
-    "overallRating": 3.5,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.13,
+    "numEvals": 9,
+    "overallRating": 3.56,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.23,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -1280,10 +1280,10 @@
       "Supplemental Study Material": 5,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Inflexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -5138,10 +5138,10 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 33,
+    "numEvals": 34,
+    "overallRating": 3.8,
     "materialClear": 3.94,
-    "studentDifficulties": 3.73,
-    "overallRating": 3.79,
+    "studentDifficulties": 3.74,
     "courses": [
       "POLS 112",
       "POLS 245",
@@ -5150,7 +5150,12 @@
       "POLS 341",
       "POLS 343",
       "POLS 344"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "26555ddb-47ad-4287-8563-f5d615df76dd",
@@ -28567,10 +28572,10 @@
     "department": "MATH",
     "firstName": "Joyce",
     "lastName": "Linn",
-    "numEvals": 45,
-    "overallRating": 3.64,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.48,
+    "numEvals": 46,
+    "overallRating": 3.65,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.49,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -32760,10 +32765,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 22,
-    "overallRating": 0.5,
-    "materialClear": 0.87,
-    "studentDifficulties": 0.55,
+    "numEvals": 24,
+    "overallRating": 0.59,
+    "materialClear": 0.88,
+    "studentDifficulties": 0.63,
     "courses": [
       "MATH 141",
       "MATH 118"
