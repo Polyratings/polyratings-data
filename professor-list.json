@@ -6249,10 +6249,10 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 142,
-    "overallRating": 3.6,
+    "numEvals": 144,
+    "overallRating": 3.58,
     "materialClear": 3.64,
-    "studentDifficulties": 3.49,
+    "studentDifficulties": 3.46,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -6272,7 +6272,9 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -13886,10 +13888,10 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 69,
-    "overallRating": 2.9,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.72,
+    "numEvals": 70,
+    "overallRating": 2.92,
+    "materialClear": 2.9,
+    "studentDifficulties": 2.74,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -13906,7 +13908,9 @@
       "Flexible Deadline Policy": 1,
       "No Breaks During Lecture": 1,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -17757,15 +17761,18 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 7,
-    "overallRating": 0.15,
-    "materialClear": 0.86,
-    "studentDifficulties": 1,
+    "numEvals": 8,
+    "overallRating": 0.13,
+    "materialClear": 0.75,
+    "studentDifficulties": 0.88,
     "courses": [
       "HLTH 260",
       "HLTH 255"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "8596324c-7230-4628-92d6-620a229fda0c",
@@ -21235,7 +21242,7 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 107,
+    "numEvals": 108,
     "overallRating": 3.8,
     "materialClear": 3.8,
     "studentDifficulties": 3.75,
@@ -21259,11 +21266,12 @@
       "MATH 202"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "High In-Person Availability": 2,
-      "Fast Response Time": 2
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -31724,10 +31732,10 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 9,
-    "overallRating": 2.33,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 10,
+    "overallRating": 2.3,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.8,
     "courses": [
       "STAT 301",
       "STAT 331"
@@ -31740,7 +31748,9 @@
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -31982,7 +31992,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 11,
+    "numEvals": 12,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -31996,12 +32006,13 @@
       "MATH 304"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
       "Fast Response Time": 3,
       "Honor DRC Accommodations": 3,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
