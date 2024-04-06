@@ -2798,10 +2798,10 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 12,
-    "overallRating": 3.83,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.92,
+    "numEvals": 13,
+    "overallRating": 3.84,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.93,
     "courses": [
       "CPE 101",
       "CSC 357"
@@ -2809,11 +2809,11 @@
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 5,
+      "Flexible Deadline Policy": 6,
       "Zoom Office Hours": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1
     }
@@ -4524,13 +4524,15 @@
     "department": "CSC",
     "firstName": "Javier",
     "lastName": "Gonzalez-Sanchez",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 2,
     "courses": [
-      "CSC"
-    ]
+      "CSC 309",
+      "CSC 307"
+    ],
+    "tags": {}
   },
   {
     "id": "20a456ec-9f84-4cc5-9a4a-0711bfea65be",
@@ -5162,18 +5164,18 @@
     "department": "MATH",
     "firstName": "Lukas",
     "lastName": "Dakhlia",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 118",
       "MATH 161"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1
     }
@@ -8433,10 +8435,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 27,
-    "overallRating": 3.79,
+    "numEvals": 28,
+    "overallRating": 3.8,
     "materialClear": 3.87,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -13819,10 +13821,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 34,
-    "overallRating": 3.72,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.59,
+    "numEvals": 35,
+    "overallRating": 3.7,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.57,
     "courses": [
       "EE 212",
       "EE 306",
@@ -26645,10 +26647,10 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 48,
-    "overallRating": 2.77,
-    "materialClear": 2.98,
-    "studentDifficulties": 2.59,
+    "numEvals": 49,
+    "overallRating": 2.8,
+    "materialClear": 3,
+    "studentDifficulties": 2.62,
     "courses": [
       "PHIL 230",
       "PHIL 231",
