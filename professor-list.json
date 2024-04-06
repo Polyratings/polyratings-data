@@ -9828,9 +9828,9 @@
     "department": "CSC",
     "firstName": "Ayaan",
     "lastName": "Kazerouni",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 3.76,
+    "materialClear": 3.79,
     "studentDifficulties": 4,
     "courses": [
       "CPE 203",
@@ -9838,7 +9838,11 @@
       "CSC 123",
       "CSC 513"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "4b0918e8-a5bc-47cc-bac3-799f8c3e60ce",
@@ -24396,7 +24400,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 130,
+    "numEvals": 131,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -24423,7 +24427,8 @@
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 2,
       "Does Not Use Canvas": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
