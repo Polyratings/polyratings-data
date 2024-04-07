@@ -26208,10 +26208,10 @@
     "department": "CHEM",
     "firstName": "Scott",
     "lastName": "Eagon",
-    "numEvals": 29,
-    "materialClear": 2.97,
-    "studentDifficulties": 2.97,
-    "overallRating": 3.03,
+    "numEvals": 30,
+    "overallRating": 3.06,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "CHEM 110",
       "CHEM 216",
@@ -26220,8 +26220,10 @@
       "CHEM 317",
       "CHEM 318",
       "CHEM 319",
-      "CHEM 377"
-    ]
+      "CHEM 377",
+      "CHEM 217"
+    ],
+    "tags": {}
   },
   {
     "id": "cb86343c-8a9a-4789-a43c-77d7dc92f5aa",
