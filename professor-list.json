@@ -14310,17 +14310,18 @@
     "department": "POLS",
     "firstName": "Sada",
     "lastName": "Andrews",
-    "numEvals": 14,
-    "overallRating": 3.68,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.68,
+    "numEvals": 15,
+    "overallRating": 3.7,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.7,
     "courses": [
       "POLS 180",
       "POLS 225",
       "POLS 426",
       "POLS 245",
       "POLS 334"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "6dade80c-6bc5-48db-930d-bde47f7dd996",
@@ -17768,10 +17769,10 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 8,
-    "overallRating": 0.13,
-    "materialClear": 0.75,
-    "studentDifficulties": 0.88,
+    "numEvals": 9,
+    "overallRating": 0.12,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.78,
     "courses": [
       "HLTH 260",
       "HLTH 255"
@@ -24195,13 +24196,15 @@
     "department": "POLS",
     "firstName": "Kevin",
     "lastName": "Simmt",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 2.5,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
-    ]
+      "POLS 359",
+      "POLS 229"
+    ],
+    "tags": {}
   },
   {
     "id": "b99aecef-f989-489d-92ba-ca2c5bdbbe77",
