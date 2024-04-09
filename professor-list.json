@@ -11508,14 +11508,19 @@
     "department": "CE",
     "firstName": "Reza",
     "lastName": "Eslami",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 1.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "CE"
+      "CE 207",
+      "CE 208"
     ],
-    "tags": {}
+    "tags": {
+      "Hybrid Option": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "58e4c662-f3b8-437c-9b6b-7e8c90913104",
@@ -23546,10 +23551,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 57,
-    "overallRating": 2.84,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.7,
+    "numEvals": 58,
+    "overallRating": 2.86,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.72,
     "courses": [
       "ME 129",
       "ME 130",
@@ -23563,10 +23568,11 @@
     "tags": {
       "High In-Person Availability": 2,
       "Class Handouts": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Uploads Slides": 3,
       "Supplemental Study Material": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -32298,14 +32304,18 @@
     "department": "STAT",
     "firstName": "Trevor",
     "lastName": "Ruiz",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "STAT"
+      "STAT 425",
+      "STAT 218"
     ],
-    "tags": {}
+    "tags": {
+      "Does Not Use Canvas": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f9fece86-49a3-4617-8ce7-42d804028e7b",
