@@ -3876,17 +3876,21 @@
     "department": "ME",
     "firstName": "Charles",
     "lastName": "Birdsong",
-    "numEvals": 55,
-    "overallRating": 2.11,
-    "materialClear": 2.21,
-    "studentDifficulties": 1.81,
+    "numEvals": 56,
+    "overallRating": 2.07,
+    "materialClear": 2.17,
+    "studentDifficulties": 1.78,
     "courses": [
       "ME 212",
       "ME 236",
       "ME 326",
       "ME 422"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "1b015227-319b-4e60-a842-67648e0de8a7",
@@ -17776,17 +17780,19 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 9,
-    "overallRating": 0.12,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.78,
+    "numEvals": 11,
+    "overallRating": 0.19,
+    "materialClear": 0.64,
+    "studentDifficulties": 0.82,
     "courses": [
       "HLTH 260",
       "HLTH 255"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "Hybrid Option": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -19905,10 +19911,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 69,
-    "overallRating": 2.41,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.33,
+    "numEvals": 70,
+    "overallRating": 2.38,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.3,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -30928,9 +30934,9 @@
     "department": "ME",
     "firstName": "Kerry",
     "lastName": "Lane",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
       "ME 212",
