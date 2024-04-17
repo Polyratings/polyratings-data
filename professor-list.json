@@ -20990,18 +20990,19 @@
     "department": "HIST",
     "firstName": "Elizabeth",
     "lastName": "Sine",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3,
     "courses": [
       "HIST 202",
       "HIST 322"
     ],
     "tags": {
-      "Hybrid Option": 1,
-      "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Hybrid Option": 2,
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -30278,10 +30279,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 31,
-    "overallRating": 2.5,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.35,
+    "numEvals": 32,
+    "overallRating": 2.52,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.34,
     "courses": [
       "ENGL 134",
       "ENGL 149",
@@ -30291,9 +30292,10 @@
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Flexible Grading Policy": 1,
-      "Hybrid Option": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Hybrid Option": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
