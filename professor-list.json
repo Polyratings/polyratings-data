@@ -20164,10 +20164,10 @@
     "department": "CHEM",
     "firstName": "Gregory",
     "lastName": "Scott",
-    "numEvals": 54,
-    "overallRating": 3.4,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.36,
+    "numEvals": 55,
+    "overallRating": 3.41,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.37,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -20178,7 +20178,9 @@
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Does Not Use Canvas": 3
+      "Does Not Use Canvas": 4,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -26836,7 +26838,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 123,
+    "numEvals": 124,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
