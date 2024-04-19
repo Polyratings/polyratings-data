@@ -16517,13 +16517,17 @@
     "department": "CM",
     "firstName": "Enrique",
     "lastName": "Ivers",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CM 232"
-    ]
+      "CM 232",
+      "CM 314"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "7cb965d5-fe0a-4b69-bc8f-b60680ccb7d8",
