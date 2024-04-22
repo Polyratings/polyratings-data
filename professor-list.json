@@ -2826,24 +2826,25 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 13,
-    "overallRating": 3.84,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.93,
+    "numEvals": 14,
+    "overallRating": 3.78,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.94,
     "courses": [
       "CPE 101",
-      "CSC 357"
+      "CSC 357",
+      "CSC 101"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 6,
+      "Flexible Deadline Policy": 7,
       "Zoom Office Hours": 3,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Class Handouts": 1,
       "Flexible Grading Policy": 3,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -6585,10 +6586,10 @@
     "department": "ME",
     "firstName": "Thomas",
     "lastName": "Mackin",
-    "numEvals": 22,
-    "overallRating": 3,
-    "materialClear": 2.96,
-    "studentDifficulties": 3.44,
+    "numEvals": 23,
+    "overallRating": 3.04,
+    "materialClear": 2.92,
+    "studentDifficulties": 3.46,
     "courses": [
       "ME 211",
       "ME 212",
@@ -6598,7 +6599,8 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -7968,6 +7970,24 @@
     ]
   },
   {
+    "id": "3baf569f-fb62-4a2a-bc59-3222d95ccadb",
+    "department": "DSCI",
+    "firstName": "Katherine",
+    "lastName": "Swanson",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "DSCI"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1
+    }
+  },
+  {
     "id": "3bdb607e-286d-4bc7-a0b6-0c323bda89f3",
     "department": "IME",
     "firstName": "Kyle",
@@ -9277,25 +9297,27 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 16,
-    "overallRating": 0.93,
-    "materialClear": 0.95,
-    "studentDifficulties": 1.26,
+    "numEvals": 18,
+    "overallRating": 0.94,
+    "materialClear": 1.01,
+    "studentDifficulties": 1.29,
     "courses": [
       "MATE 210",
       "BRAE 348",
       "CHEM 127",
       "CHEM 110",
-      "CHEM 124"
+      "CHEM 124",
+      "BRAE 345"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 9,
+      "Inflexible Attendance Policy": 10,
       "Inflexible Deadline Policy": 5,
-      "Inflexible Grading Policy": 4,
-      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 5,
+      "No Breaks During Lecture": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -14187,6 +14209,24 @@
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
       "No Breaks During Lecture": 1
+    }
+  },
+  {
+    "id": "6a3cced4-e25c-4573-b805-ffbf91de6ec8",
+    "department": "ES",
+    "firstName": "Anne",
+    "lastName": "Jansen",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -20148,10 +20188,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 70,
-    "overallRating": 2.38,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.3,
+    "numEvals": 71,
+    "overallRating": 2.37,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.28,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -20163,10 +20203,11 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -24369,10 +24410,10 @@
     "department": "LS",
     "firstName": "Brian",
     "lastName": "Beaton",
-    "numEvals": 48,
-    "overallRating": 0.14,
-    "materialClear": 0.12,
-    "studentDifficulties": 0.12,
+    "numEvals": 49,
+    "overallRating": 0.22,
+    "materialClear": 0.2,
+    "studentDifficulties": 0.2,
     "courses": [
       "BUS 101",
       "DANC 101",
@@ -24416,7 +24457,10 @@
     ],
     "tags": {
       "Pop Quizzes": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Hybrid Option": 1,
+      "Flexible Grading Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -29332,18 +29376,20 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH 141"
+      "MATH 141",
+      "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -30344,7 +30390,7 @@
     "department": "CSC",
     "firstName": "Iris",
     "lastName": "Ho",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -31123,19 +31169,20 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
       "PHYS 121"
     ],
     "tags": {
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "High In-Person Availability": 1
     }
   },
   {
