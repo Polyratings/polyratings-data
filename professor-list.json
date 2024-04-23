@@ -10660,16 +10660,19 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 51,
-    "overallRating": 3.68,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.48,
+    "numEvals": 52,
+    "overallRating": 3.61,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.45,
     "courses": [
       "BUS 214",
       "BUS 215",
       "BUS 322",
       "AGB 214"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "508bc452-56fb-45b8-adc7-a068f36e054c",
