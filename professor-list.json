@@ -2791,19 +2791,20 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 3,
-    "overallRating": 1,
-    "materialClear": 1.67,
-    "studentDifficulties": 2,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.25,
     "courses": [
       "MATH 141",
       "MATH 119"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Class Handouts": 2,
+      "Flexible Attendance Policy": 2,
+      "Class Handouts": 3,
       "Inflexible Grading Policy": 2,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -4132,19 +4133,20 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 37,
-    "overallRating": 3.67,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.61,
+    "numEvals": 38,
+    "overallRating": 3.68,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.62,
     "courses": [
       "ART 112",
       "ART 212"
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Attendance Policy": 2,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -15768,10 +15770,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 104,
-    "overallRating": 2.7,
-    "materialClear": 2.82,
-    "studentDifficulties": 2.53,
+    "numEvals": 105,
+    "overallRating": 2.71,
+    "materialClear": 2.83,
+    "studentDifficulties": 2.54,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -15789,10 +15791,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Uploads Slides": 1,
-      "Recorded Lectures": 3,
-      "Fast Response Time": 2
+      "Recorded Lectures": 4,
+      "Fast Response Time": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -20163,9 +20166,9 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 100,
-    "overallRating": 3.46,
-    "materialClear": 3.49,
+    "numEvals": 101,
+    "overallRating": 3.47,
+    "materialClear": 3.5,
     "studentDifficulties": 3.52,
     "courses": [
       "CPE 101",
@@ -20181,9 +20184,10 @@
       "CPE 353"
     ],
     "tags": {
-      "Recorded Lectures": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Recorded Lectures": 2,
+      "Class Handouts": 2,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -21849,12 +21853,13 @@
     "department": "HLTH",
     "firstName": "Melissa",
     "lastName": "Cline",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "HLTH"
+      "HLTH 453",
+      "HLTH 260"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
