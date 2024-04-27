@@ -5571,15 +5571,17 @@
     "department": "ENGL",
     "firstName": "Brian",
     "lastName": "Bates",
-    "numEvals": 34,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.39,
-    "overallRating": 3.45,
+    "numEvals": 35,
+    "overallRating": 3.47,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.41,
     "courses": [
       "ENGL 134",
       "ENGL 145",
-      "ENGL 333"
-    ]
+      "ENGL 333",
+      "ENGL 231"
+    ],
+    "tags": {}
   },
   {
     "id": "29b50a10-669f-4322-889f-3d01796b7d6c",
@@ -13689,17 +13691,19 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 5,
-    "overallRating": 2.8,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.4,
+    "numEvals": 6,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
-      "CSC 101"
+      "CSC 101",
+      "CSC 202"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Deadline Policy": 2,
-      "Uploads Slides": 3
+      "Uploads Slides": 4,
+      "Fast Response Time": 1
     }
   },
   {
