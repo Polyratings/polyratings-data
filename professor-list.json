@@ -22663,19 +22663,21 @@
     "department": "ME",
     "firstName": "Eric",
     "lastName": "Ocegueda",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME 211"
+      "ME 211",
+      "ME 212"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 2,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 3,
       "Flexible Deadline Policy": 3,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
