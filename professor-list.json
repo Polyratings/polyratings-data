@@ -14992,10 +14992,10 @@
     "department": "PHYS",
     "firstName": "Katharina",
     "lastName": "Gillen",
-    "numEvals": 41,
-    "materialClear": 2.91,
-    "studentDifficulties": 3,
-    "overallRating": 2.81,
+    "numEvals": 42,
+    "overallRating": 2.79,
+    "materialClear": 2.86,
+    "studentDifficulties": 2.93,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -15004,8 +15004,10 @@
       "PHYS 141",
       "PHYS 211",
       "PHYS 315",
-      "PHYS 323"
-    ]
+      "PHYS 323",
+      "PHYS 142"
+    ],
+    "tags": {}
   },
   {
     "id": "7186d2aa-ae12-41e3-92ef-4ef1cffcefe8",
@@ -20381,10 +20383,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 36,
-    "overallRating": 3.18,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.11,
+    "numEvals": 37,
+    "overallRating": 3.2,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.13,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -20401,7 +20403,10 @@
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -21045,10 +21050,10 @@
     "department": "PHIL",
     "firstName": "Sam",
     "lastName": "Zahn",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.72,
     "courses": [
       "PHIL 230",
       "PHIL 126"
