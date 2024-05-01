@@ -8026,10 +8026,10 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Regan",
-    "numEvals": 59,
-    "overallRating": 2.43,
-    "materialClear": 2.42,
-    "studentDifficulties": 2.47,
+    "numEvals": 60,
+    "overallRating": 2.42,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.46,
     "courses": [
       "ENGL 134",
       "ENGL 148",
@@ -8039,7 +8039,10 @@
       "ENGL 147"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
