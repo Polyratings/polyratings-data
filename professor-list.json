@@ -30460,16 +30460,19 @@
     "department": "CHEM",
     "firstName": "Carson ",
     "lastName": "Hasselbrink",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 216",
+      "CHEM 312"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
