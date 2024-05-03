@@ -13449,17 +13449,22 @@
     "department": "BIO",
     "firstName": "Jason",
     "lastName": "Blank",
-    "numEvals": 24,
-    "overallRating": 2.25,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.21,
+    "numEvals": 25,
+    "overallRating": 2.32,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.28,
     "courses": [
       "BIO 161",
       "BIO 162",
       "BIO 361",
       "BIO 433",
       "BIO 409"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "65b7b938-d962-4373-9752-b826e61fe743",
