@@ -6835,12 +6835,13 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "AERO"
+      "AERO 121",
+      "AERO 220"
     ],
     "tags": {}
   },
@@ -9388,10 +9389,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 34,
-    "overallRating": 2.24,
-    "materialClear": 2.09,
-    "studentDifficulties": 2.28,
+    "numEvals": 35,
+    "overallRating": 2.18,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.21,
     "courses": [
       "IME 223",
       "IME 314",
