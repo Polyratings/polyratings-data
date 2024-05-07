@@ -729,6 +729,22 @@
     ]
   },
   {
+    "id": "05f1ec78-a596-4c98-820a-d9ed186fb9e1",
+    "department": "COMS",
+    "firstName": "Laura",
+    "lastName": "Hunkler",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1
+    }
+  },
+  {
     "id": "05f5070e-63cd-43f7-b0fd-3213c59fec71",
     "department": "IME",
     "firstName": "Karen",
@@ -5732,6 +5748,20 @@
       "BRAE 414",
       "BRAE 438"
     ]
+  },
+  {
+    "id": "2aecb78c-f899-4ef0-aad6-4977bea2e7a8",
+    "department": "ENGL",
+    "firstName": "Thomas",
+    "lastName": "Lugo",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {}
   },
   {
     "id": "2b07c9bf-6124-4351-b978-a1763d70ce55",
@@ -15988,9 +16018,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 121,
+    "numEvals": 122,
     "overallRating": 3.47,
-    "materialClear": 3.19,
+    "materialClear": 3.2,
     "studentDifficulties": 3.51,
     "courses": [
       "STAT 221",
@@ -16002,7 +16032,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -25250,10 +25283,10 @@
     "department": "CSC",
     "firstName": "Hasmik",
     "lastName": "Gharibyan",
-    "numEvals": 137,
-    "overallRating": 1.44,
-    "materialClear": 1.57,
-    "studentDifficulties": 1.38,
+    "numEvals": 138,
+    "overallRating": 1.46,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.4,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -25269,7 +25302,8 @@
     "tags": {
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -25934,10 +25968,10 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 14,
-    "overallRating": 2.36,
-    "materialClear": 2.15,
-    "studentDifficulties": 2.5,
+    "numEvals": 15,
+    "overallRating": 2.34,
+    "materialClear": 2.07,
+    "studentDifficulties": 2.4,
     "courses": [
       "PHYS 142"
     ],
@@ -27307,15 +27341,20 @@
     "department": "BUS",
     "firstName": "Taryn",
     "lastName": "Stanko",
-    "numEvals": 13,
-    "materialClear": 3.15,
-    "studentDifficulties": 2.69,
-    "overallRating": 3.15,
+    "numEvals": 14,
+    "overallRating": 3.21,
+    "materialClear": 3.21,
+    "studentDifficulties": 2.78,
     "courses": [
       "BUS 387",
       "BUS 389",
       "BUS 489"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d1b7991f-f258-4f0f-8595-3359550da130",
@@ -27472,6 +27511,24 @@
     "tags": {
       "High In-Person Availability": 1,
       "Class Handouts": 1
+    }
+  },
+  {
+    "id": "d299f3b0-23f8-4f8d-a1b9-513c3f345e12",
+    "department": "BUS",
+    "firstName": "Allison",
+    "lastName": "Ellis",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -33433,6 +33490,24 @@
       "SS 431",
       "SS 433"
     ]
+  },
+  {
+    "id": "fc16d26e-3120-4026-9f47-ede612f7f7cd",
+    "department": "CE",
+    "firstName": "Jonathan",
+    "lastName": "Howard",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "CE"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "fca72513-62f6-45ee-b0e0-8f2a88a6c781",
