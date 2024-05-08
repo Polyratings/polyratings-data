@@ -3937,10 +3937,10 @@
     "department": "ME",
     "firstName": "Charles",
     "lastName": "Birdsong",
-    "numEvals": 56,
-    "overallRating": 2.07,
-    "materialClear": 2.17,
-    "studentDifficulties": 1.78,
+    "numEvals": 57,
+    "overallRating": 2.03,
+    "materialClear": 2.13,
+    "studentDifficulties": 1.75,
     "courses": [
       "ME 212",
       "ME 236",
@@ -9436,10 +9436,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 35,
-    "overallRating": 2.18,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.21,
+    "numEvals": 36,
+    "overallRating": 2.12,
+    "materialClear": 1.97,
+    "studentDifficulties": 2.15,
     "courses": [
       "IME 223",
       "IME 314",
@@ -24584,12 +24584,13 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 2.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.75,
     "courses": [
-      "CSC 101"
+      "CSC 101",
+      "CSC 466"
     ],
     "tags": {
       "Uploads Slides": 1
