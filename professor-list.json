@@ -4196,6 +4196,22 @@
     ]
   },
   {
+    "id": "1ca3e866-2140-4db6-a87b-19b7945f5f3d",
+    "department": "BMED",
+    "firstName": "David",
+    "lastName": "Laiho",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BMED"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "1ccf244e-5a16-4327-a4e1-2ec6f8d5e425",
     "department": "ART",
     "firstName": "Jean",
@@ -6865,13 +6881,14 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 2,
     "courses": [
       "AERO 121",
-      "AERO 220"
+      "AERO 220",
+      "AERO 300"
     ],
     "tags": {}
   },
@@ -9896,10 +9913,10 @@
     "department": "ENGL",
     "firstName": "Rebekah",
     "lastName": "Maples",
-    "numEvals": 24,
-    "overallRating": 3.85,
+    "numEvals": 25,
+    "overallRating": 3.82,
     "materialClear": 3.91,
-    "studentDifficulties": 3.85,
+    "studentDifficulties": 3.86,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -9908,8 +9925,9 @@
     "tags": {
       "Fast Response Time": 2,
       "Honor DRC Accommodations": 1,
-      "Recorded Lectures": 1,
-      "Flexible Grading Policy": 1
+      "Recorded Lectures": 2,
+      "Flexible Grading Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -21033,16 +21051,20 @@
     "department": "BIO",
     "firstName": "Elena",
     "lastName": "Keeling",
-    "numEvals": 69,
-    "overallRating": 2.49,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.42,
+    "numEvals": 70,
+    "overallRating": 2.51,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.43,
     "courses": [
       "BIO 161",
       "BIO 351",
       "BIO 452"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "9cd9758e-ed10-4da1-838f-74ca603fc4a3",
@@ -21774,9 +21796,9 @@
     "department": "MATH",
     "firstName": "Stathis",
     "lastName": "Charalampidis",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.4,
     "studentDifficulties": 4,
     "courses": [
       "MATH 241",
@@ -21786,7 +21808,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -27341,10 +27365,10 @@
     "department": "BUS",
     "firstName": "Taryn",
     "lastName": "Stanko",
-    "numEvals": 14,
-    "overallRating": 3.21,
-    "materialClear": 3.21,
-    "studentDifficulties": 2.78,
+    "numEvals": 15,
+    "overallRating": 3.26,
+    "materialClear": 3.2,
+    "studentDifficulties": 2.79,
     "courses": [
       "BUS 387",
       "BUS 389",
@@ -27353,7 +27377,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -31123,10 +31148,10 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.4,
     "courses": [
       "ME 211",
       "ME 347",
@@ -31134,9 +31159,10 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
