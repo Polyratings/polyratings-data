@@ -6277,17 +6277,19 @@
     "department": "ME",
     "firstName": "Carter",
     "lastName": "Foy",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
+      "ME 420"
     ],
     "tags": {
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
