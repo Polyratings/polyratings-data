@@ -19760,10 +19760,10 @@
     "department": "CHEM",
     "firstName": "Sandra",
     "lastName": "Ward",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 3,
+    "studentDifficulties": 2.75,
     "courses": [
       "CHEM 216",
       "CHEM 128",
@@ -22284,10 +22284,10 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 53,
-    "overallRating": 3.16,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.08,
+    "numEvals": 54,
+    "overallRating": 3.18,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.1,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -29283,17 +29283,20 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 56,
-    "overallRating": 2.47,
-    "materialClear": 2.45,
-    "studentDifficulties": 2.45,
+    "numEvals": 57,
+    "overallRating": 2.43,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.42,
     "courses": [
       "BUS 301",
       "BUS 342",
       "BUS 349",
       "BUS 433",
       "BUS 439"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1
+    }
   },
   {
     "id": "dece2417-b5a2-406b-8088-43f1547763ee",
