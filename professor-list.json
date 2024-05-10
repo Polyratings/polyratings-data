@@ -21736,15 +21736,19 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 23,
-    "overallRating": 3.72,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.65,
+    "numEvals": 24,
+    "overallRating": 3.73,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.66,
     "courses": [
       "BUS 207",
       "BUS 404"
     ],
-    "tags": {}
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a23fb88f-8db4-4196-a9df-7fb1a8837a78",
