@@ -6401,7 +6401,7 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 144,
+    "numEvals": 145,
     "overallRating": 3.58,
     "materialClear": 3.64,
     "studentDifficulties": 3.46,
@@ -6421,7 +6421,7 @@
       "MATH 482"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
       "Does Not Use Canvas": 1,
@@ -22286,23 +22286,23 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 9,
-    "overallRating": 3.33,
-    "materialClear": 3,
-    "studentDifficulties": 3.44,
+    "numEvals": 10,
+    "overallRating": 3.4,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.5,
     "courses": [
       "CSC 101",
       "CSC 203"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -22818,7 +22818,7 @@
     "department": "FSN",
     "firstName": "Marisa",
     "lastName": "Bolivar",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -25584,21 +25584,21 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 9,
-    "overallRating": 3.88,
-    "materialClear": 3.88,
-    "studentDifficulties": 3.67,
+    "numEvals": 10,
+    "overallRating": 3.89,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.7,
     "courses": [
       "BIO 111",
       "BIO 150"
     ],
     "tags": {
-      "Recorded Lectures": 6,
+      "Recorded Lectures": 7,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 4,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "No Breaks During Lecture": 1
     }
   },
@@ -27007,13 +27007,14 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.33,
     "materialClear": 3,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.67,
     "courses": [
       "MATH 143",
-      "MATH 244"
+      "MATH 244",
+      "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -30406,17 +30407,19 @@
     "department": "CHEM",
     "firstName": "Leanna",
     "lastName": "Schulte",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 127"
     ],
     "tags": {
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
