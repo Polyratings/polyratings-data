@@ -10939,10 +10939,10 @@
     "department": "ARCH",
     "firstName": "Bryan",
     "lastName": "Shields",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "ARCH 131"
     ],
@@ -10950,8 +10950,8 @@
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2,
-      "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1
+      "High In-Person Availability": 2,
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -26152,10 +26152,10 @@
     "department": "PHYS",
     "firstName": "William",
     "lastName": "Horst",
-    "numEvals": 172,
-    "overallRating": 2.06,
+    "numEvals": 173,
+    "overallRating": 2.07,
     "materialClear": 2.33,
-    "studentDifficulties": 1.95,
+    "studentDifficulties": 1.96,
     "courses": [
       "PHYS 111",
       "MATH 118",
@@ -26176,7 +26176,9 @@
       "Fast Response Time": 1,
       "Does Not Use Canvas": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -28726,10 +28728,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 61,
-    "overallRating": 3.24,
+    "numEvals": 62,
+    "overallRating": 3.25,
     "materialClear": 2.95,
-    "studentDifficulties": 3.26,
+    "studentDifficulties": 3.27,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -28741,12 +28743,14 @@
       "MATH 182"
     ],
     "tags": {
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 2,
       "Recorded Lectures": 1,
       "Uploads Slides": 2,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
