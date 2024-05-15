@@ -3080,9 +3080,9 @@
     "department": "ENGL",
     "firstName": "Regulus",
     "lastName": "Allen",
-    "numEvals": 49,
-    "overallRating": 1.87,
-    "materialClear": 2.31,
+    "numEvals": 50,
+    "overallRating": 1.89,
+    "materialClear": 2.34,
     "studentDifficulties": 1.78,
     "courses": [
       "ENGL 205",
@@ -3095,7 +3095,8 @@
       "PSC 395",
       "ENGL 439",
       "ENGL 512"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "150fb413-06db-4f26-8aae-b352818a3363",
@@ -4081,13 +4082,14 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Sarraf",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 317",
-      "ENGL 221"
+      "ENGL 221",
+      "ENGL 421"
     ],
     "tags": {}
   },
@@ -13355,10 +13357,10 @@
     "department": "BIO",
     "firstName": "Sandi",
     "lastName": "Clement",
-    "numEvals": 33,
+    "numEvals": 34,
     "overallRating": 3,
-    "materialClear": 2.85,
-    "studentDifficulties": 3.19,
+    "materialClear": 2.88,
+    "studentDifficulties": 3.21,
     "courses": [
       "BIO 161",
       "BIO 302",
