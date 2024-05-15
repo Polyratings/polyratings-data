@@ -7304,10 +7304,10 @@
     "department": "CPE",
     "firstName": "Joseph",
     "lastName": "Callenes-Sloan",
-    "numEvals": 4,
-    "overallRating": 2.25,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.25,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 3,
     "courses": [
       "CPE 333",
       "CPE 133"
@@ -13560,6 +13560,22 @@
     ]
   },
   {
+    "id": "65ce4bb0-ea3a-49a1-a254-b407e1017a37",
+    "department": "EDES",
+    "firstName": "Ellen",
+    "lastName": "Burke",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "EDES"
+    ],
+    "tags": {
+      "Recorded Lectures": 1
+    }
+  },
+  {
     "id": "65d43284-0c7f-43d3-adb0-5c7d3cf604c1",
     "department": "SOC",
     "firstName": "Stacey",
@@ -14306,12 +14322,12 @@
     "department": "ES",
     "firstName": "Anne",
     "lastName": "Jansen",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ES"
+      "ES 145"
     ],
     "tags": {
       "High In-Person Availability": 1,
