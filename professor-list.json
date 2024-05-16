@@ -4478,9 +4478,9 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 155,
-    "overallRating": 3.15,
-    "materialClear": 3.11,
+    "numEvals": 156,
+    "overallRating": 3.16,
+    "materialClear": 3.12,
     "studentDifficulties": 3.25,
     "courses": [
       "BUS 102",
@@ -4493,7 +4493,10 @@
       "BUS 387",
       "BUS 433"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "1f5fcf9c-26dd-4df7-851c-676208cf59f3",
@@ -6488,10 +6491,10 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 4,
-    "overallRating": 1.5,
-    "materialClear": 1.25,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 1.6,
+    "studentDifficulties": 0.8,
     "courses": [
       "BUS 391",
       "BUS 392"
@@ -14389,10 +14392,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 129,
-    "overallRating": 1.83,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.66,
+    "numEvals": 130,
+    "overallRating": 1.82,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.65,
     "courses": [
       "CE 204",
       "CE 211",
@@ -15940,10 +15943,10 @@
     "department": "CE",
     "firstName": "Mario",
     "lastName": "Esola",
-    "numEvals": 17,
-    "overallRating": 2.77,
-    "materialClear": 2.77,
-    "studentDifficulties": 3.06,
+    "numEvals": 19,
+    "overallRating": 2.53,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.95,
     "courses": [
       "ARCE 211",
       "ARCE 226",
@@ -29333,10 +29336,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 57,
-    "overallRating": 2.43,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.42,
+    "numEvals": 58,
+    "overallRating": 2.39,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.38,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -29345,7 +29348,8 @@
       "BUS 439"
     ],
     "tags": {
-      "Hybrid Option": 1
+      "Hybrid Option": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -31206,21 +31210,23 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.33,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.33,
     "courses": [
       "ME 211",
       "ME 347",
-      "ME 420"
+      "ME 420",
+      "ME 341"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Inflexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2,
       "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
