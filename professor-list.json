@@ -19,17 +19,23 @@
     "department": "CSC",
     "firstName": "Chris",
     "lastName": "Clark",
-    "numEvals": 11,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.67,
-    "overallRating": 3.67,
+    "numEvals": 12,
+    "overallRating": 3.7,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.7,
     "courses": [
       "CPE 103",
       "CSC 103",
       "CPE 123",
       "CRP 430",
-      "CPE 481"
-    ]
+      "CPE 481",
+      "CRP 420"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "00933936-63a6-4486-8bfa-ac53f1794a72",
@@ -20901,10 +20907,10 @@
     "department": "CHEM",
     "firstName": "Tammy",
     "lastName": "Campbell",
-    "numEvals": 40,
-    "overallRating": 1.36,
-    "materialClear": 1.15,
-    "studentDifficulties": 1.61,
+    "numEvals": 41,
+    "overallRating": 1.35,
+    "materialClear": 1.12,
+    "studentDifficulties": 1.6,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -20913,7 +20919,11 @@
       "CHEM 371",
       "CHEM 128"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9b907391-d5b3-42bf-ab96-9e7616ecf4cd",
@@ -32369,17 +32379,17 @@
     "department": "CE",
     "firstName": "David",
     "lastName": "Houghton",
-    "numEvals": 8,
-    "overallRating": 3.34,
-    "materialClear": 2.9,
-    "studentDifficulties": 3.34,
+    "numEvals": 9,
+    "overallRating": 3.41,
+    "materialClear": 3.02,
+    "studentDifficulties": 3.41,
     "courses": [
       "CE 475",
       "CE 251"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
