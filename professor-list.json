@@ -2813,10 +2813,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 4,
-    "overallRating": 1.5,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.25,
+    "numEvals": 5,
+    "overallRating": 2,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.6,
     "courses": [
       "MATH 141",
       "MATH 119"
@@ -3710,17 +3710,20 @@
     "department": "CHEM",
     "firstName": "Joanna",
     "lastName": "Laird",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 1.67,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 2.25,
     "courses": [
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 110"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -3942,8 +3945,8 @@
   {
     "id": "1ae6e544-ad00-4067-bf48-4f1448432ee1",
     "department": "ME",
-    "firstName": "Charles",
-    "lastName": "Birdsong",
+    "firstName": "Birdsong",
+    "lastName": "Charlene",
     "numEvals": 57,
     "overallRating": 2.03,
     "materialClear": 2.13,
@@ -16675,10 +16678,10 @@
     "department": "PHIL",
     "firstName": "David",
     "lastName": "Zoller",
-    "numEvals": 12,
-    "overallRating": 3.17,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 13,
+    "overallRating": 3.23,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.08,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -26726,6 +26729,24 @@
     ]
   },
   {
+    "id": "cb97730b-31e3-4921-8f9b-9f9b842e44d7",
+    "department": "DATA",
+    "firstName": "Bernette",
+    "lastName": "Chan",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "DATA"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
+  },
+  {
     "id": "cba8e5d5-4ad4-4970-b5a1-052ba66cdccd",
     "department": "BUS",
     "firstName": "David",
@@ -31976,6 +31997,24 @@
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1
+    }
+  },
+  {
+    "id": "f2f61193-858a-4a13-9613-3d0c02196111",
+    "department": "LA",
+    "firstName": "Bret",
+    "lastName": "Betnar",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "LA"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
