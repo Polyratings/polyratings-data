@@ -24559,10 +24559,10 @@
     "department": "LS",
     "firstName": "Brian",
     "lastName": "Beaton",
-    "numEvals": 49,
+    "numEvals": 50,
     "overallRating": 0.22,
-    "materialClear": 0.2,
-    "studentDifficulties": 0.2,
+    "materialClear": 0.22,
+    "studentDifficulties": 0.24,
     "courses": [
       "BUS 101",
       "DANC 101",
@@ -24602,14 +24602,16 @@
       "PHIL 555",
       "RELS 555",
       "GEOG 589",
-      "MATH 460"
+      "MATH 460",
+      "GSP 101"
     ],
     "tags": {
-      "Pop Quizzes": 1,
-      "Does Not Use Canvas": 1,
+      "Pop Quizzes": 2,
+      "Does Not Use Canvas": 2,
       "Hybrid Option": 1,
       "Flexible Grading Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
