@@ -6043,10 +6043,10 @@
     "department": "AGB",
     "firstName": "Neal",
     "lastName": "MacDougall",
-    "numEvals": 93,
-    "overallRating": 1.19,
-    "materialClear": 1.36,
-    "studentDifficulties": 1.19,
+    "numEvals": 94,
+    "overallRating": 1.18,
+    "materialClear": 1.35,
+    "studentDifficulties": 1.18,
     "courses": [
       "AGB 212",
       "AG 213",
@@ -6062,7 +6062,9 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -31223,10 +31225,10 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 10,
-    "overallRating": 1.21,
-    "materialClear": 1.1,
-    "studentDifficulties": 1.91,
+    "numEvals": 11,
+    "overallRating": 1.19,
+    "materialClear": 1,
+    "studentDifficulties": 1.92,
     "courses": [
       "CSC 248",
       "CSC 349"
@@ -31234,10 +31236,11 @@
     "tags": {
       "Flexible Attendance Policy": 4,
       "Uploads Slides": 5,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
