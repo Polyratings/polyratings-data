@@ -3990,10 +3990,10 @@
     "department": "CSC",
     "firstName": "Dekhtyar",
     "lastName": "Alexander",
-    "numEvals": 35,
-    "overallRating": 1.9,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.93,
+    "numEvals": 36,
+    "overallRating": 1.93,
+    "materialClear": 1.94,
+    "studentDifficulties": 1.99,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -4010,8 +4010,9 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 1
+      "Does Not Use Canvas": 2,
+      "No Breaks During Lecture": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -29560,10 +29561,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 42,
-    "overallRating": 3.82,
+    "numEvals": 43,
+    "overallRating": 3.75,
     "materialClear": 3.84,
-    "studentDifficulties": 3.82,
+    "studentDifficulties": 3.78,
     "courses": [
       "MATH 112",
       "MATH 141",
