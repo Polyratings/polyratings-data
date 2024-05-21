@@ -2849,24 +2849,25 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 14,
-    "overallRating": 3.78,
-    "materialClear": 3.28,
+    "numEvals": 16,
+    "overallRating": 3.8,
+    "materialClear": 3.37,
     "studentDifficulties": 3.94,
     "courses": [
       "CPE 101",
       "CSC 357",
-      "CSC 101"
+      "CSC 101",
+      "CSC 436"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 4,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 7,
+      "Flexible Deadline Policy": 8,
       "Zoom Office Hours": 3,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 3,
-      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 4,
+      "Supplemental Study Material": 2,
       "Flexible Attendance Policy": 2
     }
   },
@@ -8590,19 +8591,23 @@
     "department": "IME",
     "firstName": "Daniel",
     "lastName": "Franchi",
-    "numEvals": 9,
-    "overallRating": 3.56,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.64,
+    "numEvals": 10,
+    "overallRating": 3.6,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.68,
     "courses": [
       "IME 314",
       "IME 409",
-      "IME 315"
+      "IME 315",
+      "IME 301"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -14313,10 +14318,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 48,
-    "overallRating": 1.43,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.46,
+    "numEvals": 49,
+    "overallRating": 1.42,
+    "materialClear": 1.76,
+    "studentDifficulties": 1.47,
     "courses": [
       "MATH 116",
       "MATH 118",
