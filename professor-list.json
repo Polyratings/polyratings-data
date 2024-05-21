@@ -3339,6 +3339,24 @@
     ]
   },
   {
+    "id": "16ea9d43-1edf-476e-9a51-21ca48621342",
+    "department": "IME",
+    "firstName": "Puneet",
+    "lastName": "Agarwal",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "IME"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "16ead9c1-21af-44e5-b290-dc015a28895c",
     "department": "MATH",
     "firstName": "Rebecca",
@@ -15385,6 +15403,20 @@
     ]
   },
   {
+    "id": "734c32ce-d41c-4858-9db1-d14556d53f19",
+    "department": "LS",
+    "firstName": "Sarah",
+    "lastName": "Wells",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "LS"
+    ],
+    "tags": {}
+  },
+  {
     "id": "735d7129-cfd7-49f6-b664-a7ea6af0f6bb",
     "department": "ME",
     "firstName": "Joy",
@@ -16610,6 +16642,24 @@
       "PHYS 133",
       "PHYS 161"
     ]
+  },
+  {
+    "id": "7a641ab2-93a3-4f4c-a3d9-da9747a50c15",
+    "department": "PHIL",
+    "firstName": "Dean ",
+    "lastName": "Da Vee",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "PHIL"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "7a7213dd-3b37-46ce-a7eb-21bc32ca158f",
@@ -25993,6 +26043,23 @@
     ]
   },
   {
+    "id": "c4e82ec3-518b-4ad1-9c3b-0ab3a94aa1e6",
+    "department": "IME",
+    "firstName": "Duha",
+    "lastName": "Ali",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "IME"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "c4f8471f-c669-49a8-a594-5e3825c6203a",
     "department": "WGS",
     "firstName": "Anna",
@@ -27166,7 +27233,7 @@
     "department": "GER",
     "firstName": "Christian",
     "lastName": "Anderson",
-    "numEvals": 30,
+    "numEvals": 29,
     "overallRating": 3.49,
     "materialClear": 3.49,
     "studentDifficulties": 3.55,
@@ -27176,7 +27243,6 @@
       "GER 103",
       "GER 202",
       "GER 203",
-      "CRP 335",
       "GER 350"
     ],
     "tags": {
