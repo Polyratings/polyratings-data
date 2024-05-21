@@ -6021,23 +6021,26 @@
     "department": "PHIL",
     "firstName": "Ryan",
     "lastName": "Jenkins",
-    "numEvals": 31,
-    "overallRating": 3.72,
-    "materialClear": 3.79,
+    "numEvals": 32,
+    "overallRating": 3.73,
+    "materialClear": 3.8,
     "studentDifficulties": 3.86,
     "courses": [
       "PHIL 126",
       "PHIL 231",
       "PHIL 322",
       "PHIL 323",
-      "PHIL 342"
+      "PHIL 342",
+      "PHIL 101"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 1,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -6090,14 +6093,19 @@
     "department": "LS",
     "firstName": "Carol",
     "lastName": "Littlefield-Halfman",
-    "numEvals": 7,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.63,
-    "overallRating": 2.5,
+    "numEvals": 8,
+    "overallRating": 2.56,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.55,
     "courses": [
       "LS 230",
       "LS 250"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "2ce31b5d-c4ff-45cb-bc2e-b56063a4d05d",
@@ -9591,10 +9599,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 32,
-    "overallRating": 2.69,
-    "materialClear": 2.51,
-    "studentDifficulties": 2.83,
+    "numEvals": 33,
+    "overallRating": 2.73,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.87,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -11163,10 +11171,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 8,
-    "overallRating": 2.88,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.12,
+    "numEvals": 9,
+    "overallRating": 2.67,
+    "materialClear": 3,
+    "studentDifficulties": 2.77,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -11177,9 +11185,10 @@
       "No Breaks During Lecture": 4,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
-      "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 3,
-      "Supplemental Study Material": 1
+      "Inflexible Grading Policy": 3,
+      "Does Not Use Canvas": 4,
+      "Supplemental Study Material": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -23279,10 +23288,10 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 155,
+    "numEvals": 156,
     "overallRating": 2.73,
     "materialClear": 2.87,
-    "studentDifficulties": 2.68,
+    "studentDifficulties": 2.66,
     "courses": [
       "ENGL 101",
       "ENGL 148",
@@ -23787,9 +23796,9 @@
     "department": "ES",
     "firstName": "Lydia ",
     "lastName": "Heberling",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 3.75,
+    "materialClear": 3.8,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
