@@ -12877,10 +12877,10 @@
     "department": "ME",
     "firstName": "John",
     "lastName": "Chen",
-    "numEvals": 42,
-    "overallRating": 3.56,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.48,
+    "numEvals": 43,
+    "overallRating": 3.5,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.45,
     "courses": [
       "ME 211",
       "ME 212",
@@ -12891,7 +12891,9 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -22593,17 +22595,18 @@
     "department": "ME",
     "firstName": "Jennifer",
     "lastName": "Mott",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
+    "numEvals": 2,
+    "overallRating": 1,
+    "materialClear": 1.5,
     "studentDifficulties": 2,
     "courses": [
-      "ME"
+      "ME 303"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -27302,10 +27305,10 @@
     "department": "ENGL",
     "firstName": "Sadie",
     "lastName": "Johann",
-    "numEvals": 36,
-    "overallRating": 3.41,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.59,
+    "numEvals": 37,
+    "overallRating": 3.43,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.6,
     "courses": [
       "ENGL 133",
       "ENGL 134",
@@ -27315,7 +27318,10 @@
       "HNRS 149",
       "ENGL 147"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "cf8a7def-9502-45e7-8ee7-40f85c4da2a8",
