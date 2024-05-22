@@ -1512,12 +1512,13 @@
     "department": "AEPS",
     "firstName": "Tiffany",
     "lastName": "Faulstich",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AEPS"
+      "AEPS 127",
+      "AEPS 381"
     ],
     "tags": {
       "Class Handouts": 1,
@@ -20412,16 +20413,20 @@
     "department": "BRAE",
     "firstName": "Gregory",
     "lastName": "Schwartz",
-    "numEvals": 10,
-    "materialClear": 3.9,
-    "studentDifficulties": 3.4,
-    "overallRating": 3.8,
+    "numEvals": 11,
+    "overallRating": 3.82,
+    "materialClear": 3.91,
+    "studentDifficulties": 3.36,
     "courses": [
       "BRAE 128",
       "BRAE 203",
       "BRAE 320",
       "BRAE 348"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "96af7726-d2ab-40c8-897f-51bdda6f5ece",
@@ -33826,17 +33831,19 @@
     "department": "SS",
     "firstName": "Christopher",
     "lastName": "Appel",
-    "numEvals": 55,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.54,
-    "overallRating": 3.56,
+    "numEvals": 56,
+    "overallRating": 3.57,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.51,
     "courses": [
       "SS 110",
       "SS 121",
       "SS 131",
       "SS 221",
-      "ES 363"
-    ]
+      "ES 363",
+      "NR 140"
+    ],
+    "tags": {}
   },
   {
     "id": "fd4ddaf5-0de5-4dd0-a992-b1969ef4a7aa",
