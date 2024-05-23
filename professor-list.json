@@ -6716,10 +6716,10 @@
     "department": "ME",
     "firstName": "Thomas",
     "lastName": "Mackin",
-    "numEvals": 23,
-    "overallRating": 3.04,
-    "materialClear": 2.92,
-    "studentDifficulties": 3.46,
+    "numEvals": 24,
+    "overallRating": 3,
+    "materialClear": 2.88,
+    "studentDifficulties": 3.44,
     "courses": [
       "ME 211",
       "ME 212",
@@ -27219,10 +27219,10 @@
     "department": "ME",
     "firstName": "Hans",
     "lastName": "Mayer",
-    "numEvals": 55,
-    "overallRating": 2.76,
-    "materialClear": 3.05,
-    "studentDifficulties": 2.66,
+    "numEvals": 56,
+    "overallRating": 2.78,
+    "materialClear": 3.07,
+    "studentDifficulties": 2.68,
     "courses": [
       "ME 236",
       "AERO 301",
@@ -27235,8 +27235,9 @@
       "BMED 435"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Pop Quizzes": 1
+      "Fast Response Time": 2,
+      "Pop Quizzes": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
