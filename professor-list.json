@@ -14139,10 +14139,10 @@
     "department": "IME",
     "firstName": "Jeff",
     "lastName": "Zimmerman",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
       "IME 145",
       "IME 144"
@@ -22835,7 +22835,7 @@
     "department": "ME",
     "firstName": "Cooper",
     "lastName": "Minehart",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -25590,10 +25590,10 @@
     "department": "PHIL",
     "firstName": "Jeremy",
     "lastName": "Dickinson",
-    "numEvals": 30,
-    "overallRating": 2.88,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.81,
+    "numEvals": 31,
+    "overallRating": 2.79,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.82,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -25605,7 +25605,10 @@
       "Class Handouts": 1,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
