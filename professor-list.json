@@ -756,15 +756,17 @@
     "department": "COMS",
     "firstName": "Laura",
     "lastName": "Hunkler",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
     "tags": {
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -9664,10 +9666,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 33,
-    "overallRating": 2.73,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.87,
+    "numEvals": 34,
+    "overallRating": 2.77,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.9,
     "courses": [
       "CPE 225",
       "CSC 225",
