@@ -24812,16 +24812,19 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 5,
-    "overallRating": 2,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.6,
+    "numEvals": 6,
+    "overallRating": 2.33,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.83,
     "courses": [
       "CSC 101",
       "CSC 466"
     ],
     "tags": {
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -31430,10 +31433,10 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 11,
-    "overallRating": 1.19,
-    "materialClear": 1,
-    "studentDifficulties": 1.92,
+    "numEvals": 12,
+    "overallRating": 1.42,
+    "materialClear": 1.25,
+    "studentDifficulties": 2.09,
     "courses": [
       "CSC 248",
       "CSC 349"
@@ -31442,10 +31445,11 @@
       "Flexible Attendance Policy": 4,
       "Uploads Slides": 5,
       "No Breaks During Lecture": 3,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Flexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Recorded Lectures": 1
     }
   },
   {
