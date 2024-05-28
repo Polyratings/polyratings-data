@@ -6963,10 +6963,10 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 2.33,
-    "studentDifficulties": 2,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 2,
+    "studentDifficulties": 1.75,
     "courses": [
       "AERO 121",
       "AERO 220",
@@ -18746,17 +18746,18 @@
     "department": "COMS",
     "firstName": "Carmen",
     "lastName": "Navarro",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
