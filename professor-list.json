@@ -7628,18 +7628,21 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 3,
-    "overallRating": 1,
+    "numEvals": 4,
+    "overallRating": 0.75,
     "materialClear": 0,
-    "studentDifficulties": 2,
+    "studentDifficulties": 1.5,
     "courses": [
       "CHEM 129",
-      "CHEM 128"
+      "CHEM 128",
+      "CHEM 125"
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Zoom Office Hours": 1,
-      "Honor DRC Accommodations": 1
+      "Zoom Office Hours": 2,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
