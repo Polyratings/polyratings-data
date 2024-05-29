@@ -2443,10 +2443,10 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 173,
-    "overallRating": 3.57,
+    "numEvals": 174,
+    "overallRating": 3.56,
     "materialClear": 3.64,
-    "studentDifficulties": 3.38,
+    "studentDifficulties": 3.37,
     "courses": [
       "BUS 202",
       "BUS 207",
@@ -4646,14 +4646,16 @@
     "department": "ECON",
     "firstName": "Javier",
     "lastName": "Medina",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ECON"
+      "ECON 222"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "2084d3d1-38dd-48ec-8130-2488aef74b78",
@@ -7446,16 +7448,19 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 8,
-    "overallRating": 1.62,
-    "materialClear": 1.25,
-    "studentDifficulties": 2.13,
+    "numEvals": 9,
+    "overallRating": 1.88,
+    "materialClear": 1.44,
+    "studentDifficulties": 2.34,
     "courses": [
       "STAT 217",
-      "STAT 312"
+      "STAT 312",
+      "STAT 251"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Recorded Lectures": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -9804,10 +9809,10 @@
     "department": "ENGL",
     "firstName": "Nicole",
     "lastName": "Jacobs",
-    "numEvals": 17,
-    "overallRating": 2.53,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.3,
+    "numEvals": 18,
+    "overallRating": 2.61,
+    "materialClear": 2.74,
+    "studentDifficulties": 2.34,
     "courses": [
       "WGS 201",
       "ENGL 230",
@@ -32014,10 +32019,10 @@
     "department": "CHIN",
     "firstName": "Sophia",
     "lastName": "Chen",
-    "numEvals": 11,
-    "overallRating": 2.93,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.5,
+    "numEvals": 12,
+    "overallRating": 3.02,
+    "materialClear": 2.86,
+    "studentDifficulties": 2.54,
     "courses": [
       "CE 101",
       "FORL 101",
@@ -32026,9 +32031,10 @@
       "CHIN 103"
     ],
     "tags": {
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
