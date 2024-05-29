@@ -7448,19 +7448,20 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 9,
-    "overallRating": 1.88,
-    "materialClear": 1.44,
-    "studentDifficulties": 2.34,
+    "numEvals": 10,
+    "overallRating": 1.89,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.41,
     "courses": [
       "STAT 217",
       "STAT 312",
       "STAT 251"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Recorded Lectures": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -12426,10 +12427,10 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.85,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.85,
     "courses": [
       "SOC 355",
       "SOC 406",
@@ -12437,11 +12438,12 @@
       "ES 112"
     ],
     "tags": {
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Hybrid Option": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -16795,12 +16797,12 @@
     "department": "CRP",
     "firstName": "Beate",
     "lastName": "von Bischopinck",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CRP"
+      "CRP 216"
     ],
     "tags": {}
   },
@@ -23310,15 +23312,17 @@
     "department": "PHIL",
     "firstName": "Kevin",
     "lastName": "Houer",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 3,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "PHIL 231",
       "PHIL 126"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "ac61b440-bde7-4830-b20b-8ce2d302ea22",
@@ -23954,15 +23958,15 @@
     "department": "ES",
     "firstName": "Lydia ",
     "lastName": "Heberling",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 3.8,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 1
     }
   },
@@ -24117,12 +24121,12 @@
     "department": "CRP",
     "firstName": "Dave",
     "lastName": "Amos",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CRP"
+      "CRP 212"
     ],
     "tags": {
       "Zoom Office Hours": 1,
