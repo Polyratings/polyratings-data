@@ -22522,10 +22522,10 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 10,
-    "overallRating": 3.4,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.5,
+    "numEvals": 11,
+    "overallRating": 3.45,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.55,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -22538,7 +22538,7 @@
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 3
     }
   },
   {
@@ -29606,6 +29606,24 @@
       "BIO 407",
       "BIO 434"
     ]
+  },
+  {
+    "id": "ddceb410-fe7d-434e-bcf1-d47b15d08b07",
+    "department": "IME",
+    "firstName": "Lizabeth",
+    "lastName": "Thompson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGR"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "ddec4bd1-a2c7-4757-9403-3b47052d5d6c",
