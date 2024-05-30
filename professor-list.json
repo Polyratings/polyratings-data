@@ -2734,10 +2734,10 @@
     "department": "ES",
     "firstName": "Elvira",
     "lastName": "Pulitano",
-    "numEvals": 35,
-    "overallRating": 2.17,
-    "materialClear": 2.42,
-    "studentDifficulties": 2.15,
+    "numEvals": 36,
+    "overallRating": 2.22,
+    "materialClear": 2.44,
+    "studentDifficulties": 2.2,
     "courses": [
       "ES 241",
       "ES 242",
@@ -8550,9 +8550,9 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 26,
-    "overallRating": 1.85,
-    "materialClear": 1.44,
+    "numEvals": 27,
+    "overallRating": 1.89,
+    "materialClear": 1.5,
     "studentDifficulties": 1.96,
     "courses": [
       "CHEM 124",
@@ -13385,18 +13385,19 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.74,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.77,
     "courses": [
       "MATH 141",
-      "MATH 142"
+      "MATH 142",
+      "MATH 143"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1
@@ -16234,10 +16235,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 58,
-    "overallRating": 3.44,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.44,
+    "numEvals": 59,
+    "overallRating": 3.45,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.45,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18155,10 +18156,10 @@
     "department": "CE",
     "firstName": "Daniel",
     "lastName": "See",
-    "numEvals": 11,
-    "overallRating": 2.73,
-    "materialClear": 2.91,
-    "studentDifficulties": 2.82,
+    "numEvals": 12,
+    "overallRating": 2.75,
+    "materialClear": 2.83,
+    "studentDifficulties": 2.92,
     "courses": [
       "CE 113",
       "CE 114",
@@ -21864,7 +21865,7 @@
     "department": "MATH",
     "firstName": "Anthony",
     "lastName": "Mendes",
-    "numEvals": 108,
+    "numEvals": 110,
     "overallRating": 3.8,
     "materialClear": 3.8,
     "studentDifficulties": 3.75,
@@ -21888,12 +21889,13 @@
       "MATH 202"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
-      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 5,
+      "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "High In-Person Availability": 3,
       "Fast Response Time": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -26073,10 +26075,10 @@
     "department": "CHEM",
     "firstName": "Erik",
     "lastName": "Sapper ",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.67,
     "courses": [
       "CHEM 124",
       "CHEM 127"
@@ -26301,10 +26303,10 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 15,
-    "overallRating": 2.34,
-    "materialClear": 2.07,
-    "studentDifficulties": 2.4,
+    "numEvals": 16,
+    "overallRating": 2.38,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.38,
     "courses": [
       "PHYS 142"
     ],
