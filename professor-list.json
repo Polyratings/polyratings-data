@@ -4200,19 +4200,19 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 38,
-    "overallRating": 3.68,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.62,
+    "numEvals": 39,
+    "overallRating": 3.69,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.63,
     "courses": [
       "ART 112",
       "ART 212"
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Uploads Slides": 3,
-      "Flexible Attendance Policy": 2,
-      "Class Handouts": 2,
+      "Uploads Slides": 4,
+      "Flexible Attendance Policy": 3,
+      "Class Handouts": 3,
       "Fast Response Time": 1
     }
   },
@@ -7908,16 +7908,17 @@
     "department": "ENGL",
     "firstName": "Ryan",
     "lastName": "Hatch",
-    "numEvals": 14,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.19,
-    "overallRating": 3.19,
+    "numEvals": 15,
+    "overallRating": 3.24,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.24,
     "courses": [
       "ENGL 202",
       "ENGL 253",
       "ENGL 349",
       "ENGL 352"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "3a7c2cf3-20c7-4c5f-a642-d4056c0af06e",
@@ -11652,10 +11653,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 35,
-    "overallRating": 3.44,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.44,
+    "numEvals": 36,
+    "overallRating": 3.4,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.43,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -21741,10 +21742,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 24,
-    "overallRating": 3.67,
+    "numEvals": 25,
+    "overallRating": 3.68,
     "materialClear": 3.88,
-    "studentDifficulties": 3.63,
+    "studentDifficulties": 3.6,
     "courses": [
       "BIO 102",
       "BIO 114",
@@ -23474,9 +23475,9 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 156,
+    "numEvals": 157,
     "overallRating": 2.73,
-    "materialClear": 2.87,
+    "materialClear": 2.86,
     "studentDifficulties": 2.66,
     "courses": [
       "ENGL 101",
@@ -25470,10 +25471,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 87,
-    "overallRating": 1.66,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.74,
+    "numEvals": 88,
+    "overallRating": 1.65,
+    "materialClear": 1.53,
+    "studentDifficulties": 1.73,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -25481,7 +25482,8 @@
       "CHEM 127",
       "CHEM 128",
       "CHEM 129"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "bf812db6-b2a9-459f-82e4-b7cc56b718d3",
@@ -31648,9 +31650,9 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 89,
-    "overallRating": 3.01,
-    "materialClear": 3.12,
+    "numEvals": 90,
+    "overallRating": 3.02,
+    "materialClear": 3.13,
     "studentDifficulties": 2.72,
     "courses": [
       "ENGL 250",
