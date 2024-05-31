@@ -8331,10 +8331,10 @@
     "department": "EE",
     "firstName": "John",
     "lastName": "Saghri",
-    "numEvals": 63,
-    "materialClear": 1.79,
-    "studentDifficulties": 1.49,
+    "numEvals": 64,
     "overallRating": 1.81,
+    "materialClear": 1.78,
+    "studentDifficulties": 1.53,
     "courses": [
       "EE 112",
       "CPE 129",
@@ -8354,7 +8354,11 @@
       "EE 328",
       "EE 342",
       "EE 424"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "3df57926-abfb-406e-a08d-47a1fccf6bfc",
@@ -21031,10 +21035,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 57,
-    "overallRating": 1.91,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.96,
+    "numEvals": 58,
+    "overallRating": 1.88,
+    "materialClear": 1.64,
+    "studentDifficulties": 1.93,
     "courses": [
       "EE 111",
       "EE 208",
@@ -21054,7 +21058,8 @@
     "tags": {
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
