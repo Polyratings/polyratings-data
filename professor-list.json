@@ -14760,9 +14760,9 @@
     "department": "AEPS",
     "firstName": "Lauren",
     "lastName": "Garner",
-    "numEvals": 20,
+    "numEvals": 21,
     "overallRating": 3,
-    "materialClear": 3,
+    "materialClear": 2.95,
     "studentDifficulties": 2.92,
     "courses": [
       "AG 101",
@@ -14777,11 +14777,14 @@
       "FRSC 342",
       "CRSC 410",
       "CRSC 470",
-      "AEPS 101"
+      "AEPS 101",
+      "AEPS 120"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
