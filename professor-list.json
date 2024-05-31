@@ -19349,9 +19349,9 @@
     "department": "COMS",
     "firstName": "Rebecca",
     "lastName": "Laidlaw",
-    "numEvals": 170,
+    "numEvals": 171,
     "overallRating": 2.87,
-    "materialClear": 2.97,
+    "materialClear": 2.98,
     "studentDifficulties": 2.72,
     "courses": [
       "CM 101",
@@ -19365,8 +19365,9 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 4,
-      "Inflexible Grading Policy": 3
+      "Inflexible Deadline Policy": 5,
+      "Inflexible Grading Policy": 4,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -21207,10 +21208,10 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 2.8,
-    "studentDifficulties": 3.6,
+    "numEvals": 8,
+    "overallRating": 2.13,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
       "STAT 252",
       "STAT 251"
@@ -32337,10 +32338,10 @@
     "department": "PHIL",
     "firstName": "Stephen",
     "lastName": "Lloyd-Moffett",
-    "numEvals": 48,
-    "overallRating": 3.42,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.27,
+    "numEvals": 49,
+    "overallRating": 3.39,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.22,
     "courses": [
       "RELS 201",
       "RELS 203",
@@ -32361,7 +32362,10 @@
     "tags": {
       "Recorded Lectures": 2,
       "Zoom Office Hours": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
