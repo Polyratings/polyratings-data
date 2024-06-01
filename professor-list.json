@@ -7638,10 +7638,10 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 4,
-    "overallRating": 0.75,
-    "materialClear": 0,
-    "studentDifficulties": 1.5,
+    "numEvals": 5,
+    "overallRating": 1,
+    "materialClear": 0.2,
+    "studentDifficulties": 1.8,
     "courses": [
       "CHEM 129",
       "CHEM 128",
@@ -8136,17 +8136,18 @@
     "department": "DSCI",
     "firstName": "Katherine",
     "lastName": "Swanson",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "DSCI"
+      "DSCI 230"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Pop Quizzes": 1,
-      "Supplemental Study Material": 1
+      "Flexible Attendance Policy": 2,
+      "Pop Quizzes": 2,
+      "Supplemental Study Material": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -9252,10 +9253,10 @@
     "department": "HIST",
     "firstName": "Roger",
     "lastName": "Hall",
-    "numEvals": 33,
-    "overallRating": 3.39,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.2,
+    "numEvals": 34,
+    "overallRating": 3.41,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.22,
     "courses": [
       "HIST 201",
       "HIST 202",
@@ -9263,8 +9264,10 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -9470,10 +9473,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 19,
-    "overallRating": 0.89,
-    "materialClear": 1.01,
-    "studentDifficulties": 1.27,
+    "numEvals": 20,
+    "overallRating": 0.9,
+    "materialClear": 0.96,
+    "studentDifficulties": 1.26,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9484,10 +9487,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 10,
+      "Inflexible Attendance Policy": 11,
       "Inflexible Deadline Policy": 6,
-      "Inflexible Grading Policy": 6,
-      "No Breaks During Lecture": 2,
+      "Inflexible Grading Policy": 7,
+      "No Breaks During Lecture": 3,
       "Supplemental Study Material": 1,
       "Uploads Slides": 1,
       "Honor DRC Accommodations": 1
@@ -13972,10 +13975,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 11,
-    "overallRating": 3.18,
-    "materialClear": 3.55,
-    "studentDifficulties": 2.26,
+    "numEvals": 13,
+    "overallRating": 3.23,
+    "materialClear": 3.62,
+    "studentDifficulties": 2.45,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -23993,15 +23996,15 @@
     "department": "ES",
     "firstName": "Lydia ",
     "lastName": "Heberling",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.83,
+    "materialClear": 3.85,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Uploads Slides": 1
     }
   },
@@ -26526,10 +26529,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 94,
-    "overallRating": 3.57,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.51,
+    "numEvals": 95,
+    "overallRating": 3.56,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.52,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -26542,7 +26545,9 @@
     "tags": {
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
