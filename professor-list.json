@@ -4059,17 +4059,19 @@
     "department": "COMS",
     "firstName": "Nancie",
     "lastName": "Hudson",
-    "numEvals": 3,
-    "overallRating": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.5,
     "courses": [
       "COMS 101"
     ],
     "tags": {
-      "Hybrid Option": 2,
+      "Hybrid Option": 3,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -4360,10 +4362,10 @@
     "department": "STAT",
     "firstName": "Jeffrey",
     "lastName": "Sklar",
-    "numEvals": 61,
-    "overallRating": 3.34,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.14,
+    "numEvals": 62,
+    "overallRating": 3.35,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.15,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -4374,7 +4376,9 @@
       "STAT 417"
     ],
     "tags": {
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "High In-Person Availability": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -10016,10 +10020,10 @@
     "department": "BUS",
     "firstName": "Jim",
     "lastName": "Kaney",
-    "numEvals": 64,
-    "overallRating": 3.18,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.06,
+    "numEvals": 65,
+    "overallRating": 3.19,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.07,
     "courses": [
       "BUS 212",
       "BUS 214",
@@ -10028,17 +10032,22 @@
       "BUS 321",
       "BUS 342",
       "BUS 440"
-    ]
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Pop Quizzes": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4a333a8f-2d00-45d8-9b26-75c04a9cded6",
     "department": "ENGL",
     "firstName": "Rebekah",
     "lastName": "Maples",
-    "numEvals": 25,
-    "overallRating": 3.82,
+    "numEvals": 26,
+    "overallRating": 3.83,
     "materialClear": 3.91,
-    "studentDifficulties": 3.86,
+    "studentDifficulties": 3.87,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -13936,10 +13945,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 126,
-    "overallRating": 1.18,
-    "materialClear": 1.03,
-    "studentDifficulties": 1.21,
+    "numEvals": 127,
+    "overallRating": 1.2,
+    "materialClear": 1.05,
+    "studentDifficulties": 1.22,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -13949,8 +13958,10 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -19385,16 +19396,20 @@
     "department": "BIO",
     "firstName": "Gita",
     "lastName": "Kolluru",
-    "numEvals": 41,
+    "numEvals": 42,
     "overallRating": 3.07,
-    "materialClear": 3.34,
+    "materialClear": 3.36,
     "studentDifficulties": 2.95,
     "courses": [
       "BIO 123",
       "BIO 263",
       "BIO 414"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "8efc8e78-0c5a-4c22-9f19-b3a57af5e813",
@@ -21220,10 +21235,10 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 8,
-    "overallRating": 2.13,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 9,
+    "overallRating": 2.23,
+    "materialClear": 2.11,
+    "studentDifficulties": 2.56,
     "courses": [
       "STAT 252",
       "STAT 251"
@@ -21967,18 +21982,19 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 24,
-    "overallRating": 3.73,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.66,
+    "numEvals": 25,
+    "overallRating": 3.74,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.67,
     "courses": [
       "BUS 207",
       "BUS 404"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -22187,10 +22203,10 @@
     "department": "HLTH",
     "firstName": "Melissa",
     "lastName": "Cline",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "HLTH 453",
       "HLTH 260"
@@ -31237,10 +31253,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 38,
-    "overallRating": 2.51,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.7,
+    "numEvals": 39,
+    "overallRating": 2.55,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.73,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -31249,9 +31265,9 @@
       "WGS 340"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Uploads Slides": 2,
-      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 3,
+      "Uploads Slides": 3,
+      "No Breaks During Lecture": 2,
       "Honor DRC Accommodations": 1
     }
   },
@@ -31463,18 +31479,20 @@
     "department": "BUS",
     "firstName": "Sisi",
     "lastName": "Pouraghabagher",
-    "numEvals": 56,
+    "numEvals": 57,
     "overallRating": 3.79,
     "materialClear": 3.81,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.68,
     "courses": [
       "BUS 214"
     ],
     "tags": {
       "Hybrid Option": 1,
       "Zoom Office Hours": 2,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Uploads Slides": 3,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
