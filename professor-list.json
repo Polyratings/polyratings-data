@@ -11271,10 +11271,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 9,
-    "overallRating": 2.67,
+    "numEvals": 10,
+    "overallRating": 2.8,
     "materialClear": 3,
-    "studentDifficulties": 2.77,
+    "studentDifficulties": 2.79,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -11286,9 +11286,10 @@
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
       "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 4,
-      "Supplemental Study Material": 1,
-      "Inflexible Deadline Policy": 1
+      "Does Not Use Canvas": 5,
+      "Supplemental Study Material": 2,
+      "Inflexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -12536,7 +12537,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12544,9 +12545,10 @@
       "COMS 101"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
