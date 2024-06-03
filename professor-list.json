@@ -4898,10 +4898,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 82,
-    "overallRating": 3.5,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.52,
+    "numEvals": 83,
+    "overallRating": 3.51,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.53,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -4912,9 +4912,10 @@
     ],
     "tags": {
       "Supplemental Study Material": 4,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Fast Response Time": 3,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -5630,9 +5631,9 @@
     "department": "ENGL",
     "firstName": "Isabell ",
     "lastName": "Garcia",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.67,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 2.5,
     "studentDifficulties": 3,
     "courses": [
       "ENGL 134"
@@ -5640,7 +5641,10 @@
     "tags": {
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
