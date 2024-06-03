@@ -5033,10 +5033,10 @@
     "department": "PHYS",
     "firstName": "Xiaofeng (Jack)",
     "lastName": "Wang",
-    "numEvals": 39,
-    "overallRating": 1.67,
-    "materialClear": 1.44,
-    "studentDifficulties": 1.74,
+    "numEvals": 40,
+    "overallRating": 1.68,
+    "materialClear": 1.45,
+    "studentDifficulties": 1.75,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -5046,10 +5046,10 @@
       "PHYS 141"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Fast Response Time": 2,
       "Inflexible Grading Policy": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1
     }
   },
@@ -7041,17 +7041,18 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.4,
+    "studentDifficulties": 3.2,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -15143,17 +15144,18 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 6,
-    "overallRating": 1.83,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.33,
+    "numEvals": 7,
+    "overallRating": 1.71,
+    "materialClear": 2.43,
+    "studentDifficulties": 1.43,
     "courses": [
       "HIST 222",
       "HIST 225",
       "HIST 306"
     ],
     "tags": {
-      "No Breaks During Lecture": 3
+      "No Breaks During Lecture": 4,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -18346,19 +18348,20 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 14,
-    "overallRating": 0.15,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.64,
+    "numEvals": 15,
+    "overallRating": 0.14,
+    "materialClear": 0.47,
+    "studentDifficulties": 0.6,
     "courses": [
       "HLTH 260",
       "HLTH 255"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 3,
       "Hybrid Option": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -20484,10 +20487,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 71,
-    "overallRating": 2.37,
-    "materialClear": 2.69,
-    "studentDifficulties": 2.28,
+    "numEvals": 72,
+    "overallRating": 2.36,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.25,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -20501,9 +20504,9 @@
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -21423,10 +21426,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 24,
+    "numEvals": 25,
     "overallRating": 2.93,
-    "materialClear": 2.93,
-    "studentDifficulties": 2.8,
+    "materialClear": 2.89,
+    "studentDifficulties": 2.81,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -21438,7 +21441,11 @@
       "MATH 143",
       "MATH 248"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "9db274ea-4daf-4542-b136-ffbea0b9ded5",
@@ -25694,10 +25701,10 @@
     "department": "ME",
     "firstName": "Stephen",
     "lastName": "Klisch",
-    "numEvals": 52,
-    "materialClear": 3.14,
-    "studentDifficulties": 2.79,
-    "overallRating": 2.98,
+    "numEvals": 53,
+    "overallRating": 3,
+    "materialClear": 3.16,
+    "studentDifficulties": 2.81,
     "courses": [
       "ME 211",
       "MCRO 212",
@@ -25707,7 +25714,12 @@
       "ME 402",
       "ME 501",
       "ME 503"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c0bb660c-556a-4936-8b04-05e13d29de54",
@@ -32740,17 +32752,18 @@
     "department": "ME",
     "firstName": "Dwight",
     "lastName": "Harvey",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 1.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "ME 129"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
