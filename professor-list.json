@@ -968,16 +968,21 @@
     "department": "LA",
     "firstName": "David",
     "lastName": "Watts",
-    "numEvals": 6,
-    "overallRating": 1.5,
-    "materialClear": 2,
-    "studentDifficulties": 1.83,
+    "numEvals": 7,
+    "overallRating": 1.57,
+    "materialClear": 1.86,
+    "studentDifficulties": 1.85,
     "courses": [
       "LA 202",
       "LA 211",
-      "LA 461"
+      "LA 461",
+      "LA 212"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "07032fdb-4be4-4107-b2aa-e219f91385df",
@@ -6114,7 +6119,7 @@
     "department": "AGB",
     "firstName": "Neal",
     "lastName": "MacDougall",
-    "numEvals": 94,
+    "numEvals": 95,
     "overallRating": 1.18,
     "materialClear": 1.35,
     "studentDifficulties": 1.18,
@@ -6133,7 +6138,7 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1
     }
@@ -9698,10 +9703,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 35,
-    "overallRating": 2.81,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.93,
+    "numEvals": 36,
+    "overallRating": 2.76,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.85,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -13123,21 +13128,22 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Seng",
-    "numEvals": 50,
-    "overallRating": 3.66,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.64,
+    "numEvals": 51,
+    "overallRating": 3.67,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.65,
     "courses": [
       "CPE 101",
       "CPE 123",
       "CPE 315",
       "CPE 316",
       "CPE 453",
-      "CPE 482"
+      "CPE 482",
+      "CPE 225"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Uploads Slides": 1
     }
   },
@@ -22590,8 +22596,8 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 55,
-    "overallRating": 3.12,
+    "numEvals": 56,
+    "overallRating": 3.14,
     "materialClear": 3.06,
     "studentDifficulties": 3.04,
     "courses": [
@@ -22609,7 +22615,8 @@
     "tags": {
       "Supplemental Study Material": 2,
       "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 3
+      "Does Not Use Canvas": 3,
+      "Uploads Slides": 1
     }
   },
   {
@@ -28582,10 +28589,10 @@
     "department": "CE",
     "firstName": "Amro",
     "lastName": "El Badawy",
-    "numEvals": 19,
-    "overallRating": 3.82,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.87,
+    "numEvals": 20,
+    "overallRating": 3.83,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.88,
     "courses": [
       "CE 251",
       "ENVE 323",
@@ -28598,8 +28605,9 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Flexible Attendance Policy": 2,
+      "Honor DRC Accommodations": 2,
+      "Class Handouts": 1
     }
   },
   {
