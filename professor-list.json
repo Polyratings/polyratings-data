@@ -6930,10 +6930,10 @@
     "department": "SOC",
     "firstName": "Liz",
     "lastName": "Johnston",
-    "numEvals": 42,
-    "materialClear": 2.05,
-    "studentDifficulties": 2.37,
-    "overallRating": 2.07,
+    "numEvals": 43,
+    "overallRating": 2.02,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.36,
     "courses": [
       "SOC 101",
       "SOC 110",
@@ -6941,8 +6941,10 @@
       "SOC 301",
       "SOC 306",
       "SOC 326",
-      "SOC 413"
-    ]
+      "SOC 413",
+      "SOC 323"
+    ],
+    "tags": {}
   },
   {
     "id": "316c4eac-bf24-409e-ae93-7e2bbc01a0a2",
