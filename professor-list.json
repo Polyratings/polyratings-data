@@ -10859,15 +10859,16 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 52,
-    "overallRating": 3.61,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.45,
+    "numEvals": 53,
+    "overallRating": 3.62,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.46,
     "courses": [
       "BUS 214",
       "BUS 215",
       "BUS 322",
-      "AGB 214"
+      "AGB 214",
+      "AGB 260"
     ],
     "tags": {
       "Class Handouts": 1
@@ -11166,9 +11167,9 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 51,
-    "overallRating": 2.29,
-    "materialClear": 2.27,
+    "numEvals": 52,
+    "overallRating": 2.3,
+    "materialClear": 2.28,
     "studentDifficulties": 2.23,
     "courses": [
       "CSC 141",
@@ -11180,9 +11181,9 @@
       "CSC 310"
     ],
     "tags": {
-      "Recorded Lectures": 1,
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Recorded Lectures": 2,
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 2
     }
   },
   {
@@ -18360,17 +18361,17 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 15,
-    "overallRating": 0.14,
-    "materialClear": 0.47,
-    "studentDifficulties": 0.6,
+    "numEvals": 16,
+    "overallRating": 0.13,
+    "materialClear": 0.44,
+    "studentDifficulties": 0.56,
     "courses": [
       "HLTH 260",
       "HLTH 255"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 4,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 5,
+      "Inflexible Grading Policy": 4,
       "Hybrid Option": 1,
       "Does Not Use Canvas": 1,
       "Zoom Office Hours": 1
@@ -18803,12 +18804,13 @@
     "department": "COMS",
     "firstName": "Carmen",
     "lastName": "Navarro",
-    "numEvals": 2,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS 101"
+      "COMS 101",
+      "COMS 217"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -19146,17 +19148,18 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
       "MATH 248",
       "MATH 143"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Class Handouts": 1
+      "Fast Response Time": 2,
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -20393,14 +20396,15 @@
     "department": "PHYS",
     "firstName": "Hilary",
     "lastName": "Jacks",
-    "numEvals": 12,
-    "overallRating": 1.33,
-    "materialClear": 1.66,
-    "studentDifficulties": 2.26,
+    "numEvals": 13,
+    "overallRating": 1.23,
+    "materialClear": 1.53,
+    "studentDifficulties": 2.09,
     "courses": [
       "PHYS 133",
       "PHYS 141",
-      "PHYS 206"
+      "PHYS 206",
+      "PHYS 122"
     ],
     "tags": {
       "Class Handouts": 2,
@@ -27697,7 +27701,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 126,
+    "numEvals": 127,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -27711,10 +27715,11 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1,
-      "Fast Response Time": 3,
+      "Uploads Slides": 2,
+      "Fast Response Time": 4,
       "Flexible Deadline Policy": 2,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -28326,18 +28331,19 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O\u2019Connor",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 3.67,
+    "studentDifficulties": 3,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Class Handouts": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -30340,10 +30346,10 @@
     "department": "COMS",
     "firstName": "Bethany",
     "lastName": "Conway",
-    "numEvals": 22,
-    "materialClear": 2.52,
-    "studentDifficulties": 1.96,
-    "overallRating": 2.22,
+    "numEvals": 23,
+    "overallRating": 2.17,
+    "materialClear": 2.54,
+    "studentDifficulties": 1.92,
     "courses": [
       "COMS 101",
       "REC 140",
@@ -30353,8 +30359,10 @@
       "COMS 312",
       "COMS 322",
       "COMS 386",
-      "COMS 419"
-    ]
+      "COMS 419",
+      "COMS 215"
+    ],
+    "tags": {}
   },
   {
     "id": "e2e6efc9-1a74-4214-a057-cc2fbf547cba",
@@ -30822,16 +30830,16 @@
     "department": "CM",
     "firstName": "Jacob",
     "lastName": "Clark",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CM"
+      "CM 280"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1
     }
   },
@@ -33760,7 +33768,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 212,
+    "numEvals": 213,
     "overallRating": 3.4,
     "materialClear": 3.42,
     "studentDifficulties": 3.32,
