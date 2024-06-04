@@ -10827,14 +10827,19 @@
     "department": "FSN",
     "firstName": "Samir",
     "lastName": "Amin",
-    "numEvals": 13,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.5,
-    "overallRating": 2.43,
+    "numEvals": 14,
+    "overallRating": 2.54,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.61,
     "courses": [
       "FSN 121",
       "FSN 321"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5010faa4-63e4-4642-afa6-1662d97f419c",
@@ -29730,10 +29735,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 60,
-    "overallRating": 2.31,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.3,
+    "numEvals": 61,
+    "overallRating": 2.27,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.26,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -29743,7 +29748,7 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -30848,20 +30853,20 @@
     "department": "CHEM",
     "firstName": "Leanna",
     "lastName": "Schulte",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 127"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1
     }
   },
@@ -34488,16 +34493,20 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 36,
+    "numEvals": 37,
     "overallRating": 1.94,
     "materialClear": 2.03,
-    "studentDifficulties": 1.79,
+    "studentDifficulties": 1.8,
     "courses": [
       "BIO 161",
       "BIO 221",
       "MCRO 221"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "ff9c4871-dacd-49a5-8cf2-65dd8b52d202",
