@@ -905,21 +905,24 @@
     "department": "ITAL",
     "firstName": "Teresiana",
     "lastName": "Matarrese",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.4,
     "courses": [
       "ITAL 101",
-      "WLC 310"
+      "WLC 310",
+      "ITAL 103"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -10521,12 +10524,13 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 394",
+      "BUS 393"
     ],
     "tags": {}
   },
@@ -11291,10 +11295,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 10,
-    "overallRating": 2.8,
-    "materialClear": 3,
-    "studentDifficulties": 2.79,
+    "numEvals": 12,
+    "overallRating": 2.5,
+    "materialClear": 2.83,
+    "studentDifficulties": 2.66,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -23528,14 +23532,18 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS",
       "COMS 101"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "adcd16d2-26d2-4561-8bd8-c998f24eb304",
@@ -26588,10 +26596,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 95,
+    "numEvals": 97,
     "overallRating": 3.56,
     "materialClear": 3.61,
-    "studentDifficulties": 3.52,
+    "studentDifficulties": 3.53,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -26599,14 +26607,16 @@
       "HIST 210",
       "HIST 221",
       "HIST 222",
-      "HIST 441"
+      "HIST 441",
+      "HIST 225"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
       "Uploads Slides": 2,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Flexible Attendance Policy": 3,
+      "Inflexible Grading Policy": 1,
+      "Hybrid Option": 2
     }
   },
   {
@@ -29742,10 +29752,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 62,
-    "overallRating": 2.23,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.22,
+    "numEvals": 64,
+    "overallRating": 2.16,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.15,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -31302,10 +31312,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 39,
-    "overallRating": 2.55,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.73,
+    "numEvals": 40,
+    "overallRating": 2.56,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.76,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -31315,9 +31325,11 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 2,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -31752,9 +31764,9 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 90,
+    "numEvals": 91,
     "overallRating": 3.02,
-    "materialClear": 3.13,
+    "materialClear": 3.14,
     "studentDifficulties": 2.72,
     "courses": [
       "ENGL 250",
@@ -31772,8 +31784,8 @@
       "ENGL 502"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Does Not Use Canvas": 1
+      "Fast Response Time": 2,
+      "Does Not Use Canvas": 2
     }
   },
   {
@@ -32316,8 +32328,8 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 128,
-    "overallRating": 1.72,
+    "numEvals": 130,
+    "overallRating": 1.7,
     "materialClear": 2,
     "studentDifficulties": 1.63,
     "courses": [
@@ -32342,7 +32354,10 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -32652,12 +32667,12 @@
     "department": "BUS",
     "firstName": "Bradford",
     "lastName": "Anderson",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "BUS"
+      "BUS 404"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -33528,16 +33543,17 @@
     "department": "ES",
     "firstName": "Jennifer ",
     "lastName": "Leal",
-    "numEvals": 2,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "ES 253"
     ],
     "tags": {
-      "Pop Quizzes": 1,
-      "Uploads Slides": 1
+      "Pop Quizzes": 2,
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -33730,12 +33746,12 @@
     "department": "MATH",
     "firstName": "Bella",
     "lastName": "Padavana",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 118"
     ],
     "tags": {}
   },
