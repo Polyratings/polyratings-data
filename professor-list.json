@@ -4903,10 +4903,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 83,
-    "overallRating": 3.51,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.53,
+    "numEvals": 84,
+    "overallRating": 3.52,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.54,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -4918,7 +4918,7 @@
     "tags": {
       "Supplemental Study Material": 4,
       "Uploads Slides": 5,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1
     }
@@ -11243,17 +11243,19 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Tan",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 118",
+      "MATH 221"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Flexible Deadline Policy": 2,
+      "Supplemental Study Material": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -12555,7 +12557,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12563,10 +12565,10 @@
       "COMS 101"
     ],
     "tags": {
-      "Fast Response Time": 2,
-      "Flexible Deadline Policy": 1,
+      "Fast Response Time": 3,
+      "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
