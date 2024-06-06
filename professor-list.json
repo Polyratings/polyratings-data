@@ -1026,7 +1026,7 @@
     "department": "CE",
     "firstName": "Preston",
     "lastName": "Jones",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -1035,8 +1035,10 @@
     ],
     "tags": {
       "Recorded Lectures": 2,
-      "Zoom Office Hours": 2,
-      "Fast Response Time": 2
+      "Zoom Office Hours": 3,
+      "Fast Response Time": 2,
+      "Hybrid Option": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -8527,7 +8529,7 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 262,
+    "numEvals": 263,
     "overallRating": 2.4,
     "materialClear": 2.14,
     "studentDifficulties": 2.52,
@@ -8548,7 +8550,10 @@
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 1,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -11394,7 +11399,7 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17983,10 +17988,10 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 69,
+    "numEvals": 70,
+    "overallRating": 3.15,
     "materialClear": 3.29,
-    "studentDifficulties": 3.25,
-    "overallRating": 3.17,
+    "studentDifficulties": 3.23,
     "courses": [
       "ME 134",
       "ME 231",
@@ -17995,7 +18000,10 @@
       "ME 303",
       "ME 347",
       "ME 450"
-    ]
+    ],
+    "tags": {
+      "Does Not Use Canvas": 2
+    }
   },
   {
     "id": "825d1b87-2840-41c5-bb1b-c4c7be0f1b7f",
@@ -29877,6 +29885,23 @@
     }
   },
   {
+    "id": "dde090a8-e405-4372-bf95-bb0392e9afb0",
+    "department": "POLS",
+    "firstName": "Craig",
+    "lastName": "Asberry",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
+    }
+  },
+  {
     "id": "ddec4bd1-a2c7-4757-9403-3b47052d5d6c",
     "department": "ME",
     "firstName": "Frank",
@@ -33057,16 +33082,16 @@
     "department": "PHIL",
     "firstName": "Ava",
     "lastName": "Wright",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "PHIL 323"
     ],
     "tags": {
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Fast Response Time": 2
     }
   },
@@ -34204,20 +34229,20 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 24,
+    "numEvals": 25,
     "overallRating": 0.89,
-    "materialClear": 1.13,
-    "studentDifficulties": 0.89,
+    "materialClear": 1.12,
+    "studentDifficulties": 0.85,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 11,
-      "Inflexible Deadline Policy": 6,
+      "Inflexible Grading Policy": 12,
+      "Inflexible Deadline Policy": 7,
       "Hybrid Option": 1,
       "Does Not Use Canvas": 1
     }
