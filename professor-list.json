@@ -721,14 +721,17 @@
     "department": "EE",
     "firstName": "Noel",
     "lastName": "Ellis",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 4,
+    "materialClear": 2.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "EE"
+      "EE 245",
+      "EE 113"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "05d770d6-bd25-4703-b1d5-bed534f83c2e",
@@ -3775,13 +3778,14 @@
     "department": "CHEM",
     "firstName": "Joanna",
     "lastName": "Laird",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.25,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 3,
+    "studentDifficulties": 2.2,
     "courses": [
       "CHEM 124",
-      "CHEM 110"
+      "CHEM 110",
+      "CHEM 128"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -11203,9 +11207,9 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 52,
-    "overallRating": 2.3,
-    "materialClear": 2.28,
+    "numEvals": 53,
+    "overallRating": 2.29,
+    "materialClear": 2.29,
     "studentDifficulties": 2.23,
     "courses": [
       "CSC 141",
@@ -11217,9 +11221,9 @@
       "CSC 310"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3
     }
   },
   {
@@ -11322,10 +11326,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 12,
-    "overallRating": 2.5,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.66,
+    "numEvals": 13,
+    "overallRating": 2.54,
+    "materialClear": 2.92,
+    "studentDifficulties": 2.69,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -11333,14 +11337,15 @@
       "MATH 141"
     ],
     "tags": {
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
       "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 5,
+      "Does Not Use Canvas": 6,
       "Supplemental Study Material": 2,
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -12513,10 +12518,10 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.87,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.87,
     "courses": [
       "SOC 355",
       "SOC 406",
@@ -12524,12 +12529,12 @@
       "ES 112"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Hybrid Option": 2,
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -15387,15 +15392,19 @@
     "department": "ART",
     "firstName": "Ava",
     "lastName": "Werner",
-    "numEvals": 17,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.61,
-    "overallRating": 3.72,
+    "numEvals": 18,
+    "overallRating": 3.74,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.63,
     "courses": [
       "ART 101",
       "ART 103",
       "ART 111"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "71ab84aa-a83d-4559-9881-47d2102f34b7",
@@ -16844,17 +16853,19 @@
     "department": "PHIL",
     "firstName": "Dean ",
     "lastName": "Da Vee",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2,
     "courses": [
-      "PHIL"
+      "PHIL 230",
+      "PHIL 126"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -23536,10 +23547,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 13,
-    "overallRating": 3.76,
-    "materialClear": 3.92,
-    "studentDifficulties": 3.68,
+    "numEvals": 14,
+    "overallRating": 3.78,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.7,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -24401,10 +24412,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 57,
-    "overallRating": 2.86,
-    "materialClear": 2.82,
-    "studentDifficulties": 2.72,
+    "numEvals": 58,
+    "overallRating": 2.88,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.74,
     "courses": [
       "ME 129",
       "ME 130",
@@ -24416,10 +24427,10 @@
       "ME 318"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Class Handouts": 1,
       "Fast Response Time": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Supplemental Study Material": 2,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 1
@@ -31095,12 +31106,13 @@
     "department": "MATE",
     "firstName": "Brian",
     "lastName": "Davis",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
-      "MATE 210"
+      "MATE 210",
+      "MATE 215"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -33693,10 +33705,10 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 64,
-    "overallRating": 3.32,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.17,
+    "numEvals": 65,
+    "overallRating": 3.33,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.18,
     "courses": [
       "BIO 112",
       "BIO 210",
@@ -33706,7 +33718,9 @@
       "SCM 325"
     ],
     "tags": {
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -33839,7 +33853,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 3.86,
     "materialClear": 3.86,
     "studentDifficulties": 3.85,
