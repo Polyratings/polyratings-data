@@ -3158,10 +3158,10 @@
     "department": "PHYS",
     "firstName": "Anthony",
     "lastName": "Buffa",
-    "numEvals": 49,
-    "overallRating": 2.61,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.55,
+    "numEvals": 50,
+    "overallRating": 2.56,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -3170,7 +3170,11 @@
       "PHYS 132",
       "PHYS 133"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "15212162-eb5c-494d-8a1f-b34eaab94bb2",
@@ -6056,10 +6060,10 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.85,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.85,
     "courses": [
       "MATH 142",
       "MATH 206",
@@ -6068,9 +6072,10 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Supplemental Study Material": 3,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -10416,17 +10421,20 @@
     "department": "MATH",
     "firstName": "Andrew",
     "lastName": "Hasse",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2,
+    "studentDifficulties": 2,
     "courses": [
-      "MATH"
+      "MATH 161",
+      "MATH 162"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -17346,15 +17354,18 @@
     "department": "MATH",
     "firstName": "Andrew",
     "lastName": "Haase",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 3.33,
     "courses": [
-      "MATH 161"
+      "MATH 161",
+      "MATH 118"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -24565,15 +24576,19 @@
     "department": "IME",
     "firstName": "Kevin",
     "lastName": "Williams",
-    "numEvals": 35,
-    "overallRating": 3.73,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.56,
+    "numEvals": 36,
+    "overallRating": 3.74,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.57,
     "courses": [
       "IME 141",
       "IME 142"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "b5985049-f58e-4a0d-8ac3-7bd6cfcb0ab8",
