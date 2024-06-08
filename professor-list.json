@@ -4932,10 +4932,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 84,
-    "overallRating": 3.52,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.54,
+    "numEvals": 85,
+    "overallRating": 3.53,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.55,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -12614,7 +12614,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 5,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12622,10 +12622,12 @@
       "COMS 101"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 6,
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 2,
+      "Zoom Office Hours": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -12806,8 +12808,8 @@
     "department": "STAT",
     "firstName": "Matt",
     "lastName": "Carlton",
-    "numEvals": 113,
-    "overallRating": 3.69,
+    "numEvals": 114,
+    "overallRating": 3.68,
     "materialClear": 3.75,
     "studentDifficulties": 3.64,
     "courses": [
@@ -12827,8 +12829,14 @@
       "STAT 425",
       "STAT 426",
       "STAT 427",
-      "STAT 305"
-    ]
+      "STAT 305",
+      "STAT 302"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "5ee9328b-7ce7-498b-95fa-bbef957b2529",
@@ -12924,7 +12932,7 @@
     "department": "ENGL",
     "firstName": "Raymond",
     "lastName": "Brennan",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -33699,20 +33707,20 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 3,
-    "materialClear": 3.14,
-    "studentDifficulties": 2.85,
+    "materialClear": 3,
+    "studentDifficulties": 2.74,
     "courses": [
       "MATH 244",
       "MATH 142"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2
     }
   },
   {
