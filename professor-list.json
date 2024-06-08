@@ -16239,12 +16239,13 @@
     "department": "CSC",
     "firstName": "Ken",
     "lastName": "Kubiak",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC 307"
+      "CSC 307",
+      "CSC 437"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
