@@ -4113,14 +4113,15 @@
     "department": "BIO",
     "firstName": "Robert",
     "lastName": "Schroeter",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 3.25,
+    "studentDifficulties": 3,
     "courses": [
       "BIO 161",
       "BIO 263",
-      "BIO 111"
+      "BIO 111",
+      "BIO 363"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -8331,9 +8332,9 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 54,
-    "overallRating": 2.41,
-    "materialClear": 2.45,
+    "numEvals": 55,
+    "overallRating": 2.38,
+    "materialClear": 2.46,
     "studentDifficulties": 2.24,
     "courses": [
       "PHYS 122",
@@ -8342,12 +8343,15 @@
       "PHYS 133",
       "PHYS 141",
       "PHYS 211",
-      "PHYS 341"
+      "PHYS 341",
+      "PHYS 143"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
