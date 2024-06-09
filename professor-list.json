@@ -947,10 +947,10 @@
     "department": "PHYS",
     "firstName": "Robert",
     "lastName": "Echols",
-    "numEvals": 84,
-    "materialClear": 3.09,
-    "studentDifficulties": 3.19,
-    "overallRating": 3.28,
+    "numEvals": 85,
+    "overallRating": 3.29,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.2,
     "courses": [
       "ASTR 101",
       "ASTR 102",
@@ -965,8 +965,12 @@
       "PHYS 133",
       "PHYS 141",
       "PHYS 408",
-      "PHYS 424"
-    ]
+      "PHYS 424",
+      "PHYS 142"
+    ],
+    "tags": {
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "06d8bdfb-9348-43d5-b18e-e2b9233e187d",
@@ -9538,10 +9542,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 20,
-    "overallRating": 0.9,
+    "numEvals": 21,
+    "overallRating": 0.95,
     "materialClear": 0.96,
-    "studentDifficulties": 1.26,
+    "studentDifficulties": 1.2,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9556,9 +9560,10 @@
       "Inflexible Deadline Policy": 6,
       "Inflexible Grading Policy": 7,
       "No Breaks During Lecture": 3,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Uploads Slides": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Class Handouts": 1
     }
   },
   {
