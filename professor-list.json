@@ -5165,10 +5165,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "MATH 143",
       "MATH 244"
@@ -7461,10 +7461,10 @@
     "department": "CPE",
     "firstName": "Joseph",
     "lastName": "Callenes-Sloan",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.5,
     "courses": [
       "CPE 333",
       "CPE 133"
@@ -9973,6 +9973,22 @@
     }
   },
   {
+    "id": "48fc936f-68be-40b9-ba4f-1318371f7e1b",
+    "department": "HLTH",
+    "firstName": "Krysti",
+    "lastName": "Escobedo",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "HLTH"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1
+    }
+  },
+  {
     "id": "48feeb13-25ac-4c6e-9a67-29b9dd79c304",
     "department": "BUS",
     "firstName": "Starr",
@@ -11016,6 +11032,20 @@
       "MATH 221",
       "MATH 119"
     ]
+  },
+  {
+    "id": "51779fd5-21d3-4229-94f9-75d658a18800",
+    "department": "ITP",
+    "firstName": "BJ",
+    "lastName": "Yebisu",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 3,
+    "courses": [
+      "ITP"
+    ],
+    "tags": {}
   },
   {
     "id": "51c1c78e-e562-4230-b6b2-4478e7ff017b",
@@ -12360,12 +12390,12 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 1,
-    "overallRating": 1,
+    "numEvals": 2,
+    "overallRating": 0.5,
     "materialClear": 0,
-    "studentDifficulties": 2,
+    "studentDifficulties": 1,
     "courses": [
-      "ENGL"
+      "ENGL 347"
     ],
     "tags": {}
   },
@@ -13368,6 +13398,24 @@
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "6287909f-1e0e-47fa-9d65-f556afab08d8",
+    "department": "BUS",
+    "firstName": "Nicole",
+    "lastName": "Birdsall",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
       "Uploads Slides": 1
     }
   },
@@ -19918,9 +19966,9 @@
     "firstName": "Bernard",
     "lastName": "Duffy",
     "numEvals": 50,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.8,
-    "overallRating": 2.89,
+    "overallRating": 2.91,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.82,
     "courses": [
       "SCM 101",
       "SPC 101",
@@ -19933,7 +19981,8 @@
       "COMS 333",
       "COMS 435",
       "SPC 435"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "90bd63f9-9caa-4b98-91bc-e9dacb8f87f9",
@@ -21485,10 +21534,10 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 5,
-    "overallRating": 3.2,
+    "numEvals": 4,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 3.4,
+    "studentDifficulties": 3.5,
     "courses": [
       "COMS 101"
     ],
@@ -25017,7 +25066,7 @@
     "department": "LS",
     "firstName": "Brian",
     "lastName": "Beaton",
-    "numEvals": 50,
+    "numEvals": 51,
     "overallRating": 0.22,
     "materialClear": 0.22,
     "studentDifficulties": 0.24,
@@ -25061,7 +25110,8 @@
       "RELS 555",
       "GEOG 589",
       "MATH 460",
-      "GSP 101"
+      "GSP 101",
+      "AERO 522"
     ],
     "tags": {
       "Pop Quizzes": 2,
@@ -31129,9 +31179,9 @@
     "department": "CHEM",
     "firstName": "Leanna",
     "lastName": "Schulte",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.6,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 127"
