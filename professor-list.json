@@ -29598,10 +29598,10 @@
     "department": "ART",
     "firstName": "Sky",
     "lastName": "Bergman",
-    "numEvals": 15,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.47,
-    "overallRating": 2.24,
+    "numEvals": 16,
+    "overallRating": 2.35,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.57,
     "courses": [
       "ART 221",
       "ART 222",
@@ -29610,8 +29610,14 @@
       "ART 260",
       "ART 325",
       "ART 383",
-      "ART 468"
-    ]
+      "ART 468",
+      "ART 122"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "dab4614a-8d22-4a99-85e8-69832fa2a88b",
