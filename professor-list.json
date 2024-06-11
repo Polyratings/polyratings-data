@@ -2709,10 +2709,10 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.62,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.66,
     "courses": [
       "MATH 142",
       "MATH 141"
@@ -2721,7 +2721,8 @@
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 2,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -6544,7 +6545,7 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 145,
+    "numEvals": 146,
     "overallRating": 3.58,
     "materialClear": 3.64,
     "studentDifficulties": 3.46,
@@ -15789,10 +15790,10 @@
     "department": "LA",
     "firstName": "Christine",
     "lastName": "O'Hara",
-    "numEvals": 17,
-    "overallRating": 2.85,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.68,
+    "numEvals": 18,
+    "overallRating": 2.91,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.75,
     "courses": [
       "LA 130",
       "LA 202",
@@ -15806,7 +15807,9 @@
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -25217,15 +25220,19 @@
     "department": "POLS",
     "firstName": "Kevin",
     "lastName": "Simmt",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 2.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
       "POLS 359",
-      "POLS 229"
+      "POLS 229",
+      "POLS 111"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "b99aecef-f989-489d-92ba-ca2c5bdbbe77",
@@ -26894,18 +26901,18 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 5,
-    "overallRating": 2,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 2.33,
+    "materialClear": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "ES 255"
     ],
     "tags": {
-      "Pop Quizzes": 3,
+      "Pop Quizzes": 4,
       "No Breaks During Lecture": 4,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 3
     }
   },
   {
