@@ -3008,10 +3008,10 @@
     "department": "BIO",
     "firstName": "Francis",
     "lastName": "Villablanca",
-    "numEvals": 48,
-    "overallRating": 2.32,
-    "materialClear": 2.48,
-    "studentDifficulties": 2.34,
+    "numEvals": 49,
+    "overallRating": 2.31,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.33,
     "courses": [
       "BIO 213",
       "BIO 321",
@@ -3021,7 +3021,12 @@
       "BIO 342",
       "BIO 414",
       "BIO 444"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "14558331-ca80-4a53-b47c-9e2505416158",
@@ -26686,10 +26691,10 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 16,
-    "overallRating": 2.38,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.38,
+    "numEvals": 17,
+    "overallRating": 2.24,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.42,
     "courses": [
       "PHYS 142"
     ],
@@ -30156,9 +30161,9 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 65,
-    "overallRating": 2.13,
-    "materialClear": 2.11,
+    "numEvals": 66,
+    "overallRating": 2.14,
+    "materialClear": 2.12,
     "studentDifficulties": 2.12,
     "courses": [
       "BUS 301",
@@ -30169,9 +30174,10 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -34142,10 +34148,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.25,
     "courses": [
       "PHYS 143",
       "PHYS 123"
