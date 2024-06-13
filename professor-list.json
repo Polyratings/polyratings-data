@@ -21392,10 +21392,10 @@
     "department": "CHEM",
     "firstName": "Michael",
     "lastName": "Heying",
-    "numEvals": 41,
-    "overallRating": 2.44,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.37,
+    "numEvals": 42,
+    "overallRating": 2.43,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.36,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -21403,8 +21403,13 @@
       "CHEM 128",
       "CHEM 129",
       "CHEM 352",
-      "FSN 444"
-    ]
+      "FSN 444",
+      "CHEM 126"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "9bd459d5-e415-4b54-9b32-dd55363aaa90",
