@@ -5729,17 +5729,21 @@
     "department": "ENGL",
     "firstName": "Brian",
     "lastName": "Bates",
-    "numEvals": 35,
-    "overallRating": 3.47,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.41,
+    "numEvals": 36,
+    "overallRating": 3.48,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.43,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 333",
       "ENGL 231"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "29b50a10-669f-4322-889f-3d01796b7d6c",
@@ -15904,18 +15908,19 @@
     "department": "STAT",
     "firstName": "James",
     "lastName": "Oksanish",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.25,
     "courses": [
       "STAT 312",
-      "STAT 251"
+      "STAT 251",
+      "STAT 252"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Fast Response Time": 2,
+      "Supplemental Study Material": 2
     }
   },
   {
