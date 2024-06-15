@@ -2500,10 +2500,10 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 3.04,
     "materialClear": 2.93,
-    "studentDifficulties": 2.93,
+    "studentDifficulties": 2.91,
     "courses": [
       "ASTR 102",
       "PHYS 121",
@@ -2516,8 +2516,9 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Class Handouts": 2,
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -5175,16 +5176,19 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2.75,
+    "numEvals": 5,
+    "overallRating": 2.4,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.2,
     "courses": [
       "MATH 143",
-      "MATH 244"
+      "MATH 244",
+      "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -6559,10 +6563,10 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 146,
+    "numEvals": 147,
     "overallRating": 3.58,
     "materialClear": 3.64,
-    "studentDifficulties": 3.46,
+    "studentDifficulties": 3.45,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -8033,12 +8037,12 @@
     "department": "AERO",
     "firstName": "Paulo",
     "lastName": "Iscold",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AERO"
+      "AERO 121"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
@@ -19127,7 +19131,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19138,9 +19142,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 4,
-      "Flexible Grading Policy": 3,
-      "High In-Person Availability": 1
+      "Flexible Deadline Policy": 5,
+      "Flexible Grading Policy": 4,
+      "High In-Person Availability": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -27825,13 +27830,14 @@
     "department": "IME",
     "firstName": "Bryan",
     "lastName": "Lutz",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "IME"
-    ]
+      "IME 144"
+    ],
+    "tags": {}
   },
   {
     "id": "ce80dd58-5909-441d-8e8b-7823a3a8e18d",
