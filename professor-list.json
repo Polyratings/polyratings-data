@@ -7462,10 +7462,10 @@
     "department": "ME",
     "firstName": "Sarah",
     "lastName": "Harding",
-    "numEvals": 23,
-    "overallRating": 2.87,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.64,
+    "numEvals": 24,
+    "overallRating": 2.83,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.61,
     "courses": [
       "ME 128",
       "ME 134",
@@ -7473,7 +7473,11 @@
       "ME 234",
       "ME 240"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1
+    }
   },
   {
     "id": "35492fe1-2167-44a7-9717-1226bbac1710",
@@ -24958,17 +24962,18 @@
     "department": "MATE",
     "firstName": "Nicole",
     "lastName": "Johnson-Glauch",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATE"
+      "MATE 210"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -28104,7 +28109,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 129,
+    "numEvals": 130,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -28117,10 +28122,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Uploads Slides": 4,
-      "Fast Response Time": 4,
-      "Flexible Deadline Policy": 2,
+      "Fast Response Time": 5,
+      "Flexible Deadline Policy": 3,
       "High In-Person Availability": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 2
