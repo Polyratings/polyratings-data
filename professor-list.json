@@ -2244,10 +2244,10 @@
     "department": "CSC",
     "firstName": "David",
     "lastName": "Parkinson",
-    "numEvals": 21,
-    "overallRating": 3.46,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.41,
+    "numEvals": 22,
+    "overallRating": 3.48,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.44,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -2256,7 +2256,7 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -5175,10 +5175,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2.75,
     "courses": [
       "MATH 143",
       "MATH 244"
@@ -13595,22 +13595,24 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 10,
-    "overallRating": 3.69,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.79,
+    "numEvals": 11,
+    "overallRating": 3.63,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.81,
     "courses": [
       "MATH 141",
       "MATH 142",
-      "MATH 143"
+      "MATH 143",
+      "MATH 244"
     ],
     "tags": {
       "Zoom Office Hours": 5,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 3,
+      "Class Handouts": 1
     }
   },
   {
@@ -18099,7 +18101,7 @@
     "department": "EE",
     "firstName": "Gary",
     "lastName": "Perks",
-    "numEvals": 212,
+    "numEvals": 213,
     "overallRating": 3.56,
     "materialClear": 3.65,
     "studentDifficulties": 3.48,
@@ -18128,9 +18130,11 @@
       "Recorded Lectures": 3,
       "Flexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -18299,20 +18303,23 @@
     "department": "EE",
     "firstName": "Ashraf",
     "lastName": "Elbarbary",
-    "numEvals": 9,
-    "overallRating": 3.23,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.89,
+    "numEvals": 10,
+    "overallRating": 3.21,
+    "materialClear": 2.79,
+    "studentDifficulties": 3,
     "courses": [
       "EE 211",
       "PHYS 133",
       "PHYS 142",
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 143"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Recorded Lectures": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
