@@ -28517,17 +28517,18 @@
     "department": "BUS",
     "firstName": "Lisa ",
     "lastName": "Anderson",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 214",
+      "BUS 322"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "High In-Person Availability": 2,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 2
     }
   },
   {
