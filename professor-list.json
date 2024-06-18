@@ -1831,10 +1831,10 @@
     "department": "ENGL",
     "firstName": "Glen",
     "lastName": "Starkey",
-    "numEvals": 116,
+    "numEvals": 117,
     "overallRating": 2.84,
     "materialClear": 2.89,
-    "studentDifficulties": 2.78,
+    "studentDifficulties": 2.79,
     "courses": [
       "ENGL 102",
       "ENGL 112",
@@ -1844,7 +1844,10 @@
       "ENGL 215",
       "ENGL 302"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "0d17a5d0-b9fb-4fb3-96da-32f76cdb305f",
@@ -6649,10 +6652,10 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 5,
-    "overallRating": 1.6,
-    "materialClear": 1.6,
-    "studentDifficulties": 0.8,
+    "numEvals": 6,
+    "overallRating": 2,
+    "materialClear": 1.83,
+    "studentDifficulties": 1.17,
     "courses": [
       "BUS 391",
       "BUS 392"
@@ -7467,10 +7470,10 @@
     "department": "ME",
     "firstName": "Sarah",
     "lastName": "Harding",
-    "numEvals": 24,
-    "overallRating": 2.83,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.61,
+    "numEvals": 25,
+    "overallRating": 2.84,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.59,
     "courses": [
       "ME 128",
       "ME 134",
@@ -31436,18 +31439,19 @@
     "department": "MATE",
     "firstName": "Brian",
     "lastName": "Davis",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.75,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.8,
     "courses": [
       "MATE 210",
       "MATE 215"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 3,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -34220,7 +34224,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 45,
+    "numEvals": 46,
     "overallRating": 3.86,
     "materialClear": 3.86,
     "studentDifficulties": 3.85,
@@ -34234,7 +34238,7 @@
       "MATH 241"
     ],
     "tags": {
-      "Zoom Office Hours": 10,
+      "Zoom Office Hours": 11,
       "Fast Response Time": 5,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 1,
