@@ -2831,21 +2831,22 @@
     "department": "CSC",
     "firstName": "Mugizi Robert",
     "lastName": "Rwebangira",
-    "numEvals": 13,
-    "overallRating": 2.85,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.93,
+    "numEvals": 14,
+    "overallRating": 2.93,
+    "materialClear": 2.65,
+    "studentDifficulties": 3.01,
     "courses": [
       "CSC 248",
       "CPE 202",
       "CSC 466"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Flexible Deadline Policy": 1,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -15422,18 +15423,21 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 7,
-    "overallRating": 1.71,
-    "materialClear": 2.43,
-    "studentDifficulties": 1.43,
+    "numEvals": 8,
+    "overallRating": 2,
+    "materialClear": 2.63,
+    "studentDifficulties": 1.75,
     "courses": [
       "HIST 222",
       "HIST 225",
-      "HIST 306"
+      "HIST 306",
+      "HIST 223"
     ],
     "tags": {
-      "No Breaks During Lecture": 4,
-      "Inflexible Grading Policy": 1
+      "No Breaks During Lecture": 5,
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -19504,9 +19508,9 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 85,
-    "overallRating": 3.22,
-    "materialClear": 3.23,
+    "numEvals": 86,
+    "overallRating": 3.23,
+    "materialClear": 3.24,
     "studentDifficulties": 3.04,
     "courses": [
       "CPE 101",
@@ -19524,10 +19528,11 @@
     "tags": {
       "Inflexible Grading Policy": 5,
       "Does Not Use Canvas": 7,
-      "High In-Person Availability": 1,
-      "Fast Response Time": 3,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 4,
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -21247,16 +21252,17 @@
     "department": "EE",
     "firstName": "Kun",
     "lastName": "Hua",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 3,
     "courses": [
-      "EE"
+      "EE 215"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
