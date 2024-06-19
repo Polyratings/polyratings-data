@@ -2831,18 +2831,21 @@
     "department": "CSC",
     "firstName": "Mugizi Robert",
     "lastName": "Rwebangira",
-    "numEvals": 11,
-    "overallRating": 2.64,
-    "materialClear": 2.36,
-    "studentDifficulties": 2.73,
+    "numEvals": 13,
+    "overallRating": 2.85,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.93,
     "courses": [
       "CSC 248",
       "CPE 202",
       "CSC 466"
     ],
     "tags": {
-      "Uploads Slides": 2,
-      "Flexible Deadline Policy": 1
+      "Uploads Slides": 3,
+      "Flexible Deadline Policy": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -2911,9 +2914,9 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 17,
-    "overallRating": 3.81,
-    "materialClear": 3.41,
+    "numEvals": 18,
+    "overallRating": 3.82,
+    "materialClear": 3.39,
     "studentDifficulties": 3.94,
     "courses": [
       "CPE 101",
@@ -5182,10 +5185,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 6,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 7,
+    "overallRating": 2.71,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.71,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -7043,10 +7046,10 @@
     "department": "ARCH",
     "firstName": "Keith",
     "lastName": "Wiley",
-    "numEvals": 28,
-    "overallRating": 3.58,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.43,
+    "numEvals": 29,
+    "overallRating": 3.59,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.35,
     "courses": [
       "ARCH 101",
       "ARCH 105",
@@ -7060,10 +7063,11 @@
       "ARCH 252"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 3,
       "Flexible Grading Policy": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -14591,10 +14595,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 35,
-    "overallRating": 3.7,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.57,
+    "numEvals": 36,
+    "overallRating": 3.71,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.58,
     "courses": [
       "EE 212",
       "EE 306",
@@ -14603,7 +14607,8 @@
       "EE 412",
       "EE 115",
       "EE 145",
-      "EE 215"
+      "EE 215",
+      "EE 315"
     ],
     "tags": {
       "Recorded Lectures": 2,
@@ -18902,9 +18907,9 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 10,
-    "overallRating": 3.89,
-    "materialClear": 3.71,
+    "numEvals": 11,
+    "overallRating": 3.9,
+    "materialClear": 3.74,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
@@ -21510,10 +21515,10 @@
     "department": "CHEM",
     "firstName": "Michael",
     "lastName": "Heying",
-    "numEvals": 43,
-    "overallRating": 2.42,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.35,
+    "numEvals": 44,
+    "overallRating": 2.39,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.32,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -21526,9 +21531,9 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Supplemental Study Material": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2
     }
   },
   {
@@ -22099,13 +22104,14 @@
     "department": "CPE",
     "firstName": "Paul",
     "lastName": "Hummel",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.8,
-    "studentDifficulties": 4,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.67,
     "courses": [
       "CPE 233",
-      "EE 329"
+      "EE 329",
+      "CPE 316"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -33928,10 +33934,10 @@
     "department": "EE",
     "firstName": "Wayne",
     "lastName": "Pilkington",
-    "numEvals": 42,
-    "overallRating": 3.56,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.44,
+    "numEvals": 43,
+    "overallRating": 3.57,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.43,
     "courses": [
       "CPE 129",
       "EE 129",
