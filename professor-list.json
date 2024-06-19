@@ -26995,10 +26995,10 @@
     "department": "PHYS",
     "firstName": "William",
     "lastName": "Horst",
-    "numEvals": 173,
-    "overallRating": 2.07,
+    "numEvals": 174,
+    "overallRating": 2.08,
     "materialClear": 2.33,
-    "studentDifficulties": 1.96,
+    "studentDifficulties": 1.97,
     "courses": [
       "PHYS 111",
       "MATH 118",
@@ -27017,11 +27017,12 @@
     "tags": {
       "Pop Quizzes": 1,
       "Fast Response Time": 1,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -27887,10 +27888,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 3,
-    "overallRating": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.5,
     "materialClear": 3,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.75,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -31332,10 +31333,10 @@
     "department": "CHEM",
     "firstName": "Nisa",
     "lastName": "Satumtira",
-    "numEvals": 41,
-    "overallRating": 1.82,
-    "materialClear": 1.64,
-    "studentDifficulties": 2.13,
+    "numEvals": 42,
+    "overallRating": 1.87,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.17,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -31345,9 +31346,10 @@
       "CHEM 125"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Uploads Slides": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
