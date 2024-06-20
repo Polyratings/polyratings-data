@@ -5811,10 +5811,10 @@
     "department": "ENGL",
     "firstName": "Patricia",
     "lastName": "Kuznetsoff",
-    "numEvals": 95,
-    "overallRating": 2.32,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.49,
+    "numEvals": 97,
+    "overallRating": 2.28,
+    "materialClear": 2.36,
+    "studentDifficulties": 2.43,
     "courses": [
       "ENGL 102",
       "ENGL 134",
@@ -5826,9 +5826,9 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Inflexible Grading Policy": 2,
-      "Recorded Lectures": 2,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 4,
+      "Recorded Lectures": 4,
+      "Inflexible Deadline Policy": 4,
       "Fast Response Time": 1
     }
   },
@@ -25686,7 +25686,7 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -25697,11 +25697,12 @@
     "tags": {
       "Fast Response Time": 2,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "High In-Person Availability": 2,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 3,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 4,
+      "No Breaks During Lecture": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -25807,20 +25808,20 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Wu",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.28,
     "courses": [
       "BUS 207",
       "BUS 404"
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Fast Response Time": 1,
-      "Uploads Slides": 7,
+      "Fast Response Time": 2,
+      "Uploads Slides": 8,
       "Inflexible Grading Policy": 1,
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 3
     }
