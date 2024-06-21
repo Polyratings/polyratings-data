@@ -3681,6 +3681,24 @@
     }
   },
   {
+    "id": "18376dcd-a436-4dee-b836-62fd9fb312da",
+    "department": "CRP",
+    "firstName": "Keith",
+    "lastName": "Woodcock",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 1,
+    "courses": [
+      "CRP"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "1846e94f-a6ba-4d76-8295-c0d260884da0",
     "department": "MU",
     "firstName": "Nicholas",
@@ -8552,10 +8570,10 @@
     "department": "ECON",
     "firstName": "Daniel",
     "lastName": "Seiver",
-    "numEvals": 73,
+    "numEvals": 74,
     "overallRating": 2.25,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.99,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.02,
     "courses": [
       "ECON 122",
       "ECON 221",
@@ -8565,7 +8583,9 @@
       "ECON 405"
     ],
     "tags": {
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -14713,10 +14733,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 49,
-    "overallRating": 1.42,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.47,
+    "numEvals": 50,
+    "overallRating": 1.39,
+    "materialClear": 1.72,
+    "studentDifficulties": 1.44,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -14731,7 +14751,7 @@
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -15656,18 +15676,19 @@
     "department": "ENGL",
     "firstName": "Caleb",
     "lastName": "Nichols",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -20522,6 +20543,20 @@
       "BUS 412",
       "BUS 429"
     ]
+  },
+  {
+    "id": "9411f97a-a14d-4150-9a16-72ee15d93841",
+    "department": "STAT",
+    "firstName": "Emily",
+    "lastName": "Marlow",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "STAT"
+    ],
+    "tags": {}
   },
   {
     "id": "9426f0cb-0740-43c2-a873-8e957ff54873",
