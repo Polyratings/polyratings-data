@@ -2503,7 +2503,7 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 46,
+    "numEvals": 47,
     "overallRating": 3.04,
     "materialClear": 2.93,
     "studentDifficulties": 2.91,
@@ -2519,11 +2519,12 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -5666,10 +5667,10 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Ferree",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.4,
     "courses": [
       "ENGL 133",
       "ENGL 391"
@@ -11479,10 +11480,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 15,
-    "overallRating": 2.34,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.53,
+    "numEvals": 16,
+    "overallRating": 2.26,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.43,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -11493,8 +11494,8 @@
       "No Breaks During Lecture": 5,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
-      "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 6,
+      "Inflexible Grading Policy": 4,
+      "Does Not Use Canvas": 7,
       "Supplemental Study Material": 3,
       "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
@@ -27247,7 +27248,7 @@
     "department": "BUS",
     "firstName": "Jose",
     "lastName": "Huitron",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -27255,9 +27256,9 @@
       "BUS 310"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -32739,9 +32740,9 @@
     "department": "ME",
     "firstName": "Kerry",
     "lastName": "Lane",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
     "studentDifficulties": 4,
     "courses": [
       "ME 212",
@@ -32750,7 +32751,10 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
