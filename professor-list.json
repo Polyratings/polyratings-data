@@ -3160,9 +3160,9 @@
     "department": "ENGL",
     "firstName": "Regulus",
     "lastName": "Allen",
-    "numEvals": 50,
-    "overallRating": 1.89,
-    "materialClear": 2.34,
+    "numEvals": 51,
+    "overallRating": 1.91,
+    "materialClear": 2.35,
     "studentDifficulties": 1.78,
     "courses": [
       "ENGL 205",
@@ -3176,7 +3176,11 @@
       "ENGL 439",
       "ENGL 512"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "150fb413-06db-4f26-8aae-b352818a3363",
@@ -26051,10 +26055,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 89,
-    "overallRating": 1.65,
-    "materialClear": 1.52,
-    "studentDifficulties": 1.73,
+    "numEvals": 90,
+    "overallRating": 1.64,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.71,
     "courses": [
       "CHEM 110",
       "CHEM 124",
