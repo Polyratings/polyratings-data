@@ -3161,10 +3161,10 @@
     "department": "ENGL",
     "firstName": "Regulus",
     "lastName": "Allen",
-    "numEvals": 51,
-    "overallRating": 1.91,
-    "materialClear": 2.35,
-    "studentDifficulties": 1.78,
+    "numEvals": 52,
+    "overallRating": 1.93,
+    "materialClear": 2.38,
+    "studentDifficulties": 1.8,
     "courses": [
       "ENGL 205",
       "ENGL 230",
@@ -3180,7 +3180,9 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -11515,10 +11517,10 @@
     "department": "CHEM",
     "firstName": "Andres",
     "lastName": "Martinez",
-    "numEvals": 21,
-    "overallRating": 3.59,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.32,
+    "numEvals": 22,
+    "overallRating": 3.61,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.35,
     "courses": [
       "CHEM 101",
       "CHEM 127",
@@ -18725,16 +18727,16 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 18,
-    "overallRating": 0.11,
-    "materialClear": 0.39,
-    "studentDifficulties": 0.5,
+    "numEvals": 19,
+    "overallRating": 0.1,
+    "materialClear": 0.37,
+    "studentDifficulties": 0.47,
     "courses": [
       "HLTH 260",
       "HLTH 255"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 7,
+      "Inflexible Deadline Policy": 8,
       "Inflexible Grading Policy": 6,
       "Hybrid Option": 1,
       "Does Not Use Canvas": 2,
