@@ -4616,9 +4616,9 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 156,
-    "overallRating": 3.16,
-    "materialClear": 3.12,
+    "numEvals": 157,
+    "overallRating": 3.17,
+    "materialClear": 3.13,
     "studentDifficulties": 3.25,
     "courses": [
       "BUS 102",
@@ -4633,7 +4633,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -6698,16 +6701,16 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 6,
-    "overallRating": 2,
-    "materialClear": 1.83,
-    "studentDifficulties": 1.17,
+    "numEvals": 7,
+    "overallRating": 2.14,
+    "materialClear": 2,
+    "studentDifficulties": 1.57,
     "courses": [
       "BUS 391",
       "BUS 392"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 2
     }
