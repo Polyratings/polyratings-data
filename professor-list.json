@@ -9121,19 +9121,20 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 14,
-    "overallRating": 1.79,
-    "materialClear": 1.43,
-    "studentDifficulties": 1.78,
+    "numEvals": 15,
+    "overallRating": 1.74,
+    "materialClear": 1.33,
+    "studentDifficulties": 1.79,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 3
+      "Uploads Slides": 4,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -27247,10 +27248,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Clements",
-    "numEvals": 67,
-    "overallRating": 2.62,
-    "materialClear": 2.58,
-    "studentDifficulties": 2.55,
+    "numEvals": 68,
+    "overallRating": 2.64,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.57,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -27262,8 +27263,8 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Does Not Use Canvas": 3,
-      "High In-Person Availability": 1,
+      "Does Not Use Canvas": 4,
+      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1
     }
   },
@@ -32014,20 +32015,21 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 40,
-    "overallRating": 2.56,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.76,
+    "numEvals": 41,
+    "overallRating": 2.6,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.79,
     "courses": [
       "ES 112",
       "WGS 201",
       "SOC 311",
       "WS 311",
-      "WGS 340"
+      "WGS 340",
+      "ES 382"
     ],
     "tags": {
-      "High In-Person Availability": 3,
-      "Uploads Slides": 4,
+      "High In-Person Availability": 4,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 2,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 1,
