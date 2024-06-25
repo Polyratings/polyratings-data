@@ -14977,17 +14977,18 @@
     "department": "CPE",
     "firstName": "Maria",
     "lastName": "Pantoja",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "CPE"
+      "CPE 333"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -23895,10 +23896,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 15,
-    "overallRating": 3.79,
-    "materialClear": 3.86,
-    "studentDifficulties": 3.65,
+    "numEvals": 16,
+    "overallRating": 3.8,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.67,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -23909,9 +23910,9 @@
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 3,
-      "Fast Response Time": 5,
-      "Zoom Office Hours": 2,
-      "Uploads Slides": 1
+      "Fast Response Time": 6,
+      "Zoom Office Hours": 3,
+      "Uploads Slides": 2
     }
   },
   {
@@ -33420,17 +33421,18 @@
     "department": "CSC",
     "firstName": "Lucas",
     "lastName": "Pierce",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
+      "CSC 365"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
