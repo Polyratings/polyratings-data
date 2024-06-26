@@ -5624,10 +5624,10 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 308,
-    "overallRating": 1.76,
-    "materialClear": 2.1,
-    "studentDifficulties": 1.67,
+    "numEvals": 309,
+    "overallRating": 1.75,
+    "materialClear": 2.09,
+    "studentDifficulties": 1.66,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -5647,8 +5647,8 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1
     }
   },
@@ -7781,10 +7781,10 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 5,
-    "overallRating": 1,
-    "materialClear": 0.2,
-    "studentDifficulties": 1.8,
+    "numEvals": 6,
+    "overallRating": 1.5,
+    "materialClear": 0.67,
+    "studentDifficulties": 2.17,
     "courses": [
       "CHEM 129",
       "CHEM 128",
@@ -7795,7 +7795,8 @@
       "Zoom Office Hours": 2,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Pop Quizzes": 1
     }
   },
   {
