@@ -12692,17 +12692,18 @@
     "department": "ECON",
     "firstName": "Eduardo",
     "lastName": "Zambrano",
-    "numEvals": 42,
-    "overallRating": 2.93,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.68,
+    "numEvals": 43,
+    "overallRating": 2.95,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.71,
     "courses": [
       "ECON 201",
       "ECON 311",
       "ECON 312",
       "ECON 313",
       "ECON 409"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "5c2c1396-f7d2-4ee6-8589-efb79e1189fa",
@@ -14579,7 +14580,7 @@
     "department": "COMS",
     "firstName": "Erica",
     "lastName": "Stewart ",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -33920,7 +33921,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
