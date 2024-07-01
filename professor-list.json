@@ -318,10 +318,10 @@
     "department": "ASCI",
     "firstName": "Daniel",
     "lastName": "Peterson",
-    "numEvals": 33,
+    "numEvals": 34,
+    "overallRating": 2.78,
     "materialClear": 3,
-    "studentDifficulties": 2.68,
-    "overallRating": 2.8,
+    "studentDifficulties": 2.69,
     "courses": [
       "ASCI 112",
       "ASCI 211",
@@ -330,7 +330,8 @@
       "ASCI 403",
       "ASCI 476",
       "ASCI 479"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "031a6bf3-e433-4149-a82f-f6488c282eec",
@@ -6685,10 +6686,10 @@
     "department": "ECON",
     "firstName": "Stephen",
     "lastName": "Hamilton",
-    "numEvals": 43,
-    "overallRating": 3.45,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.5,
+    "numEvals": 44,
+    "overallRating": 3.44,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.47,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -6697,7 +6698,11 @@
       "ECON 403",
       "ECON 431",
       "ECON 432"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "2f64b22e-2a22-4908-9bfe-d528077127e4",
