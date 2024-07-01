@@ -27916,10 +27916,10 @@
     "department": "ME",
     "firstName": "Hans",
     "lastName": "Mayer",
-    "numEvals": 56,
-    "overallRating": 2.78,
-    "materialClear": 3.07,
-    "studentDifficulties": 2.68,
+    "numEvals": 57,
+    "overallRating": 2.8,
+    "materialClear": 3.09,
+    "studentDifficulties": 2.69,
     "courses": [
       "ME 236",
       "AERO 301",
@@ -27932,9 +27932,10 @@
       "BMED 435"
     ],
     "tags": {
-      "Fast Response Time": 2,
-      "Pop Quizzes": 2,
-      "Inflexible Deadline Policy": 1
+      "Fast Response Time": 3,
+      "Pop Quizzes": 3,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
