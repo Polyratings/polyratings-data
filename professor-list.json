@@ -19859,17 +19859,21 @@
     "department": "CM",
     "firstName": "Paul",
     "lastName": "Weber",
-    "numEvals": 23,
-    "overallRating": 3.6,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.56,
+    "numEvals": 24,
+    "overallRating": 3.62,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.58,
     "courses": [
       "CM 102",
       "CM 115",
       "CM 211",
       "CM 341"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "8f72f93b-ff0c-450d-a666-b0e84ae7180a",
