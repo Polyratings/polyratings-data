@@ -22942,14 +22942,17 @@
     "department": "ME",
     "firstName": "Nathan",
     "lastName": "Dodd",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2,
     "courses": [
-      "ME"
+      "ME 130"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "a4698335-a066-4bc8-94ce-621bdc9e7b65",
