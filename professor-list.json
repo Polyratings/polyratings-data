@@ -23004,10 +23004,10 @@
     "department": "GER",
     "firstName": "Angelica",
     "lastName": "Browne",
-    "numEvals": 4,
-    "overallRating": 3.16,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.66,
+    "numEvals": 5,
+    "overallRating": 2.73,
+    "materialClear": 2.66,
+    "studentDifficulties": 3.73,
     "courses": [
       "GER 201",
       "GER 233",
@@ -23016,8 +23016,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 2,
-      "Class Handouts": 1
+      "Flexible Deadline Policy": 3,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
