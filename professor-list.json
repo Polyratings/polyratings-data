@@ -4253,24 +4253,6 @@
     "tags": {}
   },
   {
-    "id": "1bd6b46e-b99b-461b-a617-bb04a05f6c3d",
-    "department": "CSC",
-    "firstName": "Jani",
-    "lastName": "Meera",
-    "numEvals": 22,
-    "materialClear": 1.17,
-    "studentDifficulties": 1.17,
-    "overallRating": 1,
-    "courses": [
-      "CPE 101",
-      "CSC 101",
-      "CPE 102",
-      "CSC 102",
-      "CPE 103",
-      "CSC 103"
-    ]
-  },
-  {
     "id": "1be1a54e-81b0-4109-9f9c-c2f48edfd8c2",
     "department": "ENGL",
     "firstName": "Jon",
@@ -5218,10 +5200,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 7,
-    "overallRating": 2.71,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.71,
+    "numEvals": 6,
+    "overallRating": 3.16,
+    "materialClear": 3,
+    "studentDifficulties": 3.16,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -7130,6 +7112,24 @@
     }
   },
   {
+    "id": "31a7bcad-9d07-4f6d-94db-4cb15faa22e5",
+    "department": "ES",
+    "firstName": "Dallas Taylor",
+    "lastName": "Donnell",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
+  },
+  {
     "id": "31b36c17-43d1-4421-8d14-1fc432424f7d",
     "department": "PSY",
     "firstName": "Julie Spencer",
@@ -7550,6 +7550,24 @@
     }
   },
   {
+    "id": "35432006-b139-4b88-a35f-4c2953f553ad",
+    "department": "ARCH",
+    "firstName": "Diana",
+    "lastName": "Olave",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "ARCH"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "35492fe1-2167-44a7-9717-1226bbac1710",
     "department": "CPE",
     "firstName": "Joseph",
@@ -7847,6 +7865,24 @@
       "ARCE 316",
       "ARCE 412"
     ]
+  },
+  {
+    "id": "38c776d5-4959-4237-8c57-e31263fbefb9",
+    "department": "ARCH",
+    "firstName": "Jennifer",
+    "lastName": "Shields",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "EDES"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "38c86d30-69a9-4ed4-83aa-204d6f48af1f",
@@ -10146,6 +10182,24 @@
     ]
   },
   {
+    "id": "494cfbf0-8f2d-43e8-9abd-2fa6431d9769",
+    "department": "ES",
+    "firstName": "Gabriel",
+    "lastName": "Medina-Kim",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
+  },
+  {
     "id": "4973d132-a43d-444c-978f-7faefd2b5cc6",
     "department": "ARCE",
     "firstName": "Graham",
@@ -11522,6 +11576,24 @@
       "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
       "Recorded Lectures": 1
+    }
+  },
+  {
+    "id": "53e9679f-453a-4470-81f8-e7223b424dab",
+    "department": "FSN",
+    "firstName": "Anna",
+    "lastName": "Cahn",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "FSN"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -19671,6 +19743,20 @@
     ]
   },
   {
+    "id": "8cc1aa56-6c0d-4b0e-8a98-4469e7d1f533",
+    "department": "WGS",
+    "firstName": "Gabriel ",
+    "lastName": "Medina-Kim",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "WGS"
+    ],
+    "tags": {}
+  },
+  {
     "id": "8cd410f7-e422-4f27-843f-d880a832245f",
     "department": "TH",
     "firstName": "Diana",
@@ -19826,10 +19912,10 @@
     "department": "BIO",
     "firstName": "Gita",
     "lastName": "Kolluru",
-    "numEvals": 44,
-    "overallRating": 3.05,
-    "materialClear": 3.38,
-    "studentDifficulties": 2.93,
+    "numEvals": 43,
+    "overallRating": 3.07,
+    "materialClear": 3.37,
+    "studentDifficulties": 2.95,
     "courses": [
       "BIO 123",
       "BIO 263",
@@ -20191,7 +20277,7 @@
     "department": "COMS",
     "firstName": "Bernard",
     "lastName": "Duffy",
-    "numEvals": 49,
+    "numEvals": 48,
     "overallRating": 2.89,
     "materialClear": 2.85,
     "studentDifficulties": 2.8,
@@ -20199,7 +20285,6 @@
       "SCM 101",
       "SPC 101",
       "SPC 201",
-      "SPC 320",
       "SCM 322",
       "SPC 322",
       "COMS 330",
@@ -25717,7 +25802,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 132,
+    "numEvals": 131,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -30092,7 +30177,7 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 44,
+    "numEvals": 43,
     "overallRating": 2.82,
     "materialClear": 2.93,
     "studentDifficulties": 2.86,
@@ -34052,10 +34137,10 @@
     "department": "EE",
     "firstName": "Wayne",
     "lastName": "Pilkington",
-    "numEvals": 43,
-    "overallRating": 3.57,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.43,
+    "numEvals": 44,
+    "overallRating": 3.58,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.44,
     "courses": [
       "CPE 129",
       "EE 129",
@@ -34068,7 +34153,9 @@
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
