@@ -4167,10 +4167,10 @@
     "department": "BIO",
     "firstName": "Robert",
     "lastName": "Schroeter",
-    "numEvals": 5,
-    "overallRating": 2.8,
-    "materialClear": 3.4,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.5,
     "courses": [
       "BIO 161",
       "BIO 263",
@@ -4178,9 +4178,10 @@
       "BIO 363"
     ],
     "tags": {
-      "Recorded Lectures": 2,
-      "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Recorded Lectures": 3,
+      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -13798,10 +13799,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 152,
-    "overallRating": 2.38,
-    "materialClear": 2.16,
-    "studentDifficulties": 2.33,
+    "numEvals": 153,
+    "overallRating": 2.39,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.34,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -13825,8 +13826,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Does Not Use Canvas": 3,
-      "No Breaks During Lecture": 1
+      "Does Not Use Canvas": 4,
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -16441,10 +16444,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 108,
+    "numEvals": 109,
     "overallRating": 2.74,
-    "materialClear": 2.86,
-    "studentDifficulties": 2.55,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.54,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -16464,9 +16467,11 @@
       "Zoom Office Hours": 1,
       "Class Handouts": 4,
       "Uploads Slides": 2,
-      "Recorded Lectures": 6,
+      "Recorded Lectures": 7,
       "Fast Response Time": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -20992,10 +20997,10 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 101,
-    "overallRating": 3.47,
+    "numEvals": 102,
+    "overallRating": 3.48,
     "materialClear": 3.5,
-    "studentDifficulties": 3.52,
+    "studentDifficulties": 3.51,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -21007,11 +21012,12 @@
       "CSC 225",
       "CSC 234",
       "CPE 110",
-      "CPE 353"
+      "CPE 353",
+      "CSC 202"
     ],
     "tags": {
       "Recorded Lectures": 2,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Uploads Slides": 1,
       "Supplemental Study Material": 1
     }
