@@ -6195,9 +6195,9 @@
     "department": "PHIL",
     "firstName": "Ryan",
     "lastName": "Jenkins",
-    "numEvals": 32,
-    "overallRating": 3.73,
-    "materialClear": 3.8,
+    "numEvals": 33,
+    "overallRating": 3.74,
+    "materialClear": 3.81,
     "studentDifficulties": 3.86,
     "courses": [
       "PHIL 126",
@@ -10187,12 +10187,12 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 4,
-    "studentDifficulties": 2,
+    "materialClear": 3,
+    "studentDifficulties": 1.5,
     "courses": [
-      "ES"
+      "ES 350"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -13074,7 +13074,7 @@
     "department": "STAT",
     "firstName": "Matt",
     "lastName": "Carlton",
-    "numEvals": 115,
+    "numEvals": 116,
     "overallRating": 3.68,
     "materialClear": 3.75,
     "studentDifficulties": 3.64,
