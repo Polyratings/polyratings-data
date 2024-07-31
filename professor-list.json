@@ -17565,21 +17565,24 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 6,
-    "overallRating": 1.83,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 7,
+    "overallRating": 2,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.71,
     "courses": [
-      "ES 255"
+      "ES 255",
+      "ES 112"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -34326,15 +34329,21 @@
     "department": "ES",
     "firstName": "Grace",
     "lastName": "YEh",
-    "numEvals": 38,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.49,
-    "overallRating": 3.46,
+    "numEvals": 39,
+    "overallRating": 3.47,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.48,
     "courses": [
       "ES 244",
       "ES 322",
-      "ES 335"
-    ]
+      "ES 335",
+      "ES 256"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "f96d727a-f112-4c41-b3e4-c55719e5b1ea",
