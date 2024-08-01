@@ -7533,10 +7533,10 @@
     "department": "ME",
     "firstName": "Sarah",
     "lastName": "Harding",
-    "numEvals": 25,
-    "overallRating": 2.84,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.59,
+    "numEvals": 26,
+    "overallRating": 2.88,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.64,
     "courses": [
       "ME 128",
       "ME 134",
@@ -7547,7 +7547,10 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -12603,8 +12606,8 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 2,
-    "overallRating": 0.5,
+    "numEvals": 3,
+    "overallRating": 0.67,
     "materialClear": 0,
     "studentDifficulties": 1,
     "courses": [
@@ -13799,10 +13802,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 153,
-    "overallRating": 2.39,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.34,
+    "numEvals": 154,
+    "overallRating": 2.4,
+    "materialClear": 2.18,
+    "studentDifficulties": 2.35,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -13825,11 +13828,12 @@
       "MATH 433"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Does Not Use Canvas": 4,
+      "High In-Person Availability": 2,
+      "Does Not Use Canvas": 5,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -16512,10 +16516,10 @@
     "department": "CE",
     "firstName": "Mario",
     "lastName": "Esola",
-    "numEvals": 21,
-    "overallRating": 2.33,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.86,
+    "numEvals": 22,
+    "overallRating": 2.27,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.82,
     "courses": [
       "ARCE 211",
       "ARCE 226",
@@ -18218,15 +18222,15 @@
     "department": "HLTH",
     "firstName": "Laura",
     "lastName": "Yassa",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
     "studentDifficulties": 4,
     "courses": [
       "HLTH 297"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -27056,16 +27060,16 @@
     "department": "PHYS",
     "firstName": "Christopher",
     "lastName": "Culbreath",
-    "numEvals": 17,
-    "overallRating": 2.24,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.42,
+    "numEvals": 18,
+    "overallRating": 2.12,
+    "materialClear": 2.06,
+    "studentDifficulties": 2.29,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 5,
+      "Does Not Use Canvas": 6,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 2,
       "Class Handouts": 1,
@@ -29293,15 +29297,17 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "EE"
+      "EE 201"
     ],
     "tags": {
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -32213,10 +32219,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 32,
-    "overallRating": 2.52,
-    "materialClear": 2.58,
-    "studentDifficulties": 2.34,
+    "numEvals": 33,
+    "overallRating": 2.53,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.33,
     "courses": [
       "ENGL 134",
       "ENGL 149",
@@ -32224,10 +32230,10 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Grading Policy": 1,
       "Hybrid Option": 2,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1
     }
