@@ -4756,15 +4756,19 @@
     "department": "CSC",
     "firstName": "Javier",
     "lastName": "Gonzalez-Sanchez",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2.67,
+    "studentDifficulties": 1.33,
     "courses": [
       "CSC 309",
       "CSC 307"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "20a456ec-9f84-4cc5-9a4a-0711bfea65be",
