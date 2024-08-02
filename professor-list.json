@@ -9730,16 +9730,17 @@
     "department": "DSCI",
     "firstName": "Leanne",
     "lastName": "Berning",
-    "numEvals": 42,
+    "numEvals": 43,
+    "overallRating": 3.89,
     "materialClear": 3.85,
     "studentDifficulties": 3.89,
-    "overallRating": 3.89,
     "courses": [
       "DSCI 230",
       "DSCI 231",
       "DSCI 301",
       "DSCI 321"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "461245c0-275a-4da4-b409-8ba3ccd2b652",
