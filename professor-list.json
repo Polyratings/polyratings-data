@@ -28834,16 +28834,19 @@
     "department": "BIO",
     "firstName": "Nishanta",
     "lastName": "Rajakaruna",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
-      "BIO"
+      "BIO 448",
+      "BOT 121"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
