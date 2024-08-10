@@ -34119,18 +34119,19 @@
     "department": "AGB",
     "firstName": "Stamatina",
     "lastName": "Kotsakou",
-    "numEvals": 3,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 1.4,
+    "materialClear": 1.4,
+    "studentDifficulties": 1.4,
     "courses": [
-      "AGB 212"
+      "AGB 212",
+      "AGB 327"
     ],
     "tags": {
       "No Breaks During Lecture": 3,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 2
     }
   },
   {
