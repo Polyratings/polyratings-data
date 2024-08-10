@@ -18848,20 +18848,21 @@
     "department": "KINE",
     "firstName": "Caroline",
     "lastName": "Chance",
-    "numEvals": 19,
+    "numEvals": 20,
     "overallRating": 0.1,
-    "materialClear": 0.37,
-    "studentDifficulties": 0.47,
+    "materialClear": 0.35,
+    "studentDifficulties": 0.45,
     "courses": [
       "HLTH 260",
       "HLTH 255"
     ],
     "tags": {
       "Inflexible Deadline Policy": 8,
-      "Inflexible Grading Policy": 6,
+      "Inflexible Grading Policy": 7,
       "Hybrid Option": 1,
-      "Does Not Use Canvas": 2,
-      "Zoom Office Hours": 1
+      "Does Not Use Canvas": 3,
+      "Zoom Office Hours": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
