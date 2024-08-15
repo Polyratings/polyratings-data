@@ -2704,24 +2704,27 @@
     "department": "CHEM",
     "firstName": "Tanner",
     "lastName": "Treece",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 224",
+      "CHEM 128"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "11efec99-0614-49b8-9189-bf871ce14fe5",
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 9,
-    "overallRating": 3.66,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.66,
+    "numEvals": 10,
+    "overallRating": 3.69,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.69,
     "courses": [
       "MATH 142",
       "MATH 141"
@@ -6510,14 +6513,14 @@
     "department": "ENGL",
     "firstName": "Christopher",
     "lastName": "Hayter",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 2,
+    "materialClear": 0.33,
+    "studentDifficulties": 1.67,
     "courses": [
-      "ENGL",
       "ENGL 145"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "2e90246e-ef43-474b-9ea7-31d9b7182b71",
@@ -8691,10 +8694,10 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 263,
+    "numEvals": 264,
     "overallRating": 2.4,
     "materialClear": 2.14,
-    "studentDifficulties": 2.52,
+    "studentDifficulties": 2.53,
     "courses": [
       "ECON 111",
       "ECON 201",
@@ -8710,8 +8713,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1,
-      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
@@ -19695,14 +19698,18 @@
     "department": "BIO",
     "firstName": "Heather",
     "lastName": "Liwanag",
-    "numEvals": 12,
-    "materialClear": 2.92,
-    "studentDifficulties": 2.54,
-    "overallRating": 2.77,
+    "numEvals": 13,
+    "overallRating": 2.71,
+    "materialClear": 2.85,
+    "studentDifficulties": 2.58,
     "courses": [
       "BIO 231",
-      "BIO 361"
-    ]
+      "BIO 361",
+      "BIO 162"
+    ],
+    "tags": {
+      "Recorded Lectures": 1
+    }
   },
   {
     "id": "8be6b042-e2ce-4b80-b501-9e494feb8b33",
@@ -27373,9 +27380,9 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 11,
-    "overallRating": 2.73,
-    "materialClear": 3,
+    "numEvals": 12,
+    "overallRating": 2.84,
+    "materialClear": 3.08,
     "studentDifficulties": 3,
     "courses": [
       "BIO 161"
@@ -30119,10 +30126,10 @@
     "department": "MATH",
     "firstName": "Charles",
     "lastName": "Camp",
-    "numEvals": 52,
-    "overallRating": 1.53,
-    "materialClear": 1.43,
-    "studentDifficulties": 1.53,
+    "numEvals": 53,
+    "overallRating": 1.5,
+    "materialClear": 1.42,
+    "studentDifficulties": 1.52,
     "courses": [
       "MATH 141",
       "MATH 142",
