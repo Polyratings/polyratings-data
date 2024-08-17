@@ -34382,13 +34382,14 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 8,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2.74,
+    "numEvals": 9,
+    "overallRating": 2.89,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.88,
     "courses": [
       "MATH 244",
-      "MATH 142"
+      "MATH 142",
+      "MATH 143"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
@@ -34551,10 +34552,10 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 48,
-    "overallRating": 3.86,
-    "materialClear": 3.86,
-    "studentDifficulties": 3.83,
+    "numEvals": 49,
+    "overallRating": 3.78,
+    "materialClear": 3.84,
+    "studentDifficulties": 3.75,
     "courses": [
       "MATH 118",
       "MATH 142",
