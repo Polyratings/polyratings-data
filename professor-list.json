@@ -4171,10 +4171,10 @@
     "department": "BIO",
     "firstName": "Robert",
     "lastName": "Schroeter",
-    "numEvals": 6,
-    "overallRating": 2.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.5,
+    "numEvals": 8,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 2.87,
     "courses": [
       "BIO 161",
       "BIO 263",
@@ -4182,10 +4182,12 @@
       "BIO 363"
     ],
     "tags": {
-      "Recorded Lectures": 3,
-      "Flexible Attendance Policy": 3,
+      "Recorded Lectures": 4,
+      "Flexible Attendance Policy": 5,
       "Uploads Slides": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 2
     }
   },
   {
