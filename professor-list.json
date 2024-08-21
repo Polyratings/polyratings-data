@@ -1099,10 +1099,10 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 27,
-    "overallRating": 2.79,
-    "materialClear": 2.92,
-    "studentDifficulties": 2.83,
+    "numEvals": 28,
+    "overallRating": 2.76,
+    "materialClear": 2.89,
+    "studentDifficulties": 2.8,
     "courses": [
       "COMS 101"
     ],
@@ -9692,10 +9692,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 22,
-    "overallRating": 0.91,
-    "materialClear": 0.92,
-    "studentDifficulties": 1.15,
+    "numEvals": 23,
+    "overallRating": 1,
+    "materialClear": 1.01,
+    "studentDifficulties": 1.23,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9706,11 +9706,11 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 12,
+      "Inflexible Attendance Policy": 13,
       "Inflexible Deadline Policy": 7,
       "Inflexible Grading Policy": 8,
       "No Breaks During Lecture": 3,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Uploads Slides": 1,
       "Honor DRC Accommodations": 1,
       "Class Handouts": 1
@@ -14943,10 +14943,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 131,
-    "overallRating": 1.82,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.65,
+    "numEvals": 132,
+    "overallRating": 1.81,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.64,
     "courses": [
       "CE 204",
       "CE 211",
@@ -14962,13 +14962,14 @@
       "ME 448"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -17583,10 +17584,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 7,
-    "overallRating": 2,
-    "materialClear": 2.14,
-    "studentDifficulties": 2.71,
+    "numEvals": 8,
+    "overallRating": 1.75,
+    "materialClear": 1.87,
+    "studentDifficulties": 2.37,
     "courses": [
       "ES 255",
       "ES 112"
@@ -17595,10 +17596,10 @@
       "Recorded Lectures": 2,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1,
-      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 2,
+      "Pop Quizzes": 2,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1
     }
