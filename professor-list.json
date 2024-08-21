@@ -2594,15 +2594,20 @@
     "department": "BIO",
     "firstName": "Larisa",
     "lastName": "Vredevoe",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "BIO 429",
-      "MCRO 320"
+      "MCRO 320",
+      "MCRO 225"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "118d90db-c8b7-4756-bf21-f7e12ac683b7",
@@ -9692,10 +9697,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 23,
-    "overallRating": 1,
-    "materialClear": 1.01,
-    "studentDifficulties": 1.23,
+    "numEvals": 24,
+    "overallRating": 0.96,
+    "materialClear": 0.97,
+    "studentDifficulties": 1.35,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9706,14 +9711,14 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 13,
+      "Inflexible Attendance Policy": 14,
       "Inflexible Deadline Policy": 7,
       "Inflexible Grading Policy": 8,
       "No Breaks During Lecture": 3,
       "Supplemental Study Material": 3,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Honor DRC Accommodations": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
