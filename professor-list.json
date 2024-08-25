@@ -12120,10 +12120,10 @@
     "department": "CHEM",
     "firstName": "Alan",
     "lastName": "Kiste",
-    "numEvals": 67,
-    "overallRating": 2.35,
-    "materialClear": 2.47,
-    "studentDifficulties": 2.26,
+    "numEvals": 68,
+    "overallRating": 2.36,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.27,
     "courses": [
       "CHEM 125",
       "CHEM 127",
@@ -12134,7 +12134,11 @@
       "CHEM 318",
       "CHEM 465"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "57fbe9c5-582f-4194-b275-8132c02ecfea",
@@ -32688,21 +32692,22 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 3.8,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
       "PHYS 121"
     ],
     "tags": {
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 3,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
