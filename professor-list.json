@@ -6480,14 +6480,15 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 6,
-    "overallRating": 3.5,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 3.14,
+    "studentDifficulties": 3.28,
     "courses": [
       "EE 255",
       "EE 228",
-      "EE 113"
+      "EE 113",
+      "EE 314"
     ],
     "tags": {
       "Uploads Slides": 2,
@@ -6495,7 +6496,10 @@
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
