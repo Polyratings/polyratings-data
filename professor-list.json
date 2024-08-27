@@ -8606,14 +8606,16 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Oliver",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CPE 350",
-      "CPE 100"
-    ]
+      "CPE 100",
+      "CPE 315"
+    ],
+    "tags": {}
   },
   {
     "id": "3e42a5b7-82d7-443f-96c0-0c63e79cc1f5",
