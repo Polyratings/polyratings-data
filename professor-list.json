@@ -4431,6 +4431,20 @@
     "tags": {}
   },
   {
+    "id": "1d7e80a0-b1b2-4501-8f27-088a9c1f971b",
+    "department": "ISLA",
+    "firstName": "Emily",
+    "lastName": "Ryalls",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ISLA"
+    ],
+    "tags": {}
+  },
+  {
     "id": "1d86b7fc-f749-47b4-bcfd-4a05a95f0fa1",
     "department": "COMS",
     "firstName": "David",
@@ -5750,6 +5764,24 @@
     ]
   },
   {
+    "id": "28d363d4-2a52-4204-aeac-bd904596952e",
+    "department": "CM",
+    "firstName": "Eric",
+    "lastName": "Brinkman",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CM"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "2904107f-6ddc-4802-8d52-942f508eb914",
     "department": "ENGL",
     "firstName": "Isabell ",
@@ -6522,6 +6554,22 @@
       "No Breaks During Lecture": 2,
       "Does Not Use Canvas": 1,
       "Honor DRC Accommodations": 1
+    }
+  },
+  {
+    "id": "2e268f25-57b0-4768-99ab-3a5f2e028fac",
+    "department": "WGS",
+    "firstName": "Ceylan",
+    "lastName": "Cemali",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 1,
+    "courses": [
+      "WGS"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -33017,6 +33065,20 @@
       "SPC 101",
       "SPC 315"
     ]
+  },
+  {
+    "id": "f0b16dff-ed0f-4cec-8142-610f3ed15171",
+    "department": "ARCE",
+    "firstName": "Ceiley",
+    "lastName": "Davis",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 1,
+    "courses": [
+      "ARCE"
+    ],
+    "tags": {}
   },
   {
     "id": "f0fa4d2c-3411-49ac-b28e-1ec38eab83a1",
