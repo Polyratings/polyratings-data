@@ -9755,10 +9755,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 25,
-    "overallRating": 0.92,
-    "materialClear": 0.93,
-    "studentDifficulties": 1.34,
+    "numEvals": 26,
+    "overallRating": 1.04,
+    "materialClear": 1.01,
+    "studentDifficulties": 1.4,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9773,10 +9773,11 @@
       "Inflexible Deadline Policy": 7,
       "Inflexible Grading Policy": 9,
       "No Breaks During Lecture": 4,
-      "Supplemental Study Material": 3,
-      "Uploads Slides": 2,
+      "Supplemental Study Material": 4,
+      "Uploads Slides": 3,
       "Honor DRC Accommodations": 1,
-      "Class Handouts": 2
+      "Class Handouts": 2,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -12396,10 +12397,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 42,
-    "overallRating": 2.89,
-    "materialClear": 3.07,
-    "studentDifficulties": 2.65,
+    "numEvals": 44,
+    "overallRating": 2.94,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.71,
     "courses": [
       "EE 112",
       "EE 201",
@@ -12410,7 +12411,12 @@
       "EE 368",
       "EE 113"
     ],
-    "tags": {}
+    "tags": {
+      "Hybrid Option": 1,
+      "High In-Person Availability": 2,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "59aacf60-fff6-4af3-8028-e8b9d698085c",
