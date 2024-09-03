@@ -17545,10 +17545,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.43,
     "courses": [
       "TH 210"
     ],
@@ -17556,7 +17556,9 @@
       "Flexible Attendance Policy": 2,
       "Inflexible Attendance Policy": 2,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
