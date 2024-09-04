@@ -14150,10 +14150,10 @@
     "department": "ENGL",
     "firstName": "Paul",
     "lastName": "Marchbanks",
-    "numEvals": 87,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.65,
-    "overallRating": 2.71,
+    "numEvals": 88,
+    "overallRating": 2.69,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.63,
     "courses": [
       "ENGL 231",
       "ENGL 304",
@@ -14162,8 +14162,10 @@
       "ENGL 335",
       "ENGL 352",
       "ENGL 354",
-      "ENGL 380"
-    ]
+      "ENGL 380",
+      "ENGL 272"
+    ],
+    "tags": {}
   },
   {
     "id": "65ce4bb0-ea3a-49a1-a254-b407e1017a37",
