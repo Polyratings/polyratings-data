@@ -12288,6 +12288,24 @@
     ]
   },
   {
+    "id": "58d70b62-cfbc-4873-b3d8-d3a7df0ec2ce",
+    "department": "ARCH",
+    "firstName": "Marshall",
+    "lastName": "Ford",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "ARCH"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "58e20dec-dd3a-4ec3-baaa-ba3efeeb94ad",
     "department": "CE",
     "firstName": "Reza",
@@ -24757,6 +24775,24 @@
       "CSC 325",
       "CSC 429"
     ]
+  },
+  {
+    "id": "b2d4f6fc-2939-4151-9f18-3c5e633b2b80",
+    "department": "COMS",
+    "firstName": "Frank",
+    "lastName": "Bucquoy",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "b2d980b4-9d15-49fe-b787-bdd7a0e13a52",
