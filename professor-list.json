@@ -11736,7 +11736,7 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -23924,10 +23924,10 @@
     "department": "HIST",
     "firstName": "Margaret",
     "lastName": "Bodemer",
-    "numEvals": 44,
-    "overallRating": 3.5,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.54,
+    "numEvals": 45,
+    "overallRating": 3.49,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.55,
     "courses": [
       "ANT 201",
       "HIST 206",
@@ -24267,7 +24267,7 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -24276,9 +24276,10 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -29555,17 +29556,21 @@
     "department": "POLS",
     "firstName": "Michael",
     "lastName": "Latner",
-    "numEvals": 80,
+    "numEvals": 81,
+    "overallRating": 2.06,
     "materialClear": 2.1,
-    "studentDifficulties": 2.04,
-    "overallRating": 2.07,
+    "studentDifficulties": 2.03,
     "courses": [
       "POLS 112",
       "POLS 316",
       "POLS 317",
       "POLS 319",
       "POLS 445"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "d71efbb1-dc0e-4096-aeef-7c320b480caf",
