@@ -11199,10 +11199,10 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 53,
-    "overallRating": 3.62,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.46,
+    "numEvals": 52,
+    "overallRating": 3.69,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.49,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -20811,14 +20811,16 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Marlow",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "materialClear": 0.5,
+    "studentDifficulties": 0.5,
     "courses": [
-      "STAT"
+      "STAT 218"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9426f0cb-0740-43c2-a873-8e957ff54873",
@@ -27896,7 +27898,7 @@
     "department": "DATA",
     "firstName": "Bernette",
     "lastName": "Chan",
-    "numEvals": 2,
+    "numEvals": 1,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
