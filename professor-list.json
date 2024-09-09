@@ -17849,17 +17849,19 @@
     "department": "BUS",
     "firstName": "Adam",
     "lastName": "Bordeman",
-    "numEvals": 18,
-    "overallRating": 2.78,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.43,
+    "numEvals": 19,
+    "overallRating": 2.84,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.51,
     "courses": [
       "BUS 214",
       "BUS 321"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -35486,16 +35488,21 @@
     "department": "BIO",
     "firstName": "Kristin Hardy",
     "lastName": "Lema",
-    "numEvals": 20,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.62,
-    "overallRating": 2.67,
+    "numEvals": 21,
+    "overallRating": 2.64,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.59,
     "courses": [
       "BIO 231",
       "BIO 361",
       "BIO 409",
-      "BIO 434"
-    ]
+      "BIO 434",
+      "MSCI 111"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "fedaa724-94b8-4b33-958f-e5a76dd709b3",
