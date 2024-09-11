@@ -2894,22 +2894,23 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 6,
-    "overallRating": 2.17,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.5,
+    "numEvals": 7,
+    "overallRating": 2.29,
+    "materialClear": 3,
+    "studentDifficulties": 2.71,
     "courses": [
       "MATH 141",
       "MATH 119",
-      "MATE 162"
+      "MATE 162",
+      "MATH 161"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 1,
-      "Supplemental Study Material": 2,
-      "Fast Response Time": 1
+      "Supplemental Study Material": 3,
+      "Fast Response Time": 2
     }
   },
   {
@@ -12257,10 +12258,10 @@
     "department": "ENGL",
     "firstName": "Brad",
     "lastName": "Campbell",
-    "numEvals": 47,
+    "numEvals": 48,
+    "overallRating": 3.76,
     "materialClear": 3.78,
-    "studentDifficulties": 3.65,
-    "overallRating": 3.78,
+    "studentDifficulties": 3.66,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -12270,8 +12271,13 @@
       "ENGL 310",
       "ENGL 340",
       "ENGL 347",
-      "ENGL 449"
-    ]
+      "ENGL 449",
+      "ENGL 202"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "58a346b7-3147-4bdf-b8af-846d4341243f",
@@ -23422,14 +23428,18 @@
     "department": "HIST",
     "firstName": "Gregory",
     "lastName": "Domber",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "HIST"
+      "HIST 202"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a72417c3-c1e2-4ac8-be8f-f2877c7046f2",
