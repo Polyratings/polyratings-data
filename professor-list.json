@@ -9247,10 +9247,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 16,
-    "overallRating": 1.76,
-    "materialClear": 1.31,
-    "studentDifficulties": 1.8,
+    "numEvals": 17,
+    "overallRating": 1.66,
+    "materialClear": 1.23,
+    "studentDifficulties": 1.69,
     "courses": [
       "PHYS 141"
     ],
@@ -9259,9 +9259,10 @@
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 4,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -12421,10 +12422,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 2.94,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.71,
+    "materialClear": 3.13,
+    "studentDifficulties": 2.69,
     "courses": [
       "EE 112",
       "EE 201",
@@ -12439,7 +12440,10 @@
       "Hybrid Option": 1,
       "High In-Person Availability": 2,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -22153,10 +22157,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 25,
-    "overallRating": 2.93,
-    "materialClear": 2.89,
-    "studentDifficulties": 2.81,
+    "numEvals": 26,
+    "overallRating": 2.97,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.82,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -22171,7 +22175,8 @@
     "tags": {
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -34711,7 +34716,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 51,
+    "numEvals": 52,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
@@ -34726,7 +34731,7 @@
       "MATH 182"
     ],
     "tags": {
-      "Zoom Office Hours": 13,
+      "Zoom Office Hours": 14,
       "Fast Response Time": 5,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 2,
