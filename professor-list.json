@@ -4504,10 +4504,10 @@
     "department": "NR",
     "firstName": "Marni",
     "lastName": "Goldenberg",
-    "numEvals": 23,
-    "overallRating": 1.85,
-    "materialClear": 2.07,
-    "studentDifficulties": 2,
+    "numEvals": 24,
+    "overallRating": 1.77,
+    "materialClear": 1.98,
+    "studentDifficulties": 1.92,
     "courses": [
       "AG 101",
       "REC 101",
@@ -4519,7 +4519,12 @@
       "REC 328",
       "REC 460",
       "REC 461"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "1de2b19e-427c-4e00-9fed-76ff0eb20b9e",
