@@ -1264,18 +1264,20 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 26,
-    "overallRating": 2.43,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.39,
+    "numEvals": 27,
+    "overallRating": 2.45,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.38,
     "courses": [
       "BUS 438",
-      "BUS 439"
+      "BUS 439",
+      "BUS 204"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -7112,14 +7114,19 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "ASCI"
+      "ASCI 224",
+      "ASCI 112"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "310e9f01-8166-492d-8f37-83c8ddd7e511",
