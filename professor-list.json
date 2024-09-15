@@ -3607,10 +3607,10 @@
     "department": "MATH",
     "firstName": "Morgan",
     "lastName": "Sherman",
-    "numEvals": 63,
-    "overallRating": 3.32,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.28,
+    "numEvals": 64,
+    "overallRating": 3.33,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.29,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -3626,7 +3626,9 @@
     "tags": {
       "Class Handouts": 2,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 2,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -21386,10 +21388,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 37,
-    "overallRating": 3.2,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.13,
+    "numEvals": 38,
+    "overallRating": 3.22,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.15,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -21409,7 +21411,10 @@
       "Uploads Slides": 1,
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -24131,10 +24136,10 @@
     "department": "CSC",
     "firstName": "Tim",
     "lastName": "Kearns",
-    "numEvals": 88,
-    "overallRating": 1.87,
-    "materialClear": 1.84,
-    "studentDifficulties": 1.8,
+    "numEvals": 89,
+    "overallRating": 1.85,
+    "materialClear": 1.82,
+    "studentDifficulties": 1.78,
     "courses": [
       "CSC 101",
       "CSC 102",
@@ -27334,7 +27339,7 @@
     "department": "MATH",
     "firstName": "Lawrence",
     "lastName": "Sze",
-    "numEvals": 168,
+    "numEvals": 169,
     "overallRating": 2.46,
     "materialClear": 2.32,
     "studentDifficulties": 2.58,
@@ -27355,10 +27360,10 @@
       "MATH 334"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 2,
       "No Breaks During Lecture": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1
     }
