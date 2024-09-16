@@ -27145,12 +27145,13 @@
     "department": "IME",
     "firstName": "Duha",
     "lastName": "Ali",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "IME"
+      "IME 319",
+      "IME 326"
     ],
     "tags": {
       "Fast Response Time": 1,
