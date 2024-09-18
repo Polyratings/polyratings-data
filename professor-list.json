@@ -23623,10 +23623,10 @@
     "department": "ME",
     "firstName": "Brian",
     "lastName": "Self",
-    "numEvals": 48,
-    "materialClear": 2.16,
-    "studentDifficulties": 2.12,
-    "overallRating": 2.04,
+    "numEvals": 50,
+    "overallRating": 2,
+    "materialClear": 2.08,
+    "studentDifficulties": 2.1,
     "courses": [
       "ME 212",
       "ME 326",
@@ -23634,7 +23634,10 @@
       "ME 402",
       "ME 410",
       "ME 422"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a81a2ca0-78ee-4206-bb84-af2a93465331",
