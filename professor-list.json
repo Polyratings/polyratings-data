@@ -17705,10 +17705,10 @@
     "department": "CM",
     "firstName": "Enrique",
     "lastName": "Ivers",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.67,
+    "numEvals": 4,
+    "overallRating": 1.25,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.25,
     "courses": [
       "CM 232",
       "CM 314"
@@ -32854,22 +32854,23 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.83,
+    "materialClear": 3.85,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
       "PHYS 121"
     ],
     "tags": {
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 3,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
