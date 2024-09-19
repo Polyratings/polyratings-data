@@ -22548,10 +22548,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 25,
-    "overallRating": 3.68,
+    "numEvals": 26,
+    "overallRating": 3.69,
     "materialClear": 3.88,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.62,
     "courses": [
       "BIO 102",
       "BIO 114",
@@ -22559,9 +22559,10 @@
       "BOT 121"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "Fast Response Time": 1
     }
   },
   {
@@ -34756,7 +34757,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 53,
+    "numEvals": 54,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
@@ -34771,7 +34772,7 @@
       "MATH 182"
     ],
     "tags": {
-      "Zoom Office Hours": 14,
+      "Zoom Office Hours": 15,
       "Fast Response Time": 5,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 2,
