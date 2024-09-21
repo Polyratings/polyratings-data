@@ -13753,17 +13753,17 @@
     "department": "ASCI",
     "firstName": "Rachel",
     "lastName": "Lyons ",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ASCI"
+      "ASCI 310"
     ],
     "tags": {
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Class Handouts": 2,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -15646,10 +15646,10 @@
     "department": "IME",
     "firstName": "Tali",
     "lastName": "Freed",
-    "numEvals": 27,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.07,
-    "overallRating": 2.93,
+    "numEvals": 28,
+    "overallRating": 2.86,
+    "materialClear": 3.06,
+    "studentDifficulties": 3.03,
     "courses": [
       "IME 301",
       "IME 305",
@@ -15657,7 +15657,8 @@
       "IME 407",
       "IME 420",
       "IME 481"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "70f11b8c-b500-47ab-a2c9-ca727c6464f5",
@@ -25267,10 +25268,10 @@
     "department": "IME",
     "firstName": "Kevin",
     "lastName": "Williams",
-    "numEvals": 37,
-    "overallRating": 3.75,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.58,
+    "numEvals": 38,
+    "overallRating": 3.7,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.54,
     "courses": [
       "IME 141",
       "IME 142"
