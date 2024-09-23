@@ -23626,10 +23626,10 @@
     "department": "ME",
     "firstName": "Brian",
     "lastName": "Self",
-    "numEvals": 50,
-    "overallRating": 2,
-    "materialClear": 2.08,
-    "studentDifficulties": 2.1,
+    "numEvals": 49,
+    "overallRating": 2.02,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.12,
     "courses": [
       "ME 212",
       "ME 326",
@@ -23747,6 +23747,20 @@
       "Hybrid Option": 1,
       "No Breaks During Lecture": 1
     }
+  },
+  {
+    "id": "a9125607-e831-4a72-a70f-b19a92a1be73",
+    "department": "AEPS",
+    "firstName": "Patrick",
+    "lastName": "Frazier",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "AEPS"
+    ],
+    "tags": {}
   },
   {
     "id": "a9231ca7-7371-4cab-94a7-4f7752ba112c",
@@ -27013,17 +27027,21 @@
     "department": "CPE",
     "firstName": "Andrew",
     "lastName": "Danowitz",
-    "numEvals": 11,
-    "materialClear": 1.91,
-    "studentDifficulties": 2.41,
-    "overallRating": 2.39,
+    "numEvals": 12,
+    "overallRating": 2.52,
+    "materialClear": 2.08,
+    "studentDifficulties": 2.46,
     "courses": [
       "CPE 133",
       "CPE 233",
       "CPE 329",
       "CPE 442",
       "CPE 202"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "c44c2ee9-e1ff-42d0-ad4c-f5dc8603e13f",
