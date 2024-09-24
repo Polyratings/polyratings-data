@@ -6035,10 +6035,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 8,
-    "overallRating": 0.62,
-    "materialClear": 1.5,
-    "studentDifficulties": 0.88,
+    "numEvals": 9,
+    "overallRating": 0.55,
+    "materialClear": 1.33,
+    "studentDifficulties": 0.78,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -6192,10 +6192,10 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 8,
-    "overallRating": 3.87,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.88,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.88,
     "courses": [
       "MATH 142",
       "MATH 206",
@@ -6203,10 +6203,10 @@
       "MATH 248"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Fast Response Time": 4,
       "Supplemental Study Material": 3,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Class Handouts": 1
     }
   },
@@ -9852,10 +9852,10 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 89,
+    "numEvals": 90,
     "overallRating": 2.95,
     "materialClear": 2.99,
-    "studentDifficulties": 2.77,
+    "studentDifficulties": 2.76,
     "courses": [
       "TH 110",
       "TH 201",
@@ -9868,7 +9868,8 @@
     "tags": {
       "Zoom Office Hours": 2,
       "Class Handouts": 1,
-      "Inflexible Deadline Policy": 2
+      "Inflexible Deadline Policy": 3,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -25630,7 +25631,7 @@
     "department": "COMS",
     "firstName": "Erin",
     "lastName": "Zamora",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -25639,7 +25640,7 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Uploads Slides": 2,
       "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 3,
@@ -26222,22 +26223,23 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Wu",
-    "numEvals": 8,
-    "overallRating": 3.88,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.37,
+    "numEvals": 9,
+    "overallRating": 3.89,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.44,
     "courses": [
       "BUS 207",
       "BUS 404"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Uploads Slides": 9,
       "Inflexible Grading Policy": 1,
       "Flexible Attendance Policy": 5,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 3
+      "Flexible Grading Policy": 4,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30742,12 +30744,12 @@
     "department": "POLS",
     "firstName": "Craig",
     "lastName": "Asberry",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 245"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -32976,18 +32978,20 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 2.8,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS 143"
+      "PHYS 143",
+      "ASTR 101"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
