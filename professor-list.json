@@ -2896,10 +2896,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 7,
-    "overallRating": 2.29,
-    "materialClear": 3,
-    "studentDifficulties": 2.71,
+    "numEvals": 8,
+    "overallRating": 2.13,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.5,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -2908,8 +2908,8 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Class Handouts": 5,
-      "Inflexible Grading Policy": 2,
+      "Class Handouts": 6,
+      "Inflexible Grading Policy": 3,
       "Zoom Office Hours": 1,
       "Supplemental Study Material": 3,
       "Fast Response Time": 2
@@ -33940,18 +33940,20 @@
     "department": "ME",
     "firstName": "Dwight",
     "lastName": "Harvey",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 1.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 2,
+    "materialClear": 1.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "ME 129"
     ],
     "tags": {
       "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2,
-      "High In-Person Availability": 1
+      "Uploads Slides": 3,
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
