@@ -4135,10 +4135,10 @@
     "department": "CSC",
     "firstName": "Dekhtyar",
     "lastName": "Alexander",
-    "numEvals": 36,
-    "overallRating": 1.93,
-    "materialClear": 1.94,
-    "studentDifficulties": 1.99,
+    "numEvals": 37,
+    "overallRating": 1.99,
+    "materialClear": 1.97,
+    "studentDifficulties": 2.04,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -12071,10 +12071,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 86,
-    "overallRating": 2.12,
-    "materialClear": 2.07,
-    "studentDifficulties": 2.29,
+    "numEvals": 87,
+    "overallRating": 2.1,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.31,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -17853,10 +17853,10 @@
     "department": "SOC",
     "firstName": "Meg",
     "lastName": "Streiff",
-    "numEvals": 81,
-    "materialClear": 3.91,
-    "studentDifficulties": 3.94,
-    "overallRating": 3.95,
+    "numEvals": 82,
+    "overallRating": 3.9,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.92,
     "courses": [
       "GEOG 101",
       "SOC 101",
@@ -17866,7 +17866,8 @@
       "GEOG 308",
       "SOC 308",
       "GEOG 377"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "7d8d2101-38d4-4953-b511-d7b1ab9e475d",
@@ -22422,7 +22423,7 @@
     "department": "ENGL",
     "firstName": "Anthony",
     "lastName": "Lugo",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
