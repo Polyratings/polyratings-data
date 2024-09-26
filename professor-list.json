@@ -9877,10 +9877,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 36,
-    "overallRating": 2.12,
-    "materialClear": 1.97,
-    "studentDifficulties": 2.15,
+    "numEvals": 39,
+    "overallRating": 1.96,
+    "materialClear": 1.82,
+    "studentDifficulties": 1.99,
     "courses": [
       "IME 223",
       "IME 314",
@@ -10268,12 +10268,15 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 8,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1,
     "courses": [
-      "STAT"
+      "STAT 313",
+      "STAT 100",
+      "AERO 512",
+      "PSC 555"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -14987,10 +14990,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 50,
-    "overallRating": 1.39,
-    "materialClear": 1.72,
-    "studentDifficulties": 1.44,
+    "numEvals": 51,
+    "overallRating": 1.36,
+    "materialClear": 1.69,
+    "studentDifficulties": 1.41,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -33444,10 +33447,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 132,
-    "overallRating": 1.68,
-    "materialClear": 1.99,
-    "studentDifficulties": 1.63,
+    "numEvals": 133,
+    "overallRating": 1.67,
+    "materialClear": 1.98,
+    "studentDifficulties": 1.62,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -33471,11 +33474,11 @@
     "tags": {
       "Hybrid Option": 1,
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Recorded Lectures": 1,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3
     }
   },
   {
