@@ -2848,10 +2848,10 @@
     "department": "CSC",
     "firstName": "Mugizi Robert",
     "lastName": "Rwebangira",
-    "numEvals": 16,
-    "overallRating": 3.06,
-    "materialClear": 2.82,
-    "studentDifficulties": 3.14,
+    "numEvals": 17,
+    "overallRating": 3.12,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.19,
     "courses": [
       "CSC 248",
       "CPE 202",
@@ -2862,7 +2862,7 @@
       "Flexible Deadline Policy": 1,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "Supplemental Study Material": 1,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1
@@ -9366,18 +9366,20 @@
     "department": "ARCE",
     "firstName": "Anahid",
     "lastName": "Behrouzi",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ARCE 212",
-      "ARCE 371"
+      "ARCE 371",
+      "ARCE 412"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 2,
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -12758,10 +12760,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 3,
-    "overallRating": 0.67,
+    "numEvals": 4,
+    "overallRating": 0.5,
     "materialClear": 0,
-    "studentDifficulties": 1,
+    "studentDifficulties": 0.75,
     "courses": [
       "ENGL 347"
     ],
@@ -16672,10 +16674,10 @@
     "department": "CE",
     "firstName": "Mario",
     "lastName": "Esola",
-    "numEvals": 22,
-    "overallRating": 2.27,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.82,
+    "numEvals": 23,
+    "overallRating": 2.35,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.87,
     "courses": [
       "ARCE 211",
       "ARCE 226",
@@ -24001,10 +24003,10 @@
     "department": "HIST",
     "firstName": "Margaret",
     "lastName": "Bodemer",
-    "numEvals": 45,
-    "overallRating": 3.49,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.55,
+    "numEvals": 46,
+    "overallRating": 3.41,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.47,
     "courses": [
       "ANT 201",
       "HIST 206",
