@@ -135,7 +135,7 @@
     "department": "ENGL",
     "firstName": "Mark",
     "lastName": "Roberts",
-    "numEvals": 205,
+    "numEvals": 206,
     "overallRating": 3.82,
     "materialClear": 3.89,
     "studentDifficulties": 3.84,
@@ -154,10 +154,12 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Pop Quizzes": 3,
+      "Pop Quizzes": 4,
       "Fast Response Time": 2,
       "Class Handouts": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -4904,10 +4906,10 @@
     "department": "ITP",
     "firstName": "Manocher",
     "lastName": "Djassemi",
-    "numEvals": 27,
-    "overallRating": 2.18,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.13,
+    "numEvals": 28,
+    "overallRating": 2.21,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.16,
     "courses": [
       "IT 260",
       "IT 326",
@@ -7732,10 +7734,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 10,
-    "overallRating": 1.89,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.41,
+    "numEvals": 11,
+    "overallRating": 1.9,
+    "materialClear": 1.45,
+    "studentDifficulties": 2.37,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -8025,10 +8027,10 @@
     "department": "ECON",
     "firstName": "Eric",
     "lastName": "Fisher",
-    "numEvals": 95,
-    "overallRating": 2.29,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.08,
+    "numEvals": 96,
+    "overallRating": 2.31,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.09,
     "courses": [
       "ECON 101",
       "ECON 201",
@@ -11336,12 +11338,12 @@
     "department": "BUS",
     "firstName": "BJ",
     "lastName": "Yebisu",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 2.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ITP"
+      "ITP 233"
     ],
     "tags": {}
   },
@@ -24348,7 +24350,7 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -24357,9 +24359,9 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "High In-Person Availability": 1
     }
   },
@@ -24632,10 +24634,10 @@
     "department": "ENGL",
     "firstName": "Jose",
     "lastName": "Navarro",
-    "numEvals": 28,
-    "overallRating": 3.43,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.31,
+    "numEvals": 29,
+    "overallRating": 3.45,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.33,
     "courses": [
       "ENGL 145",
       "ENGL 202",
@@ -24652,7 +24654,8 @@
     "tags": {
       "Pop Quizzes": 2,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -26111,9 +26114,9 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.89,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -26122,12 +26125,13 @@
     "tags": {
       "Fast Response Time": 2,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 6,
-      "High In-Person Availability": 2,
+      "Uploads Slides": 7,
+      "High In-Person Availability": 3,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 4,
       "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
