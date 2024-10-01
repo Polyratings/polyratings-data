@@ -9882,10 +9882,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 39,
-    "overallRating": 1.96,
-    "materialClear": 1.82,
-    "studentDifficulties": 1.99,
+    "numEvals": 41,
+    "overallRating": 1.86,
+    "materialClear": 1.73,
+    "studentDifficulties": 1.89,
     "courses": [
       "IME 223",
       "IME 314",
@@ -9897,7 +9897,9 @@
       "IME 443",
       "IME 315"
     ],
-    "tags": {}
+    "tags": {
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "4657585a-880a-430a-95b7-91b367520bc7",
@@ -10273,20 +10275,25 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 8,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 10,
+    "overallRating": 1.2,
+    "materialClear": 1.2,
+    "studentDifficulties": 1.2,
     "courses": [
       "STAT 313",
       "STAT 100",
       "AERO 512",
-      "PSC 555"
+      "PSC 555",
+      "AGB 443",
+      "SPED 212"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Does Not Use Canvas": 2,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -22011,10 +22018,10 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 12,
-    "overallRating": 1.93,
-    "materialClear": 1.67,
-    "studentDifficulties": 2.25,
+    "numEvals": 13,
+    "overallRating": 1.78,
+    "materialClear": 1.54,
+    "studentDifficulties": 2.08,
     "courses": [
       "STAT 252",
       "STAT 251"
