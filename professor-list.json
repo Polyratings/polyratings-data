@@ -9906,9 +9906,9 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 282,
+    "numEvals": 283,
     "overallRating": 2.48,
-    "materialClear": 2.51,
+    "materialClear": 2.5,
     "studentDifficulties": 2.56,
     "courses": [
       "CM 101",
@@ -9929,11 +9929,11 @@
       "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 3,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Honor DRC Accommodations": 1,
       "Recorded Lectures": 2,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Zoom Office Hours": 1
     }
   },
@@ -14005,15 +14005,17 @@
     "department": "MU",
     "firstName": "Samuel",
     "lastName": "Shalhoub",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MU"
+      "MU 120"
     ],
     "tags": {
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -30765,7 +30767,7 @@
     "department": "POLS",
     "firstName": "Craig",
     "lastName": "Asberry",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -30774,7 +30776,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
