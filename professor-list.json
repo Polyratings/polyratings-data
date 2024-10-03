@@ -28877,10 +28877,10 @@
     "department": "SS",
     "firstName": "Bwalya",
     "lastName": "Malama",
-    "numEvals": 18,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.11,
-    "overallRating": 3.63,
+    "numEvals": 19,
+    "overallRating": 3.44,
+    "materialClear": 3.34,
+    "studentDifficulties": 2.95,
     "courses": [
       "SS 121",
       "ES 140",
@@ -28888,7 +28888,12 @@
       "ES 144",
       "FNR 144",
       "GEOL 201"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "d23e208a-85ac-48db-b057-435ddc9346b9",
