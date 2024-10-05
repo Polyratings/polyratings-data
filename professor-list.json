@@ -10275,17 +10275,18 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 10,
-    "overallRating": 1.2,
-    "materialClear": 1.2,
-    "studentDifficulties": 1.2,
+    "numEvals": 13,
+    "overallRating": 1.23,
+    "materialClear": 1.3,
+    "studentDifficulties": 1.23,
     "courses": [
       "STAT 313",
       "STAT 100",
       "AERO 512",
       "PSC 555",
       "AGB 443",
-      "SPED 212"
+      "SPED 212",
+      "STAT 331"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -10293,7 +10294,10 @@
       "Uploads Slides": 1,
       "Does Not Use Canvas": 2,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -28001,17 +28005,21 @@
     "department": "DATA",
     "firstName": "Bernette",
     "lastName": "Chan",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.67,
     "courses": [
       "DATA 301"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Inflexible Deadline Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
