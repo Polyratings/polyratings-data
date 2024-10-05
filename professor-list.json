@@ -28005,21 +28005,23 @@
     "department": "DATA",
     "firstName": "Bernette",
     "lastName": "Chan",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3,
+    "studentDifficulties": 2.75,
     "courses": [
-      "DATA 301"
+      "DATA 301",
+      "DATA 402"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Class Handouts": 1,
       "Inflexible Deadline Policy": 2,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "Pop Quizzes": 1
     }
   },
   {
