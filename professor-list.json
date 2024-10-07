@@ -32893,10 +32893,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 91,
-    "overallRating": 3.02,
-    "materialClear": 3.14,
-    "studentDifficulties": 2.72,
+    "numEvals": 92,
+    "overallRating": 2.99,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.7,
     "courses": [
       "ENGL 250",
       "ENGL 251",
@@ -32914,7 +32914,9 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
