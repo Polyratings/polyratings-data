@@ -12535,13 +12535,15 @@
     "department": "ITP",
     "firstName": "Enar",
     "lastName": "Tunc",
-    "numEvals": 1,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
     "courses": [
-      "ITP 371"
-    ]
+      "ITP 371",
+      "ITP 125"
+    ],
+    "tags": {}
   },
   {
     "id": "5a06a8e3-f8b7-4c93-bf0f-a880042f64f0",
