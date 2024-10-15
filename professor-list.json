@@ -5656,10 +5656,10 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 311,
-    "overallRating": 1.73,
-    "materialClear": 2.09,
-    "studentDifficulties": 1.65,
+    "numEvals": 312,
+    "overallRating": 1.72,
+    "materialClear": 2.08,
+    "studentDifficulties": 1.64,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -5679,10 +5679,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 1
+      "Inflexible Grading Policy": 4,
+      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -10275,10 +10276,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 15,
-    "overallRating": 1.06,
-    "materialClear": 1.13,
-    "studentDifficulties": 1.06,
+    "numEvals": 16,
+    "overallRating": 0.99,
+    "materialClear": 1.06,
+    "studentDifficulties": 0.99,
     "courses": [
       "STAT 313",
       "STAT 100",
@@ -12964,15 +12965,16 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 8,
-    "overallRating": 3.87,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.77,
     "courses": [
       "SOC 355",
       "SOC 406",
       "SOC 412",
-      "ES 112"
+      "ES 112",
+      "ES 254"
     ],
     "tags": {
       "Zoom Office Hours": 5,
