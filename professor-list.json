@@ -6781,18 +6781,18 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 7,
-    "overallRating": 2.14,
-    "materialClear": 2,
-    "studentDifficulties": 1.57,
+    "numEvals": 8,
+    "overallRating": 1.87,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.37,
     "courses": [
       "BUS 391",
       "BUS 392"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 3
     }
   },
   {
@@ -22218,10 +22218,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 27,
-    "overallRating": 3.01,
+    "numEvals": 28,
+    "overallRating": 2.97,
     "materialClear": 2.97,
-    "studentDifficulties": 2.86,
+    "studentDifficulties": 2.83,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -22231,14 +22231,16 @@
       "MATH 300",
       "MATH 329",
       "MATH 143",
-      "MATH 248"
+      "MATH 248",
+      "MATH 206"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -23292,14 +23294,16 @@
     "department": "STAT",
     "firstName": "Kelly ",
     "lastName": "Bodwin",
-    "numEvals": 2,
-    "overallRating": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
     "materialClear": 2,
-    "studentDifficulties": 2,
+    "studentDifficulties": 1.67,
     "courses": [
       "DATA 302",
-      "DATA 301"
-    ]
+      "DATA 301",
+      "GSB 544"
+    ],
+    "tags": {}
   },
   {
     "id": "a52f2dfe-7535-4872-b16e-4ddc9961fc7e",
@@ -34831,7 +34835,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 55,
+    "numEvals": 54,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
