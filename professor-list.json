@@ -10276,9 +10276,9 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 19,
-    "overallRating": 1.05,
-    "materialClear": 1.1,
+    "numEvals": 20,
+    "overallRating": 1,
+    "materialClear": 1.2,
     "studentDifficulties": 1.05,
     "courses": [
       "STAT 313",
@@ -10292,7 +10292,7 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Does Not Use Canvas": 3,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 2,
@@ -12967,16 +12967,15 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 9,
-    "overallRating": 3.66,
-    "materialClear": 3.44,
-    "studentDifficulties": 3.77,
+    "numEvals": 8,
+    "overallRating": 3.87,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.87,
     "courses": [
       "SOC 355",
       "SOC 406",
       "SOC 412",
-      "ES 112",
-      "ES 254"
+      "ES 112"
     ],
     "tags": {
       "Zoom Office Hours": 5,
