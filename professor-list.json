@@ -12536,15 +12536,19 @@
     "department": "ITP",
     "firstName": "Enar",
     "lastName": "Tunc",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "ITP 371",
       "ITP 125"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5a06a8e3-f8b7-4c93-bf0f-a880042f64f0",
