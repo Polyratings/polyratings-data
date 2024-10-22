@@ -28018,25 +28018,27 @@
     "department": "DATA",
     "firstName": "Bernette",
     "lastName": "Chan",
-    "numEvals": 8,
-    "overallRating": 2.37,
-    "materialClear": 2.38,
-    "studentDifficulties": 2,
+    "numEvals": 11,
+    "overallRating": 2.82,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.55,
     "courses": [
       "DATA 301",
       "DATA 402",
-      "MATE 490"
+      "MATE 490",
+      "MATH 512"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
       "Class Handouts": 1,
-      "Inflexible Deadline Policy": 2,
-      "No Breaks During Lecture": 3,
+      "Inflexible Deadline Policy": 4,
+      "No Breaks During Lecture": 4,
       "Flexible Attendance Policy": 2,
-      "Does Not Use Canvas": 2,
-      "Pop Quizzes": 1,
-      "Inflexible Attendance Policy": 1
+      "Does Not Use Canvas": 3,
+      "Pop Quizzes": 2,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -34844,7 +34846,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 55,
+    "numEvals": 54,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
