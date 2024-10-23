@@ -25218,10 +25218,10 @@
     "department": "ENGL",
     "firstName": "Erin",
     "lastName": "Martin-Elston",
-    "numEvals": 66,
-    "overallRating": 2.49,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.45,
+    "numEvals": 67,
+    "overallRating": 2.48,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.44,
     "courses": [
       "ENGL 134",
       "ENGL 143",
@@ -25232,7 +25232,10 @@
       "ENGL 310"
     ],
     "tags": {
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -34851,7 +34854,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
