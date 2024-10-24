@@ -7161,10 +7161,10 @@
     "department": "ARCH",
     "firstName": "Keith",
     "lastName": "Wiley",
-    "numEvals": 29,
-    "overallRating": 3.59,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.35,
+    "numEvals": 30,
+    "overallRating": 3.6,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.31,
     "courses": [
       "ARCH 101",
       "ARCH 105",
@@ -10277,10 +10277,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 20,
-    "overallRating": 1,
-    "materialClear": 1.2,
-    "studentDifficulties": 1.05,
+    "numEvals": 22,
+    "overallRating": 0.91,
+    "materialClear": 1.09,
+    "studentDifficulties": 1.14,
     "courses": [
       "STAT 313",
       "STAT 100",
@@ -10292,15 +10292,16 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 2,
       "Does Not Use Canvas": 3,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -12061,14 +12062,15 @@
     "department": "ARCH",
     "firstName": "Kelle",
     "lastName": "Brooks",
-    "numEvals": 10,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.27,
-    "overallRating": 2.45,
+    "numEvals": 11,
+    "overallRating": 2.41,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.34,
     "courses": [
       "ARCH 251",
       "ARCH 252"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "572844c9-a62a-43e1-a8b3-775bf82284f9",
@@ -18665,10 +18667,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 199,
-    "overallRating": 2.63,
-    "materialClear": 2.51,
-    "studentDifficulties": 2.41,
+    "numEvals": 200,
+    "overallRating": 2.64,
+    "materialClear": 2.52,
+    "studentDifficulties": 2.42,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -23529,10 +23531,10 @@
     "department": "ARCH",
     "firstName": "Michael",
     "lastName": "Lucas",
-    "numEvals": 22,
+    "numEvals": 23,
+    "overallRating": 3.5,
     "materialClear": 3.09,
-    "studentDifficulties": 3.3,
-    "overallRating": 3.48,
+    "studentDifficulties": 3.29,
     "courses": [
       "ARCH 101",
       "ARCH 106",
@@ -23543,7 +23545,8 @@
       "ES 370",
       "ARCH 401",
       "ARCH 481"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "a7249e1f-5a5b-4fc7-a07a-b30cb7104373",
@@ -24254,16 +24257,17 @@
     "department": "PHIL",
     "firstName": "Kevin",
     "lastName": "Houer",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2.51,
-    "studentDifficulties": 2.51,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.34,
     "courses": [
       "PHIL 231",
       "PHIL 126"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 1
     }
   },
   {
@@ -28215,10 +28219,10 @@
     "department": "ARCH",
     "firstName": "Don",
     "lastName": "Choi",
-    "numEvals": 66,
-    "overallRating": 3.16,
-    "materialClear": 3.43,
-    "studentDifficulties": 2.89,
+    "numEvals": 67,
+    "overallRating": 3.17,
+    "materialClear": 3.44,
+    "studentDifficulties": 2.91,
     "courses": [
       "ARCH 217",
       "ARCH 218",
