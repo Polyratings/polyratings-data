@@ -23455,10 +23455,10 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 54,
-    "overallRating": 3.72,
+    "numEvals": 55,
+    "overallRating": 3.73,
     "materialClear": 3.75,
-    "studentDifficulties": 3.68,
+    "studentDifficulties": 3.69,
     "courses": [
       "HIST 110",
       "HIST 210",
@@ -23471,9 +23471,14 @@
       "HIST 461",
       "HIST 501",
       "HIST 510",
-      "HIST 223"
+      "HIST 223",
+      "HIST 100"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a5f5cd6b-cea1-4d5b-b7a7-014185b586a3",
