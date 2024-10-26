@@ -23031,13 +23031,14 @@
     "department": "HLTH",
     "firstName": "Melissa",
     "lastName": "Cline",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "HLTH 453",
-      "HLTH 260"
+      "HLTH 260",
+      "HLTH 255"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -34673,10 +34674,10 @@
     "department": "ES",
     "firstName": "Grace",
     "lastName": "YEh",
-    "numEvals": 39,
-    "overallRating": 3.47,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.48,
+    "numEvals": 40,
+    "overallRating": 3.46,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.49,
     "courses": [
       "ES 244",
       "ES 322",
@@ -34686,7 +34687,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -34864,7 +34866,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 55,
+    "numEvals": 54,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
