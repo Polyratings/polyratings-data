@@ -5049,10 +5049,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 132,
-    "overallRating": 2.81,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.86,
+    "numEvals": 133,
+    "overallRating": 2.79,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.84,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -5060,7 +5060,7 @@
     "tags": {
       "Flexible Attendance Policy": 2,
       "Pop Quizzes": 2,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 2,
       "Fast Response Time": 2,
       "Recorded Lectures": 1
@@ -11701,10 +11701,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 18,
-    "overallRating": 2.18,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.27,
+    "numEvals": 20,
+    "overallRating": 2.26,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.14,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -11712,9 +11712,9 @@
       "MATH 141"
     ],
     "tags": {
-      "No Breaks During Lecture": 5,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1,
+      "No Breaks During Lecture": 6,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
       "Inflexible Grading Policy": 4,
       "Does Not Use Canvas": 8,
       "Supplemental Study Material": 3,
@@ -19484,7 +19484,7 @@
     "department": "COMS",
     "firstName": "Carmen",
     "lastName": "Navarro",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19495,9 +19495,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 3,
-      "High In-Person Availability": 2,
-      "Fast Response Time": 1
+      "Uploads Slides": 4,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2
     }
   },
   {
@@ -21241,10 +21241,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 73,
-    "overallRating": 2.36,
+    "numEvals": 74,
+    "overallRating": 2.34,
     "materialClear": 2.66,
-    "studentDifficulties": 2.23,
+    "studentDifficulties": 2.2,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -21257,10 +21257,11 @@
     "tags": {
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 3,
+      "No Breaks During Lecture": 1
     }
   },
   {
