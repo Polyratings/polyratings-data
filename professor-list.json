@@ -5252,10 +5252,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 6,
-    "overallRating": 3.16,
-    "materialClear": 3,
-    "studentDifficulties": 3.16,
+    "numEvals": 7,
+    "overallRating": 2.71,
+    "materialClear": 2.57,
+    "studentDifficulties": 3.28,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -12345,14 +12345,17 @@
     "department": "ASCI",
     "firstName": "McFarlane",
     "lastName": "Zach",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "AEPS 221",
       "ASCI 112"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "58d70b62-cfbc-4873-b3d8-d3a7df0ec2ce",
@@ -21241,10 +21244,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 74,
-    "overallRating": 2.34,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.2,
+    "numEvals": 75,
+    "overallRating": 2.32,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.18,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -23527,10 +23530,10 @@
     "department": "HIST",
     "firstName": "Gregory",
     "lastName": "Domber",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "materialClear": 3.67,
+    "studentDifficulties": 3,
     "courses": [
       "HIST 202"
     ],
