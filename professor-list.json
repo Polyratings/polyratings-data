@@ -19812,7 +19812,7 @@
     "department": "MATH",
     "firstName": "Todd",
     "lastName": "Grundmeier",
-    "numEvals": 62,
+    "numEvals": 63,
     "overallRating": 3.82,
     "materialClear": 3.72,
     "studentDifficulties": 3.72,
@@ -19831,7 +19831,11 @@
       "MATH 442",
       "MATH 443"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "8ba3f348-3512-416b-ba99-eb06d55f2127",
@@ -27119,21 +27123,22 @@
     "department": "CHEM",
     "firstName": "Erik",
     "lastName": "Sapper ",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.72,
     "courses": [
       "CHEM 124",
       "CHEM 127"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -27977,10 +27982,10 @@
     "department": "STAT",
     "firstName": "Hunter",
     "lastName": "Glanz",
-    "numEvals": 21,
-    "overallRating": 3.1,
-    "materialClear": 2.95,
-    "studentDifficulties": 3.18,
+    "numEvals": 23,
+    "overallRating": 3.18,
+    "materialClear": 3.04,
+    "studentDifficulties": 3.25,
     "courses": [
       "STAT 218",
       "STAT 251",
