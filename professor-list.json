@@ -12897,10 +12897,10 @@
     "department": "HLTH",
     "firstName": "Adrienne",
     "lastName": "Lent",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "HLTH 402",
       "HLTH 298"
@@ -12908,7 +12908,10 @@
     "tags": {
       "Recorded Lectures": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -26862,13 +26865,18 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Ainsworth",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
-    ]
+      "BUS 100"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "c15b693a-c08e-4e15-9efc-f215b0b1fb88",
