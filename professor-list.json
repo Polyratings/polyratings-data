@@ -1751,10 +1751,10 @@
     "department": "CHEM",
     "firstName": "Derek",
     "lastName": "Gragson",
-    "numEvals": 88,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.4,
-    "overallRating": 2.53,
+    "numEvals": 89,
+    "overallRating": 2.55,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.42,
     "courses": [
       "CHEM 121",
       "CHEM 127",
@@ -1764,7 +1764,12 @@
       "CHEM 351",
       "CHEM 354",
       "CHEM 446"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "0c9674c5-825d-43ec-a54d-ca1d905523ee",
@@ -19262,22 +19267,24 @@
     "department": "PHYS",
     "firstName": "Lei",
     "lastName": "Lu",
-    "numEvals": 11,
-    "overallRating": 3.9,
-    "materialClear": 3.74,
+    "numEvals": 12,
+    "overallRating": 3.91,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 211",
       "PHYS 143",
       "PSY 142",
       "PHYS 141",
-      "PHYS 142"
+      "PHYS 142",
+      "PHYS 122"
     ],
     "tags": {
-      "Class Handouts": 5,
-      "Uploads Slides": 5,
+      "Class Handouts": 6,
+      "Uploads Slides": 6,
       "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 3
+      "Flexible Grading Policy": 3,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -21122,20 +21129,22 @@
     "department": "MATH",
     "firstName": "Cierra",
     "lastName": "Street",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.8,
+    "studentDifficulties": 3.83,
     "courses": [
       "MATH 141",
       "MATH 242"
     ],
     "tags": {
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Class Handouts": 5,
       "Uploads Slides": 3,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
