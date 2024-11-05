@@ -12106,9 +12106,9 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 88,
+    "numEvals": 89,
     "overallRating": 2.08,
-    "materialClear": 2.03,
+    "materialClear": 2.02,
     "studentDifficulties": 2.28,
     "courses": [
       "COMS 101",
@@ -12122,7 +12122,7 @@
       "SPC 202"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Uploads Slides": 1
     }
   },
@@ -35043,12 +35043,13 @@
     "department": "MATH",
     "firstName": "Bella",
     "lastName": "Padavana",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.25,
     "courses": [
-      "MATH 118"
+      "MATH 118",
+      "MATH 141"
     ],
     "tags": {}
   },
