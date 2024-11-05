@@ -4340,16 +4340,18 @@
     "department": "CRP",
     "firstName": "Cornelius",
     "lastName": "Nuworsoo",
-    "numEvals": 12,
-    "materialClear": 2.13,
-    "studentDifficulties": 1.73,
-    "overallRating": 2,
+    "numEvals": 14,
+    "overallRating": 2.28,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.05,
     "courses": [
       "CRP 213",
       "CRP 214",
       "CRP 516",
-      "CRP 552"
-    ]
+      "CRP 552",
+      "CRP 435"
+    ],
+    "tags": {}
   },
   {
     "id": "1ca3e866-2140-4db6-a87b-19b7945f5f3d",
@@ -24982,9 +24984,9 @@
     "department": "ES",
     "firstName": "Lydia ",
     "lastName": "Heberling",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.85,
+    "materialClear": 3.87,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
