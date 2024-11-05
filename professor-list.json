@@ -17555,13 +17555,16 @@
     "department": "CSC",
     "firstName": "Davide",
     "lastName": "Falessi",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CSC 308"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "7b995fd2-ea14-4e9c-a61a-c7c86888147f",
@@ -27702,10 +27705,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Clements",
-    "numEvals": 68,
-    "overallRating": 2.64,
-    "materialClear": 2.59,
-    "studentDifficulties": 2.57,
+    "numEvals": 69,
+    "overallRating": 2.65,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.59,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -27717,8 +27720,8 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Does Not Use Canvas": 4,
-      "High In-Person Availability": 2,
+      "Does Not Use Canvas": 5,
+      "High In-Person Availability": 3,
       "Flexible Deadline Policy": 1
     }
   },
@@ -28214,17 +28217,20 @@
     "department": "CSC",
     "firstName": "Daniel",
     "lastName": "Frishberg",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
+      "CSC 248",
+      "CSC 445"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -33361,10 +33367,10 @@
     "department": "CSC",
     "firstName": "Bret",
     "lastName": "Hartman",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.25,
     "courses": [
       "CSC 321"
     ],
