@@ -7609,13 +7609,17 @@
     "department": "EE",
     "firstName": "Benjamin",
     "lastName": "Hawkins",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 2,
     "studentDifficulties": 4,
     "courses": [
-      "BMED"
-    ]
+      "BMED 310",
+      "BMED 432"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "34c2c46f-132f-42cf-8375-7c9ec9c401de",
@@ -15791,10 +15795,10 @@
     "department": "MU",
     "firstName": "David",
     "lastName": "Arrivee",
-    "numEvals": 28,
-    "overallRating": 3.77,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.77,
+    "numEvals": 29,
+    "overallRating": 3.78,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.78,
     "courses": [
       "MU 101",
       "MU 104",
@@ -26674,14 +26678,18 @@
     "department": "ME",
     "firstName": "Ali",
     "lastName": "Imam",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "ME"
+      "ME 212"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "c0838fe4-1744-449f-adc7-9cad527007c3",
