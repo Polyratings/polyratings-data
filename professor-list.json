@@ -1101,18 +1101,20 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 29,
-    "overallRating": 2.77,
-    "materialClear": 2.93,
-    "studentDifficulties": 2.84,
+    "numEvals": 31,
+    "overallRating": 2.69,
+    "materialClear": 2.94,
+    "studentDifficulties": 2.66,
     "courses": [
       "COMS 101"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -21836,17 +21838,18 @@
     "department": "PHYS",
     "firstName": "Isinsu",
     "lastName": "Toker",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "PHYS 211"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
