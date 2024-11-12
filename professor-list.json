@@ -8963,10 +8963,10 @@
     "department": "PHYS",
     "firstName": "David",
     "lastName": "Mitchell",
-    "numEvals": 64,
-    "overallRating": 3.5,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.49,
+    "numEvals": 65,
+    "overallRating": 3.51,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.5,
     "courses": [
       "ASTR 101",
       "PHYS 101",
@@ -8985,7 +8985,8 @@
       "ASTR 301"
     ],
     "tags": {
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -26355,9 +26356,9 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "ECON 222"
@@ -26365,7 +26366,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
