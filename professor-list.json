@@ -22264,10 +22264,10 @@
     "department": "STAT",
     "firstName": "Immanuel ",
     "lastName": "Williams",
-    "numEvals": 16,
-    "overallRating": 1.51,
-    "materialClear": 1.31,
-    "studentDifficulties": 1.69,
+    "numEvals": 17,
+    "overallRating": 1.48,
+    "materialClear": 1.47,
+    "studentDifficulties": 1.83,
     "courses": [
       "STAT 252",
       "STAT 251"
@@ -26355,14 +26355,18 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ECON"
+      "ECON 222"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "bc1144a2-7ef3-4f53-8f6b-f30f091edb8f",
@@ -27726,10 +27730,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 47,
-    "overallRating": 3.44,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.42,
+    "numEvals": 48,
+    "overallRating": 3.37,
+    "materialClear": 3.34,
+    "studentDifficulties": 3.37,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -27739,7 +27743,11 @@
       "PSY 460",
       "PSY 520"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "c6496a9b-8ea8-498d-9662-9b8a478fafe0",
@@ -29942,12 +29950,12 @@
     "department": "ES",
     "firstName": "Mt",
     "lastName": "Vallarta",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 0.33,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.67,
     "courses": [
-      "ES"
+      "ES 112"
     ],
     "tags": {
       "Flexible Attendance Policy": 1
@@ -33895,9 +33903,9 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 133,
+    "numEvals": 134,
     "overallRating": 1.67,
-    "materialClear": 1.98,
+    "materialClear": 1.97,
     "studentDifficulties": 1.62,
     "courses": [
       "ENGL 203",
@@ -33922,11 +33930,11 @@
     "tags": {
       "Hybrid Option": 1,
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 3,
-      "Recorded Lectures": 1,
-      "Does Not Use Canvas": 3
+      "Recorded Lectures": 2,
+      "Does Not Use Canvas": 4
     }
   },
   {
