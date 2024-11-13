@@ -2513,7 +2513,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 174,
+    "numEvals": 175,
     "overallRating": 3.56,
     "materialClear": 3.64,
     "studentDifficulties": 3.37,
@@ -2527,7 +2527,7 @@
       "BUS 461"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1
     }
@@ -3362,10 +3362,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 54,
-    "materialClear": 1.59,
-    "studentDifficulties": 1.33,
-    "overallRating": 1.41,
+    "numEvals": 55,
+    "overallRating": 1.44,
+    "materialClear": 1.62,
+    "studentDifficulties": 1.36,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -3375,7 +3375,8 @@
       "AGB 318",
       "AGB 404",
       "AGB 406"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "168973b1-c4a1-4d0f-8538-6b449a2718f9",
@@ -12700,12 +12701,12 @@
     "department": "ME",
     "firstName": "Shaheen",
     "lastName": "Hoque",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
-      "ME"
+      "ME 302"
     ],
     "tags": {}
   },
@@ -13199,10 +13200,10 @@
     "department": "AGB",
     "firstName": "Xiaowei",
     "lastName": "Cai",
-    "numEvals": 22,
-    "materialClear": 1.96,
-    "studentDifficulties": 2.08,
-    "overallRating": 2.29,
+    "numEvals": 23,
+    "overallRating": 2.36,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.16,
     "courses": [
       "AGB 202",
       "AGB 212",
@@ -13210,7 +13211,10 @@
       "AGB 308",
       "AGB 310",
       "AGB 311"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1
+    }
   },
   {
     "id": "5e159eac-f3b1-4c39-9625-a3783c1227fa",
@@ -14322,21 +14326,24 @@
     "department": "BIO",
     "firstName": "Jason",
     "lastName": "Blank",
-    "numEvals": 25,
-    "overallRating": 2.32,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.28,
+    "numEvals": 26,
+    "overallRating": 2.35,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.27,
     "courses": [
       "BIO 161",
       "BIO 162",
       "BIO 361",
       "BIO 433",
-      "BIO 409"
+      "BIO 409",
+      "BIO 408"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -23891,10 +23898,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 0.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 5,
+    "overallRating": 1,
+    "materialClear": 0.2,
+    "studentDifficulties": 1.8,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -23902,7 +23909,8 @@
     "tags": {
       "Recorded Lectures": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -24529,10 +24537,10 @@
     "department": "PHIL",
     "firstName": "Kevin",
     "lastName": "Houer",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.01,
-    "studentDifficulties": 2.34,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 1.51,
+    "studentDifficulties": 2.26,
     "courses": [
       "PHIL 231",
       "PHIL 126"
@@ -25510,16 +25518,17 @@
     "department": "BIO",
     "firstName": "Cilnton",
     "lastName": "Francis",
-    "numEvals": 14,
-    "overallRating": 2.55,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.61,
+    "numEvals": 15,
+    "overallRating": 2.65,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.7,
     "courses": [
       "ZOO 323",
       "BIO 401",
       "BIO 445",
       "BIO 323"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b4acf5c9-1276-4f90-8bf0-18b494acec23",
@@ -26157,10 +26166,10 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 6,
-    "overallRating": 2.33,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.83,
+    "numEvals": 7,
+    "overallRating": 2.43,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.85,
     "courses": [
       "CSC 101",
       "CSC 466"
@@ -26894,10 +26903,10 @@
     "department": "AERO",
     "firstName": "Jon",
     "lastName": "Tarantino",
-    "numEvals": 26,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.12,
-    "overallRating": 3.15,
+    "numEvals": 27,
+    "overallRating": 3.18,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.15,
     "courses": [
       "AERO 121",
       "ARCE 211",
@@ -26909,7 +26918,12 @@
       "ARCE 315",
       "ME 318",
       "AERO 420"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c044e448-c416-49ca-8e56-66a067c49535",
@@ -28332,10 +28346,10 @@
     "department": "CHEM",
     "firstName": "Scott",
     "lastName": "Eagon",
-    "numEvals": 30,
-    "overallRating": 3.06,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 31,
+    "overallRating": 3.09,
+    "materialClear": 3.03,
+    "studentDifficulties": 3.03,
     "courses": [
       "CHEM 110",
       "CHEM 216",
@@ -28347,7 +28361,11 @@
       "CHEM 377",
       "CHEM 217"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "cb86343c-8a9a-4789-a43c-77d7dc92f5aa",
@@ -30615,20 +30633,23 @@
     "department": "AEPS",
     "firstName": "Susan",
     "lastName": "Snyder",
-    "numEvals": 3,
-    "overallRating": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.25,
     "courses": [
       "AEPS 212",
-      "AEPS 381"
+      "AEPS 381",
+      "BIO 114"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 2,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Supplemental Study Material": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -34604,10 +34625,10 @@
     "department": "HIST",
     "firstName": "Sarah",
     "lastName": "Bridger",
-    "numEvals": 30,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.13,
-    "overallRating": 3.23,
+    "numEvals": 31,
+    "overallRating": 3.16,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.09,
     "courses": [
       "HIST 111",
       "HIST 202",
@@ -34615,7 +34636,10 @@
       "HIST 322",
       "HIST 326",
       "HIST 440"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "f6db88c3-00f7-4ed7-9f7d-fbb568a1a7f9",
