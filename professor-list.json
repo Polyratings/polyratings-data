@@ -2120,17 +2120,18 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 112"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -4038,6 +4039,20 @@
       "CSC 524",
       "CPE 426",
       "CPE 315"
+    ],
+    "tags": {}
+  },
+  {
+    "id": "1a71c4de-f9ad-40c0-a2aa-78433e23580d",
+    "department": "CRP",
+    "firstName": "Amir",
+    "lastName": "Hajrasouliha",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "CRP"
     ],
     "tags": {}
   },
@@ -15619,15 +15634,16 @@
     "department": "BUS",
     "firstName": "Shaimaa",
     "lastName": "Ewais",
-    "numEvals": 4,
-    "overallRating": 2.5,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 5,
+    "overallRating": 2.4,
+    "materialClear": 1.8,
+    "studentDifficulties": 2.2,
     "courses": [
       "BUS 391"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -16437,10 +16453,10 @@
     "department": "STAT",
     "firstName": "James",
     "lastName": "Oksanish",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3,
     "courses": [
       "STAT 312",
       "STAT 251",
@@ -18556,6 +18572,22 @@
       "FNR 318",
       "FNR 418"
     ]
+  },
+  {
+    "id": "814d230e-17aa-4898-a2e1-29222ec94619",
+    "department": "ECON",
+    "firstName": "Bessy",
+    "lastName": "Liao",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 1,
+    "studentDifficulties": 1,
+    "courses": [
+      "ECON"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "8151940c-72ba-424c-b631-a7d170731965",
@@ -24289,6 +24321,24 @@
     }
   },
   {
+    "id": "aaac5d2a-6bd7-4601-81c9-034b246a1b4f",
+    "department": "CM",
+    "firstName": "Terry",
+    "lastName": "Roy",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CM"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "aab12eb6-8d0c-4fe1-9c09-e37963515767",
     "department": "STAT",
     "firstName": "Samuel",
@@ -26272,6 +26322,22 @@
     "tags": {
       "Recorded Lectures": 2,
       "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "bb394e61-3950-4992-833f-ce8979514278",
+    "department": "ART",
+    "firstName": "Teri",
+    "lastName": "Sanders-Brown",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "ART"
+    ],
+    "tags": {
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -34625,10 +34691,10 @@
     "department": "HIST",
     "firstName": "Sarah",
     "lastName": "Bridger",
-    "numEvals": 31,
-    "overallRating": 3.16,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.09,
+    "numEvals": 30,
+    "overallRating": 3.23,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.13,
     "courses": [
       "HIST 111",
       "HIST 202",
@@ -34701,12 +34767,11 @@
     "department": "ASCI",
     "firstName": "Debbie",
     "lastName": "Beckett",
-    "numEvals": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 3.25,
     "studentDifficulties": 3.25,
-    "overallRating": 3.5,
     "courses": [
-      "ASCI 303",
       "ASCI 406"
     ]
   },
