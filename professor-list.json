@@ -18762,10 +18762,10 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 70,
-    "overallRating": 3.15,
+    "numEvals": 71,
+    "overallRating": 3.16,
     "materialClear": 3.29,
-    "studentDifficulties": 3.23,
+    "studentDifficulties": 3.24,
     "courses": [
       "ME 134",
       "ME 231",
@@ -18776,7 +18776,9 @@
       "ME 450"
     ],
     "tags": {
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 3,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -19963,12 +19965,12 @@
     "department": "ITP",
     "firstName": "German",
     "lastName": "Serna",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "materialClear": 0.5,
+    "studentDifficulties": 0.5,
     "courses": [
-      "ITP"
+      "ITP 371"
     ],
     "tags": {}
   },
