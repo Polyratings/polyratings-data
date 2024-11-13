@@ -2120,7 +2120,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2129,9 +2129,10 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 2,
-      "Fast Response Time": 1
+      "Flexible Attendance Policy": 2,
+      "Supplemental Study Material": 3,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -2963,10 +2964,10 @@
     "department": "CSC",
     "firstName": "Dev ",
     "lastName": "Sisodia",
-    "numEvals": 19,
-    "overallRating": 3.83,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.94,
+    "numEvals": 20,
+    "overallRating": 3.79,
+    "materialClear": 3.35,
+    "studentDifficulties": 3.84,
     "courses": [
       "CPE 101",
       "CSC 357",
@@ -21674,10 +21675,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 38,
-    "overallRating": 3.22,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.15,
+    "numEvals": 39,
+    "overallRating": 3.24,
+    "materialClear": 3.32,
+    "studentDifficulties": 3.17,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -21902,10 +21903,10 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 14,
-    "overallRating": 3.27,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.41,
+    "numEvals": 15,
+    "overallRating": 3.32,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.45,
     "courses": [
       "ENGL 231",
       "ENGL 305",
