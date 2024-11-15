@@ -23081,10 +23081,10 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 26,
-    "overallRating": 3.75,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.61,
+    "numEvals": 27,
+    "overallRating": 3.76,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.62,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -23940,10 +23940,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 6,
-    "overallRating": 0.83,
-    "materialClear": 0.17,
-    "studentDifficulties": 1.67,
+    "numEvals": 7,
+    "overallRating": 0.85,
+    "materialClear": 0.15,
+    "studentDifficulties": 1.72,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -23951,10 +23951,11 @@
     "tags": {
       "Recorded Lectures": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 3,
+      "No Breaks During Lecture": 4,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -28760,13 +28761,15 @@
     "department": "ENGL",
     "firstName": "Justin",
     "lastName": "Swanson",
-    "numEvals": 33,
-    "materialClear": 2.23,
-    "studentDifficulties": 2.63,
-    "overallRating": 2.63,
+    "numEvals": 34,
+    "overallRating": 2.67,
+    "materialClear": 2.28,
+    "studentDifficulties": 2.67,
     "courses": [
-      "ENGL 134"
-    ]
+      "ENGL 134",
+      "ENGL 145"
+    ],
+    "tags": {}
   },
   {
     "id": "cd6ff2a6-44c8-4f2c-a2a6-03e9d1e3a0a3",
