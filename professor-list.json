@@ -7255,10 +7255,10 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 7,
-    "overallRating": 1.28,
-    "materialClear": 1.14,
-    "studentDifficulties": 1.43,
+    "numEvals": 9,
+    "overallRating": 1.88,
+    "materialClear": 1.78,
+    "studentDifficulties": 2,
     "courses": [
       "AERO 121",
       "AERO 220",
@@ -7266,7 +7266,10 @@
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 2,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -23937,10 +23940,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 5,
-    "overallRating": 1,
-    "materialClear": 0.2,
-    "studentDifficulties": 1.8,
+    "numEvals": 6,
+    "overallRating": 0.83,
+    "materialClear": 0.17,
+    "studentDifficulties": 1.67,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -23948,8 +23951,10 @@
     "tags": {
       "Recorded Lectures": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 2,
-      "Zoom Office Hours": 1
+      "No Breaks During Lecture": 3,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
