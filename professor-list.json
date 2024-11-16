@@ -33441,9 +33441,9 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.85,
+    "materialClear": 3.87,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -34877,10 +34877,10 @@
     "department": "PHYS",
     "firstName": "Jennifer",
     "lastName": "Klay",
-    "numEvals": 28,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.7,
-    "overallRating": 1.7,
+    "numEvals": 29,
+    "overallRating": 1.78,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.78,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -34889,8 +34889,10 @@
       "PHYS 133",
       "PHYS 141",
       "PHYS 202",
-      "PHYS 340"
-    ]
+      "PHYS 340",
+      "PHYS 125"
+    ],
+    "tags": {}
   },
   {
     "id": "f7ea63da-9097-4396-8e5f-2b8c67ede3a2",
