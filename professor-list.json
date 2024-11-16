@@ -2120,7 +2120,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2128,10 +2128,10 @@
       "POLS 112"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 3,
-      "Fast Response Time": 1,
+      "Supplemental Study Material": 4,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1
     }
   },
@@ -5299,10 +5299,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 7,
-    "overallRating": 2.71,
-    "materialClear": 2.57,
-    "studentDifficulties": 3.28,
+    "numEvals": 8,
+    "overallRating": 2.37,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.87,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -6091,10 +6091,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 9,
-    "overallRating": 0.55,
-    "materialClear": 1.33,
-    "studentDifficulties": 0.78,
+    "numEvals": 10,
+    "overallRating": 0.5,
+    "materialClear": 1.3,
+    "studentDifficulties": 0.8,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -6102,7 +6102,7 @@
     "tags": {
       "Inflexible Deadline Policy": 5,
       "No Breaks During Lecture": 5,
-      "Inflexible Grading Policy": 6,
+      "Inflexible Grading Policy": 7,
       "Inflexible Attendance Policy": 3,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1
@@ -6552,9 +6552,9 @@
     "department": "STAT",
     "firstName": "Heather",
     "lastName": "Smith",
-    "numEvals": 110,
-    "overallRating": 2.49,
-    "materialClear": 2.63,
+    "numEvals": 111,
+    "overallRating": 2.48,
+    "materialClear": 2.62,
     "studentDifficulties": 2.46,
     "courses": [
       "STAT 211",
@@ -8870,9 +8870,9 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 264,
-    "overallRating": 2.4,
-    "materialClear": 2.14,
+    "numEvals": 265,
+    "overallRating": 2.39,
+    "materialClear": 2.13,
     "studentDifficulties": 2.53,
     "courses": [
       "ECON 111",
@@ -9869,10 +9869,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 28,
-    "overallRating": 1.04,
-    "materialClear": 1.05,
-    "studentDifficulties": 1.34,
+    "numEvals": 29,
+    "overallRating": 1,
+    "materialClear": 1.01,
+    "studentDifficulties": 1.29,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9883,10 +9883,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 16,
+      "Inflexible Attendance Policy": 17,
       "Inflexible Deadline Policy": 8,
-      "Inflexible Grading Policy": 10,
-      "No Breaks During Lecture": 5,
+      "Inflexible Grading Policy": 11,
+      "No Breaks During Lecture": 6,
       "Supplemental Study Material": 4,
       "Uploads Slides": 4,
       "Honor DRC Accommodations": 1,
@@ -15151,10 +15151,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 52,
-    "overallRating": 1.37,
-    "materialClear": 1.68,
-    "studentDifficulties": 1.42,
+    "numEvals": 53,
+    "overallRating": 1.34,
+    "materialClear": 1.65,
+    "studentDifficulties": 1.39,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -15169,7 +15169,8 @@
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -23941,10 +23942,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 7,
-    "overallRating": 0.85,
-    "materialClear": 0.15,
-    "studentDifficulties": 1.72,
+    "numEvals": 12,
+    "overallRating": 0.5,
+    "materialClear": 0.09,
+    "studentDifficulties": 1.26,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -23952,10 +23953,10 @@
     "tags": {
       "Recorded Lectures": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 6,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 4,
       "Flexible Grading Policy": 1
     }
   },
