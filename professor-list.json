@@ -5299,20 +5299,21 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 9,
-    "overallRating": 2.55,
-    "materialClear": 2.55,
-    "studentDifficulties": 3,
+    "numEvals": 10,
+    "overallRating": 2.7,
+    "materialClear": 2.7,
+    "studentDifficulties": 3.1,
     "courses": [
       "MATH 143",
       "MATH 244",
       "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Attendance Policy": 2,
-      "No Breaks During Lecture": 2,
-      "Fast Response Time": 1
+      "No Breaks During Lecture": 3,
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -9870,10 +9871,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 29,
-    "overallRating": 1,
-    "materialClear": 1.01,
-    "studentDifficulties": 1.29,
+    "numEvals": 30,
+    "overallRating": 0.97,
+    "materialClear": 1.04,
+    "studentDifficulties": 1.31,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -9885,8 +9886,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Inflexible Attendance Policy": 17,
-      "Inflexible Deadline Policy": 8,
-      "Inflexible Grading Policy": 11,
+      "Inflexible Deadline Policy": 9,
+      "Inflexible Grading Policy": 12,
       "No Breaks During Lecture": 6,
       "Supplemental Study Material": 4,
       "Uploads Slides": 4,
@@ -21897,16 +21898,17 @@
     "department": "EE",
     "firstName": "Kun",
     "lastName": "Hua",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 1.33,
+    "materialClear": 1,
+    "studentDifficulties": 2.67,
     "courses": [
-      "EE 215"
+      "EE 215",
+      "EE 228"
     ],
     "tags": {
-      "Supplemental Study Material": 2,
-      "Uploads Slides": 2,
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 3,
       "Inflexible Attendance Policy": 1
     }
   },
@@ -22184,10 +22186,10 @@
     "department": "CHEM",
     "firstName": "Michael",
     "lastName": "Heying",
-    "numEvals": 44,
-    "overallRating": 2.39,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.32,
+    "numEvals": 45,
+    "overallRating": 2.4,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.36,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -22202,7 +22204,8 @@
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 3,
       "Supplemental Study Material": 1,
-      "Does Not Use Canvas": 2
+      "Does Not Use Canvas": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -22939,10 +22942,10 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 7,
-    "overallRating": 3.29,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 3.38,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "CHEM 124",
       "PHYS 141",
