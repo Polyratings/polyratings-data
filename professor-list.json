@@ -2928,10 +2928,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 9,
-    "overallRating": 2,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 10,
+    "overallRating": 2.2,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.5,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -23951,21 +23951,21 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 25,
+    "numEvals": 27,
     "overallRating": 0.4,
-    "materialClear": 0.2,
-    "studentDifficulties": 0.76,
+    "materialClear": 0.18,
+    "studentDifficulties": 0.74,
     "courses": [
       "CSC 225",
       "CPE 225"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 7,
+      "No Breaks During Lecture": 8,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 5,
+      "Does Not Use Canvas": 6,
       "Flexible Grading Policy": 1
     }
   },
@@ -32634,15 +32634,17 @@
     "department": "STAT",
     "firstName": "Anelise",
     "lastName": "Sabbag",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "STAT"
+      "STAT 334"
     ],
     "tags": {
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
