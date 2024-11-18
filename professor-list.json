@@ -776,12 +776,13 @@
     "department": "COMS",
     "firstName": "Laura",
     "lastName": "Hunkler",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.75,
     "courses": [
-      "COMS 101"
+      "COMS 101",
+      "BUS 206"
     ],
     "tags": {
       "High In-Person Availability": 2,
@@ -2034,6 +2035,20 @@
       "ARCE 211",
       "CM 232"
     ]
+  },
+  {
+    "id": "0e37c220-c5cb-43a2-adea-69eb1eb6d778",
+    "department": "BUS",
+    "firstName": "Lane",
+    "lastName": "Fronczek",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {}
   },
   {
     "id": "0e40a11d-1bea-4b7b-8c4e-448bff923221",
@@ -4696,9 +4711,9 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 158,
-    "overallRating": 3.18,
-    "materialClear": 3.14,
+    "numEvals": 159,
+    "overallRating": 3.19,
+    "materialClear": 3.15,
     "studentDifficulties": 3.25,
     "courses": [
       "BUS 102",
@@ -4713,11 +4728,12 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -10985,6 +11001,23 @@
     ]
   },
   {
+    "id": "4e57b580-3ffe-4d30-b6df-f1f99a4de543",
+    "department": "ME",
+    "firstName": "Brendon",
+    "lastName": "Anderson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
+  },
+  {
     "id": "4e75a9b0-2c51-420b-95d7-f3c311699474",
     "department": "BUS",
     "firstName": "Yongcheng",
@@ -13564,10 +13597,10 @@
     "department": "ECON",
     "firstName": "Matthew",
     "lastName": "Cole",
-    "numEvals": 21,
-    "overallRating": 2.4,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.22,
+    "numEvals": 22,
+    "overallRating": 2.47,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.26,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -13578,7 +13611,8 @@
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 2,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -26349,6 +26383,23 @@
     ],
     "tags": {
       "Recorded Lectures": 2,
+      "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "bb0859b9-31c6-40e7-aa2a-accfb3e682c2",
+    "department": "HLTH",
+    "firstName": "Julia",
+    "lastName": "Coryell",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "HLTH"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
       "Uploads Slides": 1
     }
   },
