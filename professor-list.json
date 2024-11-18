@@ -5946,10 +5946,10 @@
     "department": "ENGL",
     "firstName": "Patricia",
     "lastName": "Kuznetsoff",
-    "numEvals": 97,
-    "overallRating": 2.28,
-    "materialClear": 2.36,
-    "studentDifficulties": 2.43,
+    "numEvals": 98,
+    "overallRating": 2.26,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.42,
     "courses": [
       "ENGL 102",
       "ENGL 134",
@@ -5961,7 +5961,7 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Inflexible Grading Policy": 4,
+      "Inflexible Grading Policy": 5,
       "Recorded Lectures": 4,
       "Inflexible Deadline Policy": 4,
       "Fast Response Time": 1
@@ -6761,7 +6761,7 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 147,
+    "numEvals": 148,
     "overallRating": 3.58,
     "materialClear": 3.64,
     "studentDifficulties": 3.45,
@@ -6778,15 +6778,18 @@
       "MATH 406",
       "MATH 459",
       "MATH 481",
-      "MATH 482"
+      "MATH 482",
+      "AEPS 118"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1,
       "Does Not Use Canvas": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -8988,10 +8991,10 @@
     "department": "PHYS",
     "firstName": "David",
     "lastName": "Mitchell",
-    "numEvals": 65,
-    "overallRating": 3.51,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.5,
+    "numEvals": 66,
+    "overallRating": 3.52,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.51,
     "courses": [
       "ASTR 101",
       "PHYS 101",
@@ -9010,8 +9013,9 @@
       "ASTR 301"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
-      "Supplemental Study Material": 1
+      "Zoom Office Hours": 3,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -23947,21 +23951,21 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 12,
-    "overallRating": 0.5,
-    "materialClear": 0.09,
-    "studentDifficulties": 1.26,
+    "numEvals": 25,
+    "overallRating": 0.4,
+    "materialClear": 0.2,
+    "studentDifficulties": 0.76,
     "courses": [
       "CSC 225",
       "CPE 225"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 6,
+      "No Breaks During Lecture": 7,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 4,
+      "Does Not Use Canvas": 5,
       "Flexible Grading Policy": 1
     }
   },
@@ -31536,8 +31540,8 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 5,
-    "overallRating": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -31546,8 +31550,8 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Fast Response Time": 2,
-      "Flexible Attendance Policy": 2,
+      "Fast Response Time": 3,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1
     }
