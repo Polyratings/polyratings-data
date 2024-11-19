@@ -6041,10 +6041,10 @@
     "department": "BUS",
     "firstName": "Sonja",
     "lastName": "Schuster",
-    "numEvals": 28,
-    "overallRating": 3.7,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.73,
+    "numEvals": 29,
+    "overallRating": 3.71,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.74,
     "courses": [
       "MATH 104",
       "MATH 116",
@@ -6057,7 +6057,9 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Recorded Lectures": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -17536,14 +17538,17 @@
     "department": "BUS",
     "firstName": "Amy",
     "lastName": "Carter",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 100"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "7a006797-af01-4d69-a45f-373982c1d344",
@@ -20715,12 +20720,13 @@
     "department": "COMS",
     "firstName": "Alexa",
     "lastName": "Loken",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS 101"
+      "COMS 101",
+      "BUS 206"
     ],
     "tags": {}
   },
@@ -23398,10 +23404,10 @@
     "department": "MATH",
     "firstName": "Zoe ",
     "lastName": "Nepsa",
-    "numEvals": 12,
-    "overallRating": 2.08,
-    "materialClear": 1.83,
-    "studentDifficulties": 2.34,
+    "numEvals": 13,
+    "overallRating": 2.07,
+    "materialClear": 1.84,
+    "studentDifficulties": 2.39,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -26530,18 +26536,18 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.4,
     "studentDifficulties": 4,
     "courses": [
       "ECON 222"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1,
-      "Uploads Slides": 3,
-      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 2,
+      "Uploads Slides": 4,
+      "Flexible Attendance Policy": 2,
       "High In-Person Availability": 1
     }
   },
