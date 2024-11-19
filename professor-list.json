@@ -5112,10 +5112,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 133,
-    "overallRating": 2.79,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.84,
+    "numEvals": 134,
+    "overallRating": 2.77,
+    "materialClear": 2.85,
+    "studentDifficulties": 2.82,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -5126,7 +5126,9 @@
       "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 2,
       "Fast Response Time": 2,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -5315,10 +5317,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 10,
-    "overallRating": 2.7,
-    "materialClear": 2.7,
-    "studentDifficulties": 3.1,
+    "numEvals": 11,
+    "overallRating": 2.64,
+    "materialClear": 2.64,
+    "studentDifficulties": 3,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -5435,18 +5437,19 @@
     "department": "KINE",
     "firstName": "Jens",
     "lastName": "Omli",
-    "numEvals": 13,
-    "overallRating": 3.36,
-    "materialClear": 3.65,
+    "numEvals": 15,
+    "overallRating": 3.18,
+    "materialClear": 3.7,
     "studentDifficulties": 3.5,
     "courses": [
       "KINE 266",
       "KINE 324",
-      "CD 329"
+      "CD 329",
+      "PSY 256"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "High In-Person Availability": 2,
+      "Uploads Slides": 3
     }
   },
   {
@@ -6645,12 +6648,12 @@
     "department": "WGS",
     "firstName": "Ceylan",
     "lastName": "Cemali",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 0,
+    "materialClear": 0.5,
     "studentDifficulties": 1,
     "courses": [
-      "WGS"
+      "WGS 145"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1
@@ -10344,12 +10347,12 @@
     "department": "HLTH",
     "firstName": "Krysti",
     "lastName": "Escobedo",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "HLTH"
+      "HLTH 255"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1
@@ -12025,10 +12028,10 @@
     "department": "SPAN",
     "firstName": "Fernando",
     "lastName": "Sanchez",
-    "numEvals": 15,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.47,
-    "overallRating": 3.53,
+    "numEvals": 16,
+    "overallRating": 3.56,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "SPAN 101",
       "SPAN 121",
@@ -12038,7 +12041,11 @@
       "SPAN 307",
       "HUM 310",
       "SPAN 410"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "553a4124-6b66-486f-9b80-d0ed854c271d",
@@ -13548,10 +13555,10 @@
     "department": "ENGL",
     "firstName": "Raymond",
     "lastName": "Brennan",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.4,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -13559,7 +13566,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 2
+      "Honor DRC Accommodations": 2,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -18155,19 +18165,19 @@
     "department": "BUS",
     "firstName": "Adam",
     "lastName": "Bordeman",
-    "numEvals": 19,
-    "overallRating": 2.84,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.51,
+    "numEvals": 20,
+    "overallRating": 2.9,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.58,
     "courses": [
       "BUS 214",
       "BUS 321"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1,
-      "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -18836,10 +18846,10 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Johnston",
-    "numEvals": 51,
-    "overallRating": 2.69,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.43,
+    "numEvals": 52,
+    "overallRating": 2.68,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.42,
     "courses": [
       "GEOL 102",
       "PHYS 102",
@@ -18848,7 +18858,8 @@
       "GEOL 201",
       "GEOL 241",
       "GEOG 102"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "826958d4-4d5c-4690-a61e-caa28db999e5",
@@ -22666,10 +22677,10 @@
     "department": "CE",
     "firstName": "Ashraf",
     "lastName": "Rahim",
-    "numEvals": 42,
-    "materialClear": 3,
-    "studentDifficulties": 2.77,
+    "numEvals": 43,
     "overallRating": 2.93,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.78,
     "courses": [
       "CE 112",
       "CE 114",
@@ -22679,7 +22690,8 @@
       "CE 322",
       "CE 521",
       "CE 523"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "9f055890-7390-45eb-baad-10c199a6bf6b",
@@ -23284,17 +23296,21 @@
     "department": "KINE",
     "firstName": "Kristine",
     "lastName": "Jankovitz",
-    "numEvals": 92,
-    "overallRating": 2.52,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.43,
+    "numEvals": 93,
+    "overallRating": 2.5,
+    "materialClear": 2.73,
+    "studentDifficulties": 2.4,
     "courses": [
       "KINE 250",
       "PE 250",
       "KINE 265",
       "KINE 280",
-      "KINE 434"
-    ]
+      "KINE 434",
+      "HLTH 250"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "a2c79464-e734-4d40-9ac0-059e0dde8093",
@@ -23380,10 +23396,10 @@
     "department": "MATH",
     "firstName": "Zoe ",
     "lastName": "Nepsa",
-    "numEvals": 11,
-    "overallRating": 2.27,
-    "materialClear": 2,
-    "studentDifficulties": 2.55,
+    "numEvals": 12,
+    "overallRating": 2.08,
+    "materialClear": 1.83,
+    "studentDifficulties": 2.34,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -23985,10 +24001,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 27,
-    "overallRating": 0.4,
-    "materialClear": 0.18,
-    "studentDifficulties": 0.74,
+    "numEvals": 28,
+    "overallRating": 0.39,
+    "materialClear": 0.17,
+    "studentDifficulties": 0.71,
     "courses": [
       "CSC 225",
       "CPE 225"
