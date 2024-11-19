@@ -7673,10 +7673,10 @@
     "department": "BUS",
     "firstName": "Stern",
     "lastName": "Neill",
-    "numEvals": 22,
-    "overallRating": 3.37,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.33,
+    "numEvals": 24,
+    "overallRating": 3.26,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.1,
     "courses": [
       "BUS 342",
       "BUS 346",
@@ -7684,7 +7684,9 @@
       "BUS 418",
       "BUS 446"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 2
+    }
   },
   {
     "id": "34c1c480-7590-4b17-ac8b-4f574092d813",
@@ -9491,10 +9493,10 @@
     "department": "ARCE",
     "firstName": "Craig",
     "lastName": "Baltimore",
-    "numEvals": 39,
-    "overallRating": 2.05,
-    "materialClear": 2.24,
-    "studentDifficulties": 1.97,
+    "numEvals": 40,
+    "overallRating": 2.07,
+    "materialClear": 2.28,
+    "studentDifficulties": 2,
     "courses": [
       "ARCE 211",
       "ARCE 212",
@@ -15779,7 +15781,7 @@
     "department": "AGC",
     "firstName": "James",
     "lastName": "Bingaman",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -15788,10 +15790,10 @@
       "AGC 301"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 2,
       "Uploads Slides": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2
     }
   },
   {
@@ -21201,10 +21203,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Marlow",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 1,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.33,
     "courses": [
       "STAT 218"
     ],
@@ -24001,22 +24003,24 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 28,
-    "overallRating": 0.39,
-    "materialClear": 0.17,
-    "studentDifficulties": 0.71,
+    "numEvals": 37,
+    "overallRating": 0.94,
+    "materialClear": 0.79,
+    "studentDifficulties": 1.21,
     "courses": [
       "CSC 225",
       "CPE 225"
     ],
     "tags": {
-      "Recorded Lectures": 3,
+      "Recorded Lectures": 4,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 8,
+      "No Breaks During Lecture": 9,
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 6,
-      "Flexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Does Not Use Canvas": 7,
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -34976,7 +34980,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -34995,8 +34999,9 @@
       "Supplemental Study Material": 2,
       "Fast Response Time": 3,
       "Honor DRC Accommodations": 3,
-      "Flexible Deadline Policy": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Deadline Policy": 3,
+      "Flexible Grading Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
