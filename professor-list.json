@@ -135,7 +135,7 @@
     "department": "ENGL",
     "firstName": "Mark",
     "lastName": "Roberts",
-    "numEvals": 206,
+    "numEvals": 207,
     "overallRating": 3.82,
     "materialClear": 3.89,
     "studentDifficulties": 3.84,
@@ -5365,10 +5365,10 @@
     "department": "BIO",
     "firstName": "Michael",
     "lastName": "Black",
-    "numEvals": 73,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.18,
+    "numEvals": 74,
     "overallRating": 3.31,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.18,
     "courses": [
       "BIO 111",
       "BIO 121",
@@ -5381,7 +5381,11 @@
       "BIO 452",
       "BIO 475",
       "BIO 501"
-    ]
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "25405858-47a0-49ac-ab2a-bf9d9eaea9bf",
