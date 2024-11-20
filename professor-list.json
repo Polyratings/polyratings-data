@@ -6045,10 +6045,10 @@
     "department": "BUS",
     "firstName": "Sonja",
     "lastName": "Schuster",
-    "numEvals": 29,
-    "overallRating": 3.71,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.74,
+    "numEvals": 30,
+    "overallRating": 3.72,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.75,
     "courses": [
       "MATH 104",
       "MATH 116",
@@ -10337,9 +10337,9 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 3.81,
-    "materialClear": 3.7,
+    "materialClear": 3.71,
     "studentDifficulties": 3.78,
     "courses": [
       "ENGL 134",
@@ -23444,17 +23444,19 @@
     "department": "BUS",
     "firstName": "Thomas",
     "lastName": "Crooke",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "BUS"
+      "BUS 401"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -24024,10 +24026,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 65,
-    "overallRating": 2.26,
-    "materialClear": 2.16,
-    "studentDifficulties": 2.41,
+    "numEvals": 93,
+    "overallRating": 1.58,
+    "materialClear": 1.55,
+    "studentDifficulties": 1.71,
     "courses": [
       "CSC 225",
       "CPE 225"
