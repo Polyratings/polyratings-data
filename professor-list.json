@@ -1366,10 +1366,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 13,
-    "overallRating": 3.08,
-    "materialClear": 3.16,
-    "studentDifficulties": 2.55,
+    "numEvals": 18,
+    "overallRating": 2.22,
+    "materialClear": 3.4,
+    "studentDifficulties": 2.95,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -10585,10 +10585,10 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 46,
-    "overallRating": 3.6,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.67,
+    "numEvals": 47,
+    "overallRating": 3.61,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.68,
     "courses": [
       "HIST 201",
       "HIST 213",
@@ -10600,9 +10600,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Recorded Lectures": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -10667,9 +10668,9 @@
     "department": "CSC",
     "firstName": "Ayaan",
     "lastName": "Kazerouni",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
-    "materialClear": 3.81,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "CPE 203",
@@ -10680,7 +10681,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -14707,10 +14710,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 127,
-    "overallRating": 1.2,
-    "materialClear": 1.05,
-    "studentDifficulties": 1.22,
+    "numEvals": 128,
+    "overallRating": 1.21,
+    "materialClear": 1.07,
+    "studentDifficulties": 1.23,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -14720,10 +14723,11 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "No Breaks During Lecture": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -15964,10 +15968,10 @@
     "department": "HIST",
     "firstName": "Nathan ",
     "lastName": "Perry",
-    "numEvals": 8,
-    "overallRating": 2,
-    "materialClear": 2.63,
-    "studentDifficulties": 1.75,
+    "numEvals": 9,
+    "overallRating": 1.89,
+    "materialClear": 2.45,
+    "studentDifficulties": 1.67,
     "courses": [
       "HIST 222",
       "HIST 225",
@@ -15975,8 +15979,8 @@
       "HIST 223"
     ],
     "tags": {
-      "No Breaks During Lecture": 5,
-      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 6,
+      "Inflexible Grading Policy": 2,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1
     }
@@ -24026,10 +24030,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 93,
-    "overallRating": 1.58,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.71,
+    "numEvals": 115,
+    "overallRating": 1.84,
+    "materialClear": 1.81,
+    "studentDifficulties": 1.95,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -25663,12 +25667,12 @@
     "department": "PHYS",
     "firstName": "Lizvette",
     "lastName": "Villafa\u00f1a",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ASTR"
+      "ASTR 102"
     ],
     "tags": {}
   },
@@ -28930,10 +28934,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.8,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -30167,15 +30171,18 @@
     "department": "ES",
     "firstName": "Mt",
     "lastName": "Vallarta",
-    "numEvals": 3,
-    "overallRating": 0.33,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.67,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.25,
     "courses": [
       "ES 112"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
