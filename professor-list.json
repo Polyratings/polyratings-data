@@ -7685,10 +7685,10 @@
     "department": "BUS",
     "firstName": "Stern",
     "lastName": "Neill",
-    "numEvals": 24,
-    "overallRating": 3.26,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.1,
+    "numEvals": 25,
+    "overallRating": 3.21,
+    "materialClear": 3.06,
+    "studentDifficulties": 3.06,
     "courses": [
       "BUS 342",
       "BUS 346",
@@ -7697,7 +7697,9 @@
       "BUS 446"
     ],
     "tags": {
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -10407,15 +10409,16 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 6,
-    "overallRating": 2.68,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.68,
+    "numEvals": 7,
+    "overallRating": 2.3,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.44,
     "courses": [
       "STAT 313",
       "AERO 512",
       "PSC 555",
-      "STAT 331"
+      "STAT 331",
+      "DATA 301"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -12708,16 +12711,18 @@
     "department": "ENGL",
     "firstName": "Lauren",
     "lastName": "Henley",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 145"
     ],
     "tags": {
-      "Hybrid Option": 1,
-      "Fast Response Time": 1
+      "Hybrid Option": 2,
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -18734,10 +18739,10 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 2,
-    "overallRating": 0.5,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 0.33,
+    "materialClear": 1,
+    "studentDifficulties": 2.33,
     "courses": [
       "ECON 222"
     ],
@@ -24575,10 +24580,10 @@
     "department": "HIST",
     "firstName": "Margaret",
     "lastName": "Bodemer",
-    "numEvals": 46,
-    "overallRating": 3.41,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.47,
+    "numEvals": 47,
+    "overallRating": 3.42,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.48,
     "courses": [
       "ANT 201",
       "HIST 206",
