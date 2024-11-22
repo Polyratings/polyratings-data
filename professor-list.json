@@ -1102,20 +1102,21 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 31,
-    "overallRating": 2.69,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.66,
+    "numEvals": 32,
+    "overallRating": 2.7,
+    "materialClear": 2.97,
+    "studentDifficulties": 2.67,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Attendance Policy": 2,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 2,
+      "Hybrid Option": 1
     }
   },
   {
@@ -1366,10 +1367,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 17,
-    "overallRating": 2.82,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.07,
+    "numEvals": 16,
+    "overallRating": 3,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.01,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -2135,7 +2136,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 4,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2143,9 +2144,9 @@
       "POLS 112"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 5,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 6,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 1
     }
@@ -7312,12 +7313,12 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ES"
+      "ES 254"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -18733,15 +18734,15 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 1,
-    "overallRating": 0,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 0.5,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.5,
     "courses": [
-      "ECON"
+      "ECON 222"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -21301,10 +21302,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Marlow",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 1,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.33,
+    "materialClear": 0.5,
+    "studentDifficulties": 0.5,
     "courses": [
       "STAT 218"
     ],
@@ -22320,16 +22321,16 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 1,
+    "materialClear": 0.5,
+    "studentDifficulties": 1.5,
     "courses": [
-      "ARCE"
+      "ARCE 211"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Does Not Use Canvas": 1
+      "High In-Person Availability": 2,
+      "Does Not Use Canvas": 2
     }
   },
   {
@@ -34300,10 +34301,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 135,
-    "overallRating": 1.69,
-    "materialClear": 1.98,
-    "studentDifficulties": 1.63,
+    "numEvals": 136,
+    "overallRating": 1.68,
+    "materialClear": 1.97,
+    "studentDifficulties": 1.62,
     "courses": [
       "ENGL 203",
       "ENGL 204",
