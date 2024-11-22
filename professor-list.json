@@ -9927,17 +9927,18 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 1.07,
     "materialClear": 1.14,
-    "studentDifficulties": 1.4,
+    "studentDifficulties": 1.42,
     "courses": [
       "MATE 210",
       "BRAE 348",
       "CHEM 127",
       "CHEM 110",
       "CHEM 124",
-      "BRAE 345"
+      "BRAE 345",
+      "BRAE 239"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -13881,16 +13882,20 @@
     "department": "NR",
     "firstName": "Jeremy",
     "lastName": "James",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 0,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 1.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "NR"
+      "NR 142",
+      "NR 306"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
