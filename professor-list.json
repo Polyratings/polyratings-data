@@ -8074,17 +8074,21 @@
     "department": "ASCI",
     "firstName": "Rodrigo Manjarin",
     "lastName": "Arredondo",
-    "numEvals": 15,
-    "overallRating": 1.82,
-    "materialClear": 1.36,
-    "studentDifficulties": 1.51,
+    "numEvals": 16,
+    "overallRating": 1.96,
+    "materialClear": 1.46,
+    "studentDifficulties": 1.6,
     "courses": [
       "ASCI 220",
       "ASCI 229",
       "ASCI 363",
       "ASCI 351"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "387d47d5-34a8-4bec-95fd-591967e99ecf",
@@ -13450,17 +13454,19 @@
     "department": "NR",
     "firstName": "Jerusha",
     "lastName": "Greenwood",
-    "numEvals": 8,
-    "overallRating": 2.89,
-    "materialClear": 2.78,
-    "studentDifficulties": 2.78,
+    "numEvals": 9,
+    "overallRating": 3.01,
+    "materialClear": 2.92,
+    "studentDifficulties": 2.92,
     "courses": [
       "REC 214",
       "REC 313",
       "REC 317",
       "REC 412",
-      "REC 461"
-    ]
+      "REC 461",
+      "AEPS 110"
+    ],
+    "tags": {}
   },
   {
     "id": "5ebff33a-0bd6-4589-b5b4-72574382de4b",
@@ -24133,10 +24139,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 72,
-    "overallRating": 1.05,
-    "materialClear": 0.99,
-    "studentDifficulties": 1.27,
+    "numEvals": 73,
+    "overallRating": 1.09,
+    "materialClear": 1.03,
+    "studentDifficulties": 1.31,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -29621,9 +29627,9 @@
     "department": "SS",
     "firstName": "Bwalya",
     "lastName": "Malama",
-    "numEvals": 19,
-    "overallRating": 3.44,
-    "materialClear": 3.34,
+    "numEvals": 20,
+    "overallRating": 3.42,
+    "materialClear": 3.32,
     "studentDifficulties": 2.95,
     "courses": [
       "SS 121",
@@ -29631,12 +29637,14 @@
       "ENVE 144",
       "ES 144",
       "FNR 144",
-      "GEOL 201"
+      "GEOL 201",
+      "SS 120"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
