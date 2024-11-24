@@ -3495,17 +3495,20 @@
     "department": "IME",
     "firstName": "Puneet",
     "lastName": "Agarwal",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "IME"
+      "IME 212",
+      "IME 372",
+      "IME 565"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
