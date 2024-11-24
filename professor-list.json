@@ -25276,10 +25276,10 @@
     "department": "ENGL",
     "firstName": "Jose",
     "lastName": "Navarro",
-    "numEvals": 29,
-    "overallRating": 3.45,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.33,
+    "numEvals": 30,
+    "overallRating": 3.44,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.32,
     "courses": [
       "ENGL 145",
       "ENGL 202",
@@ -25294,10 +25294,11 @@
       "ES 255"
     ],
     "tags": {
-      "Pop Quizzes": 2,
+      "Pop Quizzes": 3,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
