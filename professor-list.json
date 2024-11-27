@@ -11393,10 +11393,10 @@
     "department": "FSN",
     "firstName": "Samir",
     "lastName": "Amin",
-    "numEvals": 14,
-    "overallRating": 2.54,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.61,
+    "numEvals": 15,
+    "overallRating": 2.64,
+    "materialClear": 2.52,
+    "studentDifficulties": 2.7,
     "courses": [
       "FSN 121",
       "FSN 321"
@@ -17419,17 +17419,21 @@
     "department": "CHEM",
     "firstName": "Javin",
     "lastName": "Oza",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 1.5,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 124",
+      "CHEM 127"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
