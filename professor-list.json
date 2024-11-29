@@ -17970,14 +17970,18 @@
     "department": "COMS",
     "firstName": "Ritch",
     "lastName": "Woffinden",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7bc42e42-644e-4eeb-a114-44789b2e4725",
@@ -22345,17 +22349,17 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0.33,
+    "numEvals": 4,
+    "overallRating": 0.5,
+    "materialClear": 0.25,
     "studentDifficulties": 1,
     "courses": [
       "ARCE 211"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Does Not Use Canvas": 3,
-      "Pop Quizzes": 1,
+      "High In-Person Availability": 3,
+      "Does Not Use Canvas": 4,
+      "Pop Quizzes": 2,
       "No Breaks During Lecture": 1
     }
   },
