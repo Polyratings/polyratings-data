@@ -1367,10 +1367,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 16,
-    "overallRating": 3,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.01,
+    "numEvals": 13,
+    "overallRating": 3.38,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.08,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -2136,7 +2136,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 7,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7295,10 +7295,10 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 9,
-    "overallRating": 1.88,
-    "materialClear": 1.78,
-    "studentDifficulties": 2,
+    "numEvals": 8,
+    "overallRating": 2.12,
+    "materialClear": 1.88,
+    "studentDifficulties": 2.13,
     "courses": [
       "AERO 121",
       "AERO 220",
@@ -7317,7 +7317,7 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7326,8 +7326,10 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Fast Response Time": 2,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -7570,6 +7572,20 @@
       "PSY 352",
       "PSY 360"
     ]
+  },
+  {
+    "id": "3385d6b4-c065-4d7b-bc6c-46ece07d03fa",
+    "department": "NR",
+    "firstName": "Cassidy ",
+    "lastName": "Bewley",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "NR"
+    ],
+    "tags": {}
   },
   {
     "id": "340f1a48-a770-4366-8d21-5150166e67ed",
@@ -18763,10 +18779,10 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 3,
-    "overallRating": 0.33,
-    "materialClear": 1,
-    "studentDifficulties": 2.33,
+    "numEvals": 2,
+    "overallRating": 0.5,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.5,
     "courses": [
       "ECON 222"
     ],
@@ -18802,6 +18818,20 @@
     "tags": {
       "Fast Response Time": 2
     }
+  },
+  {
+    "id": "81757f11-88b5-4649-9696-1348c83b6ea1",
+    "department": "SS",
+    "firstName": "Stewart",
+    "lastName": "Wilson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "SS"
+    ],
+    "tags": {}
   },
   {
     "id": "818112b1-8486-42ee-9f0c-80714070f9a4",
@@ -24155,10 +24185,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 74,
-    "overallRating": 1.08,
-    "materialClear": 1.02,
-    "studentDifficulties": 1.29,
+    "numEvals": 29,
+    "overallRating": 0.49,
+    "materialClear": 0.21,
+    "studentDifficulties": 0.92,
     "courses": [
       "CSC 225",
       "CPE 225"
