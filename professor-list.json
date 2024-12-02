@@ -776,18 +776,19 @@
     "department": "COMS",
     "firstName": "Laura",
     "lastName": "Hunkler",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
       "COMS 101",
       "BUS 206"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Fast Response Time": 2,
-      "Honor DRC Accommodations": 1
+      "Fast Response Time": 3,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9441,12 +9442,13 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 17,
-    "overallRating": 1.66,
-    "materialClear": 1.23,
-    "studentDifficulties": 1.69,
+    "numEvals": 18,
+    "overallRating": 1.73,
+    "materialClear": 1.38,
+    "studentDifficulties": 1.71,
     "courses": [
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 142"
     ],
     "tags": {
       "Inflexible Deadline Policy": 2,
@@ -9454,7 +9456,7 @@
       "Flexible Attendance Policy": 4,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 5,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "High In-Person Availability": 1,
       "No Breaks During Lecture": 1
     }
@@ -22181,10 +22183,10 @@
     "department": "STAT",
     "firstName": "Kevin",
     "lastName": "Ross",
-    "numEvals": 34,
-    "overallRating": 3.56,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.4,
+    "numEvals": 36,
+    "overallRating": 3.58,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.44,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -22192,7 +22194,8 @@
       "STAT 251",
       "STAT 252",
       "STAT 301",
-      "STAT 305"
+      "STAT 305",
+      "DATA 301"
     ],
     "tags": {}
   },
