@@ -8593,8 +8593,8 @@
     "department": "DSCI",
     "firstName": "Katherine",
     "lastName": "Swanson",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -8602,9 +8602,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Pop Quizzes": 2,
+      "Pop Quizzes": 3,
       "Supplemental Study Material": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -10544,6 +10545,24 @@
     "courses": [
       "CPE 169"
     ]
+  },
+  {
+    "id": "4a0cbbe7-507f-4d15-a9ab-a635d4f20cb8",
+    "department": "ENGL",
+    "firstName": "Maura",
+    "lastName": "Krause",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "4a107478-956f-4dcc-b8b3-d1ada1bb9d30",
@@ -17708,14 +17727,19 @@
     "department": "ME",
     "firstName": "Lauren",
     "lastName": "Rueda",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME",
-      "ME 128"
-    ]
+      "ME 341",
+      "ME 128",
+      "ME 236"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "7a4407d2-4dd1-41ea-ae15-aae7d9eb5d04",
@@ -19021,10 +19045,10 @@
     "department": "ENGL",
     "firstName": "Alison",
     "lastName": "Preston",
-    "numEvals": 58,
-    "materialClear": 2.12,
-    "studentDifficulties": 1.55,
-    "overallRating": 1.77,
+    "numEvals": 59,
+    "overallRating": 1.81,
+    "materialClear": 2.15,
+    "studentDifficulties": 1.59,
     "courses": [
       "ENGL 133",
       "ENGL 134",
@@ -19032,7 +19056,11 @@
       "ENGL 253",
       "ENGL 320",
       "ENGL 350"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "827f0fbc-a1aa-45d0-bb7d-3e0e214312f1",
@@ -21838,16 +21866,18 @@
     "department": "ME",
     "firstName": "Daniel",
     "lastName": "Castro",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
-      "ME 228"
+      "ME 228",
+      "ME 328"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -22726,10 +22756,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 28,
-    "overallRating": 2.97,
-    "materialClear": 2.97,
-    "studentDifficulties": 2.83,
+    "numEvals": 29,
+    "overallRating": 3.01,
+    "materialClear": 3.01,
+    "studentDifficulties": 2.84,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -22744,11 +22774,12 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 1,
-      "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1
+      "Fast Response Time": 2,
+      "Inflexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -24187,9 +24218,9 @@
     "firstName": "Peter",
     "lastName": "Han",
     "numEvals": 29,
-    "overallRating": 0.49,
-    "materialClear": 0.21,
-    "studentDifficulties": 0.92,
+    "overallRating": 0.78,
+    "materialClear": 0.5,
+    "studentDifficulties": 1.2,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -27142,7 +27173,7 @@
     "department": "ES",
     "firstName": "Kristian ",
     "lastName": "Vasquez",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -27151,9 +27182,9 @@
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -28894,6 +28925,22 @@
     "courses": [
       "PSY 205"
     ]
+  },
+  {
+    "id": "cc32a909-c824-4443-947e-8a9a2e0a4dda",
+    "department": "EE",
+    "firstName": "John",
+    "lastName": "Penvenne",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "EE"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "cc44e538-08ee-4e57-a534-a90e4c5e8252",
@@ -33613,15 +33660,16 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 8,
-    "overallRating": 3.5,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.5,
+    "numEvals": 9,
+    "overallRating": 3.44,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.56,
     "courses": [
       "ME 211",
       "ME 347",
       "ME 420",
-      "ME 341"
+      "ME 341",
+      "ME 302"
     ],
     "tags": {
       "High In-Person Availability": 2,
@@ -35854,10 +35902,10 @@
     "department": "MATH",
     "firstName": "Bella",
     "lastName": "Padavana",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.25,
+    "numEvals": 3,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
     "courses": [
       "MATH 118",
       "MATH 141"
