@@ -20841,10 +20841,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 141,
+    "numEvals": 142,
     "overallRating": 1.86,
-    "materialClear": 1.74,
-    "studentDifficulties": 1.83,
+    "materialClear": 1.73,
+    "studentDifficulties": 1.82,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -20865,8 +20865,10 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 3,
-      "Supplemental Study Material": 2
+      "Flexible Attendance Policy": 4,
+      "Supplemental Study Material": 2,
+      "Inflexible Deadline Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -24218,9 +24220,9 @@
     "firstName": "Peter",
     "lastName": "Han",
     "numEvals": 29,
-    "overallRating": 0.78,
-    "materialClear": 0.5,
-    "studentDifficulties": 1.2,
+    "overallRating": 0.51,
+    "materialClear": 0.23,
+    "studentDifficulties": 0.92,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -31271,10 +31273,10 @@
     "department": "CSC",
     "firstName": "Zachary",
     "lastName": "Peterson",
-    "numEvals": 23,
-    "overallRating": 3.77,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.66,
+    "numEvals": 22,
+    "overallRating": 3.76,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.64,
     "courses": [
       "CPE 123",
       "CSC 123",
