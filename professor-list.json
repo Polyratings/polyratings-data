@@ -25957,14 +25957,19 @@
     "department": "PHYS",
     "firstName": "Lizvette",
     "lastName": "Villafa\u00f1a",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
-      "ASTR 102"
+      "ASTR 102",
+      "PHYS 141"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b4806304-8d46-4040-ae3a-26aca65c4c2c",
