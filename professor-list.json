@@ -18193,16 +18193,17 @@
     "department": "CM",
     "firstName": "Enrique",
     "lastName": "Ivers",
-    "numEvals": 4,
-    "overallRating": 1.25,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.25,
+    "numEvals": 5,
+    "overallRating": 1,
+    "materialClear": 1.4,
+    "studentDifficulties": 1,
     "courses": [
       "CM 232",
       "CM 314"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -22689,17 +22690,18 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 4,
-    "overallRating": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -26856,17 +26858,17 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 14,
-    "overallRating": 3.72,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.78,
+    "numEvals": 16,
+    "overallRating": 3.76,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.8,
     "courses": [
       "ECON 222"
     ],
     "tags": {
       "Fast Response Time": 2,
       "Honor DRC Accommodations": 2,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 4,
       "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1
@@ -27694,22 +27696,22 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 13,
-    "overallRating": 3.92,
-    "materialClear": 3.92,
-    "studentDifficulties": 3.77,
+    "numEvals": 14,
+    "overallRating": 3.93,
+    "materialClear": 3.93,
+    "studentDifficulties": 3.79,
     "courses": [
       "BIO 111",
       "BIO 150",
       "BIO 263"
     ],
     "tags": {
-      "Recorded Lectures": 7,
+      "Recorded Lectures": 8,
       "Fast Response Time": 4,
       "Flexible Attendance Policy": 4,
       "High In-Person Availability": 3,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "No Breaks During Lecture": 1
     }
   },
@@ -33103,19 +33105,20 @@
   {
     "id": "e8b83e2e-eb49-4c58-bf4c-adc69cba7a2a",
     "department": "CHEM",
-    "firstName": "Carson ",
+    "firstName": "Carson",
     "lastName": "Hasselbrink",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 216",
-      "CHEM 312"
+      "CHEM 312",
+      "CHEM 127"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1
     }
