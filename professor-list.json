@@ -89,14 +89,18 @@
     "department": "BUS",
     "firstName": "Cheryl-lyn",
     "lastName": "Ngoh",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 3.67,
     "studentDifficulties": 3,
     "courses": [
       "BUS 418"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "015ecf8c-bbc3-4c19-bf85-65f9beded8a4",
@@ -8651,10 +8655,10 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Regan",
-    "numEvals": 60,
-    "overallRating": 2.42,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.46,
+    "numEvals": 61,
+    "overallRating": 2.38,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.42,
     "courses": [
       "ENGL 134",
       "ENGL 148",
@@ -8667,7 +8671,8 @@
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 1,
       "Class Handouts": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -8885,6 +8890,24 @@
       "PHYS 141",
       "PHYS 206"
     ]
+  },
+  {
+    "id": "3e4c67e4-619f-46eb-a815-28d9f26557ec",
+    "department": "ENGL",
+    "firstName": "Tim",
+    "lastName": "Farrell",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "3e73b179-df27-4a4b-bb5d-ceedbd726923",
@@ -10444,16 +10467,15 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 8,
-    "overallRating": 2.01,
-    "materialClear": 2,
-    "studentDifficulties": 2.13,
+    "numEvals": 6,
+    "overallRating": 2.68,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "STAT 313",
       "AERO 512",
       "PSC 555",
-      "STAT 331",
-      "DATA 301"
+      "STAT 331"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -11053,6 +11075,24 @@
       "GSA 111",
       "IT 341"
     ]
+  },
+  {
+    "id": "4def0287-ca36-4f6d-8b50-ef6252b5e025",
+    "department": "LS",
+    "firstName": "Amanda",
+    "lastName": "Frye",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "LS"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4e03ec78-0505-49c9-8872-030bc8f45359",
@@ -24709,16 +24749,22 @@
     "department": "NR",
     "firstName": "Yi Wen",
     "lastName": "Chiu",
-    "numEvals": 6,
-    "overallRating": 1.43,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.71,
+    "numEvals": 7,
+    "overallRating": 1.23,
+    "materialClear": 1.47,
+    "studentDifficulties": 1.47,
     "courses": [
       "ENVE 140",
       "FNR 142",
       "FNR 218",
-      "FNR 311"
-    ]
+      "FNR 311",
+      "NR 218"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "ab565303-afb5-46c3-ab14-00d04cf57749",
@@ -26805,19 +26851,19 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 14,
+    "overallRating": 3.72,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.78,
     "courses": [
       "ECON 222"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Honor DRC Accommodations": 2,
-      "Uploads Slides": 5,
-      "Flexible Attendance Policy": 2,
-      "High In-Person Availability": 1,
+      "Uploads Slides": 6,
+      "Flexible Attendance Policy": 4,
+      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1
     }
   },
