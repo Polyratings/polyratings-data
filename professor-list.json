@@ -269,7 +269,7 @@
     "department": "COMS",
     "firstName": "Darrian",
     "lastName": "Carroll",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -281,7 +281,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -1368,10 +1370,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 13,
-    "overallRating": 3.38,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.08,
+    "numEvals": 12,
+    "overallRating": 3.66,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.34,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -2532,7 +2534,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 175,
+    "numEvals": 174,
     "overallRating": 3.56,
     "materialClear": 3.64,
     "studentDifficulties": 3.37,
@@ -3740,10 +3742,10 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 16,
-    "overallRating": 1.19,
-    "materialClear": 1.44,
-    "studentDifficulties": 1.37,
+    "numEvals": 17,
+    "overallRating": 1.18,
+    "materialClear": 1.41,
+    "studentDifficulties": 1.35,
     "courses": [
       "CHEM 121",
       "CHEM 126",
@@ -3753,13 +3755,13 @@
     ],
     "tags": {
       "Class Handouts": 3,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
       "Inflexible Deadline Policy": 1,
       "High In-Person Availability": 1,
       "Inflexible Attendance Policy": 1,
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 1
     }
   },
@@ -6112,14 +6114,18 @@
     "department": "ENGL",
     "firstName": "Thomas",
     "lastName": "Lugo",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 145"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "2b07c9bf-6124-4351-b978-a1763d70ce55",
@@ -19108,10 +19114,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 200,
-    "overallRating": 2.64,
-    "materialClear": 2.52,
-    "studentDifficulties": 2.42,
+    "numEvals": 201,
+    "overallRating": 2.63,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.41,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -19128,7 +19134,9 @@
       "MATH 344"
     ],
     "tags": {
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -20906,13 +20914,14 @@
     "department": "COMS",
     "firstName": "Alexa",
     "lastName": "Loken",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
-      "BUS 206"
+      "BUS 206",
+      "BUS 310"
     ],
     "tags": {}
   },
@@ -24223,21 +24232,21 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 29,
-    "overallRating": 0.51,
-    "materialClear": 0.23,
-    "studentDifficulties": 0.92,
+    "numEvals": 28,
+    "overallRating": 0.43,
+    "materialClear": 0.14,
+    "studentDifficulties": 0.84,
     "courses": [
       "CSC 225",
       "CPE 225"
     ],
     "tags": {
-      "Recorded Lectures": 5,
+      "Recorded Lectures": 6,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 10,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 2,
-      "Does Not Use Canvas": 7,
+      "Does Not Use Canvas": 8,
       "Flexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 1,
@@ -24245,7 +24254,7 @@
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -24429,20 +24438,20 @@
     "department": "BUS",
     "firstName": "Sakif",
     "lastName": "Rahman",
-    "numEvals": 5,
-    "overallRating": 0.2,
-    "materialClear": 0.4,
-    "studentDifficulties": 0.4,
+    "numEvals": 7,
+    "overallRating": 0.15,
+    "materialClear": 0.28,
+    "studentDifficulties": 0.28,
     "courses": [
       "BUS 431"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 1,
       "Inflexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1,
-      "Inflexible Grading Policy": 1
+      "Does Not Use Canvas": 2,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -25021,7 +25030,7 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -25030,10 +25039,11 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Flexible Grading Policy": 1,
-      "Zoom Office Hours": 3,
-      "High In-Person Availability": 1
+      "Zoom Office Hours": 4,
+      "High In-Person Availability": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -25639,18 +25649,19 @@
   {
     "id": "b2ddbf90-7477-4433-8df0-b4fc56053140",
     "department": "ES",
-    "firstName": "Lydia ",
+    "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 3.87,
+    "materialClear": 3.88,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 5,
+      "Uploads Slides": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -29086,9 +29097,9 @@
     "department": "ECON",
     "firstName": "Wilson",
     "lastName": "Kang",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.33,
+    "materialClear": 3.43,
     "studentDifficulties": 4,
     "courses": [
       "ECON 221",
@@ -29097,10 +29108,10 @@
       "ECON 222"
     ],
     "tags": {
-      "Uploads Slides": 2,
-      "Class Handouts": 1,
+      "Uploads Slides": 3,
+      "Class Handouts": 2,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -34461,9 +34472,9 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 6,
-    "overallRating": 3,
-    "materialClear": 2.17,
+    "numEvals": 8,
+    "overallRating": 2.5,
+    "materialClear": 2.38,
     "studentDifficulties": 3,
     "courses": [
       "COMS 100",
@@ -34471,8 +34482,8 @@
       "COMS 101"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 2,
       "Uploads Slides": 2,
       "No Breaks During Lecture": 1
     }
@@ -36049,10 +36060,10 @@
     "department": "PHYS",
     "firstName": "Colleen",
     "lastName": "Marlow",
-    "numEvals": 43,
-    "overallRating": 1.45,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.47,
+    "numEvals": 44,
+    "overallRating": 1.51,
+    "materialClear": 1.66,
+    "studentDifficulties": 1.5,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -36060,7 +36071,11 @@
       "PHYS 133",
       "PHYS 141"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "fbb9c843-a1f9-4fc5-9c23-09ed01a49c74",
