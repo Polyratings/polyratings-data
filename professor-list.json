@@ -404,9 +404,9 @@
     "department": "POLS",
     "firstName": "Shelley",
     "lastName": "Hurt",
-    "numEvals": 90,
-    "overallRating": 1.82,
-    "materialClear": 1.86,
+    "numEvals": 91,
+    "overallRating": 1.83,
+    "materialClear": 1.85,
     "studentDifficulties": 1.78,
     "courses": [
       "POLS 111",
@@ -1109,22 +1109,23 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 33,
-    "overallRating": 2.74,
-    "materialClear": 3,
-    "studentDifficulties": 2.71,
+    "numEvals": 34,
+    "overallRating": 2.78,
+    "materialClear": 3.03,
+    "studentDifficulties": 2.75,
     "courses": [
       "COMS 101"
     ],
     "tags": {
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Recorded Lectures": 2,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 2,
       "Inflexible Attendance Policy": 2,
       "Inflexible Grading Policy": 2,
       "Hybrid Option": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -10473,15 +10474,16 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 6,
-    "overallRating": 2.68,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.3,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.29,
     "courses": [
       "STAT 313",
       "AERO 512",
       "PSC 555",
-      "STAT 331"
+      "STAT 331",
+      "SPED 545"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -11059,14 +11061,17 @@
     "department": "CHEM",
     "firstName": "Leslie",
     "lastName": "Hamachi",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
       "CHEM 124"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4de0b45f-6c3e-4c6f-8dab-ab65dbf88f2d",
@@ -13005,14 +13010,17 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "5b69a047-55d5-4143-8ddb-df20388298ab",
@@ -13032,17 +13040,21 @@
     "department": "ES",
     "firstName": "Jenell",
     "lastName": "Navarro",
-    "numEvals": 21,
-    "overallRating": 3.55,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.5,
+    "numEvals": 22,
+    "overallRating": 3.57,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.52,
     "courses": [
       "ES 112",
       "WGS 201",
       "ES 340",
       "ES 253"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5b827029-e5fd-45de-9cff-8b27c2c41ec1",
@@ -31553,10 +31565,10 @@
     "department": "PHYS",
     "firstName": "Tom",
     "lastName": "Bensky",
-    "numEvals": 94,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.01,
-    "overallRating": 3.08,
+    "numEvals": 95,
+    "overallRating": 3.09,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.02,
     "courses": [
       "ASTR 101",
       "ASTR 102",
@@ -31571,7 +31583,12 @@
       "PHYS 323",
       "ASTR 324",
       "PHYS 324"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "dcc2900a-de11-40fc-b5f2-34bd35a7a4d6",
@@ -36261,10 +36278,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 30,
-    "overallRating": 0.77,
-    "materialClear": 1.01,
-    "studentDifficulties": 0.71,
+    "numEvals": 31,
+    "overallRating": 0.75,
+    "materialClear": 0.98,
+    "studentDifficulties": 0.69,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -36273,10 +36290,11 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 14,
-      "Inflexible Deadline Policy": 7,
+      "Inflexible Grading Policy": 15,
+      "Inflexible Deadline Policy": 8,
       "Hybrid Option": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
