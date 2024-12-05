@@ -21536,18 +21536,24 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 17,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.37,
-    "overallRating": 3.37,
+    "numEvals": 18,
+    "overallRating": 3.41,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.41,
     "courses": [
       "MATH 112",
       "MATH 117",
       "MATH 118",
       "MATH 119",
       "MATH 142",
-      "MATH 221"
-    ]
+      "MATH 221",
+      "MATH 141"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "924f777a-ca4d-4648-bd2f-9c4b845024a2",
