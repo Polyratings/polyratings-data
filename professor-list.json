@@ -8211,10 +8211,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 22,
-    "overallRating": 2.55,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.59,
+    "numEvals": 23,
+    "overallRating": 2.53,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.52,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -8225,8 +8225,10 @@
       "ARCE 226",
       "ARCE 260",
       "ARCE 316",
-      "ARCE 412"
-    ]
+      "ARCE 412",
+      "ARCE 106"
+    ],
+    "tags": {}
   },
   {
     "id": "38c776d5-4959-4237-8c57-e31263fbefb9",
@@ -9849,12 +9851,12 @@
     "department": "COMS",
     "firstName": "Sandra",
     "lastName": "Valois",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -30262,10 +30264,10 @@
     "department": "ARCH",
     "firstName": "Humberto",
     "lastName": "Norman",
-    "numEvals": 12,
-    "overallRating": 3.7,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.7,
+    "numEvals": 13,
+    "overallRating": 3.72,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.72,
     "courses": [
       "ARCH 131",
       "ARCH 132",
