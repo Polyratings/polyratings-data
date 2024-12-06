@@ -2165,7 +2165,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2944,17 +2944,17 @@
     "department": "CSC",
     "firstName": "Mugizi Robert",
     "lastName": "Rwebangira",
-    "numEvals": 17,
-    "overallRating": 3.12,
-    "materialClear": 2.89,
-    "studentDifficulties": 3.19,
+    "numEvals": 18,
+    "overallRating": 3.17,
+    "materialClear": 2.9,
+    "studentDifficulties": 3.24,
     "courses": [
       "CSC 248",
       "CPE 202",
       "CSC 466"
     ],
     "tags": {
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Deadline Policy": 1,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
@@ -3029,12 +3029,12 @@
   {
     "id": "138f93c1-0d91-486f-a7ef-c736eebd6204",
     "department": "CSC",
-    "firstName": "Dev ",
+    "firstName": "Dev",
     "lastName": "Sisodia",
-    "numEvals": 20,
-    "overallRating": 3.79,
-    "materialClear": 3.35,
-    "studentDifficulties": 3.84,
+    "numEvals": 21,
+    "overallRating": 3.8,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.85,
     "courses": [
       "CPE 101",
       "CSC 357",
@@ -3046,9 +3046,9 @@
     "tags": {
       "High In-Person Availability": 4,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 9,
+      "Flexible Deadline Policy": 10,
       "Zoom Office Hours": 4,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "Class Handouts": 1,
       "Flexible Grading Policy": 4,
       "Supplemental Study Material": 2,
@@ -5606,10 +5606,10 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 34,
-    "overallRating": 3.8,
+    "numEvals": 35,
+    "overallRating": 3.81,
     "materialClear": 3.94,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.75,
     "courses": [
       "POLS 112",
       "POLS 245",
@@ -7633,10 +7633,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 117,
+    "numEvals": 118,
     "overallRating": 3.42,
     "materialClear": 3.43,
-    "studentDifficulties": 3.25,
+    "studentDifficulties": 3.26,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -7648,7 +7648,9 @@
       "SOC 360",
       "ANT 415"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "335aff78-6ef9-43b6-9163-9fe28f92879e",
@@ -12205,7 +12207,7 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12216,10 +12218,11 @@
       "COMS 145"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Attendance Policy": 2,
       "Uploads Slides": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -12903,9 +12906,9 @@
     "department": "POLS",
     "firstName": "Charles",
     "lastName": "Barclay",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "POLS 225"
@@ -15763,9 +15766,9 @@
     "department": "EE",
     "firstName": "Ahmad",
     "lastName": "Nafisi",
-    "numEvals": 65,
-    "overallRating": 3.58,
-    "materialClear": 3.49,
+    "numEvals": 67,
+    "overallRating": 3.6,
+    "materialClear": 3.51,
     "studentDifficulties": 3.69,
     "courses": [
       "EE 110",
@@ -19891,16 +19894,19 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 40,
-    "overallRating": 2.1,
-    "materialClear": 2.07,
-    "studentDifficulties": 2.32,
+    "numEvals": 41,
+    "overallRating": 2.07,
+    "materialClear": 2.02,
+    "studentDifficulties": 2.26,
     "courses": [
       "STAT 218",
       "STAT 251",
       "STAT 321"
     ],
-    "tags": {}
+    "tags": {
+      "Hybrid Option": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "868c827b-6fa4-4255-9b55-03b154160b74",
@@ -28714,9 +28720,9 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 6,
-    "overallRating": 2.33,
-    "materialClear": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.43,
+    "materialClear": 2.86,
     "studentDifficulties": 3,
     "courses": [
       "ES 255"
@@ -29841,9 +29847,9 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 123,
+    "numEvals": 124,
     "overallRating": 2.88,
-    "materialClear": 2.79,
+    "materialClear": 2.78,
     "studentDifficulties": 2.87,
     "courses": [
       "CHEM 111",
@@ -29855,12 +29861,12 @@
       "CHEM 128"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Fast Response Time": 3,
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 3,
-      "Class Handouts": 4,
-      "Supplemental Study Material": 4,
+      "Class Handouts": 5,
+      "Supplemental Study Material": 5,
       "Flexible Grading Policy": 1
     }
   },
