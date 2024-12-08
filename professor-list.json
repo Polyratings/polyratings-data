@@ -472,15 +472,17 @@
     "department": "BRAE",
     "firstName": "G.W.",
     "lastName": "Bates",
-    "numEvals": 13,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.73,
-    "overallRating": 2.87,
+    "numEvals": 14,
+    "overallRating": 2.74,
+    "materialClear": 2.54,
+    "studentDifficulties": 2.61,
     "courses": [
       "BRAE 232",
       "BRAE 237",
-      "BRAE 239"
-    ]
+      "BRAE 239",
+      "BRAE 340"
+    ],
+    "tags": {}
   },
   {
     "id": "03f34116-668c-4401-9ed9-d243b813edcb",
@@ -23626,10 +23628,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 26,
-    "overallRating": 3.69,
+    "numEvals": 27,
+    "overallRating": 3.66,
     "materialClear": 3.88,
-    "studentDifficulties": 3.62,
+    "studentDifficulties": 3.63,
     "courses": [
       "BIO 102",
       "BIO 114",
@@ -23637,10 +23639,10 @@
       "BOT 121"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 3,
-      "Fast Response Time": 1
+      "Uploads Slides": 4,
+      "Fast Response Time": 2
     }
   },
   {
