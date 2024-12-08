@@ -3444,10 +3444,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 55,
-    "overallRating": 1.44,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.36,
+    "numEvals": 56,
+    "overallRating": 1.47,
+    "materialClear": 1.63,
+    "studentDifficulties": 1.37,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -3458,7 +3458,9 @@
       "AGB 404",
       "AGB 406"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "168973b1-c4a1-4d0f-8538-6b449a2718f9",
@@ -20011,10 +20013,10 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 41,
-    "overallRating": 2.07,
-    "materialClear": 2.02,
-    "studentDifficulties": 2.26,
+    "numEvals": 42,
+    "overallRating": 2.04,
+    "materialClear": 1.97,
+    "studentDifficulties": 2.25,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -20022,7 +20024,10 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Zoom Office Hours": 1,
+      "Pop Quizzes": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -20348,7 +20353,7 @@
     "department": "COMS",
     "firstName": "Carmen",
     "lastName": "Navarro",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -20358,8 +20363,8 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 5,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 6,
       "High In-Person Availability": 4,
       "Fast Response Time": 3
     }
