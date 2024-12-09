@@ -5210,10 +5210,10 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 85,
-    "overallRating": 3.53,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.55,
+    "numEvals": 86,
+    "overallRating": 3.54,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.56,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -5990,17 +5990,17 @@
     "department": "AGB",
     "firstName": "Bryan",
     "lastName": "Lohmar",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 2,
-    "studentDifficulties": 1,
+    "numEvals": 3,
+    "overallRating": 0.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.33,
     "courses": [
-      "AGB"
+      "AGB 318"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 3,
+      "No Breaks During Lecture": 3
     }
   },
   {
@@ -9674,10 +9674,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 19,
-    "overallRating": 1.69,
-    "materialClear": 1.52,
-    "studentDifficulties": 1.83,
+    "numEvals": 20,
+    "overallRating": 1.81,
+    "materialClear": 1.64,
+    "studentDifficulties": 1.89,
     "courses": [
       "PHYS 141",
       "PHYS 142"
@@ -9687,7 +9687,7 @@
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 4,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Flexible Grading Policy": 3,
       "High In-Person Availability": 1,
       "No Breaks During Lecture": 1
@@ -10344,9 +10344,9 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 283,
+    "numEvals": 284,
     "overallRating": 2.48,
-    "materialClear": 2.5,
+    "materialClear": 2.49,
     "studentDifficulties": 2.56,
     "courses": [
       "CM 101",
@@ -10364,13 +10364,13 @@
       "SPC 201"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 3,
       "Flexible Attendance Policy": 2,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Recorded Lectures": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1
     }
@@ -13027,9 +13027,9 @@
     "department": "SOC",
     "firstName": "Nikhil",
     "lastName": "Deb",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.33,
     "studentDifficulties": 4,
     "courses": [
       "SOC 218"
@@ -14664,9 +14664,9 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 154,
+    "numEvals": 155,
     "overallRating": 2.4,
-    "materialClear": 2.18,
+    "materialClear": 2.17,
     "studentDifficulties": 2.35,
     "courses": [
       "MATH 118",
@@ -14691,7 +14691,7 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Does Not Use Canvas": 5,
+      "Does Not Use Canvas": 6,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
@@ -17671,10 +17671,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 59,
-    "overallRating": 3.45,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.45,
+    "numEvals": 60,
+    "overallRating": 3.46,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.46,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -17686,9 +17686,10 @@
       "MATH 423"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 2,
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -24995,10 +24996,10 @@
     "department": "BUS",
     "firstName": "Sakif",
     "lastName": "Rahman",
-    "numEvals": 19,
+    "numEvals": 20,
     "overallRating": 0.06,
-    "materialClear": 0.11,
-    "studentDifficulties": 0.11,
+    "materialClear": 0.1,
+    "studentDifficulties": 0.1,
     "courses": [
       "BUS 431"
     ],
