@@ -32235,10 +32235,10 @@
     "department": "PHYS",
     "firstName": "Tom",
     "lastName": "Bensky",
-    "numEvals": 95,
-    "overallRating": 3.09,
-    "materialClear": 3.27,
-    "studentDifficulties": 3.02,
+    "numEvals": 96,
+    "overallRating": 3.1,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.03,
     "courses": [
       "ASTR 101",
       "ASTR 102",
@@ -32255,9 +32255,10 @@
       "PHYS 324"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
