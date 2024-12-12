@@ -1201,14 +1201,19 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Burt",
-    "numEvals": 15,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.75,
-    "overallRating": 3.88,
+    "numEvals": 16,
+    "overallRating": 3.89,
+    "materialClear": 3.82,
+    "studentDifficulties": 3.77,
     "courses": [
       "BUS 214",
       "BUS 215"
-    ]
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "08373b3b-7bbf-4246-b071-29b8a0b94305",
@@ -6917,7 +6922,7 @@
     "department": "PHIL",
     "firstName": "Damien",
     "lastName": "Barnes",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -13478,8 +13483,8 @@
     "department": "BMED",
     "firstName": "Karla",
     "lastName": "Carichner",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -13497,10 +13502,10 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 17,
-    "overallRating": 1.12,
-    "materialClear": 0.89,
-    "studentDifficulties": 1.24,
+    "numEvals": 18,
+    "overallRating": 1.28,
+    "materialClear": 1.06,
+    "studentDifficulties": 1.28,
     "courses": [
       "CSC 202"
     ],
@@ -22344,10 +22349,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 75,
-    "overallRating": 2.32,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.18,
+    "numEvals": 77,
+    "overallRating": 2.26,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.12,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -22359,12 +22364,13 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 4,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
       "Inflexible Grading Policy": 3,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -23020,20 +23026,20 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 6,
-    "overallRating": 0.67,
-    "materialClear": 1,
-    "studentDifficulties": 1.33,
+    "numEvals": 7,
+    "overallRating": 0.57,
+    "materialClear": 0.86,
+    "studentDifficulties": 1.14,
     "courses": [
       "ARCE 211"
     ],
     "tags": {
-      "High In-Person Availability": 4,
-      "Does Not Use Canvas": 6,
+      "High In-Person Availability": 5,
+      "Does Not Use Canvas": 7,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -24127,10 +24133,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 148,
-    "overallRating": 2.27,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.02,
+    "numEvals": 149,
+    "overallRating": 2.25,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.01,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -25574,10 +25580,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 17,
-    "overallRating": 3.81,
-    "materialClear": 3.88,
-    "studentDifficulties": 3.69,
+    "numEvals": 18,
+    "overallRating": 3.82,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.71,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -25588,10 +25594,12 @@
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 3,
-      "Fast Response Time": 7,
+      "Fast Response Time": 8,
       "Zoom Office Hours": 3,
       "Uploads Slides": 3,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -25893,21 +25901,21 @@
     "department": "BUS",
     "firstName": "Ndackyssa",
     "lastName": "Oyima",
-    "numEvals": 9,
-    "overallRating": 2.22,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.66,
+    "numEvals": 10,
+    "overallRating": 2.1,
+    "materialClear": 2.2,
+    "studentDifficulties": 1.49,
     "courses": [
       "BUS 439"
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Pop Quizzes": 2,
-      "Uploads Slides": 4,
+      "Pop Quizzes": 3,
+      "Uploads Slides": 5,
       "Supplemental Study Material": 1,
       "Recorded Lectures": 1,
       "Honor DRC Accommodations": 2,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 1
     }
@@ -35029,9 +35037,9 @@
     "department": "ME",
     "firstName": "Kerry",
     "lastName": "Lane",
-    "numEvals": 7,
-    "overallRating": 3.57,
-    "materialClear": 3.57,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.62,
     "studentDifficulties": 4,
     "courses": [
       "ME 212",
@@ -35447,7 +35455,7 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
