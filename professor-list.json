@@ -9439,10 +9439,10 @@
     "department": "PHYS",
     "firstName": "David",
     "lastName": "Mitchell",
-    "numEvals": 66,
-    "overallRating": 3.52,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.51,
+    "numEvals": 67,
+    "overallRating": 3.53,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.52,
     "courses": [
       "ASTR 101",
       "PHYS 101",
@@ -9461,9 +9461,11 @@
       "ASTR 301"
     ],
     "tags": {
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -10745,10 +10747,10 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.67,
     "courses": [
       "COMS 101"
     ],
@@ -12406,10 +12408,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 22,
-    "overallRating": 2.33,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.22,
+    "numEvals": 23,
+    "overallRating": 2.4,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.25,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -12419,9 +12421,9 @@
     "tags": {
       "No Breaks During Lecture": 6,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Inflexible Grading Policy": 4,
-      "Does Not Use Canvas": 9,
+      "Does Not Use Canvas": 10,
       "Supplemental Study Material": 4,
       "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
@@ -15353,18 +15355,18 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 3,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.88,
+    "materialClear": 2.89,
+    "studentDifficulties": 3,
     "courses": [
       "CSC 101",
       "CSC 202"
     ],
     "tags": {
-      "High In-Person Availability": 4,
-      "Flexible Deadline Policy": 2,
-      "Uploads Slides": 5,
+      "High In-Person Availability": 5,
+      "Flexible Deadline Policy": 3,
+      "Uploads Slides": 6,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1
     }
@@ -30288,10 +30290,10 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 50,
+    "numEvals": 51,
     "overallRating": 2.82,
-    "materialClear": 3.02,
-    "studentDifficulties": 2.65,
+    "materialClear": 3.04,
+    "studentDifficulties": 2.68,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -30299,8 +30301,8 @@
       "PHIL 411"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Fast Response Time": 1
+      "Flexible Attendance Policy": 3,
+      "Fast Response Time": 2
     }
   },
   {
@@ -35540,20 +35542,22 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 8,
-    "overallRating": 2.5,
-    "materialClear": 2.38,
-    "studentDifficulties": 3,
+    "numEvals": 9,
+    "overallRating": 2.56,
+    "materialClear": 2.45,
+    "studentDifficulties": 3.11,
     "courses": [
       "COMS 100",
       "COMS 316",
-      "COMS 101"
+      "COMS 101",
+      "COMS 217"
     ],
     "tags": {
       "Inflexible Attendance Policy": 3,
-      "Flexible Deadline Policy": 2,
+      "Flexible Deadline Policy": 3,
       "Uploads Slides": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
