@@ -3501,10 +3501,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 56,
-    "overallRating": 1.47,
-    "materialClear": 1.63,
-    "studentDifficulties": 1.37,
+    "numEvals": 57,
+    "overallRating": 1.46,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.36,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -7363,10 +7363,10 @@
     "department": "AGB",
     "firstName": "Sean",
     "lastName": "Hurley",
-    "numEvals": 47,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.74,
-    "overallRating": 2.85,
+    "numEvals": 48,
+    "overallRating": 2.87,
+    "materialClear": 3.15,
+    "studentDifficulties": 2.75,
     "courses": [
       "AGB 212",
       "AGB 260",
@@ -7376,7 +7376,12 @@
       "AGB 328",
       "AGB 435",
       "AGB 461"
-    ]
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "308e3cfe-1c00-415f-90ce-2bf60f5898c1",
