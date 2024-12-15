@@ -1171,16 +1171,18 @@
     "department": "MATH",
     "firstName": "Skip",
     "lastName": "Moses",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 118"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -23439,16 +23441,16 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 6,
-    "overallRating": 3.5,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.5,
+    "numEvals": 7,
+    "overallRating": 3.43,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.43,
     "courses": [
       "COMS 101"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 1
     }
@@ -25051,10 +25053,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 35,
-    "overallRating": 0.58,
-    "materialClear": 0.3,
-    "studentDifficulties": 1.05,
+    "numEvals": 36,
+    "overallRating": 0.56,
+    "materialClear": 0.29,
+    "studentDifficulties": 1.02,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -26820,18 +26822,20 @@
     "department": "PHYS",
     "firstName": "Lizvette",
     "lastName": "Villafa\u00f1a",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.75,
     "courses": [
       "ASTR 102",
       "PHYS 141"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Class Handouts": 2,
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -34419,10 +34423,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 42,
-    "overallRating": 2.61,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.82,
+    "numEvals": 43,
+    "overallRating": 2.6,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.85,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -34433,11 +34437,11 @@
     ],
     "tags": {
       "High In-Person Availability": 4,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "No Breaks During Lecture": 3,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -35236,9 +35240,9 @@
     "department": "ME",
     "firstName": "Kerry",
     "lastName": "Lane",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.62,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.66,
     "studentDifficulties": 4,
     "courses": [
       "ME 212",
@@ -35251,7 +35255,8 @@
       "Class Handouts": 2,
       "Supplemental Study Material": 1,
       "Uploads Slides": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Hybrid Option": 1
     }
   },
   {
