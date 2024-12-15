@@ -4693,12 +4693,13 @@
     "department": "ISLA",
     "firstName": "Emily",
     "lastName": "Ryalls",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ISLA"
+      "ISLA 303",
+      "WGS 210"
     ],
     "tags": {}
   },
@@ -8360,19 +8361,20 @@
     "department": "ASCI",
     "firstName": "George",
     "lastName": "Gallagher",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "ASCI 112"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Uploads Slides": 2,
-      "No Breaks During Lecture": 1,
+      "Uploads Slides": 3,
+      "No Breaks During Lecture": 2,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -15978,7 +15980,7 @@
     "department": "ES",
     "firstName": "Anne",
     "lastName": "Jansen",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -15991,7 +15993,8 @@
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -22164,10 +22167,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Marlow",
-    "numEvals": 8,
-    "overallRating": 0.88,
-    "materialClear": 0.88,
-    "studentDifficulties": 1.12,
+    "numEvals": 9,
+    "overallRating": 0.78,
+    "materialClear": 0.78,
+    "studentDifficulties": 1,
     "courses": [
       "STAT 218"
     ],
@@ -25254,10 +25257,10 @@
     "department": "BUS",
     "firstName": "Sakif",
     "lastName": "Rahman",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 0.1,
-    "materialClear": 0.12,
-    "studentDifficulties": 0.12,
+    "materialClear": 0.27,
+    "studentDifficulties": 0.27,
     "courses": [
       "BUS 431"
     ],
@@ -26293,10 +26296,10 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Carroll",
-    "numEvals": 24,
-    "overallRating": 2.49,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.33,
+    "numEvals": 25,
+    "overallRating": 2.51,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.36,
     "courses": [
       "CHEM 110",
       "CHEM 127",
@@ -26308,7 +26311,10 @@
       "CHEM 316",
       "CHEM 318",
       "CHEM 458"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "b0ed8e28-3600-4f5a-989e-a2469e300ff4",
@@ -27050,7 +27056,7 @@
     "department": "ASCI",
     "firstName": "Juliana",
     "lastName": "Huzzey",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 3.11,
     "materialClear": 3.13,
     "studentDifficulties": 2.92,
@@ -31691,9 +31697,9 @@
     "department": "BUS",
     "firstName": "Addison",
     "lastName": "Maerz",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
     "studentDifficulties": 3,
     "courses": [
       "BUS 387"
