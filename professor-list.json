@@ -4480,16 +4480,16 @@
     "department": "COMS",
     "firstName": "Nancie",
     "lastName": "Hudson",
-    "numEvals": 6,
-    "overallRating": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.85,
     "materialClear": 4,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.43,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Hybrid Option": 3,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Uploads Slides": 1,
       "Class Handouts": 2,
       "Supplemental Study Material": 1,
@@ -8570,10 +8570,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 23,
-    "overallRating": 2.53,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.52,
+    "numEvals": 24,
+    "overallRating": 2.51,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.5,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -12853,15 +12853,15 @@
     "department": "ARCH",
     "firstName": "Vanessa",
     "lastName": "Moon",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ARCH"
+      "ARCH 251"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -12935,10 +12935,10 @@
     "department": "CE",
     "firstName": "Damian",
     "lastName": "Kachlakev",
-    "numEvals": 32,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.76,
-    "overallRating": 1.94,
+    "numEvals": 33,
+    "overallRating": 2,
+    "materialClear": 1.97,
+    "studentDifficulties": 1.83,
     "courses": [
       "CE 204",
       "CE 205",
@@ -12949,7 +12949,8 @@
       "CE 458",
       "CE 459",
       "CE 521"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "5708a066-fa39-4e20-88d9-1e0882a9d6dc",
@@ -16210,10 +16211,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 133,
-    "overallRating": 1.81,
-    "materialClear": 1.95,
-    "studentDifficulties": 1.64,
+    "numEvals": 134,
+    "overallRating": 1.83,
+    "materialClear": 1.97,
+    "studentDifficulties": 1.66,
     "courses": [
       "CE 204",
       "CE 211",
@@ -19414,17 +19415,18 @@
     "department": "CE",
     "firstName": "Shikha",
     "lastName": "Rahman",
-    "numEvals": 18,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.53,
-    "overallRating": 3.58,
+    "numEvals": 19,
+    "overallRating": 3.6,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.55,
     "courses": [
       "CE 336",
       "CE 337",
       "CE 433",
       "CE 440",
       "CE 538"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "7f608654-2608-4748-a6d6-d04ec2fbe9ee",
@@ -23403,20 +23405,20 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 7,
-    "overallRating": 0.57,
-    "materialClear": 0.86,
-    "studentDifficulties": 1.14,
+    "numEvals": 8,
+    "overallRating": 0.75,
+    "materialClear": 0.88,
+    "studentDifficulties": 1.12,
     "courses": [
       "ARCE 211"
     ],
     "tags": {
-      "High In-Person Availability": 5,
-      "Does Not Use Canvas": 7,
+      "High In-Person Availability": 6,
+      "Does Not Use Canvas": 8,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Supplemental Study Material": 1
     }
   },
@@ -31204,10 +31206,10 @@
     "department": "ARCH",
     "firstName": "Humberto",
     "lastName": "Norman",
-    "numEvals": 13,
-    "overallRating": 3.72,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.72,
+    "numEvals": 14,
+    "overallRating": 3.74,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.74,
     "courses": [
       "ARCH 131",
       "ARCH 132",
