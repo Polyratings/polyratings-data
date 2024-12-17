@@ -6435,9 +6435,9 @@
     "department": "ENGL",
     "firstName": "Thomas",
     "lastName": "Lugo",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.33,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 145"
@@ -6445,7 +6445,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -30409,9 +30411,9 @@
     "department": "ECON",
     "firstName": "Wilson",
     "lastName": "Kang",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 3.38,
+    "materialClear": 3.34,
     "studentDifficulties": 4,
     "courses": [
       "ECON 221",
@@ -30420,10 +30422,11 @@
       "ECON 222"
     ],
     "tags": {
-      "Uploads Slides": 4,
-      "Class Handouts": 3,
+      "Uploads Slides": 5,
+      "Class Handouts": 4,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 3
+      "Fast Response Time": 3,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30509,10 +30512,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 7,
-    "overallRating": 3.14,
-    "materialClear": 2.85,
-    "studentDifficulties": 3.28,
+    "numEvals": 8,
+    "overallRating": 3.12,
+    "materialClear": 2.87,
+    "studentDifficulties": 3.25,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -30527,7 +30530,7 @@
       "Uploads Slides": 3,
       "No Breaks During Lecture": 2,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -33923,7 +33926,7 @@
     "department": "CSC",
     "firstName": "Michael",
     "lastName": "Wagner",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -33933,8 +33936,9 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 2,
-      "Uploads Slides": 2,
-      "Flexible Attendance Policy": 1
+      "Uploads Slides": 3,
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -34635,7 +34639,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -34648,8 +34652,8 @@
       "Flexible Attendance Policy": 4,
       "Flexible Grading Policy": 3,
       "Uploads Slides": 2,
-      "Hybrid Option": 1,
-      "Flexible Deadline Policy": 2
+      "Hybrid Option": 2,
+      "Flexible Deadline Policy": 3
     }
   },
   {
