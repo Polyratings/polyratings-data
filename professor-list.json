@@ -4460,10 +4460,10 @@
     "department": "CSC",
     "firstName": "Dekhtyar",
     "lastName": "Alexander",
-    "numEvals": 37,
-    "overallRating": 1.99,
+    "numEvals": 38,
+    "overallRating": 2.02,
     "materialClear": 1.97,
-    "studentDifficulties": 2.04,
+    "studentDifficulties": 2.07,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -4480,9 +4480,10 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -9231,9 +9232,9 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 59,
-    "overallRating": 2.37,
-    "materialClear": 2.52,
+    "numEvals": 60,
+    "overallRating": 2.36,
+    "materialClear": 2.49,
     "studentDifficulties": 2.21,
     "courses": [
       "PHYS 122",
@@ -11444,17 +11445,17 @@
     "department": "BIO",
     "firstName": "Scott",
     "lastName": "Appleby",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 1.33,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 263"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 3
     }
   },
   {
@@ -15022,15 +15023,16 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 11,
-    "overallRating": 3.63,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.81,
+    "numEvals": 12,
+    "overallRating": 3.66,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.83,
     "courses": [
       "MATH 141",
       "MATH 142",
       "MATH 143",
-      "MATH 244"
+      "MATH 244",
+      "MATH 241"
     ],
     "tags": {
       "Zoom Office Hours": 5,
@@ -20900,7 +20902,7 @@
     "department": "STAT",
     "firstName": "Jimmy",
     "lastName": "Doi",
-    "numEvals": 113,
+    "numEvals": 114,
     "overallRating": 3.63,
     "materialClear": 3.78,
     "studentDifficulties": 3.61,
@@ -20920,9 +20922,9 @@
       "AEPS 150"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
@@ -22038,9 +22040,9 @@
     "department": "CSC",
     "firstName": "Rodrigo",
     "lastName": "Canaan",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
-    "materialClear": 3.33,
+    "materialClear": 3.4,
     "studentDifficulties": 4,
     "courses": [
       "CSC 349",
@@ -22049,7 +22051,7 @@
     "tags": {
       "Zoom Office Hours": 3,
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Uploads Slides": 3,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1
@@ -36602,17 +36604,18 @@
     "department": "PHIL",
     "firstName": "Ava",
     "lastName": "Wright",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "PHIL 323"
     ],
     "tags": {
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 3,
-      "Fast Response Time": 2
+      "Uploads Slides": 4,
+      "Fast Response Time": 2,
+      "Hybrid Option": 1
     }
   },
   {
