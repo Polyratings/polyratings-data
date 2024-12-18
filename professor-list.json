@@ -9429,10 +9429,10 @@
     "department": "ECON",
     "firstName": "Daniel",
     "lastName": "Seiver",
-    "numEvals": 74,
-    "overallRating": 2.25,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.02,
+    "numEvals": 75,
+    "overallRating": 2.27,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.03,
     "courses": [
       "ECON 122",
       "ECON 221",
@@ -24444,10 +24444,10 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 28,
-    "overallRating": 3.77,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.63,
+    "numEvals": 29,
+    "overallRating": 3.78,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.64,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -25383,10 +25383,10 @@
     "department": "MATH",
     "firstName": "Vincent",
     "lastName": "Bonini",
-    "numEvals": 43,
-    "overallRating": 3.51,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.32,
+    "numEvals": 44,
+    "overallRating": 3.52,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.34,
     "courses": [
       "MATH 141",
       "MATH 143",
@@ -26454,16 +26454,19 @@
     "department": "MATH",
     "firstName": "McFeely",
     "lastName": "Goodman",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 241"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
