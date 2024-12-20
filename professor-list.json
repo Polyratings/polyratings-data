@@ -1892,10 +1892,10 @@
     "department": "CHEM",
     "firstName": "Derek",
     "lastName": "Gragson",
-    "numEvals": 90,
-    "overallRating": 2.57,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.44,
+    "numEvals": 91,
+    "overallRating": 2.59,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.46,
     "courses": [
       "CHEM 121",
       "CHEM 127",
@@ -1907,9 +1907,10 @@
       "CHEM 446"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -7174,9 +7175,9 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 150,
+    "numEvals": 151,
     "overallRating": 3.58,
-    "materialClear": 3.64,
+    "materialClear": 3.63,
     "studentDifficulties": 3.44,
     "courses": [
       "MATH 141",
@@ -7202,7 +7203,7 @@
       "Does Not Use Canvas": 1,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 1
     }
@@ -25268,10 +25269,10 @@
     "department": "ME",
     "firstName": "Ramanan",
     "lastName": "Sritharan",
-    "numEvals": 7,
-    "overallRating": 2.14,
-    "materialClear": 2.57,
-    "studentDifficulties": 2,
+    "numEvals": 8,
+    "overallRating": 1.87,
+    "materialClear": 2.25,
+    "studentDifficulties": 1.75,
     "courses": [
       "ME 328",
       "ME 251",
@@ -25282,8 +25283,10 @@
       "Flexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 2,
-      "High In-Person Availability": 1,
-      "Pop Quizzes": 1
+      "High In-Person Availability": 2,
+      "Pop Quizzes": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -35827,14 +35830,17 @@
     "department": "ARCH",
     "firstName": "L. JoAnn",
     "lastName": "Moore",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
     "materialClear": 2,
-    "studentDifficulties": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "ARCH"
+      "ARCH 133"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "f0fa4d2c-3411-49ac-b28e-1ec38eab83a1",
