@@ -9246,9 +9246,9 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 60,
-    "overallRating": 2.36,
-    "materialClear": 2.49,
+    "numEvals": 61,
+    "overallRating": 2.35,
+    "materialClear": 2.5,
     "studentDifficulties": 2.21,
     "courses": [
       "PHYS 122",
@@ -9833,10 +9833,10 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 34,
-    "overallRating": 3.53,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.36,
+    "numEvals": 35,
+    "overallRating": 3.51,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.35,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -28536,10 +28536,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 94,
-    "overallRating": 1.62,
+    "numEvals": 95,
+    "overallRating": 1.63,
     "materialClear": 1.53,
-    "studentDifficulties": 1.7,
+    "studentDifficulties": 1.71,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -31875,8 +31875,8 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 4,
-    "overallRating": 4,
+    "numEvals": 5,
+    "overallRating": 3.8,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -31884,11 +31884,12 @@
       "EE 306"
     ],
     "tags": {
-      "Recorded Lectures": 3,
+      "Recorded Lectures": 4,
       "High In-Person Availability": 1,
       "Uploads Slides": 1,
-      "Hybrid Option": 1,
-      "Fast Response Time": 1
+      "Hybrid Option": 2,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -36980,7 +36981,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 15,
+    "numEvals": 16,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
