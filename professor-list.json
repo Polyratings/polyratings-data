@@ -2283,7 +2283,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -6217,10 +6217,10 @@
     "department": "ENGL",
     "firstName": "Isabell",
     "lastName": "Garcia",
-    "numEvals": 6,
-    "overallRating": 2,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.33,
+    "numEvals": 7,
+    "overallRating": 2.14,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.43,
     "courses": [
       "ENGL 134"
     ],
@@ -6231,7 +6231,8 @@
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -8609,10 +8610,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 24,
-    "overallRating": 2.51,
-    "materialClear": 2.34,
-    "studentDifficulties": 2.5,
+    "numEvals": 25,
+    "overallRating": 2.53,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.48,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -15044,10 +15045,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 12,
-    "overallRating": 3.66,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.83,
+    "numEvals": 13,
+    "overallRating": 3.69,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.84,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -15058,9 +15059,9 @@
     "tags": {
       "Zoom Office Hours": 5,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 4,
-      "Supplemental Study Material": 1,
-      "Fast Response Time": 1,
+      "Uploads Slides": 5,
+      "Supplemental Study Material": 2,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 3,
       "Class Handouts": 1
     }
@@ -23360,10 +23361,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 34,
-    "overallRating": 3.41,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.31,
+    "numEvals": 35,
+    "overallRating": 3.43,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.33,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -23374,9 +23375,10 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -26270,10 +26272,10 @@
     "department": "COMS",
     "firstName": "Connie",
     "lastName": "Young-Johnson",
-    "numEvals": 10,
-    "overallRating": 3.9,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.9,
+    "numEvals": 11,
+    "overallRating": 3.91,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.91,
     "courses": [
       "COMS 102",
       "COMS 101"
@@ -30142,10 +30144,10 @@
     "department": "STAT",
     "firstName": "Hunter",
     "lastName": "Glanz",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 3.09,
-    "materialClear": 3,
-    "studentDifficulties": 3.19,
+    "materialClear": 3.04,
+    "studentDifficulties": 3.18,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -30962,12 +30964,12 @@
     "department": "PHYS",
     "firstName": "Roberto",
     "lastName": "Abril Valenzuela",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS"
+      "PHYS 143"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -31601,10 +31603,10 @@
     "department": "ARCH",
     "firstName": "Laura",
     "lastName": "Moore",
-    "numEvals": 7,
-    "overallRating": 3.24,
-    "materialClear": 2.34,
-    "studentDifficulties": 2.57,
+    "numEvals": 8,
+    "overallRating": 3.34,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.75,
     "courses": [
       "ARCH 131",
       "ARCH 132"
