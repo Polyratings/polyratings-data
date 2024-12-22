@@ -2793,7 +2793,7 @@
     "department": "CD",
     "firstName": "Amarilis",
     "lastName": "Iscold",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2802,7 +2802,9 @@
       "CD 340"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -4698,18 +4700,18 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 44,
-    "overallRating": 3.74,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.68,
+    "numEvals": 45,
+    "overallRating": 3.75,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.69,
     "courses": [
       "ART 112",
       "ART 212"
     ],
     "tags": {
-      "Supplemental Study Material": 2,
-      "Uploads Slides": 5,
-      "Flexible Attendance Policy": 4,
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 6,
+      "Flexible Attendance Policy": 5,
       "Class Handouts": 3,
       "Fast Response Time": 1,
       "No Breaks During Lecture": 1
@@ -6770,9 +6772,9 @@
     "department": "PHIL",
     "firstName": "Ryan",
     "lastName": "Jenkins",
-    "numEvals": 33,
-    "overallRating": 3.74,
-    "materialClear": 3.81,
+    "numEvals": 34,
+    "overallRating": 3.75,
+    "materialClear": 3.82,
     "studentDifficulties": 3.86,
     "courses": [
       "PHIL 126",
@@ -6785,11 +6787,11 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2
     }
   },
   {
@@ -14541,10 +14543,10 @@
     "department": "ENGL",
     "firstName": "Raymond",
     "lastName": "Brennan",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.57,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -16673,15 +16675,19 @@
     "department": "ART",
     "firstName": "Giancarlo",
     "lastName": "Fiorenza",
-    "numEvals": 16,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.41,
-    "overallRating": 3.76,
+    "numEvals": 17,
+    "overallRating": 3.77,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.44,
     "courses": [
       "ART 111",
       "ART 212",
-      "ART 371"
-    ]
+      "ART 371",
+      "ART 112"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6cadcedd-4f84-4b64-a4a4-4cbfb30bb70f",
@@ -29173,24 +29179,25 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 3.93,
     "materialClear": 3.93,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "BIO 111",
       "BIO 150",
       "BIO 263"
     ],
     "tags": {
-      "Recorded Lectures": 12,
+      "Recorded Lectures": 13,
       "Fast Response Time": 5,
       "Flexible Attendance Policy": 4,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Supplemental Study Material": 2,
       "Uploads Slides": 13,
       "No Breaks During Lecture": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30579,15 +30586,15 @@
     "department": "EE",
     "firstName": "John",
     "lastName": "Penvenne",
-    "numEvals": 1,
-    "overallRating": 2,
+    "numEvals": 2,
+    "overallRating": 3,
     "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "EE"
+      "EE 201"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -30772,18 +30779,18 @@
     "department": "ENGL",
     "firstName": "Justin",
     "lastName": "Swanson",
-    "numEvals": 35,
-    "overallRating": 2.68,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.71,
+    "numEvals": 36,
+    "overallRating": 2.69,
+    "materialClear": 2.26,
+    "studentDifficulties": 2.72,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -34217,10 +34224,10 @@
     "department": "PHIL",
     "firstName": "Jacob",
     "lastName": "Sparks",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3.6,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.17,
     "courses": [
       "PHIL 323",
       "PHIL 331"
@@ -34228,7 +34235,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Hybrid Option": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -34965,7 +34974,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -34975,11 +34984,11 @@
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 3,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Hybrid Option": 2,
-      "Flexible Deadline Policy": 3
+      "Flexible Deadline Policy": 4
     }
   },
   {
