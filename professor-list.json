@@ -5686,10 +5686,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 23,
-    "overallRating": 1.45,
-    "materialClear": 1.69,
-    "studentDifficulties": 1.87,
+    "numEvals": 24,
+    "overallRating": 1.47,
+    "materialClear": 1.74,
+    "studentDifficulties": 1.96,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -5705,7 +5705,7 @@
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 7,
+      "Inflexible Grading Policy": 8,
       "Inflexible Deadline Policy": 4
     }
   },
@@ -9360,9 +9360,9 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 61,
-    "overallRating": 2.35,
-    "materialClear": 2.5,
+    "numEvals": 62,
+    "overallRating": 2.36,
+    "materialClear": 2.52,
     "studentDifficulties": 2.21,
     "courses": [
       "PHYS 122",
@@ -9379,7 +9379,10 @@
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -9969,10 +9972,10 @@
     "department": "ME",
     "firstName": "Andrew",
     "lastName": "Davol",
-    "numEvals": 34,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.43,
-    "overallRating": 3.57,
+    "numEvals": 35,
+    "overallRating": 3.58,
+    "materialClear": 3.52,
+    "studentDifficulties": 3.45,
     "courses": [
       "ME 134",
       "ME 151",
@@ -9982,8 +9985,12 @@
       "ME 328",
       "ME 329",
       "ME 404",
-      "ME 441"
-    ]
+      "ME 441",
+      "ME 128"
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "41a81595-1da8-4925-b22d-da290d2a16fd",
@@ -10729,10 +10736,10 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 93,
-    "overallRating": 2.91,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.76,
+    "numEvals": 94,
+    "overallRating": 2.92,
+    "materialClear": 2.95,
+    "studentDifficulties": 2.77,
     "courses": [
       "TH 110",
       "TH 201",
@@ -10744,11 +10751,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 3,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Inflexible Deadline Policy": 4,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -19497,21 +19504,22 @@
     "department": "ME",
     "firstName": "Steffen",
     "lastName": "Peuker",
-    "numEvals": 32,
-    "overallRating": 2.12,
-    "materialClear": 2.06,
-    "studentDifficulties": 2.13,
+    "numEvals": 33,
+    "overallRating": 2.18,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.19,
     "courses": [
       "ME 128",
       "ME 163",
       "ME 302"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
       "Class Handouts": 1,
-      "Recorded Lectures": 1,
-      "Uploads Slides": 1
+      "Recorded Lectures": 2,
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -22195,8 +22203,8 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 153,
-    "overallRating": 1.82,
+    "numEvals": 154,
+    "overallRating": 1.83,
     "materialClear": 1.74,
     "studentDifficulties": 1.63,
     "courses": [
@@ -22218,7 +22226,7 @@
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Flexible Attendance Policy": 3,
       "Does Not Use Canvas": 1,
       "Fast Response Time": 1,
