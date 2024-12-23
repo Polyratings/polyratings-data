@@ -1906,10 +1906,10 @@
     "department": "CHEM",
     "firstName": "Derek",
     "lastName": "Gragson",
-    "numEvals": 91,
+    "numEvals": 92,
     "overallRating": 2.59,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.46,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.47,
     "courses": [
       "CHEM 121",
       "CHEM 127",
@@ -1921,10 +1921,11 @@
       "CHEM 446"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
-      "Class Handouts": 1
+      "Uploads Slides": 3,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -6555,10 +6556,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 11,
-    "overallRating": 0.45,
-    "materialClear": 1.18,
-    "studentDifficulties": 0.73,
+    "numEvals": 12,
+    "overallRating": 0.41,
+    "materialClear": 1.08,
+    "studentDifficulties": 0.67,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -7659,10 +7660,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Lema",
-    "numEvals": 34,
-    "overallRating": 3.12,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.2,
+    "numEvals": 35,
+    "overallRating": 3.15,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.22,
     "courses": [
       "BIO 161",
       "BIO 243",
@@ -7672,8 +7673,10 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -11785,19 +11788,20 @@
     "department": "CHEM",
     "firstName": "Leslie",
     "lastName": "Hamachi",
-    "numEvals": 9,
-    "overallRating": 3.56,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.33,
+    "numEvals": 10,
+    "overallRating": 3.6,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.4,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
-      "Class Handouts": 3,
-      "Uploads Slides": 4,
+      "Class Handouts": 4,
+      "Uploads Slides": 5,
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Supplemental Study Material": 3
+      "Supplemental Study Material": 3,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -15155,10 +15159,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 13,
-    "overallRating": 3.69,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.84,
+    "numEvals": 14,
+    "overallRating": 3.71,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.85,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -15167,12 +15171,12 @@
       "MATH 241"
     ],
     "tags": {
-      "Zoom Office Hours": 5,
+      "Zoom Office Hours": 6,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 5,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Class Handouts": 1
     }
   },
@@ -31136,10 +31140,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 124,
-    "overallRating": 2.88,
+    "numEvals": 125,
+    "overallRating": 2.89,
     "materialClear": 2.78,
-    "studentDifficulties": 2.87,
+    "studentDifficulties": 2.88,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -31154,7 +31158,7 @@
       "Fast Response Time": 4,
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 3,
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Supplemental Study Material": 6,
       "Flexible Grading Policy": 1
     }
