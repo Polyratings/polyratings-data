@@ -3774,16 +3774,17 @@
     "department": "MU",
     "firstName": "Aaron",
     "lastName": "Kline",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MU"
+      "MU 101"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 2,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -13798,17 +13799,17 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 6,
-    "overallRating": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.85,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101"
     ],
     "tags": {
-      "Zoom Office Hours": 5,
-      "Flexible Attendance Policy": 2,
-      "Fast Response Time": 3,
+      "Zoom Office Hours": 6,
+      "Flexible Attendance Policy": 3,
+      "Fast Response Time": 4,
       "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 2
     }
