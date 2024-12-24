@@ -2695,7 +2695,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 175,
+    "numEvals": 176,
     "overallRating": 3.56,
     "materialClear": 3.64,
     "studentDifficulties": 3.37,
@@ -2709,9 +2709,10 @@
       "BUS 461"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -4494,16 +4495,17 @@
     "department": "ENGL",
     "firstName": "Anthony",
     "lastName": "Halderman",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "ENGL"
+      "ENGL 134"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Fast Response Time": 1
     }
   },
   {
