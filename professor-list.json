@@ -12834,7 +12834,7 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18790,7 +18790,7 @@
     "department": "ME",
     "firstName": "Lauren",
     "lastName": "Rueda",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18800,8 +18800,9 @@
       "ME 236"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 2,
+      "Supplemental Study Material": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -23144,13 +23145,14 @@
     "department": "ME",
     "firstName": "Daniel",
     "lastName": "Castro",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.8,
     "courses": [
       "ME 228",
-      "ME 328"
+      "ME 328",
+      "AEPS 328"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
@@ -28117,10 +28119,10 @@
     "department": "ME",
     "firstName": "Hemanth",
     "lastName": "Porumamilla",
-    "numEvals": 37,
-    "overallRating": 2.86,
-    "materialClear": 2.92,
-    "studentDifficulties": 2.54,
+    "numEvals": 38,
+    "overallRating": 2.89,
+    "materialClear": 2.95,
+    "studentDifficulties": 2.55,
     "courses": [
       "ME 134",
       "ME 211",
@@ -32466,7 +32468,7 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -35083,10 +35085,10 @@
     "department": "ME",
     "firstName": "Patrick",
     "lastName": "Lemieux",
-    "numEvals": 41,
-    "overallRating": 2.53,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.64,
+    "numEvals": 42,
+    "overallRating": 2.57,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.62,
     "courses": [
       "ME 303",
       "ME 341",
