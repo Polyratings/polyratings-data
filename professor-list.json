@@ -6061,10 +6061,10 @@
     "department": "WGS",
     "firstName": "Jane",
     "lastName": "Lehr",
-    "numEvals": 46,
-    "overallRating": 3.21,
-    "materialClear": 3.23,
-    "studentDifficulties": 3.19,
+    "numEvals": 47,
+    "overallRating": 3.14,
+    "materialClear": 3.16,
+    "studentDifficulties": 3.14,
     "courses": [
       "ES 112",
       "WS 112",
@@ -6075,7 +6075,10 @@
       "WGS 350",
       "WS 350",
       "WGS 450"
-    ]
+    ],
+    "tags": {
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "2732903f-be16-4993-9559-1b6e71129a09",
@@ -13558,10 +13561,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 45,
-    "overallRating": 2.94,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.69,
+    "numEvals": 46,
+    "overallRating": 2.9,
+    "materialClear": 3.06,
+    "studentDifficulties": 2.63,
     "courses": [
       "EE 112",
       "EE 201",
