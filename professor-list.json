@@ -31035,19 +31035,22 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 53,
-    "overallRating": 2.86,
+    "numEvals": 54,
+    "overallRating": 2.84,
     "materialClear": 3.08,
-    "studentDifficulties": 2.73,
+    "studentDifficulties": 2.7,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 350",
-      "PHIL 411"
+      "PHIL 411",
+      "PHIL 412"
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Fast Response Time": 3
+      "Fast Response Time": 3,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -36155,10 +36158,10 @@
     "department": "CSC",
     "firstName": "Bret",
     "lastName": "Hartman",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.2,
     "courses": [
       "CSC 321"
     ],
