@@ -19359,9 +19359,9 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Bockmon",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.86,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 128",
@@ -19369,9 +19369,10 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Class Handouts": 2,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Class Handouts": 3,
+      "Uploads Slides": 3,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -21332,16 +21333,17 @@
     "department": "ITP",
     "firstName": "German",
     "lastName": "Serna",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0.33,
-    "studentDifficulties": 0.33,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 0.25,
+    "studentDifficulties": 0.75,
     "courses": [
       "ITP 371"
     ],
     "tags": {
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -27370,7 +27372,7 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 2.9,
     "materialClear": 2.84,
     "studentDifficulties": 2.74,
@@ -27386,9 +27388,9 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Fast Response Time": 2,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Supplemental Study Material": 3,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 2
@@ -35563,10 +35565,10 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 10,
-    "overallRating": 3.3,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.5,
+    "numEvals": 11,
+    "overallRating": 3.36,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.55,
     "courses": [
       "ME 211",
       "ME 347",
@@ -35583,7 +35585,9 @@
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -36519,9 +36523,9 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 7,
-    "overallRating": 4,
-    "materialClear": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.88,
+    "materialClear": 3.74,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
@@ -36529,9 +36533,10 @@
       "PHYS 143"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
