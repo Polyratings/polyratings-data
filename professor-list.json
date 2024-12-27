@@ -776,6 +776,24 @@
     ]
   },
   {
+    "id": "057f7178-7610-4370-98f0-864a73dc5e4f",
+    "department": "CHEM",
+    "firstName": "Rachel",
+    "lastName": "Johnson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "CHEM"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "05cc433b-cd90-4189-ad8a-99baadf5900f",
     "department": "EE",
     "firstName": "Noel",
@@ -1192,10 +1210,10 @@
     "department": "MU",
     "firstName": "Alyson",
     "lastName": "McLamore",
-    "numEvals": 26,
-    "overallRating": 3.12,
-    "materialClear": 3.44,
-    "studentDifficulties": 2.96,
+    "numEvals": 27,
+    "overallRating": 3.15,
+    "materialClear": 3.46,
+    "studentDifficulties": 3,
     "courses": [
       "MU 320",
       "MU 324",
@@ -1208,7 +1226,9 @@
       "Fast Response Time": 2,
       "No Breaks During Lecture": 1,
       "Pop Quizzes": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -4918,6 +4938,23 @@
     }
   },
   {
+    "id": "1d8b12f6-2dbc-4123-ac71-ff8b13c23f1d",
+    "department": "BIO",
+    "firstName": "Michael",
+    "lastName": "Jones",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BIO"
+    ],
+    "tags": {
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "1dab4b1a-71d5-404f-82bc-e96df0519a4b",
     "department": "PHYS",
     "firstName": "Benjamin",
@@ -5293,6 +5330,24 @@
       "PHYS 133",
       "PHYS 141"
     ]
+  },
+  {
+    "id": "2139472c-5dc1-4af0-b317-6ccde815efbf",
+    "department": "CSC",
+    "firstName": "Silas",
+    "lastName": "Hsu",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "213f413f-d5f8-4e46-b773-f1c6b121e4e7",
@@ -19741,6 +19796,23 @@
     }
   },
   {
+    "id": "7f8ae077-814b-4cbc-8332-e1f045535155",
+    "department": "CM",
+    "firstName": "Greg",
+    "lastName": "Simons",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CM"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "7f9a822a-b2b1-45f2-95fc-d8dd389a38a8",
     "department": "IME",
     "firstName": "Kelly",
@@ -28460,9 +28532,9 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 11,
+    "numEvals": 10,
     "overallRating": 4,
-    "materialClear": 3.91,
+    "materialClear": 3.9,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -29855,6 +29927,24 @@
       "CPE 454",
       "CSC 454"
     ]
+  },
+  {
+    "id": "c69821e4-b3a3-4879-9ccb-eeea24644fe5",
+    "department": "BIO",
+    "firstName": "Max",
+    "lastName": "Roberts",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "BIO"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "c6ae31f9-a2dc-4483-8965-a75f07eba70f",
@@ -37937,6 +38027,23 @@
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 1
+    }
+  },
+  {
+    "id": "fa76b19b-234d-4dcd-a522-0cd1f690ca36",
+    "department": "POLS",
+    "firstName": "Nolan",
+    "lastName": "Bennett",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
