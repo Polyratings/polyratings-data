@@ -9771,10 +9771,10 @@
     "department": "POLS",
     "firstName": "Jean",
     "lastName": "Williams",
-    "numEvals": 20,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.25,
-    "overallRating": 3.2,
+    "numEvals": 21,
+    "overallRating": 3.24,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.29,
     "courses": [
       "POLS 180",
       "WS 301",
@@ -9785,7 +9785,12 @@
       "POLS 419",
       "POLS 470",
       "POLS 481"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Does Not Use Canvas": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "40468874-b2bd-472b-ba4f-987bba0813ea",
@@ -11828,10 +11833,10 @@
     "department": "POLS",
     "firstName": "Anika",
     "lastName": "Leithner",
-    "numEvals": 83,
-    "overallRating": 3.42,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.55,
+    "numEvals": 84,
+    "overallRating": 3.38,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.51,
     "courses": [
       "POLS 111",
       "POLS 131",
@@ -11847,9 +11852,9 @@
       "POLS 308"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -33325,17 +33330,20 @@
     "department": "PHIL",
     "firstName": "Brian",
     "lastName": "Looper",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHIL 331"
+      "PHIL 331",
+      "PHIL 231"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1
     }
   },
   {
