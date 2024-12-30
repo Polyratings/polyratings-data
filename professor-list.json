@@ -28985,10 +28985,10 @@
     "department": "AERO",
     "firstName": "Jon",
     "lastName": "Tarantino",
-    "numEvals": 27,
-    "overallRating": 3.18,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.15,
+    "numEvals": 28,
+    "overallRating": 3.21,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.14,
     "courses": [
       "AERO 121",
       "ARCE 211",
@@ -29002,9 +29002,11 @@
       "AERO 420"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -30807,9 +30809,9 @@
     "department": "ARCH",
     "firstName": "Don",
     "lastName": "Choi",
-    "numEvals": 69,
+    "numEvals": 70,
     "overallRating": 3.17,
-    "materialClear": 3.44,
+    "materialClear": 3.45,
     "studentDifficulties": 2.93,
     "courses": [
       "ARCH 217",
@@ -30821,10 +30823,11 @@
       "ARCH 420"
     ],
     "tags": {
-      "Recorded Lectures": 3,
-      "Zoom Office Hours": 1,
+      "Recorded Lectures": 4,
+      "Zoom Office Hours": 2,
       "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
