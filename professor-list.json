@@ -21915,14 +21915,17 @@
     "department": "COMS",
     "firstName": "Jamie",
     "lastName": "Ascher",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "8efc8e78-0c5a-4c22-9f19-b3a57af5e813",
@@ -29561,10 +29564,10 @@
     "department": "CHEM",
     "firstName": "Erik",
     "lastName": "Sapper",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.85,
+    "studentDifficulties": 3.86,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -37152,10 +37155,10 @@
     "department": "PHYS",
     "firstName": "Robert",
     "lastName": "Holtzapple",
-    "numEvals": 66,
-    "overallRating": 3.58,
+    "numEvals": 67,
+    "overallRating": 3.59,
     "materialClear": 3.74,
-    "studentDifficulties": 3.45,
+    "studentDifficulties": 3.46,
     "courses": [
       "PHYS 133",
       "PHYS 141",
@@ -37164,10 +37167,11 @@
       "PHYS 406"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Does Not Use Canvas": 2,
       "Class Handouts": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
