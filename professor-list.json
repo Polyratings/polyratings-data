@@ -2603,10 +2603,10 @@
     "department": "MU",
     "firstName": "Meredith",
     "lastName": "Brammeier",
-    "numEvals": 19,
-    "overallRating": 3.43,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.33,
+    "numEvals": 20,
+    "overallRating": 3.46,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.36,
     "courses": [
       "MU 101",
       "MU 103",
@@ -17250,10 +17250,10 @@
     "department": "MU",
     "firstName": "David",
     "lastName": "Arrivee",
-    "numEvals": 31,
-    "overallRating": 3.8,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.8,
+    "numEvals": 33,
+    "overallRating": 3.82,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.82,
     "courses": [
       "MU 101",
       "MU 104",
@@ -17263,8 +17263,8 @@
       "MU 374"
     ],
     "tags": {
-      "High In-Person Availability": 3,
-      "Fast Response Time": 3,
+      "High In-Person Availability": 4,
+      "Fast Response Time": 4,
       "Class Handouts": 1,
       "Flexible Attendance Policy": 1
     }
@@ -26136,10 +26136,10 @@
     "department": "HIST",
     "firstName": "Margaret",
     "lastName": "Bodemer",
-    "numEvals": 49,
-    "overallRating": 3.4,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 50,
+    "overallRating": 3.33,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.51,
     "courses": [
       "ANT 201",
       "HIST 206",
@@ -28299,12 +28299,13 @@
     "department": "HLTH",
     "firstName": "Julia",
     "lastName": "Coryell",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "HLTH 260"
+      "HLTH 260",
+      "HLTH 250"
     ],
     "tags": {
       "Recorded Lectures": 1,
