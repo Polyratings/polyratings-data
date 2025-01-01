@@ -7568,17 +7568,21 @@
     "department": "ENGL",
     "firstName": "Colum",
     "lastName": "Yip",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL"
+      "ENGL 492",
+      "ENGL 495",
+      "ENGL 497"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 3,
       "Class Handouts": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Fast Response Time": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9042,10 +9046,10 @@
     "department": "ENGL",
     "firstName": "Ryan",
     "lastName": "Hatch",
-    "numEvals": 16,
-    "overallRating": 3.29,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.29,
+    "numEvals": 17,
+    "overallRating": 3.27,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.33,
     "courses": [
       "ENGL 202",
       "ENGL 253",
@@ -9054,9 +9058,10 @@
       "ENGL 381"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 1
     }
   },
   {
@@ -35823,10 +35828,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 92,
-    "overallRating": 2.99,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.7,
+    "numEvals": 93,
+    "overallRating": 2.96,
+    "materialClear": 3.09,
+    "studentDifficulties": 2.68,
     "courses": [
       "ENGL 250",
       "ENGL 251",
@@ -35844,7 +35849,7 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Does Not Use Canvas": 3,
+      "Does Not Use Canvas": 4,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1
     }
@@ -36475,19 +36480,21 @@
     "department": "CHEM",
     "firstName": "Rouxi",
     "lastName": "Wang",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2,
+    "studentDifficulties": 2.33,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Pop Quizzes": 1
     }
   },
   {
