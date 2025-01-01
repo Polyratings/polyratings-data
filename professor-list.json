@@ -2219,7 +2219,7 @@
     "department": "BUS",
     "firstName": "Lane",
     "lastName": "Fronczek",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2228,9 +2228,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Class Handouts": 1,
-      "Uploads Slides": 2,
-      "Flexible Grading Policy": 1
+      "Class Handouts": 2,
+      "Uploads Slides": 3,
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -5538,10 +5539,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 135,
-    "overallRating": 2.76,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.8,
+    "numEvals": 136,
+    "overallRating": 2.75,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.79,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -5549,12 +5550,13 @@
     "tags": {
       "Flexible Attendance Policy": 2,
       "Pop Quizzes": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Zoom Office Hours": 2,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Recorded Lectures": 1,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Hybrid Option": 1
     }
   },
   {
@@ -5874,10 +5876,10 @@
     "department": "KINE",
     "firstName": "Jens",
     "lastName": "Omli",
-    "numEvals": 17,
-    "overallRating": 3.28,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.5,
+    "numEvals": 18,
+    "overallRating": 3.32,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.47,
     "courses": [
       "KINE 266",
       "KINE 324",
@@ -5887,8 +5889,10 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Uploads Slides": 5,
-      "Fast Response Time": 1
+      "Uploads Slides": 6,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -14727,10 +14731,10 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 6,
-    "overallRating": 3.17,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3.15,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.28,
     "courses": [
       "PHIL 323",
       "PHIL 336"
@@ -19441,7 +19445,7 @@
     "department": "SOC",
     "firstName": "Meg",
     "lastName": "Streiff",
-    "numEvals": 83,
+    "numEvals": 84,
     "overallRating": 3.9,
     "materialClear": 3.89,
     "studentDifficulties": 3.91,
@@ -19455,7 +19459,9 @@
       "SOC 308",
       "GEOG 377"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "7d8d2101-38d4-4953-b511-d7b1ab9e475d",
@@ -23152,10 +23158,10 @@
     "department": "STAT",
     "firstName": "Ulric",
     "lastName": "Lund",
-    "numEvals": 99,
+    "numEvals": 100,
     "overallRating": 3.28,
     "materialClear": 3.31,
-    "studentDifficulties": 3.15,
+    "studentDifficulties": 3.14,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -23174,7 +23180,9 @@
       "STAT 419"
     ],
     "tags": {
-      "Class Handouts": 2
+      "Class Handouts": 3,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
