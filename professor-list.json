@@ -26567,10 +26567,10 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 158,
+    "numEvals": 159,
     "overallRating": 2.73,
     "materialClear": 2.86,
-    "studentDifficulties": 2.66,
+    "studentDifficulties": 2.67,
     "courses": [
       "ENGL 101",
       "ENGL 148",
@@ -26588,7 +26588,8 @@
       "ENGL 145"
     ],
     "tags": {
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -27007,17 +27008,19 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "POLS 230"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
