@@ -22305,10 +22305,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 155,
-    "overallRating": 1.83,
-    "materialClear": 1.74,
-    "studentDifficulties": 1.63,
+    "numEvals": 156,
+    "overallRating": 1.84,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.64,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -22328,12 +22328,13 @@
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 3,
+      "Recorded Lectures": 4,
       "Flexible Attendance Policy": 3,
       "Does Not Use Canvas": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -26083,10 +26084,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 48,
-    "overallRating": 1.38,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.46,
+    "numEvals": 49,
+    "overallRating": 1.35,
+    "materialClear": 1.62,
+    "studentDifficulties": 1.51,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -26095,9 +26096,10 @@
       "MATE 410"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
