@@ -5240,7 +5240,7 @@
     "department": "ECON",
     "firstName": "Javier",
     "lastName": "Medina",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5250,7 +5250,10 @@
     "tags": {
       "Uploads Slides": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -7804,10 +7807,10 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.33,
     "courses": [
       "ASCI 224",
       "ASCI 112"
@@ -10168,7 +10171,7 @@
     "department": "ASCI",
     "firstName": "Laura",
     "lastName": "Backus",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -10177,10 +10180,11 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 4,
-      "Flexible Grading Policy": 4,
+      "Flexible Grading Policy": 5,
       "Uploads Slides": 5,
       "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -10813,10 +10817,10 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 94,
-    "overallRating": 2.92,
-    "materialClear": 2.95,
-    "studentDifficulties": 2.77,
+    "numEvals": 95,
+    "overallRating": 2.93,
+    "materialClear": 2.96,
+    "studentDifficulties": 2.78,
     "courses": [
       "TH 110",
       "TH 201",
@@ -17068,10 +17072,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.72,
     "courses": [
       "STAT 331",
       "STAT 218",
@@ -17082,11 +17086,11 @@
       "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
+      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -29220,10 +29224,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 19,
-    "overallRating": 3.16,
-    "materialClear": 3.16,
-    "studentDifficulties": 3.32,
+    "numEvals": 20,
+    "overallRating": 3.2,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.35,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -29232,15 +29236,16 @@
     ],
     "tags": {
       "Supplemental Study Material": 4,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "No Breaks During Lecture": 2,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Fast Response Time": 5,
       "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
       "Class Handouts": 3,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
