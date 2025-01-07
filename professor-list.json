@@ -9749,10 +9749,10 @@
     "department": "ITP",
     "firstName": "Nianpin",
     "lastName": "Cheng",
-    "numEvals": 20,
-    "overallRating": 2.17,
-    "materialClear": 1.86,
-    "studentDifficulties": 2.29,
+    "numEvals": 21,
+    "overallRating": 2.26,
+    "materialClear": 1.91,
+    "studentDifficulties": 2.37,
     "courses": [
       "STAT 251",
       "IME 301",
@@ -9764,8 +9764,10 @@
     ],
     "tags": {
       "Recorded Lectures": 2,
-      "Uploads Slides": 1,
-      "Flexible Attendance Policy": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -22279,18 +22281,20 @@
     "department": "COMS",
     "firstName": "Alexa",
     "lastName": "Loken",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
       "BUS 206",
-      "BUS 310"
+      "BUS 310",
+      "BUS 345"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
