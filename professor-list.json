@@ -5989,13 +5989,14 @@
     "department": "MATH",
     "firstName": "Lukas",
     "lastName": "Dakhlia",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
       "MATH 118",
-      "MATH 161"
+      "MATH 161",
+      "MATH 162"
     ],
     "tags": {
       "High In-Person Availability": 3,
@@ -15370,10 +15371,10 @@
     "department": "BIO",
     "firstName": "Sandi",
     "lastName": "Clement",
-    "numEvals": 36,
-    "overallRating": 3.06,
+    "numEvals": 37,
+    "overallRating": 3.09,
     "materialClear": 2.94,
-    "studentDifficulties": 3.25,
+    "studentDifficulties": 3.27,
     "courses": [
       "BIO 161",
       "BIO 302",
@@ -15385,9 +15386,9 @@
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1
     }
@@ -16130,8 +16131,8 @@
     "department": "CHEM",
     "firstName": "Eric",
     "lastName": "Jones",
-    "numEvals": 4,
-    "overallRating": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.4,
     "materialClear": 3,
     "studentDifficulties": 3,
     "courses": [
@@ -16142,7 +16143,7 @@
     "tags": {
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 3
     }
   },
   {
@@ -22336,10 +22337,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 157,
-    "overallRating": 1.85,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.66,
+    "numEvals": 158,
+    "overallRating": 1.86,
+    "materialClear": 1.76,
+    "studentDifficulties": 1.67,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -22363,9 +22364,10 @@
       "Flexible Attendance Policy": 3,
       "Does Not Use Canvas": 1,
       "Fast Response Time": 2,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -23456,10 +23458,10 @@
     "department": "CHEM",
     "firstName": "Gregory",
     "lastName": "Scott",
-    "numEvals": 56,
-    "overallRating": 3.42,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.38,
+    "numEvals": 57,
+    "overallRating": 3.43,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.39,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -23472,7 +23474,7 @@
       "Supplemental Study Material": 2,
       "Does Not Use Canvas": 4,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "High In-Person Availability": 1
     }
   },
@@ -28937,7 +28939,7 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 97,
+    "numEvals": 98,
     "overallRating": 1.62,
     "materialClear": 1.52,
     "studentDifficulties": 1.71,
@@ -28953,7 +28955,8 @@
       "Flexible Deadline Policy": 1,
       "Uploads Slides": 2,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Class Handouts": 1
     }
   },
   {
