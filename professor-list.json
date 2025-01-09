@@ -1633,19 +1633,20 @@
     "department": "MATH",
     "firstName": "Rebecca",
     "lastName": "Bishop",
-    "numEvals": 4,
-    "overallRating": 2.25,
-    "materialClear": 2.75,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 3,
+    "studentDifficulties": 3.4,
     "courses": [
       "MATH 115"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -5754,10 +5755,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 30,
-    "overallRating": 1.18,
-    "materialClear": 1.46,
-    "studentDifficulties": 1.63,
+    "numEvals": 31,
+    "overallRating": 1.14,
+    "materialClear": 1.41,
+    "studentDifficulties": 1.58,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -8359,16 +8360,16 @@
     "department": "EE",
     "firstName": "Benjamin",
     "lastName": "Hawkins",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 1.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "BMED 310",
       "BMED 432"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -16863,19 +16864,20 @@
     "department": "SOC",
     "firstName": "Joan",
     "lastName": "Meyers",
-    "numEvals": 6,
-    "overallRating": 1.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.17,
+    "numEvals": 7,
+    "overallRating": 2,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.43,
     "courses": [
       "SOC 110"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 1,
-      "Uploads Slides": 1,
-      "Zoom Office Hours": 1
+      "Uploads Slides": 2,
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -20844,10 +20846,10 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 43,
-    "overallRating": 2.06,
+    "numEvals": 44,
+    "overallRating": 2.04,
     "materialClear": 1.99,
-    "studentDifficulties": 2.27,
+    "studentDifficulties": 2.24,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -21711,12 +21713,12 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "COMS"
+      "COMS 101"
     ],
     "tags": {
       "High In-Person Availability": 1,
