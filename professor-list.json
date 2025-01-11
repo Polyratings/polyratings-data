@@ -4522,17 +4522,17 @@
     "department": "ENGL",
     "firstName": "Anthony",
     "lastName": "Halderman",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.33,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 2,
-      "Fast Response Time": 1
+      "Flexible Deadline Policy": 3,
+      "Fast Response Time": 2
     }
   },
   {
@@ -5756,10 +5756,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 32,
-    "overallRating": 1.1,
-    "materialClear": 1.37,
-    "studentDifficulties": 1.53,
+    "numEvals": 33,
+    "overallRating": 1.07,
+    "materialClear": 1.33,
+    "studentDifficulties": 1.48,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -11500,10 +11500,10 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 52,
-    "overallRating": 3.66,
+    "numEvals": 53,
+    "overallRating": 3.67,
     "materialClear": 3.75,
-    "studentDifficulties": 3.73,
+    "studentDifficulties": 3.74,
     "courses": [
       "HIST 201",
       "HIST 213",
@@ -11515,12 +11515,12 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 2,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "High In-Person Availability": 1,
-      "Fast Response Time": 2
+      "Fast Response Time": 3
     }
   },
   {
@@ -21951,9 +21951,9 @@
     "department": "BIO",
     "firstName": "Gita",
     "lastName": "Kolluru",
-    "numEvals": 46,
-    "overallRating": 3.07,
-    "materialClear": 3.36,
+    "numEvals": 47,
+    "overallRating": 3.09,
+    "materialClear": 3.37,
     "studentDifficulties": 2.97,
     "courses": [
       "BIO 123",
@@ -21963,9 +21963,9 @@
     "tags": {
       "Fast Response Time": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 2,
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 3
     }
   },
   {
@@ -37367,21 +37367,23 @@
     "department": "HIST",
     "firstName": "John",
     "lastName": "Paniagua",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.67,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "HIST 304",
-      "HIST 223"
+      "HIST 223",
+      "HIST 222"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
       "Honor DRC Accommodations": 1,
       "Inflexible Attendance Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
