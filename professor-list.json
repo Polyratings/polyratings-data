@@ -2954,7 +2954,7 @@
     "department": "CHEM",
     "firstName": "Tanner",
     "lastName": "Treece",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -3455,17 +3455,19 @@
     "department": "ENVE",
     "firstName": "Cevat",
     "lastName": "Yaman",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
     "studentDifficulties": 3,
     "courses": [
-      "ENVE"
+      "ENVE 325"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -36584,10 +36586,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 136,
+    "numEvals": 137,
     "overallRating": 1.68,
-    "materialClear": 1.97,
-    "studentDifficulties": 1.62,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.61,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -36611,11 +36613,12 @@
     "tags": {
       "Hybrid Option": 1,
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 3,
       "Recorded Lectures": 3,
-      "Does Not Use Canvas": 4
+      "Does Not Use Canvas": 5,
+      "Pop Quizzes": 1
     }
   },
   {
