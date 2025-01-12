@@ -9706,9 +9706,9 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 267,
-    "overallRating": 2.39,
-    "materialClear": 2.13,
+    "numEvals": 268,
+    "overallRating": 2.38,
+    "materialClear": 2.12,
     "studentDifficulties": 2.54,
     "courses": [
       "ECON 111",
@@ -21557,7 +21557,7 @@
     "department": "MATH",
     "firstName": "Todd",
     "lastName": "Grundmeier",
-    "numEvals": 63,
+    "numEvals": 64,
     "overallRating": 3.82,
     "materialClear": 3.72,
     "studentDifficulties": 3.72,
@@ -21577,9 +21577,10 @@
       "MATH 443"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -22661,10 +22662,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 21,
-    "overallRating": 3.3,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.4,
+    "numEvals": 22,
+    "overallRating": 3.33,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.29,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -22678,7 +22679,8 @@
       "Zoom Office Hours": 1,
       "High In-Person Availability": 2,
       "Class Handouts": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -25027,10 +25029,10 @@
     "department": "KINE",
     "firstName": "Kristine",
     "lastName": "Jankovitz",
-    "numEvals": 95,
+    "numEvals": 96,
     "overallRating": 2.46,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.37,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.38,
     "courses": [
       "KINE 250",
       "PE 250",
@@ -25040,10 +25042,10 @@
       "HLTH 250"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Recorded Lectures": 1,
-      "Inflexible Grading Policy": 2,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 2
     }
   },
   {
