@@ -11470,12 +11470,13 @@
     "department": "ENGL",
     "firstName": "Maura",
     "lastName": "Krause",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 3.33,
     "courses": [
-      "ENGL 134"
+      "ENGL 134",
+      "ENGL 145"
     ],
     "tags": {
       "Fast Response Time": 2,
@@ -33497,10 +33498,10 @@
     "department": "CSC",
     "firstName": "Zachary",
     "lastName": "Peterson",
-    "numEvals": 23,
-    "overallRating": 3.77,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.66,
+    "numEvals": 24,
+    "overallRating": 3.7,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.67,
     "courses": [
       "CPE 123",
       "CSC 123",
