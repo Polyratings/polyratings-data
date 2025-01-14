@@ -14638,10 +14638,10 @@
     "department": "STAT",
     "firstName": "Matt",
     "lastName": "Carlton",
-    "numEvals": 118,
-    "overallRating": 3.68,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.64,
+    "numEvals": 119,
+    "overallRating": 3.65,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.62,
     "courses": [
       "MATH 118",
       "STAT 130",
@@ -14665,9 +14665,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
-      "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Inflexible Grading Policy": 2,
+      "High In-Person Availability": 2,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -18292,9 +18293,9 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 110,
-    "overallRating": 2.74,
-    "materialClear": 2.88,
+    "numEvals": 111,
+    "overallRating": 2.75,
+    "materialClear": 2.89,
     "studentDifficulties": 2.55,
     "courses": [
       "CPE 101",
@@ -18315,10 +18316,10 @@
       "Zoom Office Hours": 1,
       "Class Handouts": 4,
       "Uploads Slides": 3,
-      "Recorded Lectures": 8,
+      "Recorded Lectures": 9,
       "Fast Response Time": 2,
-      "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 1,
+      "Supplemental Study Material": 2,
+      "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -22828,7 +22829,7 @@
     "department": "WGS",
     "firstName": "Malia",
     "lastName": "Womack",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -28610,16 +28611,16 @@
     "department": "HLTH",
     "firstName": "Julia",
     "lastName": "Coryell",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.25,
     "courses": [
       "HLTH 260",
       "HLTH 250"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Uploads Slides": 1
     }
   },
@@ -38299,7 +38300,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
@@ -38314,8 +38315,8 @@
       "MATH 182"
     ],
     "tags": {
-      "Zoom Office Hours": 18,
-      "Fast Response Time": 7,
+      "Zoom Office Hours": 19,
+      "Fast Response Time": 8,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 2,
       "Honor DRC Accommodations": 1,
