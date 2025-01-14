@@ -5529,14 +5529,18 @@
     "department": "CRP",
     "firstName": "Ryan",
     "lastName": "Miller",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CRP"
+      "CRP 213"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "230e41d2-4897-4820-becb-7803ecfa2ccd",
@@ -8393,10 +8397,10 @@
     "department": "BUS",
     "firstName": "Stern",
     "lastName": "Neill",
-    "numEvals": 25,
-    "overallRating": 3.21,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.06,
+    "numEvals": 26,
+    "overallRating": 3.24,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.1,
     "courses": [
       "BUS 342",
       "BUS 346",
@@ -8405,9 +8409,10 @@
       "BUS 446"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -11504,9 +11509,9 @@
     "department": "BUS",
     "firstName": "Jim",
     "lastName": "Kaney",
-    "numEvals": 66,
-    "overallRating": 3.19,
-    "materialClear": 3.26,
+    "numEvals": 67,
+    "overallRating": 3.17,
+    "materialClear": 3.24,
     "studentDifficulties": 3.07,
     "courses": [
       "BUS 212",
@@ -11518,11 +11523,12 @@
       "BUS 440"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Pop Quizzes": 1,
       "Uploads Slides": 2,
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -14761,22 +14767,23 @@
     "department": "ENGL",
     "firstName": "Raymond",
     "lastName": "Brennan",
-    "numEvals": 7,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 3.57,
+    "numEvals": 8,
+    "overallRating": 3.88,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.62,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
       "Fast Response Time": 3,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Honor DRC Accommodations": 3,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -19138,7 +19145,7 @@
     "department": "CRP",
     "firstName": "Beate",
     "lastName": "von Bischopinck",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19147,7 +19154,9 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -24485,10 +24494,10 @@
     "department": "PHYS",
     "firstName": "Jessica",
     "lastName": "Pilgram",
-    "numEvals": 7,
-    "overallRating": 2.86,
-    "materialClear": 2.14,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 2.88,
+    "materialClear": 2.12,
+    "studentDifficulties": 3.38,
     "courses": [
       "PHYS 142"
     ],
@@ -24615,10 +24624,10 @@
     "department": "HIST",
     "firstName": "Elizabeth",
     "lastName": "Sine",
-    "numEvals": 7,
-    "overallRating": 3.43,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.14,
+    "numEvals": 8,
+    "overallRating": 3.38,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.25,
     "courses": [
       "HIST 202",
       "HIST 322"
@@ -24627,7 +24636,8 @@
       "Hybrid Option": 3,
       "Zoom Office Hours": 4,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 2
+      "Flexible Deadline Policy": 2,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -28352,7 +28362,7 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 2.11,
     "materialClear": 2.16,
     "studentDifficulties": 2.16,
@@ -28365,7 +28375,10 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -33542,10 +33555,10 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 46,
-    "overallRating": 2.88,
-    "materialClear": 2.99,
-    "studentDifficulties": 2.93,
+    "numEvals": 47,
+    "overallRating": 2.9,
+    "materialClear": 3.01,
+    "studentDifficulties": 2.95,
     "courses": [
       "STAT 217",
       "STAT 218",
@@ -33559,11 +33572,12 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -34707,17 +34721,21 @@
     "department": "BUS",
     "firstName": "Kaveepan",
     "lastName": "Lertwachara",
-    "numEvals": 30,
-    "materialClear": 3.44,
-    "studentDifficulties": 3.44,
-    "overallRating": 3.44,
+    "numEvals": 31,
+    "overallRating": 3.46,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.43,
     "courses": [
       "BUS 290",
       "IT 371",
       "BUS 390",
       "BUS 391",
       "BUS 392"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "e3450a50-53db-454d-822f-f340bddc4173",
@@ -38281,7 +38299,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 59,
+    "numEvals": 60,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
