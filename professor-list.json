@@ -3167,10 +3167,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 13,
-    "overallRating": 2.31,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.38,
+    "numEvals": 14,
+    "overallRating": 2.36,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.5,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -3180,11 +3180,13 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Class Handouts": 6,
+      "Class Handouts": 7,
       "Inflexible Grading Policy": 5,
       "Zoom Office Hours": 1,
       "Supplemental Study Material": 5,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -29271,16 +29273,18 @@
     "department": "SPAN",
     "firstName": "Claudia",
     "lastName": "Gwinn",
-    "numEvals": 2,
-    "overallRating": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
     "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "studentDifficulties": 3,
     "courses": [
       "SPAN 101"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1
+      "Zoom Office Hours": 2,
+      "Inflexible Attendance Policy": 1,
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -31584,10 +31588,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 125,
-    "overallRating": 2.89,
-    "materialClear": 2.78,
-    "studentDifficulties": 2.88,
+    "numEvals": 126,
+    "overallRating": 2.9,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.89,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -31599,9 +31603,9 @@
     ],
     "tags": {
       "High In-Person Availability": 5,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Uploads Slides": 7,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Class Handouts": 6,
       "Supplemental Study Material": 6,
       "Flexible Grading Policy": 1
