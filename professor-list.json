@@ -5779,10 +5779,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 34,
-    "overallRating": 1.04,
-    "materialClear": 1.29,
-    "studentDifficulties": 1.55,
+    "numEvals": 35,
+    "overallRating": 1.12,
+    "materialClear": 1.37,
+    "studentDifficulties": 1.62,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -6124,10 +6124,10 @@
     "department": "EE",
     "firstName": "Dale",
     "lastName": "Dolan",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 1.93,
-    "materialClear": 1.88,
-    "studentDifficulties": 2.04,
+    "materialClear": 1.99,
+    "studentDifficulties": 2.14,
     "courses": [
       "EE 201",
       "EE 211",
@@ -6138,7 +6138,7 @@
       "EE 111"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -6832,10 +6832,10 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 10,
-    "overallRating": 3.89,
-    "materialClear": 3.89,
-    "studentDifficulties": 3.89,
+    "numEvals": 11,
+    "overallRating": 3.9,
+    "materialClear": 3.9,
+    "studentDifficulties": 3.9,
     "courses": [
       "MATH 142",
       "MATH 206",
@@ -6846,8 +6846,9 @@
       "High In-Person Availability": 5,
       "Fast Response Time": 5,
       "Supplemental Study Material": 3,
-      "Flexible Attendance Policy": 3,
-      "Class Handouts": 1
+      "Flexible Attendance Policy": 4,
+      "Class Handouts": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -15919,10 +15920,10 @@
     "department": "EE",
     "firstName": "Dennis",
     "lastName": "Derickson",
-    "numEvals": 24,
-    "overallRating": 2.53,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.56,
+    "numEvals": 25,
+    "overallRating": 2.55,
+    "materialClear": 2.36,
+    "studentDifficulties": 2.62,
     "courses": [
       "EE 111",
       "EE 212",
@@ -15936,8 +15937,10 @@
       "EE 151"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Uploads Slides": 1
+      "Inflexible Attendance Policy": 3,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -22523,10 +22526,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 159,
-    "overallRating": 1.86,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.68,
+    "numEvals": 160,
+    "overallRating": 1.87,
+    "materialClear": 1.77,
+    "studentDifficulties": 1.69,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -22547,13 +22550,13 @@
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
       "Recorded Lectures": 5,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Does Not Use Canvas": 1,
       "Fast Response Time": 2,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 2,
       "Class Handouts": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2
     }
   },
   {
@@ -31700,7 +31703,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 135,
+    "numEvals": 136,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -32396,20 +32399,22 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O\u2019Connor",
-    "numEvals": 4,
-    "overallRating": 2.5,
-    "materialClear": 3.75,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 2.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.2,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Class Handouts": 2,
       "Honor DRC Accommodations": 1,
       "Inflexible Deadline Policy": 1,
       "Fast Response Time": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
