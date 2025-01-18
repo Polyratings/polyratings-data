@@ -13260,14 +13260,18 @@
     "department": "MU",
     "firstName": "John",
     "lastName": "Astaire",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "MU 101",
       "MU 324"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "560d86e1-87de-4f29-bbba-bc4cc13fd42f",
@@ -13460,12 +13464,12 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "CSC"
+      "CSC 101"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -22857,10 +22861,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 22,
-    "overallRating": 3.33,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.29,
+    "numEvals": 23,
+    "overallRating": 3.36,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.32,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -22872,10 +22876,12 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Class Handouts": 2,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
