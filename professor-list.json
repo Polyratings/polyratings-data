@@ -20147,17 +20147,19 @@
     "department": "CSC",
     "firstName": "Eric",
     "lastName": "Yocam",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
+      "CSC 321"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -26122,13 +26124,14 @@
     "department": "ME",
     "firstName": "Cooper",
     "lastName": "Minehart",
-    "numEvals": 7,
-    "overallRating": 3.71,
+    "numEvals": 8,
+    "overallRating": 3.75,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ME 228",
-      "ME 234"
+      "ME 234",
+      "ME 128"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -28876,9 +28879,9 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 11,
+    "numEvals": 12,
     "overallRating": 4,
-    "materialClear": 3.91,
+    "materialClear": 3.92,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -28888,10 +28891,10 @@
     "tags": {
       "Fast Response Time": 4,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "High In-Person Availability": 4,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "No Breaks During Lecture": 1,
       "Flexible Grading Policy": 1,
       "Inflexible Attendance Policy": 1,
@@ -38376,10 +38379,10 @@
     "department": "IME",
     "firstName": "Martin",
     "lastName": "Koch",
-    "numEvals": 60,
-    "overallRating": 3.65,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.59,
+    "numEvals": 61,
+    "overallRating": 3.66,
+    "materialClear": 3.35,
+    "studentDifficulties": 3.6,
     "courses": [
       "IME 141",
       "ENGR 212"
