@@ -5573,10 +5573,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 136,
-    "overallRating": 2.75,
-    "materialClear": 2.82,
-    "studentDifficulties": 2.79,
+    "numEvals": 137,
+    "overallRating": 2.73,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.78,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -14180,10 +14180,10 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 19,
-    "overallRating": 1.21,
-    "materialClear": 1,
-    "studentDifficulties": 1.32,
+    "numEvals": 20,
+    "overallRating": 1.15,
+    "materialClear": 0.95,
+    "studentDifficulties": 1.3,
     "courses": [
       "CSC 202"
     ],
@@ -15066,10 +15066,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Seng",
-    "numEvals": 52,
-    "overallRating": 3.66,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.64,
+    "numEvals": 53,
+    "overallRating": 3.67,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.65,
     "courses": [
       "CPE 101",
       "CPE 123",
@@ -20151,10 +20151,10 @@
     "department": "CSC",
     "firstName": "Eric",
     "lastName": "Yocam",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "CSC 321"
     ],
@@ -30967,10 +30967,10 @@
     "department": "DATA",
     "firstName": "Bernette",
     "lastName": "Chan",
-    "numEvals": 10,
-    "overallRating": 3.1,
-    "materialClear": 3.1,
-    "studentDifficulties": 2.81,
+    "numEvals": 12,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3.01,
     "courses": [
       "DATA 301",
       "DATA 402",
@@ -30979,15 +30979,16 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Fast Response Time": 2,
-      "Class Handouts": 1,
-      "Inflexible Deadline Policy": 4,
-      "No Breaks During Lecture": 4,
+      "Fast Response Time": 3,
+      "Class Handouts": 2,
+      "Inflexible Deadline Policy": 5,
+      "No Breaks During Lecture": 5,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
       "Pop Quizzes": 2,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 3,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -37963,10 +37964,10 @@
     "department": "PHYS",
     "firstName": "Jodi",
     "lastName": "Christiansen",
-    "numEvals": 45,
-    "overallRating": 1.72,
-    "materialClear": 1.44,
-    "studentDifficulties": 1.59,
+    "numEvals": 46,
+    "overallRating": 1.77,
+    "materialClear": 1.47,
+    "studentDifficulties": 1.64,
     "courses": [
       "PHYS 121",
       "PHYS 132",
@@ -37977,8 +37978,9 @@
       "ASTR 326"
     ],
     "tags": {
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1
     }
   },
   {
