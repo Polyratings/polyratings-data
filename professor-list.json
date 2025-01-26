@@ -5573,21 +5573,21 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 137,
+    "numEvals": 138,
     "overallRating": 2.73,
-    "materialClear": 2.8,
+    "materialClear": 2.79,
     "studentDifficulties": 2.78,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Pop Quizzes": 2,
       "Inflexible Grading Policy": 3,
       "Zoom Office Hours": 2,
-      "Fast Response Time": 3,
-      "Recorded Lectures": 1,
+      "Fast Response Time": 4,
+      "Recorded Lectures": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Hybrid Option": 1
@@ -16863,14 +16863,17 @@
     "department": "HLTH",
     "firstName": "April",
     "lastName": "Denny",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "HLTH"
+      "HLTH 260"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "6c492fb2-77f4-439d-8f98-15a60aa68098",
@@ -19366,10 +19369,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 10,
-    "overallRating": 3.11,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.6,
+    "numEvals": 11,
+    "overallRating": 3.19,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.64,
     "courses": [
       "TH 210",
       "TH 227"
@@ -19380,9 +19383,10 @@
       "Class Handouts": 1,
       "Inflexible Grading Policy": 1,
       "Recorded Lectures": 1,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Hybrid Option": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -38127,10 +38131,10 @@
     "department": "ES",
     "firstName": "Grace",
     "lastName": "YEh",
-    "numEvals": 42,
-    "overallRating": 3.39,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.42,
+    "numEvals": 43,
+    "overallRating": 3.38,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.41,
     "courses": [
       "ES 244",
       "ES 322",
@@ -38141,7 +38145,9 @@
       "Fast Response Time": 1,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Zoom Office Hours": 1,
+      "Pop Quizzes": 1
     }
   },
   {
