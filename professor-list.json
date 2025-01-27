@@ -30974,15 +30974,16 @@
     "department": "DATA",
     "firstName": "Bernette",
     "lastName": "Chan",
-    "numEvals": 12,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.01,
+    "numEvals": 13,
+    "overallRating": 3.08,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.09,
     "courses": [
       "DATA 301",
       "DATA 402",
       "MATE 490",
-      "MATH 512"
+      "MATH 512",
+      "BUS 100"
     ],
     "tags": {
       "High In-Person Availability": 3,
@@ -30992,10 +30993,11 @@
       "No Breaks During Lecture": 5,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
-      "Pop Quizzes": 2,
-      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 3,
+      "Inflexible Attendance Policy": 2,
       "Inflexible Grading Policy": 3,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Recorded Lectures": 1
     }
   },
   {
