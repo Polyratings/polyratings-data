@@ -26724,12 +26724,13 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Baltimore",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 2,
     "materialClear": 3,
-    "studentDifficulties": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "ENGL"
+      "ENGL 147",
+      "ENGL 310"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
