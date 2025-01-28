@@ -6247,8 +6247,8 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 314,
-    "overallRating": 1.71,
+    "numEvals": 315,
+    "overallRating": 1.7,
     "materialClear": 2.07,
     "studentDifficulties": 1.62,
     "courses": [
@@ -6269,12 +6269,13 @@
       "SPC 250"
     ],
     "tags": {
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 4,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 3
+      "No Breaks During Lecture": 4,
+      "Hybrid Option": 1
     }
   },
   {
@@ -9764,9 +9765,9 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 268,
+    "numEvals": 269,
     "overallRating": 2.38,
-    "materialClear": 2.12,
+    "materialClear": 2.11,
     "studentDifficulties": 2.54,
     "courses": [
       "ECON 111",
@@ -13933,12 +13934,13 @@
     "department": "ME",
     "firstName": "Shaheen",
     "lastName": "Hoque",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 1,
+    "studentDifficulties": 0.8,
     "courses": [
-      "ME 302"
+      "ME 302",
+      "ME 212"
     ],
     "tags": {
       "Uploads Slides": 1
@@ -17934,17 +17936,18 @@
     "department": "ENGL",
     "firstName": "Steven",
     "lastName": "Ruszczycky",
-    "numEvals": 12,
-    "materialClear": 3,
-    "studentDifficulties": 3,
-    "overallRating": 3,
+    "numEvals": 13,
+    "overallRating": 2.77,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.85,
     "courses": [
       "ENGL 134",
       "ENGL 202",
       "WGS 340",
       "ENGL 381",
       "ENGL 382"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "745f586f-502d-4f1e-a4e8-71474e03c7b7",
