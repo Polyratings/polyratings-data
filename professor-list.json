@@ -8774,17 +8774,18 @@
     "department": "ISLA",
     "firstName": "Brandiff",
     "lastName": "Caron",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ISLA"
+      "ISLA 123"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -13934,10 +13935,10 @@
     "department": "ME",
     "firstName": "Shaheen",
     "lastName": "Hoque",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.57,
+    "studentDifficulties": 0.5,
     "courses": [
       "ME 302",
       "ME 212"
@@ -19085,21 +19086,21 @@
   {
     "id": "7a641ab2-93a3-4f4c-a3d9-da9747a50c15",
     "department": "PHIL",
-    "firstName": "Dean ",
+    "firstName": "Dean",
     "lastName": "Da Vee",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "PHIL 230",
       "PHIL 126"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -26454,10 +26455,10 @@
     "department": "HIST",
     "firstName": "Margaret",
     "lastName": "Bodemer",
-    "numEvals": 52,
-    "overallRating": 3.35,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.53,
+    "numEvals": 53,
+    "overallRating": 3.34,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.54,
     "courses": [
       "ANT 201",
       "HIST 206",
