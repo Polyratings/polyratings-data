@@ -10489,17 +10489,18 @@
   {
     "id": "4323c2c6-3257-4e5b-baec-8ad0fb8fc3ed",
     "department": "LA",
-    "firstName": "Ryan ",
-    "lastName": "Sandwick ",
-    "numEvals": 1,
-    "overallRating": 3,
+    "firstName": "Ryan",
+    "lastName": "Sandwick",
+    "numEvals": 2,
+    "overallRating": 2.5,
     "materialClear": 2,
-    "studentDifficulties": 0,
+    "studentDifficulties": 1.5,
     "courses": [
-      "LA"
+      "LA 101"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -24884,10 +24885,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 30,
-    "overallRating": 3.69,
+    "numEvals": 31,
+    "overallRating": 3.67,
     "materialClear": 3.85,
-    "studentDifficulties": 3.63,
+    "studentDifficulties": 3.64,
     "courses": [
       "BIO 102",
       "BIO 114",
@@ -24896,8 +24897,8 @@
     ],
     "tags": {
       "High In-Person Availability": 5,
-      "Flexible Attendance Policy": 4,
-      "Uploads Slides": 7,
+      "Flexible Attendance Policy": 5,
+      "Uploads Slides": 8,
       "Fast Response Time": 2,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 1
