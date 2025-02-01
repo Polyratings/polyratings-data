@@ -2104,16 +2104,16 @@
     "department": "SOC",
     "firstName": "Jess",
     "lastName": "Lee",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 1.67,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 1,
     "courses": [
       "SOC 111"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 1,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 1
@@ -7185,7 +7185,7 @@
     "department": "STAT",
     "firstName": "Heather",
     "lastName": "Smith",
-    "numEvals": 117,
+    "numEvals": 116,
     "overallRating": 2.46,
     "materialClear": 2.61,
     "studentDifficulties": 2.43,
@@ -8296,7 +8296,7 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Retsek",
-    "numEvals": 129,
+    "numEvals": 130,
     "overallRating": 3.4,
     "materialClear": 3.44,
     "studentDifficulties": 3.38,
@@ -8311,7 +8311,7 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1
     }
@@ -8680,10 +8680,10 @@
     "department": "FSN",
     "firstName": "Marilyn",
     "lastName": "Tseng",
-    "numEvals": 36,
-    "overallRating": 1.87,
-    "materialClear": 2,
-    "studentDifficulties": 1.87,
+    "numEvals": 35,
+    "overallRating": 1.92,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.92,
     "courses": [
       "FSN 255",
       "KINE 255",
@@ -26002,10 +26002,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 38,
-    "overallRating": 0.43,
-    "materialClear": 0.16,
-    "studentDifficulties": 0.88,
+    "numEvals": 24,
+    "overallRating": 0.46,
+    "materialClear": 0.06,
+    "studentDifficulties": 0.91,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -27578,9 +27578,9 @@
     "department": "ES",
     "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 11,
-    "overallRating": 3.82,
-    "materialClear": 3.72,
+    "numEvals": 10,
+    "overallRating": 4,
+    "materialClear": 3.89,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
