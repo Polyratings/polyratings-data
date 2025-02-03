@@ -5209,6 +5209,24 @@
     ]
   },
   {
+    "id": "1fa9ae7b-7f14-4459-8fd5-2f679ccfc3e8",
+    "department": "GRC",
+    "firstName": "Dina",
+    "lastName": "Vees",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 2,
+    "studentDifficulties": 0,
+    "courses": [
+      "GRC"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
+    }
+  },
+  {
     "id": "1fa9bf45-9bc7-481a-8eea-086cb3453318",
     "department": "BIO",
     "firstName": "Candace",
@@ -8296,7 +8314,7 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Retsek",
-    "numEvals": 130,
+    "numEvals": 131,
     "overallRating": 3.4,
     "materialClear": 3.44,
     "studentDifficulties": 3.38,
@@ -8310,10 +8328,11 @@
       "CHEM 142"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Uploads Slides": 3,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -9524,9 +9543,9 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 64,
-    "overallRating": 2.34,
-    "materialClear": 2.56,
+    "numEvals": 65,
+    "overallRating": 2.33,
+    "materialClear": 2.57,
     "studentDifficulties": 2.22,
     "courses": [
       "PHYS 122",
@@ -9543,10 +9562,12 @@
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -18564,10 +18585,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 61,
-    "overallRating": 3.47,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.47,
+    "numEvals": 62,
+    "overallRating": 3.48,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.48,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18579,9 +18600,9 @@
       "MATH 423"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Class Handouts": 2,
-      "Supplemental Study Material": 1,
+      "High In-Person Availability": 3,
+      "Class Handouts": 3,
+      "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1
     }
   },
@@ -21660,17 +21681,19 @@
     "department": "ITP",
     "firstName": "German",
     "lastName": "Serna",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 1,
-    "materialClear": 0.25,
-    "studentDifficulties": 0.75,
+    "materialClear": 0.2,
+    "studentDifficulties": 1,
     "courses": [
-      "ITP 371"
+      "ITP 371",
+      "IME 100"
     ],
     "tags": {
       "Uploads Slides": 2,
       "No Breaks During Lecture": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -23047,6 +23070,23 @@
       "BUS 412",
       "BUS 429"
     ]
+  },
+  {
+    "id": "93ee0903-434b-4966-98fa-40a491eb51af",
+    "department": "LA",
+    "firstName": "Omar",
+    "lastName": "Faruque",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 1,
+    "studentDifficulties": 4,
+    "courses": [
+      "LA"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "9411f97a-a14d-4150-9a16-72ee15d93841",
@@ -27732,13 +27772,18 @@
     "department": "IME",
     "firstName": "Xuan",
     "lastName": "Wang",
-    "numEvals": 2,
-    "materialClear": 3,
-    "studentDifficulties": 3,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "IME 327"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "b3ebc752-9e02-4b0b-8f05-bf0d78f85ff4",
