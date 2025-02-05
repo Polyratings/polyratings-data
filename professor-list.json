@@ -25484,18 +25484,20 @@
     "department": "SPAN",
     "firstName": "Rene",
     "lastName": "Carrasco",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "SPAN 233"
+      "SPAN 233",
+      "WLC 312"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1
     }
   },
   {
