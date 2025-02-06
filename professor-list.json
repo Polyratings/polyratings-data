@@ -1536,10 +1536,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 13,
-    "overallRating": 3.69,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.39,
+    "numEvals": 14,
+    "overallRating": 3.5,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.15,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -1547,14 +1547,15 @@
     "tags": {
       "Class Handouts": 3,
       "Supplemental Study Material": 7,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "High In-Person Availability": 4,
       "Uploads Slides": 8,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 4,
-      "No Breaks During Lecture": 1,
-      "Flexible Attendance Policy": 1
+      "No Breaks During Lecture": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -11519,22 +11520,23 @@
     "department": "ENGL",
     "firstName": "Maura",
     "lastName": "Krause",
-    "numEvals": 5,
-    "overallRating": 2.6,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 147"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -13916,10 +13918,10 @@
     "department": "ENGL",
     "firstName": "Katrina",
     "lastName": "Prow",
-    "numEvals": 5,
-    "overallRating": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
     "materialClear": 4,
-    "studentDifficulties": 3.8,
+    "studentDifficulties": 3.83,
     "courses": [
       "ENGL 145",
       "ENGL 387"
@@ -13927,8 +13929,9 @@
     "tags": {
       "Flexible Deadline Policy": 1,
       "Uploads Slides": 2,
-      "Flexible Grading Policy": 1,
-      "Fast Response Time": 2
+      "Flexible Grading Policy": 2,
+      "Fast Response Time": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -19275,10 +19278,10 @@
     "department": "AERO",
     "firstName": "Eric",
     "lastName": "Mehiel",
-    "numEvals": 20,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.71,
-    "overallRating": 2.76,
+    "numEvals": 21,
+    "overallRating": 2.82,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.77,
     "courses": [
       "AERO 121",
       "AERO 215",
@@ -19288,7 +19291,11 @@
       "AERO 340",
       "AERO 421",
       "AERO 451"
-    ]
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "7b91f48b-4983-4b00-97e6-e863ee20ae87",
@@ -25777,23 +25784,24 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 14,
-    "overallRating": 3.57,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.65,
+    "numEvals": 15,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.67,
     "courses": [
       "CSC 101",
-      "CSC 203"
+      "CSC 203",
+      "CSC 357"
     ],
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 4,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 2,
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1
     }
