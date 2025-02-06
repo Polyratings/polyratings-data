@@ -3556,10 +3556,10 @@
     "department": "ART",
     "firstName": "Charmaine",
     "lastName": "Martinez",
-    "numEvals": 8,
-    "overallRating": 2.17,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.31,
+    "numEvals": 9,
+    "overallRating": 2.15,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.16,
     "courses": [
       "ART 237",
       "ART 260",
@@ -17613,14 +17613,15 @@
     "department": "ART",
     "firstName": "Ava",
     "lastName": "Werner",
-    "numEvals": 19,
-    "overallRating": 3.75,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.65,
+    "numEvals": 20,
+    "overallRating": 3.76,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.67,
     "courses": [
       "ART 101",
       "ART 103",
-      "ART 111"
+      "ART 111",
+      "ART 203"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -24762,12 +24763,12 @@
     "department": "ART",
     "firstName": "Makia",
     "lastName": "Sharp",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ART"
+      "ART 224"
     ],
     "tags": {}
   },
@@ -25913,17 +25914,19 @@
     "department": "HIST",
     "firstName": "Gregory",
     "lastName": "Domber",
-    "numEvals": 3,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 3,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.2,
     "courses": [
       "HIST 202"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1,
-      "Uploads Slides": 1
+      "Does Not Use Canvas": 2,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -34485,7 +34488,7 @@
     "department": "MATH",
     "firstName": "Colleen",
     "lastName": "Kirk",
-    "numEvals": 82,
+    "numEvals": 83,
     "overallRating": 3.75,
     "materialClear": 3.67,
     "studentDifficulties": 3.75,
@@ -34499,7 +34502,11 @@
       "MATH 344",
       "MATH 501"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "e19c8d10-b05e-4112-bf1d-a34781449a47",
@@ -35622,7 +35629,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -35632,11 +35639,11 @@
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 5,
-      "Flexible Grading Policy": 4,
+      "Flexible Attendance Policy": 6,
+      "Flexible Grading Policy": 5,
       "Uploads Slides": 3,
       "Hybrid Option": 2,
-      "Flexible Deadline Policy": 5,
+      "Flexible Deadline Policy": 6,
       "Fast Response Time": 1
     }
   },
