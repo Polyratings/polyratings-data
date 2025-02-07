@@ -7289,10 +7289,10 @@
     "department": "WGS",
     "firstName": "Ceylan",
     "lastName": "Cemali",
-    "numEvals": 4,
-    "overallRating": 1,
-    "materialClear": 0.5,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 1.4,
+    "materialClear": 0.8,
+    "studentDifficulties": 1.6,
     "courses": [
       "WGS 145"
     ],
@@ -12604,16 +12604,17 @@
     "department": "BUS",
     "firstName": "BJ",
     "lastName": "Yebisu",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 2.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 2.75,
+    "studentDifficulties": 3.5,
     "courses": [
       "ITP 233"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -16049,10 +16050,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 131,
-    "overallRating": 1.25,
-    "materialClear": 1.1,
-    "studentDifficulties": 1.25,
+    "numEvals": 132,
+    "overallRating": 1.27,
+    "materialClear": 1.11,
+    "studentDifficulties": 1.26,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -16061,12 +16062,12 @@
       "ECON 520"
     ],
     "tags": {
-      "Fast Response Time": 2,
-      "Uploads Slides": 5,
+      "Fast Response Time": 3,
+      "Uploads Slides": 6,
       "No Breaks During Lecture": 1,
       "Class Handouts": 2,
       "Supplemental Study Material": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 1,
       "Flexible Grading Policy": 1
     }
@@ -33391,10 +33392,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 67,
-    "overallRating": 3.3,
-    "materialClear": 3.03,
-    "studentDifficulties": 3.32,
+    "numEvals": 68,
+    "overallRating": 3.31,
+    "materialClear": 3.04,
+    "studentDifficulties": 3.33,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -37380,10 +37381,10 @@
     "department": "BUS",
     "firstName": "Bradford",
     "lastName": "Anderson",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.75,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 404"
     ],
