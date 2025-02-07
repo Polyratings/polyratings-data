@@ -24912,13 +24912,18 @@
     "department": "GRC",
     "firstName": "Rachel",
     "lastName": "Ma",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "GRC 328"
-    ]
+      "GRC 328",
+      "GRC 211"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "a0ccf62e-106c-4bf4-bc9f-160584e12bf1",
@@ -38231,10 +38236,10 @@
     "department": "ES",
     "firstName": "Grace",
     "lastName": "YEh",
-    "numEvals": 43,
-    "overallRating": 3.38,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.41,
+    "numEvals": 44,
+    "overallRating": 3.39,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.42,
     "courses": [
       "ES 244",
       "ES 322",
@@ -38244,10 +38249,11 @@
     "tags": {
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 3,
       "Zoom Office Hours": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
