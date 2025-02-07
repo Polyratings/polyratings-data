@@ -409,17 +409,18 @@
     "department": "ARCH",
     "firstName": "Angela",
     "lastName": "Bracco",
-    "numEvals": 19,
-    "materialClear": 2.91,
-    "studentDifficulties": 3.05,
-    "overallRating": 3.23,
+    "numEvals": 20,
+    "overallRating": 3.12,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.95,
     "courses": [
       "ARCH 131",
       "ARCH 132",
       "ARCH 133",
       "ARCH 251",
       "ARCH 252"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "032eaa04-00bc-43c7-a5b1-feb019ed5633",
@@ -14751,14 +14752,14 @@
   {
     "id": "5f222ad7-6348-4f20-9920-76d084dbdf5b",
     "department": "NR",
-    "firstName": "Nicholas ",
+    "firstName": "Nicholas",
     "lastName": "Babin",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "NR"
+      "NR 306"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -15135,7 +15136,7 @@
     "department": "SS",
     "firstName": "Yamina",
     "lastName": "Pressler",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -16688,9 +16689,9 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 134,
-    "overallRating": 1.83,
-    "materialClear": 1.97,
+    "numEvals": 135,
+    "overallRating": 1.82,
+    "materialClear": 1.98,
     "studentDifficulties": 1.66,
     "courses": [
       "CE 204",
@@ -17223,14 +17224,18 @@
     "department": "EE",
     "firstName": "Jenna",
     "lastName": "Kloosterman",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "EE"
+      "EE 242"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "6f4e702e-fe3b-479a-81b1-1d5870dc9be5",
@@ -21489,7 +21494,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -21500,9 +21505,9 @@
     "tags": {
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 3,
-      "Flexible Deadline Policy": 6,
+      "Flexible Deadline Policy": 7,
       "Flexible Grading Policy": 4,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Zoom Office Hours": 1
     }
   },
@@ -21833,10 +21838,10 @@
     "department": "CSC",
     "firstName": "Phillip",
     "lastName": "Nico",
-    "numEvals": 86,
-    "overallRating": 3.23,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.04,
+    "numEvals": 87,
+    "overallRating": 3.24,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.05,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -21852,9 +21857,9 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 5,
-      "Does Not Use Canvas": 7,
-      "High In-Person Availability": 2,
-      "Fast Response Time": 4,
+      "Does Not Use Canvas": 8,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 5,
       "Flexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Flexible Deadline Policy": 1
@@ -26551,22 +26556,24 @@
     "department": "NR",
     "firstName": "Yi Wen",
     "lastName": "Chiu",
-    "numEvals": 8,
-    "overallRating": 1.08,
-    "materialClear": 1.29,
-    "studentDifficulties": 1.29,
+    "numEvals": 9,
+    "overallRating": 1.18,
+    "materialClear": 1.15,
+    "studentDifficulties": 1.48,
     "courses": [
       "ENVE 140",
       "FNR 142",
       "FNR 218",
       "FNR 311",
-      "NR 218"
+      "NR 218",
+      "NR 314"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
