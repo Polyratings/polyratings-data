@@ -3867,10 +3867,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 73,
-    "overallRating": 1.63,
-    "materialClear": 1.7,
-    "studentDifficulties": 1.55,
+    "numEvals": 74,
+    "overallRating": 1.61,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.54,
     "courses": [
       "EE 111",
       "EE 151",
@@ -3888,7 +3888,9 @@
       "EE 533",
       "EE 599"
     ],
-    "tags": {}
+    "tags": {
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "17571b99-6cc9-437a-a173-29ac30f20861",
@@ -29439,10 +29441,10 @@
     "department": "AERO",
     "firstName": "Jon",
     "lastName": "Tarantino",
-    "numEvals": 28,
-    "overallRating": 3.21,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.14,
+    "numEvals": 29,
+    "overallRating": 3.24,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.17,
     "courses": [
       "AERO 121",
       "ARCE 211",
@@ -29456,11 +29458,12 @@
       "AERO 420"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
       "Uploads Slides": 1,
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
