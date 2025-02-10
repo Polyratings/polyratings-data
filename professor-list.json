@@ -4251,7 +4251,7 @@
     "department": "MATE",
     "firstName": "Christine",
     "lastName": "Kurtz",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18270,7 +18270,7 @@
     "department": "ES",
     "firstName": "Alex",
     "lastName": "Wescott",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18281,10 +18281,10 @@
     "tags": {
       "Flexible Attendance Policy": 3,
       "Pop Quizzes": 1,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Zoom Office Hours": 7,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Supplemental Study Material": 1
     }
   },
@@ -32154,10 +32154,10 @@
     "department": "PHYS",
     "firstName": "Tatiana",
     "lastName": "Kuriabova",
-    "numEvals": 23,
-    "overallRating": 2.45,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.42,
+    "numEvals": 24,
+    "overallRating": 2.51,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.49,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -32166,13 +32166,15 @@
       "PHYS 132",
       "PHYS 211",
       "PHYS 301",
-      "PHYS 142"
+      "PHYS 142",
+      "PHYS 320"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Uploads Slides": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
