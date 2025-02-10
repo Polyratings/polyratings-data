@@ -13515,17 +13515,18 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "CSC 101"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -14999,13 +15000,18 @@
     "department": "BUS",
     "firstName": "Miranda",
     "lastName": "Yin",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 1,
+    "materialClear": 0.67,
+    "studentDifficulties": 1.33,
     "courses": [
       "BUS 346"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "61272b28-f1ed-4206-bf45-000eb8e826e8",
