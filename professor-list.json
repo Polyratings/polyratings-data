@@ -7242,18 +7242,19 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 10,
-    "overallRating": 2.11,
-    "materialClear": 2.2,
-    "studentDifficulties": 2.9,
+    "numEvals": 11,
+    "overallRating": 2.28,
+    "materialClear": 2.27,
+    "studentDifficulties": 3,
     "courses": [
       "EE 255",
       "EE 228",
       "EE 113",
-      "EE 314"
+      "EE 314",
+      "EE 201"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
@@ -7261,7 +7262,8 @@
       "No Breaks During Lecture": 1,
       "Class Handouts": 1,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -12121,7 +12123,7 @@
     "department": "ME",
     "firstName": "Brendon",
     "lastName": "Anderson",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12131,7 +12133,8 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -14211,8 +14214,8 @@
     "department": "BMED",
     "firstName": "Karla",
     "lastName": "Carichner",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -14222,7 +14225,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -16510,22 +16514,22 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 11,
-    "overallRating": 3.37,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.45,
+    "numEvals": 12,
+    "overallRating": 3.42,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 143"
     ],
     "tags": {
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Supplemental Study Material": 4,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 5,
       "Inflexible Grading Policy": 1,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -29428,17 +29432,17 @@
     "department": "SPAN",
     "firstName": "Claudia",
     "lastName": "Gwinn",
-    "numEvals": 3,
-    "overallRating": 2.67,
+    "numEvals": 4,
+    "overallRating": 2.75,
     "materialClear": 2,
     "studentDifficulties": 3,
     "courses": [
       "SPAN 101"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 1,
-      "Fast Response Time": 1,
+      "Zoom Office Hours": 3,
+      "Inflexible Attendance Policy": 2,
+      "Fast Response Time": 2,
       "Inflexible Grading Policy": 1
     }
   },
@@ -38899,10 +38903,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 33,
-    "overallRating": 0.95,
-    "materialClear": 1.23,
-    "studentDifficulties": 0.8,
+    "numEvals": 35,
+    "overallRating": 0.89,
+    "materialClear": 1.21,
+    "studentDifficulties": 0.98,
     "courses": [
       "MATH 141",
       "MATH 118"
