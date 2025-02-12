@@ -1322,10 +1322,10 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Burt",
-    "numEvals": 16,
-    "overallRating": 3.89,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.77,
+    "numEvals": 17,
+    "overallRating": 3.9,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.78,
     "courses": [
       "BUS 214",
       "BUS 215"
@@ -1541,20 +1541,21 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 15,
-    "overallRating": 3.53,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.07,
+    "numEvals": 16,
+    "overallRating": 3.31,
+    "materialClear": 3.64,
+    "studentDifficulties": 2.88,
     "courses": [
       "MATH 143",
-      "MATH 241"
+      "MATH 241",
+      "MATH 244"
     ],
     "tags": {
       "Class Handouts": 3,
-      "Supplemental Study Material": 7,
+      "Supplemental Study Material": 8,
       "Inflexible Grading Policy": 2,
       "High In-Person Availability": 4,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 4,
@@ -16022,12 +16023,12 @@
     "department": "ART",
     "firstName": "Travis",
     "lastName": "Neel",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ART"
+      "ART 102"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -16062,9 +16063,9 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 132,
-    "overallRating": 1.27,
-    "materialClear": 1.11,
+    "numEvals": 133,
+    "overallRating": 1.28,
+    "materialClear": 1.12,
     "studentDifficulties": 1.26,
     "courses": [
       "ECON 201",
@@ -27601,12 +27602,13 @@
     "department": "ENGL",
     "firstName": "Diana",
     "lastName": "Turken",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ENGL"
+      "ENGL 134",
+      "ENGL 145"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -28984,9 +28986,9 @@
     "department": "AGB",
     "firstName": "Lucy",
     "lastName": "McGowan",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 3.75,
+    "materialClear": 3.8,
     "studentDifficulties": 4,
     "courses": [
       "AGB 212",
@@ -28994,8 +28996,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 2,
-      "Flexible Attendance Policy": 1
+      "Fast Response Time": 3,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
