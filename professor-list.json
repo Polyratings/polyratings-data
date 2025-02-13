@@ -19444,10 +19444,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 11,
-    "overallRating": 3.19,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.64,
+    "numEvals": 12,
+    "overallRating": 3.01,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.67,
     "courses": [
       "TH 210",
       "TH 227"
@@ -22078,14 +22078,18 @@
     "department": "MATH",
     "firstName": "Hai",
     "lastName": "Tran",
-    "numEvals": 2,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 1,
+    "numEvals": 3,
+    "overallRating": 1,
+    "materialClear": 0.67,
+    "studentDifficulties": 2,
     "courses": [
       "MATH 118"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "8d39b186-412f-4758-b679-3ae0ee238dd7",
