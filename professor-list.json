@@ -4,10 +4,10 @@
     "department": "CHEM",
     "firstName": "Parisa",
     "lastName": "Mahjoor",
-    "numEvals": 18,
-    "overallRating": 0.6,
-    "materialClear": 0.77,
-    "studentDifficulties": 0.43,
+    "numEvals": 17,
+    "overallRating": 0.64,
+    "materialClear": 0.82,
+    "studentDifficulties": 0.46,
     "courses": [
       "CHEM 110",
       "CHEM 127",
@@ -7095,6 +7095,23 @@
     ]
   },
   {
+    "id": "2d17f3bc-d7bd-483c-8120-f4e31e5a9712",
+    "department": "ME",
+    "firstName": "Tim",
+    "lastName": "Jain",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
+  },
+  {
     "id": "2d1969b9-bcbf-4c1d-a2ca-f9fc13caa843",
     "department": "DSCI",
     "firstName": "Matthew",
@@ -11339,6 +11356,20 @@
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1
     }
+  },
+  {
+    "id": "48acd652-a589-41e7-9fd7-cf69463c972b",
+    "department": "ART",
+    "firstName": "Ian",
+    "lastName": "Pines",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ART"
+    ],
+    "tags": {}
   },
   {
     "id": "48f2b060-fb3a-4aac-843f-42404398762a",
@@ -19561,10 +19592,10 @@
     "department": "CM",
     "firstName": "Enrique",
     "lastName": "Ivers",
-    "numEvals": 5,
-    "overallRating": 1,
-    "materialClear": 1.4,
-    "studentDifficulties": 1,
+    "numEvals": 4,
+    "overallRating": 1.25,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.25,
     "courses": [
       "CM 232",
       "CM 314"
@@ -21391,17 +21422,21 @@
     "department": "PHYS",
     "firstName": "Nancy",
     "lastName": "Stauch",
-    "numEvals": 16,
-    "overallRating": 3.89,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.83,
+    "numEvals": 17,
+    "overallRating": 3.9,
+    "materialClear": 3.84,
+    "studentDifficulties": 3.84,
     "courses": [
       "PHYS 101",
       "PSC 101",
       "PHYS 102",
       "PSC 102"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "888dd333-f690-4ed5-b068-733b38c98d02",
@@ -26093,10 +26128,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 24,
-    "overallRating": 0.46,
+    "numEvals": 23,
+    "overallRating": 0.48,
     "materialClear": 0.06,
-    "studentDifficulties": 0.91,
+    "studentDifficulties": 0.95,
     "courses": [
       "CSC 225",
       "CPE 225"
@@ -31592,12 +31627,13 @@
     "department": "CM",
     "firstName": "Thomas",
     "lastName": "Kommer",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CM"
+      "CM 102",
+      "CM 334"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -33633,10 +33669,10 @@
     "department": "MATH",
     "firstName": "Charles",
     "lastName": "Camp",
-    "numEvals": 53,
-    "overallRating": 1.42,
-    "materialClear": 1.34,
-    "studentDifficulties": 1.44,
+    "numEvals": 52,
+    "overallRating": 1.45,
+    "materialClear": 1.37,
+    "studentDifficulties": 1.47,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -34525,6 +34561,24 @@
       "WS 435",
       "HIST 440"
     ]
+  },
+  {
+    "id": "e159a650-7a7e-48ae-b0a6-bd448ea5fc1b",
+    "department": "FSN",
+    "firstName": "Laura",
+    "lastName": "Rolon",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "FSN"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "e184da23-efaa-4840-a1ad-6980a7581c5c",
@@ -38792,10 +38846,10 @@
     "department": "PHYS",
     "firstName": "Colleen",
     "lastName": "Marlow",
-    "numEvals": 45,
-    "overallRating": 1.48,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.47,
+    "numEvals": 44,
+    "overallRating": 1.51,
+    "materialClear": 1.66,
+    "studentDifficulties": 1.5,
     "courses": [
       "PHYS 101",
       "PSC 101",
