@@ -160,7 +160,7 @@
     "department": "ENGL",
     "firstName": "Mark",
     "lastName": "Roberts",
-    "numEvals": 208,
+    "numEvals": 209,
     "overallRating": 3.82,
     "materialClear": 3.89,
     "studentDifficulties": 3.84,
@@ -179,9 +179,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Pop Quizzes": 4,
-      "Fast Response Time": 2,
-      "Class Handouts": 1,
+      "Pop Quizzes": 5,
+      "Fast Response Time": 3,
+      "Class Handouts": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
@@ -3105,21 +3105,21 @@
     "department": "STAT",
     "firstName": "Felicia",
     "lastName": "Korengel",
-    "numEvals": 7,
-    "overallRating": 3,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.29,
+    "numEvals": 8,
+    "overallRating": 2.88,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.25,
     "courses": [
       "STAT 217"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Honor DRC Accommodations": 2,
-      "Uploads Slides": 3,
+      "Honor DRC Accommodations": 3,
+      "Uploads Slides": 4,
       "Recorded Lectures": 1,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1
     }
@@ -5814,10 +5814,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 42,
-    "overallRating": 0.94,
-    "materialClear": 1.14,
-    "studentDifficulties": 1.36,
+    "numEvals": 43,
+    "overallRating": 0.92,
+    "materialClear": 1.11,
+    "studentDifficulties": 1.33,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -27183,10 +27183,10 @@
     "department": "BUS",
     "firstName": "Ndackyssa",
     "lastName": "Oyima",
-    "numEvals": 12,
-    "overallRating": 2.08,
-    "materialClear": 2.17,
-    "studentDifficulties": 1.58,
+    "numEvals": 13,
+    "overallRating": 1.92,
+    "materialClear": 2,
+    "studentDifficulties": 1.46,
     "courses": [
       "BUS 439"
     ],
@@ -27200,7 +27200,8 @@
       "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
