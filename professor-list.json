@@ -6596,9 +6596,9 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 82,
-    "overallRating": 2.31,
-    "materialClear": 2.19,
+    "numEvals": 83,
+    "overallRating": 2.32,
+    "materialClear": 2.21,
     "studentDifficulties": 2.26,
     "courses": [
       "CHEM 110",
@@ -6620,10 +6620,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1,
-      "Class Handouts": 2,
+      "Uploads Slides": 2,
+      "Class Handouts": 3,
       "Inflexible Deadline Policy": 2,
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Flexible Grading Policy": 1,
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 1
@@ -17534,10 +17534,10 @@
     "department": "MU",
     "firstName": "David",
     "lastName": "Arrivee",
-    "numEvals": 33,
-    "overallRating": 3.82,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.82,
+    "numEvals": 34,
+    "overallRating": 3.83,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.83,
     "courses": [
       "MU 101",
       "MU 104",
@@ -17548,9 +17548,10 @@
     ],
     "tags": {
       "High In-Person Availability": 4,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Class Handouts": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -20629,7 +20630,7 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 203,
+    "numEvals": 204,
     "overallRating": 2.65,
     "materialClear": 2.53,
     "studentDifficulties": 2.42,
@@ -20652,7 +20653,9 @@
       "Flexible Grading Policy": 2,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
