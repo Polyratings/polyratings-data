@@ -4025,10 +4025,10 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 19,
-    "overallRating": 1.27,
-    "materialClear": 1.47,
-    "studentDifficulties": 1.42,
+    "numEvals": 20,
+    "overallRating": 1.26,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.4,
     "courses": [
       "CHEM 121",
       "CHEM 126",
@@ -16546,23 +16546,25 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 13,
-    "overallRating": 3.46,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.54,
+    "numEvals": 14,
+    "overallRating": 3.5,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.57,
     "courses": [
       "MATH 143",
       "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Supplemental Study Material": 4,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 6,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 3,
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 2,
+      "Recorded Lectures": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -26282,14 +26284,15 @@
     "department": "ME",
     "firstName": "Cooper",
     "lastName": "Minehart",
-    "numEvals": 8,
-    "overallRating": 3.75,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 9,
+    "overallRating": 3.44,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "ME 228",
       "ME 234",
-      "ME 128"
+      "ME 128",
+      "ME 211"
     ],
     "tags": {
       "High In-Person Availability": 1,
