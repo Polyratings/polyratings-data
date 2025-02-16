@@ -4967,16 +4967,19 @@
     "department": "BIO",
     "firstName": "Michael",
     "lastName": "Jones",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 232"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -5320,10 +5323,10 @@
     "department": "CSC",
     "firstName": "Javier",
     "lastName": "Gonzalez-Sanchez",
-    "numEvals": 5,
-    "overallRating": 2.6,
-    "materialClear": 2.4,
-    "studentDifficulties": 2,
+    "numEvals": 6,
+    "overallRating": 2.33,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.33,
     "courses": [
       "CSC 309",
       "CSC 307",
@@ -5331,8 +5334,9 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
