@@ -10103,10 +10103,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 30,
-    "overallRating": 3.78,
+    "numEvals": 31,
+    "overallRating": 3.79,
     "materialClear": 3.85,
-    "studentDifficulties": 3.82,
+    "studentDifficulties": 3.83,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -35069,10 +35069,10 @@
     "department": "PSY",
     "firstName": "Aaron",
     "lastName": "Estrada",
-    "numEvals": 34,
-    "overallRating": 2.58,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.58,
+    "numEvals": 35,
+    "overallRating": 2.53,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.51,
     "courses": [
       "PSY 252",
       "PSY 305",
@@ -35080,7 +35080,8 @@
       "PSY 370",
       "PSY 372",
       "PSY 555"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "e412ae31-ff53-42a5-9e81-f23cbce3e588",
