@@ -9241,7 +9241,7 @@
     "department": "AERO",
     "firstName": "Paulo",
     "lastName": "Iscold",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -14952,10 +14952,10 @@
     "department": "ENGL",
     "firstName": "William",
     "lastName": "Walters",
-    "numEvals": 74,
-    "overallRating": 2.65,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.69,
+    "numEvals": 75,
+    "overallRating": 2.64,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.68,
     "courses": [
       "ENGL 101",
       "ENGL 134",
@@ -14965,9 +14965,10 @@
       "ENGL 147"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
-      "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Zoom Office Hours": 2,
+      "Pop Quizzes": 2,
+      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -17044,10 +17045,10 @@
     "department": "ART",
     "firstName": "Giancarlo",
     "lastName": "Fiorenza",
-    "numEvals": 18,
-    "overallRating": 3.78,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.47,
+    "numEvals": 19,
+    "overallRating": 3.79,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.5,
     "courses": [
       "ART 111",
       "ART 212",
@@ -17055,7 +17056,8 @@
       "ART 112"
     ],
     "tags": {
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -23042,17 +23044,20 @@
     "department": "ART",
     "firstName": "Enrica",
     "lastName": "Lovaglio",
-    "numEvals": 14,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.44,
-    "overallRating": 1.69,
+    "numEvals": 15,
+    "overallRating": 1.78,
+    "materialClear": 1.9,
+    "studentDifficulties": 1.54,
     "courses": [
       "ART 181",
       "ART 182",
       "ART 183",
       "ART 184",
       "ART 487"
-    ]
+    ],
+    "tags": {
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "9274d21b-c167-4350-ae81-4e00cb1caf8b",
@@ -26898,20 +26903,21 @@
     "department": "HLTH",
     "firstName": "Christine Irish",
     "lastName": "Nelson",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.75,
     "courses": [
       "HLTH 250",
       "HLTH 101"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 2
+      "Inflexible Deadline Policy": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -30858,9 +30864,9 @@
     "department": "GRC",
     "firstName": "April",
     "lastName": "Elliott",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "GRC 201",
@@ -30868,9 +30874,11 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Zoom Office Hours": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -31914,7 +31922,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 137,
+    "numEvals": 138,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -31928,8 +31936,8 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Class Handouts": 4,
-      "Uploads Slides": 4,
-      "Fast Response Time": 6,
+      "Uploads Slides": 5,
+      "Fast Response Time": 7,
       "Flexible Deadline Policy": 4,
       "High In-Person Availability": 4,
       "Flexible Grading Policy": 1,
