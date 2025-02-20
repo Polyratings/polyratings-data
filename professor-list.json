@@ -1541,10 +1541,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 16,
-    "overallRating": 3.31,
-    "materialClear": 3.64,
-    "studentDifficulties": 2.88,
+    "numEvals": 15,
+    "overallRating": 3.26,
+    "materialClear": 3.62,
+    "studentDifficulties": 2.81,
     "courses": [
       "MATH 143",
       "MATH 241",
@@ -10475,16 +10475,18 @@
     "department": "GRC",
     "firstName": "Lorraine",
     "lastName": "Donegan",
-    "numEvals": 14,
+    "numEvals": 15,
+    "overallRating": 2.76,
     "materialClear": 2.94,
-    "studentDifficulties": 2.5,
-    "overallRating": 2.81,
+    "studentDifficulties": 2.6,
     "courses": [
       "GRC 203",
       "GRC 218",
       "GRC 339",
-      "GRC 440"
-    ]
+      "GRC 440",
+      "GRC 318"
+    ],
+    "tags": {}
   },
   {
     "id": "42c8876c-bad4-4e44-a8a9-e6c108a2a764",
@@ -16502,10 +16504,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 37,
-    "overallRating": 3.72,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.59,
+    "numEvals": 38,
+    "overallRating": 3.67,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.5,
     "courses": [
       "EE 212",
       "EE 306",
@@ -16518,7 +16520,7 @@
       "EE 315"
     ],
     "tags": {
-      "Recorded Lectures": 3,
+      "Recorded Lectures": 4,
       "Uploads Slides": 3
     }
   },
@@ -18428,10 +18430,10 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Hatalsky",
-    "numEvals": 111,
-    "overallRating": 2.75,
+    "numEvals": 112,
+    "overallRating": 2.73,
     "materialClear": 2.89,
-    "studentDifficulties": 2.55,
+    "studentDifficulties": 2.54,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -18455,7 +18457,8 @@
       "Fast Response Time": 2,
       "Supplemental Study Material": 2,
       "Inflexible Grading Policy": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -18550,10 +18553,10 @@
     "department": "ME",
     "firstName": "Pam",
     "lastName": "Ridgely",
-    "numEvals": 35,
-    "overallRating": 2.31,
-    "materialClear": 2.31,
-    "studentDifficulties": 2.26,
+    "numEvals": 16,
+    "overallRating": 0.3,
+    "materialClear": 0.3,
+    "studentDifficulties": 0.21,
     "courses": [
       "ME 236"
     ],
@@ -21785,12 +21788,12 @@
     "department": "MU",
     "firstName": "Stephen",
     "lastName": "Nutt",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "MU"
+      "MU 120"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -29406,10 +29409,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 99,
-    "overallRating": 1.6,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.7,
+    "numEvals": 100,
+    "overallRating": 1.58,
+    "materialClear": 1.49,
+    "studentDifficulties": 1.68,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -29420,11 +29423,12 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
       "Class Handouts": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -35911,9 +35915,9 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 43,
-    "overallRating": 2.6,
-    "materialClear": 2.71,
+    "numEvals": 44,
+    "overallRating": 2.61,
+    "materialClear": 2.74,
     "studentDifficulties": 2.85,
     "courses": [
       "ES 112",
@@ -35928,8 +35932,8 @@
       "Uploads Slides": 7,
       "No Breaks During Lecture": 3,
       "Honor DRC Accommodations": 1,
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 2,
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1
     }
   },
