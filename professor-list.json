@@ -280,13 +280,14 @@
     "department": "EE",
     "firstName": "Taufik",
     "lastName": "Taufik",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "EE 302",
-      "EE 212"
+      "EE 212",
+      "EE 410"
     ],
     "tags": {}
   },
@@ -24244,10 +24245,10 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 10,
-    "overallRating": 0.6,
-    "materialClear": 0.7,
-    "studentDifficulties": 0.9,
+    "numEvals": 11,
+    "overallRating": 0.82,
+    "materialClear": 0.82,
+    "studentDifficulties": 1.18,
     "courses": [
       "ARCE 211"
     ],
@@ -36584,10 +36585,10 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 8,
-    "overallRating": 3.25,
-    "materialClear": 2.75,
-    "studentDifficulties": 3.88,
+    "numEvals": 9,
+    "overallRating": 3,
+    "materialClear": 2.44,
+    "studentDifficulties": 3.45,
     "courses": [
       "PHYS 143",
       "ASTR 101",
@@ -36600,7 +36601,8 @@
       "Uploads Slides": 2,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
