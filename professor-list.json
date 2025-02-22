@@ -11437,15 +11437,16 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 9,
-    "overallRating": 1.9,
-    "materialClear": 1.89,
-    "studentDifficulties": 1.78,
+    "numEvals": 10,
+    "overallRating": 1.71,
+    "materialClear": 1.7,
+    "studentDifficulties": 1.6,
     "courses": [
       "STAT 313",
       "AERO 512",
       "STAT 331",
-      "SPED 545"
+      "SPED 545",
+      "DATA 301"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -17633,10 +17634,10 @@
     "department": "CE",
     "firstName": "Eltahry",
     "lastName": "Elghandour",
-    "numEvals": 144,
-    "overallRating": 2.66,
+    "numEvals": 145,
+    "overallRating": 2.67,
     "materialClear": 2.54,
-    "studentDifficulties": 2.7,
+    "studentDifficulties": 2.71,
     "courses": [
       "CE 121",
       "CE 204",
@@ -19492,17 +19493,18 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 12,
-    "overallRating": 3.01,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.67,
+    "numEvals": 14,
+    "overallRating": 2.86,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.28,
     "courses": [
       "TH 210",
-      "TH 227"
+      "TH 227",
+      "TH 228"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 5,
       "Class Handouts": 1,
       "Inflexible Grading Policy": 1,
       "Recorded Lectures": 1,
@@ -26366,10 +26368,10 @@
     "department": "BUS",
     "firstName": "Sakif",
     "lastName": "Rahman",
-    "numEvals": 26,
-    "overallRating": 0.1,
-    "materialClear": 0.27,
-    "studentDifficulties": 0.27,
+    "numEvals": 27,
+    "overallRating": 0.24,
+    "materialClear": 0.41,
+    "studentDifficulties": 0.41,
     "courses": [
       "BUS 431"
     ],
@@ -26380,8 +26382,9 @@
       "Inflexible Attendance Policy": 6,
       "Does Not Use Canvas": 11,
       "Inflexible Grading Policy": 5,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Uploads Slides": 3,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
