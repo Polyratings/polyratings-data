@@ -34493,10 +34493,10 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 97,
-    "overallRating": 1.69,
-    "materialClear": 1.72,
-    "studentDifficulties": 1.56,
+    "numEvals": 98,
+    "overallRating": 1.67,
+    "materialClear": 1.7,
+    "studentDifficulties": 1.54,
     "courses": [
       "BIO 101",
       "BIO 111",
@@ -34508,12 +34508,14 @@
       "BIO 414",
       "BIO 434",
       "BIO 435",
-      "BIO 446"
+      "BIO 446",
+      "BIO 162"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 5,
-      "Supplemental Study Material": 3
+      "Uploads Slides": 6,
+      "Supplemental Study Material": 3,
+      "No Breaks During Lecture": 1
     }
   },
   {
