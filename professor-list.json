@@ -709,13 +709,14 @@
     "department": "HIST",
     "firstName": "Farah",
     "lastName": "Al-Nakib",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "HIST 313"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "0528f8e8-f58a-40db-a147-61d52df36bf3",
@@ -34349,10 +34350,10 @@
     "department": "GRC",
     "firstName": "Ivan",
     "lastName": "Bradley",
-    "numEvals": 11,
-    "overallRating": 2.92,
-    "materialClear": 2.67,
-    "studentDifficulties": 3.25,
+    "numEvals": 12,
+    "overallRating": 2.84,
+    "materialClear": 2.53,
+    "studentDifficulties": 3.23,
     "courses": [
       "GRC 377",
       "GRC 101"
@@ -34360,7 +34361,10 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -35938,10 +35942,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 44,
-    "overallRating": 2.61,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.85,
+    "numEvals": 45,
+    "overallRating": 2.64,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.88,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -35956,7 +35960,7 @@
       "No Breaks During Lecture": 3,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 1
     }
   },
