@@ -410,10 +410,10 @@
     "department": "ARCH",
     "firstName": "Angela",
     "lastName": "Bracco",
-    "numEvals": 20,
-    "overallRating": 3.12,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.95,
+    "numEvals": 21,
+    "overallRating": 2.97,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.81,
     "courses": [
       "ARCH 131",
       "ARCH 132",
@@ -421,7 +421,9 @@
       "ARCH 251",
       "ARCH 252"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "032eaa04-00bc-43c7-a5b1-feb019ed5633",
@@ -6605,10 +6607,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 83,
-    "overallRating": 2.32,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.26,
+    "numEvals": 84,
+    "overallRating": 2.33,
+    "materialClear": 2.23,
+    "studentDifficulties": 2.27,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -15229,12 +15231,12 @@
     "department": "CE",
     "firstName": "Navid",
     "lastName": "Changizi",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CE"
+      "CE 207"
     ],
     "tags": {
       "Class Handouts": 1,
@@ -20554,8 +20556,8 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 73,
-    "overallRating": 3.17,
+    "numEvals": 74,
+    "overallRating": 3.15,
     "materialClear": 3.31,
     "studentDifficulties": 3.23,
     "courses": [
