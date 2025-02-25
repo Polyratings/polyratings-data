@@ -2965,20 +2965,21 @@
     "department": "CHEM",
     "firstName": "Tanner",
     "lastName": "Treece",
-    "numEvals": 6,
-    "overallRating": 4,
-    "materialClear": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.86,
+    "materialClear": 3.85,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 224",
       "CHEM 128",
-      "CHEM 312"
+      "CHEM 312",
+      "AEPS 124"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 2,
-      "High In-Person Availability": 1,
+      "Supplemental Study Material": 3,
+      "High In-Person Availability": 2,
       "Honor DRC Accommodations": 2
     }
   },
@@ -20331,16 +20332,17 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 6,
-    "overallRating": 0.33,
-    "materialClear": 0.67,
-    "studentDifficulties": 1,
+    "numEvals": 7,
+    "overallRating": 0.28,
+    "materialClear": 0.57,
+    "studentDifficulties": 0.86,
     "courses": [
       "ECON 222"
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -22229,17 +22231,20 @@
     "department": "PSY",
     "firstName": "Marc",
     "lastName": "Halusic",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 2.67,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.75,
     "courses": [
-      "PSY 252"
+      "PSY 252",
+      "PSY 201"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -36614,10 +36619,10 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 9,
-    "overallRating": 3,
-    "materialClear": 2.44,
-    "studentDifficulties": 3.45,
+    "numEvals": 10,
+    "overallRating": 2.8,
+    "materialClear": 2.3,
+    "studentDifficulties": 3.21,
     "courses": [
       "PHYS 143",
       "ASTR 101",
