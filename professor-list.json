@@ -5615,20 +5615,20 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 138,
-    "overallRating": 2.73,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.78,
+    "numEvals": 139,
+    "overallRating": 2.72,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.77,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Pop Quizzes": 2,
-      "Inflexible Grading Policy": 3,
+      "Pop Quizzes": 3,
+      "Inflexible Grading Policy": 4,
       "Zoom Office Hours": 2,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Recorded Lectures": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
@@ -8298,10 +8298,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 118,
+    "numEvals": 120,
     "overallRating": 3.42,
     "materialClear": 3.43,
-    "studentDifficulties": 3.26,
+    "studentDifficulties": 3.28,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -8314,7 +8314,9 @@
       "ANT 415"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -8617,10 +8619,10 @@
     "department": "PSY",
     "firstName": "Kendra",
     "lastName": "Williams",
-    "numEvals": 18,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.78,
-    "overallRating": 3.83,
+    "numEvals": 19,
+    "overallRating": 3.73,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.74,
     "courses": [
       "PSY 256",
       "CD 306",
@@ -8630,7 +8632,11 @@
       "PSY 329",
       "PSY 370",
       "PSY 405"
-    ]
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "359f3007-aa22-40a4-be9a-42b3e9a990b2",
@@ -22308,7 +22314,7 @@
     "department": "COMS",
     "firstName": "Jamie",
     "lastName": "Ascher",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -24259,18 +24265,18 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 11,
-    "overallRating": 0.82,
-    "materialClear": 0.82,
-    "studentDifficulties": 1.18,
+    "numEvals": 12,
+    "overallRating": 0.75,
+    "materialClear": 0.75,
+    "studentDifficulties": 1.08,
     "courses": [
       "ARCE 211"
     ],
     "tags": {
       "High In-Person Availability": 7,
-      "Does Not Use Canvas": 9,
+      "Does Not Use Canvas": 10,
       "Pop Quizzes": 2,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 3,
       "Supplemental Study Material": 1
