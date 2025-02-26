@@ -22233,9 +22233,9 @@
     "department": "MATH",
     "firstName": "Hai",
     "lastName": "Tran",
-    "numEvals": 3,
-    "overallRating": 1,
-    "materialClear": 0.67,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 0.75,
     "studentDifficulties": 2,
     "courses": [
       "MATH 118"
@@ -22243,7 +22243,9 @@
     "tags": {
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -32035,9 +32037,9 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 126,
-    "overallRating": 2.9,
-    "materialClear": 2.79,
+    "numEvals": 127,
+    "overallRating": 2.91,
+    "materialClear": 2.8,
     "studentDifficulties": 2.89,
     "courses": [
       "CHEM 111",
@@ -32049,12 +32051,12 @@
       "CHEM 128"
     ],
     "tags": {
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Fast Response Time": 5,
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 4,
-      "Class Handouts": 6,
-      "Supplemental Study Material": 6,
+      "Class Handouts": 7,
+      "Supplemental Study Material": 7,
       "Flexible Grading Policy": 1
     }
   },
@@ -34686,9 +34688,9 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 98,
+    "numEvals": 99,
     "overallRating": 1.67,
-    "materialClear": 1.7,
+    "materialClear": 1.69,
     "studentDifficulties": 1.54,
     "courses": [
       "BIO 101",
@@ -34708,7 +34710,8 @@
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 6,
       "Supplemental Study Material": 3,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
