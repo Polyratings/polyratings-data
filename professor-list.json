@@ -4218,6 +4218,24 @@
     ]
   },
   {
+    "id": "18f1f30b-5e12-4f4e-8966-482f86727d52",
+    "department": "NR",
+    "firstName": "Richard",
+    "lastName": "Cobb",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "NR"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "1923281e-fa12-4376-83ea-976776b2b27e",
     "department": "PHYS",
     "firstName": "Alfredo",
@@ -4817,6 +4835,24 @@
       "BMED"
     ],
     "tags": {
+      "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "1ca8559e-6481-4f23-a0fe-9f2927162984",
+    "department": "PSY",
+    "firstName": "Brenna",
+    "lastName": "Giordano",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "PSY"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1,
       "Uploads Slides": 1
     }
   },
@@ -6297,10 +6333,10 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 315,
-    "overallRating": 1.7,
-    "materialClear": 2.07,
-    "studentDifficulties": 1.62,
+    "numEvals": 316,
+    "overallRating": 1.69,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.61,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -6319,12 +6355,12 @@
       "SPC 250"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
-      "Inflexible Attendance Policy": 7,
+      "Zoom Office Hours": 5,
+      "Inflexible Attendance Policy": 8,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 4,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Hybrid Option": 1
     }
   },
@@ -6442,19 +6478,22 @@
     "department": "CM",
     "firstName": "Eric",
     "lastName": "Brinkman",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CM 214",
-      "CM 115"
+      "CM 115",
+      "CM 318"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Hybrid Option": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -8308,10 +8347,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 120,
+    "numEvals": 119,
     "overallRating": 3.42,
     "materialClear": 3.43,
-    "studentDifficulties": 3.28,
+    "studentDifficulties": 3.27,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -11457,10 +11496,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 10,
-    "overallRating": 1.71,
-    "materialClear": 1.7,
-    "studentDifficulties": 1.6,
+    "numEvals": 11,
+    "overallRating": 1.55,
+    "materialClear": 1.55,
+    "studentDifficulties": 1.45,
     "courses": [
       "STAT 313",
       "AERO 512",
@@ -11474,12 +11513,13 @@
       "Uploads Slides": 2,
       "Does Not Use Canvas": 3,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -15724,21 +15764,24 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Long",
-    "numEvals": 7,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.29,
+    "numEvals": 9,
+    "overallRating": 2.67,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.78,
     "courses": [
       "CHEM 312",
       "CHEM 127",
       "CHEM 125",
-      "CHEM 217"
+      "CHEM 217",
+      "CHEM 216"
     ],
     "tags": {
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "No Breaks During Lecture": 3,
       "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -15758,6 +15801,20 @@
       "ME 420",
       "ME 440"
     ]
+  },
+  {
+    "id": "64dc116c-a08f-4a8c-a377-2e4c93b372ee",
+    "department": "CSC",
+    "firstName": "Laila",
+    "lastName": "Abdelhafeez",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 0,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {}
   },
   {
     "id": "6541e7a8-4ba8-46c2-8fec-7cc2941fe484",
@@ -21488,6 +21545,20 @@
     }
   },
   {
+    "id": "88896161-665a-4a85-8a5e-b6f1f21a4d6e",
+    "department": "ME",
+    "firstName": "Masoud",
+    "lastName": "Yekanifard",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {}
+  },
+  {
     "id": "888dd333-f690-4ed5-b068-733b38c98d02",
     "department": "CSC",
     "firstName": "Gene",
@@ -22377,6 +22448,22 @@
     ]
   },
   {
+    "id": "8f139b4e-2890-43a6-8b94-47d1a5122956",
+    "department": "CHEM",
+    "firstName": "Ruoxi",
+    "lastName": "Wang",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CHEM"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
+  },
+  {
     "id": "8f5df72e-d39e-4f8d-9859-c1aec67fae7d",
     "department": "CM",
     "firstName": "Paul",
@@ -22834,6 +22921,23 @@
     }
   },
   {
+    "id": "90e5c201-ee18-429d-9c0c-ec50953b3db9",
+    "department": "SOC",
+    "firstName": "Jensen",
+    "lastName": "Jeung",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "SOC"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
+    }
+  },
+  {
     "id": "910353ad-a0c8-4620-b54c-0e8339fdbf7d",
     "department": "PHIL",
     "firstName": "Richard",
@@ -23063,6 +23167,24 @@
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
       "Honor DRC Accommodations": 1
+    }
+  },
+  {
+    "id": "924ba223-e3d1-44dd-8d91-b13c2dd41686",
+    "department": "ME",
+    "firstName": "Markus",
+    "lastName": "Seefried",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Pop Quizzes": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -28135,6 +28257,20 @@
     ]
   },
   {
+    "id": "b5295b45-c57a-4442-bb53-43d42b3dd7ea",
+    "department": "CM",
+    "firstName": "Scott",
+    "lastName": "Kelting",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CM"
+    ],
+    "tags": {}
+  },
+  {
     "id": "b540da66-e8fa-4d6f-a8f6-28793c03d99e",
     "department": "BUS",
     "firstName": "Steve",
@@ -29527,6 +29663,24 @@
       "CE 211",
       "ME 211"
     ]
+  },
+  {
+    "id": "bfa53c00-1217-4c17-a18c-442974eeedb9",
+    "department": "ART",
+    "firstName": "Lela",
+    "lastName": "Welch",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ART"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "bfd2335c-af24-467c-b0ea-ddf51396b60d",
@@ -35973,10 +36127,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 45,
-    "overallRating": 2.64,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.88,
+    "numEvals": 46,
+    "overallRating": 2.65,
+    "materialClear": 2.73,
+    "studentDifficulties": 2.86,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -35988,11 +36142,12 @@
     "tags": {
       "High In-Person Availability": 4,
       "Uploads Slides": 7,
-      "No Breaks During Lecture": 3,
+      "No Breaks During Lecture": 4,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 4,
-      "Supplemental Study Material": 1
+      "Flexible Attendance Policy": 5,
+      "Supplemental Study Material": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
