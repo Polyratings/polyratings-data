@@ -1112,10 +1112,10 @@
     "department": "LA",
     "firstName": "David",
     "lastName": "Watts",
-    "numEvals": 7,
-    "overallRating": 1.57,
-    "materialClear": 1.86,
-    "studentDifficulties": 1.85,
+    "numEvals": 8,
+    "overallRating": 1.5,
+    "materialClear": 1.63,
+    "studentDifficulties": 1.62,
     "courses": [
       "LA 202",
       "LA 211",
@@ -3804,12 +3804,13 @@
     "department": "ME",
     "firstName": "Alan",
     "lastName": "Zhang",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME 211"
+      "ME 211",
+      "ME 328"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -6143,10 +6144,10 @@
     "department": "IME",
     "firstName": "Jianbiao",
     "lastName": "Pan",
-    "numEvals": 35,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.08,
-    "overallRating": 2.37,
+    "numEvals": 36,
+    "overallRating": 2.36,
+    "materialClear": 2.23,
+    "studentDifficulties": 2.05,
     "courses": [
       "IME 156",
       "IME 157",
@@ -6158,7 +6159,8 @@
       "IME 458",
       "IME 507",
       "IME 541"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "266cfd05-cbcd-4f28-bda5-6c30a7b07e29",
@@ -9604,10 +9606,10 @@
     "department": "ME",
     "firstName": "Kim",
     "lastName": "Shollenberger",
-    "numEvals": 35,
-    "overallRating": 2.97,
-    "materialClear": 2.91,
-    "studentDifficulties": 2.88,
+    "numEvals": 36,
+    "overallRating": 2.92,
+    "materialClear": 2.86,
+    "studentDifficulties": 2.8,
     "courses": [
       "ME 236",
       "ME 302",
@@ -28928,10 +28930,10 @@
     "department": "ME",
     "firstName": "Hemanth",
     "lastName": "Porumamilla",
-    "numEvals": 38,
+    "numEvals": 39,
     "overallRating": 2.89,
-    "materialClear": 2.95,
-    "studentDifficulties": 2.55,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.59,
     "courses": [
       "ME 134",
       "ME 211",
@@ -33385,7 +33387,7 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
