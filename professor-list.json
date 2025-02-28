@@ -2336,12 +2336,13 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS 112"
+      "POLS 112",
+      "POLS 310"
     ],
     "tags": {
       "High In-Person Availability": 8,
@@ -11502,10 +11503,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 11,
-    "overallRating": 1.55,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.45,
+    "numEvals": 12,
+    "overallRating": 1.75,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.66,
     "courses": [
       "STAT 313",
       "AERO 512",
@@ -11514,14 +11515,14 @@
       "DATA 301"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 3,
       "Uploads Slides": 2,
       "Does Not Use Canvas": 3,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 4,
       "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 3,
       "Inflexible Attendance Policy": 2,
@@ -11943,7 +11944,7 @@
     "department": "ENGL",
     "firstName": "Bill",
     "lastName": "Fitzhenry",
-    "numEvals": 68,
+    "numEvals": 69,
     "overallRating": 3.9,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
@@ -11962,10 +11963,11 @@
       "ENGL 439"
     ],
     "tags": {
-      "Does Not Use Canvas": 3,
+      "Does Not Use Canvas": 4,
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -21555,14 +21557,16 @@
     "department": "ME",
     "firstName": "Masoud",
     "lastName": "Yekanifard",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ME"
+      "ME 328"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "888dd333-f690-4ed5-b068-733b38c98d02",
@@ -26725,10 +26729,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 49,
-    "overallRating": 1.35,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.51,
+    "numEvals": 50,
+    "overallRating": 1.32,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.48,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -26737,10 +26741,11 @@
       "MATE 410"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 3,
       "Fast Response Time": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -29954,10 +29959,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 20,
-    "overallRating": 3.2,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.35,
+    "numEvals": 21,
+    "overallRating": 3.24,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.38,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -35633,9 +35638,9 @@
     "department": "CHEM",
     "firstName": "Leanna",
     "lastName": "Schulte",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.72,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 127",
@@ -35651,7 +35656,8 @@
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
