@@ -6145,10 +6145,10 @@
     "department": "IME",
     "firstName": "Jianbiao",
     "lastName": "Pan",
-    "numEvals": 36,
-    "overallRating": 2.36,
-    "materialClear": 2.23,
-    "studentDifficulties": 2.05,
+    "numEvals": 37,
+    "overallRating": 2.4,
+    "materialClear": 2.28,
+    "studentDifficulties": 2.1,
     "courses": [
       "IME 156",
       "IME 157",
@@ -6161,7 +6161,11 @@
       "IME 507",
       "IME 541"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "266cfd05-cbcd-4f28-bda5-6c30a7b07e29",
@@ -8819,15 +8823,17 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 3,
     "courses": [
-      "BUS"
+      "BUS 391"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9493,12 +9499,13 @@
     "department": "DSCI",
     "firstName": "Katherine",
     "lastName": "Swanson",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "DSCI 230"
+      "DSCI 230",
+      "ASCI 220"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -11503,15 +11510,14 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 12,
-    "overallRating": 1.75,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.66,
+    "numEvals": 10,
+    "overallRating": 2.1,
+    "materialClear": 2.1,
+    "studentDifficulties": 1.99,
     "courses": [
       "STAT 313",
       "AERO 512",
       "STAT 331",
-      "SPED 545",
       "DATA 301"
     ],
     "tags": {
@@ -18884,7 +18890,7 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 67,
+    "numEvals": 65,
     "overallRating": 2.05,
     "materialClear": 1.91,
     "studentDifficulties": 2.09,
