@@ -11667,13 +11667,19 @@
     "department": "JOUR",
     "firstName": "Casey",
     "lastName": "McDonald-Liu",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "JOUR 218"
-    ]
+      "JOUR 218",
+      "JOUR 312"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4a1d52e6-a255-469e-990a-1fcbb9ecf62f",
