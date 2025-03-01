@@ -14553,12 +14553,13 @@
     "department": "AGC",
     "firstName": "Moses",
     "lastName": "Mike",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3,
+    "studentDifficulties": 2.67,
     "courses": [
-      "AGC 463"
+      "AGC 463",
+      "AGC 225"
     ],
     "tags": {
       "Fast Response Time": 1,
