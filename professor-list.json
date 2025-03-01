@@ -9614,10 +9614,10 @@
     "department": "ME",
     "firstName": "Kim",
     "lastName": "Shollenberger",
-    "numEvals": 36,
-    "overallRating": 2.92,
-    "materialClear": 2.86,
-    "studentDifficulties": 2.8,
+    "numEvals": 37,
+    "overallRating": 2.84,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.75,
     "courses": [
       "ME 236",
       "ME 302",
@@ -9626,7 +9626,8 @@
       "ME 343",
       "ME 344",
       "ME 347",
-      "ME 554"
+      "ME 554",
+      "ME 303"
     ],
     "tags": {}
   },
@@ -23728,10 +23729,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 77,
-    "overallRating": 2.26,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.12,
+    "numEvals": 78,
+    "overallRating": 2.27,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.14,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -23746,7 +23747,7 @@
       "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 4,
       "Zoom Office Hours": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 1,
       "Pop Quizzes": 1
@@ -26549,10 +26550,10 @@
     "department": "BUS",
     "firstName": "Sakif",
     "lastName": "Rahman",
-    "numEvals": 28,
-    "overallRating": 0.3,
-    "materialClear": 0.4,
-    "studentDifficulties": 0.54,
+    "numEvals": 30,
+    "overallRating": 0.28,
+    "materialClear": 0.38,
+    "studentDifficulties": 0.5,
     "courses": [
       "BUS 431"
     ],
@@ -26562,7 +26563,7 @@
       "No Breaks During Lecture": 1,
       "Inflexible Attendance Policy": 6,
       "Does Not Use Canvas": 11,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1
@@ -26665,20 +26666,21 @@
     "department": "ME",
     "firstName": "Eric",
     "lastName": "Ocegueda",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ME 211",
-      "ME 212"
+      "ME 212",
+      "ME 328"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Fast Response Time": 3,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 4,
       "Flexible Deadline Policy": 3,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Supplemental Study Material": 1
     }
   },
