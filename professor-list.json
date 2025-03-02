@@ -6550,14 +6550,18 @@
     "department": "BIO",
     "firstName": "Heather",
     "lastName": "DeBruhl",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 351"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "2930aa76-ee14-4d73-b9e3-82f26e0f7944",
@@ -8357,10 +8361,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 119,
+    "numEvals": 120,
     "overallRating": 3.42,
     "materialClear": 3.43,
-    "studentDifficulties": 3.27,
+    "studentDifficulties": 3.28,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -15786,10 +15790,10 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Long",
-    "numEvals": 9,
-    "overallRating": 2.67,
-    "materialClear": 2.78,
-    "studentDifficulties": 2.78,
+    "numEvals": 10,
+    "overallRating": 2.6,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.7,
     "courses": [
       "CHEM 312",
       "CHEM 127",
@@ -15798,7 +15802,7 @@
       "CHEM 216"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "No Breaks During Lecture": 3,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
@@ -27363,13 +27367,18 @@
     "department": "PHYS",
     "firstName": "Sarah",
     "lastName": "Cameron",
-    "numEvals": 3,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.5,
+    "numEvals": 4,
     "overallRating": 3,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.38,
     "courses": [
       "PSC 101"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "aed49ed5-824c-4a91-863e-0ce6b13f7cf0",
@@ -27555,12 +27564,12 @@
     "department": "ASCI",
     "firstName": "Hailey Rose",
     "lastName": "Switzer",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ASCI"
+      "ASCI 212"
     ],
     "tags": {}
   },
@@ -27630,10 +27639,10 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Carroll",
-    "numEvals": 25,
-    "overallRating": 2.51,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.36,
+    "numEvals": 26,
+    "overallRating": 2.57,
+    "materialClear": 2.61,
+    "studentDifficulties": 2.42,
     "courses": [
       "CHEM 110",
       "CHEM 127",
