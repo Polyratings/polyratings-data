@@ -1167,15 +1167,16 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "PHYS"
+      "PHYS 141"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -1326,18 +1327,19 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Burt",
-    "numEvals": 17,
-    "overallRating": 3.9,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.78,
+    "numEvals": 18,
+    "overallRating": 3.79,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.68,
     "courses": [
       "BUS 214",
       "BUS 215"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
-      "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Class Handouts": 2,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -12633,10 +12635,10 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 56,
-    "overallRating": 3.73,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.53,
+    "numEvals": 57,
+    "overallRating": 3.72,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.52,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -12650,7 +12652,8 @@
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -14636,7 +14639,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 11,
+    "numEvals": 12,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -14644,12 +14647,13 @@
       "COMS 101"
     ],
     "tags": {
-      "Fast Response Time": 7,
+      "Fast Response Time": 8,
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 1,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -19658,14 +19662,18 @@
     "department": "PHIL",
     "firstName": "Kyle",
     "lastName": "Dickey",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHIL"
+      "PHIL 126"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "7c6a11be-e42b-41ff-8f76-063242a8b0f0",
@@ -34281,9 +34289,9 @@
     "department": "CHEM",
     "firstName": "Kevin",
     "lastName": "Kingsbury",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 2.95,
-    "materialClear": 3,
+    "materialClear": 3.02,
     "studentDifficulties": 2.84,
     "courses": [
       "CHEM 110",
@@ -34297,11 +34305,14 @@
       "CHEM 318",
       "CHEM 319",
       "CHEM 445",
-      "CHEM 481"
+      "CHEM 481",
+      "CHEM 217"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -36141,15 +36152,20 @@
     "department": "BIO",
     "firstName": "Lars",
     "lastName": "Tomanek",
-    "numEvals": 12,
-    "overallRating": 1.84,
-    "materialClear": 1.67,
-    "studentDifficulties": 2.08,
+    "numEvals": 13,
+    "overallRating": 2.01,
+    "materialClear": 1.77,
+    "studentDifficulties": 2.23,
     "courses": [
       "BIO 162",
       "BIO 324",
       "BIO 361"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "ea72cc5f-8684-4df1-8e29-71481497999c",
