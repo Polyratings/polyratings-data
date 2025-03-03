@@ -4611,10 +4611,10 @@
     "department": "CSC",
     "firstName": "Dekhtyar",
     "lastName": "Alexander",
-    "numEvals": 38,
-    "overallRating": 2.02,
-    "materialClear": 1.97,
-    "studentDifficulties": 2.07,
+    "numEvals": 39,
+    "overallRating": 2.07,
+    "materialClear": 2.02,
+    "studentDifficulties": 2.12,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -4634,7 +4634,10 @@
       "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -5636,9 +5639,9 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 87,
-    "overallRating": 3.55,
-    "materialClear": 3.5,
+    "numEvals": 88,
+    "overallRating": 3.56,
+    "materialClear": 3.51,
     "studentDifficulties": 3.57,
     "courses": [
       "MATH 141",
@@ -9721,10 +9724,10 @@
     "department": "EE",
     "firstName": "John",
     "lastName": "Saghri",
-    "numEvals": 64,
+    "numEvals": 65,
     "overallRating": 1.81,
     "materialClear": 1.78,
-    "studentDifficulties": 1.53,
+    "studentDifficulties": 1.52,
     "courses": [
       "EE 112",
       "CPE 129",
@@ -17400,12 +17403,13 @@
     "department": "EE",
     "firstName": "Jenna",
     "lastName": "Kloosterman",
-    "numEvals": 3,
-    "overallRating": 2,
-    "materialClear": 1.33,
-    "studentDifficulties": 2,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.5,
     "courses": [
-      "EE 242"
+      "EE 242",
+      "EE 201"
     ],
     "tags": {
       "Fast Response Time": 1,
