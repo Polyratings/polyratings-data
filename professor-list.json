@@ -5037,17 +5037,17 @@
     "department": "PHYS",
     "firstName": "Benjamin",
     "lastName": "Shlaer",
-    "numEvals": 5,
-    "overallRating": 2,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 2.17,
+    "materialClear": 1.83,
+    "studentDifficulties": 2.83,
     "courses": [
       "PHYS 142",
       "PHYS 141",
       "PHYS 143"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -7262,16 +7262,20 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHIL"
+      "PHIL 126",
+      "PHIL 231"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Does Not Use Canvas": 1,
+      "Zoom Office Hours": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -8268,16 +8272,16 @@
     "department": "ME",
     "firstName": "Hyeonik",
     "lastName": "Song",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "ME 211"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Uploads Slides": 1
     }
   },
@@ -9916,9 +9920,9 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 269,
+    "numEvals": 270,
     "overallRating": 2.38,
-    "materialClear": 2.11,
+    "materialClear": 2.1,
     "studentDifficulties": 2.54,
     "courses": [
       "ECON 111",
@@ -12275,13 +12279,14 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "BUS 394",
-      "BUS 393"
+      "BUS 393",
+      "BUS 520"
     ],
     "tags": {}
   },
@@ -15595,10 +15600,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 17,
-    "overallRating": 3.7,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.7,
+    "numEvals": 18,
+    "overallRating": 3.61,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.66,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -17345,12 +17350,13 @@
     "department": "FSN",
     "firstName": "Janae",
     "lastName": "Mudge",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "FSN 250"
+      "FSN 250",
+      "FSN 202"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -22085,17 +22091,20 @@
     "department": "BIO",
     "firstName": "Heather",
     "lastName": "Liwanag",
-    "numEvals": 13,
-    "overallRating": 2.71,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.58,
+    "numEvals": 14,
+    "overallRating": 2.8,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.68,
     "courses": [
       "BIO 231",
       "BIO 361",
       "BIO 162"
     ],
     "tags": {
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -22629,7 +22638,7 @@
     "department": "CHEM",
     "firstName": "Sarah",
     "lastName": "Zeitler",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -22638,8 +22647,10 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -30667,10 +30678,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 49,
-    "overallRating": 3.38,
-    "materialClear": 3.35,
-    "studentDifficulties": 3.36,
+    "numEvals": 50,
+    "overallRating": 3.39,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.37,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -30685,7 +30696,9 @@
       "Inflexible Deadline Policy": 1,
       "Does Not Use Canvas": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -31310,15 +31323,17 @@
     "department": "CHEM",
     "firstName": "Lloyd",
     "lastName": "Lapoot",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 3,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "CHEM"
+      "CHEM 216",
+      "CHEM 128"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -31379,9 +31394,9 @@
     "department": "CHEM",
     "firstName": "Scott",
     "lastName": "Eagon",
-    "numEvals": 32,
-    "overallRating": 3.12,
-    "materialClear": 3.06,
+    "numEvals": 33,
+    "overallRating": 3.15,
+    "materialClear": 3.09,
     "studentDifficulties": 3.06,
     "courses": [
       "CHEM 110",
@@ -34050,9 +34065,9 @@
     "department": "STAT",
     "firstName": "Soma",
     "lastName": "Roy",
-    "numEvals": 47,
-    "overallRating": 2.9,
-    "materialClear": 3.01,
+    "numEvals": 48,
+    "overallRating": 2.92,
+    "materialClear": 3.03,
     "studentDifficulties": 2.95,
     "courses": [
       "STAT 217",
@@ -34072,7 +34087,10 @@
       "Inflexible Attendance Policy": 3,
       "Class Handouts": 1,
       "Uploads Slides": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -35307,7 +35325,7 @@
     "department": "CSC",
     "firstName": "Michael",
     "lastName": "Wagner",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -36450,10 +36468,10 @@
     "department": "BUS",
     "firstName": "Sisi",
     "lastName": "Pouraghabagher",
-    "numEvals": 59,
+    "numEvals": 60,
     "overallRating": 3.78,
     "materialClear": 3.81,
-    "studentDifficulties": 3.7,
+    "studentDifficulties": 3.71,
     "courses": [
       "BUS 214"
     ],
