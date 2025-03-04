@@ -1327,10 +1327,10 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Burt",
-    "numEvals": 18,
-    "overallRating": 3.79,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.68,
+    "numEvals": 19,
+    "overallRating": 3.7,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.59,
     "courses": [
       "BUS 214",
       "BUS 215"
@@ -5278,9 +5278,9 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 0,
-    "materialClear": 1,
+    "materialClear": 0.67,
     "studentDifficulties": 0,
     "courses": [
       "GRC 203"
@@ -17213,7 +17213,7 @@
     "department": "COMS",
     "firstName": "Alana",
     "lastName": "Vieira",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17530,12 +17530,13 @@
     "department": "MATE",
     "firstName": "Kareesa",
     "lastName": "Kron",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.8,
-    "studentDifficulties": 4,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.83,
     "courses": [
-      "MATE 110"
+      "MATE 110",
+      "MATE 215"
     ],
     "tags": {
       "Uploads Slides": 2,
@@ -23615,15 +23616,20 @@
     "department": "GRC",
     "firstName": "Xiaoying",
     "lastName": "Rong",
-    "numEvals": 10,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.6,
-    "overallRating": 3.5,
+    "numEvals": 11,
+    "overallRating": 3.55,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.64,
     "courses": [
       "GRC 211",
       "GRC 328",
       "GRC 357"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "961b34e0-5e20-49bf-9bca-3ecd6f1dfefa",
@@ -31145,9 +31151,9 @@
     "department": "GRC",
     "firstName": "April",
     "lastName": "Elliott",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "GRC 201",
@@ -32176,7 +32182,7 @@
     "department": "PHYS",
     "firstName": "Roberto",
     "lastName": "Abril Valenzuela",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -34617,21 +34623,24 @@
     "department": "GRC",
     "firstName": "Ivan",
     "lastName": "Bradley",
-    "numEvals": 12,
-    "overallRating": 2.84,
-    "materialClear": 2.53,
-    "studentDifficulties": 3.23,
+    "numEvals": 13,
+    "overallRating": 2.93,
+    "materialClear": 2.49,
+    "studentDifficulties": 3.29,
     "courses": [
       "GRC 377",
-      "GRC 101"
+      "GRC 101",
+      "GRC 102"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
