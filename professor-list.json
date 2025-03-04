@@ -515,16 +515,16 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "OLeary",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 2.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
       "MATH 118",
       "MATH 221"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -6783,19 +6783,19 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 13,
-    "overallRating": 0.38,
-    "materialClear": 1.07,
-    "studentDifficulties": 0.62,
+    "numEvals": 14,
+    "overallRating": 0.35,
+    "materialClear": 0.99,
+    "studentDifficulties": 0.65,
     "courses": [
       "MATH 141",
       "MATH 118"
     ],
     "tags": {
       "Inflexible Deadline Policy": 5,
-      "No Breaks During Lecture": 6,
-      "Inflexible Grading Policy": 7,
-      "Inflexible Attendance Policy": 4,
+      "No Breaks During Lecture": 7,
+      "Inflexible Grading Policy": 8,
+      "Inflexible Attendance Policy": 5,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1
     }
@@ -7822,10 +7822,10 @@
     "department": "ME",
     "firstName": "Thomas",
     "lastName": "Mackin",
-    "numEvals": 24,
-    "overallRating": 3,
-    "materialClear": 2.88,
-    "studentDifficulties": 3.44,
+    "numEvals": 25,
+    "overallRating": 3.04,
+    "materialClear": 2.92,
+    "studentDifficulties": 3.46,
     "courses": [
       "ME 211",
       "ME 212",
@@ -7833,10 +7833,11 @@
       "ME 329"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -14124,10 +14125,10 @@
     "department": "ME",
     "firstName": "Shaheen",
     "lastName": "Hoque",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.44,
     "courses": [
       "ME 302",
       "ME 212"
@@ -17635,10 +17636,10 @@
     "department": "HIST",
     "firstName": "Nathan",
     "lastName": "Perry",
-    "numEvals": 12,
-    "overallRating": 2.08,
-    "materialClear": 2.59,
-    "studentDifficulties": 1.84,
+    "numEvals": 13,
+    "overallRating": 2.07,
+    "materialClear": 2.47,
+    "studentDifficulties": 1.93,
     "courses": [
       "HIST 222",
       "HIST 225",
@@ -17646,10 +17647,11 @@
       "HIST 223"
     ],
     "tags": {
-      "No Breaks During Lecture": 7,
+      "No Breaks During Lecture": 8,
       "Inflexible Grading Policy": 2,
-      "High In-Person Availability": 1,
-      "Honor DRC Accommodations": 1
+      "High In-Person Availability": 2,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -32444,10 +32446,10 @@
     "department": "ENGL",
     "firstName": "Alicia",
     "lastName": "Moretti",
-    "numEvals": 24,
-    "overallRating": 3.25,
-    "materialClear": 3.16,
-    "studentDifficulties": 3.25,
+    "numEvals": 25,
+    "overallRating": 3.28,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.28,
     "courses": [
       "ENGL 134",
       "ENGL 290",
@@ -32455,7 +32457,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
