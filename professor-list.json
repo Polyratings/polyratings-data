@@ -15848,12 +15848,13 @@
     "department": "CSC",
     "firstName": "Laila",
     "lastName": "Abdelhafeez",
-    "numEvals": 1,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
     "courses": [
-      "CSC"
+      "CSC 349",
+      "CSC 202"
     ],
     "tags": {}
   },
@@ -24716,10 +24717,10 @@
     "department": "COMS",
     "firstName": "Vincent",
     "lastName": "Meserko",
-    "numEvals": 11,
-    "overallRating": 3.28,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.36,
+    "numEvals": 12,
+    "overallRating": 3.01,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.08,
     "courses": [
       "COMS 101"
     ],
@@ -25473,10 +25474,10 @@
     "department": "BUS",
     "firstName": "Kathryn",
     "lastName": "Eppright",
-    "numEvals": 30,
-    "overallRating": 3.79,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.65,
+    "numEvals": 31,
+    "overallRating": 3.73,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.56,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -36060,7 +36061,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -36070,12 +36071,12 @@
       "ES 253"
     ],
     "tags": {
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Flexible Grading Policy": 5,
       "Uploads Slides": 3,
       "Hybrid Option": 2,
-      "Flexible Deadline Policy": 6,
-      "Fast Response Time": 1
+      "Flexible Deadline Policy": 7,
+      "Fast Response Time": 2
     }
   },
   {
