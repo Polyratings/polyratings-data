@@ -5880,10 +5880,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 45,
-    "overallRating": 0.88,
-    "materialClear": 1.06,
-    "studentDifficulties": 1.36,
+    "numEvals": 46,
+    "overallRating": 0.86,
+    "materialClear": 1.04,
+    "studentDifficulties": 1.33,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -5893,14 +5893,14 @@
     "tags": {
       "Uploads Slides": 3,
       "Flexible Attendance Policy": 5,
-      "No Breaks During Lecture": 9,
+      "No Breaks During Lecture": 10,
       "Fast Response Time": 1,
       "High In-Person Availability": 1,
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 12,
-      "Inflexible Deadline Policy": 8
+      "Inflexible Grading Policy": 13,
+      "Inflexible Deadline Policy": 9
     }
   },
   {
@@ -10328,10 +10328,10 @@
     "department": "ARCH",
     "firstName": "Brent",
     "lastName": "Freeby",
-    "numEvals": 29,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.03,
-    "overallRating": 3.3,
+    "numEvals": 30,
+    "overallRating": 3.32,
+    "materialClear": 3.32,
+    "studentDifficulties": 3,
     "courses": [
       "ARCH 105",
       "ARCH 121",
@@ -10342,7 +10342,10 @@
       "ARCH 133",
       "ARCH 160",
       "ARCH 353"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "41ad5dd2-12c6-4923-9fbe-a1a417b1396b",
@@ -14186,10 +14189,10 @@
     "department": "PHYS",
     "firstName": "Antonio",
     "lastName": "Garcia",
-    "numEvals": 117,
-    "overallRating": 2.65,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.44,
+    "numEvals": 118,
+    "overallRating": 2.63,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.42,
     "courses": [
       "GEOL 101",
       "GEOG 102",
