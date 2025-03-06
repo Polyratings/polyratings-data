@@ -5672,10 +5672,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 142,
-    "overallRating": 2.68,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.72,
+    "numEvals": 143,
+    "overallRating": 2.67,
+    "materialClear": 2.73,
+    "studentDifficulties": 2.71,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -5683,13 +5683,14 @@
     "tags": {
       "Flexible Attendance Policy": 3,
       "Pop Quizzes": 4,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Zoom Office Hours": 2,
       "Fast Response Time": 5,
       "Recorded Lectures": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 3,
-      "Hybrid Option": 1
+      "Hybrid Option": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -6583,15 +6584,16 @@
     "department": "ENGL",
     "firstName": "Brian",
     "lastName": "Bates",
-    "numEvals": 36,
-    "overallRating": 3.48,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.43,
+    "numEvals": 37,
+    "overallRating": 3.44,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.42,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 333",
-      "ENGL 231"
+      "ENGL 231",
+      "ENGL 253"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -7473,7 +7475,7 @@
     "department": "PHIL",
     "firstName": "Damien",
     "lastName": "Barnes",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7482,9 +7484,9 @@
       "PHIL 230"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
-      "Uploads Slides": 3,
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 2,
+      "Uploads Slides": 4,
       "Flexible Attendance Policy": 2,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1,
@@ -11249,9 +11251,9 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 39,
-    "overallRating": 2.85,
-    "materialClear": 2.68,
+    "numEvals": 40,
+    "overallRating": 2.83,
+    "materialClear": 2.69,
     "studentDifficulties": 2.94,
     "courses": [
       "CPE 225",
@@ -11265,7 +11267,7 @@
       "Uploads Slides": 8,
       "Fast Response Time": 4,
       "Zoom Office Hours": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1
@@ -16809,10 +16811,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 55,
-    "overallRating": 1.31,
-    "materialClear": 1.63,
-    "studentDifficulties": 1.35,
+    "numEvals": 56,
+    "overallRating": 1.36,
+    "materialClear": 1.67,
+    "studentDifficulties": 1.4,
     "courses": [
       "MATH 116",
       "MATH 118",
