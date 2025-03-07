@@ -7397,10 +7397,10 @@
     "department": "WGS",
     "firstName": "Ceylan",
     "lastName": "Cemali",
-    "numEvals": 5,
-    "overallRating": 1.4,
-    "materialClear": 0.8,
-    "studentDifficulties": 1.6,
+    "numEvals": 6,
+    "overallRating": 1.83,
+    "materialClear": 1.33,
+    "studentDifficulties": 2,
     "courses": [
       "WGS 145"
     ],
@@ -8138,7 +8138,7 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -9228,15 +9228,20 @@
     "department": "JOUR",
     "firstName": "Katya",
     "lastName": "Cengel",
-    "numEvals": 5,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.67,
-    "overallRating": 2.33,
+    "numEvals": 6,
+    "overallRating": 2.44,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.56,
     "courses": [
       "JOUR 203",
       "JOUR 219",
       "JOUR 401"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "3a022846-d480-43a2-bd7f-da9f165b2f5b",
@@ -10281,10 +10286,10 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 36,
-    "overallRating": 3.44,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.37,
+    "numEvals": 37,
+    "overallRating": 3.43,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.36,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -11131,9 +11136,9 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 286,
-    "overallRating": 2.48,
-    "materialClear": 2.48,
+    "numEvals": 287,
+    "overallRating": 2.49,
+    "materialClear": 2.49,
     "studentDifficulties": 2.58,
     "courses": [
       "CM 101",
@@ -12845,10 +12850,10 @@
     "department": "AGED",
     "firstName": "Richard",
     "lastName": "Gearhart",
-    "numEvals": 21,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.09,
-    "overallRating": 3.27,
+    "numEvals": 22,
+    "overallRating": 3.3,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.13,
     "courses": [
       "AGC 102",
       "JOUR 102",
@@ -12859,8 +12864,14 @@
       "JOUR 205",
       "JOUR 333",
       "JOUR 348",
-      "JOUR 353"
-    ]
+      "JOUR 353",
+      "JOUR 228"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5220253a-02af-4040-81cc-2f8cac624c5f",
@@ -14274,10 +14285,10 @@
     "department": "ES",
     "firstName": "Jenell",
     "lastName": "Navarro",
-    "numEvals": 24,
-    "overallRating": 3.43,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.4,
+    "numEvals": 25,
+    "overallRating": 3.37,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.42,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -14288,7 +14299,9 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -15924,10 +15937,10 @@
     "department": "BIO",
     "firstName": "Jason",
     "lastName": "Blank",
-    "numEvals": 26,
-    "overallRating": 2.35,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.27,
+    "numEvals": 28,
+    "overallRating": 2.47,
+    "materialClear": 2.52,
+    "studentDifficulties": 2.39,
     "courses": [
       "BIO 161",
       "BIO 162",
@@ -15938,10 +15951,11 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
       "Hybrid Option": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -24513,16 +24527,16 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 12,
-    "overallRating": 0.75,
-    "materialClear": 0.75,
-    "studentDifficulties": 1.08,
+    "numEvals": 13,
+    "overallRating": 0.77,
+    "materialClear": 0.69,
+    "studentDifficulties": 1.07,
     "courses": [
       "ARCE 211"
     ],
     "tags": {
-      "High In-Person Availability": 7,
-      "Does Not Use Canvas": 10,
+      "High In-Person Availability": 8,
+      "Does Not Use Canvas": 11,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 2,
       "Flexible Deadline Policy": 1,
@@ -30943,10 +30957,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 8,
-    "overallRating": 2.63,
-    "materialClear": 2.75,
-    "studentDifficulties": 3.13,
+    "numEvals": 9,
+    "overallRating": 2.78,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.23,
     "courses": [
       "ES 255"
     ],
@@ -33195,10 +33209,10 @@
     "department": "ES",
     "firstName": "Mt",
     "lastName": "Vallarta",
-    "numEvals": 9,
-    "overallRating": 1.78,
-    "materialClear": 1.89,
-    "studentDifficulties": 1.78,
+    "numEvals": 10,
+    "overallRating": 2,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.8,
     "courses": [
       "ES 112"
     ],
