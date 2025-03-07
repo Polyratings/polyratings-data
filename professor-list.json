@@ -9092,10 +9092,10 @@
     "department": "ECON",
     "firstName": "Eric",
     "lastName": "Fisher",
-    "numEvals": 97,
-    "overallRating": 2.29,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.07,
+    "numEvals": 98,
+    "overallRating": 2.31,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.09,
     "courses": [
       "ECON 101",
       "ECON 201",
@@ -9112,7 +9112,9 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -13017,10 +13019,10 @@
     "department": "ARCE",
     "firstName": "Dhalia",
     "lastName": "Hafez",
-    "numEvals": 8,
-    "overallRating": 3.44,
-    "materialClear": 3.08,
-    "studentDifficulties": 3.19,
+    "numEvals": 9,
+    "overallRating": 3.5,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.28,
     "courses": [
       "ARCE 211",
       "ARCE 212",
@@ -13928,14 +13930,18 @@
     "department": "COMS",
     "firstName": "John",
     "lastName": "Patrick",
-    "numEvals": 16,
-    "materialClear": 3.11,
-    "studentDifficulties": 3.21,
-    "overallRating": 3.05,
+    "numEvals": 17,
+    "overallRating": 3.11,
+    "materialClear": 3.16,
+    "studentDifficulties": 3.26,
     "courses": [
       "COMS 101",
       "COMS 126"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "596774b7-daf4-45c5-aa05-b0d5da0e7181",
@@ -15565,10 +15571,10 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 27,
-    "overallRating": 2.37,
-    "materialClear": 2.19,
-    "studentDifficulties": 2.3,
+    "numEvals": 28,
+    "overallRating": 2.36,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.36,
     "courses": [
       "ENGL 133",
       "ENGL 145",
@@ -26824,7 +26830,7 @@
     "department": "FSN",
     "firstName": "Marisa",
     "lastName": "Bolivar",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -26832,11 +26838,12 @@
       "FSN 250"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
       "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -36134,7 +36141,7 @@
     "department": "ES",
     "firstName": "Damien",
     "lastName": "Montano",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -37190,17 +37197,19 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Bonvanie",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 118"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
