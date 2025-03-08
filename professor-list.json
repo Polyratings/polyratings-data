@@ -2857,9 +2857,9 @@
     "department": "BIO",
     "firstName": "Larisa",
     "lastName": "Vredevoe",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.67,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "BIO 429",
@@ -2868,8 +2868,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 2,
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -8386,10 +8387,10 @@
     "department": "SOC",
     "firstName": "Jennifer",
     "lastName": "Lewis",
-    "numEvals": 120,
+    "numEvals": 121,
     "overallRating": 3.42,
     "materialClear": 3.43,
-    "studentDifficulties": 3.28,
+    "studentDifficulties": 3.29,
     "courses": [
       "ANT 101",
       "ANT 201",
@@ -8404,7 +8405,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -10925,10 +10928,10 @@
     "department": "STAT",
     "firstName": "Charlotte",
     "lastName": "Mann",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.6,
     "courses": [
       "STAT 217",
       "STAT 331"
@@ -17746,9 +17749,9 @@
     "department": "MU",
     "firstName": "David",
     "lastName": "Arrivee",
-    "numEvals": 34,
+    "numEvals": 35,
     "overallRating": 3.83,
-    "materialClear": 3.76,
+    "materialClear": 3.77,
     "studentDifficulties": 3.83,
     "courses": [
       "MU 101",
@@ -17761,7 +17764,7 @@
     "tags": {
       "High In-Person Availability": 4,
       "Fast Response Time": 5,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Flexible Attendance Policy": 1,
       "Inflexible Attendance Policy": 1
     }
@@ -27993,17 +27996,18 @@
     "department": "ENGL",
     "firstName": "Diana",
     "lastName": "Turken",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
-      "Fast Response Time": 2,
-      "Class Handouts": 1
+      "Fast Response Time": 3,
+      "Class Handouts": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
