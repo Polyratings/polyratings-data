@@ -280,16 +280,21 @@
     "department": "EE",
     "firstName": "Taufik",
     "lastName": "Taufik",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "EE 302",
       "EE 212",
-      "EE 410"
+      "EE 410",
+      "EE 411"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "02c1242e-ae8d-43c2-bf0c-43eba8793f25",
@@ -24603,10 +24608,10 @@
     "department": "EE",
     "firstName": "Majid",
     "lastName": "Poshtan",
-    "numEvals": 23,
-    "overallRating": 3.13,
-    "materialClear": 3.09,
-    "studentDifficulties": 3.26,
+    "numEvals": 24,
+    "overallRating": 3.17,
+    "materialClear": 3.13,
+    "studentDifficulties": 3.29,
     "courses": [
       "EE 212",
       "EE 255",
@@ -24616,7 +24621,9 @@
       "EE 511",
       "EE 242"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "9be90a86-7cc2-40f5-8b81-cb4261f7202d",
@@ -37000,10 +37007,10 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 12,
-    "overallRating": 2.84,
-    "materialClear": 2.33,
-    "studentDifficulties": 3.18,
+    "numEvals": 13,
+    "overallRating": 2.62,
+    "materialClear": 2.23,
+    "studentDifficulties": 3.09,
     "courses": [
       "PHYS 143",
       "ASTR 101",
@@ -37012,9 +37019,9 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
