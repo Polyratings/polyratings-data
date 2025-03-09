@@ -11405,10 +11405,10 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.72,
     "courses": [
       "COMS 101"
     ],
@@ -11416,12 +11416,13 @@
       "Zoom Office Hours": 3,
       "Inflexible Attendance Policy": 1,
       "Fast Response Time": 2,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "No Breaks During Lecture": 3,
       "High In-Person Availability": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -17323,16 +17324,17 @@
     "department": "COMS",
     "firstName": "Stephenson",
     "lastName": "Whitestone",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "COMS"
+      "COMS 101",
+      "COMS 211"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -34929,10 +34931,10 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 7,
-    "overallRating": 1.57,
-    "materialClear": 1.29,
-    "studentDifficulties": 1.86,
+    "numEvals": 8,
+    "overallRating": 1.62,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.75,
     "courses": [
       "WGS 201"
     ],
