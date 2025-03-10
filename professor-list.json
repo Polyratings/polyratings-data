@@ -4141,13 +4141,14 @@
     "department": "EE",
     "firstName": "David",
     "lastName": "McDonald",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "EE 251",
-      "EE 241"
+      "EE 241",
+      "EE 347"
     ],
     "tags": {
       "Fast Response Time": 1
@@ -4793,10 +4794,10 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 46,
-    "overallRating": 3.76,
+    "numEvals": 47,
+    "overallRating": 3.77,
     "materialClear": 3.78,
-    "studentDifficulties": 3.7,
+    "studentDifficulties": 3.71,
     "courses": [
       "ART 112",
       "ART 212"
@@ -11149,9 +11150,9 @@
     "department": "COMS",
     "firstName": "Martin",
     "lastName": "Mehl",
-    "numEvals": 287,
+    "numEvals": 288,
     "overallRating": 2.49,
-    "materialClear": 2.49,
+    "materialClear": 2.48,
     "studentDifficulties": 2.58,
     "courses": [
       "CM 101",
@@ -11171,7 +11172,7 @@
     "tags": {
       "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Flexible Attendance Policy": 2,
       "Honor DRC Accommodations": 2,
       "Recorded Lectures": 2,
@@ -19668,18 +19669,22 @@
     "department": "COMS",
     "firstName": "Ritch",
     "lastName": "Woffinden",
-    "numEvals": 5,
-    "overallRating": 2.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 2.6,
+    "numEvals": 6,
+    "overallRating": 2.5,
+    "materialClear": 3,
+    "studentDifficulties": 2.83,
     "courses": [
-      "COMS 101"
+      "COMS 101",
+      "COMS 213"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -21363,10 +21368,10 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 45,
-    "overallRating": 2.04,
+    "numEvals": 46,
+    "overallRating": 2,
     "materialClear": 2.01,
-    "studentDifficulties": 2.21,
+    "studentDifficulties": 2.16,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -21375,10 +21380,11 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Class Handouts": 2,
-      "Zoom Office Hours": 1,
+      "Class Handouts": 3,
+      "Zoom Office Hours": 2,
       "Pop Quizzes": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -23770,10 +23776,10 @@
     "department": "EE",
     "firstName": "Xiaomin",
     "lastName": "Jin",
-    "numEvals": 33,
-    "overallRating": 2.06,
-    "materialClear": 1.73,
-    "studentDifficulties": 2.23,
+    "numEvals": 34,
+    "overallRating": 2.09,
+    "materialClear": 1.71,
+    "studentDifficulties": 2.25,
     "courses": [
       "EE 212",
       "EE 306",
@@ -26022,10 +26028,10 @@
     "department": "PHIL",
     "firstName": "Eleanor",
     "lastName": "Helms",
-    "numEvals": 33,
-    "overallRating": 3.26,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.23,
+    "numEvals": 34,
+    "overallRating": 3.25,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.25,
     "courses": [
       "PHIL 230",
       "PHIL 312",
@@ -26034,11 +26040,13 @@
       "PHIL 319"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
       "Recorded Lectures": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -28136,10 +28144,10 @@
     "department": "WGS",
     "firstName": "Ruth",
     "lastName": "Kalin",
-    "numEvals": 75,
+    "numEvals": 76,
     "overallRating": 2.94,
-    "materialClear": 3.18,
-    "studentDifficulties": 2.99,
+    "materialClear": 3.19,
+    "studentDifficulties": 2.98,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -28150,10 +28158,12 @@
       "WGS 145"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -30001,10 +30011,10 @@
     "department": "PHIL",
     "firstName": "Jeremy",
     "lastName": "Dickinson",
-    "numEvals": 33,
-    "overallRating": 2.65,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.68,
+    "numEvals": 34,
+    "overallRating": 2.69,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.72,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -30013,14 +30023,15 @@
       "PHIL 335"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Inflexible Deadline Policy": 2,
       "Inflexible Attendance Policy": 1,
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "No Breaks During Lecture": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -30101,7 +30112,7 @@
     "department": "EE",
     "firstName": "Siavash",
     "lastName": "Farzan",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -30219,23 +30230,23 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 20,
+    "numEvals": 21,
     "overallRating": 3.93,
     "materialClear": 3.93,
-    "studentDifficulties": 3.85,
+    "studentDifficulties": 3.86,
     "courses": [
       "BIO 111",
       "BIO 150",
       "BIO 263"
     ],
     "tags": {
-      "Recorded Lectures": 14,
+      "Recorded Lectures": 15,
       "Fast Response Time": 5,
       "Flexible Attendance Policy": 4,
       "High In-Person Availability": 4,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Uploads Slides": 13,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Class Handouts": 1,
       "Honor DRC Accommodations": 1
     }
@@ -30791,10 +30802,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 50,
-    "overallRating": 3.39,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.37,
+    "numEvals": 51,
+    "overallRating": 3.4,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.38,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -30805,13 +30816,14 @@
       "PSY 520"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Does Not Use Canvas": 1,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -38809,10 +38821,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 15,
-    "overallRating": 2.73,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.73,
+    "numEvals": 16,
+    "overallRating": 2.62,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.68,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -38821,12 +38833,12 @@
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 7,
-      "Flexible Attendance Policy": 3,
+      "Fast Response Time": 8,
+      "Flexible Attendance Policy": 4,
       "Does Not Use Canvas": 1,
       "High In-Person Availability": 3,
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 1
     }
   },
