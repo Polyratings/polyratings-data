@@ -8318,18 +8318,19 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 2.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 2.72,
+    "studentDifficulties": 3.43,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 2,
       "Uploads Slides": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -12767,10 +12768,10 @@
     "department": "FSN",
     "firstName": "Samir",
     "lastName": "Amin",
-    "numEvals": 15,
-    "overallRating": 2.64,
-    "materialClear": 2.52,
-    "studentDifficulties": 2.7,
+    "numEvals": 16,
+    "overallRating": 2.73,
+    "materialClear": 2.61,
+    "studentDifficulties": 2.78,
     "courses": [
       "FSN 121",
       "FSN 321"
@@ -22263,7 +22264,7 @@
     "department": "MATH",
     "firstName": "Todd",
     "lastName": "Grundmeier",
-    "numEvals": 65,
+    "numEvals": 66,
     "overallRating": 3.82,
     "materialClear": 3.72,
     "studentDifficulties": 3.72,
@@ -22283,11 +22284,11 @@
       "MATH 443"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 2,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Honor DRC Accommodations": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -24733,16 +24734,16 @@
     "department": "ARCE",
     "firstName": "Henry",
     "lastName": "Downey",
-    "numEvals": 13,
-    "overallRating": 0.77,
-    "materialClear": 0.69,
-    "studentDifficulties": 1.07,
+    "numEvals": 14,
+    "overallRating": 0.72,
+    "materialClear": 0.64,
+    "studentDifficulties": 0.99,
     "courses": [
       "ARCE 211"
     ],
     "tags": {
       "High In-Person Availability": 8,
-      "Does Not Use Canvas": 11,
+      "Does Not Use Canvas": 12,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 2,
       "Flexible Deadline Policy": 1,
