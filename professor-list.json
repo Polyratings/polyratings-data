@@ -28245,13 +28245,14 @@
     "department": "COMS",
     "firstName": "Frank",
     "lastName": "Bucquoy",
-    "numEvals": 9,
-    "overallRating": 2.44,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.66,
+    "numEvals": 10,
+    "overallRating": 2.5,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.79,
     "courses": [
       "COMS 101",
-      "ENGL 101"
+      "ENGL 101",
+      "COMS 145"
     ],
     "tags": {
       "Fast Response Time": 2,
