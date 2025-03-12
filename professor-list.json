@@ -1027,18 +1027,19 @@
     "department": "HLTH",
     "firstName": "Dulce",
     "lastName": "Romero-Urbina",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
       "HLTH 250"
     ],
     "tags": {
-      "Hybrid Option": 2,
-      "Fast Response Time": 2,
+      "Hybrid Option": 3,
+      "Fast Response Time": 3,
       "Zoom Office Hours": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -1191,10 +1192,10 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 1.25,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.75,
     "courses": [
       "PHYS 141"
     ],
@@ -4124,17 +4125,19 @@
     "department": "CRP",
     "firstName": "Keith",
     "lastName": "Woodcock",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 4,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CRP"
+      "CRP 212",
+      "NR 404"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Hybrid Option": 1
     }
   },
   {
@@ -5938,10 +5941,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 47,
-    "overallRating": 0.84,
-    "materialClear": 1.02,
-    "studentDifficulties": 1.3,
+    "numEvals": 48,
+    "overallRating": 0.82,
+    "materialClear": 1,
+    "studentDifficulties": 1.31,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -5957,8 +5960,8 @@
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 13,
-      "Inflexible Deadline Policy": 9
+      "Inflexible Grading Policy": 14,
+      "Inflexible Deadline Policy": 10
     }
   },
   {
@@ -7557,9 +7560,9 @@
     "department": "PHIL",
     "firstName": "Damien",
     "lastName": "Barnes",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 4,
-    "materialClear": 3.92,
+    "materialClear": 3.93,
     "studentDifficulties": 4,
     "courses": [
       "PHIL 126",
@@ -25370,7 +25373,7 @@
     "department": "ART",
     "firstName": "Makia",
     "lastName": "Sharp",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -27410,10 +27413,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 18,
-    "overallRating": 3.82,
-    "materialClear": 3.89,
-    "studentDifficulties": 3.71,
+    "numEvals": 19,
+    "overallRating": 3.83,
+    "materialClear": 3.9,
+    "studentDifficulties": 3.73,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -27426,9 +27429,9 @@
       "High In-Person Availability": 3,
       "Fast Response Time": 8,
       "Zoom Office Hours": 3,
-      "Uploads Slides": 3,
-      "Flexible Deadline Policy": 1,
-      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 4,
+      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -28297,9 +28300,9 @@
     "department": "ES",
     "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 4,
-    "materialClear": 3.91,
+    "materialClear": 3.92,
     "studentDifficulties": 4,
     "courses": [
       "ES 253"
@@ -28309,7 +28312,8 @@
       "Uploads Slides": 1,
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -28608,10 +28612,10 @@
     "department": "ENGL",
     "firstName": "Erin",
     "lastName": "Martin-Elston",
-    "numEvals": 71,
-    "overallRating": 2.55,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.52,
+    "numEvals": 72,
+    "overallRating": 2.57,
+    "materialClear": 2.76,
+    "studentDifficulties": 2.54,
     "courses": [
       "ENGL 134",
       "ENGL 143",
@@ -28629,9 +28633,9 @@
       "Flexible Grading Policy": 2,
       "Uploads Slides": 1,
       "Hybrid Option": 1,
-      "Zoom Office Hours": 1,
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Zoom Office Hours": 2,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2
     }
   },
   {
