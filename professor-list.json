@@ -3239,10 +3239,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 14,
-    "overallRating": 2.36,
-    "materialClear": 2.93,
-    "studentDifficulties": 2.5,
+    "numEvals": 15,
+    "overallRating": 2.27,
+    "materialClear": 3,
+    "studentDifficulties": 2.47,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -3252,10 +3252,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Class Handouts": 7,
+      "Class Handouts": 8,
       "Inflexible Grading Policy": 5,
       "Zoom Office Hours": 1,
-      "Supplemental Study Material": 5,
+      "Supplemental Study Material": 6,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 1
@@ -8199,16 +8199,17 @@
     "department": "LA",
     "firstName": "Amber",
     "lastName": "Lake",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "LA 212"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -9863,15 +9864,17 @@
     "department": "SPAN",
     "firstName": "Marion",
     "lastName": "Hart",
-    "numEvals": 12,
-    "materialClear": 3.08,
-    "studentDifficulties": 3.31,
-    "overallRating": 3.23,
+    "numEvals": 13,
+    "overallRating": 3.29,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.36,
     "courses": [
       "SPAN 233",
       "SPAN 305",
-      "HUM 310"
-    ]
+      "HUM 310",
+      "SPAN 302"
+    ],
+    "tags": {}
   },
   {
     "id": "3dbd8802-dfd5-4b1b-bd90-69577a1475ce",
@@ -13422,7 +13425,7 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -13436,7 +13439,7 @@
       "Fast Response Time": 4,
       "Inflexible Attendance Policy": 2,
       "Uploads Slides": 1,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "High In-Person Availability": 2
     }
   },
@@ -13757,10 +13760,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 90,
-    "overallRating": 2.09,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.29,
+    "numEvals": 91,
+    "overallRating": 2.11,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.31,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -14159,10 +14162,10 @@
     "department": "SOC",
     "firstName": "Nikhil",
     "lastName": "Deb",
-    "numEvals": 7,
-    "overallRating": 3.72,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.76,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.87,
     "courses": [
       "SOC 218",
       "SOC 110"
@@ -14171,7 +14174,8 @@
       "Zoom Office Hours": 1,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -31279,16 +31283,17 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 10,
-    "overallRating": 2.9,
+    "numEvals": 11,
+    "overallRating": 2.91,
     "materialClear": 3,
-    "studentDifficulties": 3.31,
+    "studentDifficulties": 3.37,
     "courses": [
-      "ES 255"
+      "ES 255",
+      "ES 380"
     ],
     "tags": {
       "Pop Quizzes": 5,
-      "No Breaks During Lecture": 6,
+      "No Breaks During Lecture": 7,
       "Flexible Attendance Policy": 3,
       "Uploads Slides": 5
     }
@@ -36281,16 +36286,16 @@
     "department": "SOC",
     "firstName": "Kylie",
     "lastName": "Parrotta",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "SOC"
+      "SOC 110"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1
     }
   },
@@ -39392,10 +39397,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 11,
-    "overallRating": 3.72,
-    "materialClear": 3.9,
-    "studentDifficulties": 3.72,
+    "numEvals": 12,
+    "overallRating": 3.74,
+    "materialClear": 3.91,
+    "studentDifficulties": 3.74,
     "courses": [
       "PHYS 143",
       "PHYS 123",
@@ -39404,9 +39409,9 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 5,
-      "Flexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 2,
+      "Uploads Slides": 6,
+      "Flexible Attendance Policy": 4,
+      "Inflexible Deadline Policy": 3,
       "High In-Person Availability": 4,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
