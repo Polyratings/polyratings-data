@@ -887,13 +887,14 @@
     "department": "COMS",
     "firstName": "Laura",
     "lastName": "Hunkler",
-    "numEvals": 8,
-    "overallRating": 3.38,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.62,
+    "numEvals": 9,
+    "overallRating": 3.45,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.55,
     "courses": [
       "COMS 101",
-      "BUS 206"
+      "BUS 206",
+      "COMS 301"
     ],
     "tags": {
       "High In-Person Availability": 2,
@@ -14379,10 +14380,10 @@
     "department": "ME",
     "firstName": "Shaheen",
     "lastName": "Hoque",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.4,
+    "studentDifficulties": 0.36,
     "courses": [
       "ME 302",
       "ME 212"
@@ -34839,10 +34840,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Taylor",
-    "numEvals": 37,
-    "overallRating": 3.72,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.59,
+    "numEvals": 38,
+    "overallRating": 3.73,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.6,
     "courses": [
       "BIO 123",
       "BIO 162",
@@ -34854,7 +34855,8 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
