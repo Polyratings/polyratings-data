@@ -12860,10 +12860,10 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 59,
-    "overallRating": 3.69,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.5,
+    "numEvals": 60,
+    "overallRating": 3.7,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.48,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -28378,10 +28378,10 @@
     "department": "ES",
     "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
-    "materialClear": 3.92,
-    "studentDifficulties": 4,
+    "materialClear": 3.93,
+    "studentDifficulties": 3.79,
     "courses": [
       "ES 253"
     ],
@@ -37135,19 +37135,21 @@
   {
     "id": "ed54bc01-3ab7-40c7-9a55-4cedbcfcf16d",
     "department": "MATE",
-    "firstName": "Aniruddha ",
+    "firstName": "Aniruddha",
     "lastName": "Dive",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 2,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "MATE"
+      "MATE 401",
+      "MATE 210"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
