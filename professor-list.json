@@ -10603,7 +10603,7 @@
     "department": "ASCI",
     "firstName": "Laura",
     "lastName": "Backus",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -10946,10 +10946,10 @@
     "department": "HIST",
     "firstName": "Roger",
     "lastName": "Hall",
-    "numEvals": 36,
-    "overallRating": 3.45,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.23,
+    "numEvals": 37,
+    "overallRating": 3.46,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.2,
     "courses": [
       "HIST 201",
       "HIST 202",
@@ -13357,10 +13357,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 30,
-    "overallRating": 2.52,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.46,
+    "numEvals": 31,
+    "overallRating": 2.57,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.45,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -22690,15 +22690,15 @@
     "department": "ASCI",
     "firstName": "Darin",
     "lastName": "Bennett",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 3,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ASCI"
+      "ASCI 225"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -30031,10 +30031,10 @@
     "department": "ES",
     "firstName": "Kristian",
     "lastName": "Vasquez",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.4,
     "courses": [
       "ES 252"
     ],
@@ -32578,8 +32578,8 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 129,
-    "overallRating": 2.9,
+    "numEvals": 130,
+    "overallRating": 2.89,
     "materialClear": 2.79,
     "studentDifficulties": 2.88,
     "courses": [
@@ -40386,10 +40386,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 45,
-    "overallRating": 2.01,
-    "materialClear": 2.22,
-    "studentDifficulties": 1.98,
+    "numEvals": 46,
+    "overallRating": 1.97,
+    "materialClear": 2.19,
+    "studentDifficulties": 2.02,
     "courses": [
       "BIO 161",
       "BIO 221",
