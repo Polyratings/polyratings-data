@@ -1195,15 +1195,15 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 5,
-    "overallRating": 1.2,
-    "materialClear": 2.2,
-    "studentDifficulties": 2.4,
+    "numEvals": 6,
+    "overallRating": 1.17,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.17,
     "courses": [
       "PHYS 141"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1
     }
@@ -5743,10 +5743,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 143,
-    "overallRating": 2.67,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.71,
+    "numEvals": 144,
+    "overallRating": 2.65,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.69,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -8159,13 +8159,14 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3,
     "courses": [
       "ASCI 224",
-      "ASCI 112"
+      "ASCI 112",
+      "ASCI 101"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -8217,16 +8218,16 @@
     "department": "LA",
     "firstName": "Amber",
     "lastName": "Lake",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "LA 212"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Fast Response Time": 1
     }
   },
@@ -8419,15 +8420,20 @@
     "department": "ME",
     "firstName": "Connor",
     "lastName": "Kingsbury",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ME 130",
-      "ME 251"
+      "ME 251",
+      "ME 129"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "3264539b-38c2-485f-b98d-3ea6f1fbd510",
@@ -9050,10 +9056,10 @@
     "department": "ASCI",
     "firstName": "George",
     "lastName": "Gallagher",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.25,
     "courses": [
       "ASCI 112"
     ],
@@ -9692,10 +9698,10 @@
     "department": "DSCI",
     "firstName": "Katherine",
     "lastName": "Swanson",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.14,
     "courses": [
       "DSCI 230",
       "ASCI 220"
@@ -9850,10 +9856,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 65,
+    "numEvals": 66,
     "overallRating": 2.33,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.22,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.19,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -13351,10 +13357,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Liou",
-    "numEvals": 29,
-    "overallRating": 2.47,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.41,
+    "numEvals": 30,
+    "overallRating": 2.52,
+    "materialClear": 2.83,
+    "studentDifficulties": 2.46,
     "courses": [
       "MATH 161",
       "MATH 118",
@@ -13366,7 +13372,7 @@
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 7,
       "Inflexible Grading Policy": 5,
-      "Does Not Use Canvas": 14,
+      "Does Not Use Canvas": 15,
       "Supplemental Study Material": 5,
       "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
@@ -14072,10 +14078,10 @@
     "department": "ASCI",
     "firstName": "McFarlane",
     "lastName": "Zach",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.8,
     "courses": [
       "AEPS 221",
       "ASCI 112"
@@ -22533,7 +22539,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -22543,7 +22549,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -23352,9 +23359,9 @@
     "department": "SOC",
     "firstName": "Jensen",
     "lastName": "Jeung",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 2,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 2.67,
     "studentDifficulties": 4,
     "courses": [
       "SOC 110",
@@ -26140,10 +26147,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 21,
-    "overallRating": 1.76,
-    "materialClear": 1.53,
-    "studentDifficulties": 2.24,
+    "numEvals": 22,
+    "overallRating": 1.68,
+    "materialClear": 1.46,
+    "studentDifficulties": 2.18,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -26927,15 +26934,16 @@
     "department": "ME",
     "firstName": "Cooper",
     "lastName": "Minehart",
-    "numEvals": 10,
-    "overallRating": 3.5,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.7,
+    "numEvals": 11,
+    "overallRating": 3.55,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.73,
     "courses": [
       "ME 228",
       "ME 234",
       "ME 128",
-      "ME 211"
+      "ME 211",
+      "ME 129"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -27972,10 +27980,10 @@
     "department": "MATH",
     "firstName": "McFeely",
     "lastName": "Goodman",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "MATH 241",
       "MATH 143"
@@ -27983,10 +27991,10 @@
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Inflexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 1
     }
@@ -29373,10 +29381,10 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 7,
-    "overallRating": 2.43,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.85,
+    "numEvals": 8,
+    "overallRating": 2.25,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.99,
     "courses": [
       "CSC 101",
       "CSC 466"
@@ -30062,10 +30070,10 @@
     "department": "CHEM",
     "firstName": "Ashley",
     "lastName": "McDonald",
-    "numEvals": 41,
-    "overallRating": 1.96,
-    "materialClear": 2.4,
-    "studentDifficulties": 1.89,
+    "numEvals": 42,
+    "overallRating": 1.91,
+    "materialClear": 2.34,
+    "studentDifficulties": 1.94,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -30547,21 +30555,21 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 3.93,
     "materialClear": 3.93,
-    "studentDifficulties": 3.87,
+    "studentDifficulties": 3.88,
     "courses": [
       "BIO 111",
       "BIO 150",
       "BIO 263"
     ],
     "tags": {
-      "Recorded Lectures": 15,
+      "Recorded Lectures": 16,
       "Fast Response Time": 5,
       "Flexible Attendance Policy": 4,
-      "High In-Person Availability": 4,
-      "Supplemental Study Material": 3,
+      "High In-Person Availability": 5,
+      "Supplemental Study Material": 4,
       "Uploads Slides": 13,
       "No Breaks During Lecture": 3,
       "Class Handouts": 1,
@@ -32025,10 +32033,10 @@
     "department": "MU",
     "firstName": "Antonio",
     "lastName": "Barata",
-    "numEvals": 109,
-    "overallRating": 2.08,
+    "numEvals": 110,
+    "overallRating": 2.06,
     "materialClear": 2.24,
-    "studentDifficulties": 1.85,
+    "studentDifficulties": 1.83,
     "courses": [
       "MU 101",
       "MU 114",
@@ -32043,7 +32051,9 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -34144,10 +34154,10 @@
     "department": "ASCI",
     "firstName": "Ike",
     "lastName": "Kang",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 3.75,
     "courses": [
       "ASCI 211"
     ],
@@ -34204,10 +34214,10 @@
     "department": "ASCI",
     "firstName": "Hannah",
     "lastName": "Steagall",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.6,
     "courses": [
       "ASCI 211",
       "ASCI 363"
@@ -37242,9 +37252,9 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 94,
+    "numEvals": 95,
     "overallRating": 2.95,
-    "materialClear": 3.1,
+    "materialClear": 3.11,
     "studentDifficulties": 2.68,
     "courses": [
       "ENGL 250",
@@ -37266,7 +37276,8 @@
       "Does Not Use Canvas": 5,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -37373,10 +37384,10 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 13,
-    "overallRating": 2.62,
-    "materialClear": 2.23,
-    "studentDifficulties": 3.09,
+    "numEvals": 14,
+    "overallRating": 2.5,
+    "materialClear": 2.07,
+    "studentDifficulties": 3.16,
     "courses": [
       "PHYS 143",
       "ASTR 101",
@@ -39178,10 +39189,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 16,
-    "overallRating": 2.62,
-    "materialClear": 2.63,
-    "studentDifficulties": 2.68,
+    "numEvals": 17,
+    "overallRating": 2.58,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.58,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -39191,10 +39202,10 @@
     "tags": {
       "Flexible Grading Policy": 1,
       "Fast Response Time": 8,
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Does Not Use Canvas": 1,
       "High In-Person Availability": 3,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 1
     }
