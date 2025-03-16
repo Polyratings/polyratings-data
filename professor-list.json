@@ -9484,10 +9484,10 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 48,
-    "overallRating": 3.7,
+    "numEvals": 49,
+    "overallRating": 3.71,
     "materialClear": 3.79,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.76,
     "courses": [
       "HIST 201",
       "HIST 207",
@@ -10240,10 +10240,10 @@
     "department": "PHYS",
     "firstName": "David",
     "lastName": "Mitchell",
-    "numEvals": 67,
-    "overallRating": 3.53,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.52,
+    "numEvals": 68,
+    "overallRating": 3.54,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.53,
     "courses": [
       "ASTR 101",
       "PHYS 101",
@@ -10262,7 +10262,7 @@
       "ASTR 301"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
@@ -16137,10 +16137,10 @@
     "department": "CSC",
     "firstName": "Laila",
     "lastName": "Abdelhafeez",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "CSC 349",
       "CSC 202"
@@ -19187,19 +19187,21 @@
     "department": "PHYS",
     "firstName": "Pasha",
     "lastName": "Tabatabai",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.83,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 3.57,
+    "studentDifficulties": 3,
     "courses": [
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 143"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "No Breaks During Lecture": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -35309,10 +35311,10 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 8,
-    "overallRating": 1.62,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.75,
+    "numEvals": 9,
+    "overallRating": 1.55,
+    "materialClear": 1.11,
+    "studentDifficulties": 1.78,
     "courses": [
       "WGS 201"
     ],
@@ -35320,12 +35322,13 @@
       "Recorded Lectures": 2,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Hybrid Option": 3,
+      "Hybrid Option": 4,
       "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
       "Zoom Office Hours": 1,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -35333,15 +35336,17 @@
     "department": "ENGL",
     "firstName": "Jacob",
     "lastName": "Nathans",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 3,
-    "studentDifficulties": 4,
+    "studentDifficulties": 2.67,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -40082,10 +40087,10 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 10,
-    "overallRating": 3.1,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.11,
+    "numEvals": 11,
+    "overallRating": 2.91,
+    "materialClear": 2.64,
+    "studentDifficulties": 3.19,
     "courses": [
       "STAT 218",
       "STAT 251"
