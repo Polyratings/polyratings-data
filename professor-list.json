@@ -2788,7 +2788,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 183,
+    "numEvals": 185,
     "overallRating": 3.54,
     "materialClear": 3.62,
     "studentDifficulties": 3.35,
@@ -5355,17 +5355,19 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 0,
-    "materialClear": 0.67,
+    "materialClear": 0.5,
     "studentDifficulties": 0,
     "courses": [
-      "GRC 203"
+      "GRC 203",
+      "GRC 316"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -17192,10 +17194,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 136,
+    "numEvals": 138,
     "overallRating": 1.81,
     "materialClear": 1.97,
-    "studentDifficulties": 1.65,
+    "studentDifficulties": 1.66,
     "courses": [
       "CE 204",
       "CE 211",
@@ -17214,12 +17216,13 @@
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1,
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 2,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 2,
-      "Pop Quizzes": 1
+      "Does Not Use Canvas": 3,
+      "Pop Quizzes": 3,
+      "Flexible Grading Policy": 1
     }
   },
   {
