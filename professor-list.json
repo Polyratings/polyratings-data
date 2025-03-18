@@ -3050,10 +3050,10 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 14,
-    "overallRating": 3.78,
-    "materialClear": 3.86,
-    "studentDifficulties": 3.78,
+    "numEvals": 15,
+    "overallRating": 3.66,
+    "materialClear": 3.74,
+    "studentDifficulties": 3.59,
     "courses": [
       "MATH 142",
       "MATH 141",
@@ -3061,11 +3061,12 @@
       "MATH 182"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -27146,10 +27147,10 @@
     "department": "POLS",
     "firstName": "Serena",
     "lastName": "Clark",
-    "numEvals": 5,
-    "overallRating": 2.4,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 2.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.17,
     "courses": [
       "POLS 111",
       "POLS 341"
@@ -27736,7 +27737,7 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 11,
+    "numEvals": 12,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -27745,13 +27746,14 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Flexible Grading Policy": 2,
-      "Zoom Office Hours": 5,
+      "Zoom Office Hours": 6,
       "High In-Person Availability": 1,
       "Recorded Lectures": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
