@@ -11220,10 +11220,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 45,
-    "overallRating": 1.47,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.61,
+    "numEvals": 46,
+    "overallRating": 1.44,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.66,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -16891,10 +16891,10 @@
     "department": "CHEM",
     "firstName": "Matthew",
     "lastName": "Zoerb",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3.5,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.2,
     "courses": [
       "CHEM 125",
       "CHEM 331"
@@ -21848,13 +21848,17 @@
     "department": "PHYS",
     "firstName": "Matt",
     "lastName": "Beekman",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 2,
     "materialClear": 2,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "8744f6fc-b042-41ab-a98a-b69871e58768",
@@ -23651,10 +23655,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 28,
-    "overallRating": 3.47,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.44,
+    "numEvals": 29,
+    "overallRating": 3.49,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.46,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -28186,10 +28190,10 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Carroll",
-    "numEvals": 26,
-    "overallRating": 2.57,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.42,
+    "numEvals": 27,
+    "overallRating": 2.55,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.48,
     "courses": [
       "CHEM 110",
       "CHEM 127",
@@ -29024,10 +29028,10 @@
     "department": "ASCI",
     "firstName": "Juliana",
     "lastName": "Huzzey",
-    "numEvals": 48,
-    "overallRating": 3.09,
-    "materialClear": 3.15,
-    "studentDifficulties": 2.94,
+    "numEvals": 49,
+    "overallRating": 3.03,
+    "materialClear": 3.09,
+    "studentDifficulties": 2.88,
     "courses": [
       "ASCI 101",
       "ASCI 112",
@@ -29041,10 +29045,10 @@
       "Supplemental Study Material": 3,
       "Inflexible Attendance Policy": 2,
       "Class Handouts": 1,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -36295,14 +36299,15 @@
     "department": "CHEM",
     "firstName": "Leanna",
     "lastName": "Schulte",
-    "numEvals": 9,
-    "overallRating": 3.66,
-    "materialClear": 3.79,
+    "numEvals": 10,
+    "overallRating": 3.69,
+    "materialClear": 3.81,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 127",
       "CHEM 125",
-      "CHEM 129"
+      "CHEM 129",
+      "CHEM 351"
     ],
     "tags": {
       "Supplemental Study Material": 2,
@@ -39573,10 +39578,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 13,
-    "overallRating": 3.76,
-    "materialClear": 3.92,
-    "studentDifficulties": 3.76,
+    "numEvals": 14,
+    "overallRating": 3.78,
+    "materialClear": 3.93,
+    "studentDifficulties": 3.78,
     "courses": [
       "PHYS 143",
       "PHYS 123",
@@ -39585,12 +39590,12 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Uploads Slides": 6,
       "Flexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 3,
-      "High In-Person Availability": 5,
-      "Fast Response Time": 5,
+      "High In-Person Availability": 6,
+      "Fast Response Time": 6,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1
     }
