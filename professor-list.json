@@ -603,12 +603,12 @@
     "department": "BRAE",
     "firstName": "Daniel",
     "lastName": "Namyst",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
     "studentDifficulties": 3,
     "courses": [
-      "BRAE"
+      "BRAE 239"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -5360,9 +5360,9 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 0,
-    "materialClear": 0.5,
+    "materialClear": 0.4,
     "studentDifficulties": 0,
     "courses": [
       "GRC 203",
@@ -7538,14 +7538,16 @@
     "department": "ENGL",
     "firstName": "Christopher",
     "lastName": "Hayter",
-    "numEvals": 7,
-    "overallRating": 1.28,
-    "materialClear": 0.71,
-    "studentDifficulties": 1.43,
+    "numEvals": 8,
+    "overallRating": 1.62,
+    "materialClear": 1.12,
+    "studentDifficulties": 1.75,
     "courses": [
       "ENGL 145"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "2e90246e-ef43-474b-9ea7-31d9b7182b71",
@@ -8177,10 +8179,10 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 6,
-    "overallRating": 3.5,
-    "materialClear": 3.67,
-    "studentDifficulties": 2.83,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 3.72,
+    "studentDifficulties": 3,
     "courses": [
       "ASCI 224",
       "ASCI 112",
@@ -8189,7 +8191,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
