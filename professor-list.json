@@ -1030,10 +1030,10 @@
     "department": "HLTH",
     "firstName": "Dulce",
     "lastName": "Romero-Urbina",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.72,
     "courses": [
       "HLTH 250"
     ],
@@ -1042,7 +1042,8 @@
       "Fast Response Time": 3,
       "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -11892,16 +11893,18 @@
     "department": "SS",
     "firstName": "Charlotte",
     "lastName": "Decock",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 2,
+    "materialClear": 3,
     "studentDifficulties": 1,
     "courses": [
-      "SS"
+      "SS 120"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -14529,19 +14532,19 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 11,
-    "overallRating": 3.9,
+    "numEvals": 12,
+    "overallRating": 3.91,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101"
     ],
     "tags": {
-      "Zoom Office Hours": 8,
-      "Flexible Attendance Policy": 5,
+      "Zoom Office Hours": 9,
+      "Flexible Attendance Policy": 6,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 2,
+      "Flexible Deadline Policy": 3,
       "High In-Person Availability": 1
     }
   },
@@ -25745,10 +25748,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 34,
-    "overallRating": 3.7,
+    "numEvals": 35,
+    "overallRating": 3.71,
     "materialClear": 3.84,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.68,
     "courses": [
       "BIO 102",
       "BIO 114",
@@ -25758,8 +25761,8 @@
     "tags": {
       "High In-Person Availability": 5,
       "Flexible Attendance Policy": 6,
-      "Uploads Slides": 9,
-      "Fast Response Time": 2,
+      "Uploads Slides": 10,
+      "Fast Response Time": 3,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 1
@@ -39673,22 +39676,22 @@
     "department": "MATH",
     "firstName": "Bella",
     "lastName": "Padavana",
-    "numEvals": 12,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.41,
+    "numEvals": 13,
+    "overallRating": 3.3,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.38,
     "courses": [
       "MATH 118",
       "MATH 141",
       "MATH 161"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 4,
+      "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 1
     }
   },
@@ -40227,23 +40230,23 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 14,
-    "overallRating": 2.72,
-    "materialClear": 2.64,
-    "studentDifficulties": 3.07,
+    "numEvals": 15,
+    "overallRating": 2.81,
+    "materialClear": 2.73,
+    "studentDifficulties": 3.13,
     "courses": [
       "STAT 218",
       "STAT 251"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Inflexible Deadline Policy": 4,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
       "Fast Response Time": 3,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1
     }
@@ -40515,10 +40518,10 @@
     "department": "BUS",
     "firstName": "Erik",
     "lastName": "Slayter",
-    "numEvals": 72,
-    "overallRating": 3.68,
+    "numEvals": 73,
+    "overallRating": 3.67,
     "materialClear": 3.69,
-    "studentDifficulties": 3.7,
+    "studentDifficulties": 3.66,
     "courses": [
       "AGB 214",
       "BUS 214",
@@ -40528,7 +40531,9 @@
       "AGB 323",
       "BUS 323"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "ff913892-2f9b-49df-9335-2e1da565f492",
