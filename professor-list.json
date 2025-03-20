@@ -5363,9 +5363,9 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 0,
-    "materialClear": 0.43,
+    "materialClear": 0.38,
     "studentDifficulties": 0,
     "courses": [
       "GRC 203",
@@ -5374,8 +5374,9 @@
     "tags": {
       "Recorded Lectures": 1,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 2,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -16280,10 +16281,10 @@
     "department": "HLTH",
     "firstName": "Joni",
     "lastName": "Roberts",
-    "numEvals": 5,
-    "overallRating": 1.8,
-    "materialClear": 3.6,
-    "studentDifficulties": 1.2,
+    "numEvals": 6,
+    "overallRating": 1.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 1,
     "courses": [
       "HLTH 260",
       "HLTH 410"
@@ -26746,20 +26747,20 @@
     "department": "HIST",
     "firstName": "Gregory",
     "lastName": "Domber",
-    "numEvals": 10,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.9,
+    "numEvals": 11,
+    "overallRating": 3.55,
+    "materialClear": 3.55,
+    "studentDifficulties": 3,
     "courses": [
       "HIST 202"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Does Not Use Canvas": 2,
       "Uploads Slides": 1,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Grading Policy": 1
     }
   },
@@ -26965,10 +26966,10 @@
     "department": "MATH",
     "firstName": "Vincent",
     "lastName": "Bonini",
-    "numEvals": 45,
-    "overallRating": 3.51,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.35,
+    "numEvals": 46,
+    "overallRating": 3.52,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.36,
     "courses": [
       "MATH 141",
       "MATH 143",
@@ -26979,11 +26980,12 @@
       "MATH 306"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Fast Response Time": 2,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -27049,10 +27051,10 @@
     "department": "ME",
     "firstName": "Cooper",
     "lastName": "Minehart",
-    "numEvals": 11,
-    "overallRating": 3.55,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.73,
+    "numEvals": 12,
+    "overallRating": 3.42,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.75,
     "courses": [
       "ME 228",
       "ME 234",
@@ -28470,10 +28472,10 @@
     "department": "COMS",
     "firstName": "Frank",
     "lastName": "Bucquoy",
-    "numEvals": 12,
-    "overallRating": 2.58,
-    "materialClear": 2.59,
-    "studentDifficulties": 2.83,
+    "numEvals": 13,
+    "overallRating": 2.69,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.92,
     "courses": [
       "COMS 101",
       "ENGL 101",
@@ -28483,11 +28485,11 @@
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 3,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "No Breaks During Lecture": 1,
       "Class Handouts": 2,
       "Flexible Deadline Policy": 4,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "High In-Person Availability": 2,
       "Zoom Office Hours": 1
     }
@@ -31467,19 +31469,19 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 12,
-    "overallRating": 2.92,
-    "materialClear": 3.08,
-    "studentDifficulties": 3.42,
+    "numEvals": 13,
+    "overallRating": 3,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.46,
     "courses": [
       "ES 255",
       "ES 380"
     ],
     "tags": {
-      "Pop Quizzes": 5,
+      "Pop Quizzes": 6,
       "No Breaks During Lecture": 8,
-      "Flexible Attendance Policy": 4,
-      "Uploads Slides": 5
+      "Flexible Attendance Policy": 5,
+      "Uploads Slides": 6
     }
   },
   {
@@ -38820,10 +38822,10 @@
     "department": "HIST",
     "firstName": "Sarah",
     "lastName": "Bridger",
-    "numEvals": 31,
-    "overallRating": 3.16,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.09,
+    "numEvals": 32,
+    "overallRating": 3.19,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.12,
     "courses": [
       "HIST 111",
       "HIST 202",
@@ -38833,7 +38835,8 @@
       "HIST 440"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
