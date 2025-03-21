@@ -37085,17 +37085,19 @@
     "department": "POLS",
     "firstName": "Alexander",
     "lastName": "Otruba",
-    "numEvals": 2,
-    "overallRating": 2,
+    "numEvals": 3,
+    "overallRating": 1.67,
     "materialClear": 2,
     "studentDifficulties": 2,
     "courses": [
       "POLS 334",
-      "POLS 349"
+      "POLS 349",
+      "POLS 230"
     ],
     "tags": {
-      "No Breaks During Lecture": 2,
-      "Inflexible Attendance Policy": 1
+      "No Breaks During Lecture": 3,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
