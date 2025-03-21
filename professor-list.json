@@ -3057,10 +3057,10 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 20,
-    "overallRating": 3.59,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.54,
+    "numEvals": 22,
+    "overallRating": 3.63,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.53,
     "courses": [
       "MATH 142",
       "MATH 141",
@@ -3069,10 +3069,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 4,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 4,
       "Inflexible Grading Policy": 2,
       "Flexible Deadline Policy": 1
     }
@@ -3360,10 +3360,10 @@
     "department": "BUS",
     "firstName": "Barry",
     "lastName": "VanderKelen",
-    "numEvals": 11,
-    "overallRating": 2.73,
-    "materialClear": 2.82,
-    "studentDifficulties": 2.73,
+    "numEvals": 12,
+    "overallRating": 2.75,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.84,
     "courses": [
       "BUS 401",
       "BUS 387"
@@ -3985,10 +3985,10 @@
     "department": "AEPS",
     "firstName": "Micheal",
     "lastName": "Costello",
-    "numEvals": 27,
-    "overallRating": 2.83,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.37,
+    "numEvals": 28,
+    "overallRating": 2.76,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.36,
     "courses": [
       "CRSC 102",
       "CRSC 110",
@@ -4000,8 +4000,10 @@
       "CRSC 431",
       "PSC 431",
       "CRSC 521",
-      "AEPS 110"
-    ]
+      "AEPS 110",
+      "WVIT 300"
+    ],
+    "tags": {}
   },
   {
     "id": "177105b8-0eff-4fdd-8592-f8fc78413445",
@@ -11302,10 +11304,10 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 96,
-    "overallRating": 2.93,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.78,
+    "numEvals": 97,
+    "overallRating": 2.9,
+    "materialClear": 2.91,
+    "studentDifficulties": 2.75,
     "courses": [
       "TH 110",
       "TH 201",
@@ -16515,10 +16517,10 @@
     "department": "EE",
     "firstName": "Dennis",
     "lastName": "Derickson",
-    "numEvals": 25,
-    "overallRating": 2.55,
-    "materialClear": 2.36,
-    "studentDifficulties": 2.62,
+    "numEvals": 26,
+    "overallRating": 2.53,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.6,
     "courses": [
       "EE 111",
       "EE 212",
@@ -16535,7 +16537,8 @@
       "Inflexible Attendance Policy": 3,
       "Uploads Slides": 1,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -17041,10 +17044,10 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 16,
-    "overallRating": 3.56,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.63,
+    "numEvals": 17,
+    "overallRating": 3.59,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.65,
     "courses": [
       "MATH 143",
       "MATH 241"
@@ -17053,13 +17056,13 @@
       "Uploads Slides": 13,
       "Supplemental Study Material": 5,
       "No Breaks During Lecture": 1,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 3,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 2,
       "Recorded Lectures": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
@@ -25407,10 +25410,10 @@
     "department": "PHYS",
     "firstName": "Jessica",
     "lastName": "Pilgram",
-    "numEvals": 10,
-    "overallRating": 2.7,
-    "materialClear": 2.1,
-    "studentDifficulties": 3.51,
+    "numEvals": 11,
+    "overallRating": 2.82,
+    "materialClear": 2.27,
+    "studentDifficulties": 3.55,
     "courses": [
       "PHYS 142",
       "PHYS 143"
@@ -25738,10 +25741,10 @@
     "department": "MATE",
     "firstName": "Rob",
     "lastName": "Carter",
-    "numEvals": 40,
-    "overallRating": 3.53,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.39,
+    "numEvals": 41,
+    "overallRating": 3.54,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.4,
     "courses": [
       "MATE 110",
       "IME 140",
@@ -28813,10 +28816,10 @@
     "department": "PHYS",
     "firstName": "Lizvette",
     "lastName": "Villafa\u00f1a",
-    "numEvals": 6,
-    "overallRating": 3.33,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3.14,
+    "materialClear": 3.14,
+    "studentDifficulties": 3.14,
     "courses": [
       "ASTR 102",
       "PHYS 141"
@@ -28827,7 +28830,8 @@
       "Uploads Slides": 2,
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -30211,10 +30215,10 @@
     "department": "CHEM",
     "firstName": "Ashley",
     "lastName": "McDonald",
-    "numEvals": 43,
+    "numEvals": 44,
     "overallRating": 1.87,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.92,
+    "materialClear": 2.32,
+    "studentDifficulties": 1.94,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -30226,8 +30230,9 @@
       "CHEM 357"
     ],
     "tags": {
-      "No Breaks During Lecture": 1,
-      "Supplemental Study Material": 1
+      "No Breaks During Lecture": 2,
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -37377,10 +37382,10 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 193,
-    "overallRating": 3.44,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.27,
+    "numEvals": 194,
+    "overallRating": 3.42,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.25,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -38637,10 +38642,10 @@
     "department": "ME",
     "firstName": "Dwight",
     "lastName": "Harvey",
-    "numEvals": 4,
-    "overallRating": 2.75,
-    "materialClear": 2,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 1.6,
+    "studentDifficulties": 3.4,
     "courses": [
       "ME 129",
       "ME 264"
