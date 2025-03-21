@@ -6236,10 +6236,10 @@
     "department": "BUS",
     "firstName": "Daeun",
     "lastName": "Lee",
-    "numEvals": 5,
-    "overallRating": 3.2,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 2.67,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 321",
       "BUS 214"
@@ -39705,23 +39705,24 @@
     "department": "MATH",
     "firstName": "Bella",
     "lastName": "Padavana",
-    "numEvals": 13,
-    "overallRating": 3.3,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.38,
+    "numEvals": 14,
+    "overallRating": 3.35,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.42,
     "courses": [
       "MATH 118",
       "MATH 141",
       "MATH 161"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 4,
       "Flexible Attendance Policy": 3,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
