@@ -1599,10 +1599,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 19,
-    "overallRating": 2.69,
-    "materialClear": 3.39,
-    "studentDifficulties": 2.27,
+    "numEvals": 20,
+    "overallRating": 2.56,
+    "materialClear": 3.22,
+    "studentDifficulties": 2.16,
     "courses": [
       "MATH 143",
       "MATH 241",
@@ -11630,10 +11630,10 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 8,
-    "overallRating": 3.76,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.76,
+    "numEvals": 9,
+    "overallRating": 3.79,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.79,
     "courses": [
       "COMS 101"
     ],
@@ -23775,10 +23775,10 @@
     "department": "ART",
     "firstName": "Enrica",
     "lastName": "Lovaglio",
-    "numEvals": 16,
-    "overallRating": 1.79,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.51,
+    "numEvals": 17,
+    "overallRating": 1.92,
+    "materialClear": 1.86,
+    "studentDifficulties": 1.6,
     "courses": [
       "ART 181",
       "ART 182",
@@ -23789,7 +23789,8 @@
     "tags": {
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -24705,10 +24706,10 @@
     "department": "EE",
     "firstName": "Kun",
     "lastName": "Hua",
-    "numEvals": 5,
-    "overallRating": 2.4,
-    "materialClear": 2.2,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 2,
+    "materialClear": 1.83,
+    "studentDifficulties": 3.33,
     "courses": [
       "EE 215",
       "EE 228",
@@ -24716,7 +24717,7 @@
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Inflexible Attendance Policy": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 2
@@ -32231,9 +32232,9 @@
     "department": "CSC",
     "firstName": "Daniel",
     "lastName": "Frishberg",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
     "studentDifficulties": 4,
     "courses": [
       "CSC 248",
@@ -32243,9 +32244,11 @@
     "tags": {
       "Class Handouts": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Zoom Office Hours": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
