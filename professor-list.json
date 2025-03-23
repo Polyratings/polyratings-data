@@ -523,17 +523,19 @@
     "department": "BRAE",
     "firstName": "G.W.",
     "lastName": "Bates",
-    "numEvals": 15,
-    "overallRating": 2.76,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.64,
+    "numEvals": 16,
+    "overallRating": 2.78,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.6,
     "courses": [
       "BRAE 232",
       "BRAE 237",
       "BRAE 239",
       "BRAE 340"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "03a195d6-44a4-4e94-bee6-976383c3b825",
@@ -6814,10 +6816,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 85,
+    "numEvals": 86,
     "overallRating": 2.31,
-    "materialClear": 2.23,
-    "studentDifficulties": 2.24,
+    "materialClear": 2.24,
+    "studentDifficulties": 2.23,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -6838,10 +6840,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Class Handouts": 3,
-      "Inflexible Deadline Policy": 2,
-      "Recorded Lectures": 3,
+      "Inflexible Deadline Policy": 3,
+      "Recorded Lectures": 4,
       "Flexible Grading Policy": 1,
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 1
@@ -8643,7 +8645,7 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Retsek",
-    "numEvals": 131,
+    "numEvals": 132,
     "overallRating": 3.4,
     "materialClear": 3.44,
     "studentDifficulties": 3.38,
@@ -8660,7 +8662,7 @@
       "High In-Person Availability": 3,
       "Uploads Slides": 3,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Fast Response Time": 1
     }
   },
@@ -19192,19 +19194,20 @@
     "department": "CSC",
     "firstName": "Andrew",
     "lastName": "Migler",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.83,
     "courses": [
       "CSC 365",
       "CSC 357"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "High In-Person Availability": 1,
       "Uploads Slides": 2,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -23240,10 +23243,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 143,
-    "overallRating": 1.85,
-    "materialClear": 1.72,
-    "studentDifficulties": 1.81,
+    "numEvals": 144,
+    "overallRating": 1.84,
+    "materialClear": 1.71,
+    "studentDifficulties": 1.8,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -23266,10 +23269,11 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 3,
-      "Inflexible Deadline Policy": 1,
-      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 2,
+      "Does Not Use Canvas": 2,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -32453,16 +32457,18 @@
     "department": "BRAE",
     "firstName": "Sara",
     "lastName": "Kuwahara",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "BRAE 348",
-      "BRAE 150"
+      "BRAE 150",
+      "BRAE 220"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Uploads Slides": 1
     }
   },
   {
