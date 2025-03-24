@@ -3889,18 +3889,20 @@
     "department": "ME",
     "firstName": "Alan",
     "lastName": "Zhang",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ME 211",
-      "ME 328"
+      "ME 328",
+      "ME 129"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "High In-Person Availability": 2,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -5886,10 +5888,10 @@
     "department": "PHYS",
     "firstName": "Xiaofeng (Jack)",
     "lastName": "Wang",
-    "numEvals": 42,
-    "overallRating": 1.65,
-    "materialClear": 1.42,
-    "studentDifficulties": 1.76,
+    "numEvals": 43,
+    "overallRating": 1.68,
+    "materialClear": 1.46,
+    "studentDifficulties": 1.81,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -5899,12 +5901,13 @@
       "PHYS 141"
     ],
     "tags": {
-      "Uploads Slides": 4,
-      "Fast Response Time": 2,
+      "Uploads Slides": 5,
+      "Fast Response Time": 3,
       "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -13971,19 +13974,20 @@
     "department": "CE",
     "firstName": "Safwan",
     "lastName": "Al-Subaihawi",
-    "numEvals": 13,
-    "overallRating": 2.08,
-    "materialClear": 1.69,
-    "studentDifficulties": 2.08,
+    "numEvals": 14,
+    "overallRating": 2,
+    "materialClear": 1.64,
+    "studentDifficulties": 2.07,
     "courses": [
       "CE 204"
     ],
     "tags": {
       "Does Not Use Canvas": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 1,
       "Honor DRC Accommodations": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -17069,23 +17073,23 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 17,
-    "overallRating": 3.59,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.65,
+    "numEvals": 19,
+    "overallRating": 3.63,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.69,
     "courses": [
       "MATH 143",
       "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 13,
-      "Supplemental Study Material": 5,
+      "Uploads Slides": 14,
+      "Supplemental Study Material": 6,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 9,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 3,
-      "High In-Person Availability": 4,
-      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 6,
+      "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1,
       "Class Handouts": 2
     }
@@ -25776,10 +25780,10 @@
     "department": "MATE",
     "firstName": "Rob",
     "lastName": "Carter",
-    "numEvals": 41,
-    "overallRating": 3.54,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.4,
+    "numEvals": 42,
+    "overallRating": 3.55,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.41,
     "courses": [
       "MATE 110",
       "IME 140",
@@ -28440,17 +28444,17 @@
     "department": "ENGL",
     "firstName": "Zoie",
     "lastName": "Orth",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1
     }
   },
@@ -29879,7 +29883,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 131,
+    "numEvals": 132,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -29901,13 +29905,13 @@
       "MATH 550"
     ],
     "tags": {
-      "High In-Person Availability": 3,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 4,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 2,
       "Does Not Use Canvas": 1,
       "Flexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2
     }
   },
   {
@@ -36405,9 +36409,9 @@
     "department": "CHEM",
     "firstName": "Leanna",
     "lastName": "Schulte",
-    "numEvals": 12,
-    "overallRating": 3.74,
-    "materialClear": 3.84,
+    "numEvals": 13,
+    "overallRating": 3.76,
+    "materialClear": 3.85,
     "studentDifficulties": 4,
     "courses": [
       "CHEM 127",
@@ -36418,7 +36422,7 @@
     "tags": {
       "Supplemental Study Material": 4,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 3,
