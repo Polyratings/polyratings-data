@@ -5770,10 +5770,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 146,
-    "overallRating": 2.61,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.66,
+    "numEvals": 147,
+    "overallRating": 2.59,
+    "materialClear": 2.65,
+    "studentDifficulties": 2.64,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -7185,17 +7185,18 @@
     "department": "JOUR",
     "firstName": "Camillia",
     "lastName": "Lanham",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 4,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.4,
     "courses": [
       "JOUR 203"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Fast Response Time": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -9909,10 +9910,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 66,
-    "overallRating": 2.33,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.19,
+    "numEvals": 67,
+    "overallRating": 2.35,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.22,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -9921,7 +9922,8 @@
       "PHYS 141",
       "PHYS 211",
       "PHYS 341",
-      "PHYS 143"
+      "PHYS 143",
+      "PHYS 142"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -9929,11 +9931,12 @@
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 3,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -11640,10 +11643,10 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 9,
-    "overallRating": 3.79,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.79,
+    "numEvals": 10,
+    "overallRating": 3.81,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.81,
     "courses": [
       "COMS 101"
     ],
@@ -13988,10 +13991,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "materialClear": 3.25,
+    "studentDifficulties": 2.5,
     "courses": [
       "CSC 101"
     ],
@@ -15396,10 +15399,10 @@
     "department": "ECON",
     "firstName": "Matthew",
     "lastName": "Cole",
-    "numEvals": 21,
-    "overallRating": 2.48,
-    "materialClear": 2.48,
-    "studentDifficulties": 2.27,
+    "numEvals": 22,
+    "overallRating": 2.55,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.35,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -15408,10 +15411,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 2,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
@@ -17172,10 +17175,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 58,
-    "overallRating": 1.42,
+    "numEvals": 59,
+    "overallRating": 1.43,
     "materialClear": 1.75,
-    "studentDifficulties": 1.45,
+    "studentDifficulties": 1.44,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -39693,10 +39696,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 14,
-    "overallRating": 3.78,
+    "numEvals": 15,
+    "overallRating": 3.79,
     "materialClear": 3.93,
-    "studentDifficulties": 3.78,
+    "studentDifficulties": 3.79,
     "courses": [
       "PHYS 143",
       "PHYS 123",
@@ -39706,13 +39709,14 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 3,
       "High In-Person Availability": 6,
       "Fast Response Time": 6,
-      "Flexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Flexible Grading Policy": 2,
+      "Zoom Office Hours": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -40338,19 +40342,24 @@
     "department": "ASCI",
     "firstName": "Marc",
     "lastName": "Horney",
-    "numEvals": 21,
-    "overallRating": 2.87,
-    "materialClear": 2.91,
-    "studentDifficulties": 2.96,
+    "numEvals": 22,
+    "overallRating": 2.88,
+    "materialClear": 2.87,
+    "studentDifficulties": 3.01,
     "courses": [
       "ASCI 112",
       "ASCI 220",
       "ASCI 221",
       "ASCI 328",
       "ASCI 329",
-      "ASCI 363"
+      "ASCI 363",
+      "ASCI 239"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "fdb94731-1fe1-4d19-9804-e9e3c0a7986f",
