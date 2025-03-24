@@ -10450,10 +10450,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 32,
-    "overallRating": 3.8,
+    "numEvals": 33,
+    "overallRating": 3.78,
     "materialClear": 3.85,
-    "studentDifficulties": 3.84,
+    "studentDifficulties": 3.81,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -10467,7 +10467,8 @@
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -11646,24 +11647,25 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 10,
-    "overallRating": 3.81,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.81,
+    "numEvals": 11,
+    "overallRating": 3.83,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.83,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Zoom Office Hours": 3,
       "Inflexible Attendance Policy": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 2,
       "No Breaks During Lecture": 3,
       "High In-Person Availability": 1,
       "Class Handouts": 2,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -26954,30 +26956,30 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 24,
-    "overallRating": 0.91,
-    "materialClear": 0.25,
-    "studentDifficulties": 1.34,
+    "numEvals": 25,
+    "overallRating": 1.03,
+    "materialClear": 0.4,
+    "studentDifficulties": 1.45,
     "courses": [
       "CSC 225",
       "CPE 225",
       "CPE 316"
     ],
     "tags": {
-      "Recorded Lectures": 11,
+      "Recorded Lectures": 12,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 13,
       "Zoom Office Hours": 3,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 12,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Attendance Policy": 1,
       "Hybrid Option": 1,
       "Pop Quizzes": 2,
       "Inflexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1
     }
@@ -30462,10 +30464,10 @@
     "department": "CSC",
     "firstName": "Hasmik",
     "lastName": "Gharibyan",
-    "numEvals": 139,
-    "overallRating": 1.48,
-    "materialClear": 1.61,
-    "studentDifficulties": 1.39,
+    "numEvals": 140,
+    "overallRating": 1.49,
+    "materialClear": 1.63,
+    "studentDifficulties": 1.4,
     "courses": [
       "CPE 102",
       "CSC 102",
