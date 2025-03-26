@@ -1327,10 +1327,10 @@
     "department": "MATH",
     "firstName": "Skip",
     "lastName": "Moses",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 2.67,
+    "materialClear": 2.83,
+    "studentDifficulties": 2.5,
     "courses": [
       "MATH 118"
     ],
@@ -1341,7 +1341,7 @@
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 1,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -5994,10 +5994,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 50,
-    "overallRating": 0.78,
+    "numEvals": 51,
+    "overallRating": 0.76,
     "materialClear": 0.96,
-    "studentDifficulties": 1.25,
+    "studentDifficulties": 1.28,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -6007,14 +6007,15 @@
     "tags": {
       "Uploads Slides": 3,
       "Flexible Attendance Policy": 6,
-      "No Breaks During Lecture": 13,
-      "Fast Response Time": 1,
+      "No Breaks During Lecture": 14,
+      "Fast Response Time": 2,
       "High In-Person Availability": 1,
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 14,
-      "Inflexible Deadline Policy": 12
+      "Inflexible Deadline Policy": 12,
+      "Supplemental Study Material": 1
     }
   },
   {
