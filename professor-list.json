@@ -1604,21 +1604,21 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 21,
-    "overallRating": 2.49,
-    "materialClear": 3.26,
-    "studentDifficulties": 2.1,
+    "numEvals": 22,
+    "overallRating": 2.38,
+    "materialClear": 3.11,
+    "studentDifficulties": 2,
     "courses": [
       "MATH 143",
       "MATH 241",
       "MATH 244"
     ],
     "tags": {
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Supplemental Study Material": 8,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "High In-Person Availability": 5,
-      "Uploads Slides": 15,
+      "Uploads Slides": 16,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 5,
@@ -5628,10 +5628,10 @@
     "department": "ITP",
     "firstName": "Manocher",
     "lastName": "Djassemi",
-    "numEvals": 28,
-    "overallRating": 2.21,
-    "materialClear": 2.31,
-    "studentDifficulties": 2.16,
+    "numEvals": 29,
+    "overallRating": 2.24,
+    "materialClear": 2.3,
+    "studentDifficulties": 2.22,
     "courses": [
       "IT 260",
       "IT 326",
@@ -5642,7 +5642,8 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -10189,10 +10190,10 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 274,
+    "numEvals": 275,
     "overallRating": 2.38,
     "materialClear": 2.1,
-    "studentDifficulties": 2.56,
+    "studentDifficulties": 2.57,
     "courses": [
       "ECON 111",
       "ECON 201",
@@ -10208,14 +10209,14 @@
     "tags": {
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 5,
-      "Flexible Attendance Policy": 4,
+      "Uploads Slides": 6,
+      "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
@@ -14159,10 +14160,10 @@
     "department": "ENGL",
     "firstName": "Brad",
     "lastName": "Campbell",
-    "numEvals": 49,
+    "numEvals": 50,
     "overallRating": 3.76,
     "materialClear": 3.78,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.68,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -14176,8 +14177,10 @@
       "ENGL 202"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 2,
+      "Uploads Slides": 1,
+      "Pop Quizzes": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -17634,10 +17637,10 @@
     "department": "ART",
     "firstName": "Giancarlo",
     "lastName": "Fiorenza",
-    "numEvals": 19,
-    "overallRating": 3.79,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.5,
+    "numEvals": 20,
+    "overallRating": 3.75,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.48,
     "courses": [
       "ART 111",
       "ART 212",
@@ -20472,10 +20475,10 @@
     "department": "EE",
     "firstName": "Xiao-Hua",
     "lastName": "Yu",
-    "numEvals": 33,
-    "overallRating": 2.24,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.03,
+    "numEvals": 34,
+    "overallRating": 2.29,
+    "materialClear": 2.27,
+    "studentDifficulties": 2.09,
     "courses": [
       "EE 112",
       "EE 151",
@@ -20493,9 +20496,11 @@
       "EE 570"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -21159,7 +21164,7 @@
     "department": "EE",
     "firstName": "Gary",
     "lastName": "Perks",
-    "numEvals": 215,
+    "numEvals": 216,
     "overallRating": 3.55,
     "materialClear": 3.65,
     "studentDifficulties": 3.47,
@@ -33832,8 +33837,8 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 5,
-    "overallRating": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -33841,11 +33846,11 @@
       "EE 306"
     ],
     "tags": {
-      "Recorded Lectures": 4,
+      "Recorded Lectures": 5,
       "High In-Person Availability": 1,
       "Uploads Slides": 1,
-      "Hybrid Option": 2,
-      "Fast Response Time": 1,
+      "Hybrid Option": 3,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1
     }
   },
