@@ -7275,10 +7275,10 @@
     "department": "LS",
     "firstName": "Carol",
     "lastName": "Littlefield-Halfman",
-    "numEvals": 9,
-    "overallRating": 2.72,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.71,
+    "numEvals": 10,
+    "overallRating": 2.85,
+    "materialClear": 2.85,
+    "studentDifficulties": 2.84,
     "courses": [
       "LS 230",
       "LS 250"
@@ -10714,10 +10714,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 25,
-    "overallRating": 1.81,
-    "materialClear": 1.71,
-    "studentDifficulties": 2.11,
+    "numEvals": 26,
+    "overallRating": 1.86,
+    "materialClear": 1.72,
+    "studentDifficulties": 2.14,
     "courses": [
       "PHYS 141",
       "PHYS 142"
@@ -12539,17 +12539,19 @@
     "department": "LS",
     "firstName": "Amanda",
     "lastName": "Frye",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 3,
     "courses": [
-      "LS"
+      "LS 214"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -13339,10 +13341,10 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 56,
-    "overallRating": 2.36,
-    "materialClear": 2.36,
-    "studentDifficulties": 2.3,
+    "numEvals": 57,
+    "overallRating": 2.39,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.29,
     "courses": [
       "CSC 141",
       "CSC 231",
@@ -13355,9 +13357,10 @@
     "tags": {
       "Recorded Lectures": 4,
       "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 4,
+      "Does Not Use Canvas": 5,
       "Fast Response Time": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
