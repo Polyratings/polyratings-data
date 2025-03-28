@@ -5996,10 +5996,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 52,
-    "overallRating": 0.75,
-    "materialClear": 0.94,
-    "studentDifficulties": 1.31,
+    "numEvals": 53,
+    "overallRating": 0.74,
+    "materialClear": 0.92,
+    "studentDifficulties": 1.36,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -7112,20 +7112,21 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 11,
-    "overallRating": 3.9,
-    "materialClear": 3.9,
-    "studentDifficulties": 3.9,
+    "numEvals": 12,
+    "overallRating": 3.83,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.91,
     "courses": [
       "MATH 142",
       "MATH 206",
       "MATH 202",
-      "MATH 248"
+      "MATH 248",
+      "MATH 143"
     ],
     "tags": {
       "High In-Person Availability": 5,
       "Fast Response Time": 5,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Flexible Attendance Policy": 4,
       "Class Handouts": 2,
       "Flexible Grading Policy": 1
@@ -13898,9 +13899,9 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 94,
-    "overallRating": 2.13,
-    "materialClear": 2.07,
+    "numEvals": 95,
+    "overallRating": 2.14,
+    "materialClear": 2.09,
     "studentDifficulties": 2.32,
     "courses": [
       "COMS 101",
@@ -13914,12 +13915,13 @@
       "SPC 202"
     ],
     "tags": {
-      "Inflexible Grading Policy": 4,
+      "Inflexible Grading Policy": 5,
       "Uploads Slides": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -17012,9 +17014,9 @@
     "department": "COMS",
     "firstName": "Erica",
     "lastName": "Stewart",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 3.8,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101"
@@ -17022,7 +17024,9 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 4,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -17321,9 +17325,9 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 139,
-    "overallRating": 1.8,
-    "materialClear": 1.96,
+    "numEvals": 140,
+    "overallRating": 1.81,
+    "materialClear": 1.95,
     "studentDifficulties": 1.65,
     "courses": [
       "CE 204",
@@ -17665,17 +17669,18 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 2,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
-      "EE 212"
+      "EE 212",
+      "EE 242"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Fast Response Time": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Zoom Office Hours": 1
     }
   },
@@ -23066,7 +23071,7 @@
     "department": "CHEM",
     "firstName": "Ruoxi",
     "lastName": "Wang",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -23074,12 +23079,13 @@
       "CHEM 124"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Class Handouts": 1,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 1,
-      "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1
+      "Fast Response Time": 2,
+      "Inflexible Grading Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -23300,10 +23306,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 144,
-    "overallRating": 1.84,
+    "numEvals": 145,
+    "overallRating": 1.83,
     "materialClear": 1.71,
-    "studentDifficulties": 1.8,
+    "studentDifficulties": 1.79,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -23326,8 +23332,8 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 3,
-      "Inflexible Deadline Policy": 2,
-      "Does Not Use Canvas": 2,
+      "Inflexible Deadline Policy": 3,
+      "Does Not Use Canvas": 3,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 1
@@ -23574,10 +23580,10 @@
     "department": "PHIL",
     "firstName": "Richard",
     "lastName": "Graziano",
-    "numEvals": 69,
-    "overallRating": 2.55,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.44,
+    "numEvals": 70,
+    "overallRating": 2.56,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.45,
     "courses": [
       "PHIL 132",
       "PHIL 230",
@@ -37009,10 +37015,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 46,
-    "overallRating": 2.65,
-    "materialClear": 2.73,
-    "studentDifficulties": 2.86,
+    "numEvals": 47,
+    "overallRating": 2.64,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.88,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -37023,7 +37029,7 @@
     ],
     "tags": {
       "High In-Person Availability": 4,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "No Breaks During Lecture": 4,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 2,
@@ -37465,9 +37471,9 @@
     "department": "MATE",
     "firstName": "Aniruddha",
     "lastName": "Dive",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.25,
     "studentDifficulties": 4,
     "courses": [
       "MATE 401",
@@ -40417,10 +40423,10 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 18,
-    "overallRating": 2.78,
-    "materialClear": 2.62,
-    "studentDifficulties": 3.11,
+    "numEvals": 19,
+    "overallRating": 2.63,
+    "materialClear": 2.59,
+    "studentDifficulties": 3.05,
     "courses": [
       "STAT 218",
       "STAT 251"
@@ -40429,12 +40435,12 @@
       "Class Handouts": 1,
       "Zoom Office Hours": 5,
       "Inflexible Deadline Policy": 4,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
       "Fast Response Time": 4,
       "High In-Person Availability": 3,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Flexible Deadline Policy": 2
     }
   },
