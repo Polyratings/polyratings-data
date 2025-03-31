@@ -15743,16 +15743,17 @@
     "department": "CE",
     "firstName": "Navid",
     "lastName": "Changizi",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2,
+    "studentDifficulties": 3,
     "courses": [
-      "CE 207"
+      "CE 207",
+      "CE 204"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -27465,10 +27466,10 @@
     "department": "MATE",
     "firstName": "Jean",
     "lastName": "Lee",
-    "numEvals": 50,
-    "overallRating": 1.32,
-    "materialClear": 1.59,
-    "studentDifficulties": 1.48,
+    "numEvals": 51,
+    "overallRating": 1.29,
+    "materialClear": 1.56,
+    "studentDifficulties": 1.45,
     "courses": [
       "ENGR 110",
       "MATE 210",
@@ -27478,10 +27479,12 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 4,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Fast Response Time": 2,
       "No Breaks During Lecture": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
