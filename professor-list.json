@@ -609,16 +609,17 @@
     "department": "BRAE",
     "firstName": "Daniel",
     "lastName": "Namyst",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "BRAE 239"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -2808,7 +2809,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 187,
+    "numEvals": 188,
     "overallRating": 3.54,
     "materialClear": 3.62,
     "studentDifficulties": 3.35,
@@ -9222,10 +9223,10 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 11,
-    "overallRating": 2.27,
-    "materialClear": 1.55,
-    "studentDifficulties": 2.82,
+    "numEvals": 12,
+    "overallRating": 2.33,
+    "materialClear": 1.59,
+    "studentDifficulties": 2.92,
     "courses": [
       "CHEM 129",
       "CHEM 128",
@@ -17947,10 +17948,10 @@
     "department": "EE",
     "firstName": "Jenna",
     "lastName": "Kloosterman",
-    "numEvals": 4,
-    "overallRating": 1.5,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.5,
+    "numEvals": 5,
+    "overallRating": 1.2,
+    "materialClear": 1,
+    "studentDifficulties": 1.2,
     "courses": [
       "EE 242",
       "EE 201"
@@ -20328,10 +20329,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 9,
-    "overallRating": 1.78,
-    "materialClear": 1.77,
-    "studentDifficulties": 2.22,
+    "numEvals": 10,
+    "overallRating": 1.6,
+    "materialClear": 1.59,
+    "studentDifficulties": 2,
     "courses": [
       "ES 255",
       "ES 112"
@@ -20340,10 +20341,10 @@
       "Recorded Lectures": 2,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2,
-      "Pop Quizzes": 2,
+      "Inflexible Grading Policy": 3,
+      "Pop Quizzes": 3,
       "Fast Response Time": 2,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 1
@@ -24762,10 +24763,10 @@
     "department": "POLS",
     "firstName": "Annie",
     "lastName": "Frew",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 2.99,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.88,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.89,
     "courses": [
       "POLS 112",
       "POLS 111"
@@ -24776,7 +24777,8 @@
       "Fast Response Time": 3,
       "Uploads Slides": 2,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Hybrid Option": 1
     }
   },
   {
@@ -27055,10 +27057,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 24,
-    "overallRating": 0.91,
-    "materialClear": 0.25,
-    "studentDifficulties": 1.34,
+    "numEvals": 25,
+    "overallRating": 1.03,
+    "materialClear": 0.4,
+    "studentDifficulties": 1.45,
     "courses": [
       "CSC 225",
       "CPE 225",
@@ -27069,10 +27071,10 @@
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 13,
       "Zoom Office Hours": 3,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Does Not Use Canvas": 12,
-      "Flexible Grading Policy": 1,
-      "Fast Response Time": 3,
+      "Flexible Grading Policy": 2,
+      "Fast Response Time": 4,
       "Inflexible Attendance Policy": 1,
       "Hybrid Option": 1,
       "Pop Quizzes": 2,
@@ -34581,10 +34583,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 73,
-    "overallRating": 3.36,
-    "materialClear": 3.09,
-    "studentDifficulties": 3.38,
+    "numEvals": 74,
+    "overallRating": 3.37,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.39,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -34596,11 +34598,11 @@
       "MATH 182"
     ],
     "tags": {
-      "Class Handouts": 9,
+      "Class Handouts": 10,
       "Supplemental Study Material": 3,
       "Flexible Grading Policy": 3,
       "Recorded Lectures": 5,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
@@ -39241,9 +39243,9 @@
     "department": "AGB",
     "firstName": "Stacey",
     "lastName": "White",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "AGB 214"
@@ -39251,8 +39253,10 @@
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 1
+      "Flexible Attendance Policy": 3,
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -40483,22 +40487,22 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 19,
-    "overallRating": 2.58,
-    "materialClear": 2.54,
-    "studentDifficulties": 2.95,
+    "numEvals": 20,
+    "overallRating": 2.55,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.9,
     "courses": [
       "STAT 218",
       "STAT 251"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Zoom Office Hours": 5,
+      "Zoom Office Hours": 6,
       "Inflexible Deadline Policy": 4,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "High In-Person Availability": 3,
       "Inflexible Attendance Policy": 4,
       "Flexible Deadline Policy": 2
