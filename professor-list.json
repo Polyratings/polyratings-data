@@ -31281,10 +31281,10 @@
     "department": "CHEM",
     "firstName": "Severus",
     "lastName": "Snape",
-    "numEvals": 11,
-    "materialClear": 3.14,
-    "studentDifficulties": 2.57,
-    "overallRating": 3.07,
+    "numEvals": 12,
+    "overallRating": 3.15,
+    "materialClear": 3.21,
+    "studentDifficulties": 2.52,
     "courses": [
       "CHEM 101",
       "CHEM 110",
@@ -31296,7 +31296,12 @@
       "CHEM 211",
       "CHEM 242",
       "CHEM 394"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "c4e82ec3-518b-4ad1-9c3b-0ab3a94aa1e6",
