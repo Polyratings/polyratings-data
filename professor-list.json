@@ -1207,10 +1207,10 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 9,
-    "overallRating": 1.22,
-    "materialClear": 1.67,
-    "studentDifficulties": 2.01,
+    "numEvals": 10,
+    "overallRating": 1.1,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.91,
     "courses": [
       "PHYS 141"
     ],
@@ -33737,10 +33737,10 @@
     "department": "PHIL",
     "firstName": "Devin",
     "lastName": "Kuhn",
-    "numEvals": 32,
-    "materialClear": 2.52,
-    "studentDifficulties": 2.24,
-    "overallRating": 2.36,
+    "numEvals": 33,
+    "overallRating": 2.41,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.29,
     "courses": [
       "RELS 201",
       "WS 301",
@@ -33750,7 +33750,12 @@
       "WS 370",
       "RELS 374",
       "RELS 378"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "d568a6e6-88fd-4fb2-b161-8300cfdf2b58",
@@ -35596,14 +35601,15 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 18,
-    "overallRating": 3.89,
+    "numEvals": 19,
+    "overallRating": 3.9,
     "materialClear": 4,
-    "studentDifficulties": 3.9,
+    "studentDifficulties": 3.91,
     "courses": [
       "MATH 141",
       "MATH 118",
-      "MATH 142"
+      "MATH 142",
+      "MATH 182"
     ],
     "tags": {
       "High In-Person Availability": 6,
@@ -40156,10 +40162,10 @@
     "department": "PHYS",
     "firstName": "Colleen",
     "lastName": "Marlow",
-    "numEvals": 49,
-    "overallRating": 1.59,
-    "materialClear": 1.74,
-    "studentDifficulties": 1.6,
+    "numEvals": 50,
+    "overallRating": 1.6,
+    "materialClear": 1.73,
+    "studentDifficulties": 1.59,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -40169,9 +40175,9 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 1
@@ -40285,13 +40291,14 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 37,
-    "overallRating": 0.87,
-    "materialClear": 1.26,
-    "studentDifficulties": 0.92,
+    "numEvals": 38,
+    "overallRating": 0.85,
+    "materialClear": 1.23,
+    "studentDifficulties": 0.9,
     "courses": [
       "MATH 141",
-      "MATH 118"
+      "MATH 118",
+      "AEPS 221"
     ],
     "tags": {
       "High In-Person Availability": 2,
