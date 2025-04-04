@@ -3075,10 +3075,10 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 24,
-    "overallRating": 3.62,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.48,
+    "numEvals": 25,
+    "overallRating": 3.64,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 142",
       "MATH 141",
@@ -3088,9 +3088,9 @@
     "tags": {
       "Flexible Attendance Policy": 4,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Inflexible Grading Policy": 2,
       "Flexible Deadline Policy": 1
     }
@@ -5138,7 +5138,7 @@
     "department": "BIO",
     "firstName": "Michael",
     "lastName": "Jones",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5148,7 +5148,7 @@
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
@@ -5801,10 +5801,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 150,
-    "overallRating": 2.53,
+    "numEvals": 151,
+    "overallRating": 2.51,
     "materialClear": 2.6,
-    "studentDifficulties": 2.62,
+    "studentDifficulties": 2.6,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -5812,7 +5812,7 @@
     "tags": {
       "Flexible Attendance Policy": 3,
       "Pop Quizzes": 7,
-      "Inflexible Grading Policy": 7,
+      "Inflexible Grading Policy": 8,
       "Zoom Office Hours": 2,
       "Fast Response Time": 6,
       "Recorded Lectures": 2,
@@ -12409,15 +12409,16 @@
     "department": "BUS",
     "firstName": "Bruce",
     "lastName": "Greenbaum",
-    "numEvals": 7,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.38,
-    "overallRating": 3.38,
+    "numEvals": 8,
+    "overallRating": 3.33,
+    "materialClear": 3.46,
+    "studentDifficulties": 2.96,
     "courses": [
       "REC 317",
       "BUS 401",
       "GSB 562"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "4cec9e1b-c3fc-4221-91a4-b4405a49b1fc",
@@ -27397,10 +27398,10 @@
     "department": "SS",
     "firstName": "Rebecca",
     "lastName": "Graham",
-    "numEvals": 9,
-    "overallRating": 3.23,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.23,
+    "numEvals": 10,
+    "overallRating": 3.01,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.01,
     "courses": [
       "SS 120",
       "SS 220"
@@ -30473,10 +30474,10 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 106,
-    "overallRating": 1.56,
+    "numEvals": 107,
+    "overallRating": 1.57,
     "materialClear": 1.48,
-    "studentDifficulties": 1.67,
+    "studentDifficulties": 1.68,
     "courses": [
       "CHEM 110",
       "CHEM 124",
@@ -30487,12 +30488,14 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 2,
       "Class Handouts": 1,
       "Does Not Use Canvas": 3,
-      "Honor DRC Accommodations": 2
+      "Honor DRC Accommodations": 2,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
