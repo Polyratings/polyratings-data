@@ -10596,10 +10596,10 @@
     "department": "ME",
     "firstName": "Andrew",
     "lastName": "Davol",
-    "numEvals": 36,
-    "overallRating": 3.59,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.47,
+    "numEvals": 37,
+    "overallRating": 3.6,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.48,
     "courses": [
       "ME 134",
       "ME 151",
@@ -10614,8 +10614,9 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "High In-Person Availability": 2,
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -16064,10 +16065,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 25,
-    "overallRating": 3.24,
-    "materialClear": 3.04,
-    "studentDifficulties": 3.4,
+    "numEvals": 26,
+    "overallRating": 3.27,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.42,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -16079,10 +16080,11 @@
       "Zoom Office Hours": 8,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 12,
-      "Supplemental Study Material": 7,
-      "Fast Response Time": 3,
+      "Supplemental Study Material": 8,
+      "Fast Response Time": 4,
       "Flexible Attendance Policy": 10,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
