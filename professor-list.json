@@ -1367,6 +1367,23 @@
     ]
   },
   {
+    "id": "08265f14-1b79-41c6-864e-d2b6d2db1853",
+    "department": "MU",
+    "firstName": "James",
+    "lastName": "Bachman",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "MU"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
+    }
+  },
+  {
     "id": "0831097b-651e-4ea2-842b-0a15b9ae12ea",
     "department": "KINE",
     "firstName": "Christine",
@@ -6010,10 +6027,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 55,
-    "overallRating": 0.78,
+    "numEvals": 54,
+    "overallRating": 0.76,
     "materialClear": 0.92,
-    "studentDifficulties": 1.34,
+    "studentDifficulties": 1.35,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -11875,10 +11892,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 12,
-    "overallRating": 2.08,
-    "materialClear": 2.08,
-    "studentDifficulties": 1.99,
+    "numEvals": 10,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.39,
     "courses": [
       "STAT 313",
       "STAT 331",
@@ -14793,14 +14810,17 @@
     "department": "BUS",
     "firstName": "Jack",
     "lastName": "Wroldsen",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3,
     "courses": [
-      "BUS"
+      "BUS 404"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5bbc7200-9a5f-449b-99eb-578674732ade",
@@ -17183,22 +17203,22 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 20,
-    "overallRating": 3.65,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.71,
+    "numEvals": 21,
+    "overallRating": 3.67,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.72,
     "courses": [
       "MATH 143",
       "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 15,
+      "Uploads Slides": 16,
       "Supplemental Study Material": 6,
       "No Breaks During Lecture": 1,
-      "Fast Response Time": 9,
+      "Fast Response Time": 10,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 4,
-      "High In-Person Availability": 7,
+      "High In-Person Availability": 8,
       "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1,
       "Class Handouts": 2
@@ -30030,9 +30050,9 @@
     "department": "ITP",
     "firstName": "Eric",
     "lastName": "Olsen",
-    "numEvals": 28,
-    "overallRating": 1.77,
-    "materialClear": 1.6,
+    "numEvals": 29,
+    "overallRating": 1.78,
+    "materialClear": 1.61,
     "studentDifficulties": 1.87,
     "courses": [
       "IT 303",
@@ -30041,8 +30061,12 @@
       "IT 410",
       "IT 428",
       "IT 520",
-      "GSB 534"
-    ]
+      "GSB 534",
+      "ITP 303"
+    ],
+    "tags": {
+      "Hybrid Option": 1
+    }
   },
   {
     "id": "bc30dcb4-fc5a-43f4-8d72-5dd56421611c",
