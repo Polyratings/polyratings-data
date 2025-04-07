@@ -2847,7 +2847,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 188,
+    "numEvals": 191,
     "overallRating": 3.54,
     "materialClear": 3.62,
     "studentDifficulties": 3.35,
@@ -2862,7 +2862,7 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Uploads Slides": 2,
       "Fast Response Time": 1
     }
@@ -6973,10 +6973,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 86,
-    "overallRating": 2.31,
-    "materialClear": 2.24,
-    "studentDifficulties": 2.23,
+    "numEvals": 87,
+    "overallRating": 2.32,
+    "materialClear": 2.23,
+    "studentDifficulties": 2.24,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -6998,11 +6998,11 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 3,
-      "Class Handouts": 3,
-      "Inflexible Deadline Policy": 3,
+      "Class Handouts": 4,
+      "Inflexible Deadline Policy": 4,
       "Recorded Lectures": 4,
       "Flexible Grading Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Does Not Use Canvas": 1
     }
   },
@@ -13553,10 +13553,10 @@
     "department": "ARCE",
     "firstName": "Dhalia",
     "lastName": "Hafez",
-    "numEvals": 9,
-    "overallRating": 3.5,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.28,
+    "numEvals": 10,
+    "overallRating": 3.35,
+    "materialClear": 2.96,
+    "studentDifficulties": 3.25,
     "courses": [
       "ARCE 211",
       "ARCE 212",
@@ -13565,7 +13565,7 @@
     "tags": {
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -30846,10 +30846,10 @@
     "department": "AERO",
     "firstName": "Jon",
     "lastName": "Tarantino",
-    "numEvals": 29,
-    "overallRating": 3.24,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.17,
+    "numEvals": 30,
+    "overallRating": 3.27,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.2,
     "courses": [
       "AERO 121",
       "ARCE 211",
@@ -30865,10 +30865,11 @@
     "tags": {
       "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1,
-      "High In-Person Availability": 1,
+      "Uploads Slides": 2,
+      "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Recorded Lectures": 1
     }
   },
   {
