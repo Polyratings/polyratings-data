@@ -4143,9 +4143,9 @@
     "department": "MATH",
     "firstName": "Morgan",
     "lastName": "Sherman",
-    "numEvals": 65,
-    "overallRating": 3.34,
-    "materialClear": 3.22,
+    "numEvals": 66,
+    "overallRating": 3.33,
+    "materialClear": 3.23,
     "studentDifficulties": 3.3,
     "courses": [
       "MATH 141",
@@ -4165,7 +4165,8 @@
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 2,
       "High In-Person Availability": 1,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -9699,14 +9700,15 @@
     "department": "JOUR",
     "firstName": "Katya",
     "lastName": "Cengel",
-    "numEvals": 7,
-    "overallRating": 2.52,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.62,
+    "numEvals": 8,
+    "overallRating": 2.46,
+    "materialClear": 2.36,
+    "studentDifficulties": 2.54,
     "courses": [
       "JOUR 203",
       "JOUR 219",
-      "JOUR 401"
+      "JOUR 401",
+      "JOUR 407"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -10706,12 +10708,12 @@
     "department": "BUS",
     "firstName": "Bingyi (Nicole)",
     "lastName": "Wu",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3,
     "courses": [
-      "BUS"
+      "BUS 391"
     ],
     "tags": {
       "Uploads Slides": 1
@@ -11782,10 +11784,10 @@
     "department": "PSY",
     "firstName": "Gary",
     "lastName": "Laver",
-    "numEvals": 47,
-    "overallRating": 2.59,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.45,
+    "numEvals": 48,
+    "overallRating": 2.62,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.46,
     "courses": [
       "PSY 201",
       "PSY 202",
@@ -11800,7 +11802,8 @@
       "Supplemental Study Material": 1,
       "Uploads Slides": 1,
       "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -19959,7 +19962,7 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 66,
+    "numEvals": 67,
     "overallRating": 2.05,
     "materialClear": 1.94,
     "studentDifficulties": 2.09,
@@ -25284,17 +25287,20 @@
     "department": "PSY",
     "firstName": "Jay",
     "lastName": "Bettergarcia",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PSY"
+      "PSY 102"
     ],
     "tags": {
       "Hybrid Option": 1,
       "Inflexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -27812,10 +27818,10 @@
     "department": "CPE",
     "firstName": "Peter",
     "lastName": "Han",
-    "numEvals": 25,
-    "overallRating": 1.03,
-    "materialClear": 0.4,
-    "studentDifficulties": 1.45,
+    "numEvals": 26,
+    "overallRating": 0.99,
+    "materialClear": 0.38,
+    "studentDifficulties": 1.47,
     "courses": [
       "CSC 225",
       "CPE 225",
@@ -27835,9 +27841,9 @@
       "Pop Quizzes": 2,
       "Inflexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2
     }
   },
   {
@@ -28721,7 +28727,7 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -29034,10 +29040,10 @@
     "department": "MATH",
     "firstName": "McFeely",
     "lastName": "Goodman",
-    "numEvals": 10,
-    "overallRating": 3.7,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.6,
+    "numEvals": 11,
+    "overallRating": 3.73,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.64,
     "courses": [
       "MATH 241",
       "MATH 143"
@@ -32227,10 +32233,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 54,
-    "overallRating": 3.36,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.36,
+    "numEvals": 56,
+    "overallRating": 3.3,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.31,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -32241,15 +32247,15 @@
       "PSY 520"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Attendance Policy": 6,
+      "Inflexible Deadline Policy": 4,
       "Does Not Use Canvas": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 4
     }
   },
   {
@@ -36342,8 +36348,8 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 19,
-    "overallRating": 3.9,
+    "numEvals": 20,
+    "overallRating": 3.91,
     "materialClear": 4,
     "studentDifficulties": 3.91,
     "courses": [
@@ -36488,8 +36494,8 @@
     "department": "PSY",
     "firstName": "Tom",
     "lastName": "Steffora",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.33,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -36497,7 +36503,9 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -40985,7 +40993,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 221,
+    "numEvals": 222,
     "overallRating": 3.39,
     "materialClear": 3.41,
     "studentDifficulties": 3.3,
