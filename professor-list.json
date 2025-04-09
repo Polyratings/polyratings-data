@@ -4302,10 +4302,10 @@
     "department": "BIO",
     "firstName": "Haley",
     "lastName": "Moniz",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.88,
     "courses": [
       "BIO 111",
       "BIO 150"
@@ -23988,10 +23988,10 @@
     "department": "BIO",
     "firstName": "Marcy",
     "lastName": "Mullen",
-    "numEvals": 7,
-    "overallRating": 2.79,
-    "materialClear": 3.28,
-    "studentDifficulties": 3,
+    "numEvals": 8,
+    "overallRating": 2.44,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.63,
     "courses": [
       "BIO 231",
       "HLTH 255"
@@ -24001,7 +24001,9 @@
       "Fast Response Time": 6,
       "Class Handouts": 4,
       "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -27383,10 +27385,10 @@
     "department": "ES",
     "firstName": "Patricia",
     "lastName": "Sanchez",
-    "numEvals": 3,
-    "overallRating": 2,
-    "materialClear": 2.33,
-    "studentDifficulties": 1.67,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.25,
     "courses": [
       "ES 255",
       "WLC 255"
@@ -27394,9 +27396,9 @@
     "tags": {
       "Inflexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 1,
-      "Pop Quizzes": 3,
-      "Hybrid Option": 1,
-      "Uploads Slides": 1,
+      "Pop Quizzes": 4,
+      "Hybrid Option": 2,
+      "Uploads Slides": 2,
       "Inflexible Grading Policy": 1
     }
   },
@@ -39325,7 +39327,7 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -39339,7 +39341,8 @@
       "Supplemental Study Material": 1,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
