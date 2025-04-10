@@ -6493,17 +6493,17 @@
     "department": "BUS",
     "firstName": "Kenneth",
     "lastName": "Walsh",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 2.8,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 2.33,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 391",
       "BUS 498"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
-      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 5,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1,
       "High In-Person Availability": 1
     }
@@ -6899,10 +6899,10 @@
     "department": "ENGL",
     "firstName": "Brian",
     "lastName": "Bates",
-    "numEvals": 37,
-    "overallRating": 3.44,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.42,
+    "numEvals": 38,
+    "overallRating": 3.4,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.44,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -7675,20 +7675,21 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 15,
-    "overallRating": 2.54,
-    "materialClear": 2.53,
-    "studentDifficulties": 3.13,
+    "numEvals": 19,
+    "overallRating": 2.84,
+    "materialClear": 2.83,
+    "studentDifficulties": 3.15,
     "courses": [
       "EE 255",
       "EE 228",
       "EE 113",
       "EE 314",
       "EE 201",
-      "EE 145"
+      "EE 145",
+      "EE 407"
     ],
     "tags": {
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
