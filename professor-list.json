@@ -20073,10 +20073,10 @@
     "department": "CHEM",
     "firstName": "Javin",
     "lastName": "Oza",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 1.5,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 0.75,
+    "materialClear": 0.75,
+    "studentDifficulties": 2,
     "courses": [
       "CHEM 124",
       "CHEM 127"
@@ -20087,7 +20087,9 @@
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 2,
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -23994,10 +23996,10 @@
     "department": "BIO",
     "firstName": "Marcy",
     "lastName": "Mullen",
-    "numEvals": 8,
-    "overallRating": 2.44,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.63,
+    "numEvals": 16,
+    "overallRating": 1.22,
+    "materialClear": 1.43,
+    "studentDifficulties": 1.31,
     "courses": [
       "BIO 231",
       "HLTH 255"
