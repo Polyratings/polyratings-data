@@ -6493,13 +6493,14 @@
     "department": "BUS",
     "firstName": "Kenneth",
     "lastName": "Walsh",
-    "numEvals": 6,
-    "overallRating": 3.17,
-    "materialClear": 2.33,
-    "studentDifficulties": 3,
+    "numEvals": 7,
+    "overallRating": 2.72,
+    "materialClear": 2,
+    "studentDifficulties": 2.86,
     "courses": [
       "BUS 391",
-      "BUS 498"
+      "BUS 498",
+      "BUS 392"
     ],
     "tags": {
       "Flexible Attendance Policy": 5,
@@ -18195,19 +18196,23 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 4,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.75,
+    "materialClear": 3.85,
     "studentDifficulties": 4,
     "courses": [
       "EE 212",
-      "EE 242"
+      "EE 242",
+      "EE 295"
     ],
     "tags": {
-      "Recorded Lectures": 3,
-      "Fast Response Time": 1,
+      "Recorded Lectures": 4,
+      "Fast Response Time": 3,
       "Uploads Slides": 3,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 2,
+      "Supplemental Study Material": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -23849,7 +23854,7 @@
     "department": "CHEM",
     "firstName": "Sarah",
     "lastName": "Zeitler",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -23858,12 +23863,12 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
@@ -37819,10 +37824,10 @@
     "department": "ME",
     "firstName": "Patrick",
     "lastName": "Lemieux",
-    "numEvals": 42,
-    "overallRating": 2.57,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.62,
+    "numEvals": 43,
+    "overallRating": 2.56,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.63,
     "courses": [
       "ME 303",
       "ME 341",
