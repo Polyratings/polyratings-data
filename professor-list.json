@@ -4302,22 +4302,23 @@
     "department": "BIO",
     "firstName": "Haley",
     "lastName": "Moniz",
-    "numEvals": 10,
-    "overallRating": 3.69,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.89,
+    "numEvals": 11,
+    "overallRating": 3.63,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.81,
     "courses": [
       "BIO 111",
       "BIO 150"
     ],
     "tags": {
-      "Recorded Lectures": 7,
+      "Recorded Lectures": 8,
       "Supplemental Study Material": 4,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Flexible Attendance Policy": 1,
       "High In-Person Availability": 2,
       "Class Handouts": 1,
-      "Fast Response Time": 3
+      "Fast Response Time": 3,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -14481,18 +14482,19 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 4,
-    "overallRating": 2,
-    "materialClear": 3.25,
-    "studentDifficulties": 2.5,
+    "numEvals": 5,
+    "overallRating": 2.4,
+    "materialClear": 3.4,
+    "studentDifficulties": 2.8,
     "courses": [
       "CSC 101"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -15933,10 +15935,10 @@
     "department": "ECON",
     "firstName": "Matthew",
     "lastName": "Cole",
-    "numEvals": 23,
-    "overallRating": 2.53,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.42,
+    "numEvals": 24,
+    "overallRating": 2.55,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.4,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -15945,10 +15947,11 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Uploads Slides": 2,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 3,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -17151,10 +17154,10 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 17,
-    "overallRating": 3.17,
-    "materialClear": 2.95,
-    "studentDifficulties": 3.3,
+    "numEvals": 18,
+    "overallRating": 3.22,
+    "materialClear": 3.01,
+    "studentDifficulties": 3.34,
     "courses": [
       "CSC 101",
       "CSC 202"
@@ -17162,13 +17165,13 @@
     "tags": {
       "High In-Person Availability": 6,
       "Flexible Deadline Policy": 4,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 2,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
@@ -20162,12 +20165,12 @@
     "department": "PSY",
     "firstName": "Codie",
     "lastName": "Place",
-    "numEvals": 1,
-    "overallRating": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PSY"
+      "PSY 330"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -32426,10 +32429,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 56,
-    "overallRating": 3.3,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.31,
+    "numEvals": 57,
+    "overallRating": 3.29,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.29,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -32440,7 +32443,7 @@
       "PSY 520"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 4,
       "Does Not Use Canvas": 1,
       "Class Handouts": 2,
@@ -36634,7 +36637,7 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 21,
+    "numEvals": 22,
     "overallRating": 3.91,
     "materialClear": 4,
     "studentDifficulties": 3.91,
@@ -36646,10 +36649,10 @@
     ],
     "tags": {
       "High In-Person Availability": 7,
-      "Fast Response Time": 7,
-      "Flexible Attendance Policy": 7,
+      "Fast Response Time": 8,
+      "Flexible Attendance Policy": 8,
       "Flexible Deadline Policy": 3,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Flexible Grading Policy": 3,
       "Honor DRC Accommodations": 1
     }
