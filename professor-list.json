@@ -23519,10 +23519,10 @@
     "department": "MATH",
     "firstName": "Hai",
     "lastName": "Tran",
-    "numEvals": 10,
-    "overallRating": 2.4,
-    "materialClear": 1.9,
-    "studentDifficulties": 2.6,
+    "numEvals": 11,
+    "overallRating": 2.18,
+    "materialClear": 1.73,
+    "studentDifficulties": 2.36,
     "courses": [
       "MATH 118",
       "MATH 221"
@@ -25047,10 +25047,10 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 105,
-    "overallRating": 3.43,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.47,
+    "numEvals": 106,
+    "overallRating": 3.4,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.44,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -25695,10 +25695,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 36,
-    "overallRating": 3.45,
-    "materialClear": 3.41,
-    "studentDifficulties": 3.35,
+    "numEvals": 37,
+    "overallRating": 3.46,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.37,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -25712,7 +25712,8 @@
       "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 3,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -41539,10 +41540,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 40,
-    "overallRating": 0.81,
-    "materialClear": 1.27,
-    "studentDifficulties": 0.88,
+    "numEvals": 41,
+    "overallRating": 0.79,
+    "materialClear": 1.24,
+    "studentDifficulties": 0.86,
     "courses": [
       "MATH 141",
       "MATH 118",
@@ -41554,10 +41555,11 @@
       "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 22,
-      "Inflexible Deadline Policy": 10,
+      "Inflexible Deadline Policy": 11,
       "Hybrid Option": 1,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 3
+      "No Breaks During Lecture": 4,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -41819,10 +41821,10 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 21,
-    "overallRating": 2.62,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.95,
+    "numEvals": 23,
+    "overallRating": 2.39,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.83,
     "courses": [
       "STAT 218",
       "STAT 251"
@@ -41830,14 +41832,16 @@
     "tags": {
       "Class Handouts": 1,
       "Zoom Office Hours": 6,
-      "Inflexible Deadline Policy": 4,
+      "Inflexible Deadline Policy": 5,
       "Uploads Slides": 12,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
       "Fast Response Time": 5,
       "High In-Person Availability": 4,
       "Inflexible Attendance Policy": 4,
-      "Flexible Deadline Policy": 3
+      "Flexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
