@@ -9812,8 +9812,8 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 49,
-    "overallRating": 3.71,
+    "numEvals": 50,
+    "overallRating": 3.72,
     "materialClear": 3.79,
     "studentDifficulties": 3.76,
     "courses": [
@@ -9826,10 +9826,10 @@
       "HIST 440"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
       "Zoom Office Hours": 3,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 2,
       "Inflexible Deadline Policy": 1
@@ -14248,9 +14248,9 @@
     "department": "MU",
     "firstName": "John",
     "lastName": "Astaire",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "MU 101",
@@ -14258,7 +14258,7 @@
       "MU 221"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Class Handouts": 1
     }
   },
@@ -27611,10 +27611,10 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 63,
-    "overallRating": 2.99,
-    "materialClear": 2.9,
-    "studentDifficulties": 2.87,
+    "numEvals": 64,
+    "overallRating": 2.97,
+    "materialClear": 2.89,
+    "studentDifficulties": 2.84,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -27631,10 +27631,12 @@
     "tags": {
       "Supplemental Study Material": 2,
       "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 8,
+      "Does Not Use Canvas": 9,
       "Uploads Slides": 1,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
