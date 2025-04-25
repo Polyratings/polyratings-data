@@ -1971,10 +1971,10 @@
     "department": "BIO",
     "firstName": "Nathaniel",
     "lastName": "Martinez",
-    "numEvals": 12,
-    "overallRating": 3.62,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.7,
+    "numEvals": 13,
+    "overallRating": 3.65,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.72,
     "courses": [
       "BIO 221",
       "MCRO 221",
@@ -1984,7 +1984,9 @@
       "MCRO 342"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -30161,10 +30163,10 @@
     "department": "ASCI",
     "firstName": "Juliana",
     "lastName": "Huzzey",
-    "numEvals": 50,
+    "numEvals": 51,
     "overallRating": 3.05,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.9,
+    "materialClear": 3.13,
+    "studentDifficulties": 2.92,
     "courses": [
       "ASCI 101",
       "ASCI 112",
@@ -30174,9 +30176,9 @@
       "ASCI 340"
     ],
     "tags": {
-      "Uploads Slides": 5,
-      "Supplemental Study Material": 3,
-      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 6,
+      "Supplemental Study Material": 4,
+      "Inflexible Attendance Policy": 3,
       "Class Handouts": 1,
       "Inflexible Deadline Policy": 3,
       "High In-Person Availability": 3,
