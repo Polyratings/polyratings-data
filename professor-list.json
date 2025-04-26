@@ -6425,10 +6425,10 @@
     "department": "BUS",
     "firstName": "Daeun",
     "lastName": "Lee",
-    "numEvals": 7,
-    "overallRating": 2.86,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.14,
+    "numEvals": 8,
+    "overallRating": 3,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.25,
     "courses": [
       "BUS 321",
       "BUS 214"
@@ -6438,8 +6438,9 @@
       "Inflexible Grading Policy": 2,
       "Uploads Slides": 4,
       "Inflexible Deadline Policy": 1,
-      "Fast Response Time": 2,
-      "High In-Person Availability": 1
+      "Fast Response Time": 3,
+      "High In-Person Availability": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -12174,10 +12175,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 10,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.39,
+    "numEvals": 11,
+    "overallRating": 2.64,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.45,
     "courses": [
       "STAT 313",
       "STAT 331",
@@ -18558,10 +18559,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 10,
-    "overallRating": 3.3,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.51,
+    "numEvals": 11,
+    "overallRating": 3.27,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.37,
     "courses": [
       "STAT 331",
       "STAT 218",
@@ -18569,14 +18570,14 @@
       "STAT 323"
     ],
     "tags": {
-      "Fast Response Time": 3,
-      "Flexible Deadline Policy": 2,
+      "Fast Response Time": 4,
+      "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Uploads Slides": 3
     }
   },
