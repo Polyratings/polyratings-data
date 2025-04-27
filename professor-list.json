@@ -6547,10 +6547,10 @@
     "department": "EE",
     "firstName": "Dale",
     "lastName": "Dolan",
-    "numEvals": 21,
-    "overallRating": 1.79,
-    "materialClear": 1.85,
-    "studentDifficulties": 1.98,
+    "numEvals": 20,
+    "overallRating": 1.88,
+    "materialClear": 1.94,
+    "studentDifficulties": 2.08,
     "courses": [
       "EE 201",
       "EE 211",
@@ -6558,8 +6558,7 @@
       "EE 255",
       "EE 295",
       "EE 420",
-      "EE 111",
-      "EE 520"
+      "EE 111"
     ],
     "tags": {
       "Flexible Attendance Policy": 2
@@ -28522,10 +28521,10 @@
     "department": "ES",
     "firstName": "Aaron",
     "lastName": "Rodriguez",
-    "numEvals": 35,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.17,
-    "overallRating": 3.37,
+    "numEvals": 36,
+    "overallRating": 3.28,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.08,
     "courses": [
       "ES 110",
       "ES 112",
@@ -28535,7 +28534,11 @@
       "ES 243",
       "SOC 316",
       "ES 323"
-    ]
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "ab7941bd-a662-4a16-9f54-0f20cecded1e",
@@ -37902,10 +37905,10 @@
     "department": "STAT",
     "firstName": "Anelise",
     "lastName": "Sabbag",
-    "numEvals": 9,
-    "overallRating": 3.22,
-    "materialClear": 2.78,
-    "studentDifficulties": 3.56,
+    "numEvals": 10,
+    "overallRating": 3,
+    "materialClear": 2.5,
+    "studentDifficulties": 3.4,
     "courses": [
       "STAT 334",
       "STAT 217",
@@ -37914,7 +37917,7 @@
     "tags": {
       "Class Handouts": 3,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Zoom Office Hours": 1,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
@@ -41309,10 +41312,10 @@
     "department": "CHEM",
     "firstName": "Derik",
     "lastName": "Frantz",
-    "numEvals": 37,
-    "overallRating": 3.58,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.49,
+    "numEvals": 38,
+    "overallRating": 3.59,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.5,
     "courses": [
       "CHEM 216",
       "CHEM 217",
