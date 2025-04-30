@@ -27448,10 +27448,10 @@
     "department": "STAT",
     "firstName": "Kelly",
     "lastName": "Bodwin",
-    "numEvals": 4,
-    "overallRating": 2.25,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 5,
+    "overallRating": 2.2,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.6,
     "courses": [
       "DATA 302",
       "DATA 301",
@@ -27461,7 +27461,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -29386,14 +29387,17 @@
     "department": "BIO",
     "firstName": "Dena",
     "lastName": "Paolili",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 114"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "b14f945c-4f66-4a52-b1f0-27ec78940f59",
