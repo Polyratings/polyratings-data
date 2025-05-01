@@ -1664,10 +1664,10 @@
     "department": "MATH",
     "firstName": "Brian Tyrrell-Nic",
     "lastName": "Dhonncha",
-    "numEvals": 26,
-    "overallRating": 2.28,
-    "materialClear": 3.21,
-    "studentDifficulties": 2.09,
+    "numEvals": 27,
+    "overallRating": 2.23,
+    "materialClear": 3.24,
+    "studentDifficulties": 2.05,
     "courses": [
       "MATH 143",
       "MATH 241",
@@ -1684,7 +1684,7 @@
       "Fast Response Time": 5,
       "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Deadline Policy": 4,
       "Honor DRC Accommodations": 1
     }
   },
@@ -5586,7 +5586,7 @@
     "department": "ECON",
     "firstName": "Javier",
     "lastName": "Medina",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -8001,10 +8001,10 @@
     "department": "BUS",
     "firstName": "Neal",
     "lastName": "King",
-    "numEvals": 9,
-    "overallRating": 1.66,
-    "materialClear": 1.56,
-    "studentDifficulties": 1.22,
+    "numEvals": 10,
+    "overallRating": 1.49,
+    "materialClear": 1.4,
+    "studentDifficulties": 1.1,
     "courses": [
       "BUS 391",
       "BUS 392"
@@ -27823,16 +27823,18 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.67,
     "courses": [
       "BUS 346"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30545,9 +30547,9 @@
     "department": "LS",
     "firstName": "Brian",
     "lastName": "Beaton",
-    "numEvals": 52,
+    "numEvals": 53,
     "overallRating": 0.25,
-    "materialClear": 0.29,
+    "materialClear": 0.28,
     "studentDifficulties": 0.25,
     "courses": [
       "BUS 101",
@@ -30590,16 +30592,19 @@
       "GEOG 589",
       "MATH 460",
       "GSP 101",
-      "AERO 522"
+      "AERO 522",
+      "MU 420"
     ],
     "tags": {
-      "Pop Quizzes": 2,
+      "Pop Quizzes": 3,
       "Does Not Use Canvas": 3,
       "Hybrid Option": 2,
       "Flexible Grading Policy": 1,
       "Inflexible Grading Policy": 1,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
