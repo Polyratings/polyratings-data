@@ -12430,10 +12430,10 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 54,
-    "overallRating": 3.68,
+    "numEvals": 55,
+    "overallRating": 3.63,
     "materialClear": 3.75,
-    "studentDifficulties": 3.71,
+    "studentDifficulties": 3.7,
     "courses": [
       "HIST 201",
       "HIST 213",
@@ -12445,7 +12445,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 2,
       "Honor DRC Accommodations": 4,
@@ -14391,10 +14391,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 37,
-    "overallRating": 3.42,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.45,
+    "numEvals": 38,
+    "overallRating": 3.41,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.44,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -14403,7 +14403,11 @@
       "HIST 441",
       "HIST 225"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "579068f1-99e1-4cd9-be36-e1c393babe43",
@@ -21948,10 +21952,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 207,
-    "overallRating": 2.66,
-    "materialClear": 2.54,
-    "studentDifficulties": 2.43,
+    "numEvals": 208,
+    "overallRating": 2.65,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.42,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -21969,8 +21973,8 @@
     ],
     "tags": {
       "Flexible Grading Policy": 2,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 2,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
@@ -25060,10 +25064,10 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 106,
-    "overallRating": 3.4,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.44,
+    "numEvals": 107,
+    "overallRating": 3.39,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.45,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -28439,10 +28443,10 @@
     "department": "HIST",
     "firstName": "Margaret",
     "lastName": "Bodemer",
-    "numEvals": 59,
-    "overallRating": 3.36,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.56,
+    "numEvals": 60,
+    "overallRating": 3.37,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.52,
     "courses": [
       "ANT 201",
       "HIST 206",
@@ -28457,7 +28461,9 @@
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 4,
       "Flexible Deadline Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
     }
   },
   {
