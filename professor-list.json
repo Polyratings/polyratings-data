@@ -15003,10 +15003,10 @@
     "department": "ME",
     "firstName": "Shaheen",
     "lastName": "Hoque",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.28,
+    "studentDifficulties": 0.26,
     "courses": [
       "ME 302",
       "ME 212"
@@ -15016,8 +15016,9 @@
       "Zoom Office Hours": 1,
       "Does Not Use Canvas": 1,
       "Pop Quizzes": 1,
-      "Inflexible Deadline Policy": 2,
-      "No Breaks During Lecture": 2
+      "Inflexible Deadline Policy": 3,
+      "No Breaks During Lecture": 3,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -17903,9 +17904,9 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 142,
-    "overallRating": 1.79,
-    "materialClear": 1.96,
+    "numEvals": 143,
+    "overallRating": 1.78,
+    "materialClear": 1.95,
     "studentDifficulties": 1.66,
     "courses": [
       "CE 204",
@@ -21952,9 +21953,9 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 208,
-    "overallRating": 2.65,
-    "materialClear": 2.53,
+    "numEvals": 209,
+    "overallRating": 2.64,
+    "materialClear": 2.52,
     "studentDifficulties": 2.42,
     "courses": [
       "MATH 112",
@@ -21980,7 +21981,8 @@
       "Does Not Use Canvas": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -25064,10 +25066,10 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 107,
-    "overallRating": 3.39,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.45,
+    "numEvals": 108,
+    "overallRating": 3.4,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.46,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -34047,7 +34049,7 @@
     "department": "PHYS",
     "firstName": "Roberto",
     "lastName": "Abril Valenzuela",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
