@@ -25567,10 +25567,10 @@
     "department": "EE",
     "firstName": "Kun",
     "lastName": "Hua",
-    "numEvals": 7,
-    "overallRating": 2.29,
-    "materialClear": 2.14,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 2.25,
+    "materialClear": 2,
+    "studentDifficulties": 3.25,
     "courses": [
       "EE 215",
       "EE 228",
@@ -27713,10 +27713,10 @@
     "department": "PHIL",
     "firstName": "Adam",
     "lastName": "BenShea",
-    "numEvals": 15,
-    "overallRating": 3.38,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.21,
+    "numEvals": 16,
+    "overallRating": 3.42,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.26,
     "courses": [
       "RELS 201",
       "RELS 302",
@@ -27726,9 +27726,11 @@
       "PHIL 378"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
