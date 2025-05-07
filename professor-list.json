@@ -844,10 +844,10 @@
     "department": "EE",
     "firstName": "Noel",
     "lastName": "Ellis",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.8,
     "courses": [
       "EE 245",
       "EE 113",
@@ -4751,10 +4751,10 @@
     "department": "ME",
     "firstName": "Birdsong",
     "lastName": "Charlene",
-    "numEvals": 57,
-    "overallRating": 2.03,
-    "materialClear": 2.13,
-    "studentDifficulties": 1.75,
+    "numEvals": 58,
+    "overallRating": 2.01,
+    "materialClear": 2.09,
+    "studentDifficulties": 1.72,
     "courses": [
       "ME 212",
       "ME 236",
@@ -4764,7 +4764,7 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -31342,19 +31342,20 @@
     "department": "DSCI",
     "firstName": "David",
     "lastName": "Vagnoni",
-    "numEvals": 7,
-    "overallRating": 3.43,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 3.13,
+    "materialClear": 2.87,
+    "studentDifficulties": 3.25,
     "courses": [
       "ASCI 220",
       "DSCI 301",
       "ASCI 101"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -33873,10 +33874,10 @@
     "department": "ENGL",
     "firstName": "Sadie",
     "lastName": "Johann",
-    "numEvals": 41,
-    "overallRating": 3.48,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.59,
+    "numEvals": 42,
+    "overallRating": 3.49,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.6,
     "courses": [
       "ENGL 133",
       "ENGL 134",
@@ -33889,9 +33890,10 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Hybrid Option": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
