@@ -20350,17 +20350,22 @@
     "department": "BUS",
     "firstName": "Brian",
     "lastName": "Ayash",
-    "numEvals": 30,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.19,
-    "overallRating": 1.38,
+    "numEvals": 31,
+    "overallRating": 1.46,
+    "materialClear": 1.58,
+    "studentDifficulties": 1.28,
     "courses": [
       "BUS 339",
       "BUS 342",
       "BUS 436",
       "BUS 438",
       "BUS 464"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "79cbd499-eda1-44ed-ae79-9e5682ec1599",
@@ -25567,10 +25572,10 @@
     "department": "EE",
     "firstName": "Kun",
     "lastName": "Hua",
-    "numEvals": 8,
-    "overallRating": 2.25,
-    "materialClear": 2,
-    "studentDifficulties": 3.25,
+    "numEvals": 9,
+    "overallRating": 2.44,
+    "materialClear": 2.22,
+    "studentDifficulties": 3.33,
     "courses": [
       "EE 215",
       "EE 228",
@@ -25580,8 +25585,8 @@
       "Supplemental Study Material": 3,
       "Uploads Slides": 6,
       "Inflexible Attendance Policy": 1,
-      "High In-Person Availability": 1,
-      "Fast Response Time": 3,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 4,
       "Honor DRC Accommodations": 1
     }
   },
@@ -27216,19 +27221,20 @@
     "department": "BUS",
     "firstName": "Thomas",
     "lastName": "Crooke",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.75,
     "courses": [
       "BUS 401"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -38460,19 +38466,21 @@
     "department": "POLS",
     "firstName": "Alexander",
     "lastName": "Otruba",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "materialClear": 1.8,
+    "studentDifficulties": 2.4,
     "courses": [
       "POLS 334",
       "POLS 349",
-      "POLS 230"
+      "POLS 230",
+      "POLS 340"
     ],
     "tags": {
-      "No Breaks During Lecture": 3,
-      "Inflexible Attendance Policy": 3,
-      "Inflexible Grading Policy": 1
+      "No Breaks During Lecture": 4,
+      "Inflexible Attendance Policy": 4,
+      "Inflexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
