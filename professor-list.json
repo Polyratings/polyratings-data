@@ -5220,10 +5220,10 @@
     "department": "STAT",
     "firstName": "Jeffrey",
     "lastName": "Sklar",
-    "numEvals": 67,
-    "overallRating": 3.38,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.19,
+    "numEvals": 68,
+    "overallRating": 3.39,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.2,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -5241,7 +5241,8 @@
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -5436,8 +5437,8 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 162,
-    "overallRating": 3.18,
+    "numEvals": 163,
+    "overallRating": 3.19,
     "materialClear": 3.15,
     "studentDifficulties": 3.24,
     "courses": [
@@ -6502,10 +6503,10 @@
     "department": "BUS",
     "firstName": "Kenneth",
     "lastName": "Walsh",
-    "numEvals": 7,
-    "overallRating": 2.72,
-    "materialClear": 2,
-    "studentDifficulties": 2.86,
+    "numEvals": 8,
+    "overallRating": 2.38,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.88,
     "courses": [
       "BUS 391",
       "BUS 498",
@@ -8455,17 +8456,18 @@
     "department": "BMED",
     "firstName": "Shreeshan",
     "lastName": "Jena",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BMED"
+      "BMED 460"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Deadline Policy": 2,
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -13888,7 +13890,7 @@
     "department": "BMED",
     "firstName": "Britta",
     "lastName": "Berg-Johansen",
-    "numEvals": 4,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -13897,8 +13899,9 @@
       "BMED 455"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -19875,9 +19878,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 125,
+    "numEvals": 126,
     "overallRating": 3.47,
-    "materialClear": 3.22,
+    "materialClear": 3.23,
     "studentDifficulties": 3.51,
     "courses": [
       "STAT 221",
@@ -22220,9 +22223,9 @@
     "department": "BUS",
     "firstName": "Frank",
     "lastName": "Kopcinksi",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.25,
     "studentDifficulties": 4,
     "courses": [
       "BUS 207"
@@ -26727,23 +26730,23 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 16,
-    "overallRating": 3.57,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.76,
+    "numEvals": 17,
+    "overallRating": 3.6,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.77,
     "courses": [
       "CHEM 124",
       "PHYS 141",
       "PHYS 143"
     ],
     "tags": {
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Class Handouts": 1,
       "Flexible Grading Policy": 3,
       "Fast Response Time": 5,
       "Uploads Slides": 5,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 1
     }
   },
@@ -28191,10 +28194,10 @@
     "department": "COMS",
     "firstName": "Jodie",
     "lastName": "Steele",
-    "numEvals": 32,
-    "overallRating": 3.56,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.56,
+    "numEvals": 33,
+    "overallRating": 3.57,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.57,
     "courses": [
       "COMS 102",
       "PSY 302",
@@ -31765,10 +31768,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 25,
-    "overallRating": 3.32,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.48,
+    "numEvals": 26,
+    "overallRating": 3.35,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.5,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -31778,7 +31781,7 @@
     ],
     "tags": {
       "Supplemental Study Material": 5,
-      "Uploads Slides": 14,
+      "Uploads Slides": 15,
       "No Breaks During Lecture": 2,
       "High In-Person Availability": 6,
       "Fast Response Time": 5,
@@ -37773,14 +37776,15 @@
     "department": "MATE",
     "firstName": "Brian",
     "lastName": "Davis",
-    "numEvals": 6,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.72,
     "courses": [
       "MATE 210",
       "MATE 215",
-      "ME 228"
+      "ME 228",
+      "ME 404"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -38536,17 +38540,18 @@
     "department": "BMED",
     "firstName": "iian",
     "lastName": "Black",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "BMED"
+      "BMED 310"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
