@@ -5437,9 +5437,9 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 163,
+    "numEvals": 164,
     "overallRating": 3.19,
-    "materialClear": 3.15,
+    "materialClear": 3.16,
     "studentDifficulties": 3.24,
     "courses": [
       "BUS 102",
@@ -11526,10 +11526,10 @@
     "department": "STAT",
     "firstName": "Charlotte",
     "lastName": "Mann",
-    "numEvals": 7,
-    "overallRating": 3.72,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.57,
+    "numEvals": 8,
+    "overallRating": 3.63,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.62,
     "courses": [
       "STAT 217",
       "STAT 331"
@@ -14840,10 +14840,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 47,
-    "overallRating": 2.9,
-    "materialClear": 3.08,
-    "studentDifficulties": 2.64,
+    "numEvals": 48,
+    "overallRating": 2.84,
+    "materialClear": 3.02,
+    "studentDifficulties": 2.59,
     "courses": [
       "EE 112",
       "EE 201",
@@ -14852,7 +14852,8 @@
       "EE 328",
       "EE 342",
       "EE 368",
-      "EE 113"
+      "EE 113",
+      "EE 143"
     ],
     "tags": {
       "Hybrid Option": 1,
@@ -14861,7 +14862,8 @@
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 2,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -17199,10 +17201,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 137,
+    "numEvals": 138,
     "overallRating": 1.33,
-    "materialClear": 1.18,
-    "studentDifficulties": 1.3,
+    "materialClear": 1.17,
+    "studentDifficulties": 1.32,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -17212,13 +17214,14 @@
     ],
     "tags": {
       "Fast Response Time": 3,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "No Breaks During Lecture": 2,
       "Class Handouts": 2,
       "Supplemental Study Material": 2,
       "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -17907,10 +17910,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 143,
-    "overallRating": 1.78,
-    "materialClear": 1.95,
-    "studentDifficulties": 1.66,
+    "numEvals": 144,
+    "overallRating": 1.8,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.68,
     "courses": [
       "CE 204",
       "CE 211",
@@ -17935,7 +17938,9 @@
       "Inflexible Grading Policy": 3,
       "Does Not Use Canvas": 4,
       "Pop Quizzes": 4,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -34429,10 +34434,10 @@
     "department": "PHYS",
     "firstName": "Tatiana",
     "lastName": "Kuriabova",
-    "numEvals": 24,
-    "overallRating": 2.41,
-    "materialClear": 2.26,
-    "studentDifficulties": 2.4,
+    "numEvals": 25,
+    "overallRating": 2.43,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.46,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -34445,10 +34450,11 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Uploads Slides": 2,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -38615,12 +38621,12 @@
     "department": "BUS",
     "firstName": "Lea",
     "lastName": "Bouhakkou",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 4,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 2,
+    "studentDifficulties": 0.5,
     "courses": [
-      "BUS"
+      "BUS 301"
     ],
     "tags": {}
   },
@@ -40618,7 +40624,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 21,
+    "numEvals": 22,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -40632,15 +40638,15 @@
       "MATH 304"
     ],
     "tags": {
-      "High In-Person Availability": 7,
-      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 8,
+      "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 2,
       "Fast Response Time": 3,
       "Honor DRC Accommodations": 3,
       "Flexible Deadline Policy": 5,
       "Flexible Grading Policy": 6,
       "No Breaks During Lecture": 1,
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Class Handouts": 2
     }
   },
