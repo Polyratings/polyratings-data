@@ -25552,17 +25552,18 @@
     "department": "BRAE",
     "firstName": "Eshetu",
     "lastName": "Erkihune",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0.33,
-    "studentDifficulties": 1,
+    "numEvals": 4,
+    "overallRating": 0.5,
+    "materialClear": 0.25,
+    "studentDifficulties": 1.75,
     "courses": [
       "BRAE 239"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Pop Quizzes": 1
     }
   },
   {
