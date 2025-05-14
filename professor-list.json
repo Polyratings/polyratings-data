@@ -6158,10 +6158,10 @@
     "department": "MATH",
     "firstName": "Soinbhe",
     "lastName": "Nic Dhonncha",
-    "numEvals": 59,
-    "overallRating": 0.74,
-    "materialClear": 0.93,
-    "studentDifficulties": 1.32,
+    "numEvals": 60,
+    "overallRating": 0.73,
+    "materialClear": 0.91,
+    "studentDifficulties": 1.3,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -6171,13 +6171,13 @@
     "tags": {
       "Uploads Slides": 3,
       "Flexible Attendance Policy": 7,
-      "No Breaks During Lecture": 19,
+      "No Breaks During Lecture": 20,
       "Fast Response Time": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 19,
+      "Inflexible Grading Policy": 20,
       "Inflexible Deadline Policy": 16,
       "Supplemental Study Material": 1,
       "Class Handouts": 1
@@ -8164,14 +8164,17 @@
     "department": "ME",
     "firstName": "Amanda",
     "lastName": "Emberly",
-    "numEvals": 3,
-    "overallRating": 1.33,
-    "materialClear": 1.33,
-    "studentDifficulties": 1.33,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 1.75,
+    "studentDifficulties": 2,
     "courses": [
-      "ME 234"
+      "ME 234",
+      "ME 211"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "301050f4-eea1-44cf-b7a2-b24626c91cad",
@@ -17688,21 +17691,21 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 21,
-    "overallRating": 3.67,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.72,
+    "numEvals": 22,
+    "overallRating": 3.68,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.73,
     "courses": [
       "MATH 143",
       "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 16,
-      "Supplemental Study Material": 6,
+      "Uploads Slides": 17,
+      "Supplemental Study Material": 7,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 10,
       "Inflexible Grading Policy": 1,
-      "Honor DRC Accommodations": 4,
+      "Honor DRC Accommodations": 5,
       "High In-Person Availability": 8,
       "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1,
@@ -17912,10 +17915,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 144,
-    "overallRating": 1.8,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.68,
+    "numEvals": 145,
+    "overallRating": 1.82,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.67,
     "courses": [
       "CE 204",
       "CE 211",
@@ -17936,9 +17939,9 @@
       "Class Handouts": 1,
       "Uploads Slides": 2,
       "No Breaks During Lecture": 2,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 3,
-      "Does Not Use Canvas": 4,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 4,
+      "Does Not Use Canvas": 5,
       "Pop Quizzes": 4,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
@@ -28282,13 +28285,14 @@
     "department": "POLS",
     "firstName": "Serena",
     "lastName": "Clark",
-    "numEvals": 8,
-    "overallRating": 3,
-    "materialClear": 2.75,
-    "studentDifficulties": 3.38,
+    "numEvals": 9,
+    "overallRating": 3.11,
+    "materialClear": 2.67,
+    "studentDifficulties": 3.45,
     "courses": [
       "POLS 111",
-      "POLS 341"
+      "POLS 341",
+      "POLS 112"
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
@@ -38489,10 +38493,10 @@
     "department": "POLS",
     "firstName": "Alexander",
     "lastName": "Otruba",
-    "numEvals": 5,
-    "overallRating": 2,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.4,
+    "numEvals": 6,
+    "overallRating": 1.83,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.17,
     "courses": [
       "POLS 334",
       "POLS 349",
@@ -38500,10 +38504,10 @@
       "POLS 340"
     ],
     "tags": {
-      "No Breaks During Lecture": 4,
-      "Inflexible Attendance Policy": 4,
+      "No Breaks During Lecture": 5,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2
     }
   },
   {
@@ -40954,10 +40958,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 30,
-    "overallRating": 2.02,
-    "materialClear": 2,
-    "studentDifficulties": 2.46,
+    "numEvals": 31,
+    "overallRating": 2.08,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.51,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -40966,7 +40970,7 @@
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 9,
+      "Fast Response Time": 10,
       "Flexible Attendance Policy": 6,
       "Does Not Use Canvas": 1,
       "High In-Person Availability": 3,
