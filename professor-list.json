@@ -10719,10 +10719,10 @@
     "department": "IME",
     "firstName": "Daniel",
     "lastName": "Franchi",
-    "numEvals": 11,
-    "overallRating": 3.55,
-    "materialClear": 3.53,
-    "studentDifficulties": 3.71,
+    "numEvals": 12,
+    "overallRating": 3.59,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.73,
     "courses": [
       "IME 314",
       "IME 409",
@@ -38500,10 +38500,10 @@
     "department": "POLS",
     "firstName": "Alexander",
     "lastName": "Otruba",
-    "numEvals": 6,
-    "overallRating": 1.83,
-    "materialClear": 1.67,
-    "studentDifficulties": 2.17,
+    "numEvals": 7,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2.29,
     "courses": [
       "POLS 334",
       "POLS 349",
@@ -38512,9 +38512,11 @@
     ],
     "tags": {
       "No Breaks During Lecture": 5,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 2
+      "Inflexible Deadline Policy": 2,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
