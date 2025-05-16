@@ -229,16 +229,19 @@
     "department": "ME",
     "firstName": "Allan",
     "lastName": "Glover",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 3,
     "courses": [
-      "ME"
+      "ME 251",
+      "ME 130"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -11015,7 +11018,7 @@
     "department": "ASCI",
     "firstName": "Laura",
     "lastName": "Backus",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -11025,13 +11028,13 @@
       "ASCI 321"
     ],
     "tags": {
-      "Flexible Deadline Policy": 4,
+      "Flexible Deadline Policy": 5,
       "Flexible Grading Policy": 5,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "High In-Person Availability": 2,
       "Class Handouts": 2,
       "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -18587,10 +18590,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 13,
-    "overallRating": 3,
-    "materialClear": 2.84,
-    "studentDifficulties": 2.85,
+    "numEvals": 14,
+    "overallRating": 2.86,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.65,
     "courses": [
       "STAT 331",
       "STAT 218",
@@ -28577,10 +28580,10 @@
     "department": "ES",
     "firstName": "Aaron",
     "lastName": "Rodriguez",
-    "numEvals": 36,
-    "overallRating": 3.28,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.08,
+    "numEvals": 37,
+    "overallRating": 3.19,
+    "materialClear": 3.24,
+    "studentDifficulties": 3,
     "courses": [
       "ES 110",
       "ES 112",
@@ -31965,17 +31968,18 @@
     "department": "BIO",
     "firstName": "Grace",
     "lastName": "Goschke",
-    "numEvals": 124,
-    "overallRating": 2.33,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.18,
+    "numEvals": 125,
+    "overallRating": 2.32,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.16,
     "courses": [
       "BIO 111",
       "BIO 302"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
