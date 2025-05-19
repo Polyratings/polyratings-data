@@ -1408,14 +1408,15 @@
     "department": "KINE",
     "firstName": "Christine",
     "lastName": "Hackman",
-    "numEvals": 5,
-    "overallRating": 2.08,
-    "materialClear": 2.24,
-    "studentDifficulties": 3.04,
+    "numEvals": 6,
+    "overallRating": 2.07,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.87,
     "courses": [
       "KINE 305",
       "KINE 434",
-      "HLTH 434"
+      "HLTH 434",
+      "HLTH 334"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -12844,16 +12845,22 @@
     "department": "MATE",
     "firstName": "Richard",
     "lastName": "Savage",
-    "numEvals": 22,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.65,
-    "overallRating": 3.57,
+    "numEvals": 23,
+    "overallRating": 3.59,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.67,
     "courses": [
       "MATE 210",
       "MATE 340",
       "BMED 436",
-      "MATE 510"
-    ]
+      "MATE 510",
+      "BMED 450"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "4d7522ad-b111-457b-9d44-dc2af5ce14b9",
@@ -34886,18 +34893,18 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O\u2019Connor",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 2.57,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.29,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
-      "Class Handouts": 2,
+      "Inflexible Attendance Policy": 6,
+      "Class Handouts": 3,
       "Honor DRC Accommodations": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Fast Response Time": 1,
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
