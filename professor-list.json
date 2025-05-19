@@ -9836,8 +9836,8 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 50,
-    "overallRating": 3.72,
+    "numEvals": 51,
+    "overallRating": 3.73,
     "materialClear": 3.79,
     "studentDifficulties": 3.76,
     "courses": [
@@ -13045,12 +13045,12 @@
     "department": "PHIL",
     "firstName": "Sean",
     "lastName": "Pierce",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHIL"
+      "PHIL 231"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -20381,10 +20381,10 @@
     "department": "BUS",
     "firstName": "Brian",
     "lastName": "Ayash",
-    "numEvals": 31,
-    "overallRating": 1.46,
-    "materialClear": 1.58,
-    "studentDifficulties": 1.28,
+    "numEvals": 32,
+    "overallRating": 1.41,
+    "materialClear": 1.53,
+    "studentDifficulties": 1.24,
     "courses": [
       "BUS 339",
       "BUS 342",
@@ -20393,9 +20393,9 @@
       "BUS 464"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -31086,19 +31086,20 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 18,
-    "overallRating": 3.72,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.82,
+    "numEvals": 19,
+    "overallRating": 3.73,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.83,
     "courses": [
       "PHYS 143",
       "PHYS 142",
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 121"
     ],
     "tags": {
       "Fast Response Time": 4,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 13,
+      "Uploads Slides": 14,
       "High In-Person Availability": 4,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 9,
@@ -32921,10 +32922,10 @@
     "department": "BUS",
     "firstName": "Dan",
     "lastName": "Featherstone",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "ITP 371"
     ],
