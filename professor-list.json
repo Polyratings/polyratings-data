@@ -17038,22 +17038,23 @@
     "department": "PHYS",
     "firstName": "Walter",
     "lastName": "Ryan",
-    "numEvals": 19,
-    "overallRating": 3.75,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.7,
+    "numEvals": 20,
+    "overallRating": 3.76,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.67,
     "courses": [
       "PHYS 141",
       "PHYS 201",
       "PSC 201",
-      "PSC 210"
+      "PSC 210",
+      "PHYS 314"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Class Handouts": 1
     }
   },
@@ -20797,10 +20798,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 29,
-    "overallRating": 2.28,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.58,
+    "numEvals": 31,
+    "overallRating": 2.26,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.55,
     "courses": [
       "TH 210",
       "TH 227",
