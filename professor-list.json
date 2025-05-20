@@ -324,7 +324,7 @@
     "department": "COMS",
     "firstName": "Darrian",
     "lastName": "Carroll",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -338,7 +338,8 @@
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -2874,7 +2875,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 192,
+    "numEvals": 194,
     "overallRating": 3.54,
     "materialClear": 3.62,
     "studentDifficulties": 3.35,
@@ -2891,7 +2892,10 @@
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -20793,10 +20797,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 22,
-    "overallRating": 2.97,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.22,
+    "numEvals": 29,
+    "overallRating": 2.28,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.58,
     "courses": [
       "TH 210",
       "TH 227",
@@ -22089,10 +22093,10 @@
     "department": "AERO",
     "firstName": "Kira",
     "lastName": "Abercromby",
-    "numEvals": 20,
-    "overallRating": 3.39,
-    "materialClear": 3.34,
-    "studentDifficulties": 3.42,
+    "numEvals": 21,
+    "overallRating": 3.42,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.45,
     "courses": [
       "AERO 101",
       "AERO 121",
@@ -22103,7 +22107,8 @@
       "AERO 351",
       "AERO 354",
       "AERO 451"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "82f68744-d501-4179-8a9e-df7a9b1e38ca",
@@ -24657,13 +24662,15 @@
     "department": "TH",
     "firstName": "Michelle",
     "lastName": "Walter",
-    "numEvals": 4,
+    "numEvals": 5,
+    "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
-    "overallRating": 4,
     "courses": [
-      "DANC 131"
-    ]
+      "DANC 131",
+      "DANC 231"
+    ],
+    "tags": {}
   },
   {
     "id": "927da7c1-def6-4ae1-bf05-5fad89143111",
@@ -29561,8 +29568,8 @@
     "department": "ENGL",
     "firstName": "Zoie",
     "lastName": "Orth",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -29570,9 +29577,10 @@
     ],
     "tags": {
       "Uploads Slides": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30582,10 +30590,10 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 62,
-    "overallRating": 2.12,
+    "numEvals": 63,
+    "overallRating": 2.13,
     "materialClear": 2.16,
-    "studentDifficulties": 2.16,
+    "studentDifficulties": 2.19,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -30599,7 +30607,9 @@
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -38624,21 +38634,22 @@
     "department": "BUS",
     "firstName": "Dan",
     "lastName": "Banfield",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 3.92,
     "materialClear": 3.89,
-    "studentDifficulties": 3.84,
+    "studentDifficulties": 3.85,
     "courses": [
       "BUS 214",
       "BUS 215"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Uploads Slides": 3,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
