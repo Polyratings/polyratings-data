@@ -25546,22 +25546,24 @@
     "department": "POLS",
     "firstName": "Annie",
     "lastName": "Frew",
-    "numEvals": 10,
-    "overallRating": 3.09,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.8,
+    "numEvals": 11,
+    "overallRating": 3.08,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.91,
     "courses": [
       "POLS 112",
-      "POLS 111"
+      "POLS 111",
+      "POLS 359"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 3,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1,
-      "Hybrid Option": 1
+      "Class Handouts": 2,
+      "Hybrid Option": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -34056,10 +34058,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 134,
+    "numEvals": 135,
     "overallRating": 2.89,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.86,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.87,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -34070,12 +34072,12 @@
       "CHEM 128"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Fast Response Time": 6,
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 5,
-      "Class Handouts": 8,
-      "Supplemental Study Material": 8,
+      "Class Handouts": 9,
+      "Supplemental Study Material": 9,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 1
