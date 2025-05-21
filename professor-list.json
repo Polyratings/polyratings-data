@@ -3058,10 +3058,10 @@
     "department": "CSC",
     "firstName": "Hugh",
     "lastName": "Smith",
-    "numEvals": 31,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.25,
-    "overallRating": 3.28,
+    "numEvals": 32,
+    "overallRating": 3.3,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.27,
     "courses": [
       "CPE 123",
       "CSC 123",
@@ -3073,7 +3073,8 @@
       "CPE 465",
       "CSC 465",
       "CPE 564"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "11de1dbc-9a07-4f80-9c16-892cd72e1dbe",
@@ -8375,25 +8376,27 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Lema",
-    "numEvals": 36,
+    "numEvals": 37,
     "overallRating": 3.15,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.24,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.15,
     "courses": [
       "BIO 161",
       "BIO 243",
       "BIO 263",
       "BIO 328",
       "MSC 328",
-      "MSCI 300"
+      "MSCI 300",
+      "BIO 407"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 2,
-      "Honor DRC Accommodations": 1
+      "Supplemental Study Material": 3,
+      "Honor DRC Accommodations": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -14419,22 +14422,24 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 38,
-    "overallRating": 3.41,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.44,
+    "numEvals": 39,
+    "overallRating": 3.35,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.35,
     "courses": [
       "HIST 110",
       "HIST 111",
       "HIST 303",
       "HIST 334",
       "HIST 441",
-      "HIST 225"
+      "HIST 225",
+      "HIST 336"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -17936,10 +17941,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 146,
-    "overallRating": 1.83,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.67,
+    "numEvals": 147,
+    "overallRating": 1.82,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.66,
     "courses": [
       "CE 204",
       "CE 211",
@@ -20798,10 +20803,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 31,
-    "overallRating": 2.26,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.55,
+    "numEvals": 32,
+    "overallRating": 2.19,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.47,
     "courses": [
       "TH 210",
       "TH 227",
@@ -24209,10 +24214,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 161,
-    "overallRating": 1.88,
-    "materialClear": 1.78,
-    "studentDifficulties": 1.7,
+    "numEvals": 162,
+    "overallRating": 1.87,
+    "materialClear": 1.77,
+    "studentDifficulties": 1.69,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -24230,11 +24235,11 @@
       "PSC 392"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "Recorded Lectures": 5,
       "Flexible Attendance Policy": 4,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "Fast Response Time": 2,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 2,
@@ -35325,10 +35330,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 49,
-    "overallRating": 3.62,
-    "materialClear": 3.34,
-    "studentDifficulties": 3.49,
+    "numEvals": 50,
+    "overallRating": 3.63,
+    "materialClear": 3.35,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -36505,10 +36510,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 67,
-    "overallRating": 2.14,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.12,
+    "numEvals": 68,
+    "overallRating": 2.11,
+    "materialClear": 2.09,
+    "studentDifficulties": 2.09,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -37113,19 +37118,19 @@
     "department": "CE",
     "firstName": "Ryan",
     "lastName": "Smith",
-    "numEvals": 9,
-    "overallRating": 3.79,
-    "materialClear": 3.11,
-    "studentDifficulties": 3.77,
+    "numEvals": 10,
+    "overallRating": 3.81,
+    "materialClear": 2.9,
+    "studentDifficulties": 3.79,
     "courses": [
       "CE 204",
       "MATE 210",
       "MATE 465"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 3,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 3,
       "Flexible Deadline Policy": 1
     }
   },
