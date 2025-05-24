@@ -20403,10 +20403,10 @@
     "department": "BUS",
     "firstName": "Brian",
     "lastName": "Ayash",
-    "numEvals": 32,
-    "overallRating": 1.41,
-    "materialClear": 1.53,
-    "studentDifficulties": 1.24,
+    "numEvals": 33,
+    "overallRating": 1.37,
+    "materialClear": 1.48,
+    "studentDifficulties": 1.2,
     "courses": [
       "BUS 339",
       "BUS 342",
@@ -20417,7 +20417,9 @@
     "tags": {
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -28935,17 +28937,19 @@
     "department": "ARCH",
     "firstName": "Xinyu",
     "lastName": "Chen",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.5,
     "courses": [
-      "ARCH"
+      "ARCH 132"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
