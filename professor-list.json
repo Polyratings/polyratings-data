@@ -28624,10 +28624,10 @@
     "department": "ES",
     "firstName": "Aaron",
     "lastName": "Rodriguez",
-    "numEvals": 37,
-    "overallRating": 3.19,
-    "materialClear": 3.24,
-    "studentDifficulties": 3,
+    "numEvals": 38,
+    "overallRating": 3.13,
+    "materialClear": 3.18,
+    "studentDifficulties": 2.92,
     "courses": [
       "ES 110",
       "ES 112",
@@ -28640,7 +28640,8 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
