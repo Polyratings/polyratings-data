@@ -15145,7 +15145,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 15,
+    "numEvals": 16,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -15158,7 +15158,7 @@
       "Fast Response Time": 6,
       "Flexible Grading Policy": 3,
       "Flexible Deadline Policy": 3,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 3
     }
   },
   {
@@ -16680,14 +16680,15 @@
     "department": "ENGL",
     "firstName": "Leslie",
     "lastName": "St. John",
-    "numEvals": 50,
-    "overallRating": 3.34,
-    "materialClear": 3.36,
+    "numEvals": 51,
+    "overallRating": 3.35,
+    "materialClear": 3.35,
     "studentDifficulties": 3.22,
     "courses": [
       "ENGL 134",
       "ENGL 145",
-      "ENGL 253"
+      "ENGL 253",
+      "ENGL 386"
     ],
     "tags": {
       "Zoom Office Hours": 1,
