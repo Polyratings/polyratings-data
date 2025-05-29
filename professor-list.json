@@ -23888,10 +23888,10 @@
     "department": "CM",
     "firstName": "Paul",
     "lastName": "Weber",
-    "numEvals": 25,
-    "overallRating": 3.64,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.6,
+    "numEvals": 26,
+    "overallRating": 3.65,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.62,
     "courses": [
       "CM 102",
       "CM 115",
@@ -23902,9 +23902,11 @@
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -33848,10 +33850,10 @@
     "department": "SOC",
     "firstName": "Benjamin",
     "lastName": "Funston-Timms",
-    "numEvals": 45,
-    "overallRating": 3.72,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.61,
+    "numEvals": 46,
+    "overallRating": 3.73,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.62,
     "courses": [
       "GEOG 150",
       "SOC 150",
@@ -33861,11 +33863,13 @@
       "GEOG 328",
       "GEOG 370",
       "SOC 370",
-      "GEOG 408"
+      "GEOG 408",
+      "GEOG 380"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -33919,18 +33923,20 @@
     "department": "CM",
     "firstName": "Thomas",
     "lastName": "Kommer",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CM 102",
-      "CM 334"
+      "CM 334",
+      "CM 113"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -40318,10 +40324,10 @@
     "department": "EE",
     "firstName": "Ying",
     "lastName": "Leighton",
-    "numEvals": 8,
-    "overallRating": 1.88,
-    "materialClear": 0.62,
-    "studentDifficulties": 2.75,
+    "numEvals": 9,
+    "overallRating": 1.67,
+    "materialClear": 0.55,
+    "studentDifficulties": 2.89,
     "courses": [
       "EE 321",
       "EE 201"
