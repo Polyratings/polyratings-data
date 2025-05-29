@@ -26097,10 +26097,10 @@
     "department": "STAT",
     "firstName": "Immanuel",
     "lastName": "Williams",
-    "numEvals": 23,
-    "overallRating": 1.74,
-    "materialClear": 1.78,
-    "studentDifficulties": 2.18,
+    "numEvals": 24,
+    "overallRating": 1.75,
+    "materialClear": 1.79,
+    "studentDifficulties": 2.17,
     "courses": [
       "STAT 252",
       "STAT 251"
@@ -26112,9 +26112,11 @@
       "Flexible Deadline Policy": 2,
       "Class Handouts": 5,
       "Flexible Attendance Policy": 5,
-      "Inflexible Deadline Policy": 5,
+      "Inflexible Deadline Policy": 6,
       "No Breaks During Lecture": 2,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -36597,16 +36599,19 @@
     "department": "CSC",
     "firstName": "Borislav",
     "lastName": "Hristov",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "CSC"
+      "CSC 445",
+      "CSC 448"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
