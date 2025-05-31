@@ -28657,10 +28657,10 @@
     "department": "ES",
     "firstName": "Aaron",
     "lastName": "Rodriguez",
-    "numEvals": 38,
-    "overallRating": 3.13,
-    "materialClear": 3.18,
-    "studentDifficulties": 2.92,
+    "numEvals": 39,
+    "overallRating": 3.05,
+    "materialClear": 3.1,
+    "studentDifficulties": 2.85,
     "courses": [
       "ES 110",
       "ES 112",
@@ -29776,10 +29776,10 @@
     "department": "ES",
     "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 18,
-    "overallRating": 3.89,
-    "materialClear": 3.93,
-    "studentDifficulties": 3.77,
+    "numEvals": 20,
+    "overallRating": 3.6,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.65,
     "courses": [
       "ES 253"
     ],
@@ -32828,10 +32828,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 14,
-    "overallRating": 3.07,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.5,
+    "numEvals": 15,
+    "overallRating": 3,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.47,
     "courses": [
       "ES 255",
       "ES 380"
@@ -39117,10 +39117,10 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 20,
-    "overallRating": 2.16,
-    "materialClear": 1.9,
-    "studentDifficulties": 2.81,
+    "numEvals": 21,
+    "overallRating": 2.25,
+    "materialClear": 2,
+    "studentDifficulties": 2.87,
     "courses": [
       "PHYS 143",
       "ASTR 101",
@@ -39128,7 +39128,7 @@
       "PHYS 142"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 4,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 4,
@@ -39138,7 +39138,9 @@
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -41144,18 +41146,18 @@
     "department": "STAT",
     "firstName": "Trevor",
     "lastName": "Ruiz",
-    "numEvals": 6,
-    "overallRating": 2.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.83,
+    "numEvals": 7,
+    "overallRating": 2.14,
+    "materialClear": 3,
+    "studentDifficulties": 2.71,
     "courses": [
       "STAT 425",
       "STAT 218"
     ],
     "tags": {
-      "Does Not Use Canvas": 4,
+      "Does Not Use Canvas": 5,
       "Uploads Slides": 3,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1
