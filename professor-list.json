@@ -10775,15 +10775,17 @@
     "department": "BUS",
     "firstName": "Bingyi (Nicole)",
     "lastName": "Wu",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 393"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -11283,12 +11285,13 @@
     "department": "LA",
     "firstName": "Ryan",
     "lastName": "Sandwick",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
-      "LA 101"
+      "LA 101",
+      "CRP 314"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -15189,10 +15192,10 @@
     "department": "ES",
     "firstName": "Jenell",
     "lastName": "Navarro",
-    "numEvals": 27,
-    "overallRating": 3.41,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.46,
+    "numEvals": 28,
+    "overallRating": 3.43,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.48,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -16036,10 +16039,10 @@
     "department": "ENGL",
     "firstName": "William",
     "lastName": "Walters",
-    "numEvals": 79,
-    "overallRating": 2.64,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.68,
+    "numEvals": 80,
+    "overallRating": 2.66,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.7,
     "courses": [
       "ENGL 101",
       "ENGL 134",
@@ -18316,10 +18319,10 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 9,
-    "overallRating": 3.56,
-    "materialClear": 3.32,
-    "studentDifficulties": 3.67,
+    "numEvals": 10,
+    "overallRating": 3.6,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.7,
     "courses": [
       "EE 212",
       "EE 242",
@@ -24113,10 +24116,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 147,
-    "overallRating": 1.82,
+    "numEvals": 148,
+    "overallRating": 1.83,
     "materialClear": 1.69,
-    "studentDifficulties": 1.81,
+    "studentDifficulties": 1.82,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -24137,14 +24140,14 @@
       "MATH 242"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 5,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Inflexible Deadline Policy": 3,
       "Does Not Use Canvas": 3,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -25705,10 +25708,10 @@
     "department": "STAT",
     "firstName": "Kevin",
     "lastName": "Ross",
-    "numEvals": 37,
-    "overallRating": 3.59,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.46,
+    "numEvals": 38,
+    "overallRating": 3.6,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.47,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -26270,10 +26273,10 @@
     "department": "SPAN",
     "firstName": "Karen",
     "lastName": "Christian",
-    "numEvals": 34,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.56,
-    "overallRating": 3.56,
+    "numEvals": 35,
+    "overallRating": 3.57,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.57,
     "courses": [
       "ES 112",
       "SPAN 121",
@@ -26286,7 +26289,8 @@
       "SPAN 302",
       "SPAN 305",
       "HUM 310"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "9d48d517-6302-40f9-85be-0688cfb25b8d",
@@ -29719,10 +29723,10 @@
     "department": "COMS",
     "firstName": "Frank",
     "lastName": "Bucquoy",
-    "numEvals": 15,
-    "overallRating": 2.73,
-    "materialClear": 2.74,
-    "studentDifficulties": 3,
+    "numEvals": 16,
+    "overallRating": 2.62,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.94,
     "courses": [
       "COMS 101",
       "ENGL 101",
@@ -30455,8 +30459,8 @@
     "department": "MATE",
     "firstName": "Nicole",
     "lastName": "Johnson-Glauch",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -30467,7 +30471,10 @@
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
