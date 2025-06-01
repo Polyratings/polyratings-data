@@ -10026,10 +10026,10 @@
     "department": "PHIL",
     "firstName": "Joe",
     "lastName": "Lynch",
-    "numEvals": 118,
-    "materialClear": 2.38,
-    "studentDifficulties": 2.27,
+    "numEvals": 119,
     "overallRating": 2.43,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.28,
     "courses": [
       "PHIL 125",
       "PHIL 230",
@@ -10042,7 +10042,10 @@
       "PHIL 321",
       "PHIL 342",
       "PHIL 422"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "3b0821b5-a9ec-43c4-aed1-2af998bc120a",
