@@ -4137,10 +4137,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 76,
-    "overallRating": 1.57,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.53,
+    "numEvals": 77,
+    "overallRating": 1.6,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.56,
     "courses": [
       "EE 111",
       "EE 151",
@@ -11793,10 +11793,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 48,
-    "overallRating": 1.44,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.65,
+    "numEvals": 49,
+    "overallRating": 1.41,
+    "materialClear": 1.61,
+    "studentDifficulties": 1.62,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -11809,8 +11809,8 @@
     "tags": {
       "High In-Person Availability": 3,
       "Inflexible Attendance Policy": 26,
-      "Inflexible Deadline Policy": 14,
-      "Inflexible Grading Policy": 15,
+      "Inflexible Deadline Policy": 15,
+      "Inflexible Grading Policy": 16,
       "No Breaks During Lecture": 9,
       "Supplemental Study Material": 9,
       "Uploads Slides": 9,
@@ -18168,10 +18168,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 147,
-    "overallRating": 1.8,
-    "materialClear": 1.95,
-    "studentDifficulties": 1.66,
+    "numEvals": 148,
+    "overallRating": 1.81,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.68,
     "courses": [
       "CE 204",
       "CE 211",
@@ -18197,8 +18197,8 @@
       "Does Not Use Canvas": 5,
       "Pop Quizzes": 4,
       "Flexible Grading Policy": 1,
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2
     }
   },
   {
@@ -20064,15 +20064,19 @@
     "department": "PHIL",
     "firstName": "Albus",
     "lastName": "Dumbledore",
-    "numEvals": 3,
-    "overallRating": 3.17,
-    "materialClear": 3.5,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3.38,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.25,
     "courses": [
       "PHIL 150",
       "PHIL 230"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "76e0af89-403c-4b42-9d91-7e7a39b967f0",
@@ -22175,10 +22179,10 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Johnston",
-    "numEvals": 53,
-    "overallRating": 2.7,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.43,
+    "numEvals": 54,
+    "overallRating": 2.72,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.46,
     "courses": [
       "GEOL 102",
       "PHYS 102",
@@ -32689,10 +32693,10 @@
     "department": "CHEM",
     "firstName": "Severus",
     "lastName": "Snape",
-    "numEvals": 12,
-    "overallRating": 3.15,
-    "materialClear": 3.21,
-    "studentDifficulties": 2.52,
+    "numEvals": 13,
+    "overallRating": 2.98,
+    "materialClear": 3.12,
+    "studentDifficulties": 2.33,
     "courses": [
       "CHEM 101",
       "CHEM 110",
@@ -32703,12 +32707,14 @@
       "CHEM 202",
       "CHEM 211",
       "CHEM 242",
-      "CHEM 394"
+      "CHEM 394",
+      "CHEM 377"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -34768,10 +34774,10 @@
     "department": "ENGL",
     "firstName": "Alicia",
     "lastName": "Moretti",
-    "numEvals": 25,
-    "overallRating": 3.28,
-    "materialClear": 3.19,
-    "studentDifficulties": 3.28,
+    "numEvals": 26,
+    "overallRating": 3.27,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.23,
     "courses": [
       "ENGL 134",
       "ENGL 290",
@@ -34781,7 +34787,8 @@
       "High In-Person Availability": 1,
       "Class Handouts": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -35821,7 +35828,7 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -35833,7 +35840,10 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -40640,16 +40650,19 @@
     "department": "EE",
     "firstName": "Ying",
     "lastName": "Leighton",
-    "numEvals": 9,
-    "overallRating": 1.67,
-    "materialClear": 0.55,
-    "studentDifficulties": 2.89,
+    "numEvals": 10,
+    "overallRating": 1.5,
+    "materialClear": 0.5,
+    "studentDifficulties": 2.6,
     "courses": [
       "EE 321",
       "EE 201"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
