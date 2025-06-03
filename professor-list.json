@@ -8021,7 +8021,7 @@
     "department": "MATH",
     "firstName": "Anton",
     "lastName": "Kaul",
-    "numEvals": 151,
+    "numEvals": 152,
     "overallRating": 3.58,
     "materialClear": 3.63,
     "studentDifficulties": 3.44,
@@ -11858,9 +11858,9 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 101,
-    "overallRating": 2.79,
-    "materialClear": 2.85,
+    "numEvals": 102,
+    "overallRating": 2.8,
+    "materialClear": 2.86,
     "studentDifficulties": 2.67,
     "courses": [
       "TH 110",
@@ -11878,7 +11878,8 @@
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 2,
       "Uploads Slides": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -14722,10 +14723,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 6,
-    "overallRating": 2,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.33,
+    "numEvals": 8,
+    "overallRating": 1.88,
+    "materialClear": 2.37,
+    "studentDifficulties": 2,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -24889,10 +24890,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 33,
-    "overallRating": 3.56,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.49,
+    "numEvals": 34,
+    "overallRating": 3.57,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.51,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -24904,8 +24905,8 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 10,
-      "Class Handouts": 10,
+      "High In-Person Availability": 11,
+      "Class Handouts": 11,
       "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "Fast Response Time": 3,
@@ -36195,10 +36196,10 @@
     "department": "EE",
     "firstName": "Steve",
     "lastName": "Dunton",
-    "numEvals": 7,
-    "overallRating": 3.14,
-    "materialClear": 2.85,
-    "studentDifficulties": 3.14,
+    "numEvals": 8,
+    "overallRating": 2.75,
+    "materialClear": 2.49,
+    "studentDifficulties": 3.12,
     "courses": [
       "EE 201",
       "EE 504",
