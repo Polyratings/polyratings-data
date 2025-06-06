@@ -7123,10 +7123,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 87,
-    "overallRating": 2.32,
-    "materialClear": 2.23,
-    "studentDifficulties": 2.24,
+    "numEvals": 88,
+    "overallRating": 2.33,
+    "materialClear": 2.22,
+    "studentDifficulties": 2.26,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -20795,10 +20795,10 @@
     "department": "ME",
     "firstName": "Lauren",
     "lastName": "Rueda",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.74,
     "courses": [
       "ME 341",
       "ME 128",
@@ -20806,8 +20806,10 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Supplemental Study Material": 2,
-      "Fast Response Time": 2
+      "Supplemental Study Material": 3,
+      "Fast Response Time": 2,
+      "Zoom Office Hours": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -21957,17 +21959,23 @@
     "department": "NR",
     "firstName": "David",
     "lastName": "Yun",
-    "numEvals": 12,
-    "overallRating": 3,
-    "materialClear": 2.83,
-    "studentDifficulties": 3.17,
+    "numEvals": 13,
+    "overallRating": 3.08,
+    "materialClear": 2.77,
+    "studentDifficulties": 3.16,
     "courses": [
       "ENVE 218",
       "FNR 218",
       "AGC 318",
       "FNR 318",
-      "FNR 418"
-    ]
+      "FNR 418",
+      "NR 218"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "814d230e-17aa-4898-a2e1-29222ec94619",
@@ -24405,10 +24413,10 @@
     "department": "ME",
     "firstName": "Andrew",
     "lastName": "Kean",
-    "numEvals": 36,
-    "overallRating": 3.08,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.97,
+    "numEvals": 37,
+    "overallRating": 3.1,
+    "materialClear": 3.15,
+    "studentDifficulties": 3,
     "courses": [
       "ME 302",
       "ME 341",
@@ -35418,14 +35426,19 @@
     "department": "ME",
     "firstName": "Eric",
     "lastName": "Espinoza-Wade",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ME"
+      "ME 322",
+      "ME 305"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "d5dbf3be-429f-4a18-8530-dbd6dc05598d",
@@ -39282,10 +39295,10 @@
     "department": "ME",
     "firstName": "William",
     "lastName": "Murray",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 2.97,
     "materialClear": 2.9,
-    "studentDifficulties": 3.03,
+    "studentDifficulties": 3.06,
     "courses": [
       "ME 212",
       "ME 305",
@@ -39297,7 +39310,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -39382,10 +39397,10 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 197,
-    "overallRating": 3.42,
+    "numEvals": 198,
+    "overallRating": 3.41,
     "materialClear": 3.4,
-    "studentDifficulties": 3.25,
+    "studentDifficulties": 3.24,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -39405,7 +39420,7 @@
       "MATH 344"
     ],
     "tags": {
-      "Does Not Use Canvas": 6,
+      "Does Not Use Canvas": 7,
       "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
@@ -41803,10 +41818,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 20,
-    "overallRating": 3.84,
+    "numEvals": 21,
+    "overallRating": 3.85,
     "materialClear": 3.93,
-    "studentDifficulties": 3.84,
+    "studentDifficulties": 3.85,
     "courses": [
       "PHYS 143",
       "PHYS 123",
