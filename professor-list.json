@@ -7111,21 +7111,26 @@
     "department": "ENGL",
     "firstName": "Brian",
     "lastName": "Bates",
-    "numEvals": 39,
-    "overallRating": 3.42,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.45,
+    "numEvals": 41,
+    "overallRating": 3.3,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.38,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 333",
       "ENGL 231",
-      "ENGL 253"
+      "ENGL 253",
+      "ISLA 303"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Recorded Lectures": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -9153,7 +9158,7 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Retsek",
-    "numEvals": 135,
+    "numEvals": 136,
     "overallRating": 3.4,
     "materialClear": 3.44,
     "studentDifficulties": 3.37,
@@ -16969,10 +16974,10 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 31,
-    "overallRating": 2.13,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.13,
+    "numEvals": 33,
+    "overallRating": 2,
+    "materialClear": 1.91,
+    "studentDifficulties": 2,
     "courses": [
       "ENGL 133",
       "ENGL 145",
@@ -16981,7 +16986,8 @@
       "ENGL 312"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -18431,10 +18437,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 152,
-    "overallRating": 1.77,
-    "materialClear": 1.97,
-    "studentDifficulties": 1.68,
+    "numEvals": 153,
+    "overallRating": 1.78,
+    "materialClear": 1.98,
+    "studentDifficulties": 1.69,
     "courses": [
       "CE 204",
       "CE 211",
@@ -18456,12 +18462,13 @@
       "Uploads Slides": 2,
       "No Breaks During Lecture": 2,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Does Not Use Canvas": 5,
       "Pop Quizzes": 5,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 3,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -32021,10 +32028,10 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Wu",
-    "numEvals": 10,
-    "overallRating": 3.9,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.5,
+    "numEvals": 11,
+    "overallRating": 3.82,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.55,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -32034,10 +32041,12 @@
       "Fast Response Time": 3,
       "Uploads Slides": 9,
       "Inflexible Grading Policy": 1,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 4,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Supplemental Study Material": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -34940,17 +34949,19 @@
     "department": "PHYS",
     "firstName": "Roberto",
     "lastName": "Abril Valenzuela",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS 143"
+      "PHYS 143",
+      "PHYS 142"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -39955,9 +39966,9 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 25,
-    "overallRating": 2.33,
-    "materialClear": 2.12,
+    "numEvals": 26,
+    "overallRating": 2.32,
+    "materialClear": 2.08,
     "studentDifficulties": 2.93,
     "courses": [
       "PHYS 143",
