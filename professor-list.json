@@ -11107,10 +11107,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 33,
-    "overallRating": 3.78,
+    "numEvals": 34,
+    "overallRating": 3.79,
     "materialClear": 3.85,
-    "studentDifficulties": 3.81,
+    "studentDifficulties": 3.82,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -11118,14 +11118,16 @@
       "CPE 202",
       "MATH 221",
       "CSC 430",
-      "CSC 248"
+      "CSC 248",
+      "CSC 232"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 1,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Hybrid Option": 1
     }
   },
   {
