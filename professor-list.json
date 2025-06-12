@@ -4141,18 +4141,20 @@
     "department": "MU",
     "firstName": "Aaron",
     "lastName": "Kline",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MU 101"
+      "MU 101",
+      "MU 120"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Supplemental Study Material": 3,
-      "Uploads Slides": 2,
-      "Class Handouts": 1
+      "Uploads Slides": 3,
+      "Class Handouts": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -18815,9 +18817,9 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 10,
-    "overallRating": 3.8,
-    "materialClear": 3.49,
+    "numEvals": 12,
+    "overallRating": 3.59,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "EE 212",
@@ -18828,11 +18830,12 @@
     "tags": {
       "Recorded Lectures": 4,
       "Fast Response Time": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Supplemental Study Material": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -39885,10 +39888,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 98,
+    "numEvals": 99,
     "overallRating": 2.93,
-    "materialClear": 3.07,
-    "studentDifficulties": 2.66,
+    "materialClear": 3.08,
+    "studentDifficulties": 2.67,
     "courses": [
       "ENGL 250",
       "ENGL 251",
@@ -41773,10 +41776,10 @@
     "department": "EE",
     "firstName": "Wayne",
     "lastName": "Pilkington",
-    "numEvals": 45,
-    "overallRating": 3.54,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.43,
+    "numEvals": 46,
+    "overallRating": 3.53,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.4,
     "courses": [
       "CPE 129",
       "EE 129",
