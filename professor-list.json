@@ -4194,10 +4194,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 78,
-    "overallRating": 1.63,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.57,
+    "numEvals": 79,
+    "overallRating": 1.66,
+    "materialClear": 1.74,
+    "studentDifficulties": 1.56,
     "courses": [
       "EE 111",
       "EE 151",
@@ -5718,10 +5718,10 @@
     "department": "STAT",
     "firstName": "Steve",
     "lastName": "Rein",
-    "numEvals": 93,
-    "overallRating": 2.15,
-    "materialClear": 2.02,
-    "studentDifficulties": 2.15,
+    "numEvals": 94,
+    "overallRating": 2.17,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.16,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -5740,8 +5740,9 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Flexible Attendance Policy": 2,
+      "Supplemental Study Material": 2,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -8541,10 +8542,10 @@
     "department": "AGB",
     "firstName": "Sean",
     "lastName": "Hurley",
-    "numEvals": 48,
-    "overallRating": 2.87,
-    "materialClear": 3.15,
-    "studentDifficulties": 2.75,
+    "numEvals": 49,
+    "overallRating": 2.89,
+    "materialClear": 3.17,
+    "studentDifficulties": 2.78,
     "courses": [
       "AGB 212",
       "AGB 260",
@@ -8557,8 +8558,10 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -12012,10 +12015,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 49,
-    "overallRating": 1.41,
-    "materialClear": 1.61,
-    "studentDifficulties": 1.62,
+    "numEvals": 50,
+    "overallRating": 1.38,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.59,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -36752,10 +36755,10 @@
     "department": "EE",
     "firstName": "Steve",
     "lastName": "Dunton",
-    "numEvals": 9,
-    "overallRating": 2.56,
-    "materialClear": 2.55,
-    "studentDifficulties": 3.11,
+    "numEvals": 10,
+    "overallRating": 2.5,
+    "materialClear": 2.4,
+    "studentDifficulties": 3.1,
     "courses": [
       "EE 201",
       "EE 504",
@@ -40704,10 +40707,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 21,
-    "overallRating": 2.95,
-    "materialClear": 2.71,
-    "studentDifficulties": 3.43,
+    "numEvals": 23,
+    "overallRating": 3.04,
+    "materialClear": 2.82,
+    "studentDifficulties": 3.48,
     "courses": [
       "COMS 100",
       "COMS 316",
