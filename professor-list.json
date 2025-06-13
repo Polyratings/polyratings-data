@@ -3235,9 +3235,9 @@
     "department": "BRAE",
     "firstName": "Rudy",
     "lastName": "Schalk",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "BRAE 239"
@@ -6259,9 +6259,9 @@
     "department": "PHYS",
     "firstName": "Hyewon",
     "lastName": "Pechkis",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143"
@@ -13044,17 +13044,20 @@
     "department": "ME",
     "firstName": "Emad",
     "lastName": "Hasani",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
-    "materialClear": 3.5,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
       "ME 392",
-      "ME 305"
+      "ME 305",
+      "ME 302"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -30464,10 +30467,10 @@
     "department": "ENGL",
     "firstName": "Diana",
     "lastName": "Turken",
-    "numEvals": 7,
-    "overallRating": 3.43,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.5,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.87,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -31882,7 +31885,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 132,
+    "numEvals": 133,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
