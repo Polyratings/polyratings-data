@@ -8841,10 +8841,10 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 9,
-    "overallRating": 2,
-    "materialClear": 1.78,
-    "studentDifficulties": 2,
+    "numEvals": 10,
+    "overallRating": 2.1,
+    "materialClear": 1.8,
+    "studentDifficulties": 2.1,
     "courses": [
       "AERO 121",
       "AERO 220",
@@ -17015,10 +17015,10 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 34,
-    "overallRating": 1.94,
-    "materialClear": 1.85,
-    "studentDifficulties": 1.94,
+    "numEvals": 37,
+    "overallRating": 1.78,
+    "materialClear": 1.7,
+    "studentDifficulties": 1.78,
     "courses": [
       "ENGL 133",
       "ENGL 145",
@@ -17027,7 +17027,7 @@
       "ENGL 312"
     ],
     "tags": {
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Inflexible Attendance Policy": 1,
       "Pop Quizzes": 1
     }
@@ -18309,8 +18309,8 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 75,
-    "overallRating": 2.9,
+    "numEvals": 76,
+    "overallRating": 2.91,
     "materialClear": 2.89,
     "studentDifficulties": 2.77,
     "courses": [
@@ -20669,10 +20669,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 73,
-    "overallRating": 2.04,
-    "materialClear": 1.95,
-    "studentDifficulties": 2.08,
+    "numEvals": 74,
+    "overallRating": 2.05,
+    "materialClear": 1.96,
+    "studentDifficulties": 2.09,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -20690,13 +20690,13 @@
       "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 5,
       "Fast Response Time": 2,
-      "Class Handouts": 5,
-      "High In-Person Availability": 2,
+      "Class Handouts": 6,
+      "High In-Person Availability": 3,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 2,
       "Zoom Office Hours": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -40675,16 +40675,17 @@
     "department": "CHEM",
     "firstName": "Rouxi",
     "lastName": "Wang",
-    "numEvals": 6,
-    "overallRating": 3.17,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 3.29,
+    "materialClear": 2.71,
+    "studentDifficulties": 3.29,
     "courses": [
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 125"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Uploads Slides": 4,
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
@@ -42706,10 +42707,10 @@
     "department": "MATH",
     "firstName": "Cameron",
     "lastName": "Fredrickson",
-    "numEvals": 48,
-    "overallRating": 0.88,
-    "materialClear": 1.18,
-    "studentDifficulties": 0.86,
+    "numEvals": 49,
+    "overallRating": 0.86,
+    "materialClear": 1.16,
+    "studentDifficulties": 0.84,
     "courses": [
       "MATH 141",
       "MATH 118",
@@ -42720,10 +42721,10 @@
       "High In-Person Availability": 2,
       "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 25,
-      "Inflexible Deadline Policy": 11,
+      "Inflexible Grading Policy": 26,
+      "Inflexible Deadline Policy": 12,
       "Hybrid Option": 1,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "No Breaks During Lecture": 4,
       "Flexible Grading Policy": 1
     }
