@@ -8154,10 +8154,10 @@
     "department": "ISLA",
     "firstName": "Lauren",
     "lastName": "Beck",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.67,
     "courses": [
       "ISLA 340",
       "ENGL 145",
@@ -8165,13 +8165,14 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Flexible Deadline Policy": 4,
+      "Flexible Deadline Policy": 5,
       "No Breaks During Lecture": 1,
       "Hybrid Option": 1,
       "Flexible Attendance Policy": 2,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -12118,10 +12119,10 @@
     "department": "IME",
     "firstName": "virginia",
     "lastName": "callow",
-    "numEvals": 47,
-    "overallRating": 1.71,
-    "materialClear": 1.59,
-    "studentDifficulties": 1.74,
+    "numEvals": 48,
+    "overallRating": 1.74,
+    "materialClear": 1.62,
+    "studentDifficulties": 1.77,
     "courses": [
       "IME 223",
       "IME 314",
@@ -12136,12 +12137,14 @@
     "tags": {
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 1,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Pop Quizzes": 2,
       "Does Not Use Canvas": 2,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -15936,10 +15939,10 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 15,
-    "overallRating": 3.73,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.79,
+    "numEvals": 16,
+    "overallRating": 3.75,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.8,
     "courses": [
       "SOC 355",
       "SOC 406",
@@ -15954,7 +15957,8 @@
       "Hybrid Option": 4,
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 3,
-      "Recorded Lectures": 4
+      "Recorded Lectures": 4,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -28476,10 +28480,10 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 19,
-    "overallRating": 3.59,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.74,
+    "numEvals": 20,
+    "overallRating": 3.61,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.75,
     "courses": [
       "CSC 101",
       "CSC 203",
@@ -28493,7 +28497,7 @@
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1,
       "Honor DRC Accommodations": 1,
@@ -29597,10 +29601,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 26,
+    "numEvals": 27,
     "overallRating": 3.88,
     "materialClear": 3.91,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.72,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -29612,10 +29616,10 @@
       "Recorded Lectures": 1,
       "High In-Person Availability": 5,
       "Fast Response Time": 11,
-      "Zoom Office Hours": 6,
-      "Uploads Slides": 7,
+      "Zoom Office Hours": 7,
+      "Uploads Slides": 8,
       "Flexible Deadline Policy": 3,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 2
     }
   },
@@ -42068,9 +42072,9 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 76,
+    "numEvals": 77,
     "overallRating": 3.28,
-    "materialClear": 3.39,
+    "materialClear": 3.38,
     "studentDifficulties": 3.11,
     "courses": [
       "BIO 112",
