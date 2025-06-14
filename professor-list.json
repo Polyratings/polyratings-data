@@ -7857,7 +7857,7 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7868,9 +7868,9 @@
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 2,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "Zoom Office Hours": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
@@ -17464,10 +17464,10 @@
     "department": "HLTH",
     "firstName": "Joni",
     "lastName": "Roberts",
-    "numEvals": 11,
-    "overallRating": 1.36,
-    "materialClear": 2.46,
-    "studentDifficulties": 0.73,
+    "numEvals": 12,
+    "overallRating": 1.41,
+    "materialClear": 2.59,
+    "studentDifficulties": 0.75,
     "courses": [
       "HLTH 260",
       "HLTH 410"
@@ -29044,12 +29044,13 @@
     "department": "BUS",
     "firstName": "Sakif",
     "lastName": "Rahman",
-    "numEvals": 37,
-    "overallRating": 0.62,
-    "materialClear": 0.8,
-    "studentDifficulties": 0.96,
+    "numEvals": 39,
+    "overallRating": 0.79,
+    "materialClear": 0.96,
+    "studentDifficulties": 1.12,
     "courses": [
-      "BUS 431"
+      "BUS 431",
+      "BUS 464"
     ],
     "tags": {
       "Inflexible Deadline Policy": 11,
@@ -29059,10 +29060,11 @@
       "Does Not Use Canvas": 11,
       "Inflexible Grading Policy": 7,
       "Uploads Slides": 6,
-      "Fast Response Time": 2,
-      "Supplemental Study Material": 2,
+      "Fast Response Time": 4,
+      "Supplemental Study Material": 3,
       "Honor DRC Accommodations": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "High In-Person Availability": 2
     }
   },
   {
@@ -32877,10 +32879,10 @@
     "department": "BIO",
     "firstName": "Grace",
     "lastName": "Goschke",
-    "numEvals": 126,
-    "overallRating": 2.32,
+    "numEvals": 127,
+    "overallRating": 2.31,
     "materialClear": 2.33,
-    "studentDifficulties": 2.16,
+    "studentDifficulties": 2.14,
     "courses": [
       "BIO 111",
       "BIO 302"
@@ -43320,10 +43322,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 52,
-    "overallRating": 1.81,
-    "materialClear": 2.1,
-    "studentDifficulties": 1.9,
+    "numEvals": 53,
+    "overallRating": 1.79,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.92,
     "courses": [
       "BIO 161",
       "BIO 221",
