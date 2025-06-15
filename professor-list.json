@@ -2927,7 +2927,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 200,
+    "numEvals": 201,
     "overallRating": 3.53,
     "materialClear": 3.62,
     "studentDifficulties": 3.33,
@@ -2943,11 +2943,13 @@
     "tags": {
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 7,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -9618,10 +9620,10 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "BUS 391"
     ],
