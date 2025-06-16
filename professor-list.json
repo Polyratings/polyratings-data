@@ -13446,16 +13446,21 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "BUS 394",
       "BUS 393",
-      "BUS 520"
+      "BUS 520",
+      "BUS 498"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "4ef576c2-5ab8-4e76-8892-fe5b977f0c29",
@@ -21425,10 +21430,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 44,
-    "overallRating": 2.01,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.11,
+    "numEvals": 45,
+    "overallRating": 2.05,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.15,
     "courses": [
       "TH 210",
       "TH 227",
@@ -32697,7 +32702,7 @@
     "department": "EE",
     "firstName": "Siavash",
     "lastName": "Farzan",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -35424,10 +35429,10 @@
     "department": "PHYS",
     "firstName": "Tatiana",
     "lastName": "Kuriabova",
-    "numEvals": 28,
-    "overallRating": 2.42,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.41,
+    "numEvals": 29,
+    "overallRating": 2.37,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.33,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -38930,10 +38935,10 @@
     "department": "PHIL",
     "firstName": "Blake",
     "lastName": "Batoon",
-    "numEvals": 8,
-    "overallRating": 2.25,
-    "materialClear": 2.01,
-    "studentDifficulties": 2.88,
+    "numEvals": 9,
+    "overallRating": 2.33,
+    "materialClear": 2.23,
+    "studentDifficulties": 3,
     "courses": [
       "PHIL 126"
     ],
@@ -41484,10 +41489,10 @@
     "department": "HIST",
     "firstName": "Sarah",
     "lastName": "Bridger",
-    "numEvals": 32,
-    "overallRating": 3.19,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.12,
+    "numEvals": 33,
+    "overallRating": 3.18,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.09,
     "courses": [
       "HIST 111",
       "HIST 202",
@@ -41497,8 +41502,10 @@
       "HIST 440"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Fast Response Time": 1
+      "Inflexible Attendance Policy": 2,
+      "Fast Response Time": 1,
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -42498,7 +42505,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 223,
+    "numEvals": 224,
     "overallRating": 3.38,
     "materialClear": 3.4,
     "studentDifficulties": 3.29,
@@ -42521,14 +42528,15 @@
     "tags": {
       "Inflexible Grading Policy": 1,
       "Class Handouts": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 3,
       "Inflexible Deadline Policy": 1,
-      "Supplemental Study Material": 5,
+      "Supplemental Study Material": 6,
       "Uploads Slides": 1,
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
