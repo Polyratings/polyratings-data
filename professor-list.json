@@ -34841,23 +34841,27 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 55,
-    "overallRating": 2.86,
-    "materialClear": 3.1,
-    "studentDifficulties": 2.72,
+    "numEvals": 56,
+    "overallRating": 2.88,
+    "materialClear": 3.12,
+    "studentDifficulties": 2.74,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 350",
       "PHIL 411",
-      "PHIL 412"
+      "PHIL 412",
+      "PHIL 449"
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
       "Fast Response Time": 3,
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -40067,10 +40071,10 @@
     "department": "PHYS",
     "firstName": "Reza",
     "lastName": "Monadi",
-    "numEvals": 27,
-    "overallRating": 2.27,
+    "numEvals": 28,
+    "overallRating": 2.3,
     "materialClear": 2.04,
-    "studentDifficulties": 2.86,
+    "studentDifficulties": 2.9,
     "courses": [
       "PHYS 143",
       "ASTR 101",
@@ -40090,7 +40094,7 @@
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 2
+      "Flexible Deadline Policy": 3
     }
   },
   {
@@ -43396,10 +43400,10 @@
     "department": "AERO",
     "firstName": "Cole",
     "lastName": "Saucier",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "AERO 299"
     ],
