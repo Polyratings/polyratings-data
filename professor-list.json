@@ -3524,20 +3524,20 @@
     "department": "BUS",
     "firstName": "Barry",
     "lastName": "VanderKelen",
-    "numEvals": 16,
-    "overallRating": 2.56,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.82,
+    "numEvals": 17,
+    "overallRating": 2.41,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.77,
     "courses": [
       "BUS 401",
       "BUS 387"
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Class Handouts": 1,
       "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -6927,22 +6927,23 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 6,
-    "overallRating": 1.67,
-    "materialClear": 1.17,
-    "studentDifficulties": 1.83,
+    "numEvals": 7,
+    "overallRating": 2,
+    "materialClear": 1.57,
+    "studentDifficulties": 2.14,
     "courses": [
       "BUS 215",
       "BUS 412"
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Fast Response Time": 2,
-      "Uploads Slides": 2,
+      "Fast Response Time": 3,
+      "Uploads Slides": 3,
       "Class Handouts": 2,
       "Pop Quizzes": 2,
       "Recorded Lectures": 1,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -13055,14 +13056,15 @@
     "department": "ME",
     "firstName": "Emad",
     "lastName": "Hasani",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 3.75,
+    "materialClear": 3.8,
     "studentDifficulties": 4,
     "courses": [
       "ME 392",
       "ME 305",
-      "ME 302"
+      "ME 302",
+      "ME 341"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
@@ -17379,18 +17381,18 @@
     "department": "CSC",
     "firstName": "Laila",
     "lastName": "Abdelhafeez",
-    "numEvals": 7,
-    "overallRating": 3.29,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 3.38,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "CSC 349",
       "CSC 202"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
-      "Uploads Slides": 3,
-      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 2,
+      "Uploads Slides": 4,
+      "Supplemental Study Material": 2,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1
     }
@@ -28257,10 +28259,10 @@
     "department": "PHIL",
     "firstName": "Eleanor",
     "lastName": "Helms",
-    "numEvals": 45,
-    "overallRating": 2.96,
-    "materialClear": 2.98,
-    "studentDifficulties": 2.99,
+    "numEvals": 46,
+    "overallRating": 2.98,
+    "materialClear": 3,
+    "studentDifficulties": 3.01,
     "courses": [
       "PHIL 230",
       "PHIL 312",
@@ -28274,9 +28276,9 @@
       "Honor DRC Accommodations": 1,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 3,
-      "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 4,
+      "Uploads Slides": 7,
+      "Inflexible Deadline Policy": 2,
       "Pop Quizzes": 3,
       "High In-Person Availability": 1
     }
@@ -42869,15 +42871,15 @@
     "department": "BUS",
     "firstName": "Mary",
     "lastName": "Gibbs",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 1.67,
     "courses": [
-      "BUS"
+      "BUS 391"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 1
     }
   },
