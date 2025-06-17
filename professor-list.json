@@ -7935,10 +7935,10 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 21,
-    "overallRating": 2.95,
-    "materialClear": 2.94,
-    "studentDifficulties": 3.23,
+    "numEvals": 22,
+    "overallRating": 3,
+    "materialClear": 2.99,
+    "studentDifficulties": 3.27,
     "courses": [
       "EE 255",
       "EE 228",
@@ -7951,7 +7951,7 @@
     ],
     "tags": {
       "Uploads Slides": 6,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
@@ -7959,8 +7959,8 @@
       "Class Handouts": 1,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Fast Response Time": 1,
-      "Zoom Office Hours": 1,
+      "Fast Response Time": 2,
+      "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 1
     }
   },
@@ -12618,10 +12618,10 @@
     "department": "STAT",
     "firstName": "Allison",
     "lastName": "Theobold",
-    "numEvals": 9,
-    "overallRating": 3.22,
-    "materialClear": 3.22,
-    "studentDifficulties": 3,
+    "numEvals": 10,
+    "overallRating": 3,
+    "materialClear": 3.1,
+    "studentDifficulties": 2.8,
     "courses": [
       "STAT 313",
       "STAT 331",
@@ -15785,18 +15785,18 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 23,
-    "overallRating": 1.52,
-    "materialClear": 1.31,
-    "studentDifficulties": 1.66,
+    "numEvals": 24,
+    "overallRating": 1.58,
+    "materialClear": 1.34,
+    "studentDifficulties": 1.76,
     "courses": [
       "CSC 202",
       "EE 201"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Inflexible Deadline Policy": 2,
       "Does Not Use Canvas": 1,
       "Recorded Lectures": 1,
@@ -16362,10 +16362,10 @@
     "department": "STAT",
     "firstName": "Bret",
     "lastName": "Holladay",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "STAT 426",
       "STAT 324"
@@ -25833,10 +25833,10 @@
     "department": "PHYS",
     "firstName": "Hilary",
     "lastName": "Jacks",
-    "numEvals": 17,
-    "overallRating": 1,
-    "materialClear": 1.22,
-    "studentDifficulties": 1.77,
+    "numEvals": 18,
+    "overallRating": 0.94,
+    "materialClear": 1.15,
+    "studentDifficulties": 1.67,
     "courses": [
       "PHYS 133",
       "PHYS 141",
@@ -25847,7 +25847,7 @@
       "Class Handouts": 2,
       "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 2,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "Inflexible Grading Policy": 1
     }
@@ -27075,10 +27075,10 @@
     "department": "ENGL",
     "firstName": "Sophia",
     "lastName": "Forster",
-    "numEvals": 21,
-    "overallRating": 2.9,
-    "materialClear": 3.18,
-    "studentDifficulties": 2.69,
+    "numEvals": 23,
+    "overallRating": 2.65,
+    "materialClear": 2.91,
+    "studentDifficulties": 2.46,
     "courses": [
       "ENGL 240",
       "ENGL 242",
@@ -27092,7 +27092,8 @@
       "Fast Response Time": 1,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -41122,14 +41123,17 @@
     "department": "STAT",
     "firstName": "Julia",
     "lastName": "Schedler",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "STAT"
+      "STAT 312"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f427b6c8-1ab0-48ac-b62e-1bf3de7a5fb8",
@@ -42105,7 +42109,7 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 77,
+    "numEvals": 78,
     "overallRating": 3.28,
     "materialClear": 3.38,
     "studentDifficulties": 3.11,
@@ -42118,8 +42122,8 @@
       "SCM 325"
     ],
     "tags": {
-      "No Breaks During Lecture": 4,
-      "Flexible Attendance Policy": 3,
+      "No Breaks During Lecture": 5,
+      "Flexible Attendance Policy": 4,
       "Uploads Slides": 6,
       "Recorded Lectures": 3
     }
@@ -42524,7 +42528,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 224,
+    "numEvals": 225,
     "overallRating": 3.38,
     "materialClear": 3.4,
     "studentDifficulties": 3.29,
@@ -42547,11 +42551,11 @@
     "tags": {
       "Inflexible Grading Policy": 1,
       "Class Handouts": 2,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Fast Response Time": 3,
       "Inflexible Deadline Policy": 1,
-      "Supplemental Study Material": 6,
-      "Uploads Slides": 1,
+      "Supplemental Study Material": 7,
+      "Uploads Slides": 2,
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
