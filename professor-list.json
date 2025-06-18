@@ -2063,12 +2063,13 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Mccomb",
-    "numEvals": 9,
-    "overallRating": 2,
-    "materialClear": 1.78,
-    "studentDifficulties": 1.89,
+    "numEvals": 10,
+    "overallRating": 1.8,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.7,
     "courses": [
-      "HIST 202"
+      "HIST 202",
+      "HIST 223"
     ],
     "tags": {
       "Hybrid Option": 1,
@@ -12761,25 +12762,26 @@
     "department": "ENGL",
     "firstName": "Maura",
     "lastName": "Krause",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.76,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.79,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 147"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Inflexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 2,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Hybrid Option": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -23946,10 +23948,10 @@
     "department": "MU",
     "firstName": "Stephen",
     "lastName": "Nutt",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "MU 120"
     ],
