@@ -18421,10 +18421,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 64,
-    "overallRating": 1.54,
-    "materialClear": 1.88,
-    "studentDifficulties": 1.55,
+    "numEvals": 65,
+    "overallRating": 1.56,
+    "materialClear": 1.91,
+    "studentDifficulties": 1.59,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -18437,12 +18437,12 @@
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 3,
-      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 4,
+      "Flexible Deadline Policy": 2,
       "No Breaks During Lecture": 3,
       "Does Not Use Canvas": 2,
       "Class Handouts": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -19556,10 +19556,10 @@
     "department": "ART",
     "firstName": "Ava",
     "lastName": "Werner",
-    "numEvals": 20,
-    "overallRating": 3.76,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.67,
+    "numEvals": 21,
+    "overallRating": 3.72,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.69,
     "courses": [
       "ART 101",
       "ART 103",
@@ -26784,10 +26784,10 @@
     "department": "EE",
     "firstName": "Majid",
     "lastName": "Poshtan",
-    "numEvals": 26,
-    "overallRating": 3.19,
-    "materialClear": 3.19,
-    "studentDifficulties": 3.31,
+    "numEvals": 27,
+    "overallRating": 3.22,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.34,
     "courses": [
       "EE 212",
       "EE 255",
@@ -28695,22 +28695,25 @@
     "department": "HIST",
     "firstName": "Gregory",
     "lastName": "Domber",
-    "numEvals": 14,
-    "overallRating": 3.5,
-    "materialClear": 3.65,
+    "numEvals": 15,
+    "overallRating": 3.47,
+    "materialClear": 3.67,
     "studentDifficulties": 3.01,
     "courses": [
-      "HIST 202"
+      "HIST 202",
+      "HIST 213"
     ],
     "tags": {
       "Inflexible Attendance Policy": 9,
       "Does Not Use Canvas": 2,
       "Uploads Slides": 2,
       "Supplemental Study Material": 2,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Fast Response Time": 2,
       "Inflexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -33675,10 +33678,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 107,
+    "numEvals": 108,
     "overallRating": 3.49,
     "materialClear": 3.56,
-    "studentDifficulties": 3.42,
+    "studentDifficulties": 3.43,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -33693,7 +33696,7 @@
       "Flexible Deadline Policy": 1,
       "Class Handouts": 2,
       "Uploads Slides": 5,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Inflexible Grading Policy": 2,
       "Hybrid Option": 3,
       "Fast Response Time": 1,
@@ -41530,10 +41533,10 @@
     "department": "HIST",
     "firstName": "Sarah",
     "lastName": "Bridger",
-    "numEvals": 33,
-    "overallRating": 3.18,
-    "materialClear": 3.23,
-    "studentDifficulties": 3.09,
+    "numEvals": 34,
+    "overallRating": 3.17,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.12,
     "courses": [
       "HIST 111",
       "HIST 202",
@@ -41546,7 +41549,9 @@
       "Inflexible Attendance Policy": 2,
       "Fast Response Time": 1,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
