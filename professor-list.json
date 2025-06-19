@@ -13508,7 +13508,7 @@
     "department": "PHIL",
     "firstName": "Sean",
     "lastName": "Pierce",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -13518,7 +13518,9 @@
     "tags": {
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -22375,16 +22377,17 @@
     "department": "HIST",
     "firstName": "Andrea",
     "lastName": "Onate Madrazo",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 1.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.67,
     "courses": [
       "HIST 216"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -38080,10 +38083,10 @@
     "department": "PHIL",
     "firstName": "Francisco",
     "lastName": "Fernflores",
-    "numEvals": 29,
-    "overallRating": 3.22,
-    "materialClear": 3.34,
-    "studentDifficulties": 3.22,
+    "numEvals": 30,
+    "overallRating": 3.25,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.25,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -38099,7 +38102,9 @@
       "Supplemental Study Material": 1,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
