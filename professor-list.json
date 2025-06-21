@@ -2063,20 +2063,22 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Mccomb",
-    "numEvals": 10,
-    "overallRating": 1.8,
-    "materialClear": 1.6,
-    "studentDifficulties": 1.7,
+    "numEvals": 16,
+    "overallRating": 1.12,
+    "materialClear": 0.99,
+    "studentDifficulties": 1.07,
     "courses": [
       "HIST 202",
-      "HIST 223"
+      "HIST 223",
+      "HIST 222"
     ],
     "tags": {
       "Hybrid Option": 1,
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "Inflexible Grading Policy": 3,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Grading Policy": 7,
+      "Inflexible Deadline Policy": 5,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -21834,10 +21836,10 @@
     "department": "EE",
     "firstName": "Xiao-Hua",
     "lastName": "Yu",
-    "numEvals": 35,
-    "overallRating": 2.34,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.12,
+    "numEvals": 36,
+    "overallRating": 2.39,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.17,
     "courses": [
       "EE 112",
       "EE 151",
