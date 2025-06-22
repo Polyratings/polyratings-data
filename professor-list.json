@@ -24679,17 +24679,18 @@
     "department": "ASCI",
     "firstName": "Mark",
     "lastName": "Edwards",
-    "numEvals": 43,
-    "overallRating": 2.42,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.22,
+    "numEvals": 44,
+    "overallRating": 2.41,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.17,
     "courses": [
       "ASCI 112",
       "ASCI 220",
       "ASCI 221",
       "ASCI 290",
       "ASCI 346",
-      "ASCI 363"
+      "ASCI 363",
+      "ASCI 339"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -32354,20 +32355,21 @@
     "department": "DSCI",
     "firstName": "David",
     "lastName": "Vagnoni",
-    "numEvals": 8,
-    "overallRating": 3.13,
-    "materialClear": 2.87,
-    "studentDifficulties": 3.25,
+    "numEvals": 9,
+    "overallRating": 3.12,
+    "materialClear": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "ASCI 220",
       "DSCI 301",
       "ASCI 101"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -38139,10 +38141,10 @@
     "department": "ASCI",
     "firstName": "Jaymie",
     "lastName": "Noland",
-    "numEvals": 34,
-    "overallRating": 3.2,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.09,
+    "numEvals": 35,
+    "overallRating": 3.22,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.03,
     "courses": [
       "ASCI 101",
       "ASCI 102",
@@ -39946,10 +39948,10 @@
     "department": "CHEM",
     "firstName": "Mariam",
     "lastName": "Shafqat",
-    "numEvals": 8,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.38,
+    "numEvals": 9,
+    "overallRating": 3.56,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.45,
     "courses": [
       "CHEM 127",
       "CHEM 128"
@@ -39957,10 +39959,10 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 3,
+      "Honor DRC Accommodations": 4,
       "High In-Person Availability": 3,
-      "Fast Response Time": 2,
-      "Uploads Slides": 4,
+      "Fast Response Time": 3,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1
