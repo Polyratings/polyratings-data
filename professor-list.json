@@ -8090,15 +8090,16 @@
     "department": "MATH",
     "firstName": "Terrin",
     "lastName": "Warren",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 2,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "materialClear": 2.33,
+    "studentDifficulties": 1.67,
     "courses": [
       "MATH 248"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -15029,17 +15030,17 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 9,
-    "overallRating": 1.67,
-    "materialClear": 2.11,
-    "studentDifficulties": 1.78,
+    "numEvals": 10,
+    "overallRating": 1.8,
+    "materialClear": 2.1,
+    "studentDifficulties": 1.8,
     "courses": [
       "CSC 101",
       "CSC 203"
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 1,
       "Uploads Slides": 1,
