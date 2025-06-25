@@ -1255,17 +1255,19 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 11,
-    "overallRating": 1.27,
-    "materialClear": 1.64,
-    "studentDifficulties": 2.01,
+    "numEvals": 12,
+    "overallRating": 1.33,
+    "materialClear": 1.59,
+    "studentDifficulties": 2.09,
     "courses": [
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 142"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -7340,19 +7342,20 @@
     "department": "ENGL",
     "firstName": "Thomas",
     "lastName": "Lugo",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.8,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 2
+      "Class Handouts": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -8453,17 +8456,17 @@
     "department": "ME",
     "firstName": "Amanda",
     "lastName": "Emberly",
-    "numEvals": 5,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2.4,
+    "numEvals": 6,
+    "overallRating": 2.33,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.67,
     "courses": [
       "ME 234",
       "ME 211"
     ],
     "tags": {
-      "Uploads Slides": 1,
-      "High In-Person Availability": 1,
+      "Uploads Slides": 2,
+      "High In-Person Availability": 2,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 1
     }
@@ -10400,7 +10403,7 @@
     "department": "IME",
     "firstName": "Kyle",
     "lastName": "Debernardi",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -10408,12 +10411,13 @@
       "IME 146",
       "ME 251",
       "IME 144",
-      "IME 145"
+      "IME 145",
+      "IME 143"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Fast Response Time": 2,
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -25799,16 +25803,17 @@
     "department": "CHEM",
     "firstName": "Elahe",
     "lastName": "Mahdavian",
-    "numEvals": 4,
-    "overallRating": 1.5,
-    "materialClear": 1.75,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 1.6,
+    "studentDifficulties": 2.8,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 4
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 5,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -27427,10 +27432,10 @@
     "department": "ENGL",
     "firstName": "Anthony",
     "lastName": "Lugo",
-    "numEvals": 7,
-    "overallRating": 3.29,
+    "numEvals": 8,
+    "overallRating": 3.25,
     "materialClear": 3,
-    "studentDifficulties": 3.57,
+    "studentDifficulties": 3.5,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -27439,10 +27444,10 @@
       "Flexible Attendance Policy": 3,
       "Class Handouts": 4,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 3,
-      "Does Not Use Canvas": 3,
+      "High In-Person Availability": 4,
+      "Does Not Use Canvas": 4,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 2
+      "Flexible Deadline Policy": 3
     }
   },
   {
@@ -35010,10 +35015,10 @@
     "department": "IME",
     "firstName": "Trian",
     "lastName": "Georgeou",
-    "numEvals": 24,
-    "overallRating": 3.75,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.85,
+    "numEvals": 25,
+    "overallRating": 3.76,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.86,
     "courses": [
       "IME 140",
       "IME 142",
@@ -35026,8 +35031,8 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "High In-Person Availability": 1,
-      "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 2
+      "Inflexible Deadline Policy": 2,
+      "Uploads Slides": 3
     }
   },
   {
