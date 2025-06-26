@@ -9711,10 +9711,10 @@
     "department": "CHEM",
     "firstName": "Eric",
     "lastName": "Kantorowski",
-    "numEvals": 48,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.45,
-    "overallRating": 3.57,
+    "numEvals": 49,
+    "overallRating": 3.58,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.46,
     "courses": [
       "CHEM 216",
       "CHEM 217",
@@ -9725,7 +9725,12 @@
       "CHEM 318",
       "CHEM 326",
       "CHEM 470"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "37e96a91-b90b-41f2-9462-146171078359",
@@ -32066,10 +32071,10 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 23,
-    "overallRating": 3.73,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.87,
+    "numEvals": 24,
+    "overallRating": 3.74,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.88,
     "courses": [
       "PHYS 143",
       "PHYS 142",
@@ -32080,15 +32085,15 @@
     "tags": {
       "Fast Response Time": 5,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 15,
+      "Uploads Slides": 16,
       "High In-Person Availability": 5,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 10,
+      "Flexible Attendance Policy": 11,
       "No Breaks During Lecture": 3,
       "Flexible Grading Policy": 2,
       "Inflexible Attendance Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 4
+      "Supplemental Study Material": 5
     }
   },
   {
@@ -34111,20 +34116,23 @@
     "department": "DSCI",
     "firstName": "Chi Kong",
     "lastName": "Yeung",
-    "numEvals": 10,
-    "overallRating": 3.9,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.9,
+    "numEvals": 11,
+    "overallRating": 3.91,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.91,
     "courses": [
       "DSCI 231",
       "DSCI 233",
       "DSCI 401",
-      "ASCI 290"
+      "ASCI 290",
+      "DSCI 402"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
