@@ -7780,19 +7780,20 @@
     "department": "ME",
     "firstName": "Tim",
     "lastName": "Jain",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 3,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.75,
     "courses": [
       "ME 228",
       "ME 211"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
