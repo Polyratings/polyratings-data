@@ -2964,9 +2964,9 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 53,
-    "overallRating": 3,
-    "materialClear": 2.83,
+    "numEvals": 54,
+    "overallRating": 2.98,
+    "materialClear": 2.8,
     "studentDifficulties": 2.83,
     "courses": [
       "ASTR 102",
@@ -2980,12 +2980,14 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 1,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 2,
+      "Fast Response Time": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -3247,10 +3249,10 @@
     "department": "BRAE",
     "firstName": "Rudy",
     "lastName": "Schalk",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3,
+    "studentDifficulties": 3.4,
     "courses": [
       "BRAE 239"
     ],
@@ -3259,7 +3261,8 @@
       "Supplemental Study Material": 1,
       "Uploads Slides": 2,
       "Flexible Deadline Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -24881,10 +24884,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 151,
-    "overallRating": 1.83,
-    "materialClear": 1.7,
-    "studentDifficulties": 1.82,
+    "numEvals": 152,
+    "overallRating": 1.82,
+    "materialClear": 1.69,
+    "studentDifficulties": 1.81,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -29661,16 +29664,20 @@
     "department": "BUS",
     "firstName": "Sanjiv",
     "lastName": "Jaggia",
-    "numEvals": 22,
-    "overallRating": 2.69,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.39,
+    "numEvals": 23,
+    "overallRating": 2.7,
+    "materialClear": 2.86,
+    "studentDifficulties": 2.42,
     "courses": [
       "BUS 342",
       "ECON 339",
       "ECON 340",
       "ECON 406"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "ac3c624a-ef00-4f6c-94c7-397438375445",
@@ -35070,10 +35077,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 135,
+    "numEvals": 136,
     "overallRating": 2.89,
-    "materialClear": 2.78,
-    "studentDifficulties": 2.87,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.86,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -35084,15 +35091,15 @@
       "CHEM 128"
     ],
     "tags": {
-      "High In-Person Availability": 9,
+      "High In-Person Availability": 10,
       "Fast Response Time": 6,
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 5,
       "Class Handouts": 9,
-      "Supplemental Study Material": 9,
+      "Supplemental Study Material": 10,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
