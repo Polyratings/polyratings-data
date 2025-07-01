@@ -638,10 +638,10 @@
     "department": "BUS",
     "firstName": "John",
     "lastName": "Dobson",
-    "numEvals": 70,
-    "materialClear": 2.54,
-    "studentDifficulties": 2.67,
-    "overallRating": 2.7,
+    "numEvals": 71,
+    "overallRating": 2.72,
+    "materialClear": 2.56,
+    "studentDifficulties": 2.69,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -651,7 +651,11 @@
       "BUS 443",
       "BUS 445",
       "BUS 498"
-    ]
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "04472feb-9d1b-453b-8b89-c377d2562008",
@@ -15463,10 +15467,10 @@
     "department": "ITP",
     "firstName": "Enar",
     "lastName": "Tunc",
-    "numEvals": 10,
-    "overallRating": 2.2,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.5,
+    "numEvals": 11,
+    "overallRating": 2.36,
+    "materialClear": 1.73,
+    "studentDifficulties": 2.64,
     "courses": [
       "ITP 371",
       "ITP 125",
@@ -15475,9 +15479,9 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Deadline Policy": 1,
-      "Pop Quizzes": 3,
+      "Pop Quizzes": 4,
       "Flexible Grading Policy": 1
     }
   },
@@ -16608,23 +16612,23 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 10,
-    "overallRating": 3.41,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.5,
+    "numEvals": 11,
+    "overallRating": 3.46,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.36,
     "courses": [
       "PHIL 323",
       "PHIL 336"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Supplemental Study Material": 3,
       "Inflexible Grading Policy": 1,
       "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "High In-Person Availability": 1,
-      "Honor DRC Accommodations": 2
+      "Honor DRC Accommodations": 3
     }
   },
   {
@@ -26009,10 +26013,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 87,
-    "overallRating": 2.24,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.14,
+    "numEvals": 88,
+    "overallRating": 2.25,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.13,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -26032,7 +26036,7 @@
       "Inflexible Grading Policy": 5,
       "No Breaks During Lecture": 1,
       "Pop Quizzes": 1,
-      "Class Handouts": 3
+      "Class Handouts": 4
     }
   },
   {
@@ -27608,10 +27612,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 40,
-    "overallRating": 3.76,
+    "numEvals": 41,
+    "overallRating": 3.77,
     "materialClear": 3.84,
-    "studentDifficulties": 3.73,
+    "studentDifficulties": 3.74,
     "courses": [
       "BIO 102",
       "BIO 114",
@@ -27621,12 +27625,13 @@
     "tags": {
       "High In-Person Availability": 6,
       "Flexible Attendance Policy": 7,
-      "Uploads Slides": 13,
+      "Uploads Slides": 14,
       "Fast Response Time": 3,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30409,7 +30414,7 @@
     "department": "BIO",
     "firstName": "Dena",
     "lastName": "Paolili",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -30418,7 +30423,8 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -34054,24 +34060,26 @@
     "department": "GRC",
     "firstName": "April",
     "lastName": "Elliott",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.83,
-    "studentDifficulties": 4,
+    "numEvals": 7,
+    "overallRating": 3.85,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.71,
     "courses": [
       "GRC 201",
       "GRC 101",
-      "GRC 211"
+      "GRC 211",
+      "GRC 328"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Uploads Slides": 4,
+      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 5,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -41843,7 +41851,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 24,
+    "numEvals": 25,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
