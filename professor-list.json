@@ -7958,10 +7958,10 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 22,
-    "overallRating": 3,
-    "materialClear": 2.99,
-    "studentDifficulties": 3.27,
+    "numEvals": 23,
+    "overallRating": 3.04,
+    "materialClear": 3.03,
+    "studentDifficulties": 3.3,
     "courses": [
       "EE 255",
       "EE 228",
@@ -15356,22 +15356,24 @@
     "department": "SOC",
     "firstName": "Nikhil",
     "lastName": "Deb",
-    "numEvals": 10,
-    "overallRating": 3.81,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.89,
+    "numEvals": 11,
+    "overallRating": 3.83,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.9,
     "courses": [
       "SOC 218",
-      "SOC 110"
+      "SOC 110",
+      "SOC 222"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 2,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Grading Policy": 3,
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -15397,10 +15399,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 50,
-    "overallRating": 2.84,
-    "materialClear": 3,
-    "studentDifficulties": 2.61,
+    "numEvals": 51,
+    "overallRating": 2.86,
+    "materialClear": 3.02,
+    "studentDifficulties": 2.64,
     "courses": [
       "EE 112",
       "EE 201",
@@ -17826,10 +17828,10 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 22,
-    "overallRating": 3.09,
-    "materialClear": 2.78,
-    "studentDifficulties": 3.36,
+    "numEvals": 23,
+    "overallRating": 3.04,
+    "materialClear": 2.66,
+    "studentDifficulties": 3.39,
     "courses": [
       "CSC 101",
       "CSC 202",
@@ -18919,9 +18921,9 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 13,
-    "overallRating": 3.62,
-    "materialClear": 3.54,
+    "numEvals": 14,
+    "overallRating": 3.65,
+    "materialClear": 3.57,
     "studentDifficulties": 4,
     "courses": [
       "EE 212",
@@ -26539,10 +26541,10 @@
     "department": "STAT",
     "firstName": "Kevin",
     "lastName": "Ross",
-    "numEvals": 38,
-    "overallRating": 3.6,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.47,
+    "numEvals": 39,
+    "overallRating": 3.58,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.48,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -26553,7 +26555,11 @@
       "STAT 305",
       "DATA 301"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "9a5bee3b-f150-4d46-b3c7-f5d45e32e122",
@@ -28243,10 +28249,10 @@
     "department": "KINE",
     "firstName": "Heather",
     "lastName": "Starnes",
-    "numEvals": 17,
-    "overallRating": 3,
-    "materialClear": 2.94,
-    "studentDifficulties": 3.29,
+    "numEvals": 18,
+    "overallRating": 2.94,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.16,
     "courses": [
       "KINE 250",
       "KINE 255",
@@ -33207,10 +33213,10 @@
     "department": "CPE",
     "firstName": "Andrew",
     "lastName": "Danowitz",
-    "numEvals": 14,
-    "overallRating": 2.66,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.68,
+    "numEvals": 15,
+    "overallRating": 2.75,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.77,
     "courses": [
       "CPE 133",
       "CPE 233",
