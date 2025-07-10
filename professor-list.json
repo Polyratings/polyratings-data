@@ -19357,22 +19357,23 @@
     "department": "CHEM",
     "firstName": "Brian",
     "lastName": "Salvatore",
-    "numEvals": 5,
-    "overallRating": 2.2,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.2,
+    "numEvals": 6,
+    "overallRating": 2.5,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Inflexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -24367,10 +24368,10 @@
     "department": "MATH",
     "firstName": "Hai",
     "lastName": "Tran",
-    "numEvals": 14,
-    "overallRating": 1.73,
-    "materialClear": 1.38,
-    "studentDifficulties": 1.85,
+    "numEvals": 16,
+    "overallRating": 2.01,
+    "materialClear": 1.7,
+    "studentDifficulties": 2.12,
     "courses": [
       "MATH 118",
       "MATH 221"
