@@ -40065,9 +40065,9 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 99,
-    "overallRating": 2.93,
-    "materialClear": 3.08,
+    "numEvals": 100,
+    "overallRating": 2.94,
+    "materialClear": 3.09,
     "studentDifficulties": 2.67,
     "courses": [
       "ENGL 250",
@@ -40085,11 +40085,11 @@
       "ENGL 502"
     ],
     "tags": {
-      "Fast Response Time": 2,
-      "Does Not Use Canvas": 7,
+      "Fast Response Time": 3,
+      "Does Not Use Canvas": 8,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1
     }
   },
@@ -43127,10 +43127,10 @@
     "department": "ART",
     "firstName": "Kathryn",
     "lastName": "McCormick",
-    "numEvals": 19,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.32,
-    "overallRating": 2.23,
+    "numEvals": 20,
+    "overallRating": 2.27,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.3,
     "courses": [
       "ART 181",
       "ART 238",
@@ -43143,7 +43143,11 @@
       "ART 431",
       "ART 438",
       "ART 463"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "fdb090c5-7e78-4561-9506-72b3733a094d",
