@@ -19181,19 +19181,21 @@
     "department": "EE",
     "firstName": "Jenna",
     "lastName": "Kloosterman",
-    "numEvals": 5,
-    "overallRating": 1.2,
-    "materialClear": 1,
-    "studentDifficulties": 1.2,
+    "numEvals": 6,
+    "overallRating": 1,
+    "materialClear": 0.83,
+    "studentDifficulties": 1,
     "courses": [
       "EE 242",
-      "EE 201"
+      "EE 201",
+      "EE 335"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Class Handouts": 1
     }
   },
   {
