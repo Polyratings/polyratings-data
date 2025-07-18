@@ -7886,7 +7886,7 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7899,7 +7899,9 @@
       "Fast Response Time": 2,
       "Does Not Use Canvas": 2,
       "Zoom Office Hours": 1,
-      "Class Handouts": 2
+      "Class Handouts": 3,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -8746,10 +8748,10 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.13,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.12,
     "courses": [
       "ASCI 224",
       "ASCI 112",
@@ -8758,9 +8760,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 3,
-      "Inflexible Attendance Policy": 1,
-      "High In-Person Availability": 1
+      "Uploads Slides": 4,
+      "Inflexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -10160,10 +10163,10 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 51,
-    "overallRating": 3.73,
+    "numEvals": 52,
+    "overallRating": 3.74,
     "materialClear": 3.79,
-    "studentDifficulties": 3.76,
+    "studentDifficulties": 3.75,
     "courses": [
       "HIST 201",
       "HIST 207",
@@ -10177,10 +10180,10 @@
       "High In-Person Availability": 3,
       "Fast Response Time": 2,
       "Zoom Office Hours": 3,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 2,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 2
     }
   },
   {
@@ -10393,10 +10396,10 @@
     "department": "DSCI",
     "firstName": "Katherine",
     "lastName": "Swanson",
-    "numEvals": 9,
-    "overallRating": 3.79,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.33,
+    "numEvals": 10,
+    "overallRating": 3.81,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.4,
     "courses": [
       "DSCI 230",
       "ASCI 220",
@@ -10407,9 +10410,11 @@
       "Pop Quizzes": 5,
       "Supplemental Study Material": 1,
       "Recorded Lectures": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 2,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -12699,10 +12704,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 6,
-    "overallRating": 0.33,
-    "materialClear": 1.5,
-    "studentDifficulties": 0.83,
+    "numEvals": 7,
+    "overallRating": 0.43,
+    "materialClear": 1.43,
+    "studentDifficulties": 0.71,
     "courses": [
       "ES 350"
     ],
