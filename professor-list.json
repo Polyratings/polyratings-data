@@ -43015,11 +43015,14 @@
     "department": "ME",
     "firstName": "Ronald",
     "lastName": "Mussulman",
-    "numEvals": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0,
-    "overallRating": 0,
-    "courses": []
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "AEPS 515"
+    ],
+    "tags": {}
   },
   {
     "id": "fd0b38de-1183-4c27-ab5d-2a9e00159092",
