@@ -16692,17 +16692,20 @@
     "department": "BUS",
     "firstName": "Miranda",
     "lastName": "Yin",
-    "numEvals": 5,
-    "overallRating": 0.6,
-    "materialClear": 0.6,
-    "studentDifficulties": 1.8,
+    "numEvals": 6,
+    "overallRating": 1,
+    "materialClear": 0.83,
+    "studentDifficulties": 1.83,
     "courses": [
       "BUS 346"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
