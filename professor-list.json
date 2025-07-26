@@ -14558,10 +14558,10 @@
     "department": "PHYS",
     "firstName": "Thomas",
     "lastName": "Gutierrez",
-    "numEvals": 43,
-    "overallRating": 3.11,
-    "materialClear": 2.88,
-    "studentDifficulties": 3.2,
+    "numEvals": 44,
+    "overallRating": 3.13,
+    "materialClear": 2.91,
+    "studentDifficulties": 3.22,
     "courses": [
       "PHYS 121",
       "PHYS 132",
@@ -14578,12 +14578,13 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
-      "Supplemental Study Material": 2,
-      "Uploads Slides": 5,
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 6,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -33240,10 +33241,10 @@
     "department": "CPE",
     "firstName": "Andrew",
     "lastName": "Danowitz",
-    "numEvals": 15,
-    "overallRating": 2.75,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.77,
+    "numEvals": 16,
+    "overallRating": 2.83,
+    "materialClear": 2.44,
+    "studentDifficulties": 2.85,
     "courses": [
       "CPE 133",
       "CPE 233",
@@ -33259,7 +33260,8 @@
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -42253,10 +42255,10 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 79,
+    "numEvals": 80,
     "overallRating": 3.29,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.12,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.11,
     "courses": [
       "BIO 112",
       "BIO 210",
@@ -42267,9 +42269,10 @@
     ],
     "tags": {
       "No Breaks During Lecture": 5,
-      "Flexible Attendance Policy": 4,
-      "Uploads Slides": 6,
-      "Recorded Lectures": 3
+      "Flexible Attendance Policy": 5,
+      "Uploads Slides": 7,
+      "Recorded Lectures": 3,
+      "Flexible Grading Policy": 1
     }
   },
   {
