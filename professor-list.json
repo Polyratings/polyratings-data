@@ -9904,10 +9904,10 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 16,
-    "overallRating": 2.07,
-    "materialClear": 1.45,
-    "studentDifficulties": 2.51,
+    "numEvals": 17,
+    "overallRating": 2.01,
+    "materialClear": 1.42,
+    "studentDifficulties": 2.42,
     "courses": [
       "CHEM 129",
       "CHEM 128",
@@ -9915,7 +9915,7 @@
       "CHEM 124"
     ],
     "tags": {
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Zoom Office Hours": 2,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 1,
@@ -26725,10 +26725,10 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 15,
-    "overallRating": 3.32,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.45,
+    "numEvals": 17,
+    "overallRating": 2.99,
+    "materialClear": 3.11,
+    "studentDifficulties": 3.04,
     "courses": [
       "ENGL 231",
       "ENGL 305",
@@ -26737,7 +26737,11 @@
       "ENGL 349",
       "ENGL 439"
     ],
-    "tags": {}
+    "tags": {
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "99cbf65c-f534-4087-b71a-ce3754a62990",
@@ -28906,10 +28910,10 @@
     "department": "PHIL",
     "firstName": "Adam",
     "lastName": "BenShea",
-    "numEvals": 17,
-    "overallRating": 3.45,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.3,
+    "numEvals": 18,
+    "overallRating": 3.48,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.34,
     "courses": [
       "RELS 201",
       "RELS 302",
@@ -28919,7 +28923,7 @@
       "PHIL 378"
     ],
     "tags": {
-      "Recorded Lectures": 4,
+      "Recorded Lectures": 5,
       "Zoom Office Hours": 1,
       "Fast Response Time": 2,
       "Supplemental Study Material": 1,
@@ -35316,10 +35320,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 136,
+    "numEvals": 137,
     "overallRating": 2.89,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.86,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.87,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -35327,7 +35331,8 @@
       "CHEM 127",
       "CHEM 129",
       "CHEM 331",
-      "CHEM 128"
+      "CHEM 128",
+      "CHEM 126"
     ],
     "tags": {
       "High In-Person Availability": 10,
@@ -41199,22 +41204,22 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 10,
-    "overallRating": 3.8,
+    "numEvals": 11,
+    "overallRating": 3.82,
     "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.64,
     "courses": [
       "CSC 305",
       "CSC 357"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 3,
-      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 4,
+      "Flexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1
     }
