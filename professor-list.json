@@ -12805,10 +12805,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 8,
-    "overallRating": 0.5,
-    "materialClear": 1.38,
-    "studentDifficulties": 0.75,
+    "numEvals": 9,
+    "overallRating": 0.44,
+    "materialClear": 1.23,
+    "studentDifficulties": 0.67,
     "courses": [
       "ES 350"
     ],
@@ -15511,10 +15511,10 @@
     "department": "SOC",
     "firstName": "Nikhil",
     "lastName": "Deb",
-    "numEvals": 11,
-    "overallRating": 3.83,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.9,
+    "numEvals": 12,
+    "overallRating": 3.51,
+    "materialClear": 3.16,
+    "studentDifficulties": 3.66,
     "courses": [
       "SOC 218",
       "SOC 110",
@@ -39372,17 +39372,18 @@
     "department": "SOC",
     "firstName": "Kylie",
     "lastName": "Parrotta",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.75,
     "courses": [
       "SOC 110"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Fast Response Time": 2,
-      "Flexible Deadline Policy": 1
+      "Fast Response Time": 3,
+      "Flexible Deadline Policy": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
