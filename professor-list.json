@@ -19273,19 +19273,20 @@
     "department": "FSN",
     "firstName": "Janae",
     "lastName": "Mudge",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 3.8,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "FSN 250",
       "FSN 202"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -43791,9 +43792,9 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 57,
+    "numEvals": 58,
     "overallRating": 1.77,
-    "materialClear": 2.06,
+    "materialClear": 2.04,
     "studentDifficulties": 1.92,
     "courses": [
       "BIO 161",
@@ -43803,12 +43804,12 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Attendance Policy": 6,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Attendance Policy": 7,
+      "Inflexible Deadline Policy": 4,
       "Uploads Slides": 4,
       "No Breaks During Lecture": 4,
       "High In-Person Availability": 1,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Supplemental Study Material": 1
     }
   },
