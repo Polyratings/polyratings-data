@@ -10266,7 +10266,7 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 52,
+    "numEvals": 53,
     "overallRating": 3.74,
     "materialClear": 3.79,
     "studentDifficulties": 3.75,
@@ -15057,10 +15057,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 40,
-    "overallRating": 3.37,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.37,
+    "numEvals": 41,
+    "overallRating": 3.39,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.39,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -15074,7 +15074,8 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -42316,10 +42317,10 @@
     "department": "PHIL",
     "firstName": "Linda",
     "lastName": "Bomstad",
-    "numEvals": 31,
-    "overallRating": 2.7,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.42,
+    "numEvals": 32,
+    "overallRating": 2.71,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.44,
     "courses": [
       "PHIL 125",
       "PHIL 126",
@@ -42330,9 +42331,10 @@
     "tags": {
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 2,
-      "No Breaks During Lecture": 2,
-      "Inflexible Deadline Policy": 1
+      "Flexible Grading Policy": 3,
+      "No Breaks During Lecture": 3,
+      "Inflexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
