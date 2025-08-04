@@ -20381,15 +20381,18 @@
     "department": "CE",
     "firstName": "Rebecca",
     "lastName": "Oulton",
-    "numEvals": 6,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.29,
-    "overallRating": 3,
+    "numEvals": 7,
+    "overallRating": 3.14,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.39,
     "courses": [
       "CE 112",
       "CE 336",
       "CE 434"
-    ]
+    ],
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "751f36ff-3759-40b7-9258-30850335b05f",
