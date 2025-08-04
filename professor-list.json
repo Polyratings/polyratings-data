@@ -36660,14 +36660,18 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "Ruys de Perez",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 244"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "d7a3980b-69f3-4c17-8f9c-513e2f7e7315",
