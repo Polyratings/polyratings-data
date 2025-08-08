@@ -24254,7 +24254,7 @@
     "department": "MATH",
     "firstName": "Todd",
     "lastName": "Grundmeier",
-    "numEvals": 75,
+    "numEvals": 76,
     "overallRating": 3.82,
     "materialClear": 3.72,
     "studentDifficulties": 3.72,
@@ -24276,9 +24276,9 @@
     "tags": {
       "High In-Person Availability": 8,
       "Flexible Attendance Policy": 3,
-      "Class Handouts": 7,
-      "Honor DRC Accommodations": 2,
-      "Fast Response Time": 4
+      "Class Handouts": 8,
+      "Honor DRC Accommodations": 3,
+      "Fast Response Time": 5
     }
   },
   {
@@ -42889,16 +42889,17 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 230"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
