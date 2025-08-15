@@ -15454,17 +15454,19 @@
     "department": "PSC",
     "firstName": "Ryan",
     "lastName": "Perry",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PSC"
+      "PSC 110",
+      "AEPS 313"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
