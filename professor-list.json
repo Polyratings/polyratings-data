@@ -2100,10 +2100,10 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Mccomb",
-    "numEvals": 17,
-    "overallRating": 1.11,
-    "materialClear": 0.93,
-    "studentDifficulties": 1.01,
+    "numEvals": 18,
+    "overallRating": 1.05,
+    "materialClear": 0.88,
+    "studentDifficulties": 0.95,
     "courses": [
       "HIST 202",
       "HIST 223",
@@ -20196,10 +20196,10 @@
     "department": "STAT",
     "firstName": "James",
     "lastName": "Oksanish",
-    "numEvals": 11,
-    "overallRating": 3.45,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.28,
+    "numEvals": 12,
+    "overallRating": 3.16,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.34,
     "courses": [
       "STAT 312",
       "STAT 251",
@@ -23955,7 +23955,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 4,
     "materialClear": 3.91,
     "studentDifficulties": 4,
@@ -23964,11 +23964,11 @@
       "ENGL 145"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Flexible Attendance Policy": 10,
       "Flexible Deadline Policy": 13,
       "Flexible Grading Policy": 9,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Zoom Office Hours": 3,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1
@@ -28956,7 +28956,7 @@
     "department": "PSY",
     "firstName": "Hannah",
     "lastName": "Roberts",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -28966,7 +28966,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -39831,10 +39833,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 42,
-    "overallRating": 2.39,
-    "materialClear": 2.44,
-    "studentDifficulties": 2.23,
+    "numEvals": 43,
+    "overallRating": 2.33,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.22,
     "courses": [
       "ENGL 134",
       "ENGL 149",
@@ -39846,7 +39848,7 @@
       "Flexible Grading Policy": 1,
       "Hybrid Option": 4,
       "Inflexible Deadline Policy": 4,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 2,
       "Fast Response Time": 1,
