@@ -2969,7 +2969,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 200,
+    "numEvals": 201,
     "overallRating": 3.53,
     "materialClear": 3.62,
     "studentDifficulties": 3.34,
@@ -4571,10 +4571,10 @@
     "department": "CSC",
     "firstName": "Aaron",
     "lastName": "Keen",
-    "numEvals": 92,
-    "overallRating": 2.9,
+    "numEvals": 93,
+    "overallRating": 2.91,
     "materialClear": 2.91,
-    "studentDifficulties": 2.78,
+    "studentDifficulties": 2.79,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -4593,8 +4593,8 @@
       "CSC 530"
     ],
     "tags": {
-      "Recorded Lectures": 2,
-      "Fast Response Time": 3,
+      "Recorded Lectures": 3,
+      "Fast Response Time": 4,
       "Flexible Deadline Policy": 2
     }
   },
@@ -11271,8 +11271,8 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 34,
-    "overallRating": 3.79,
+    "numEvals": 35,
+    "overallRating": 3.8,
     "materialClear": 3.85,
     "studentDifficulties": 3.83,
     "courses": [
