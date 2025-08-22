@@ -8968,10 +8968,10 @@
     "department": "AERO",
     "firstName": "Chokri",
     "lastName": "Sendi",
-    "numEvals": 10,
-    "overallRating": 2.1,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.1,
+    "numEvals": 11,
+    "overallRating": 2.27,
+    "materialClear": 1.82,
+    "studentDifficulties": 2.18,
     "courses": [
       "AERO 121",
       "AERO 220",
@@ -8982,7 +8982,9 @@
       "Inflexible Grading Policy": 2,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 3,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -20823,10 +20825,10 @@
     "department": "MATH",
     "firstName": "Elsa",
     "lastName": "Medina",
-    "numEvals": 64,
-    "overallRating": 3.48,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.48,
+    "numEvals": 65,
+    "overallRating": 3.49,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.49,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -20838,11 +20840,12 @@
       "MATH 423"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Class Handouts": 5,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Grading Policy": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -43885,14 +43888,18 @@
     "department": "AERO",
     "firstName": "Cole",
     "lastName": "Saucier",
-    "numEvals": 4,
-    "overallRating": 2.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 2,
+    "numEvals": 5,
+    "overallRating": 2,
+    "materialClear": 3.2,
+    "studentDifficulties": 1.6,
     "courses": [
       "AERO 299"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "ffbae220-5850-4960-8d17-db2ada3c788f",
