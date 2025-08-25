@@ -12023,10 +12023,10 @@
     "department": "FR",
     "firstName": "Brian",
     "lastName": "Kennelly",
-    "numEvals": 48,
-    "overallRating": 2.54,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.54,
+    "numEvals": 49,
+    "overallRating": 2.49,
+    "materialClear": 2.7,
+    "studentDifficulties": 2.51,
     "courses": [
       "FR 101",
       "FR 102",
@@ -12042,8 +12042,8 @@
       "FR 350"
     ],
     "tags": {
-      "Does Not Use Canvas": 1,
-      "Inflexible Deadline Policy": 1,
+      "Does Not Use Canvas": 2,
+      "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -40822,10 +40822,10 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 81,
+    "numEvals": 82,
     "overallRating": 2.41,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.46,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.45,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -40837,15 +40837,16 @@
     ],
     "tags": {
       "Fast Response Time": 4,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2,
       "Class Handouts": 1,
       "Inflexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
