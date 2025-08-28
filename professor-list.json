@@ -12356,17 +12356,17 @@
     "department": "BUS",
     "firstName": "Holly",
     "lastName": "Newman",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2.86,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.5,
     "courses": [
       "BUS 214"
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Inflexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1,
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 2,
       "Fast Response Time": 1,
       "Inflexible Deadline Policy": 1
     }
@@ -25599,20 +25599,22 @@
     "department": "HIST",
     "firstName": "Aron",
     "lastName": "Ramirez",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.8,
     "courses": [
-      "HIST 202"
+      "HIST 202",
+      "HIST 303"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Uploads Slides": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 3,
       "Recorded Lectures": 2,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1
     }
   },
   {
