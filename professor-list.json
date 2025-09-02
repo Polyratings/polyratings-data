@@ -1258,19 +1258,20 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 12,
-    "overallRating": 1.33,
-    "materialClear": 1.59,
-    "studentDifficulties": 2.09,
+    "numEvals": 13,
+    "overallRating": 1.54,
+    "materialClear": 1.78,
+    "studentDifficulties": 2.24,
     "courses": [
       "PHYS 141",
       "PHYS 142"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -34059,13 +34060,14 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 18,
-    "overallRating": 2.89,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.28,
+    "numEvals": 19,
+    "overallRating": 2.95,
+    "materialClear": 3.11,
+    "studentDifficulties": 3.32,
     "courses": [
       "ES 255",
-      "ES 380"
+      "ES 380",
+      "ES 112"
     ],
     "tags": {
       "Pop Quizzes": 7,
