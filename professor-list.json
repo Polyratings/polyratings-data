@@ -12258,10 +12258,10 @@
     "department": "TH",
     "firstName": "Philip",
     "lastName": "Valle",
-    "numEvals": 102,
+    "numEvals": 103,
     "overallRating": 2.8,
-    "materialClear": 2.86,
-    "studentDifficulties": 2.67,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.68,
     "courses": [
       "TH 110",
       "TH 201",
@@ -12274,12 +12274,14 @@
     "tags": {
       "Zoom Office Hours": 3,
       "Class Handouts": 2,
-      "Inflexible Deadline Policy": 5,
+      "Inflexible Deadline Policy": 6,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 2,
       "Uploads Slides": 2,
       "No Breaks During Lecture": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -24723,21 +24725,23 @@
     "department": "BIO",
     "firstName": "Gita",
     "lastName": "Kolluru",
-    "numEvals": 47,
-    "overallRating": 3.09,
-    "materialClear": 3.37,
-    "studentDifficulties": 2.97,
+    "numEvals": 48,
+    "overallRating": 3.11,
+    "materialClear": 3.38,
+    "studentDifficulties": 2.99,
     "courses": [
       "BIO 123",
       "BIO 263",
       "BIO 414"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 7,
       "Flexible Attendance Policy": 2,
-      "No Breaks During Lecture": 3
+      "No Breaks During Lecture": 3,
+      "Recorded Lectures": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
