@@ -6116,6 +6116,20 @@
     }
   },
   {
+    "id": "229ec9f1-51fe-41ff-a699-9b6817ce892e",
+    "department": "ITP",
+    "firstName": "Javier",
+    "lastName": "de la Fuente",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ITP"
+    ],
+    "tags": {}
+  },
+  {
     "id": "22c2456d-8540-4574-ac27-499d65a4caef",
     "department": "AGED",
     "firstName": "John",
@@ -14411,6 +14425,24 @@
     ]
   },
   {
+    "id": "5331d1e5-7c62-4e6b-8849-ff2ca608f332",
+    "department": "TH",
+    "firstName": "Hala",
+    "lastName": "Baki",
+    "numEvals": 2,
+    "overallRating": 0,
+    "materialClear": 0.5,
+    "studentDifficulties": 1,
+    "courses": [
+      "TH 210"
+    ],
+    "tags": {
+      "Fast Response Time": 2,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "533a457d-bd11-425a-ab21-eda45a117e4f",
     "department": "ARCE",
     "firstName": "Dhalia",
@@ -15414,6 +15446,23 @@
       "Supplemental Study Material": 1,
       "Flexible Deadline Policy": 1,
       "Pop Quizzes": 1
+    }
+  },
+  {
+    "id": "58be5600-2ea1-4a61-974d-1c5d156bdf47",
+    "department": "ENGL",
+    "firstName": "Mira",
+    "lastName": "Rosenthal",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -19588,6 +19637,20 @@
     "tags": {}
   },
   {
+    "id": "70e55d27-c6c6-431c-a3bb-eb2c3bc656fd",
+    "department": "ART",
+    "firstName": "Lauren",
+    "lastName": "Goldenberg Longoria",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "ART"
+    ],
+    "tags": {}
+  },
+  {
     "id": "70f11b8c-b500-47ab-a2c9-ca727c6464f5",
     "department": "ECON",
     "firstName": "Julie",
@@ -21710,10 +21773,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 51,
-    "overallRating": 1.93,
+    "numEvals": 48,
+    "overallRating": 2.03,
     "materialClear": 2.14,
-    "studentDifficulties": 1.98,
+    "studentDifficulties": 2,
     "courses": [
       "TH 210",
       "TH 227",
@@ -27218,10 +27281,10 @@
     "department": "STAT",
     "firstName": "Immanuel",
     "lastName": "Williams",
-    "numEvals": 25,
-    "overallRating": 1.72,
-    "materialClear": 1.76,
-    "studentDifficulties": 2.12,
+    "numEvals": 24,
+    "overallRating": 1.63,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.04,
     "courses": [
       "STAT 252",
       "STAT 251"
@@ -27480,10 +27543,10 @@
     "department": "MATH",
     "firstName": "Jim",
     "lastName": "Mueller",
-    "numEvals": 163,
+    "numEvals": 162,
+    "overallRating": 3.91,
     "materialClear": 3.91,
     "studentDifficulties": 3.86,
-    "overallRating": 3.91,
     "courses": [
       "MATH 118",
       "MATH 119",
@@ -41417,6 +41480,24 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "f38ff399-ebfe-419b-99ea-2785ae8a2c34",
+    "department": "ME",
+    "firstName": "Charlie",
+    "lastName": "Refvem",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1,
       "Uploads Slides": 1
     }
   },
