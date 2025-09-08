@@ -2977,7 +2977,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 202,
+    "numEvals": 203,
     "overallRating": 3.53,
     "materialClear": 3.62,
     "studentDifficulties": 3.34,
@@ -3580,10 +3580,10 @@
     "department": "BUS",
     "firstName": "Barry",
     "lastName": "VanderKelen",
-    "numEvals": 17,
-    "overallRating": 2.41,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.77,
+    "numEvals": 18,
+    "overallRating": 2.39,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.73,
     "courses": [
       "BUS 401",
       "BUS 387"
@@ -9145,7 +9145,7 @@
     "department": "ME",
     "firstName": "Connor",
     "lastName": "Kingsbury",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -16920,12 +16920,13 @@
     "department": "BUS",
     "firstName": "Miranda",
     "lastName": "Yin",
-    "numEvals": 6,
-    "overallRating": 1,
-    "materialClear": 0.83,
-    "studentDifficulties": 1.83,
+    "numEvals": 7,
+    "overallRating": 1.43,
+    "materialClear": 1.28,
+    "studentDifficulties": 2.14,
     "courses": [
-      "BUS 346"
+      "BUS 346",
+      "BUS 396"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -18363,10 +18364,10 @@
     "department": "IME",
     "firstName": "Jeff",
     "lastName": "Zimmerman",
-    "numEvals": 13,
-    "overallRating": 3.85,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.7,
+    "numEvals": 14,
+    "overallRating": 3.86,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.72,
     "courses": [
       "IME 145",
       "IME 144"
@@ -18377,7 +18378,8 @@
       "Uploads Slides": 4,
       "No Breaks During Lecture": 1,
       "Supplemental Study Material": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -26116,10 +26118,10 @@
     "department": "CHEM",
     "firstName": "Elahe",
     "lastName": "Mahdavian",
-    "numEvals": 5,
-    "overallRating": 1.6,
-    "materialClear": 1.6,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 1.5,
+    "materialClear": 1.33,
+    "studentDifficulties": 2.83,
     "courses": [
       "CHEM 124"
     ],
@@ -29028,10 +29030,10 @@
     "department": "PHIL",
     "firstName": "Adam",
     "lastName": "BenShea",
-    "numEvals": 19,
-    "overallRating": 3.51,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.37,
+    "numEvals": 20,
+    "overallRating": 3.53,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.4,
     "courses": [
       "RELS 201",
       "RELS 302",
@@ -32568,10 +32570,10 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Wu",
-    "numEvals": 11,
-    "overallRating": 3.82,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.55,
+    "numEvals": 12,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.5,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -32583,7 +32585,7 @@
       "Inflexible Grading Policy": 1,
       "Flexible Attendance Policy": 7,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 4,
+      "Flexible Grading Policy": 5,
       "Honor DRC Accommodations": 1,
       "Supplemental Study Material": 1,
       "Does Not Use Canvas": 1
@@ -34388,10 +34390,10 @@
     "department": "PHYS",
     "firstName": "Glen",
     "lastName": "Gillen",
-    "numEvals": 50,
-    "overallRating": 2.91,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.88,
+    "numEvals": 51,
+    "overallRating": 2.93,
+    "materialClear": 2.96,
+    "studentDifficulties": 2.9,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -34405,7 +34407,7 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 2,
       "Fast Response Time": 1
@@ -39463,15 +39465,15 @@
     "department": "PHIL",
     "firstName": "Blake",
     "lastName": "Batoon",
-    "numEvals": 9,
-    "overallRating": 2.33,
-    "materialClear": 2.23,
+    "numEvals": 10,
+    "overallRating": 2.3,
+    "materialClear": 2.41,
     "studentDifficulties": 3,
     "courses": [
       "PHIL 126"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
@@ -42627,10 +42629,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 34,
+    "numEvals": 35,
     "overallRating": 2.02,
-    "materialClear": 2,
-    "studentDifficulties": 2.44,
+    "materialClear": 1.97,
+    "studentDifficulties": 2.46,
     "courses": [
       "MATH 244",
       "MATH 142",
