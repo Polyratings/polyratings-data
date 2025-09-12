@@ -23715,16 +23715,19 @@
     "department": "PHYS",
     "firstName": "Matt",
     "lastName": "Beekman",
-    "numEvals": 3,
-    "overallRating": 1.33,
+    "numEvals": 4,
+    "overallRating": 1.5,
     "materialClear": 2,
-    "studentDifficulties": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "PHYS 143"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -27587,14 +27590,15 @@
     "department": "PHYS",
     "firstName": "Jessica",
     "lastName": "Pilgram",
-    "numEvals": 28,
-    "overallRating": 2.93,
-    "materialClear": 2.68,
+    "numEvals": 31,
+    "overallRating": 3,
+    "materialClear": 2.81,
     "studentDifficulties": 3.29,
     "courses": [
       "PHYS 142",
       "PHYS 143",
-      "PHYS 141"
+      "PHYS 141",
+      "PHYS 121"
     ],
     "tags": {
       "Class Handouts": 3,
