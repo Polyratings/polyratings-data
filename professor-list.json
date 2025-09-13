@@ -4773,14 +4773,20 @@
     "department": "TH",
     "firstName": "Karin",
     "lastName": "Hendricks",
-    "numEvals": 3,
-    "overallRating": 3.11,
-    "materialClear": 3.11,
-    "studentDifficulties": 3.55,
+    "numEvals": 5,
+    "overallRating": 1.86,
+    "materialClear": 1.86,
+    "studentDifficulties": 2.13,
     "courses": [
       "TH 201",
-      "TH 275"
-    ]
+      "TH 275",
+      "TH 220"
+    ],
+    "tags": {
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
+    }
   },
   {
     "id": "19f0e319-a830-49b9-85e4-5aca2d44bb86",
@@ -36666,10 +36672,10 @@
     "department": "CE",
     "firstName": "Amro",
     "lastName": "El Badawy",
-    "numEvals": 20,
-    "overallRating": 3.83,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.88,
+    "numEvals": 21,
+    "overallRating": 3.84,
+    "materialClear": 3.84,
+    "studentDifficulties": 3.89,
     "courses": [
       "CE 251",
       "ENVE 323",
@@ -36684,7 +36690,9 @@
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 2,
       "Honor DRC Accommodations": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
