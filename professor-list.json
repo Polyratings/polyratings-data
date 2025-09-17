@@ -4276,10 +4276,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 80,
-    "overallRating": 1.69,
-    "materialClear": 1.77,
-    "studentDifficulties": 1.57,
+    "numEvals": 81,
+    "overallRating": 1.72,
+    "materialClear": 1.79,
+    "studentDifficulties": 1.56,
     "courses": [
       "EE 111",
       "EE 151",
@@ -4302,7 +4302,9 @@
       "Honor DRC Accommodations": 1,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Class Handouts": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -6989,8 +6991,8 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 327,
-    "overallRating": 1.63,
+    "numEvals": 328,
+    "overallRating": 1.64,
     "materialClear": 2.02,
     "studentDifficulties": 1.62,
     "courses": [
