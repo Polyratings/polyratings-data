@@ -4276,10 +4276,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 81,
-    "overallRating": 1.72,
-    "materialClear": 1.79,
-    "studentDifficulties": 1.56,
+    "numEvals": 82,
+    "overallRating": 1.75,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.57,
     "courses": [
       "EE 111",
       "EE 151",
@@ -4302,9 +4302,11 @@
       "Honor DRC Accommodations": 1,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -35533,7 +35535,7 @@
     "department": "PHYS",
     "firstName": "Roberto",
     "lastName": "Abril Valenzuela",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -35545,7 +35547,9 @@
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -40524,9 +40528,9 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 3.94,
-    "materialClear": 3.81,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -40536,11 +40540,11 @@
     "tags": {
       "Class Handouts": 11,
       "Flexible Grading Policy": 3,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Fast Response Time": 9,
       "High In-Person Availability": 4,
-      "Supplemental Study Material": 4,
-      "Flexible Deadline Policy": 2,
+      "Supplemental Study Material": 5,
+      "Flexible Deadline Policy": 3,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 1
     }
