@@ -6178,7 +6178,7 @@
     "department": "MATH",
     "firstName": "Paul",
     "lastName": "Choboter",
-    "numEvals": 95,
+    "numEvals": 96,
     "overallRating": 3.55,
     "materialClear": 3.54,
     "studentDifficulties": 3.55,
@@ -13024,8 +13024,8 @@
     "department": "ENGL",
     "firstName": "Rebekah",
     "lastName": "Maples",
-    "numEvals": 30,
-    "overallRating": 3.76,
+    "numEvals": 31,
+    "overallRating": 3.77,
     "materialClear": 3.88,
     "studentDifficulties": 3.87,
     "courses": [
@@ -15695,7 +15695,7 @@
     "department": "ENGL",
     "firstName": "Lauren",
     "lastName": "Henley",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -15708,10 +15708,12 @@
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 2,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Uploads Slides": 1,
       "Zoom Office Hours": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
