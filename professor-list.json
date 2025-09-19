@@ -5623,10 +5623,10 @@
     "department": "KINE",
     "firstName": "Nicole",
     "lastName": "Hagobian",
-    "numEvals": 15,
-    "overallRating": 1.97,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.1,
+    "numEvals": 16,
+    "overallRating": 2.1,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.22,
     "courses": [
       "KINE 323",
       "KINE 324",
@@ -5788,10 +5788,10 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 14,
-    "overallRating": 0.43,
-    "materialClear": 0.93,
-    "studentDifficulties": 0.71,
+    "numEvals": 15,
+    "overallRating": 0.47,
+    "materialClear": 1.07,
+    "studentDifficulties": 0.73,
     "courses": [
       "GRC 203",
       "GRC 316"
@@ -5801,11 +5801,12 @@
       "Class Handouts": 1,
       "Inflexible Grading Policy": 5,
       "Inflexible Deadline Policy": 5,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -11588,10 +11589,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 35,
-    "overallRating": 2.1,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.21,
+    "numEvals": 39,
+    "overallRating": 2.24,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.37,
     "courses": [
       "PHYS 141",
       "PHYS 142",
@@ -11599,14 +11600,15 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 3,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Flexible Attendance Policy": 5,
-      "Inflexible Grading Policy": 1,
-      "Uploads Slides": 12,
+      "Inflexible Grading Policy": 2,
+      "Uploads Slides": 15,
       "Flexible Grading Policy": 4,
       "High In-Person Availability": 2,
       "No Breaks During Lecture": 4,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -26182,19 +26184,19 @@
     "department": "GRC",
     "firstName": "Xiaoying",
     "lastName": "Rong",
-    "numEvals": 11,
-    "overallRating": 3.55,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.64,
+    "numEvals": 12,
+    "overallRating": 3.59,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.67,
     "courses": [
       "GRC 211",
       "GRC 328",
       "GRC 357"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2
     }
   },
   {
@@ -26305,7 +26307,7 @@
     "department": "CSC",
     "firstName": "Julie",
     "lastName": "Workman",
-    "numEvals": 108,
+    "numEvals": 109,
     "overallRating": 3.4,
     "materialClear": 3.47,
     "studentDifficulties": 3.46,
@@ -26324,10 +26326,10 @@
       "CSC 202"
     ],
     "tags": {
-      "Recorded Lectures": 4,
-      "Class Handouts": 3,
+      "Recorded Lectures": 5,
+      "Class Handouts": 4,
       "Uploads Slides": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Fast Response Time": 1
     }
   },
@@ -30702,10 +30704,10 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Carroll",
-    "numEvals": 29,
-    "overallRating": 2.51,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.48,
+    "numEvals": 30,
+    "overallRating": 2.53,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.53,
     "courses": [
       "CHEM 110",
       "CHEM 127",
@@ -30719,7 +30721,8 @@
       "CHEM 458"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -33203,10 +33206,10 @@
     "department": "CHEM",
     "firstName": "Justin",
     "lastName": "Hancock",
-    "numEvals": 27,
-    "overallRating": 3.37,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.52,
+    "numEvals": 28,
+    "overallRating": 3.39,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.54,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -39304,17 +39307,18 @@
     "department": "PHYS",
     "firstName": "Brett",
     "lastName": "Clark",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS"
+      "PHYS 141"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Recorded Lectures": 1
     }
   },
   {
