@@ -58,6 +58,23 @@
     ]
   },
   {
+    "id": "0099c43a-2262-4788-a0a9-dc920cce01b9",
+    "department": "GRC",
+    "firstName": "Danielle",
+    "lastName": "Steussy",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "GRC"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
+  },
+  {
     "id": "00f2faeb-fd74-42d0-a3dc-80399f998432",
     "department": "FSN",
     "firstName": "Amanda",
@@ -13451,6 +13468,22 @@
     "tags": {
       "Class Handouts": 1,
       "Uploads Slides": 1
+    }
+  },
+  {
+    "id": "4d23cf14-3560-47a1-8e3c-b3bded851542",
+    "department": "NR",
+    "firstName": "Deirdre",
+    "lastName": "Rogers",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "NR"
+    ],
+    "tags": {
+      "Fast Response Time": 1
     }
   },
   {
@@ -36825,10 +36858,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 53,
-    "overallRating": 3.64,
-    "materialClear": 3.34,
-    "studentDifficulties": 3.51,
+    "numEvals": 52,
+    "overallRating": 3.63,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 118",
       "MATH 141",
