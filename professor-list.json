@@ -3920,14 +3920,16 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.33,
     "courses": [
       "MATH 118"
     ],
-    "tags": {}
+    "tags": {
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "1560360c-4c66-48a6-83e0-6bec9b350288",
