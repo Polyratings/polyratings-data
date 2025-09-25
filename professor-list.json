@@ -6941,10 +6941,10 @@
     "department": "WGS",
     "firstName": "Jane",
     "lastName": "Lehr",
-    "numEvals": 47,
-    "overallRating": 3.14,
-    "materialClear": 3.16,
-    "studentDifficulties": 3.14,
+    "numEvals": 48,
+    "overallRating": 3.07,
+    "materialClear": 3.09,
+    "studentDifficulties": 3.07,
     "courses": [
       "ES 112",
       "WS 112",
@@ -6957,7 +6957,10 @@
       "WGS 450"
     ],
     "tags": {
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
