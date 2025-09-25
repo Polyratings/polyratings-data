@@ -15546,13 +15546,14 @@
     "department": "CE",
     "firstName": "Reza",
     "lastName": "Eslami",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 1.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.67,
     "courses": [
       "CE 207",
-      "CE 208"
+      "CE 208",
+      "CE 259"
     ],
     "tags": {
       "Hybrid Option": 1,
