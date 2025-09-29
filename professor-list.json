@@ -8016,7 +8016,7 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 8,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -8025,13 +8025,15 @@
       "PHIL 231"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 3,
       "Fast Response Time": 2,
       "Does Not Use Canvas": 2,
       "Zoom Office Hours": 1,
       "Class Handouts": 3,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Pop Quizzes": 2,
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -21842,10 +21844,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 51,
-    "overallRating": 2.05,
-    "materialClear": 2.16,
-    "studentDifficulties": 2.02,
+    "numEvals": 52,
+    "overallRating": 2.01,
+    "materialClear": 2.12,
+    "studentDifficulties": 1.98,
     "courses": [
       "TH 210",
       "TH 227",
