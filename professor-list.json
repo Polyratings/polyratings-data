@@ -11962,20 +11962,21 @@
     "department": "COMS",
     "firstName": "Sandra",
     "lastName": "Valois",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.72,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.76,
     "courses": [
       "COMS 101",
       "COMS 213"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 4,
       "Flexible Deadline Policy": 3,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -35521,10 +35522,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 139,
-    "overallRating": 2.91,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.89,
+    "numEvals": 140,
+    "overallRating": 2.89,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.9,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -35544,7 +35545,7 @@
       "Supplemental Study Material": 12,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Recorded Lectures": 1
     }
   },
