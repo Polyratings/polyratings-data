@@ -41930,14 +41930,15 @@
     "department": "ME",
     "firstName": "Dwight",
     "lastName": "Harvey",
-    "numEvals": 9,
-    "overallRating": 3.1,
-    "materialClear": 2.33,
-    "studentDifficulties": 3.66,
+    "numEvals": 10,
+    "overallRating": 2.89,
+    "materialClear": 2.2,
+    "studentDifficulties": 3.39,
     "courses": [
       "ME 129",
       "ME 264",
-      "ME 130"
+      "ME 130",
+      "ME 251"
     ],
     "tags": {
       "Fast Response Time": 2,
@@ -41945,7 +41946,7 @@
       "Uploads Slides": 4,
       "High In-Person Availability": 1,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
