@@ -9567,10 +9567,10 @@
     "department": "BIO",
     "firstName": "Michele",
     "lastName": "Roest",
-    "numEvals": 8,
-    "overallRating": 4,
-    "materialClear": 3.87,
-    "studentDifficulties": 4,
+    "numEvals": 9,
+    "overallRating": 3.78,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.78,
     "courses": [
       "BIO 227",
       "BIO 222"
@@ -12886,19 +12886,21 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 10,
-    "overallRating": 0.5,
-    "materialClear": 1.11,
-    "studentDifficulties": 0.7,
+    "numEvals": 11,
+    "overallRating": 0.73,
+    "materialClear": 1.37,
+    "studentDifficulties": 1,
     "courses": [
       "ES 350"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Inflexible Grading Policy": 3,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
