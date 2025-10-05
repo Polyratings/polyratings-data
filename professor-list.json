@@ -12639,15 +12639,18 @@
     "department": "BUS",
     "firstName": "James",
     "lastName": "Burleson",
-    "numEvals": 25,
-    "materialClear": 3.33,
-    "studentDifficulties": 2.78,
-    "overallRating": 3.22,
+    "numEvals": 26,
+    "overallRating": 3.13,
+    "materialClear": 3.32,
+    "studentDifficulties": 2.71,
     "courses": [
       "BUS 291",
       "BUS 391",
       "BUS 394"
-    ]
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "480d5a00-8603-4ac6-a7cc-17be945f6bf7",
