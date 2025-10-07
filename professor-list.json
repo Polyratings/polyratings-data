@@ -2942,10 +2942,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 5,
-    "overallRating": 2.4,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.6,
+    "numEvals": 6,
+    "overallRating": 2,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.17,
     "courses": [
       "CSC 378",
       "CSC 123"
@@ -2953,7 +2953,8 @@
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -23079,9 +23080,9 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 215,
+    "numEvals": 216,
     "overallRating": 2.65,
-    "materialClear": 2.54,
+    "materialClear": 2.55,
     "studentDifficulties": 2.43,
     "courses": [
       "MATH 112",
@@ -38108,10 +38109,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 69,
-    "overallRating": 2.11,
-    "materialClear": 2.06,
-    "studentDifficulties": 2.06,
+    "numEvals": 70,
+    "overallRating": 2.08,
+    "materialClear": 2.04,
+    "studentDifficulties": 2.09,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -38123,7 +38124,7 @@
       "Hybrid Option": 1,
       "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Uploads Slides": 1
     }
   },
