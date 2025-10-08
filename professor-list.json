@@ -2580,7 +2580,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 19,
+    "numEvals": 20,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2591,12 +2591,12 @@
       "POLS 225"
     ],
     "tags": {
-      "High In-Person Availability": 12,
+      "High In-Person Availability": 13,
       "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 7,
       "Fast Response Time": 7,
       "Flexible Grading Policy": 6,
-      "Flexible Deadline Policy": 3
+      "Flexible Deadline Policy": 4
     }
   },
   {
@@ -11614,10 +11614,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 44,
-    "overallRating": 2.32,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.47,
+    "numEvals": 45,
+    "overallRating": 2.36,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.5,
     "courses": [
       "PHYS 141",
       "PHYS 142",
@@ -16703,16 +16703,17 @@
     "department": "NR",
     "firstName": "Nicholas",
     "lastName": "Babin",
-    "numEvals": 2,
-    "overallRating": 4,
+    "numEvals": 3,
+    "overallRating": 3.33,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 2.67,
     "courses": [
       "NR 306"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -18118,10 +18119,10 @@
     "department": "ART",
     "firstName": "Travis",
     "lastName": "Neel",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.25,
     "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 2.75,
     "courses": [
       "ART 102",
       "ART 104"
@@ -18129,7 +18130,7 @@
     "tags": {
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1
     }
@@ -23673,14 +23674,16 @@
     "department": "BIO",
     "firstName": "Aubrey",
     "lastName": "Davis",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 1,
+    "materialClear": 1,
     "studentDifficulties": 0,
     "courses": [
-      "BIO"
+      "BIO 161"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "86c38458-c6cf-4258-a0f1-17c635221ab5",
