@@ -2476,7 +2476,7 @@
     "department": "BUS",
     "firstName": "Lane",
     "lastName": "Fronczek",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12532,10 +12532,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 47,
-    "overallRating": 2.72,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.86,
+    "numEvals": 48,
+    "overallRating": 2.68,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.82,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -41765,12 +41765,13 @@
     "department": "STAT",
     "firstName": "Julia",
     "lastName": "Schedler",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 2.75,
+    "studentDifficulties": 3.75,
     "courses": [
-      "STAT 312"
+      "STAT 312",
+      "STAT 425"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
