@@ -6895,10 +6895,10 @@
     "department": "EE",
     "firstName": "Dale",
     "lastName": "Dolan",
-    "numEvals": 25,
-    "overallRating": 1.51,
-    "materialClear": 1.59,
-    "studentDifficulties": 1.74,
+    "numEvals": 26,
+    "overallRating": 1.45,
+    "materialClear": 1.57,
+    "studentDifficulties": 1.75,
     "courses": [
       "EE 201",
       "EE 211",
@@ -6912,7 +6912,8 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
