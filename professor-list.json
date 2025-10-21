@@ -875,14 +875,15 @@
     "department": "EE",
     "firstName": "Noel",
     "lastName": "Ellis",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.85,
     "courses": [
       "EE 245",
       "EE 113",
-      "EE 151"
+      "EE 151",
+      "EE 145"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -13204,10 +13205,10 @@
     "department": "CSC",
     "firstName": "Ayaan",
     "lastName": "Kazerouni",
-    "numEvals": 17,
-    "overallRating": 3.82,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.76,
+    "numEvals": 18,
+    "overallRating": 3.83,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.77,
     "courses": [
       "CPE 203",
       "CSC 313",
@@ -13216,10 +13217,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 2,
+      "Flexible Deadline Policy": 3,
       "Honor DRC Accommodations": 2,
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 3,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 4,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 2,
       "Pop Quizzes": 1,
@@ -20296,8 +20297,8 @@
     "department": "MATH",
     "firstName": "Kate",
     "lastName": "Riley",
-    "numEvals": 80,
-    "overallRating": 3.18,
+    "numEvals": 81,
+    "overallRating": 3.17,
     "materialClear": 3.26,
     "studentDifficulties": 3.15,
     "courses": [
@@ -20317,8 +20318,8 @@
     ],
     "tags": {
       "Uploads Slides": 1,
-      "Class Handouts": 1,
-      "Does Not Use Canvas": 2,
+      "Class Handouts": 2,
+      "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1
@@ -21449,10 +21450,10 @@
     "department": "BUS",
     "firstName": "Brian",
     "lastName": "Ayash",
-    "numEvals": 36,
-    "overallRating": 1.48,
-    "materialClear": 1.6,
-    "studentDifficulties": 1.24,
+    "numEvals": 37,
+    "overallRating": 1.55,
+    "materialClear": 1.66,
+    "studentDifficulties": 1.31,
     "courses": [
       "BUS 339",
       "BUS 342",
@@ -21461,9 +21462,9 @@
       "BUS 464"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
-      "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 4,
+      "Zoom Office Hours": 3,
+      "High In-Person Availability": 2,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "Supplemental Study Material": 1,
@@ -25404,10 +25405,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 164,
-    "overallRating": 1.89,
-    "materialClear": 1.79,
-    "studentDifficulties": 1.71,
+    "numEvals": 166,
+    "overallRating": 1.87,
+    "materialClear": 1.77,
+    "studentDifficulties": 1.7,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -25425,7 +25426,7 @@
       "PSC 392"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
       "Recorded Lectures": 5,
       "Flexible Attendance Policy": 4,
@@ -25434,7 +25435,9 @@
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 2,
       "Class Handouts": 2,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 2,
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -36670,22 +36673,24 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 7,
-    "overallRating": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.87,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "EE 201",
       "EE 306",
-      "EE 346"
+      "EE 346",
+      "EE 115"
     ],
     "tags": {
-      "Recorded Lectures": 5,
+      "Recorded Lectures": 6,
       "High In-Person Availability": 1,
       "Uploads Slides": 1,
-      "Hybrid Option": 3,
+      "Hybrid Option": 4,
       "Fast Response Time": 3,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
