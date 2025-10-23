@@ -17433,10 +17433,10 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 38,
-    "overallRating": 1.73,
-    "materialClear": 1.68,
-    "studentDifficulties": 1.76,
+    "numEvals": 39,
+    "overallRating": 1.79,
+    "materialClear": 1.74,
+    "studentDifficulties": 1.82,
     "courses": [
       "ENGL 133",
       "ENGL 145",
@@ -17447,7 +17447,9 @@
     "tags": {
       "Inflexible Grading Policy": 4,
       "Inflexible Attendance Policy": 2,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -29101,7 +29103,7 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 62,
+    "numEvals": 63,
     "overallRating": 3.73,
     "materialClear": 3.75,
     "studentDifficulties": 3.72,
@@ -43486,14 +43488,15 @@
     "department": "ARCH",
     "firstName": "Clare",
     "lastName": "Olsen",
-    "numEvals": 4,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.4,
-    "overallRating": 3.6,
+    "numEvals": 5,
+    "overallRating": 3.68,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.52,
     "courses": [
       "ARCH 131",
       "ARCH 253"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "fc1168fc-8240-479f-aee2-eb404a60d5d5",
