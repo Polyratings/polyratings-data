@@ -18918,10 +18918,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 159,
-    "overallRating": 1.79,
-    "materialClear": 1.99,
-    "studentDifficulties": 1.68,
+    "numEvals": 160,
+    "overallRating": 1.8,
+    "materialClear": 2,
+    "studentDifficulties": 1.69,
     "courses": [
       "CE 204",
       "CE 211",
@@ -18947,8 +18947,8 @@
       "Does Not Use Canvas": 6,
       "Pop Quizzes": 5,
       "Flexible Grading Policy": 1,
-      "High In-Person Availability": 4,
-      "Fast Response Time": 5,
+      "High In-Person Availability": 5,
+      "Fast Response Time": 6,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1
     }
@@ -38035,10 +38035,10 @@
     "department": "NR",
     "firstName": "Samantha",
     "lastName": "Gill",
-    "numEvals": 31,
-    "overallRating": 2.09,
-    "materialClear": 2.09,
-    "studentDifficulties": 1.97,
+    "numEvals": 32,
+    "overallRating": 2.02,
+    "materialClear": 2.02,
+    "studentDifficulties": 1.91,
     "courses": [
       "FNR 201",
       "FNR 215",
@@ -38049,7 +38049,11 @@
       "FNR 315",
       "FNR 318",
       "AERO 414"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "ddcb95eb-a897-4858-aaaa-721bbcda8ed4",
