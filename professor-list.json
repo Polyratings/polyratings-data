@@ -9730,20 +9730,21 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 13,
-    "overallRating": 1.76,
-    "materialClear": 1.38,
-    "studentDifficulties": 2.23,
+    "numEvals": 14,
+    "overallRating": 1.85,
+    "materialClear": 1.42,
+    "studentDifficulties": 2.29,
     "courses": [
       "STAT 217",
       "STAT 312",
       "STAT 251"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -21675,12 +21676,13 @@
     "department": "CRP",
     "firstName": "Beate",
     "lastName": "von Bischopinck",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CRP 216"
+      "CRP 216",
+      "CRP 201"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -24547,10 +24549,10 @@
     "department": "BIO",
     "firstName": "Heather",
     "lastName": "Liwanag",
-    "numEvals": 17,
-    "overallRating": 2.54,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.56,
+    "numEvals": 18,
+    "overallRating": 2.57,
+    "materialClear": 2.94,
+    "studentDifficulties": 2.53,
     "courses": [
       "BIO 231",
       "BIO 361",
@@ -35572,10 +35574,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 142,
-    "overallRating": 2.91,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.92,
+    "numEvals": 143,
+    "overallRating": 2.92,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.93,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -38409,10 +38411,10 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 23,
-    "overallRating": 3.87,
+    "numEvals": 24,
+    "overallRating": 3.88,
     "materialClear": 3.96,
-    "studentDifficulties": 3.87,
+    "studentDifficulties": 3.88,
     "courses": [
       "MATH 141",
       "MATH 118",
@@ -38422,12 +38424,12 @@
     ],
     "tags": {
       "High In-Person Availability": 8,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Flexible Attendance Policy": 8,
       "Flexible Deadline Policy": 3,
-      "Supplemental Study Material": 5,
+      "Supplemental Study Material": 6,
       "Flexible Grading Policy": 3,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "Zoom Office Hours": 1
     }
   },
@@ -38465,9 +38467,9 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 114,
+    "numEvals": 115,
     "overallRating": 1.56,
-    "materialClear": 1.55,
+    "materialClear": 1.54,
     "studentDifficulties": 1.54,
     "courses": [
       "BIO 101",
