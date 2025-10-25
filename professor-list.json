@@ -28620,10 +28620,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 31,
-    "overallRating": 1.73,
-    "materialClear": 1.55,
-    "studentDifficulties": 2.13,
+    "numEvals": 32,
+    "overallRating": 1.68,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.06,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -32573,10 +32573,10 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 24,
-    "overallRating": 3.74,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.88,
+    "numEvals": 25,
+    "overallRating": 3.59,
+    "materialClear": 3.52,
+    "studentDifficulties": 3.72,
     "courses": [
       "PHYS 143",
       "PHYS 142",
@@ -36110,7 +36110,7 @@
     "department": "BUS",
     "firstName": "Lisa",
     "lastName": "Anderson",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -36120,10 +36120,11 @@
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Supplemental Study Material": 3,
-      "Uploads Slides": 5,
+      "Supplemental Study Material": 4,
+      "Uploads Slides": 6,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
