@@ -875,10 +875,10 @@
     "department": "EE",
     "firstName": "Noel",
     "lastName": "Ellis",
-    "numEvals": 7,
-    "overallRating": 3.72,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.85,
+    "numEvals": 8,
+    "overallRating": 3.76,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.87,
     "courses": [
       "EE 245",
       "EE 113",
@@ -19065,10 +19065,10 @@
     "department": "CPE",
     "firstName": "Maria",
     "lastName": "Pantoja",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "CPE 333"
     ],
@@ -20869,10 +20869,10 @@
     "department": "PHIL",
     "firstName": "Albus",
     "lastName": "Dumbledore",
-    "numEvals": 4,
-    "overallRating": 3.38,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.25,
+    "numEvals": 6,
+    "overallRating": 3.58,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.5,
     "courses": [
       "PHIL 150",
       "PHIL 230"
@@ -20880,7 +20880,8 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -28145,21 +28146,21 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 20,
-    "overallRating": 3.61,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.71,
+    "numEvals": 21,
+    "overallRating": 3.63,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.72,
     "courses": [
       "CHEM 124",
       "PHYS 141",
       "PHYS 143"
     ],
     "tags": {
-      "High In-Person Availability": 7,
+      "High In-Person Availability": 8,
       "Class Handouts": 1,
       "Flexible Grading Policy": 3,
-      "Fast Response Time": 6,
-      "Uploads Slides": 7,
+      "Fast Response Time": 7,
+      "Uploads Slides": 8,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 1
@@ -33833,10 +33834,10 @@
     "department": "CHEM",
     "firstName": "Severus",
     "lastName": "Snape",
-    "numEvals": 13,
-    "overallRating": 2.98,
-    "materialClear": 3.12,
-    "studentDifficulties": 2.33,
+    "numEvals": 14,
+    "overallRating": 2.91,
+    "materialClear": 2.9,
+    "studentDifficulties": 2.16,
     "courses": [
       "CHEM 101",
       "CHEM 110",
