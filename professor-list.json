@@ -9730,10 +9730,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 14,
-    "overallRating": 1.85,
-    "materialClear": 1.42,
-    "studentDifficulties": 2.29,
+    "numEvals": 15,
+    "overallRating": 1.86,
+    "materialClear": 1.33,
+    "studentDifficulties": 2.4,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -10000,25 +10000,27 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 18,
-    "overallRating": 2.01,
-    "materialClear": 1.4,
-    "studentDifficulties": 2.34,
+    "numEvals": 19,
+    "overallRating": 2.06,
+    "materialClear": 1.43,
+    "studentDifficulties": 2.43,
     "courses": [
       "CHEM 129",
       "CHEM 128",
       "CHEM 125",
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 127"
     ],
     "tags": {
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "Zoom Office Hours": 2,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 1
+      "Supplemental Study Material": 3,
+      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -38564,8 +38566,8 @@
     "department": "PSY",
     "firstName": "Tom",
     "lastName": "Steffora",
-    "numEvals": 3,
-    "overallRating": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -38575,7 +38577,8 @@
       "Flexible Deadline Policy": 1,
       "No Breaks During Lecture": 2,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -40339,10 +40342,10 @@
     "department": "BUS",
     "firstName": "Dan",
     "lastName": "Banfield",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 3.92,
     "materialClear": 3.89,
-    "studentDifficulties": 3.87,
+    "studentDifficulties": 3.88,
     "courses": [
       "BUS 214",
       "BUS 215"
@@ -40350,12 +40353,12 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 2,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Inflexible Attendance Policy": 1,
-      "Zoom Office Hours": 1
+      "Inflexible Attendance Policy": 2,
+      "Zoom Office Hours": 2
     }
   },
   {
