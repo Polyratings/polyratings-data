@@ -8443,10 +8443,10 @@
     "department": "ECON",
     "firstName": "Stephen",
     "lastName": "Hamilton",
-    "numEvals": 45,
-    "overallRating": 3.45,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.48,
+    "numEvals": 46,
+    "overallRating": 3.38,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.4,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -8458,7 +8458,9 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -20644,7 +20646,7 @@
     "department": "ES",
     "firstName": "Alex",
     "lastName": "Wescott",
-    "numEvals": 20,
+    "numEvals": 21,
     "overallRating": 3.9,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -20653,9 +20655,9 @@
       "ES 252"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Pop Quizzes": 1,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "Zoom Office Hours": 7,
       "Flexible Grading Policy": 1,
       "Fast Response Time": 3,
@@ -27188,9 +27190,9 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 62,
-    "overallRating": 1.87,
-    "materialClear": 1.62,
+    "numEvals": 63,
+    "overallRating": 1.9,
+    "materialClear": 1.66,
     "studentDifficulties": 2.02,
     "courses": [
       "EE 111",
@@ -27211,8 +27213,10 @@
     "tags": {
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 1
+      "No Breaks During Lecture": 2,
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
