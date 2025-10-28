@@ -16736,17 +16736,18 @@
     "department": "NR",
     "firstName": "Nicholas",
     "lastName": "Babin",
-    "numEvals": 4,
-    "overallRating": 2.5,
+    "numEvals": 5,
+    "overallRating": 2.8,
     "materialClear": 4,
-    "studentDifficulties": 2,
+    "studentDifficulties": 2.4,
     "courses": [
       "NR 306"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 1
+      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -35219,10 +35220,10 @@
     "department": "ME",
     "firstName": "Hans",
     "lastName": "Mayer",
-    "numEvals": 59,
-    "overallRating": 2.79,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.65,
+    "numEvals": 60,
+    "overallRating": 2.81,
+    "materialClear": 3.14,
+    "studentDifficulties": 2.67,
     "courses": [
       "ME 236",
       "AERO 301",
@@ -35235,11 +35236,12 @@
       "BMED 435"
     ],
     "tags": {
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Pop Quizzes": 4,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -41519,20 +41521,21 @@
     "department": "LA",
     "firstName": "Bret",
     "lastName": "Betnar",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.8,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.83,
     "courses": [
       "LA 203",
       "LA 202"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Class Handouts": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Grading Policy": 3,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
