@@ -14533,17 +14533,18 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 2,
-    "overallRating": 0,
-    "materialClear": 0.5,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 0.8,
+    "materialClear": 1.2,
+    "studentDifficulties": 1.2,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Inflexible Grading Policy": 2,
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -34048,10 +34049,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 58,
-    "overallRating": 3.3,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.29,
+    "numEvals": 59,
+    "overallRating": 3.26,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.23,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -38574,8 +38575,8 @@
     "department": "PSY",
     "firstName": "Tom",
     "lastName": "Steffora",
-    "numEvals": 4,
-    "overallRating": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
