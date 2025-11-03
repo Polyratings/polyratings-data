@@ -15577,16 +15577,17 @@
     "department": "ARCH",
     "firstName": "Marshall",
     "lastName": "Ford",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ARCH"
+      "ARCH 133",
+      "ARCH 251"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 2,
+      "Fast Response Time": 2,
       "Uploads Slides": 1
     }
   },
