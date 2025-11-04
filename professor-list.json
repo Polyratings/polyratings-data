@@ -2477,7 +2477,7 @@
     "department": "BUS",
     "firstName": "Lane",
     "lastName": "Fronczek",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2485,11 +2485,12 @@
       "BUS 346"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Class Handouts": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -9536,9 +9537,9 @@
     "department": "BUS",
     "firstName": "Stern",
     "lastName": "Neill",
-    "numEvals": 30,
-    "overallRating": 3.15,
-    "materialClear": 3.05,
+    "numEvals": 31,
+    "overallRating": 3.11,
+    "materialClear": 3.02,
     "studentDifficulties": 2.99,
     "courses": [
       "BUS 342",
@@ -16465,7 +16466,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -16477,7 +16478,7 @@
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 1,
       "Supplemental Study Material": 2,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 1,
       "Inflexible Deadline Policy": 1
