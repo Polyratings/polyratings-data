@@ -5864,10 +5864,10 @@
     "department": "STAT",
     "firstName": "Steve",
     "lastName": "Rein",
-    "numEvals": 94,
-    "overallRating": 2.17,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.16,
+    "numEvals": 95,
+    "overallRating": 2.19,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.18,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -5885,10 +5885,11 @@
       "STAT 513"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 2,
-      "Recorded Lectures": 1
+      "Supplemental Study Material": 3,
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1
     }
   },
   {
