@@ -3128,9 +3128,9 @@
     "department": "BIO",
     "firstName": "Larisa",
     "lastName": "Vredevoe",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.72,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "BIO 429",
@@ -9080,7 +9080,7 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -12320,7 +12320,7 @@
     "department": "BIO",
     "firstName": "Lauren",
     "lastName": "Chan",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -16960,10 +16960,10 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 12,
-    "overallRating": 3.51,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.41,
+    "numEvals": 13,
+    "overallRating": 3.55,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.46,
     "courses": [
       "PHIL 323",
       "PHIL 336"
@@ -25116,10 +25116,10 @@
     "department": "ASCI",
     "firstName": "Mark",
     "lastName": "Edwards",
-    "numEvals": 44,
-    "overallRating": 2.41,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.17,
+    "numEvals": 45,
+    "overallRating": 2.4,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.21,
     "courses": [
       "ASCI 112",
       "ASCI 220",
@@ -25130,9 +25130,9 @@
       "ASCI 339"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1,
-      "Uploads Slides": 3,
+      "Flexible Attendance Policy": 2,
+      "Does Not Use Canvas": 2,
+      "Uploads Slides": 4,
       "High In-Person Availability": 2,
       "No Breaks During Lecture": 1
     }
@@ -26214,15 +26214,20 @@
     "department": "DSCI",
     "firstName": "Joy",
     "lastName": "Altermatt",
-    "numEvals": 5,
-    "materialClear": 2,
-    "studentDifficulties": 2,
-    "overallRating": 2.6,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.33,
     "courses": [
       "AGED 105",
       "DSCI 330",
       "DSCI 422"
-    ]
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "958e19de-9b7a-4826-a33e-e64b0b4b30aa",
@@ -26268,10 +26273,10 @@
     "department": "JPNS",
     "firstName": "Junko",
     "lastName": "Cleave",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.57,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.62,
     "courses": [
       "JPNS 101",
       "JPNS 103",
@@ -28086,15 +28091,16 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 41,
-    "overallRating": 3.77,
+    "numEvals": 42,
+    "overallRating": 3.78,
     "materialClear": 3.84,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.75,
     "courses": [
       "BIO 102",
       "BIO 114",
       "BIO 121",
-      "BOT 121"
+      "BOT 121",
+      "BIO 111"
     ],
     "tags": {
       "High In-Person Availability": 6,
@@ -29957,10 +29963,10 @@
     "department": "NR",
     "firstName": "Yi Wen",
     "lastName": "Chiu",
-    "numEvals": 9,
-    "overallRating": 1.18,
-    "materialClear": 1.15,
-    "studentDifficulties": 1.48,
+    "numEvals": 10,
+    "overallRating": 1.06,
+    "materialClear": 1.04,
+    "studentDifficulties": 1.33,
     "courses": [
       "ENVE 140",
       "FNR 142",
@@ -29973,8 +29979,10 @@
       "Inflexible Attendance Policy": 1,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 1,
-      "Uploads Slides": 1,
-      "Honor DRC Accommodations": 1
+      "Uploads Slides": 2,
+      "Honor DRC Accommodations": 1,
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -33498,17 +33506,17 @@
     "department": "BIO",
     "firstName": "Grace",
     "lastName": "Goschke",
-    "numEvals": 127,
-    "overallRating": 2.31,
+    "numEvals": 128,
+    "overallRating": 2.32,
     "materialClear": 2.33,
-    "studentDifficulties": 2.14,
+    "studentDifficulties": 2.15,
     "courses": [
       "BIO 111",
       "BIO 302"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 3,
       "Inflexible Grading Policy": 1,
       "Inflexible Deadline Policy": 1,
       "No Breaks During Lecture": 1
@@ -35454,10 +35462,10 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 57,
-    "overallRating": 2.86,
-    "materialClear": 3.12,
-    "studentDifficulties": 2.74,
+    "numEvals": 58,
+    "overallRating": 2.88,
+    "materialClear": 3.14,
+    "studentDifficulties": 2.76,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -38081,10 +38089,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Taylor",
-    "numEvals": 41,
-    "overallRating": 3.76,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.63,
+    "numEvals": 42,
+    "overallRating": 3.74,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.59,
     "courses": [
       "BIO 123",
       "BIO 162",
@@ -38098,7 +38106,7 @@
       "Fast Response Time": 2,
       "Uploads Slides": 2,
       "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -40442,10 +40450,10 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 18,
-    "overallRating": 2.11,
-    "materialClear": 1.83,
-    "studentDifficulties": 2.39,
+    "numEvals": 19,
+    "overallRating": 2.16,
+    "materialClear": 1.84,
+    "studentDifficulties": 2.47,
     "courses": [
       "CSC 248",
       "CSC 349"
@@ -41662,17 +41670,20 @@
     "department": "ME",
     "firstName": "Charlie",
     "lastName": "Refvem",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 1,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 0.5,
     "studentDifficulties": 2,
     "courses": [
-      "ME"
+      "ME 326",
+      "ME 322"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
