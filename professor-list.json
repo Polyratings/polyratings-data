@@ -186,7 +186,7 @@
     "department": "MU",
     "firstName": "Scott",
     "lastName": "Glysson",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -194,7 +194,9 @@
       "MU 185"
     ],
     "tags": {
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -26369,10 +26371,10 @@
     "department": "EE",
     "firstName": "Xiaomin",
     "lastName": "Jin",
-    "numEvals": 34,
-    "overallRating": 2.09,
-    "materialClear": 1.71,
-    "studentDifficulties": 2.25,
+    "numEvals": 35,
+    "overallRating": 2.03,
+    "materialClear": 1.66,
+    "studentDifficulties": 2.3,
     "courses": [
       "EE 212",
       "EE 306",
@@ -26388,7 +26390,8 @@
       "Zoom Office Hours": 2,
       "Class Handouts": 2,
       "Uploads Slides": 2,
-      "Recorded Lectures": 2
+      "Recorded Lectures": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
