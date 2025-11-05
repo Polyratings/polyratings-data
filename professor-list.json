@@ -18806,7 +18806,7 @@
     "department": "SS",
     "firstName": "Gordon",
     "lastName": "Rees",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 3.94,
     "materialClear": 3.94,
     "studentDifficulties": 3.94,
@@ -18818,9 +18818,9 @@
       "ERSC 223"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Inflexible Attendance Policy": 2,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Recorded Lectures": 1,
       "High In-Person Availability": 1
     }
@@ -22749,10 +22749,10 @@
     "department": "NR",
     "firstName": "David",
     "lastName": "Yun",
-    "numEvals": 13,
-    "overallRating": 3.08,
-    "materialClear": 2.77,
-    "studentDifficulties": 3.16,
+    "numEvals": 14,
+    "overallRating": 2.93,
+    "materialClear": 2.64,
+    "studentDifficulties": 3.08,
     "courses": [
       "ENVE 218",
       "FNR 218",
@@ -22764,7 +22764,9 @@
     "tags": {
       "Class Handouts": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -27428,10 +27430,10 @@
     "department": "STAT",
     "firstName": "Immanuel",
     "lastName": "Williams",
-    "numEvals": 25,
-    "overallRating": 1.64,
-    "materialClear": 1.68,
-    "studentDifficulties": 2.08,
+    "numEvals": 26,
+    "overallRating": 1.62,
+    "materialClear": 1.69,
+    "studentDifficulties": 2.15,
     "courses": [
       "STAT 252",
       "STAT 251",
@@ -27444,11 +27446,11 @@
       "Flexible Deadline Policy": 2,
       "Class Handouts": 5,
       "Flexible Attendance Policy": 5,
-      "Inflexible Deadline Policy": 6,
+      "Inflexible Deadline Policy": 7,
       "No Breaks During Lecture": 2,
       "Pop Quizzes": 1,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -28644,10 +28646,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 32,
-    "overallRating": 1.68,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.06,
+    "numEvals": 33,
+    "overallRating": 1.63,
+    "materialClear": 1.45,
+    "studentDifficulties": 2,
     "courses": [
       "MATH 118",
       "MATH 141",
