@@ -14140,10 +14140,10 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 65,
-    "overallRating": 3.65,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.48,
+    "numEvals": 66,
+    "overallRating": 3.66,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.49,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -18163,10 +18163,10 @@
     "department": "ART",
     "firstName": "Travis",
     "lastName": "Neel",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3,
-    "studentDifficulties": 2.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.2,
+    "studentDifficulties": 3,
     "courses": [
       "ART 102",
       "ART 104"
@@ -24511,15 +24511,16 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 15,
-    "overallRating": 3.81,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.86,
+    "numEvals": 16,
+    "overallRating": 3.82,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.87,
     "courses": [
       "MATH 248",
       "MATH 143",
       "MCRO 241",
-      "MATH 142"
+      "MATH 142",
+      "MATH 306"
     ],
     "tags": {
       "Fast Response Time": 5,
@@ -25901,10 +25902,10 @@
     "department": "ART",
     "firstName": "Enrica",
     "lastName": "Lovaglio",
-    "numEvals": 19,
-    "overallRating": 2.09,
-    "materialClear": 2.03,
-    "studentDifficulties": 1.85,
+    "numEvals": 20,
+    "overallRating": 2.19,
+    "materialClear": 2.13,
+    "studentDifficulties": 1.96,
     "courses": [
       "ART 181",
       "ART 182",
@@ -25916,7 +25917,7 @@
       "Supplemental Study Material": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Fast Response Time": 1
     }
   },
@@ -41846,13 +41847,14 @@
     "department": "STAT",
     "firstName": "Julia",
     "lastName": "Schedler",
-    "numEvals": 5,
-    "overallRating": 2.4,
-    "materialClear": 2.2,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 2.17,
+    "materialClear": 1.83,
+    "studentDifficulties": 3.17,
     "courses": [
       "STAT 312",
-      "STAT 425"
+      "STAT 425",
+      "STAT 416"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
