@@ -4302,10 +4302,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 85,
-    "overallRating": 1.84,
-    "materialClear": 1.87,
-    "studentDifficulties": 1.58,
+    "numEvals": 86,
+    "overallRating": 1.87,
+    "materialClear": 1.89,
+    "studentDifficulties": 1.61,
     "courses": [
       "EE 111",
       "EE 151",
@@ -13336,15 +13336,16 @@
     "department": "ME",
     "firstName": "Emad",
     "lastName": "Hasani",
-    "numEvals": 12,
-    "overallRating": 2.67,
-    "materialClear": 2.58,
-    "studentDifficulties": 2.67,
+    "numEvals": 18,
+    "overallRating": 1.78,
+    "materialClear": 1.72,
+    "studentDifficulties": 1.78,
     "courses": [
       "ME 392",
       "ME 305",
       "ME 302",
-      "ME 341"
+      "ME 341",
+      "AEPS 347"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
@@ -14420,13 +14421,14 @@
     "department": "AEPS",
     "firstName": "Ashraf",
     "lastName": "Tubeileh",
-    "numEvals": 3,
-    "overallRating": 1.33,
-    "materialClear": 0.67,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 1.25,
     "studentDifficulties": 2,
     "courses": [
       "AEPS 120",
-      "PSC 120"
+      "PSC 120",
+      "AEPS 410"
     ],
     "tags": {
       "Pop Quizzes": 3,
@@ -14538,18 +14540,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 6,
-    "overallRating": 0.67,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 8,
+    "overallRating": 0.5,
+    "materialClear": 0.75,
+    "studentDifficulties": 0.75,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 4,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -15636,19 +15639,20 @@
     "department": "PSC",
     "firstName": "Ryan",
     "lastName": "Perry",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.67,
     "courses": [
       "PSC 110",
-      "AEPS 313"
+      "AEPS 313",
+      "AEPS 441"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -25957,17 +25961,19 @@
     "department": "ENGL",
     "firstName": "Maya",
     "lastName": "Hislop",
-    "numEvals": 5,
-    "overallRating": 2.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 2.67,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "ENGL 347"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -37507,14 +37513,15 @@
     "department": "AEPS",
     "firstName": "Susan",
     "lastName": "Snyder",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 4,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.6,
+    "studentDifficulties": 3,
     "courses": [
       "AEPS 212",
       "AEPS 381",
-      "BIO 114"
+      "BIO 114",
+      "AEPS 350"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -37523,7 +37530,8 @@
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -39735,10 +39743,10 @@
     "department": "STAT",
     "firstName": "Anelise",
     "lastName": "Sabbag",
-    "numEvals": 16,
-    "overallRating": 3.38,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.63,
+    "numEvals": 17,
+    "overallRating": 3.18,
+    "materialClear": 2.88,
+    "studentDifficulties": 3.42,
     "courses": [
       "STAT 334",
       "STAT 217",
