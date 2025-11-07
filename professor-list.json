@@ -1675,10 +1675,10 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 27,
-    "overallRating": 2.36,
-    "materialClear": 2.36,
-    "studentDifficulties": 2.44,
+    "numEvals": 28,
+    "overallRating": 2.42,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.42,
     "courses": [
       "BUS 438",
       "BUS 439",
@@ -6909,10 +6909,10 @@
     "department": "EE",
     "firstName": "Dale",
     "lastName": "Dolan",
-    "numEvals": 28,
-    "overallRating": 1.63,
-    "materialClear": 1.74,
-    "studentDifficulties": 1.91,
+    "numEvals": 29,
+    "overallRating": 1.57,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.98,
     "courses": [
       "EE 201",
       "EE 211",
@@ -6926,7 +6926,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Inflexible Deadline Policy": 1,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
@@ -11079,8 +11079,8 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 283,
-    "overallRating": 2.41,
+    "numEvals": 284,
+    "overallRating": 2.42,
     "materialClear": 2.1,
     "studentDifficulties": 2.59,
     "courses": [
@@ -14544,10 +14544,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 10,
-    "overallRating": 0.4,
-    "materialClear": 0.9,
-    "studentDifficulties": 0.6,
+    "numEvals": 11,
+    "overallRating": 0.36,
+    "materialClear": 0.82,
+    "studentDifficulties": 0.55,
     "courses": [
       "TH 210"
     ],
@@ -16997,10 +16997,10 @@
     "department": "ME",
     "firstName": "John",
     "lastName": "Chen",
-    "numEvals": 48,
-    "overallRating": 3.55,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.5,
+    "numEvals": 49,
+    "overallRating": 3.56,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.51,
     "courses": [
       "ME 211",
       "ME 212",
@@ -19362,18 +19362,21 @@
     "department": "COMS",
     "firstName": "Stephenson",
     "lastName": "Whitestone",
-    "numEvals": 5,
-    "overallRating": 3.2,
-    "materialClear": 3,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 3.33,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.33,
     "courses": [
       "COMS 101",
-      "COMS 211"
+      "COMS 211",
+      "COMS 206"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Attendance Policy": 3,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -30428,9 +30431,9 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 163,
-    "overallRating": 2.73,
-    "materialClear": 2.86,
+    "numEvals": 164,
+    "overallRating": 2.74,
+    "materialClear": 2.87,
     "studentDifficulties": 2.65,
     "courses": [
       "ENGL 101",
@@ -30451,9 +30454,10 @@
     "tags": {
       "Class Handouts": 4,
       "Fast Response Time": 2,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Pop Quizzes": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -40712,9 +40716,9 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 17,
+    "numEvals": 18,
     "overallRating": 3.94,
-    "materialClear": 3.76,
+    "materialClear": 3.77,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
