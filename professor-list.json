@@ -1402,6 +1402,24 @@
     }
   },
   {
+    "id": "07ba8e38-adca-4f5b-8f7e-d47473b3afd8",
+    "department": "PSC",
+    "firstName": "Shashika",
+    "lastName": "Hewavitharana",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "PSC"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "07c3256b-a9a8-4ac8-8c58-c26187e5e758",
     "department": "COMS",
     "firstName": "Amy",
@@ -6909,10 +6927,10 @@
     "department": "EE",
     "firstName": "Dale",
     "lastName": "Dolan",
-    "numEvals": 29,
-    "overallRating": 1.57,
-    "materialClear": 1.68,
-    "studentDifficulties": 1.98,
+    "numEvals": 28,
+    "overallRating": 1.48,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.91,
     "courses": [
       "EE 201",
       "EE 211",
@@ -7314,10 +7332,10 @@
     "department": "ENGL",
     "firstName": "Brian",
     "lastName": "Bates",
-    "numEvals": 42,
-    "overallRating": 3.22,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.3,
+    "numEvals": 41,
+    "overallRating": 3.3,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.38,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -9893,6 +9911,24 @@
     "courses": [
       "CM 332"
     ]
+  },
+  {
+    "id": "37355b45-4669-4bcb-a207-7239444dc6e4",
+    "department": "ENGL",
+    "firstName": "Jeff",
+    "lastName": "Shutt",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "37463abd-6f59-4dbc-846f-9533bf7f82d9",
@@ -13340,10 +13376,10 @@
     "department": "ME",
     "firstName": "Emad",
     "lastName": "Hasani",
-    "numEvals": 18,
-    "overallRating": 1.78,
-    "materialClear": 1.72,
-    "studentDifficulties": 1.78,
+    "numEvals": 15,
+    "overallRating": 2.13,
+    "materialClear": 2.06,
+    "studentDifficulties": 2.13,
     "courses": [
       "ME 392",
       "ME 305",
@@ -14544,10 +14580,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 11,
-    "overallRating": 0.36,
-    "materialClear": 0.82,
-    "studentDifficulties": 0.55,
+    "numEvals": 10,
+    "overallRating": 0,
+    "materialClear": 0.8,
+    "studentDifficulties": 0.61,
     "courses": [
       "TH 210"
     ],
@@ -16058,10 +16094,10 @@
     "department": "ES",
     "firstName": "Jenell",
     "lastName": "Navarro",
-    "numEvals": 28,
-    "overallRating": 3.43,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.48,
+    "numEvals": 27,
+    "overallRating": 3.56,
+    "materialClear": 3.82,
+    "studentDifficulties": 3.61,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -16755,10 +16791,10 @@
     "department": "NR",
     "firstName": "Nicholas",
     "lastName": "Babin",
-    "numEvals": 5,
-    "overallRating": 2.8,
+    "numEvals": 4,
+    "overallRating": 2.5,
     "materialClear": 4,
-    "studentDifficulties": 2.4,
+    "studentDifficulties": 2,
     "courses": [
       "NR 306"
     ],
@@ -17458,10 +17494,10 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 39,
-    "overallRating": 1.79,
-    "materialClear": 1.74,
-    "studentDifficulties": 1.82,
+    "numEvals": 32,
+    "overallRating": 2.19,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.22,
     "courses": [
       "ENGL 133",
       "ENGL 145",
@@ -18943,10 +18979,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 160,
-    "overallRating": 1.8,
-    "materialClear": 2,
-    "studentDifficulties": 1.69,
+    "numEvals": 159,
+    "overallRating": 1.81,
+    "materialClear": 2.01,
+    "studentDifficulties": 1.7,
     "courses": [
       "CE 204",
       "CE 211",
@@ -21915,10 +21951,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 53,
-    "overallRating": 1.97,
-    "materialClear": 2.08,
-    "studentDifficulties": 1.94,
+    "numEvals": 52,
+    "overallRating": 2.01,
+    "materialClear": 2.12,
+    "studentDifficulties": 1.98,
     "courses": [
       "TH 210",
       "TH 227",
@@ -24876,10 +24912,10 @@
     "department": "PSY",
     "firstName": "Marc",
     "lastName": "Halusic",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.4,
     "courses": [
       "PSY 252",
       "PSY 201",
@@ -27831,7 +27867,7 @@
     "department": "CE",
     "firstName": "Ashraf",
     "lastName": "Rahim",
-    "numEvals": 45,
+    "numEvals": 44,
     "overallRating": 2.97,
     "materialClear": 3.02,
     "studentDifficulties": 2.7,
@@ -33514,6 +33550,23 @@
       "AGB 323",
       "AGB 331"
     ]
+  },
+  {
+    "id": "c1a450ee-54f9-4dac-8ed0-43f0d27e5705",
+    "department": "FSN",
+    "firstName": "Mary Beth",
+    "lastName": "Brumit",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "FSN"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "c1be08c2-5f10-48d7-916f-1b47cbe6f780",
@@ -41121,7 +41174,7 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 85,
+    "numEvals": 84,
     "overallRating": 2.35,
     "materialClear": 2.53,
     "studentDifficulties": 2.39,
@@ -41473,10 +41526,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 155,
-    "overallRating": 1.59,
-    "materialClear": 1.88,
-    "studentDifficulties": 1.6,
+    "numEvals": 154,
+    "overallRating": 1.57,
+    "materialClear": 1.87,
+    "studentDifficulties": 1.58,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -42924,10 +42977,10 @@
     "department": "STAT",
     "firstName": "Trevor",
     "lastName": "Ruiz",
-    "numEvals": 12,
-    "overallRating": 1.59,
-    "materialClear": 2.08,
-    "studentDifficulties": 1.92,
+    "numEvals": 11,
+    "overallRating": 1.73,
+    "materialClear": 2.27,
+    "studentDifficulties": 2.09,
     "courses": [
       "STAT 425",
       "STAT 218"
