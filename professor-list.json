@@ -19559,10 +19559,10 @@
     "department": "ENGR",
     "firstName": "James C.",
     "lastName": "Eason",
-    "numEvals": 19,
-    "overallRating": 3.41,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.37,
+    "numEvals": 20,
+    "overallRating": 3.44,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.4,
     "courses": [
       "BMED 213",
       "ENGR 213",
@@ -30835,10 +30835,10 @@
     "department": "ENGL",
     "firstName": "Jose",
     "lastName": "Navarro",
-    "numEvals": 36,
-    "overallRating": 3.51,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.38,
+    "numEvals": 37,
+    "overallRating": 3.52,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.4,
     "courses": [
       "ENGL 145",
       "ENGL 202",
@@ -30853,11 +30853,11 @@
       "ES 255"
     ],
     "tags": {
-      "Pop Quizzes": 8,
+      "Pop Quizzes": 9,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Uploads Slides": 4,
       "Honor DRC Accommodations": 1
     }
@@ -32131,10 +32131,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 35,
-    "overallRating": 3.11,
-    "materialClear": 3.32,
-    "studentDifficulties": 3.17,
+    "numEvals": 36,
+    "overallRating": 3.05,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.11,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -32143,7 +32143,8 @@
       "ENGL 343",
       "ENGL 350",
       "ENGL 487"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b8940792-86b5-4911-ac2e-53bc975a6c44",
@@ -41038,10 +41039,10 @@
     "department": "PSY",
     "firstName": "Matthew",
     "lastName": "Melendrez",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3,
     "courses": [
       "PSY 372"
     ],
