@@ -5844,10 +5844,10 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 15,
-    "overallRating": 0.47,
-    "materialClear": 1.07,
-    "studentDifficulties": 0.73,
+    "numEvals": 16,
+    "overallRating": 0.44,
+    "materialClear": 1,
+    "studentDifficulties": 0.68,
     "courses": [
       "GRC 203",
       "GRC 316"
@@ -5855,9 +5855,9 @@
     "tags": {
       "Recorded Lectures": 1,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 5,
-      "Inflexible Deadline Policy": 5,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Grading Policy": 6,
+      "Inflexible Deadline Policy": 6,
+      "Inflexible Attendance Policy": 6,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
@@ -10001,18 +10001,19 @@
     "department": "ISLA",
     "firstName": "Brandiff",
     "lastName": "Caron",
-    "numEvals": 4,
-    "overallRating": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.6,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
-      "ISLA 123"
+      "ISLA 123",
+      "ISLA 303"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Pop Quizzes": 2
+      "Pop Quizzes": 3
     }
   },
   {
@@ -14585,10 +14586,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 0,
-    "materialClear": 0.75,
-    "studentDifficulties": 0.5,
+    "materialClear": 0.69,
+    "studentDifficulties": 0.46,
     "courses": [
       "TH 210"
     ],
@@ -14596,7 +14597,7 @@
       "Fast Response Time": 2,
       "Inflexible Grading Policy": 8,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 7,
+      "Inflexible Attendance Policy": 8,
       "Inflexible Deadline Policy": 4
     }
   },
@@ -21956,10 +21957,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 53,
-    "overallRating": 2.05,
-    "materialClear": 2.16,
-    "studentDifficulties": 2.02,
+    "numEvals": 55,
+    "overallRating": 2.12,
+    "materialClear": 2.22,
+    "studentDifficulties": 2.1,
     "courses": [
       "TH 210",
       "TH 227",
@@ -21973,7 +21974,7 @@
       "Recorded Lectures": 1,
       "Zoom Office Hours": 4,
       "Hybrid Option": 2,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 2,
@@ -27051,10 +27052,10 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 17,
-    "overallRating": 2.99,
-    "materialClear": 3.11,
-    "studentDifficulties": 3.04,
+    "numEvals": 18,
+    "overallRating": 2.94,
+    "materialClear": 3.1,
+    "studentDifficulties": 2.93,
     "courses": [
       "ENGL 231",
       "ENGL 305",
@@ -33440,10 +33441,10 @@
     "department": "WGS",
     "firstName": "Tom",
     "lastName": "Trice",
-    "numEvals": 30,
-    "overallRating": 3.71,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.65,
+    "numEvals": 31,
+    "overallRating": 3.72,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.66,
     "courses": [
       "HNRS 161",
       "HIST 215",
@@ -37194,22 +37195,24 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ME 212",
       "ME 326",
-      "ME 318"
+      "ME 318",
+      "ME 211"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -41535,10 +41538,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 154,
-    "overallRating": 1.57,
-    "materialClear": 1.87,
-    "studentDifficulties": 1.58,
+    "numEvals": 155,
+    "overallRating": 1.56,
+    "materialClear": 1.86,
+    "studentDifficulties": 1.57,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -41563,10 +41566,10 @@
       "Hybrid Option": 1,
       "Zoom Office Hours": 2,
       "Inflexible Attendance Policy": 12,
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 4,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 5,
       "Recorded Lectures": 3,
-      "Does Not Use Canvas": 10,
+      "Does Not Use Canvas": 11,
       "Pop Quizzes": 1
     }
   },
