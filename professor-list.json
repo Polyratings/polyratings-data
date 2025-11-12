@@ -14586,10 +14586,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 0,
-    "materialClear": 0.64,
-    "studentDifficulties": 0.43,
+    "materialClear": 0.6,
+    "studentDifficulties": 0.67,
     "courses": [
       "TH 210"
     ],
@@ -17572,10 +17572,10 @@
     "department": "ECON",
     "firstName": "Steve",
     "lastName": "Hamilton",
-    "numEvals": 10,
-    "overallRating": 1.42,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.35,
+    "numEvals": 11,
+    "overallRating": 1.47,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.41,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -17584,8 +17584,9 @@
       "ECON 431"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Does Not Use Canvas": 2
+      "Fast Response Time": 2,
+      "Does Not Use Canvas": 3,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -32542,9 +32543,9 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 25,
-    "overallRating": 3.81,
-    "materialClear": 3.51,
+    "numEvals": 26,
+    "overallRating": 3.82,
+    "materialClear": 3.53,
     "studentDifficulties": 3.88,
     "courses": [
       "ECON 222",
@@ -32552,10 +32553,10 @@
       "ECON 312"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Honor DRC Accommodations": 3,
-      "Uploads Slides": 11,
-      "Flexible Attendance Policy": 9,
+      "Uploads Slides": 12,
+      "Flexible Attendance Policy": 10,
       "High In-Person Availability": 3,
       "Flexible Deadline Policy": 1,
       "Does Not Use Canvas": 1,
