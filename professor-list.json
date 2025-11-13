@@ -14592,10 +14592,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 27,
+    "numEvals": 28,
     "overallRating": 0,
-    "materialClear": 0.47,
-    "studentDifficulties": 0.52,
+    "materialClear": 0.45,
+    "studentDifficulties": 0.5,
     "courses": [
       "TH 210"
     ],
@@ -42446,14 +42446,15 @@
     "department": "HIST",
     "firstName": "John",
     "lastName": "Paniagua",
-    "numEvals": 7,
-    "overallRating": 4,
-    "materialClear": 3.85,
-    "studentDifficulties": 4,
+    "numEvals": 8,
+    "overallRating": 3.88,
+    "materialClear": 3.74,
+    "studentDifficulties": 3.75,
     "courses": [
       "HIST 304",
       "HIST 223",
-      "HIST 222"
+      "HIST 222",
+      "HIST 309"
     ],
     "tags": {
       "Fast Response Time": 3,
