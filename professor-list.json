@@ -9768,10 +9768,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 16,
-    "overallRating": 1.81,
-    "materialClear": 1.31,
-    "studentDifficulties": 2.38,
+    "numEvals": 17,
+    "overallRating": 1.7,
+    "materialClear": 1.23,
+    "studentDifficulties": 2.24,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -14598,19 +14598,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 44,
+    "numEvals": 46,
     "overallRating": 0.11,
-    "materialClear": 0.45,
-    "studentDifficulties": 0.45,
+    "materialClear": 0.43,
+    "studentDifficulties": 0.43,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 19,
+      "Inflexible Grading Policy": 20,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 23,
-      "Inflexible Deadline Policy": 16,
+      "Inflexible Attendance Policy": 24,
+      "Inflexible Deadline Policy": 17,
       "Recorded Lectures": 1,
       "Hybrid Option": 3,
       "No Breaks During Lecture": 1
@@ -17701,9 +17701,9 @@
     "department": "ENGL",
     "firstName": "Leslie",
     "lastName": "St. John",
-    "numEvals": 51,
-    "overallRating": 3.35,
-    "materialClear": 3.35,
+    "numEvals": 52,
+    "overallRating": 3.34,
+    "materialClear": 3.32,
     "studentDifficulties": 3.22,
     "courses": [
       "ENGL 134",
@@ -17713,12 +17713,13 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Inflexible Deadline Policy": 2,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -18150,10 +18151,10 @@
     "department": "JOUR",
     "firstName": "Antonio",
     "lastName": "Prado",
-    "numEvals": 18,
-    "overallRating": 3.4,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.67,
+    "numEvals": 19,
+    "overallRating": 3.43,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.69,
     "courses": [
       "JOUR 203",
       "JOUR 285",
@@ -28902,10 +28903,10 @@
     "department": "ASCI",
     "firstName": "Siroj",
     "lastName": "Pokharel",
-    "numEvals": 10,
-    "overallRating": 3.6,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.79,
+    "numEvals": 11,
+    "overallRating": 3.64,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.81,
     "courses": [
       "ASCI 211",
       "ASCI 363",
@@ -28913,14 +28914,15 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "No Breaks During Lecture": 3,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Class Handouts": 3,
       "Honor DRC Accommodations": 1,
       "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -34671,10 +34673,10 @@
     "department": "PHYS",
     "firstName": "Glen",
     "lastName": "Gillen",
-    "numEvals": 52,
-    "overallRating": 2.93,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.86,
+    "numEvals": 53,
+    "overallRating": 2.95,
+    "materialClear": 2.96,
+    "studentDifficulties": 2.88,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -34691,9 +34693,10 @@
       "High In-Person Availability": 2,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 2,
-      "Fast Response Time": 1,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 3,
+      "Fast Response Time": 2,
+      "No Breaks During Lecture": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -37480,19 +37483,21 @@
     "department": "ASCI",
     "firstName": "Ike",
     "lastName": "Kang",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 2.86,
+    "studentDifficulties": 3.71,
     "courses": [
       "ASCI 211"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 3,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
