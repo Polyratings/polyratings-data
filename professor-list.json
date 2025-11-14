@@ -15415,10 +15415,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 14,
-    "overallRating": 1.37,
-    "materialClear": 1.79,
-    "studentDifficulties": 1.44,
+    "numEvals": 16,
+    "overallRating": 1.2,
+    "materialClear": 2.07,
+    "studentDifficulties": 1.45,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -15426,13 +15426,13 @@
     "tags": {
       "Zoom Office Hours": 3,
       "Pop Quizzes": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 4,
       "High In-Person Availability": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 3,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 2,
-      "Class Handouts": 2
+      "Class Handouts": 4
     }
   },
   {
@@ -36428,17 +36428,21 @@
     "department": "JOUR",
     "firstName": "Julie",
     "lastName": "Lynem",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 2,
+    "studentDifficulties": 3,
     "courses": [
-      "JOUR"
+      "JOUR 219",
+      "JOUR 203"
     ],
     "tags": {
       "Class Handouts": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -43933,23 +43937,24 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 24,
-    "overallRating": 2.37,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.67,
+    "numEvals": 25,
+    "overallRating": 2.44,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.72,
     "courses": [
       "STAT 218",
-      "STAT 251"
+      "STAT 251",
+      "STAT 130"
     ],
     "tags": {
       "Class Handouts": 2,
-      "Zoom Office Hours": 6,
+      "Zoom Office Hours": 7,
       "Inflexible Deadline Policy": 5,
-      "Uploads Slides": 13,
+      "Uploads Slides": 14,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
       "Fast Response Time": 5,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Inflexible Attendance Policy": 4,
       "Flexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
