@@ -575,13 +575,14 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "OLeary",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.43,
+    "numEvals": 8,
+    "overallRating": 3.87,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "MATH 118",
-      "MATH 221"
+      "MATH 221",
+      "MATH 141"
     ],
     "tags": {
       "Fast Response Time": 3,
@@ -1285,10 +1286,10 @@
     "department": "PHYS",
     "firstName": "Joseph",
     "lastName": "Pechkis",
-    "numEvals": 13,
-    "overallRating": 1.54,
-    "materialClear": 1.78,
-    "studentDifficulties": 2.24,
+    "numEvals": 15,
+    "overallRating": 1.61,
+    "materialClear": 2.08,
+    "studentDifficulties": 2.48,
     "courses": [
       "PHYS 141",
       "PHYS 142"
@@ -9114,16 +9115,16 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 17,
+    "numEvals": 18,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.94,
     "studentDifficulties": 4,
     "courses": [
       "ES 254"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "Flexible Deadline Policy": 2,
       "Class Handouts": 1,
       "Supplemental Study Material": 2,
@@ -9131,7 +9132,8 @@
       "Flexible Attendance Policy": 1,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 2,
-      "No Breaks During Lecture": 3
+      "No Breaks During Lecture": 4,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -14598,10 +14600,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 46,
+    "numEvals": 48,
     "overallRating": 0.11,
-    "materialClear": 0.43,
-    "studentDifficulties": 0.43,
+    "materialClear": 0.41,
+    "studentDifficulties": 0.41,
     "courses": [
       "TH 210"
     ],
@@ -15473,10 +15475,10 @@
     "department": "CHEM",
     "firstName": "Alan",
     "lastName": "Kiste",
-    "numEvals": 75,
-    "overallRating": 2.32,
-    "materialClear": 2.45,
-    "studentDifficulties": 2.28,
+    "numEvals": 76,
+    "overallRating": 2.29,
+    "materialClear": 2.43,
+    "studentDifficulties": 2.26,
     "courses": [
       "CHEM 125",
       "CHEM 127",
