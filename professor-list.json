@@ -5485,16 +5485,19 @@
     "department": "ISLA",
     "firstName": "Emily",
     "lastName": "Ryalls",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 2.8,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.2,
     "courses": [
       "ISLA 303",
       "WGS 210"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -11294,10 +11297,10 @@
     "department": "ARCH",
     "firstName": "Stephen",
     "lastName": "Phillips",
-    "numEvals": 30,
-    "overallRating": 3.27,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.1,
+    "numEvals": 31,
+    "overallRating": 3.23,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.03,
     "courses": [
       "ARCH 217",
       "ARCH 351",
@@ -14600,19 +14603,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 48,
+    "numEvals": 51,
     "overallRating": 0.11,
-    "materialClear": 0.41,
-    "studentDifficulties": 0.41,
+    "materialClear": 0.38,
+    "studentDifficulties": 0.38,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 20,
+      "Inflexible Grading Policy": 21,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 24,
-      "Inflexible Deadline Policy": 17,
+      "Inflexible Attendance Policy": 25,
+      "Inflexible Deadline Policy": 18,
       "Recorded Lectures": 1,
       "Hybrid Option": 3,
       "No Breaks During Lecture": 1
@@ -15256,10 +15259,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 97,
-    "overallRating": 2.17,
-    "materialClear": 2.1,
-    "studentDifficulties": 2.35,
+    "numEvals": 98,
+    "overallRating": 2.16,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.37,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -16084,7 +16087,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 21,
+    "numEvals": 22,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -16093,11 +16096,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 6,
+      "Flexible Grading Policy": 7,
       "Flexible Deadline Policy": 4,
-      "High In-Person Availability": 5
+      "High In-Person Availability": 6
     }
   },
   {
@@ -17685,7 +17688,7 @@
     "department": "MU",
     "firstName": "Samuel",
     "lastName": "Shalhoub",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17693,9 +17696,10 @@
       "MU 120"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -20484,10 +20488,10 @@
     "department": "STAT",
     "firstName": "James",
     "lastName": "Oksanish",
-    "numEvals": 12,
-    "overallRating": 3.16,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.34,
+    "numEvals": 14,
+    "overallRating": 2.99,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.01,
     "courses": [
       "STAT 312",
       "STAT 251",
@@ -32710,10 +32714,10 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 25,
-    "overallRating": 3.59,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.72,
+    "numEvals": 26,
+    "overallRating": 3.61,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.73,
     "courses": [
       "PHYS 143",
       "PHYS 142",
@@ -38562,7 +38566,7 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 50,
+    "numEvals": 51,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.79,
@@ -38575,8 +38579,8 @@
       "MATH 244"
     ],
     "tags": {
-      "High In-Person Availability": 7,
-      "Fast Response Time": 6,
+      "High In-Person Availability": 8,
+      "Fast Response Time": 7,
       "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2
@@ -42965,10 +42969,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 36,
-    "overallRating": 1.96,
-    "materialClear": 1.92,
-    "studentDifficulties": 2.42,
+    "numEvals": 39,
+    "overallRating": 1.89,
+    "materialClear": 1.82,
+    "studentDifficulties": 2.29,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -44276,10 +44280,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 58,
-    "overallRating": 1.77,
-    "materialClear": 2.04,
-    "studentDifficulties": 1.92,
+    "numEvals": 59,
+    "overallRating": 1.81,
+    "materialClear": 2.06,
+    "studentDifficulties": 1.94,
     "courses": [
       "BIO 161",
       "BIO 221",
