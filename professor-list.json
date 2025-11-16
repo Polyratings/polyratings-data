@@ -3933,16 +3933,19 @@
     "department": "CSC",
     "firstName": "Paris",
     "lastName": "Kalathas",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 1.67,
     "studentDifficulties": 2,
     "courses": [
       "CSC 203"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -14646,10 +14649,10 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 65,
-    "overallRating": 2.5,
-    "materialClear": 2.46,
-    "studentDifficulties": 2.42,
+    "numEvals": 66,
+    "overallRating": 2.52,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.44,
     "courses": [
       "CSC 141",
       "CSC 231",
