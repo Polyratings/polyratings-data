@@ -12979,7 +12979,7 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 20,
+    "numEvals": 21,
     "overallRating": 3.91,
     "materialClear": 3.91,
     "studentDifficulties": 3.91,
@@ -27550,10 +27550,10 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 18,
-    "overallRating": 2.94,
-    "materialClear": 3.1,
-    "studentDifficulties": 2.93,
+    "numEvals": 19,
+    "overallRating": 3,
+    "materialClear": 3.15,
+    "studentDifficulties": 2.99,
     "courses": [
       "ENGL 231",
       "ENGL 305",
@@ -27565,7 +27565,10 @@
     "tags": {
       "Hybrid Option": 1,
       "Recorded Lectures": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -34940,10 +34943,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 109,
+    "numEvals": 110,
     "overallRating": 3.47,
     "materialClear": 3.55,
-    "studentDifficulties": 3.41,
+    "studentDifficulties": 3.42,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -34955,7 +34958,7 @@
       "HIST 225"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Class Handouts": 2,
       "Uploads Slides": 5,
       "Flexible Attendance Policy": 7,
@@ -34964,7 +34967,8 @@
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
