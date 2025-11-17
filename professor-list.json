@@ -1407,10 +1407,10 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 8,
-    "overallRating": 1.75,
-    "materialClear": 1.38,
-    "studentDifficulties": 3,
+    "numEvals": 9,
+    "overallRating": 1.56,
+    "materialClear": 1.34,
+    "studentDifficulties": 2.78,
     "courses": [
       "CPE 133",
       "CPE 131",
@@ -1423,7 +1423,7 @@
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
-      "Does Not Use Canvas": 3
+      "Does Not Use Canvas": 4
     }
   },
   {
@@ -8462,7 +8462,7 @@
     "department": "PHIL",
     "firstName": "Damien",
     "lastName": "Barnes",
-    "numEvals": 21,
+    "numEvals": 22,
     "overallRating": 3.91,
     "materialClear": 3.91,
     "studentDifficulties": 3.91,
@@ -8471,10 +8471,10 @@
       "PHIL 230"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Fast Response Time": 5,
-      "Uploads Slides": 8,
-      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 9,
+      "Flexible Attendance Policy": 4,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 2,
@@ -16519,13 +16519,14 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 25,
-    "overallRating": 1.64,
-    "materialClear": 1.37,
-    "studentDifficulties": 1.85,
+    "numEvals": 27,
+    "overallRating": 1.52,
+    "materialClear": 1.27,
+    "studentDifficulties": 1.87,
     "courses": [
       "CSC 202",
-      "EE 201"
+      "EE 201",
+      "EE 321"
     ],
     "tags": {
       "Flexible Attendance Policy": 4,
@@ -17190,16 +17191,18 @@
     "department": "AGB",
     "firstName": "Autumn",
     "lastName": "Qiu",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "AGB 260"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -23449,7 +23452,7 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 79,
+    "numEvals": 80,
     "overallRating": 3.06,
     "materialClear": 3.28,
     "studentDifficulties": 3.18,
