@@ -14842,19 +14842,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 55,
+    "numEvals": 56,
     "overallRating": 0.15,
-    "materialClear": 0.38,
-    "studentDifficulties": 0.34,
+    "materialClear": 0.37,
+    "studentDifficulties": 0.33,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 22,
+      "Inflexible Grading Policy": 23,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 26,
-      "Inflexible Deadline Policy": 19,
+      "Inflexible Attendance Policy": 27,
+      "Inflexible Deadline Policy": 20,
       "Recorded Lectures": 1,
       "Hybrid Option": 3,
       "No Breaks During Lecture": 1
@@ -30772,10 +30772,10 @@
     "department": "PHIL",
     "firstName": "Kevin",
     "lastName": "Houer",
-    "numEvals": 6,
-    "overallRating": 2.67,
-    "materialClear": 2.34,
-    "studentDifficulties": 2.68,
+    "numEvals": 7,
+    "overallRating": 2.72,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.73,
     "courses": [
       "PHIL 231",
       "PHIL 126"
@@ -30783,8 +30783,9 @@
     "tags": {
       "Uploads Slides": 3,
       "Hybrid Option": 2,
-      "High In-Person Availability": 1,
-      "Recorded Lectures": 1
+      "High In-Person Availability": 2,
+      "Recorded Lectures": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -31378,10 +31379,10 @@
     "department": "ENGL",
     "firstName": "Jose",
     "lastName": "Navarro",
-    "numEvals": 37,
-    "overallRating": 3.52,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.4,
+    "numEvals": 38,
+    "overallRating": 3.53,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.42,
     "courses": [
       "ENGL 145",
       "ENGL 202",
@@ -31396,12 +31397,12 @@
       "ES 255"
     ],
     "tags": {
-      "Pop Quizzes": 9,
+      "Pop Quizzes": 10,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Honor DRC Accommodations": 1
     }
   },
@@ -33515,19 +33516,20 @@
     "department": "ES",
     "firstName": "Kristian",
     "lastName": "Vasquez",
-    "numEvals": 11,
-    "overallRating": 3.18,
-    "materialClear": 3.27,
-    "studentDifficulties": 3,
+    "numEvals": 12,
+    "overallRating": 3.25,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.08,
     "courses": [
       "ES 252"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 4,
-      "Zoom Office Hours": 2,
+      "Uploads Slides": 5,
+      "Zoom Office Hours": 3,
       "Flexible Attendance Policy": 4,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
