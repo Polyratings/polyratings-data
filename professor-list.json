@@ -11294,10 +11294,10 @@
     "department": "ECON",
     "firstName": "Daniel",
     "lastName": "Seiver",
-    "numEvals": 81,
-    "overallRating": 2.23,
-    "materialClear": 2.34,
-    "studentDifficulties": 2.03,
+    "numEvals": 82,
+    "overallRating": 2.2,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.01,
     "courses": [
       "ECON 122",
       "ECON 221",
@@ -15675,10 +15675,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 16,
-    "overallRating": 1.2,
-    "materialClear": 2.07,
-    "studentDifficulties": 1.45,
+    "numEvals": 17,
+    "overallRating": 1.13,
+    "materialClear": 2.01,
+    "studentDifficulties": 1.36,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -20877,10 +20877,10 @@
     "department": "AGB",
     "firstName": "Lynn",
     "lastName": "Hamilton",
-    "numEvals": 95,
-    "overallRating": 2.29,
-    "materialClear": 2.66,
-    "studentDifficulties": 2.07,
+    "numEvals": 96,
+    "overallRating": 2.31,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.09,
     "courses": [
       "AGB 101",
       "AGB 212",
@@ -20893,10 +20893,11 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -22331,10 +22332,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 55,
-    "overallRating": 2.12,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.1,
+    "numEvals": 56,
+    "overallRating": 2.15,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.13,
     "courses": [
       "TH 210",
       "TH 227",
@@ -22348,7 +22349,7 @@
       "Recorded Lectures": 1,
       "Zoom Office Hours": 4,
       "Hybrid Option": 2,
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 2,
@@ -29233,10 +29234,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 33,
-    "overallRating": 1.63,
-    "materialClear": 1.45,
-    "studentDifficulties": 2,
+    "numEvals": 42,
+    "overallRating": 1.28,
+    "materialClear": 1.14,
+    "studentDifficulties": 1.57,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -39070,17 +39071,18 @@
     "department": "CSC",
     "firstName": "Alex",
     "lastName": "Bisberg",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.67,
     "courses": [
       "CSC 203"
     ],
     "tags": {
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 3,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Pop Quizzes": 1
     }
   },
   {
