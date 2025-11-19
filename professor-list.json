@@ -3926,15 +3926,17 @@
     "department": "ME",
     "firstName": "James",
     "lastName": "Sever",
-    "numEvals": 1,
-    "overallRating": 1,
+    "numEvals": 2,
+    "overallRating": 2,
     "materialClear": 2,
-    "studentDifficulties": 2,
+    "studentDifficulties": 3,
     "courses": [
-      "ME"
+      "ME 212"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -27879,10 +27881,10 @@
     "department": "CHEM",
     "firstName": "Michael",
     "lastName": "Heying",
-    "numEvals": 48,
-    "overallRating": 2.33,
-    "materialClear": 2.62,
-    "studentDifficulties": 2.31,
+    "numEvals": 52,
+    "overallRating": 2.17,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.15,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -27895,10 +27897,11 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 5,
       "Supplemental Study Material": 1,
-      "Does Not Use Canvas": 2,
-      "High In-Person Availability": 1
+      "Does Not Use Canvas": 4,
+      "High In-Person Availability": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -37259,23 +37262,23 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O\u2019Connor",
-    "numEvals": 8,
-    "overallRating": 2.25,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.25,
+    "numEvals": 9,
+    "overallRating": 2.11,
+    "materialClear": 3.45,
+    "studentDifficulties": 3,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Class Handouts": 4,
       "Honor DRC Accommodations": 1,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Fast Response Time": 1,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
