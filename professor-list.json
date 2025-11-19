@@ -3497,10 +3497,10 @@
     "department": "STAT",
     "firstName": "Felicia",
     "lastName": "Korengel",
-    "numEvals": 14,
-    "overallRating": 3.14,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.36,
+    "numEvals": 15,
+    "overallRating": 3.2,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.34,
     "courses": [
       "STAT 217",
       "STAT 218"
@@ -3513,8 +3513,8 @@
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
       "Zoom Office Hours": 2,
-      "Class Handouts": 3,
-      "No Breaks During Lecture": 1,
+      "Class Handouts": 4,
+      "No Breaks During Lecture": 2,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 1
     }
@@ -4606,10 +4606,10 @@
     "department": "CHEM",
     "firstName": "David",
     "lastName": "Zigler",
-    "numEvals": 30,
-    "overallRating": 1.39,
-    "materialClear": 1.53,
-    "studentDifficulties": 1.41,
+    "numEvals": 31,
+    "overallRating": 1.38,
+    "materialClear": 1.51,
+    "studentDifficulties": 1.4,
     "courses": [
       "CHEM 121",
       "CHEM 126",
@@ -12553,16 +12553,17 @@
     "department": "BUS",
     "firstName": "Wes",
     "lastName": "Love",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "ITP"
+      "ITP 303"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -14842,19 +14843,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 56,
+    "numEvals": 58,
     "overallRating": 0.15,
-    "materialClear": 0.37,
-    "studentDifficulties": 0.33,
+    "materialClear": 0.35,
+    "studentDifficulties": 0.31,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 23,
+      "Inflexible Grading Policy": 25,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 27,
-      "Inflexible Deadline Policy": 20,
+      "Inflexible Attendance Policy": 29,
+      "Inflexible Deadline Policy": 22,
       "Recorded Lectures": 1,
       "Hybrid Option": 3,
       "No Breaks During Lecture": 1
@@ -18662,10 +18663,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 44,
-    "overallRating": 2.91,
-    "materialClear": 3.28,
-    "studentDifficulties": 2.49,
+    "numEvals": 45,
+    "overallRating": 2.85,
+    "materialClear": 3.25,
+    "studentDifficulties": 2.48,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -18680,7 +18681,7 @@
       "High In-Person Availability": 4,
       "Flexible Attendance Policy": 4,
       "Flexible Grading Policy": 3,
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 2,
@@ -24559,19 +24560,20 @@
     "department": "COMS",
     "firstName": "Carmen",
     "lastName": "Navarro",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 4,
     "materialClear": 3.94,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
       "COMS 217",
-      "COMS 206"
+      "COMS 206",
+      "COMS 215"
     ],
     "tags": {
       "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 5,
-      "Uploads Slides": 12,
+      "Uploads Slides": 13,
       "High In-Person Availability": 5,
       "Fast Response Time": 8,
       "Honor DRC Accommodations": 1,
@@ -39778,14 +39780,15 @@
     "department": "BUS",
     "firstName": "Benjamin",
     "lastName": "Alexander",
-    "numEvals": 20,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.9,
-    "overallRating": 2.05,
+    "numEvals": 21,
+    "overallRating": 2,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.95,
     "courses": [
       "BUS 401",
       "WGS 500"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "e2eda017-ea27-436d-a45a-5b037fc21ca8",
