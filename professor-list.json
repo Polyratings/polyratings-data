@@ -2205,10 +2205,10 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Mccomb",
-    "numEvals": 19,
-    "overallRating": 0.99,
-    "materialClear": 0.83,
-    "studentDifficulties": 0.9,
+    "numEvals": 20,
+    "overallRating": 0.94,
+    "materialClear": 0.79,
+    "studentDifficulties": 0.86,
     "courses": [
       "HIST 202",
       "HIST 223",
@@ -9324,10 +9324,10 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 11,
-    "overallRating": 2.91,
-    "materialClear": 2.91,
-    "studentDifficulties": 3.55,
+    "numEvals": 13,
+    "overallRating": 2.46,
+    "materialClear": 2.46,
+    "studentDifficulties": 3,
     "courses": [
       "ENGL 145"
     ],
@@ -9335,7 +9335,7 @@
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 3,
       "Uploads Slides": 3,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "High In-Person Availability": 3,
       "Fast Response Time": 1
     }
