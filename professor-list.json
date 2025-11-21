@@ -9422,16 +9422,18 @@
     "department": "BUS",
     "firstName": "Craig Mark",
     "lastName": "Law-Smith",
-    "numEvals": 1,
-    "overallRating": 2,
+    "numEvals": 2,
+    "overallRating": 2.5,
     "materialClear": 4,
     "studentDifficulties": 2,
     "courses": [
-      "BUS"
+      "BUS 346"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Zoom Office Hours": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -14849,21 +14851,21 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 60,
-    "overallRating": 0.18,
-    "materialClear": 0.38,
-    "studentDifficulties": 0.31,
+    "numEvals": 61,
+    "overallRating": 0.24,
+    "materialClear": 0.44,
+    "studentDifficulties": 0.37,
     "courses": [
       "TH 210"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Grading Policy": 26,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 30,
+      "Inflexible Attendance Policy": 31,
       "Inflexible Deadline Policy": 23,
       "Recorded Lectures": 1,
-      "Hybrid Option": 3,
+      "Hybrid Option": 4,
       "No Breaks During Lecture": 1
     }
   },
@@ -44426,15 +44428,18 @@
     "department": "ARCH",
     "firstName": "Clare",
     "lastName": "Olsen",
-    "numEvals": 5,
-    "overallRating": 3.68,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.52,
+    "numEvals": 6,
+    "overallRating": 3.73,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.6,
     "courses": [
       "ARCH 131",
       "ARCH 253"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "fc1168fc-8240-479f-aee2-eb404a60d5d5",
@@ -45037,10 +45042,10 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 59,
-    "overallRating": 1.81,
-    "materialClear": 2.06,
-    "studentDifficulties": 1.94,
+    "numEvals": 60,
+    "overallRating": 1.85,
+    "materialClear": 2.09,
+    "studentDifficulties": 1.97,
     "courses": [
       "BIO 161",
       "BIO 221",
@@ -45051,11 +45056,12 @@
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 4,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 4,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Class Handouts": 1
     }
   },
   {
