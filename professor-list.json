@@ -9246,7 +9246,7 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 4,
     "materialClear": 3.94,
     "studentDifficulties": 4,
@@ -30212,14 +30212,16 @@
     "department": "AEPS",
     "firstName": "Patrick",
     "lastName": "Frazier",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AEPS"
+      "AEPS 175"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "a9231ca7-7371-4cab-94a7-4f7752ba112c",
@@ -39668,16 +39670,17 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 2,
-    "overallRating": 0.5,
+    "numEvals": 7,
+    "overallRating": 0.15,
     "materialClear": 0,
-    "studentDifficulties": 2.5,
+    "studentDifficulties": 0.71,
     "courses": [
       "CHEM 127",
       "CHEM 128"
     ],
     "tags": {
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Attendance Policy": 2
     }
   },
   {
