@@ -3097,7 +3097,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 207,
+    "numEvals": 208,
     "overallRating": 3.53,
     "materialClear": 3.62,
     "studentDifficulties": 3.34,
@@ -3116,9 +3116,9 @@
       "Uploads Slides": 5,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1
     }
   },
@@ -8192,7 +8192,7 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -8205,11 +8205,13 @@
       "Fast Response Time": 2,
       "Does Not Use Canvas": 2,
       "Zoom Office Hours": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
       "Pop Quizzes": 2,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -19121,16 +19123,16 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 24,
-    "overallRating": 3.7,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.71,
+    "numEvals": 25,
+    "overallRating": 3.71,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.72,
     "courses": [
       "MATH 143",
       "MATH 241"
     ],
     "tags": {
-      "Uploads Slides": 18,
+      "Uploads Slides": 19,
       "Supplemental Study Material": 8,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 10,
@@ -21076,7 +21078,7 @@
     "department": "ES",
     "firstName": "Alex",
     "lastName": "Wescott",
-    "numEvals": 21,
+    "numEvals": 22,
     "overallRating": 3.9,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -21092,7 +21094,7 @@
       "Flexible Grading Policy": 1,
       "Fast Response Time": 3,
       "Supplemental Study Material": 1,
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Flexible Deadline Policy": 1
     }
   },
@@ -25471,19 +25473,21 @@
     "department": "COMS",
     "firstName": "Jamie",
     "lastName": "Ascher",
-    "numEvals": 15,
-    "overallRating": 3.46,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.47,
+    "numEvals": 16,
+    "overallRating": 3.49,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.5,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Zoom Office Hours": 5,
       "Uploads Slides": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Fast Response Time": 2,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
