@@ -17966,9 +17966,9 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 161,
+    "numEvals": 162,
     "overallRating": 2.42,
-    "materialClear": 2.22,
+    "materialClear": 2.21,
     "studentDifficulties": 2.38,
     "courses": [
       "MATH 118",
@@ -17994,11 +17994,11 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Does Not Use Canvas": 12,
+      "Does Not Use Canvas": 13,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 4,
       "Flexible Deadline Policy": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 1
     }
@@ -18833,6 +18833,24 @@
       "GRC 357",
       "GRC 377"
     ]
+  },
+  {
+    "id": "67d88e77-bf43-429a-b0eb-fdd37870a13b",
+    "department": "PSY",
+    "firstName": "Jennifer",
+    "lastName": "Beatty-Wright",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "PSY"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "67dde3f9-fb12-48e2-bb0f-50692ad979d9",
@@ -32373,10 +32391,10 @@
     "department": "ASCI",
     "firstName": "Juliana",
     "lastName": "Huzzey",
-    "numEvals": 51,
-    "overallRating": 3.05,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.92,
+    "numEvals": 52,
+    "overallRating": 3.07,
+    "materialClear": 3.15,
+    "studentDifficulties": 2.94,
     "courses": [
       "ASCI 101",
       "ASCI 112",
@@ -34352,15 +34370,16 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 8,
-    "overallRating": 2.74,
-    "materialClear": 2.88,
-    "studentDifficulties": 2.62,
+    "numEvals": 9,
+    "overallRating": 2.55,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.77,
     "courses": [
       "CHEM 124",
       "CHEM 125",
       "CHEM 127",
-      "CHEM 128"
+      "CHEM 128",
+      "CHEM 129"
     ],
     "tags": {
       "Uploads Slides": 2,
@@ -36335,10 +36354,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 144,
-    "overallRating": 2.93,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.94,
+    "numEvals": 145,
+    "overallRating": 2.94,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.95,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -36351,7 +36370,7 @@
     ],
     "tags": {
       "High In-Person Availability": 12,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 5,
       "Class Handouts": 11,
@@ -39705,6 +39724,20 @@
       "PHYS 141",
       "PHYS 151"
     ]
+  },
+  {
+    "id": "e2c74948-3e3a-4127-b968-55aa8ea89162",
+    "department": "ME",
+    "firstName": "Sam",
+    "lastName": "Cordero",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 1,
+    "studentDifficulties": 0,
+    "courses": [
+      "ME"
+    ],
+    "tags": {}
   },
   {
     "id": "e2c7ccdc-53be-4aec-9de7-6db237d035e8",
