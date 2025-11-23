@@ -42617,25 +42617,6 @@
     ]
   },
   {
-    "id": "f3bd3dea-c005-4fcb-bf19-386cf9b3551b",
-    "department": "NR",
-    "firstName": "Nicola",
-    "lastName": "Leyshon",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
-    "courses": [
-      "NR 326"
-    ],
-    "tags": {
-      "Zoom Office Hours": 1,
-      "Fast Response Time": 2,
-      "Uploads Slides": 2,
-      "Flexible Deadline Policy": 1
-    }
-  },
-  {
     "id": "f3c8ad9e-0ce7-4c86-a7ff-fbff1abec5f2",
     "department": "BIO",
     "firstName": "Michael",
@@ -44524,14 +44505,19 @@
     "department": "NR",
     "firstName": "Nicola",
     "lastName": "Morais",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
-      "NR"
+      "NR 326"
     ],
-    "tags": {}
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 2,
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "fca72513-62f6-45ee-b0e0-8f2a88a6c781",
