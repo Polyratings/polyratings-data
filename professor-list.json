@@ -20162,12 +20162,13 @@
     "department": "CHEM",
     "firstName": "Brian",
     "lastName": "Salvatore",
-    "numEvals": 9,
-    "overallRating": 2.89,
-    "materialClear": 2.67,
-    "studentDifficulties": 3,
+    "numEvals": 10,
+    "overallRating": 2.7,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.8,
     "courses": [
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 216"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
