@@ -39118,18 +39118,19 @@
     "department": "CSC",
     "firstName": "Alex",
     "lastName": "Bisberg",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.67,
+    "studentDifficulties": 1.5,
     "courses": [
       "CSC 203"
     ],
     "tags": {
-      "Does Not Use Canvas": 3,
+      "Does Not Use Canvas": 4,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 1,
-      "Pop Quizzes": 1
+      "No Breaks During Lecture": 2,
+      "Pop Quizzes": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
