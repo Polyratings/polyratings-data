@@ -25567,16 +25567,18 @@
     "department": "MSCI",
     "firstName": "Crow",
     "lastName": "White",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MSCI"
+      "MSCI 300"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -35513,10 +35515,10 @@
     "department": "CHEM",
     "firstName": "Lloyd",
     "lastName": "Lapoot",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 7,
+    "overallRating": 3.72,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.57,
     "courses": [
       "CHEM 216",
       "CHEM 128",
@@ -35526,8 +35528,9 @@
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 3,
       "Uploads Slides": 4,
-      "Supplemental Study Material": 3,
-      "Class Handouts": 2
+      "Supplemental Study Material": 4,
+      "Class Handouts": 3,
+      "Zoom Office Hours": 1
     }
   },
   {
