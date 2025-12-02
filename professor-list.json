@@ -6617,7 +6617,7 @@
     "department": "BIO",
     "firstName": "Kara",
     "lastName": "Jew",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -6628,7 +6628,7 @@
     "tags": {
       "Fast Response Time": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -19710,10 +19710,10 @@
     "department": "ART",
     "firstName": "Giancarlo",
     "lastName": "Fiorenza",
-    "numEvals": 25,
-    "overallRating": 3.8,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.58,
+    "numEvals": 26,
+    "overallRating": 3.73,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.48,
     "courses": [
       "ART 111",
       "ART 212",
@@ -19724,7 +19724,8 @@
       "Uploads Slides": 5,
       "Flexible Attendance Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -22376,10 +22377,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 56,
-    "overallRating": 2.15,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.13,
+    "numEvals": 58,
+    "overallRating": 2.07,
+    "materialClear": 2.21,
+    "studentDifficulties": 2.07,
     "courses": [
       "TH 210",
       "TH 227",
@@ -22387,7 +22388,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Inflexible Attendance Policy": 13,
+      "Inflexible Attendance Policy": 14,
       "Class Handouts": 3,
       "Inflexible Grading Policy": 2,
       "Recorded Lectures": 1,
@@ -26759,10 +26760,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 0.5,
+    "numEvals": 3,
+    "overallRating": 1.33,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.33,
     "courses": [
       "EE 251"
     ],
@@ -31933,8 +31934,8 @@
     "department": "BUS",
     "firstName": "Ashish",
     "lastName": "Hingle",
-    "numEvals": 13,
-    "overallRating": 3.76,
+    "numEvals": 14,
+    "overallRating": 3.78,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -38906,10 +38907,10 @@
     "department": "NR",
     "firstName": "Samantha",
     "lastName": "Gill",
-    "numEvals": 32,
-    "overallRating": 2.02,
-    "materialClear": 2.02,
-    "studentDifficulties": 1.91,
+    "numEvals": 33,
+    "overallRating": 1.96,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.85,
     "courses": [
       "FNR 201",
       "FNR 215",
@@ -38923,7 +38924,9 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
