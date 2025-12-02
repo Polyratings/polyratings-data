@@ -6041,20 +6041,21 @@
     "department": "ECON",
     "firstName": "Javier",
     "lastName": "Medina",
-    "numEvals": 12,
-    "overallRating": 3.92,
-    "materialClear": 3.92,
-    "studentDifficulties": 3.75,
+    "numEvals": 13,
+    "overallRating": 3.85,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.77,
     "courses": [
-      "ECON 222"
+      "ECON 222",
+      "ECON 221"
     ],
     "tags": {
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 3,
+      "Supplemental Study Material": 2,
+      "No Breaks During Lecture": 4,
       "Honor DRC Accommodations": 1
     }
   },
@@ -13634,16 +13635,18 @@
     "department": "EE",
     "firstName": "Uma",
     "lastName": "Balaji",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "EE"
+      "EE 335"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Honor DRC Accommodations": 1
+      "High In-Person Availability": 2,
+      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -15148,7 +15151,7 @@
     "department": "WGS",
     "firstName": "Christina",
     "lastName": "Kaviani",
-    "numEvals": 20,
+    "numEvals": 22,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -20030,7 +20033,7 @@
     "department": "AGC",
     "firstName": "James",
     "lastName": "Bingaman",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -20039,10 +20042,11 @@
       "AGC 301"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Honor DRC Accommodations": 2,
       "Uploads Slides": 2,
-      "Flexible Deadline Policy": 2
+      "Flexible Deadline Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -25958,16 +25962,17 @@
     "department": "COMS",
     "firstName": "Alexa",
     "lastName": "Loken",
-    "numEvals": 16,
-    "overallRating": 4,
+    "numEvals": 17,
+    "overallRating": 3.94,
     "materialClear": 4,
-    "studentDifficulties": 3.88,
+    "studentDifficulties": 3.89,
     "courses": [
       "COMS 101",
       "BUS 206",
       "BUS 310",
       "BUS 345",
-      "COMS 102"
+      "COMS 102",
+      "BUS 387"
     ],
     "tags": {
       "High In-Person Availability": 4,
@@ -31038,7 +31043,7 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "OLeary",
-    "numEvals": 17,
+    "numEvals": 18,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -31047,9 +31052,9 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Fast Response Time": 7,
-      "Flexible Grading Policy": 3,
-      "Zoom Office Hours": 9,
+      "Fast Response Time": 8,
+      "Flexible Grading Policy": 4,
+      "Zoom Office Hours": 10,
       "High In-Person Availability": 1,
       "Recorded Lectures": 1,
       "Uploads Slides": 3,
@@ -31062,8 +31067,8 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 165,
-    "overallRating": 2.75,
+    "numEvals": 166,
+    "overallRating": 2.76,
     "materialClear": 2.88,
     "studentDifficulties": 2.66,
     "courses": [
@@ -31935,8 +31940,8 @@
     "department": "BUS",
     "firstName": "Ashish",
     "lastName": "Hingle",
-    "numEvals": 14,
-    "overallRating": 3.78,
+    "numEvals": 15,
+    "overallRating": 3.79,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -31944,9 +31949,9 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Fast Response Time": 2,
-      "Uploads Slides": 4,
-      "High In-Person Availability": 1,
+      "Fast Response Time": 3,
+      "Uploads Slides": 5,
+      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1
     }
@@ -33190,9 +33195,9 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 26,
-    "overallRating": 3.82,
-    "materialClear": 3.53,
+    "numEvals": 27,
+    "overallRating": 3.83,
+    "materialClear": 3.55,
     "studentDifficulties": 3.88,
     "courses": [
       "ECON 222",
@@ -33200,11 +33205,11 @@
       "ECON 312"
     ],
     "tags": {
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "Honor DRC Accommodations": 3,
       "Uploads Slides": 13,
-      "Flexible Attendance Policy": 11,
-      "High In-Person Availability": 3,
+      "Flexible Attendance Policy": 12,
+      "High In-Person Availability": 4,
       "Flexible Deadline Policy": 1,
       "Does Not Use Canvas": 1,
       "Supplemental Study Material": 1
@@ -35360,10 +35365,10 @@
     "department": "GRC",
     "firstName": "April",
     "lastName": "Elliott",
-    "numEvals": 7,
-    "overallRating": 3.85,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.71,
+    "numEvals": 8,
+    "overallRating": 3.87,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.75,
     "courses": [
       "GRC 201",
       "GRC 101",
@@ -35372,7 +35377,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
@@ -38860,10 +38865,10 @@
     "department": "CHEM",
     "firstName": "Kevin",
     "lastName": "Kingsbury",
-    "numEvals": 46,
-    "overallRating": 2.95,
-    "materialClear": 3.02,
-    "studentDifficulties": 2.87,
+    "numEvals": 47,
+    "overallRating": 2.97,
+    "materialClear": 3.04,
+    "studentDifficulties": 2.89,
     "courses": [
       "CHEM 110",
       "CHEM 128",
@@ -38881,9 +38886,10 @@
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -40154,13 +40160,19 @@
     "department": "BRAE",
     "firstName": "Ben",
     "lastName": "Swan",
-    "numEvals": 2,
+    "numEvals": 3,
+    "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
-    "overallRating": 4,
     "courses": [
-      "BRAE 321"
-    ]
+      "BRAE 321",
+      "AGC 102"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "e49613f5-9fdc-4b2e-8a4e-2b2d7d0dcba0",
