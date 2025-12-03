@@ -486,9 +486,9 @@
     "department": "POLS",
     "firstName": "Shelley",
     "lastName": "Hurt",
-    "numEvals": 98,
-    "overallRating": 1.73,
-    "materialClear": 1.74,
+    "numEvals": 99,
+    "overallRating": 1.74,
+    "materialClear": 1.75,
     "studentDifficulties": 1.68,
     "courses": [
       "POLS 111",
@@ -499,11 +499,13 @@
       "POLS 421",
       "POLS 426",
       "POLS 451",
-      "POLS 461"
+      "POLS 461",
+      "POLS 427"
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Zoom Office Hours": 2
+      "Zoom Office Hours": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -8433,13 +8435,14 @@
     "department": "MATH",
     "firstName": "Terrin",
     "lastName": "Warren",
-    "numEvals": 5,
-    "overallRating": 1.6,
+    "numEvals": 6,
+    "overallRating": 1.67,
     "materialClear": 2,
-    "studentDifficulties": 1.2,
+    "studentDifficulties": 1.17,
     "courses": [
       "MATH 248",
-      "MATH 141"
+      "MATH 141",
+      "MATH 244"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
@@ -18262,12 +18265,13 @@
     "department": "ME",
     "firstName": "Jackson",
     "lastName": "Catalano",
-    "numEvals": 1,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
     "courses": [
-      "ME"
+      "ME 322",
+      "ME 251"
     ],
     "tags": {}
   },
@@ -22785,10 +22789,10 @@
     "department": "EE",
     "firstName": "Xiao-Hua",
     "lastName": "Yu",
-    "numEvals": 36,
-    "overallRating": 2.39,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.17,
+    "numEvals": 37,
+    "overallRating": 2.41,
+    "materialClear": 2.36,
+    "studentDifficulties": 2.19,
     "courses": [
       "EE 112",
       "EE 151",
@@ -22810,7 +22814,8 @@
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -27969,10 +27974,10 @@
     "department": "CHEM",
     "firstName": "Michael",
     "lastName": "Heying",
-    "numEvals": 53,
-    "overallRating": 2.2,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.18,
+    "numEvals": 54,
+    "overallRating": 2.16,
+    "materialClear": 2.44,
+    "studentDifficulties": 2.14,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -27988,7 +27993,7 @@
       "Inflexible Grading Policy": 5,
       "Supplemental Study Material": 1,
       "Does Not Use Canvas": 4,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Inflexible Deadline Policy": 1
     }
   },
@@ -33946,10 +33951,10 @@
     "department": "ME",
     "firstName": "Ali",
     "lastName": "Imam",
-    "numEvals": 9,
-    "overallRating": 1.79,
-    "materialClear": 1.34,
-    "studentDifficulties": 2.33,
+    "numEvals": 10,
+    "overallRating": 2.01,
+    "materialClear": 1.61,
+    "studentDifficulties": 2.5,
     "courses": [
       "ME 212",
       "ME 211"
@@ -34442,10 +34447,10 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 9,
-    "overallRating": 2.55,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.77,
+    "numEvals": 10,
+    "overallRating": 2.7,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.89,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -34459,7 +34464,9 @@
       "No Breaks During Lecture": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -43817,10 +43824,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 41,
-    "overallRating": 1.87,
-    "materialClear": 1.78,
-    "studentDifficulties": 2.28,
+    "numEvals": 44,
+    "overallRating": 2.02,
+    "materialClear": 1.93,
+    "studentDifficulties": 2.4,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -43886,10 +43893,10 @@
     "department": "STAT",
     "firstName": "Trevor",
     "lastName": "Ruiz",
-    "numEvals": 11,
-    "overallRating": 1.73,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.09,
+    "numEvals": 12,
+    "overallRating": 1.75,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.08,
     "courses": [
       "STAT 425",
       "STAT 218"
