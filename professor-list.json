@@ -13972,18 +13972,19 @@
     "department": "CHEM",
     "firstName": "Leslie",
     "lastName": "Hamachi",
-    "numEvals": 14,
-    "overallRating": 3.65,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.57,
+    "numEvals": 15,
+    "overallRating": 3.67,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.6,
     "courses": [
-      "CHEM 124"
+      "CHEM 124",
+      "CHEM 544"
     ],
     "tags": {
       "Class Handouts": 5,
-      "Uploads Slides": 9,
-      "High In-Person Availability": 4,
-      "Fast Response Time": 2,
+      "Uploads Slides": 10,
+      "High In-Person Availability": 5,
+      "Fast Response Time": 3,
       "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
@@ -14881,19 +14882,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 63,
-    "overallRating": 0.24,
-    "materialClear": 0.42,
-    "studentDifficulties": 0.42,
+    "numEvals": 64,
+    "overallRating": 0.25,
+    "materialClear": 0.41,
+    "studentDifficulties": 0.41,
     "courses": [
       "TH 210"
     ],
     "tags": {
       "Fast Response Time": 3,
-      "Inflexible Grading Policy": 26,
+      "Inflexible Grading Policy": 27,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 31,
-      "Inflexible Deadline Policy": 23,
+      "Inflexible Deadline Policy": 24,
       "Recorded Lectures": 1,
       "Hybrid Option": 4,
       "No Breaks During Lecture": 1
@@ -25085,17 +25086,20 @@
     "department": "CHEM",
     "firstName": "Haitham",
     "lastName": "Kalil",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 125",
+      "CHEM 216"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -33695,10 +33699,10 @@
     "department": "CHEM",
     "firstName": "Ashley",
     "lastName": "McDonald",
-    "numEvals": 46,
-    "overallRating": 1.88,
-    "materialClear": 2.31,
-    "studentDifficulties": 1.9,
+    "numEvals": 47,
+    "overallRating": 1.93,
+    "materialClear": 2.35,
+    "studentDifficulties": 1.92,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -33712,7 +33716,10 @@
     "tags": {
       "No Breaks During Lecture": 2,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
     }
   },
   {
