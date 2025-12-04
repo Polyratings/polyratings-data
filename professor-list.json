@@ -988,10 +988,10 @@
     "department": "POLS",
     "firstName": "Christopher",
     "lastName": "Den Hartog",
-    "numEvals": 94,
-    "overallRating": 3.28,
-    "materialClear": 3.35,
-    "studentDifficulties": 3.18,
+    "numEvals": 96,
+    "overallRating": 3.3,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.2,
     "courses": [
       "POLS 112",
       "POLS 210",
@@ -1001,8 +1001,11 @@
       "POLS 375"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Attendance Policy": 3,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -2644,9 +2647,9 @@
     "department": "PHYS",
     "firstName": "Jonathan",
     "lastName": "Fernsler",
-    "numEvals": 55,
-    "overallRating": 2.66,
-    "materialClear": 2.55,
+    "numEvals": 56,
+    "overallRating": 2.63,
+    "materialClear": 2.56,
     "studentDifficulties": 2.79,
     "courses": [
       "PSC 101",
@@ -4452,10 +4455,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 87,
-    "overallRating": 1.89,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.6,
+    "numEvals": 88,
+    "overallRating": 1.87,
+    "materialClear": 1.93,
+    "studentDifficulties": 1.63,
     "courses": [
       "EE 111",
       "EE 151",
@@ -15747,10 +15750,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 18,
-    "overallRating": 1.07,
-    "materialClear": 1.9,
-    "studentDifficulties": 1.28,
+    "numEvals": 19,
+    "overallRating": 1.01,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.21,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -34972,8 +34975,8 @@
     "department": "MATH",
     "firstName": "Lawrence",
     "lastName": "Sze",
-    "numEvals": 175,
-    "overallRating": 2.45,
+    "numEvals": 176,
+    "overallRating": 2.46,
     "materialClear": 2.3,
     "studentDifficulties": 2.57,
     "courses": [
@@ -34994,10 +34997,10 @@
     ],
     "tags": {
       "High In-Person Availability": 4,
-      "Flexible Attendance Policy": 4,
-      "No Breaks During Lecture": 3,
+      "Flexible Attendance Policy": 5,
+      "No Breaks During Lecture": 4,
       "Flexible Deadline Policy": 2,
-      "Pop Quizzes": 3,
+      "Pop Quizzes": 4,
       "Flexible Grading Policy": 3,
       "Supplemental Study Material": 2
     }
@@ -35646,10 +35649,10 @@
     "department": "CHEM",
     "firstName": "Lloyd",
     "lastName": "Lapoot",
-    "numEvals": 8,
-    "overallRating": 3.76,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.62,
+    "numEvals": 9,
+    "overallRating": 3.79,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.66,
     "courses": [
       "CHEM 216",
       "CHEM 128",
@@ -41760,25 +41763,27 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 3.94,
-    "materialClear": 3.77,
+    "materialClear": 3.73,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
       "PHYS 121",
-      "PHYS 122"
+      "PHYS 122",
+      "PHYS 142"
     ],
     "tags": {
       "Class Handouts": 11,
-      "Flexible Grading Policy": 3,
+      "Flexible Grading Policy": 4,
       "Uploads Slides": 7,
       "Fast Response Time": 9,
       "High In-Person Availability": 4,
       "Supplemental Study Material": 5,
       "Flexible Deadline Policy": 3,
       "Honor DRC Accommodations": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
