@@ -1223,12 +1223,12 @@
     "department": "MATH",
     "firstName": "Daniel",
     "lastName": "Ford",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "MATH"
+      "MATH 118"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -14934,18 +14934,19 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 68,
-    "overallRating": 0.32,
-    "materialClear": 0.45,
-    "studentDifficulties": 0.43,
+    "numEvals": 69,
+    "overallRating": 0.37,
+    "materialClear": 0.5,
+    "studentDifficulties": 0.48,
     "courses": [
-      "TH 210"
+      "TH 210",
+      "TH 228"
     ],
     "tags": {
       "Fast Response Time": 3,
       "Inflexible Grading Policy": 28,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 32,
+      "Inflexible Attendance Policy": 33,
       "Inflexible Deadline Policy": 24,
       "Recorded Lectures": 1,
       "Hybrid Option": 4,
@@ -37821,10 +37822,10 @@
     "department": "CE",
     "firstName": "Amro",
     "lastName": "El Badawy",
-    "numEvals": 21,
-    "overallRating": 3.84,
-    "materialClear": 3.84,
-    "studentDifficulties": 3.89,
+    "numEvals": 22,
+    "overallRating": 3.85,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.9,
     "courses": [
       "CE 251",
       "ENVE 323",
@@ -37836,12 +37837,14 @@
       "ENVE 470"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 2,
       "Honor DRC Accommodations": 2,
       "Class Handouts": 1,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -40000,17 +40003,19 @@
     "department": "PHYS",
     "firstName": "Mark",
     "lastName": "Brazier",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "PHYS"
+      "PHYS 143"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
