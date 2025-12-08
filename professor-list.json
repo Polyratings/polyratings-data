@@ -18414,10 +18414,10 @@
     "department": "ENGL",
     "firstName": "Paul",
     "lastName": "Marchbanks",
-    "numEvals": 88,
-    "overallRating": 2.69,
-    "materialClear": 2.82,
-    "studentDifficulties": 2.63,
+    "numEvals": 89,
+    "overallRating": 2.67,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.6,
     "courses": [
       "ENGL 231",
       "ENGL 304",
@@ -18429,7 +18429,11 @@
       "ENGL 380",
       "ENGL 272"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "65cae374-21d9-4ad9-8836-cc6025fb0075",
@@ -29516,7 +29520,7 @@
     "department": "SPAN",
     "firstName": "Rene",
     "lastName": "Carrasco",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
