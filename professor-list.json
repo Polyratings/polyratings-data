@@ -11724,10 +11724,10 @@
     "department": "BUS",
     "firstName": "Li",
     "lastName": "Dang",
-    "numEvals": 48,
-    "overallRating": 2.63,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.7,
+    "numEvals": 49,
+    "overallRating": 2.66,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.73,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -11736,10 +11736,11 @@
       "BUS 323"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Uploads Slides": 2,
-      "High In-Person Availability": 2,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 3,
+      "Supplemental Study Material": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -27961,10 +27962,10 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 39,
-    "overallRating": 3.48,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.41,
+    "numEvals": 40,
+    "overallRating": 3.49,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.42,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -27974,10 +27975,10 @@
       "MATH 540"
     ],
     "tags": {
-      "Recorded Lectures": 2,
-      "Flexible Attendance Policy": 4,
+      "Recorded Lectures": 3,
+      "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 2,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Uploads Slides": 4,
       "High In-Person Availability": 1,
       "Class Handouts": 1
@@ -42684,10 +42685,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 157,
-    "overallRating": 1.54,
-    "materialClear": 1.84,
-    "studentDifficulties": 1.55,
+    "numEvals": 158,
+    "overallRating": 1.53,
+    "materialClear": 1.83,
+    "studentDifficulties": 1.57,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -44064,10 +44065,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 46,
-    "overallRating": 2.1,
+    "numEvals": 47,
+    "overallRating": 2.08,
     "materialClear": 2.02,
-    "studentDifficulties": 2.47,
+    "studentDifficulties": 2.44,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -44077,12 +44078,13 @@
     "tags": {
       "Flexible Grading Policy": 1,
       "Fast Response Time": 11,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Does Not Use Canvas": 1,
       "High In-Person Availability": 4,
       "Inflexible Deadline Policy": 2,
       "Honor DRC Accommodations": 3,
-      "Inflexible Grading Policy": 3
+      "Inflexible Grading Policy": 4,
+      "No Breaks During Lecture": 1
     }
   },
   {
