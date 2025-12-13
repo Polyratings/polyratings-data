@@ -7349,10 +7349,10 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 8,
-    "overallRating": 2.25,
-    "materialClear": 1.87,
-    "studentDifficulties": 2.37,
+    "numEvals": 9,
+    "overallRating": 2.33,
+    "materialClear": 2.11,
+    "studentDifficulties": 2.55,
     "courses": [
       "BUS 215",
       "BUS 412"
@@ -21723,9 +21723,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 130,
-    "overallRating": 3.47,
-    "materialClear": 3.24,
+    "numEvals": 131,
+    "overallRating": 3.46,
+    "materialClear": 3.25,
     "studentDifficulties": 3.51,
     "courses": [
       "STAT 221",
@@ -28610,10 +28610,10 @@
     "department": "ENGL",
     "firstName": "Sophia",
     "lastName": "Forster",
-    "numEvals": 26,
-    "overallRating": 2.46,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.44,
+    "numEvals": 27,
+    "overallRating": 2.48,
+    "materialClear": 2.78,
+    "studentDifficulties": 2.46,
     "courses": [
       "ENGL 240",
       "ENGL 242",
@@ -28625,10 +28625,11 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Inflexible Attendance Policy": 1,
-      "Pop Quizzes": 3,
-      "Inflexible Grading Policy": 2
+      "Pop Quizzes": 4,
+      "Inflexible Grading Policy": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -32294,16 +32295,16 @@
     "department": "BUS",
     "firstName": "Ashish",
     "lastName": "Hingle",
-    "numEvals": 18,
-    "overallRating": 3.49,
-    "materialClear": 3.44,
-    "studentDifficulties": 3.5,
+    "numEvals": 19,
+    "overallRating": 3.52,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.53,
     "courses": [
       "BUS 391"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
-      "Fast Response Time": 4,
+      "Zoom Office Hours": 3,
+      "Fast Response Time": 5,
       "Uploads Slides": 8,
       "High In-Person Availability": 3,
       "Flexible Deadline Policy": 2,
