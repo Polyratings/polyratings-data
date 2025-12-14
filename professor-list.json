@@ -19527,17 +19527,20 @@
     "department": "PHIL",
     "firstName": "David",
     "lastName": "King",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 7,
+    "overallRating": 2.85,
+    "materialClear": 2.29,
+    "studentDifficulties": 3.14,
     "courses": [
       "PHIL 230",
       "PHIL 231"
     ],
     "tags": {
       "No Breaks During Lecture": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Hybrid Option": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -36719,10 +36722,10 @@
     "department": "ENGL",
     "firstName": "Sadie",
     "lastName": "Johann",
-    "numEvals": 43,
-    "overallRating": 3.5,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.61,
+    "numEvals": 44,
+    "overallRating": 3.51,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.62,
     "courses": [
       "ENGL 133",
       "ENGL 134",
@@ -36738,7 +36741,9 @@
       "Flexible Attendance Policy": 3,
       "Hybrid Option": 1,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -41913,10 +41918,10 @@
     "department": "CSC",
     "firstName": "Ka Yaw",
     "lastName": "Teo",
-    "numEvals": 20,
-    "overallRating": 2.1,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.45,
+    "numEvals": 21,
+    "overallRating": 2.19,
+    "materialClear": 1.9,
+    "studentDifficulties": 2.52,
     "courses": [
       "CSC 248",
       "CSC 349"
