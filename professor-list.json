@@ -1430,7 +1430,7 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 428,
+    "numEvals": 429,
     "overallRating": 2.67,
     "materialClear": 2.82,
     "studentDifficulties": 2.88,
@@ -5481,10 +5481,10 @@
     "department": "ME",
     "firstName": "Leily",
     "lastName": "Majidi",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.4,
     "courses": [
       "ME 343",
       "ME 341",
@@ -10183,10 +10183,10 @@
     "department": "CSC",
     "firstName": "Greg",
     "lastName": "Philbrick",
-    "numEvals": 7,
-    "overallRating": 2.86,
-    "materialClear": 1.86,
-    "studentDifficulties": 3.14,
+    "numEvals": 8,
+    "overallRating": 2.88,
+    "materialClear": 1.75,
+    "studentDifficulties": 3.12,
     "courses": [
       "CSC 202"
     ],
@@ -10195,7 +10195,8 @@
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -11815,10 +11816,10 @@
     "department": "BUS",
     "firstName": "Li",
     "lastName": "Dang",
-    "numEvals": 49,
-    "overallRating": 2.66,
-    "materialClear": 2.68,
-    "studentDifficulties": 2.73,
+    "numEvals": 50,
+    "overallRating": 2.69,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.76,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -16757,10 +16758,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 6,
-    "overallRating": 0.83,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.83,
+    "numEvals": 7,
+    "overallRating": 0.71,
+    "materialClear": 0.57,
+    "studentDifficulties": 1.28,
     "courses": [
       "ENGL 347",
       "ENGL 345"
@@ -21094,10 +21095,10 @@
     "department": "MATH",
     "firstName": "Kate",
     "lastName": "Riley",
-    "numEvals": 81,
+    "numEvals": 82,
     "overallRating": 3.17,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.15,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.16,
     "courses": [
       "MATH 127",
       "MATH 132",
@@ -21115,11 +21116,13 @@
     ],
     "tags": {
       "Uploads Slides": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Does Not Use Canvas": 3,
       "No Breaks During Lecture": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -25557,7 +25560,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 15,
+    "numEvals": 16,
     "overallRating": 3.94,
     "materialClear": 4,
     "studentDifficulties": 3.94,
@@ -28023,10 +28026,10 @@
     "department": "STAT",
     "firstName": "Kevin",
     "lastName": "Ross",
-    "numEvals": 39,
-    "overallRating": 3.58,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.48,
+    "numEvals": 40,
+    "overallRating": 3.59,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.49,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -34644,12 +34647,13 @@
     "department": "FSN",
     "firstName": "Mary Beth",
     "lastName": "Brumit",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "FSN"
+      "FSN 305",
+      "FSN 202"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -45583,10 +45587,10 @@
     "department": "STAT",
     "firstName": "John",
     "lastName": "Walker",
-    "numEvals": 88,
+    "numEvals": 89,
     "overallRating": 2.91,
-    "materialClear": 3.08,
-    "studentDifficulties": 2.92,
+    "materialClear": 3.09,
+    "studentDifficulties": 2.93,
     "courses": [
       "PHYS 121",
       "STAT 217",
