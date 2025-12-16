@@ -1432,10 +1432,10 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 438,
-    "overallRating": 2.58,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.83,
+    "numEvals": 440,
+    "overallRating": 2.56,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.81,
     "courses": [
       "CPE 133",
       "CPE 131",
@@ -1460,16 +1460,16 @@
       "Zoom Office Hours": 5,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 12,
-      "Does Not Use Canvas": 11,
+      "Does Not Use Canvas": 13,
       "Fast Response Time": 19,
       "Class Handouts": 34,
       "Supplemental Study Material": 9,
-      "No Breaks During Lecture": 35,
+      "No Breaks During Lecture": 37,
       "Hybrid Option": 13,
       "Honor DRC Accommodations": 13,
       "Pop Quizzes": 33,
-      "Inflexible Grading Policy": 14,
-      "Inflexible Deadline Policy": 13,
+      "Inflexible Grading Policy": 15,
+      "Inflexible Deadline Policy": 14,
       "Flexible Deadline Policy": 7,
       "Inflexible Attendance Policy": 4
     }
@@ -6508,10 +6508,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 168,
-    "overallRating": 2.26,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.34,
+    "numEvals": 169,
+    "overallRating": 2.25,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.33,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -11416,10 +11416,10 @@
     "department": "ENGL",
     "firstName": "Tim",
     "lastName": "Farrell",
-    "numEvals": 12,
-    "overallRating": 3.84,
-    "materialClear": 3.91,
-    "studentDifficulties": 3.91,
+    "numEvals": 13,
+    "overallRating": 3.85,
+    "materialClear": 3.92,
+    "studentDifficulties": 3.92,
     "courses": [
       "ENGL 134",
       "ENGL 133"
@@ -11428,8 +11428,9 @@
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 5,
       "Class Handouts": 4,
-      "Fast Response Time": 1,
-      "High In-Person Availability": 1
+      "Fast Response Time": 2,
+      "High In-Person Availability": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -24049,10 +24050,10 @@
     "department": "EE",
     "firstName": "Ashraf",
     "lastName": "Elbarbary",
-    "numEvals": 19,
-    "overallRating": 3.22,
-    "materialClear": 2.73,
-    "studentDifficulties": 3.21,
+    "numEvals": 20,
+    "overallRating": 3.26,
+    "materialClear": 2.79,
+    "studentDifficulties": 3.25,
     "courses": [
       "EE 211",
       "PHYS 133",
@@ -28078,10 +28079,10 @@
     "department": "PHYS",
     "firstName": "Matthew",
     "lastName": "Moelter",
-    "numEvals": 80,
-    "overallRating": 3.58,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.48,
+    "numEvals": 81,
+    "overallRating": 3.56,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.45,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -28099,9 +28100,11 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -29711,10 +29714,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 53,
-    "overallRating": 1.31,
-    "materialClear": 1.21,
-    "studentDifficulties": 1.63,
+    "numEvals": 54,
+    "overallRating": 1.29,
+    "materialClear": 1.19,
+    "studentDifficulties": 1.6,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -29723,12 +29726,12 @@
       "MATH 142"
     ],
     "tags": {
-      "Flexible Attendance Policy": 7,
-      "Inflexible Grading Policy": 5,
+      "Flexible Attendance Policy": 8,
+      "Inflexible Grading Policy": 6,
       "Honor DRC Accommodations": 2,
       "High In-Person Availability": 8,
       "Fast Response Time": 4,
-      "Flexible Deadline Policy": 13,
+      "Flexible Deadline Policy": 14,
       "Flexible Grading Policy": 3,
       "Pop Quizzes": 1,
       "Class Handouts": 1,
@@ -36549,10 +36552,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 19,
-    "overallRating": 3.41,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.47,
+    "numEvals": 20,
+    "overallRating": 3.39,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -38422,8 +38425,8 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 11,
-    "overallRating": 3.91,
+    "numEvals": 13,
+    "overallRating": 3.62,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -39919,10 +39922,10 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 13,
-    "overallRating": 1.77,
-    "materialClear": 1,
-    "studentDifficulties": 1.77,
+    "numEvals": 14,
+    "overallRating": 1.79,
+    "materialClear": 1.21,
+    "studentDifficulties": 1.93,
     "courses": [
       "WGS 201"
     ],
@@ -39933,11 +39936,12 @@
       "Hybrid Option": 6,
       "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 2,
+      "Zoom Office Hours": 2,
       "Inflexible Grading Policy": 2,
       "Inflexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -40191,10 +40195,10 @@
     "department": "CE",
     "firstName": "Ryan",
     "lastName": "Smith",
-    "numEvals": 15,
-    "overallRating": 3.87,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.86,
+    "numEvals": 16,
+    "overallRating": 3.88,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.87,
     "courses": [
       "CE 204",
       "MATE 210",
