@@ -13261,10 +13261,10 @@
     "department": "ENGL",
     "firstName": "Nicole",
     "lastName": "Jacobs",
-    "numEvals": 20,
-    "overallRating": 2.75,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.51,
+    "numEvals": 21,
+    "overallRating": 2.76,
+    "materialClear": 2.92,
+    "studentDifficulties": 2.53,
     "courses": [
       "WGS 201",
       "ENGL 230",
@@ -13277,10 +13277,12 @@
     "tags": {
       "Fast Response Time": 2,
       "Inflexible Deadline Policy": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Inflexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -26462,10 +26464,10 @@
     "department": "PHYS",
     "firstName": "Pete",
     "lastName": "Schwartz",
-    "numEvals": 171,
-    "overallRating": 1.87,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.69,
+    "numEvals": 174,
+    "overallRating": 1.84,
+    "materialClear": 1.73,
+    "studentDifficulties": 1.66,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -26485,8 +26487,8 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 2,
-      "Recorded Lectures": 6,
+      "Inflexible Grading Policy": 4,
+      "Recorded Lectures": 7,
       "Flexible Attendance Policy": 4,
       "Does Not Use Canvas": 2,
       "Fast Response Time": 2,
@@ -26496,7 +26498,7 @@
       "High In-Person Availability": 2,
       "Inflexible Attendance Policy": 2,
       "Pop Quizzes": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 3
     }
   },
   {
@@ -43065,10 +43067,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 34,
+    "numEvals": 35,
     "overallRating": 3.15,
     "materialClear": 2.83,
-    "studentDifficulties": 3.46,
+    "studentDifficulties": 3.45,
     "courses": [
       "COMS 100",
       "COMS 316",
@@ -43076,14 +43078,14 @@
       "COMS 217"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 10,
+      "Inflexible Attendance Policy": 11,
       "Flexible Deadline Policy": 5,
       "Uploads Slides": 3,
       "No Breaks During Lecture": 1,
       "Flexible Grading Policy": 5,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Honor DRC Accommodations": 2,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1
     }
