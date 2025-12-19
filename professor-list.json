@@ -4016,12 +4016,13 @@
     "department": "ME",
     "firstName": "James",
     "lastName": "Sever",
-    "numEvals": 4,
-    "overallRating": 2.75,
-    "materialClear": 2.25,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3,
+    "materialClear": 2.6,
+    "studentDifficulties": 3.6,
     "courses": [
-      "ME 212"
+      "ME 212",
+      "AEPS 228"
     ],
     "tags": {
       "Uploads Slides": 4,
@@ -7710,10 +7711,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 91,
-    "overallRating": 2.36,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.28,
+    "numEvals": 92,
+    "overallRating": 2.33,
+    "materialClear": 2.23,
+    "studentDifficulties": 2.26,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -21743,15 +21744,16 @@
     "department": "ME",
     "firstName": "Pam",
     "lastName": "Ridgely",
-    "numEvals": 21,
-    "overallRating": 0.23,
-    "materialClear": 0.23,
-    "studentDifficulties": 0.16,
+    "numEvals": 22,
+    "overallRating": 0.27,
+    "materialClear": 0.27,
+    "studentDifficulties": 0.24,
     "courses": [
       "ME 236"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -23921,10 +23923,10 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 84,
-    "overallRating": 3,
+    "numEvals": 85,
+    "overallRating": 2.99,
     "materialClear": 3.25,
-    "studentDifficulties": 3.15,
+    "studentDifficulties": 3.14,
     "courses": [
       "ME 134",
       "ME 231",
@@ -38472,17 +38474,18 @@
     "department": "CE",
     "firstName": "Bing",
     "lastName": "Qu",
-    "numEvals": 17,
-    "materialClear": 3.29,
-    "studentDifficulties": 2.77,
-    "overallRating": 3.18,
+    "numEvals": 18,
+    "overallRating": 3.23,
+    "materialClear": 3.33,
+    "studentDifficulties": 2.84,
     "courses": [
       "CE 207",
       "CE 251",
       "CE 351",
       "CE 356",
       "CE 208"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "d81cf6da-80a2-4490-8efd-e35ac3296ddd",
