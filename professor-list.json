@@ -4086,10 +4086,10 @@
     "department": "PHYS",
     "firstName": "Anthony",
     "lastName": "Buffa",
-    "numEvals": 56,
-    "overallRating": 2.64,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.58,
+    "numEvals": 57,
+    "overallRating": 2.65,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.6,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -4100,10 +4100,10 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 4,
+      "Does Not Use Canvas": 5,
       "No Breaks During Lecture": 1,
-      "High In-Person Availability": 2,
-      "Supplemental Study Material": 1,
+      "High In-Person Availability": 3,
+      "Supplemental Study Material": 2,
       "Flexible Attendance Policy": 3,
       "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 1,
@@ -9194,10 +9194,10 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Lema",
-    "numEvals": 38,
-    "overallRating": 3.17,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.17,
+    "numEvals": 39,
+    "overallRating": 3.19,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.19,
     "courses": [
       "BIO 161",
       "BIO 243",
@@ -9209,12 +9209,12 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Honor DRC Accommodations": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
@@ -9272,10 +9272,10 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 10,
-    "overallRating": 3.69,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.21,
+    "numEvals": 11,
+    "overallRating": 3.72,
+    "materialClear": 3.74,
+    "studentDifficulties": 3.28,
     "courses": [
       "ASCI 224",
       "ASCI 112",
@@ -9284,10 +9284,10 @@
     "tags": {
       "Fast Response Time": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Inflexible Attendance Policy": 2,
       "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
@@ -14205,10 +14205,10 @@
     "department": "CHEM",
     "firstName": "Leslie",
     "lastName": "Hamachi",
-    "numEvals": 17,
-    "overallRating": 3.71,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.65,
+    "numEvals": 18,
+    "overallRating": 3.67,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.61,
     "courses": [
       "CHEM 124",
       "CHEM 544",
@@ -14216,10 +14216,10 @@
     ],
     "tags": {
       "Class Handouts": 6,
-      "Uploads Slides": 11,
-      "High In-Person Availability": 5,
+      "Uploads Slides": 12,
+      "High In-Person Availability": 6,
       "Fast Response Time": 3,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 2,
       "Inflexible Attendance Policy": 1
@@ -16864,19 +16864,19 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 33,
-    "overallRating": 1.73,
-    "materialClear": 1.56,
-    "studentDifficulties": 2.14,
+    "numEvals": 34,
+    "overallRating": 1.8,
+    "materialClear": 1.63,
+    "studentDifficulties": 2.19,
     "courses": [
       "CSC 202",
       "EE 201",
       "EE 321"
     ],
     "tags": {
-      "Flexible Attendance Policy": 8,
-      "Supplemental Study Material": 4,
-      "Uploads Slides": 14,
+      "Flexible Attendance Policy": 9,
+      "Supplemental Study Material": 5,
+      "Uploads Slides": 15,
       "Inflexible Deadline Policy": 2,
       "Does Not Use Canvas": 1,
       "Recorded Lectures": 1,
@@ -19452,10 +19452,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 41,
-    "overallRating": 3.64,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.53,
+    "numEvals": 42,
+    "overallRating": 3.62,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.52,
     "courses": [
       "EE 212",
       "EE 306",
@@ -19471,9 +19471,9 @@
     ],
     "tags": {
       "Recorded Lectures": 4,
-      "Uploads Slides": 5,
-      "Inflexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 2
+      "Uploads Slides": 6,
+      "Inflexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 3
     }
   },
   {
@@ -20549,10 +20549,10 @@
     "department": "CHEM",
     "firstName": "Brian",
     "lastName": "Salvatore",
-    "numEvals": 12,
-    "overallRating": 2.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 3,
+    "numEvals": 13,
+    "overallRating": 2.62,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.92,
     "courses": [
       "CHEM 124",
       "CHEM 216"
@@ -20566,7 +20566,8 @@
       "Flexible Grading Policy": 2,
       "Inflexible Attendance Policy": 3,
       "No Breaks During Lecture": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -25224,10 +25225,10 @@
     "department": "CHEM",
     "firstName": "Daniel A.",
     "lastName": "Bercovici",
-    "numEvals": 22,
-    "overallRating": 3.74,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.66,
+    "numEvals": 23,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.67,
     "courses": [
       "CHEM 216",
       "CHEM 217",
@@ -34942,9 +34943,9 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 16,
-    "overallRating": 2.82,
-    "materialClear": 2.76,
+    "numEvals": 17,
+    "overallRating": 2.89,
+    "materialClear": 2.83,
     "studentDifficulties": 2.99,
     "courses": [
       "CHEM 124",
@@ -34957,7 +34958,7 @@
       "Uploads Slides": 3,
       "Inflexible Attendance Policy": 4,
       "No Breaks During Lecture": 5,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "Supplemental Study Material": 3,
       "Class Handouts": 2,
       "High In-Person Availability": 2,
