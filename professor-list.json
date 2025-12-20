@@ -5796,17 +5796,17 @@
     "department": "BIO",
     "firstName": "Michael",
     "lastName": "Jones",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.9,
+    "studentDifficulties": 3.91,
     "courses": [
       "BIO 232",
       "BIO 231"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "High In-Person Availability": 5,
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 1,
@@ -15850,10 +15850,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 43,
-    "overallRating": 3.39,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.41,
+    "numEvals": 44,
+    "overallRating": 3.4,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.42,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -37063,7 +37063,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 152,
+    "numEvals": 153,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -37738,17 +37738,18 @@
     "department": "BIO",
     "firstName": "Tim",
     "lastName": "Spade",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
-      "BIO"
+      "BIO 231"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
