@@ -8258,21 +8258,22 @@
     "department": "ME",
     "firstName": "Tim",
     "lastName": "Jain",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.85,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.72,
     "courses": [
       "ME 228",
       "ME 211"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 3,
-      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 4,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Uploads Slides": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -15183,10 +15184,10 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 68,
-    "overallRating": 2.55,
-    "materialClear": 2.51,
-    "studentDifficulties": 2.44,
+    "numEvals": 69,
+    "overallRating": 2.53,
+    "materialClear": 2.49,
+    "studentDifficulties": 2.42,
     "courses": [
       "CSC 141",
       "CSC 231",
@@ -15199,7 +15200,7 @@
     "tags": {
       "Recorded Lectures": 8,
       "Inflexible Grading Policy": 5,
-      "Does Not Use Canvas": 8,
+      "Does Not Use Canvas": 9,
       "Fast Response Time": 4,
       "Supplemental Study Material": 2,
       "Inflexible Deadline Policy": 2,
@@ -38873,10 +38874,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 85,
-    "overallRating": 3.39,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.42,
+    "numEvals": 86,
+    "overallRating": 3.4,
+    "materialClear": 3.16,
+    "studentDifficulties": 3.43,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -38892,13 +38893,14 @@
       "Supplemental Study Material": 5,
       "Flexible Grading Policy": 3,
       "Recorded Lectures": 7,
-      "Uploads Slides": 15,
+      "Uploads Slides": 16,
       "Honor DRC Accommodations": 3,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Inflexible Attendance Policy": 3,
       "Flexible Attendance Policy": 5,
       "High In-Person Availability": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
