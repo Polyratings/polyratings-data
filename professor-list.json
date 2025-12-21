@@ -1438,10 +1438,10 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 464,
+    "numEvals": 465,
     "overallRating": 2.32,
-    "materialClear": 2.51,
-    "studentDifficulties": 2.58,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.57,
     "courses": [
       "CPE 133",
       "CPE 131",
@@ -5563,18 +5563,23 @@
     "department": "CRP",
     "firstName": "Cornelius",
     "lastName": "Nuworsoo",
-    "numEvals": 14,
-    "overallRating": 2.28,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.05,
+    "numEvals": 15,
+    "overallRating": 2.26,
+    "materialClear": 2.43,
+    "studentDifficulties": 1.98,
     "courses": [
       "CRP 213",
       "CRP 214",
       "CRP 516",
       "CRP 552",
-      "CRP 435"
+      "CRP 435",
+      "CRP 334"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "1ca3e866-2140-4db6-a87b-19b7945f5f3d",
@@ -13093,10 +13098,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 55,
-    "overallRating": 2.47,
-    "materialClear": 2.3,
-    "studentDifficulties": 2.66,
+    "numEvals": 56,
+    "overallRating": 2.46,
+    "materialClear": 2.28,
+    "studentDifficulties": 2.65,
     "courses": [
       "CPE 225",
       "CSC 225",
@@ -28417,10 +28422,10 @@
     "department": "CHEM",
     "firstName": "Michael",
     "lastName": "Heying",
-    "numEvals": 62,
-    "overallRating": 2.21,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.24,
+    "numEvals": 63,
+    "overallRating": 2.19,
+    "materialClear": 2.54,
+    "studentDifficulties": 2.2,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -38521,9 +38526,9 @@
     "department": "ME",
     "firstName": "Mohammad",
     "lastName": "Hasan",
-    "numEvals": 15,
-    "overallRating": 3.67,
-    "materialClear": 4,
+    "numEvals": 16,
+    "overallRating": 3.57,
+    "materialClear": 3.88,
     "studentDifficulties": 4,
     "courses": [
       "ME 212",
@@ -38532,13 +38537,14 @@
       "ME 211"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Uploads Slides": 3,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 3,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -38884,10 +38890,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 86,
+    "numEvals": 87,
     "overallRating": 3.4,
     "materialClear": 3.16,
-    "studentDifficulties": 3.43,
+    "studentDifficulties": 3.41,
     "courses": [
       "MATH 141",
       "MATH 142",
