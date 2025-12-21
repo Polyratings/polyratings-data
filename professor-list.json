@@ -4153,15 +4153,16 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 6,
-    "overallRating": 0.67,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.83,
+    "numEvals": 7,
+    "overallRating": 0.72,
+    "materialClear": 0.72,
+    "studentDifficulties": 1,
     "courses": [
       "MATH 118"
     ],
     "tags": {
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -7382,7 +7383,7 @@
     "department": "PHYS",
     "firstName": "Elizabeth",
     "lastName": "Jeffery",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7391,9 +7392,9 @@
       "ASTR 102"
     ],
     "tags": {
-      "Fast Response Time": 4,
-      "Flexible Attendance Policy": 3,
-      "Uploads Slides": 4,
+      "Fast Response Time": 5,
+      "Flexible Attendance Policy": 4,
+      "Uploads Slides": 5,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 2
     }
@@ -8536,16 +8537,18 @@
     "department": "ENGL",
     "firstName": "Christopher",
     "lastName": "Hayter",
-    "numEvals": 13,
-    "overallRating": 2.3,
-    "materialClear": 1.69,
-    "studentDifficulties": 2.15,
+    "numEvals": 14,
+    "overallRating": 2.42,
+    "materialClear": 1.86,
+    "studentDifficulties": 2.28,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
-      "Fast Response Time": 4,
-      "Uploads Slides": 1
+      "Fast Response Time": 5,
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -17342,19 +17345,22 @@
     "department": "NR",
     "firstName": "Jerusha",
     "lastName": "Greenwood",
-    "numEvals": 9,
-    "overallRating": 3.01,
-    "materialClear": 2.92,
-    "studentDifficulties": 2.92,
+    "numEvals": 10,
+    "overallRating": 3.11,
+    "materialClear": 2.93,
+    "studentDifficulties": 3.03,
     "courses": [
       "REC 214",
       "REC 313",
       "REC 317",
       "REC 412",
       "REC 461",
-      "AEPS 110"
+      "AEPS 110",
+      "RPTA 110"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "5ebff33a-0bd6-4589-b5b4-72574382de4b",
@@ -18181,10 +18187,10 @@
     "department": "ENGL",
     "firstName": "Jason",
     "lastName": "Peters",
-    "numEvals": 32,
-    "overallRating": 2.43,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.46,
+    "numEvals": 33,
+    "overallRating": 2.48,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.51,
     "courses": [
       "ENGL 133",
       "ENGL 145",
@@ -18198,9 +18204,10 @@
       "Pop Quizzes": 1,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -22946,10 +22953,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 15,
-    "overallRating": 1.47,
-    "materialClear": 1.6,
-    "studentDifficulties": 1.87,
+    "numEvals": 16,
+    "overallRating": 1.38,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.75,
     "courses": [
       "ES 255",
       "ES 112"
@@ -45478,10 +45485,10 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 26,
-    "overallRating": 2.46,
-    "materialClear": 2.28,
-    "studentDifficulties": 2.77,
+    "numEvals": 27,
+    "overallRating": 2.48,
+    "materialClear": 2.27,
+    "studentDifficulties": 2.82,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -45491,15 +45498,16 @@
       "Class Handouts": 3,
       "Zoom Office Hours": 7,
       "Inflexible Deadline Policy": 5,
-      "Uploads Slides": 15,
-      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 16,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 2,
       "Fast Response Time": 5,
       "High In-Person Availability": 6,
       "Inflexible Attendance Policy": 4,
       "Flexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
