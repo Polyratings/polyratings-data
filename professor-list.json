@@ -1438,10 +1438,10 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 467,
+    "numEvals": 468,
     "overallRating": 2.32,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.57,
+    "materialClear": 2.49,
+    "studentDifficulties": 2.56,
     "courses": [
       "CPE 133",
       "CPE 131",
@@ -40124,10 +40124,10 @@
     "department": "FSN",
     "firstName": "Laura",
     "lastName": "Rolon",
-    "numEvals": 5,
-    "overallRating": 2.8,
-    "materialClear": 3,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 2.83,
+    "studentDifficulties": 3.5,
     "courses": [
       "FSN 125",
       "FSN 275"
@@ -40137,7 +40137,7 @@
       "Honor DRC Accommodations": 3,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 3,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Zoom Office Hours": 1,
       "Inflexible Attendance Policy": 1,
       "Supplemental Study Material": 1
@@ -44238,10 +44238,10 @@
     "department": "EE",
     "firstName": "Wayne",
     "lastName": "Pilkington",
-    "numEvals": 49,
-    "overallRating": 3.48,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.35,
+    "numEvals": 50,
+    "overallRating": 3.49,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.36,
     "courses": [
       "CPE 129",
       "EE 129",
@@ -44255,11 +44255,12 @@
     "tags": {
       "Supplemental Study Material": 2,
       "Uploads Slides": 3,
-      "Recorded Lectures": 3,
+      "Recorded Lectures": 4,
       "Flexible Attendance Policy": 2,
       "Class Handouts": 2,
       "No Breaks During Lecture": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 1
     }
   },
   {
