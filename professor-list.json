@@ -6634,7 +6634,7 @@
     "department": "CSC",
     "firstName": "Chris",
     "lastName": "Zielke",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -16362,10 +16362,10 @@
     "department": "SOC",
     "firstName": "Nikhil",
     "lastName": "Deb",
-    "numEvals": 14,
-    "overallRating": 3.58,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.71,
+    "numEvals": 15,
+    "overallRating": 3.61,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.73,
     "courses": [
       "SOC 218",
       "SOC 110",
@@ -16374,12 +16374,13 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -26645,10 +26646,10 @@
     "department": "PHIL",
     "firstName": "Richard",
     "lastName": "Graziano",
-    "numEvals": 73,
-    "overallRating": 2.53,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.46,
+    "numEvals": 74,
+    "overallRating": 2.52,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.47,
     "courses": [
       "PHIL 132",
       "PHIL 230",
@@ -26662,7 +26663,7 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 3,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Inflexible Grading Policy": 2
     }
   },
@@ -26899,10 +26900,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 36,
-    "overallRating": 3.59,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.53,
+    "numEvals": 37,
+    "overallRating": 3.6,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.54,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -26910,15 +26911,16 @@
       "MATH 119",
       "MATH 142",
       "MATH 221",
-      "MATH 141"
+      "MATH 141",
+      "MATH 227"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 11,
-      "Class Handouts": 12,
+      "High In-Person Availability": 12,
+      "Class Handouts": 13,
       "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 2,
       "Flexible Deadline Policy": 2,
@@ -34812,22 +34814,22 @@
     "department": "BIO",
     "firstName": "Grace",
     "lastName": "Goschke",
-    "numEvals": 130,
-    "overallRating": 2.33,
+    "numEvals": 131,
+    "overallRating": 2.32,
     "materialClear": 2.32,
-    "studentDifficulties": 2.15,
+    "studentDifficulties": 2.14,
     "courses": [
       "BIO 111",
       "BIO 302"
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Inflexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 3
     }
   },
   {
@@ -35735,10 +35737,10 @@
     "department": "CSC",
     "firstName": "John",
     "lastName": "Clements",
-    "numEvals": 72,
-    "overallRating": 2.62,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.58,
+    "numEvals": 73,
+    "overallRating": 2.63,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.57,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -35750,11 +35752,12 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 2,
-      "Does Not Use Canvas": 7,
+      "Does Not Use Canvas": 8,
       "High In-Person Availability": 3,
       "Flexible Deadline Policy": 1,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
