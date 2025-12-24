@@ -1988,14 +1988,16 @@
     "department": "CE",
     "firstName": "Dylan",
     "lastName": "Merlo",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CE"
+      "CE 337"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "0a2b8be0-15c5-47a1-82b5-7f98f4ea28a1",
@@ -12995,17 +12997,18 @@
     "department": "BUS",
     "firstName": "Holly",
     "lastName": "Newman",
-    "numEvals": 9,
-    "overallRating": 1.89,
-    "materialClear": 1.56,
-    "studentDifficulties": 2.22,
+    "numEvals": 10,
+    "overallRating": 1.8,
+    "materialClear": 1.6,
+    "studentDifficulties": 2.2,
     "courses": [
-      "BUS 214"
+      "BUS 214",
+      "BUS 212"
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Inflexible Attendance Policy": 2,
-      "No Breaks During Lecture": 2,
+      "Inflexible Attendance Policy": 3,
+      "No Breaks During Lecture": 3,
       "Fast Response Time": 1,
       "Inflexible Deadline Policy": 1
     }
@@ -14223,10 +14226,10 @@
     "department": "CHEM",
     "firstName": "Leslie",
     "lastName": "Hamachi",
-    "numEvals": 18,
-    "overallRating": 3.67,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.61,
+    "numEvals": 19,
+    "overallRating": 3.69,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.63,
     "courses": [
       "CHEM 124",
       "CHEM 544",
@@ -14234,10 +14237,10 @@
     ],
     "tags": {
       "Class Handouts": 6,
-      "Uploads Slides": 12,
+      "Uploads Slides": 13,
       "High In-Person Availability": 6,
       "Fast Response Time": 3,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 2,
       "Inflexible Attendance Policy": 1
@@ -14386,8 +14389,8 @@
     "department": "PHIL",
     "firstName": "Sean",
     "lastName": "Pierce",
-    "numEvals": 5,
-    "overallRating": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -14395,8 +14398,8 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 1,
+      "Supplemental Study Material": 2,
+      "Uploads Slides": 2,
       "Flexible Deadline Policy": 1,
       "No Breaks During Lecture": 1
     }
@@ -16863,10 +16866,10 @@
     "department": "BMED",
     "firstName": "Karla",
     "lastName": "Carichner",
-    "numEvals": 6,
-    "overallRating": 3.5,
+    "numEvals": 7,
+    "overallRating": 3.57,
     "materialClear": 4,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.71,
     "courses": [
       "BMED 212",
       "MATE 210"
@@ -16874,8 +16877,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 3,
-      "Supplemental Study Material": 1
+      "Uploads Slides": 4,
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -25665,7 +25669,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 3.94,
     "materialClear": 4,
     "studentDifficulties": 3.94,
@@ -34393,10 +34397,10 @@
     "department": "AERO",
     "firstName": "Jon",
     "lastName": "Tarantino",
-    "numEvals": 32,
-    "overallRating": 3.31,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.25,
+    "numEvals": 33,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.27,
     "courses": [
       "AERO 121",
       "ARCE 211",
@@ -34410,13 +34414,14 @@
       "AERO 420"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Flexible Deadline Policy": 3,
       "Uploads Slides": 2,
       "High In-Person Availability": 3,
       "Flexible Grading Policy": 3,
       "Supplemental Study Material": 1,
-      "Recorded Lectures": 2
+      "Recorded Lectures": 3,
+      "Class Handouts": 1
     }
   },
   {
@@ -44523,10 +44528,10 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 82,
+    "numEvals": 83,
     "overallRating": 3.3,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.09,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.1,
     "courses": [
       "BIO 112",
       "BIO 210",
@@ -44538,7 +44543,7 @@
     "tags": {
       "No Breaks During Lecture": 5,
       "Flexible Attendance Policy": 5,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "Recorded Lectures": 5,
       "Flexible Grading Policy": 1
     }
@@ -44974,7 +44979,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 231,
+    "numEvals": 232,
     "overallRating": 3.37,
     "materialClear": 3.4,
     "studentDifficulties": 3.28,
