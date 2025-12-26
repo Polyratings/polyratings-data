@@ -6841,18 +6841,19 @@
     "department": "CSC",
     "firstName": "Christian",
     "lastName": "Eckhardt",
-    "numEvals": 7,
-    "overallRating": 4,
-    "materialClear": 3.72,
-    "studentDifficulties": 4,
+    "numEvals": 8,
+    "overallRating": 3.75,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.75,
     "courses": [
       "CPE 357",
       "CSC 453"
     ],
     "tags": {
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Fast Response Time": 3,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -10393,19 +10394,19 @@
     "department": "ISLA",
     "firstName": "Brandiff",
     "lastName": "Caron",
-    "numEvals": 5,
-    "overallRating": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.67,
     "courses": [
       "ISLA 123",
       "ISLA 303"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1,
-      "Pop Quizzes": 3
+      "Honor DRC Accommodations": 2,
+      "Pop Quizzes": 4
     }
   },
   {
@@ -42267,7 +42268,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 202,
+    "numEvals": 203,
     "overallRating": 3.39,
     "materialClear": 3.39,
     "studentDifficulties": 3.23,
@@ -42290,7 +42291,7 @@
       "MATH 344"
     ],
     "tags": {
-      "Does Not Use Canvas": 9,
+      "Does Not Use Canvas": 10,
       "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
