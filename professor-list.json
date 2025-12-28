@@ -26362,8 +26362,8 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 152,
-    "overallRating": 1.82,
+    "numEvals": 153,
+    "overallRating": 1.81,
     "materialClear": 1.69,
     "studentDifficulties": 1.81,
     "courses": [
@@ -30496,12 +30496,13 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 8,
-    "overallRating": 3.63,
-    "materialClear": 4,
-    "studentDifficulties": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.45,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.66,
     "courses": [
-      "BUS 346"
+      "BUS 346",
+      "BUS 454"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -37526,10 +37527,10 @@
     "department": "ARCH",
     "firstName": "Humberto",
     "lastName": "Norman",
-    "numEvals": 15,
-    "overallRating": 3.76,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.76,
+    "numEvals": 16,
+    "overallRating": 3.78,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.78,
     "courses": [
       "ARCH 131",
       "ARCH 132",
@@ -42749,9 +42750,9 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 88,
+    "numEvals": 89,
     "overallRating": 2.37,
-    "materialClear": 2.54,
+    "materialClear": 2.53,
     "studentDifficulties": 2.42,
     "courses": [
       "ENGL 134",
@@ -42770,11 +42771,11 @@
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 7,
       "Honor DRC Accommodations": 2,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Inflexible Grading Policy": 4,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -43269,9 +43270,9 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 3.94,
-    "materialClear": 3.87,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
@@ -43281,14 +43282,14 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "High In-Person Availability": 3,
-      "Uploads Slides": 6,
+      "High In-Person Availability": 4,
+      "Uploads Slides": 7,
       "Flexible Deadline Policy": 5,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 1,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "Class Handouts": 1
     }
   },
