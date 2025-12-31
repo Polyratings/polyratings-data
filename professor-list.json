@@ -19636,10 +19636,10 @@
     "department": "PHIL",
     "firstName": "David",
     "lastName": "King",
-    "numEvals": 9,
-    "overallRating": 2.77,
-    "materialClear": 2.33,
-    "studentDifficulties": 3.22,
+    "numEvals": 10,
+    "overallRating": 2.89,
+    "materialClear": 2.5,
+    "studentDifficulties": 3.3,
     "courses": [
       "PHIL 230",
       "PHIL 231"
@@ -19649,9 +19649,10 @@
       "High In-Person Availability": 1,
       "Hybrid Option": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
-      "Recorded Lectures": 1,
-      "Inflexible Attendance Policy": 1
+      "Uploads Slides": 3,
+      "Recorded Lectures": 2,
+      "Inflexible Attendance Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -24647,7 +24648,7 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 1.92,
     "materialClear": 1.95,
     "studentDifficulties": 2.17,
@@ -34585,10 +34586,10 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 11,
-    "overallRating": 3.83,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.83,
+    "numEvals": 12,
+    "overallRating": 3.84,
+    "materialClear": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "ES 256",
       "ES 335",
@@ -34599,11 +34600,12 @@
       "Pop Quizzes": 6,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1,
-      "Fast Response Time": 2,
-      "High In-Person Availability": 1,
+      "Fast Response Time": 3,
+      "High In-Person Availability": 2,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -42322,10 +42324,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 102,
-    "overallRating": 2.95,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.67,
+    "numEvals": 103,
+    "overallRating": 2.96,
+    "materialClear": 3.12,
+    "studentDifficulties": 2.68,
     "courses": [
       "ENGL 250",
       "ENGL 251",
