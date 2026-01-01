@@ -18319,10 +18319,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 33,
-    "overallRating": 3.22,
-    "materialClear": 3.03,
-    "studentDifficulties": 3.42,
+    "numEvals": 34,
+    "overallRating": 3.18,
+    "materialClear": 2.97,
+    "studentDifficulties": 3.41,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -26160,10 +26160,10 @@
     "department": "CM",
     "firstName": "Paul",
     "lastName": "Weber",
-    "numEvals": 26,
-    "overallRating": 3.65,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.62,
+    "numEvals": 27,
+    "overallRating": 3.59,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.63,
     "courses": [
       "CM 102",
       "CM 115",
@@ -26172,13 +26172,14 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Fast Response Time": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -31450,16 +31451,16 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Baltimore",
-    "numEvals": 6,
-    "overallRating": 2.33,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 7,
+    "overallRating": 2.57,
+    "materialClear": 3.57,
+    "studentDifficulties": 2.43,
     "courses": [
       "ENGL 147",
       "ENGL 310"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Uploads Slides": 1,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 2,
@@ -33384,10 +33385,10 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 67,
-    "overallRating": 2.21,
+    "numEvals": 68,
+    "overallRating": 2.22,
     "materialClear": 2.19,
-    "studentDifficulties": 2.27,
+    "studentDifficulties": 2.28,
     "courses": [
       "ECON 201",
       "ECON 221",
