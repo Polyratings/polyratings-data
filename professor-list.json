@@ -2309,7 +2309,7 @@
     "department": "POLS",
     "firstName": "Pete",
     "lastName": "Ford",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2320,7 +2320,8 @@
     "tags": {
       "Fast Response Time": 4,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 3
+      "High In-Person Availability": 3,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -26390,10 +26391,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 154,
+    "numEvals": 156,
     "overallRating": 1.8,
     "materialClear": 1.69,
-    "studentDifficulties": 1.8,
+    "studentDifficulties": 1.82,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -26414,14 +26415,14 @@
       "MATH 242"
     ],
     "tags": {
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 5,
       "Inflexible Deadline Policy": 6,
-      "Does Not Use Canvas": 5,
+      "Does Not Use Canvas": 6,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 4
+      "Inflexible Grading Policy": 5
     }
   },
   {
