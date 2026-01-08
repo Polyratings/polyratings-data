@@ -8280,7 +8280,7 @@
     "department": "HIST",
     "firstName": "Aaron",
     "lastName": "Ramirez",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -8289,10 +8289,11 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Flexible Deadline Policy": 3,
-      "Pop Quizzes": 2,
+      "Flexible Deadline Policy": 4,
+      "Pop Quizzes": 3,
       "Honor DRC Accommodations": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -23577,16 +23578,18 @@
     "department": "CM",
     "firstName": "Greg",
     "lastName": "Simons",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CM"
+      "CM 102"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -28093,22 +28096,25 @@
     "department": "CM",
     "firstName": "Bryan",
     "lastName": "Knakiewicz",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CM 115",
-      "CM 280"
+      "CM 280",
+      "CM 458"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 2,
       "High In-Person Availability": 1,
       "Class Handouts": 2,
       "Recorded Lectures": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -28335,25 +28341,26 @@
     "department": "MATH",
     "firstName": "Emily",
     "lastName": "Hamilton",
-    "numEvals": 47,
-    "overallRating": 3.56,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.49,
+    "numEvals": 48,
+    "overallRating": 3.57,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.5,
     "courses": [
       "MATH 141",
       "MATH 142",
       "MATH 143",
       "MATH 241",
       "MATH 248",
-      "MATH 540"
+      "MATH 540",
+      "MATH 228"
     ],
     "tags": {
-      "Recorded Lectures": 5,
-      "Flexible Attendance Policy": 7,
+      "Recorded Lectures": 6,
+      "Flexible Attendance Policy": 8,
       "Flexible Grading Policy": 4,
       "Supplemental Study Material": 7,
       "Uploads Slides": 8,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Class Handouts": 3,
       "Fast Response Time": 2,
       "No Breaks During Lecture": 1
@@ -33631,12 +33638,12 @@
     "department": "BUS",
     "firstName": "Mike",
     "lastName": "O'Brien",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 346"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1
