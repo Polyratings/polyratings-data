@@ -3129,10 +3129,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 11,
-    "overallRating": 1.36,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.46,
+    "numEvals": 12,
+    "overallRating": 1.25,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.34,
     "courses": [
       "CSC 378",
       "CSC 123"
@@ -19602,21 +19602,22 @@
     "department": "MATH",
     "firstName": "Austin",
     "lastName": "Christian",
-    "numEvals": 28,
-    "overallRating": 3.66,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.64,
+    "numEvals": 29,
+    "overallRating": 3.67,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.65,
     "courses": [
       "MATH 143",
-      "MATH 241"
+      "MATH 241",
+      "MATH 404"
     ],
     "tags": {
-      "Uploads Slides": 21,
+      "Uploads Slides": 22,
       "Supplemental Study Material": 10,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 10,
       "Inflexible Grading Policy": 1,
-      "Honor DRC Accommodations": 5,
+      "Honor DRC Accommodations": 6,
       "High In-Person Availability": 9,
       "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1,
@@ -27323,15 +27324,17 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 4,
-    "overallRating": 1.5,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 1.2,
+    "materialClear": 0.8,
+    "studentDifficulties": 1.6,
     "courses": [
-      "EE 251"
+      "EE 251",
+      "EE 307"
     ],
     "tags": {
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -36955,10 +36958,10 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 62,
-    "overallRating": 2.94,
-    "materialClear": 3.15,
-    "studentDifficulties": 2.79,
+    "numEvals": 63,
+    "overallRating": 2.96,
+    "materialClear": 3.16,
+    "studentDifficulties": 2.81,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -38273,10 +38276,10 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 15,
-    "overallRating": 3.13,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.33,
+    "numEvals": 16,
+    "overallRating": 3,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.18,
     "courses": [
       "EE 201",
       "EE 306",
