@@ -29938,10 +29938,10 @@
     "department": "BUS",
     "firstName": "Thomas",
     "lastName": "Crooke",
-    "numEvals": 8,
-    "overallRating": 2.62,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.37,
+    "numEvals": 9,
+    "overallRating": 2.77,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.55,
     "courses": [
       "BUS 401"
     ],
@@ -29952,7 +29952,7 @@
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -33855,9 +33855,9 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 43,
+    "numEvals": 44,
     "overallRating": 3.8,
-    "materialClear": 3.56,
+    "materialClear": 3.57,
     "studentDifficulties": 3.83,
     "courses": [
       "ECON 222",
@@ -33869,7 +33869,7 @@
       "Honor DRC Accommodations": 4,
       "Uploads Slides": 22,
       "Flexible Attendance Policy": 20,
-      "High In-Person Availability": 6,
+      "High In-Person Availability": 7,
       "Flexible Deadline Policy": 1,
       "Does Not Use Canvas": 1,
       "Supplemental Study Material": 5,
@@ -40502,19 +40502,20 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 10,
-    "overallRating": 0.41,
+    "numEvals": 11,
+    "overallRating": 0.46,
     "materialClear": 0,
-    "studentDifficulties": 0.9,
+    "studentDifficulties": 1.09,
     "courses": [
       "CHEM 127",
       "CHEM 128"
     ],
     "tags": {
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Inflexible Attendance Policy": 4,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
