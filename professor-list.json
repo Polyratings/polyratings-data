@@ -22872,10 +22872,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 63,
-    "overallRating": 2.06,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.08,
+    "numEvals": 64,
+    "overallRating": 2.09,
+    "materialClear": 2.3,
+    "studentDifficulties": 2.11,
     "courses": [
       "TH 210",
       "TH 227",
@@ -23051,10 +23051,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 18,
-    "overallRating": 1.51,
-    "materialClear": 1.67,
-    "studentDifficulties": 1.67,
+    "numEvals": 19,
+    "overallRating": 1.64,
+    "materialClear": 1.79,
+    "studentDifficulties": 1.79,
     "courses": [
       "ES 255",
       "ES 112"
@@ -33432,10 +33432,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 39,
-    "overallRating": 2.82,
-    "materialClear": 3.04,
-    "studentDifficulties": 3.07,
+    "numEvals": 40,
+    "overallRating": 2.85,
+    "materialClear": 3.06,
+    "studentDifficulties": 3.09,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -33446,7 +33446,9 @@
       "ENGL 487"
     ],
     "tags": {
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
