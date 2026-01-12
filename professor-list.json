@@ -15891,10 +15891,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 101,
-    "overallRating": 2.13,
-    "materialClear": 2.11,
-    "studentDifficulties": 2.35,
+    "numEvals": 104,
+    "overallRating": 2.08,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.3,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -20197,23 +20197,24 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 14,
-    "overallRating": 3.65,
-    "materialClear": 3.57,
+    "numEvals": 15,
+    "overallRating": 3.67,
+    "materialClear": 3.6,
     "studentDifficulties": 4,
     "courses": [
       "EE 212",
       "EE 242",
       "EE 295",
       "EE 255",
-      "EE 143"
+      "EE 143",
+      "EE 241"
     ],
     "tags": {
       "Recorded Lectures": 4,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Uploads Slides": 5,
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Supplemental Study Material": 2,
       "Class Handouts": 1,
       "Flexible Grading Policy": 1
@@ -38715,17 +38716,18 @@
     "department": "ENGL",
     "firstName": "Shanae",
     "lastName": "Martinez",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 2.75,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 2.8,
+    "materialClear": 2.6,
+    "studentDifficulties": 3.2,
     "courses": [
       "ENGL 346"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
