@@ -3221,9 +3221,9 @@
     "department": "PHYS",
     "firstName": "Scott",
     "lastName": "Fraser",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 2.98,
-    "materialClear": 2.8,
+    "materialClear": 2.79,
     "studentDifficulties": 2.83,
     "courses": [
       "ASTR 102",
@@ -3241,7 +3241,7 @@
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Does Not Use Canvas": 1
@@ -7869,10 +7869,10 @@
     "department": "MATH",
     "firstName": "Charlie",
     "lastName": "Hogue",
-    "numEvals": 14,
-    "overallRating": 0.35,
-    "materialClear": 0.99,
-    "studentDifficulties": 0.65,
+    "numEvals": 15,
+    "overallRating": 0.33,
+    "materialClear": 0.92,
+    "studentDifficulties": 0.61,
     "courses": [
       "MATH 141",
       "MATH 118"
@@ -13842,10 +13842,10 @@
     "department": "CSC",
     "firstName": "Ayaan",
     "lastName": "Kazerouni",
-    "numEvals": 18,
-    "overallRating": 3.83,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.77,
+    "numEvals": 19,
+    "overallRating": 3.84,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.78,
     "courses": [
       "CPE 203",
       "CSC 313",
@@ -13858,12 +13858,12 @@
       "Honor DRC Accommodations": 2,
       "Supplemental Study Material": 2,
       "Uploads Slides": 4,
-      "Flexible Grading Policy": 1,
-      "High In-Person Availability": 2,
+      "Flexible Grading Policy": 2,
+      "High In-Person Availability": 3,
       "Pop Quizzes": 1,
       "Class Handouts": 1,
       "Inflexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -14997,10 +14997,10 @@
     "department": "AGED",
     "firstName": "Richard",
     "lastName": "Gearhart",
-    "numEvals": 26,
-    "overallRating": 3.41,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.26,
+    "numEvals": 27,
+    "overallRating": 3.43,
+    "materialClear": 3.34,
+    "studentDifficulties": 3.29,
     "courses": [
       "AGC 102",
       "JOUR 102",
@@ -19117,10 +19117,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 45,
+    "numEvals": 46,
     "overallRating": 2.85,
-    "materialClear": 3.25,
-    "studentDifficulties": 2.48,
+    "materialClear": 3.27,
+    "studentDifficulties": 2.51,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -19321,9 +19321,9 @@
     "department": "CM",
     "firstName": "Daniel",
     "lastName": "Knight",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 3.75,
+    "materialClear": 3.8,
     "studentDifficulties": 4,
     "courses": [
       "CM 114",
@@ -33433,10 +33433,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 40,
-    "overallRating": 2.85,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.09,
+    "numEvals": 41,
+    "overallRating": 2.88,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.11,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -33449,7 +33449,8 @@
     "tags": {
       "Pop Quizzes": 1,
       "Recorded Lectures": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -43958,10 +43959,10 @@
     "department": "STAT",
     "firstName": "Zoe",
     "lastName": "Rehnberg",
-    "numEvals": 21,
-    "overallRating": 2.53,
-    "materialClear": 2.86,
-    "studentDifficulties": 2.77,
+    "numEvals": 23,
+    "overallRating": 2.66,
+    "materialClear": 2.96,
+    "studentDifficulties": 2.88,
     "courses": [
       "STAT 301",
       "STAT 331",
@@ -43976,9 +43977,10 @@
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 3,
-      "Fast Response Time": 2,
-      "Class Handouts": 5,
-      "Pop Quizzes": 1
+      "Fast Response Time": 3,
+      "Class Handouts": 6,
+      "Pop Quizzes": 1,
+      "Recorded Lectures": 1
     }
   },
   {
