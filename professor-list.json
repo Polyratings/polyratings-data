@@ -3671,10 +3671,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 30,
-    "overallRating": 2.51,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.81,
+    "numEvals": 31,
+    "overallRating": 2.43,
+    "materialClear": 3.01,
+    "studentDifficulties": 2.72,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -10354,19 +10354,20 @@
     "department": "ENGL",
     "firstName": "Jeff",
     "lastName": "Shutt",
-    "numEvals": 9,
-    "overallRating": 3.89,
-    "materialClear": 3.89,
+    "numEvals": 10,
+    "overallRating": 3.9,
+    "materialClear": 3.9,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
-      "Flexible Deadline Policy": 5,
+      "Flexible Deadline Policy": 6,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -40507,10 +40508,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 11,
-    "overallRating": 0.46,
+    "numEvals": 12,
+    "overallRating": 0.42,
     "materialClear": 0,
-    "studentDifficulties": 1.09,
+    "studentDifficulties": 1,
     "courses": [
       "CHEM 127",
       "CHEM 128"
