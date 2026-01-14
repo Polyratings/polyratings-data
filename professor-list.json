@@ -23839,10 +23839,10 @@
     "department": "HIST",
     "firstName": "Andrea",
     "lastName": "Onate Madrazo",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 2.75,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 3,
+    "studentDifficulties": 3.8,
     "courses": [
       "HIST 216"
     ],
@@ -25091,16 +25091,19 @@
     "department": "ME",
     "firstName": "Masoud",
     "lastName": "Yekanifard",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.5,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.6,
     "courses": [
       "ME 328",
       "ME 329"
     ],
     "tags": {
-      "High In-Person Availability": 2
+      "High In-Person Availability": 2,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -33196,10 +33199,10 @@
     "department": "CHEM",
     "firstName": "Hasan",
     "lastName": "Palandoken",
-    "numEvals": 45,
-    "overallRating": 2.84,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.55,
+    "numEvals": 46,
+    "overallRating": 2.87,
+    "materialClear": 3.15,
+    "studentDifficulties": 2.58,
     "courses": [
       "CHEM 216",
       "CHEM 217",
@@ -33210,11 +33213,12 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 2,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
