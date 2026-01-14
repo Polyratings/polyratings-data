@@ -40516,20 +40516,21 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 12,
-    "overallRating": 0.42,
+    "numEvals": 14,
+    "overallRating": 0.36,
     "materialClear": 0,
-    "studentDifficulties": 1,
+    "studentDifficulties": 0.85,
     "courses": [
       "CHEM 127",
       "CHEM 128"
     ],
     "tags": {
-      "No Breaks During Lecture": 5,
+      "No Breaks During Lecture": 7,
       "Inflexible Attendance Policy": 4,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Uploads Slides": 1
     }
   },
   {
