@@ -6242,10 +6242,10 @@
     "department": "CSC",
     "firstName": "Javier",
     "lastName": "Gonzalez-Sanchez",
-    "numEvals": 14,
-    "overallRating": 1.21,
-    "materialClear": 1.37,
-    "studentDifficulties": 1.43,
+    "numEvals": 15,
+    "overallRating": 1.33,
+    "materialClear": 1.48,
+    "studentDifficulties": 1.47,
     "courses": [
       "CSC 309",
       "CSC 307",
@@ -6256,7 +6256,10 @@
       "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 7,
       "No Breaks During Lecture": 1,
-      "Uploads Slides": 3
+      "Uploads Slides": 3,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -23055,24 +23058,24 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 19,
-    "overallRating": 1.64,
-    "materialClear": 1.79,
-    "studentDifficulties": 1.79,
+    "numEvals": 20,
+    "overallRating": 1.61,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.85,
     "courses": [
       "ES 255",
       "ES 112"
     ],
     "tags": {
       "Recorded Lectures": 3,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Uploads Slides": 5,
       "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 4,
       "Pop Quizzes": 4,
       "Fast Response Time": 3,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "No Breaks During Lecture": 4
     }
   },
@@ -30326,10 +30329,10 @@
     "department": "ARCH",
     "firstName": "Emily",
     "lastName": "White",
-    "numEvals": 11,
-    "overallRating": 3,
-    "materialClear": 3.09,
-    "studentDifficulties": 2.73,
+    "numEvals": 12,
+    "overallRating": 3.08,
+    "materialClear": 3.17,
+    "studentDifficulties": 2.84,
     "courses": [
       "ARCH 101",
       "ARCH 131",
@@ -30337,9 +30340,9 @@
       "ARCH 133"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -41898,10 +41901,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 48,
-    "overallRating": 2.27,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.21,
+    "numEvals": 49,
+    "overallRating": 2.31,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.23,
     "courses": [
       "ENGL 134",
       "ENGL 149",
@@ -41917,9 +41920,11 @@
       "Inflexible Grading Policy": 5,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 3,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
