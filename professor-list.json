@@ -588,10 +588,10 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "OLeary",
-    "numEvals": 10,
-    "overallRating": 3.79,
-    "materialClear": 3.6,
-    "studentDifficulties": 4,
+    "numEvals": 11,
+    "overallRating": 3.45,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.64,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -10278,10 +10278,10 @@
     "department": "CSC",
     "firstName": "Greg",
     "lastName": "Philbrick",
-    "numEvals": 11,
-    "overallRating": 2.91,
-    "materialClear": 1.64,
-    "studentDifficulties": 3.36,
+    "numEvals": 12,
+    "overallRating": 2.67,
+    "materialClear": 1.5,
+    "studentDifficulties": 3.08,
     "courses": [
       "CSC 202"
     ],
@@ -16860,10 +16860,10 @@
     "department": "FR",
     "firstName": "John",
     "lastName": "Thompson",
-    "numEvals": 27,
-    "overallRating": 3.54,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.59,
+    "numEvals": 28,
+    "overallRating": 3.56,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.6,
     "courses": [
       "FR 101",
       "FR 103",
@@ -16879,7 +16879,8 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -28423,13 +28424,18 @@
     "department": "IME",
     "firstName": "Mohamed",
     "lastName": "Awwad",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "IME"
-    ]
+      "IME 417",
+      "IME 481"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "9b341731-7a00-4838-adce-9c8e0b631897",
@@ -36143,10 +36149,10 @@
     "department": "DSCI",
     "firstName": "Chi Kong",
     "lastName": "Yeung",
-    "numEvals": 11,
-    "overallRating": 3.91,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.91,
+    "numEvals": 12,
+    "overallRating": 3.92,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.92,
     "courses": [
       "DSCI 231",
       "DSCI 233",
@@ -36159,7 +36165,8 @@
       "Class Handouts": 2,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -37114,10 +37121,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 150,
-    "overallRating": 2.95,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.93,
+    "numEvals": 151,
+    "overallRating": 2.94,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.92,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -37133,7 +37140,7 @@
       "Fast Response Time": 11,
       "Uploads Slides": 8,
       "Flexible Deadline Policy": 5,
-      "Class Handouts": 16,
+      "Class Handouts": 17,
       "Supplemental Study Material": 15,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
@@ -44175,10 +44182,10 @@
     "department": "PSY",
     "firstName": "Shawn",
     "lastName": "Burn",
-    "numEvals": 71,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.63,
-    "overallRating": 3.63,
+    "numEvals": 72,
+    "overallRating": 3.58,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.58,
     "courses": [
       "PSY 201",
       "PSY 252",
@@ -44190,7 +44197,8 @@
       "PSY 351",
       "PSY 352",
       "PSY 360"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "f79c81de-54b3-4117-90ab-59571123ccc7",
