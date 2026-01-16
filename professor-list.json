@@ -6088,10 +6088,10 @@
     "department": "ARCE",
     "firstName": "Kevin",
     "lastName": "Dong",
-    "numEvals": 7,
-    "overallRating": 2.71,
-    "materialClear": 3.11,
-    "studentDifficulties": 2.49,
+    "numEvals": 9,
+    "overallRating": 3,
+    "materialClear": 3.31,
+    "studentDifficulties": 2.72,
     "courses": [
       "ARCE 211",
       "ARCE 212",
@@ -6100,7 +6100,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 3,
+      "High In-Person Availability": 2,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -10883,7 +10886,7 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 55,
+    "numEvals": 56,
     "overallRating": 3.73,
     "materialClear": 3.78,
     "studentDifficulties": 3.75,
@@ -10899,7 +10902,7 @@
     "tags": {
       "High In-Person Availability": 4,
       "Fast Response Time": 2,
-      "Zoom Office Hours": 3,
+      "Zoom Office Hours": 4,
       "Inflexible Attendance Policy": 5,
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 3,
@@ -29367,7 +29370,7 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 52,
+    "numEvals": 53,
     "overallRating": 3.76,
     "materialClear": 3.76,
     "studentDifficulties": 3.76,
@@ -29381,13 +29384,13 @@
     "tags": {
       "High In-Person Availability": 10,
       "Flexible Attendance Policy": 11,
-      "Uploads Slides": 21,
+      "Uploads Slides": 22,
       "Fast Response Time": 4,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 1,
       "Class Handouts": 1,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1
     }
@@ -30413,7 +30416,7 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 64,
+    "numEvals": 65,
     "overallRating": 3.73,
     "materialClear": 3.75,
     "studentDifficulties": 3.72,
@@ -30436,12 +30439,12 @@
       "HIST 428"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Honor DRC Accommodations": 3,
       "Uploads Slides": 2,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Supplemental Study Material": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 2,
       "Zoom Office Hours": 1
     }
@@ -34304,7 +34307,7 @@
     "department": "NR",
     "firstName": "Jacqueline",
     "lastName": "Rose",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -34316,7 +34319,8 @@
       "Fast Response Time": 1,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
