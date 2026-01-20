@@ -2652,7 +2652,7 @@
     "department": "BUS",
     "firstName": "Lane",
     "lastName": "Fronczek",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19554,10 +19554,10 @@
     "department": "EE",
     "firstName": "Vladimir",
     "lastName": "Prodanov",
-    "numEvals": 43,
-    "overallRating": 3.63,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.53,
+    "numEvals": 44,
+    "overallRating": 3.57,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.45,
     "courses": [
       "EE 212",
       "EE 306",
@@ -19848,9 +19848,9 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 160,
+    "numEvals": 161,
     "overallRating": 1.8,
-    "materialClear": 2,
+    "materialClear": 1.99,
     "studentDifficulties": 1.69,
     "courses": [
       "CE 204",
@@ -19869,12 +19869,12 @@
     "tags": {
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Uploads Slides": 2,
       "No Breaks During Lecture": 2,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Deadline Policy": 4,
       "Inflexible Grading Policy": 8,
-      "Does Not Use Canvas": 6,
+      "Does Not Use Canvas": 7,
       "Pop Quizzes": 5,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 5,
@@ -22289,9 +22289,9 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 98,
-    "overallRating": 1.86,
-    "materialClear": 2.11,
+    "numEvals": 99,
+    "overallRating": 1.88,
+    "materialClear": 2.13,
     "studentDifficulties": 1.72,
     "courses": [
       "ENGL 134",
@@ -22307,13 +22307,14 @@
       "ENGL 382"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 2,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Inflexible Grading Policy": 1,
       "Hybrid Option": 2,
       "Recorded Lectures": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1
     }
   },
   {
