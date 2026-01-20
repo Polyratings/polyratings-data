@@ -10175,10 +10175,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 20,
-    "overallRating": 1.69,
-    "materialClear": 1.24,
-    "studentDifficulties": 2.25,
+    "numEvals": 21,
+    "overallRating": 1.61,
+    "materialClear": 1.23,
+    "studentDifficulties": 2.24,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -10186,7 +10186,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 4,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Flexible Grading Policy": 3,
       "Uploads Slides": 2,
       "Supplemental Study Material": 1,
@@ -29929,10 +29929,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 65,
-    "overallRating": 1.32,
-    "materialClear": 1.19,
-    "studentDifficulties": 1.7,
+    "numEvals": 66,
+    "overallRating": 1.36,
+    "materialClear": 1.23,
+    "studentDifficulties": 1.73,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -33104,10 +33104,10 @@
     "department": "ASCI",
     "firstName": "Juliana",
     "lastName": "Huzzey",
-    "numEvals": 55,
-    "overallRating": 3.11,
-    "materialClear": 3.2,
-    "studentDifficulties": 3,
+    "numEvals": 56,
+    "overallRating": 3.13,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.02,
     "courses": [
       "ASCI 101",
       "ASCI 112",
@@ -33117,15 +33117,16 @@
       "ASCI 340"
     ],
     "tags": {
-      "Uploads Slides": 8,
-      "Supplemental Study Material": 5,
+      "Uploads Slides": 9,
+      "Supplemental Study Material": 6,
       "Inflexible Attendance Policy": 4,
       "Class Handouts": 1,
       "Inflexible Deadline Policy": 3,
       "High In-Person Availability": 4,
       "Fast Response Time": 3,
       "Inflexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
