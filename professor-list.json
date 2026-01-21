@@ -13053,20 +13053,22 @@
     "department": "BUS",
     "firstName": "Holly",
     "lastName": "Newman",
-    "numEvals": 10,
-    "overallRating": 1.8,
-    "materialClear": 1.6,
-    "studentDifficulties": 2.2,
+    "numEvals": 11,
+    "overallRating": 1.73,
+    "materialClear": 1.64,
+    "studentDifficulties": 2.18,
     "courses": [
       "BUS 214",
-      "BUS 212"
+      "BUS 212",
+      "AGB 212"
     ],
     "tags": {
       "Uploads Slides": 3,
-      "Inflexible Attendance Policy": 3,
-      "No Breaks During Lecture": 3,
+      "Inflexible Attendance Policy": 4,
+      "No Breaks During Lecture": 4,
       "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -28506,10 +28508,10 @@
     "department": "CHEM",
     "firstName": "Tammy",
     "lastName": "Campbell",
-    "numEvals": 48,
-    "overallRating": 1.36,
-    "materialClear": 1.11,
-    "studentDifficulties": 1.61,
+    "numEvals": 49,
+    "overallRating": 1.33,
+    "materialClear": 1.09,
+    "studentDifficulties": 1.58,
     "courses": [
       "CHEM 110",
       "CHEM 111",
