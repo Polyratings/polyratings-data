@@ -24398,16 +24398,20 @@
     "department": "CE",
     "firstName": "Daniel",
     "lastName": "See",
-    "numEvals": 12,
-    "overallRating": 2.75,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.92,
+    "numEvals": 13,
+    "overallRating": 2.85,
+    "materialClear": 2.84,
+    "studentDifficulties": 3,
     "courses": [
       "CE 113",
       "CE 114",
       "CE 207"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "84383a91-99bb-40cb-9ea3-5522befeebf9",
@@ -27572,10 +27576,10 @@
     "department": "PHYS",
     "firstName": "Hilary",
     "lastName": "Jacks",
-    "numEvals": 22,
-    "overallRating": 0.77,
-    "materialClear": 1.04,
-    "studentDifficulties": 1.55,
+    "numEvals": 23,
+    "overallRating": 0.91,
+    "materialClear": 1.17,
+    "studentDifficulties": 1.66,
     "courses": [
       "PHYS 133",
       "PHYS 141",
@@ -31604,20 +31608,21 @@
     "department": "CSC",
     "firstName": "Lubomir",
     "lastName": "Stanchev",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 2.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "DATA 301",
       "CSC 365",
       "CSC 466"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -31785,14 +31790,19 @@
     "department": "EE",
     "firstName": "Souvik",
     "lastName": "Kundu",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 1.33,
+    "studentDifficulties": 1.67,
     "courses": [
-      "EE 348"
+      "EE 348",
+      "EE 321"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "add4db4e-770d-49e6-89b2-76bafcfcb6d4",
@@ -35804,10 +35814,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Soldatenko",
-    "numEvals": 25,
-    "overallRating": 3.04,
-    "materialClear": 3.23,
-    "studentDifficulties": 3.29,
+    "numEvals": 26,
+    "overallRating": 3.08,
+    "materialClear": 3.26,
+    "studentDifficulties": 3.32,
     "courses": [
       "ES 255",
       "ES 380",
@@ -35815,9 +35825,9 @@
     ],
     "tags": {
       "Pop Quizzes": 8,
-      "No Breaks During Lecture": 11,
-      "Flexible Attendance Policy": 6,
-      "Uploads Slides": 11,
+      "No Breaks During Lecture": 12,
+      "Flexible Attendance Policy": 7,
+      "Uploads Slides": 12,
       "Fast Response Time": 1
     }
   },
