@@ -5843,10 +5843,10 @@
     "department": "PHYS",
     "firstName": "Benjamin",
     "lastName": "Shlaer",
-    "numEvals": 9,
-    "overallRating": 2.11,
-    "materialClear": 1.66,
-    "studentDifficulties": 2.88,
+    "numEvals": 10,
+    "overallRating": 2,
+    "materialClear": 1.49,
+    "studentDifficulties": 2.69,
     "courses": [
       "PHYS 142",
       "PHYS 141",
@@ -6043,9 +6043,9 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 174,
-    "overallRating": 3.16,
-    "materialClear": 3.18,
+    "numEvals": 175,
+    "overallRating": 3.15,
+    "materialClear": 3.17,
     "studentDifficulties": 3.2,
     "courses": [
       "BUS 102",
@@ -6060,13 +6060,14 @@
     ],
     "tags": {
       "High In-Person Availability": 8,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Fast Response Time": 6,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 7,
       "Uploads Slides": 6,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 2,
+      "Class Handouts": 1
     }
   },
   {
