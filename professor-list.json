@@ -5318,10 +5318,10 @@
     "department": "AEPS",
     "firstName": "Benjamin",
     "lastName": "Hoover",
-    "numEvals": 11,
-    "overallRating": 2.8,
-    "materialClear": 3.36,
-    "studentDifficulties": 2.94,
+    "numEvals": 12,
+    "overallRating": 2.73,
+    "materialClear": 3.25,
+    "studentDifficulties": 2.78,
     "courses": [
       "EHS 120",
       "EHS 124",
@@ -5329,14 +5329,16 @@
       "EHS 351",
       "AEPS 124",
       "AEPS 351",
-      "AEPS 233"
+      "AEPS 233",
+      "AEPS 245"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 1,
+      "Inflexible Deadline Policy": 2,
+      "Uploads Slides": 2,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
