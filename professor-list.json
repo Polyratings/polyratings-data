@@ -8044,10 +8044,10 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 21,
-    "overallRating": 3.28,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.28,
+    "numEvals": 22,
+    "overallRating": 3.18,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.27,
     "courses": [
       "MATH 142",
       "MATH 206",
@@ -8066,10 +8066,11 @@
       "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -9574,12 +9575,13 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 14,
-    "overallRating": 2.28,
-    "materialClear": 2.28,
-    "studentDifficulties": 2.93,
+    "numEvals": 15,
+    "overallRating": 2.13,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.8,
     "courses": [
-      "ENGL 145"
+      "ENGL 145",
+      "ENGL 134"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -11555,9 +11557,9 @@
     "department": "SPAN",
     "firstName": "Marivel",
     "lastName": "Lozano",
-    "numEvals": 2,
-    "overallRating": 0.5,
-    "materialClear": 0.5,
+    "numEvals": 3,
+    "overallRating": 0.33,
+    "materialClear": 0.67,
     "studentDifficulties": 1,
     "courses": [
       "SPAN 103",
