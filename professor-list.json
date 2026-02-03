@@ -10181,23 +10181,26 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 23,
-    "overallRating": 1.47,
-    "materialClear": 1.12,
-    "studentDifficulties": 2.05,
+    "numEvals": 24,
+    "overallRating": 1.53,
+    "materialClear": 1.2,
+    "studentDifficulties": 2.13,
     "courses": [
       "STAT 217",
       "STAT 312",
-      "STAT 251"
+      "STAT 251",
+      "STAT 252"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Recorded Lectures": 2,
       "Flexible Grading Policy": 3,
       "Uploads Slides": 2,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -18388,10 +18391,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 39,
-    "overallRating": 3.01,
-    "materialClear": 2.79,
-    "studentDifficulties": 3.23,
+    "numEvals": 40,
+    "overallRating": 2.93,
+    "materialClear": 2.72,
+    "studentDifficulties": 3.15,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -26006,10 +26009,10 @@
     "department": "PSY",
     "firstName": "Marc",
     "lastName": "Halusic",
-    "numEvals": 11,
-    "overallRating": 2.45,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.55,
+    "numEvals": 12,
+    "overallRating": 2.25,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.59,
     "courses": [
       "PSY 252",
       "PSY 201",
@@ -26017,13 +26020,13 @@
       "PSY 357"
     ],
     "tags": {
-      "Recorded Lectures": 8,
+      "Recorded Lectures": 9,
       "Zoom Office Hours": 3,
       "Fast Response Time": 4,
       "Flexible Deadline Policy": 1,
       "No Breaks During Lecture": 1,
       "Inflexible Attendance Policy": 1,
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "Hybrid Option": 1,
       "Inflexible Grading Policy": 2
     }
