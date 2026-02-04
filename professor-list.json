@@ -567,10 +567,10 @@
     "department": "BRAE",
     "firstName": "G.W.",
     "lastName": "Bates",
-    "numEvals": 18,
+    "numEvals": 19,
     "overallRating": 2.91,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.75,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.71,
     "courses": [
       "BRAE 232",
       "BRAE 237",
@@ -579,8 +579,10 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Uploads Slides": 2,
-      "High In-Person Availability": 1
+      "Uploads Slides": 3,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -1912,10 +1914,10 @@
     "department": "ASCI",
     "firstName": "Matthew",
     "lastName": "Burd",
-    "numEvals": 10,
-    "overallRating": 2.72,
-    "materialClear": 2.52,
-    "studentDifficulties": 2.26,
+    "numEvals": 11,
+    "overallRating": 2.65,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.15,
     "courses": [
       "ASCI 224",
       "ASCI 315",
@@ -3191,7 +3193,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 216,
+    "numEvals": 217,
     "overallRating": 3.53,
     "materialClear": 3.62,
     "studentDifficulties": 3.34,
@@ -3205,7 +3207,7 @@
       "BUS 461"
     ],
     "tags": {
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Flexible Attendance Policy": 8,
       "Uploads Slides": 10,
       "Fast Response Time": 2,
@@ -20406,16 +20408,17 @@
     "department": "BUS",
     "firstName": "Shaimaa",
     "lastName": "Ewais",
-    "numEvals": 12,
-    "overallRating": 3.08,
-    "materialClear": 2.84,
-    "studentDifficulties": 3,
+    "numEvals": 13,
+    "overallRating": 3.15,
+    "materialClear": 2.93,
+    "studentDifficulties": 3.08,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 499"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 2,
@@ -21372,10 +21375,10 @@
     "department": "STAT",
     "firstName": "James",
     "lastName": "Oksanish",
-    "numEvals": 18,
-    "overallRating": 3,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.12,
+    "numEvals": 19,
+    "overallRating": 3.05,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.17,
     "courses": [
       "STAT 312",
       "STAT 251",
@@ -27709,10 +27712,10 @@
     "department": "COMS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 107,
-    "overallRating": 2.39,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.29,
+    "numEvals": 108,
+    "overallRating": 2.37,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.31,
     "courses": [
       "COMS 101",
       "SPC 101",
@@ -28176,10 +28179,10 @@
     "department": "BRAE",
     "firstName": "Eshetu",
     "lastName": "Erkihune",
-    "numEvals": 13,
-    "overallRating": 2.31,
-    "materialClear": 1.54,
-    "studentDifficulties": 3,
+    "numEvals": 14,
+    "overallRating": 2.43,
+    "materialClear": 1.57,
+    "studentDifficulties": 3.07,
     "courses": [
       "BRAE 239",
       "BRAE 237"
@@ -28187,13 +28190,13 @@
     "tags": {
       "Fast Response Time": 3,
       "Flexible Grading Policy": 2,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Pop Quizzes": 1,
       "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
-      "Class Handouts": 2,
-      "Uploads Slides": 2,
+      "Class Handouts": 3,
+      "Uploads Slides": 3,
       "Inflexible Attendance Policy": 1,
       "High In-Person Availability": 1
     }
@@ -40291,19 +40294,20 @@
     "department": "PSY",
     "firstName": "Tom",
     "lastName": "Steffora",
-    "numEvals": 6,
-    "overallRating": 3.5,
-    "materialClear": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 3.72,
     "studentDifficulties": 4,
     "courses": [
       "PSY 405"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "No Breaks During Lecture": 3,
+      "No Breaks During Lecture": 4,
       "Fast Response Time": 2,
       "Uploads Slides": 3,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
