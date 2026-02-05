@@ -45141,10 +45141,10 @@
     "department": "ES",
     "firstName": "Lizzie",
     "lastName": "Lamoree",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.5,
     "courses": [
       "WGS 201",
       "ES 112"
@@ -45154,7 +45154,9 @@
       "No Breaks During Lecture": 1,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
