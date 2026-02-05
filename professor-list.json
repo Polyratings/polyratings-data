@@ -10183,10 +10183,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 24,
-    "overallRating": 1.53,
-    "materialClear": 1.2,
-    "studentDifficulties": 2.13,
+    "numEvals": 25,
+    "overallRating": 1.47,
+    "materialClear": 1.15,
+    "studentDifficulties": 2.08,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -11652,9 +11652,9 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 289,
+    "numEvals": 290,
     "overallRating": 2.42,
-    "materialClear": 2.08,
+    "materialClear": 2.07,
     "studentDifficulties": 2.58,
     "courses": [
       "ECON 111",
@@ -11671,14 +11671,14 @@
     "tags": {
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Inflexible Attendance Policy": 1
     }
   },
@@ -12509,10 +12509,10 @@
     "department": "COMS",
     "firstName": "Alison",
     "lastName": "Cheung",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "COMS 385",
       "COMS 100"
@@ -13997,10 +13997,10 @@
     "department": "ME",
     "firstName": "Emad",
     "lastName": "Hasani",
-    "numEvals": 20,
-    "overallRating": 2.1,
-    "materialClear": 2.3,
-    "studentDifficulties": 2.26,
+    "numEvals": 21,
+    "overallRating": 2.19,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.34,
     "courses": [
       "ME 392",
       "ME 305",
@@ -25072,10 +25072,10 @@
     "department": "ENGL",
     "firstName": "Joshua",
     "lastName": "Pearson",
-    "numEvals": 7,
-    "overallRating": 3.29,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.14,
+    "numEvals": 8,
+    "overallRating": 3.38,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.25,
     "courses": [
       "ENGL 135",
       "ENGL 145",
@@ -39721,7 +39721,7 @@
     "department": "ENGL",
     "firstName": "Kailey",
     "lastName": "Herrmann",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -39729,8 +39729,9 @@
       "ENGL 134"
     ],
     "tags": {
-      "Fast Response Time": 2,
-      "Flexible Grading Policy": 1
+      "Fast Response Time": 3,
+      "Flexible Grading Policy": 1,
+      "Hybrid Option": 1
     }
   },
   {
