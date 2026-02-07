@@ -1442,7 +1442,7 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 435,
+    "numEvals": 436,
     "overallRating": 2.31,
     "materialClear": 2.47,
     "studentDifficulties": 2.54,
@@ -6136,10 +6136,10 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 17,
-    "overallRating": 0.41,
-    "materialClear": 0.94,
-    "studentDifficulties": 0.64,
+    "numEvals": 18,
+    "overallRating": 0.61,
+    "materialClear": 1.11,
+    "studentDifficulties": 0.77,
     "courses": [
       "GRC 203",
       "GRC 316"
@@ -6147,13 +6147,13 @@
     "tags": {
       "Recorded Lectures": 1,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 7,
+      "Inflexible Grading Policy": 8,
       "Inflexible Deadline Policy": 7,
-      "Inflexible Attendance Policy": 7,
+      "Inflexible Attendance Policy": 8,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Uploads Slides": 1
     }
   },
@@ -7860,10 +7860,10 @@
     "department": "ENGL",
     "firstName": "Thomas",
     "lastName": "Lugo",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.83,
     "courses": [
       "ENGL 145"
     ],
@@ -17052,10 +17052,10 @@
     "department": "HLTH",
     "firstName": "Adrienne",
     "lastName": "Lent",
-    "numEvals": 4,
-    "overallRating": 2.75,
-    "materialClear": 2.75,
-    "studentDifficulties": 2,
+    "numEvals": 6,
+    "overallRating": 2,
+    "materialClear": 1.83,
+    "studentDifficulties": 1.33,
     "courses": [
       "HLTH 402",
       "HLTH 298",
@@ -17064,11 +17064,13 @@
     "tags": {
       "Recorded Lectures": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -22241,10 +22243,10 @@
     "department": "CHEM",
     "firstName": "Javin",
     "lastName": "Oza",
-    "numEvals": 7,
-    "overallRating": 2.14,
-    "materialClear": 2,
-    "studentDifficulties": 3.43,
+    "numEvals": 9,
+    "overallRating": 2,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -22262,8 +22264,9 @@
       "Zoom Office Hours": 1,
       "High In-Person Availability": 2,
       "Flexible Deadline Policy": 2,
-      "Class Handouts": 2,
-      "Does Not Use Canvas": 1
+      "Class Handouts": 3,
+      "Does Not Use Canvas": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -22319,10 +22322,10 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 99,
-    "overallRating": 1.88,
-    "materialClear": 2.13,
-    "studentDifficulties": 1.72,
+    "numEvals": 100,
+    "overallRating": 1.89,
+    "materialClear": 2.15,
+    "studentDifficulties": 1.74,
     "courses": [
       "ENGL 134",
       "ENGL 141",
@@ -22341,10 +22344,11 @@
       "Flexible Deadline Policy": 2,
       "Flexible Attendance Policy": 2,
       "Inflexible Grading Policy": 1,
-      "Hybrid Option": 2,
-      "Recorded Lectures": 1,
+      "Hybrid Option": 3,
+      "Recorded Lectures": 2,
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -24809,18 +24813,20 @@
     "department": "BIO",
     "firstName": "Aubrey",
     "lastName": "Davis",
-    "numEvals": 6,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.83,
+    "numEvals": 7,
+    "overallRating": 2.14,
+    "materialClear": 1.71,
+    "studentDifficulties": 2,
     "courses": [
       "BIO 161"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Supplemental Study Material": 2,
       "Inflexible Grading Policy": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -29819,10 +29825,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 160,
-    "overallRating": 2.2,
-    "materialClear": 2.27,
-    "studentDifficulties": 1.99,
+    "numEvals": 161,
+    "overallRating": 2.19,
+    "materialClear": 2.26,
+    "studentDifficulties": 1.98,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -29847,7 +29853,7 @@
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 4,
-      "Inflexible Grading Policy": 4,
+      "Inflexible Grading Policy": 5,
       "Fast Response Time": 1,
       "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 1
@@ -34398,10 +34404,10 @@
     "department": "CHEM",
     "firstName": "Ashley",
     "lastName": "McDonald",
-    "numEvals": 48,
-    "overallRating": 1.89,
-    "materialClear": 2.3,
-    "studentDifficulties": 1.88,
+    "numEvals": 49,
+    "overallRating": 1.93,
+    "materialClear": 2.33,
+    "studentDifficulties": 1.92,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -35163,10 +35169,10 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 20,
-    "overallRating": 3.01,
-    "materialClear": 3.01,
-    "studentDifficulties": 3.15,
+    "numEvals": 21,
+    "overallRating": 2.91,
+    "materialClear": 2.96,
+    "studentDifficulties": 3.14,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -35177,7 +35183,7 @@
     "tags": {
       "Uploads Slides": 3,
       "Inflexible Attendance Policy": 4,
-      "No Breaks During Lecture": 5,
+      "No Breaks During Lecture": 6,
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 4,
       "Class Handouts": 2,
@@ -41372,10 +41378,10 @@
     "department": "MATE",
     "firstName": "Brian",
     "lastName": "Davis",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.76,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.79,
     "courses": [
       "MATE 210",
       "MATE 215",
@@ -41384,11 +41390,12 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 4,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 1
+      "High In-Person Availability": 2,
+      "Inflexible Grading Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -42502,10 +42509,10 @@
     "department": "ENGL",
     "firstName": "John",
     "lastName": "Hampsey",
-    "numEvals": 103,
-    "overallRating": 2.96,
-    "materialClear": 3.12,
-    "studentDifficulties": 2.68,
+    "numEvals": 104,
+    "overallRating": 2.97,
+    "materialClear": 3.13,
+    "studentDifficulties": 2.69,
     "courses": [
       "ENGL 250",
       "ENGL 251",
@@ -43047,10 +43054,10 @@
     "department": "CSC",
     "firstName": "Bret",
     "lastName": "Hartman",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 3.85,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.43,
     "courses": [
       "CSC 321"
     ],
@@ -44470,10 +44477,10 @@
     "department": "EE",
     "firstName": "Wayne",
     "lastName": "Pilkington",
-    "numEvals": 50,
-    "overallRating": 3.49,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.36,
+    "numEvals": 51,
+    "overallRating": 3.5,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.37,
     "courses": [
       "CPE 129",
       "EE 129",
