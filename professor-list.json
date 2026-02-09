@@ -13559,10 +13559,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 18,
-    "overallRating": 0.45,
-    "materialClear": 0.89,
-    "studentDifficulties": 0.73,
+    "numEvals": 19,
+    "overallRating": 0.43,
+    "materialClear": 0.84,
+    "studentDifficulties": 0.69,
     "courses": [
       "ES 350",
       "WGS 350",
@@ -19282,10 +19282,10 @@
     "department": "POLS",
     "firstName": "Jennifer",
     "lastName": "Denbow",
-    "numEvals": 6,
-    "overallRating": 3.33,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 3.29,
+    "studentDifficulties": 2.86,
     "courses": [
       "POLS 230",
       "POLS 245",
@@ -19293,8 +19293,10 @@
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Flexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -33510,10 +33512,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 42,
-    "overallRating": 2.91,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.13,
+    "numEvals": 43,
+    "overallRating": 2.94,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.15,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -33526,7 +33528,7 @@
     ],
     "tags": {
       "Pop Quizzes": 1,
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Hybrid Option": 1
