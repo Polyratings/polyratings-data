@@ -3132,10 +3132,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 13,
-    "overallRating": 1.15,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.24,
+    "numEvals": 14,
+    "overallRating": 1.07,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.15,
     "courses": [
       "CSC 378",
       "CSC 123"
@@ -3148,7 +3148,7 @@
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -8759,10 +8759,10 @@
     "department": "ISLA",
     "firstName": "Lauren",
     "lastName": "Beck",
-    "numEvals": 10,
-    "overallRating": 3.49,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.41,
+    "numEvals": 11,
+    "overallRating": 3.54,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.46,
     "courses": [
       "ISLA 340",
       "ENGL 145",
@@ -8775,11 +8775,11 @@
       "No Breaks During Lecture": 1,
       "Hybrid Option": 1,
       "Flexible Attendance Policy": 2,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "High In-Person Availability": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -27400,10 +27400,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 7,
-    "overallRating": 1.14,
-    "materialClear": 1.29,
-    "studentDifficulties": 1.28,
+    "numEvals": 8,
+    "overallRating": 1,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.5,
     "courses": [
       "EE 251",
       "EE 307"
@@ -27411,9 +27411,10 @@
     "tags": {
       "Does Not Use Canvas": 1,
       "Inflexible Attendance Policy": 3,
-      "Recorded Lectures": 2,
-      "Uploads Slides": 1,
-      "Honor DRC Accommodations": 1
+      "Recorded Lectures": 3,
+      "Uploads Slides": 2,
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -27965,10 +27966,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 41,
-    "overallRating": 3.23,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.21,
+    "numEvals": 42,
+    "overallRating": 3.25,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.23,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -27981,17 +27982,19 @@
       "CSC 101",
       "CSC 103",
       "CPE 348",
-      "CSC 348"
+      "CSC 348",
+      "CSC 549"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 1,
       "Recorded Lectures": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -40025,10 +40028,10 @@
     "department": "CSC",
     "firstName": "Alex",
     "lastName": "Bisberg",
-    "numEvals": 10,
-    "overallRating": 0.31,
-    "materialClear": 0.31,
-    "studentDifficulties": 1.11,
+    "numEvals": 11,
+    "overallRating": 0.55,
+    "materialClear": 0.46,
+    "studentDifficulties": 1.37,
     "courses": [
       "CSC 203",
       "CSC 581"
@@ -40040,9 +40043,10 @@
       "Pop Quizzes": 2,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
