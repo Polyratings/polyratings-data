@@ -2217,22 +2217,25 @@
     "department": "BIO",
     "firstName": "Nathaniel",
     "lastName": "Martinez",
-    "numEvals": 13,
-    "overallRating": 3.65,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.72,
+    "numEvals": 14,
+    "overallRating": 3.46,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.74,
     "courses": [
       "BIO 221",
       "MCRO 221",
       "BIO 224",
       "MCRO 224",
       "BIO 342",
-      "MCRO 342"
+      "MCRO 342",
+      "BIO 426"
     ],
     "tags": {
       "Uploads Slides": 2,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -13338,10 +13341,10 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 24,
-    "overallRating": 3.83,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.79,
+    "numEvals": 25,
+    "overallRating": 3.84,
+    "materialClear": 3.84,
+    "studentDifficulties": 3.8,
     "courses": [
       "COMS 101",
       "COMS 205"
@@ -13349,16 +13352,16 @@
     "tags": {
       "Zoom Office Hours": 7,
       "Inflexible Attendance Policy": 2,
-      "Fast Response Time": 7,
+      "Fast Response Time": 8,
       "Flexible Grading Policy": 5,
       "No Breaks During Lecture": 3,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Class Handouts": 6,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 4,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 2,
-      "Flexible Attendance Policy": 3
+      "Flexible Attendance Policy": 4
     }
   },
   {
@@ -23111,10 +23114,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 22,
-    "overallRating": 1.69,
-    "materialClear": 1.86,
-    "studentDifficulties": 1.91,
+    "numEvals": 23,
+    "overallRating": 1.62,
+    "materialClear": 1.82,
+    "studentDifficulties": 1.83,
     "courses": [
       "ES 255",
       "ES 112"
