@@ -11533,8 +11533,8 @@
     "department": "ENGL",
     "firstName": "Tim",
     "lastName": "Farrell",
-    "numEvals": 14,
-    "overallRating": 3.86,
+    "numEvals": 15,
+    "overallRating": 3.87,
     "materialClear": 3.93,
     "studentDifficulties": 3.93,
     "courses": [
@@ -11548,7 +11548,8 @@
       "Fast Response Time": 2,
       "High In-Person Availability": 2,
       "Zoom Office Hours": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -19115,10 +19116,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 148,
-    "overallRating": 1.46,
-    "materialClear": 1.29,
-    "studentDifficulties": 1.48,
+    "numEvals": 149,
+    "overallRating": 1.48,
+    "materialClear": 1.31,
+    "studentDifficulties": 1.49,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -19129,12 +19130,12 @@
       "ECON 222"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Uploads Slides": 14,
-      "No Breaks During Lecture": 3,
+      "No Breaks During Lecture": 4,
       "Class Handouts": 2,
       "Supplemental Study Material": 4,
-      "Flexible Attendance Policy": 7,
+      "Flexible Attendance Policy": 8,
       "Inflexible Grading Policy": 2,
       "Flexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1
@@ -22152,10 +22153,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 79,
-    "overallRating": 2.02,
-    "materialClear": 1.93,
-    "studentDifficulties": 2.01,
+    "numEvals": 82,
+    "overallRating": 1.96,
+    "materialClear": 1.89,
+    "studentDifficulties": 1.98,
     "courses": [
       "CPE 101",
       "CSC 101",
