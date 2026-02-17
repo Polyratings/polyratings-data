@@ -146,7 +146,7 @@
     "department": "MATH",
     "firstName": "Skye",
     "lastName": "Paul",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -4105,10 +4105,10 @@
     "department": "PHYS",
     "firstName": "Anthony",
     "lastName": "Buffa",
-    "numEvals": 58,
-    "overallRating": 2.67,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.62,
+    "numEvals": 59,
+    "overallRating": 2.69,
+    "materialClear": 2.61,
+    "studentDifficulties": 2.64,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -4119,15 +4119,16 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 6,
-      "No Breaks During Lecture": 1,
+      "Does Not Use Canvas": 7,
+      "No Breaks During Lecture": 2,
       "High In-Person Availability": 3,
       "Supplemental Study Material": 2,
       "Flexible Attendance Policy": 3,
       "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -17694,10 +17695,10 @@
     "department": "ENGL",
     "firstName": "Raymond",
     "lastName": "Brennan",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 3.94,
     "materialClear": 3.94,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.76,
     "courses": [
       "ENGL 134",
       "ENGL 145"
