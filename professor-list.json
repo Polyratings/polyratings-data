@@ -5553,7 +5553,7 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 3.77,
     "materialClear": 3.78,
     "studentDifficulties": 3.75,
@@ -13569,10 +13569,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 20,
-    "overallRating": 0.41,
-    "materialClear": 0.8,
-    "studentDifficulties": 0.66,
+    "numEvals": 21,
+    "overallRating": 0.39,
+    "materialClear": 0.76,
+    "studentDifficulties": 0.63,
     "courses": [
       "ES 350",
       "WGS 350",
@@ -26871,19 +26871,21 @@
     "department": "SS",
     "firstName": "Timothy",
     "lastName": "McHale",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ANT 250"
+      "ANT 250",
+      "ANT 401"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -37220,10 +37222,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 151,
-    "overallRating": 2.94,
+    "numEvals": 152,
+    "overallRating": 2.92,
     "materialClear": 2.84,
-    "studentDifficulties": 2.92,
+    "studentDifficulties": 2.91,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -37239,13 +37241,14 @@
       "Fast Response Time": 11,
       "Uploads Slides": 8,
       "Flexible Deadline Policy": 5,
-      "Class Handouts": 17,
+      "Class Handouts": 18,
       "Supplemental Study Material": 15,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Recorded Lectures": 3,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
