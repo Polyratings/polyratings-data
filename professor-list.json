@@ -5553,8 +5553,8 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 61,
-    "overallRating": 3.77,
+    "numEvals": 62,
+    "overallRating": 3.74,
     "materialClear": 3.78,
     "studentDifficulties": 3.75,
     "courses": [
@@ -12890,12 +12890,13 @@
     "department": "BUS",
     "firstName": "Wes",
     "lastName": "Love",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ITP 303"
+      "ITP 303",
+      "BUS 387"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -20061,7 +20062,7 @@
     "department": "BUS",
     "firstName": "Travis",
     "lastName": "Raynaud",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -36451,9 +36452,9 @@
     "department": "CHEM",
     "firstName": "Scott",
     "lastName": "Eagon",
-    "numEvals": 35,
-    "overallRating": 3.2,
-    "materialClear": 3.15,
+    "numEvals": 36,
+    "overallRating": 3.22,
+    "materialClear": 3.17,
     "studentDifficulties": 3.12,
     "courses": [
       "CHEM 110",
@@ -36467,11 +36468,13 @@
       "CHEM 217"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Fast Response Time": 1,
       "Supplemental Study Material": 2,
       "Flexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -37503,10 +37506,10 @@
     "department": "AGB",
     "firstName": "Doug",
     "lastName": "Sawyer",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
       "AGB 201",
       "AGB 202"
