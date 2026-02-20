@@ -2679,16 +2679,22 @@
     "department": "ARCH",
     "firstName": "ansgar",
     "lastName": "killing",
-    "numEvals": 20,
-    "materialClear": 2,
-    "studentDifficulties": 2.14,
-    "overallRating": 2.14,
+    "numEvals": 21,
+    "overallRating": 2.23,
+    "materialClear": 2.1,
+    "studentDifficulties": 2.23,
     "courses": [
       "ARCH 106",
       "ARCH 251",
       "ARCH 252",
-      "ARCH 481"
-    ]
+      "ARCH 481",
+      "ARCH 241"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
+    }
   },
   {
     "id": "0e52c8d0-7cb9-40b2-95bf-1ebe5015964b",
@@ -6569,23 +6575,23 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 175,
-    "overallRating": 2.2,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.28,
+    "numEvals": 176,
+    "overallRating": 2.19,
+    "materialClear": 2.26,
+    "studentDifficulties": 2.27,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
       "Flexible Attendance Policy": 4,
-      "Pop Quizzes": 12,
-      "Inflexible Grading Policy": 13,
+      "Pop Quizzes": 13,
+      "Inflexible Grading Policy": 14,
       "Zoom Office Hours": 2,
       "Fast Response Time": 7,
       "Recorded Lectures": 4,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 6,
+      "Inflexible Deadline Policy": 7,
       "Hybrid Option": 4,
       "Does Not Use Canvas": 7,
       "Flexible Deadline Policy": 1
@@ -20523,10 +20529,10 @@
     "department": "EE",
     "firstName": "Jenna",
     "lastName": "Kloosterman",
-    "numEvals": 8,
-    "overallRating": 1.75,
-    "materialClear": 1.62,
-    "studentDifficulties": 1.75,
+    "numEvals": 9,
+    "overallRating": 2,
+    "materialClear": 1.88,
+    "studentDifficulties": 2,
     "courses": [
       "EE 242",
       "EE 201",
@@ -20537,8 +20543,10 @@
       "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
       "Inflexible Grading Policy": 2,
-      "Class Handouts": 1,
-      "Recorded Lectures": 1
+      "Class Handouts": 2,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
