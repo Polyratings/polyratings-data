@@ -10191,10 +10191,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 26,
-    "overallRating": 1.45,
-    "materialClear": 1.11,
-    "studentDifficulties": 2.08,
+    "numEvals": 27,
+    "overallRating": 1.43,
+    "materialClear": 1.07,
+    "studentDifficulties": 2.11,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -10210,7 +10210,8 @@
       "Honor DRC Accommodations": 1,
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -22073,10 +22074,10 @@
     "department": "PHYS",
     "firstName": "Pasha",
     "lastName": "Tabatabai",
-    "numEvals": 12,
-    "overallRating": 2.84,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.84,
+    "numEvals": 13,
+    "overallRating": 2.62,
+    "materialClear": 3.23,
+    "studentDifficulties": 2.62,
     "courses": [
       "PHYS 141",
       "PHYS 143",
@@ -22088,7 +22089,9 @@
       "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -27984,10 +27987,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 43,
-    "overallRating": 3.22,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.22,
+    "numEvals": 44,
+    "overallRating": 3.24,
+    "materialClear": 3.32,
+    "studentDifficulties": 3.24,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -28005,13 +28008,13 @@
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Recorded Lectures": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Flexible Attendance Policy": 1
     }
   },
@@ -30015,10 +30018,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 76,
-    "overallRating": 1.28,
+    "numEvals": 78,
+    "overallRating": 1.29,
     "materialClear": 1.24,
-    "studentDifficulties": 1.63,
+    "studentDifficulties": 1.61,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -30028,10 +30031,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 9,
-      "Inflexible Grading Policy": 12,
+      "Inflexible Grading Policy": 13,
       "Honor DRC Accommodations": 4,
       "High In-Person Availability": 8,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Flexible Deadline Policy": 16,
       "Flexible Grading Policy": 5,
       "Pop Quizzes": 2,
@@ -32939,10 +32942,10 @@
     "department": "PHYS",
     "firstName": "Lizvette",
     "lastName": "Villafa\u00f1a",
-    "numEvals": 12,
-    "overallRating": 2.59,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.66,
+    "numEvals": 13,
+    "overallRating": 2.39,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.46,
     "courses": [
       "ASTR 102",
       "PHYS 141",
@@ -35219,19 +35222,20 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 21,
-    "overallRating": 2.91,
-    "materialClear": 2.96,
-    "studentDifficulties": 3.14,
+    "numEvals": 22,
+    "overallRating": 2.96,
+    "materialClear": 3.01,
+    "studentDifficulties": 3.18,
     "courses": [
       "CHEM 124",
       "CHEM 125",
       "CHEM 127",
       "CHEM 128",
-      "CHEM 129"
+      "CHEM 129",
+      "CHEM 110"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Inflexible Attendance Policy": 4,
       "No Breaks During Lecture": 6,
       "Flexible Grading Policy": 2,
@@ -37092,10 +37096,10 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 64,
+    "numEvals": 65,
     "overallRating": 2.98,
-    "materialClear": 3.16,
-    "studentDifficulties": 2.81,
+    "materialClear": 3.13,
+    "studentDifficulties": 2.83,
     "courses": [
       "PHIL 230",
       "PHIL 231",
