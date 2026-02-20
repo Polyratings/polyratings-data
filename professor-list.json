@@ -3707,17 +3707,19 @@
     "department": "EE",
     "firstName": "Mohammad",
     "lastName": "Ghamari",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 1,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 0.5,
+    "studentDifficulties": 2,
     "courses": [
-      "EE"
+      "EE 308",
+      "EE 307"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -13573,10 +13575,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 22,
-    "overallRating": 0.37,
-    "materialClear": 0.73,
-    "studentDifficulties": 0.6,
+    "numEvals": 26,
+    "overallRating": 0.62,
+    "materialClear": 0.92,
+    "studentDifficulties": 0.82,
     "courses": [
       "ES 350",
       "WGS 350",
@@ -17598,10 +17600,10 @@
     "department": "STAT",
     "firstName": "Bret",
     "lastName": "Holladay",
-    "numEvals": 11,
-    "overallRating": 3,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.28,
+    "numEvals": 14,
+    "overallRating": 2.43,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.65,
     "courses": [
       "STAT 426",
       "STAT 324",
@@ -17613,7 +17615,7 @@
       "Fast Response Time": 2,
       "Inflexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -22146,17 +22148,20 @@
     "department": "PHIL",
     "firstName": "Patrick",
     "lastName": "Lin",
-    "numEvals": 18,
-    "overallRating": 3.2,
-    "materialClear": 3.2,
-    "studentDifficulties": 2.99,
+    "numEvals": 22,
+    "overallRating": 2.62,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.44,
     "courses": [
       "PHIL 101",
       "PHIL 231",
       "PHIL 323",
       "PHIL 334"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    }
   },
   {
     "id": "777000c8-22f7-4113-b50d-3506b49e6d78",
@@ -43774,21 +43779,24 @@
     "department": "STAT",
     "firstName": "Julia",
     "lastName": "Schedler",
-    "numEvals": 9,
-    "overallRating": 1.78,
-    "materialClear": 1.33,
-    "studentDifficulties": 2.78,
+    "numEvals": 18,
+    "overallRating": 2.89,
+    "materialClear": 2.66,
+    "studentDifficulties": 3.39,
     "courses": [
       "STAT 312",
       "STAT 425",
-      "STAT 416"
+      "STAT 416",
+      "STAT 334"
     ],
     "tags": {
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1,
+      "Uploads Slides": 3,
+      "Fast Response Time": 3,
       "Flexible Deadline Policy": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
