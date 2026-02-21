@@ -9592,10 +9592,10 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 15,
-    "overallRating": 2.13,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.8,
+    "numEvals": 16,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2.69,
     "courses": [
       "ENGL 145",
       "ENGL 134"
@@ -26097,10 +26097,10 @@
     "department": "PHYS",
     "firstName": "Kevin",
     "lastName": "Coulombe",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
       "PHYS 104"
     ],
@@ -34002,9 +34002,9 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 3.8,
-    "materialClear": 3.57,
+    "materialClear": 3.58,
     "studentDifficulties": 3.83,
     "courses": [
       "ECON 222",
@@ -45548,17 +45548,20 @@
     "department": "ARCH",
     "firstName": "Clare",
     "lastName": "Olsen",
-    "numEvals": 6,
-    "overallRating": 3.73,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.6,
+    "numEvals": 7,
+    "overallRating": 3.63,
+    "materialClear": 3.06,
+    "studentDifficulties": 3.51,
     "courses": [
       "ARCH 131",
-      "ARCH 253"
+      "ARCH 253",
+      "ARCH 351"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1
+      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
