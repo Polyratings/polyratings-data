@@ -2769,10 +2769,10 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 36,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 37,
+    "overallRating": 3.89,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.89,
     "courses": [
       "POLS 112",
       "POLS 310",
@@ -26097,10 +26097,10 @@
     "department": "PHYS",
     "firstName": "Kevin",
     "lastName": "Coulombe",
-    "numEvals": 4,
-    "overallRating": 2,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 7,
+    "overallRating": 1.14,
+    "materialClear": 1.71,
+    "studentDifficulties": 1.71,
     "courses": [
       "PHYS 104"
     ],
@@ -29612,15 +29612,17 @@
     "department": "CE",
     "firstName": "Wesley",
     "lastName": "Thompson",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.67,
     "courses": [
-      "CE 322"
+      "CE 322",
+      "CE 113"
     ],
     "tags": {
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -32574,10 +32576,10 @@
     "department": "COMS",
     "firstName": "Frank",
     "lastName": "Bucquoy",
-    "numEvals": 23,
-    "overallRating": 2.77,
-    "materialClear": 2.71,
-    "studentDifficulties": 3.14,
+    "numEvals": 24,
+    "overallRating": 2.74,
+    "materialClear": 2.68,
+    "studentDifficulties": 3.09,
     "courses": [
       "COMS 101",
       "ENGL 101",
@@ -32590,7 +32592,7 @@
       "Inflexible Attendance Policy": 5,
       "No Breaks During Lecture": 2,
       "Class Handouts": 3,
-      "Flexible Deadline Policy": 7,
+      "Flexible Deadline Policy": 8,
       "Honor DRC Accommodations": 3,
       "High In-Person Availability": 2,
       "Zoom Office Hours": 1,
