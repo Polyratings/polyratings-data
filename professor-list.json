@@ -22521,10 +22521,10 @@
     "department": "CHEM",
     "firstName": "Javin",
     "lastName": "Oza",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 2,
-    "materialClear": 2.33,
-    "studentDifficulties": 3.33,
+    "materialClear": 2.2,
+    "studentDifficulties": 3.2,
     "courses": [
       "CHEM 124",
       "CHEM 127",
@@ -25795,10 +25795,10 @@
     "department": "ITP",
     "firstName": "German",
     "lastName": "Serna",
-    "numEvals": 11,
+    "numEvals": 12,
     "overallRating": 1,
-    "materialClear": 0.64,
-    "studentDifficulties": 1.26,
+    "materialClear": 0.59,
+    "studentDifficulties": 1.32,
     "courses": [
       "ITP 371",
       "IME 100",
@@ -25809,9 +25809,10 @@
     ],
     "tags": {
       "Uploads Slides": 2,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -27772,19 +27773,20 @@
     "department": "DSCI",
     "firstName": "Joy",
     "lastName": "Altermatt",
-    "numEvals": 7,
-    "overallRating": 3,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.57,
+    "numEvals": 8,
+    "overallRating": 3.13,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.75,
     "courses": [
       "AGED 105",
       "DSCI 330",
       "DSCI 422"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -40341,10 +40343,10 @@
     "department": "ASCI",
     "firstName": "Kim",
     "lastName": "Sprayberry",
-    "numEvals": 17,
-    "overallRating": 3.89,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.89,
+    "numEvals": 18,
+    "overallRating": 3.9,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.9,
     "courses": [
       "ASCI 229",
       "ASCI 438",
@@ -40352,9 +40354,10 @@
       "ASCI 310"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Uploads Slides": 3,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
