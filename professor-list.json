@@ -2892,6 +2892,22 @@
     ]
   },
   {
+    "id": "0e8aa283-e9a9-46b2-b9de-174535c78915",
+    "department": "BUS",
+    "firstName": "Alec",
+    "lastName": "Lance",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 1,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Pop Quizzes": 1
+    }
+  },
+  {
     "id": "0e9198bf-415d-4faf-acfa-d4b16280aba8",
     "department": "BIO",
     "firstName": "Tony",
@@ -6447,6 +6463,27 @@
     ]
   },
   {
+    "id": "21203161-b297-47b4-addc-290ae3d3f38c",
+    "department": "MU",
+    "firstName": "Ana",
+    "lastName": "Nelson",
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.67,
+    "studentDifficulties": 4,
+    "courses": [
+      "MU 120"
+    ],
+    "tags": {
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 2,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1
+    }
+  },
+  {
     "id": "2139472c-5dc1-4af0-b317-6ccde815efbf",
     "department": "CSC",
     "firstName": "Silas",
@@ -7738,6 +7775,24 @@
     }
   },
   {
+    "id": "28fa96e1-4e80-4f7d-8a42-dc8fbd76bb5d",
+    "department": "BUS",
+    "firstName": "Ashish",
+    "lastName": "Hingle",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "IS"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "2904107f-6ddc-4802-8d52-942f508eb914",
     "department": "ENGL",
     "firstName": "Isabell",
@@ -8042,6 +8097,24 @@
       "Inflexible Attendance Policy": 5,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1
+    }
+  },
+  {
+    "id": "2b107a64-757b-422c-a897-c268eef96d01",
+    "department": "AGB",
+    "firstName": "WIlliam",
+    "lastName": "Townsed",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "AGB"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -17769,10 +17842,10 @@
     "department": "STAT",
     "firstName": "Bret",
     "lastName": "Holladay",
-    "numEvals": 14,
-    "overallRating": 2.43,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.65,
+    "numEvals": 15,
+    "overallRating": 2.4,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.47,
     "courses": [
       "STAT 426",
       "STAT 324",
@@ -26261,10 +26334,10 @@
     "department": "PHYS",
     "firstName": "Kevin",
     "lastName": "Coulombe",
-    "numEvals": 9,
-    "overallRating": 0.89,
-    "materialClear": 0.89,
-    "studentDifficulties": 0.89,
+    "numEvals": 10,
+    "overallRating": 0.8,
+    "materialClear": 0.8,
+    "studentDifficulties": 0.8,
     "courses": [
       "PHYS 104"
     ],
