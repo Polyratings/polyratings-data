@@ -5670,10 +5670,10 @@
     "department": "ME",
     "firstName": "Leily",
     "lastName": "Majidi",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "ME 343",
       "ME 341",
@@ -5683,8 +5683,9 @@
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 3,
       "Inflexible Grading Policy": 1,
-      "Class Handouts": 2,
-      "Uploads Slides": 2
+      "Class Handouts": 3,
+      "Uploads Slides": 3,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -6097,19 +6098,20 @@
     "department": "KINE",
     "firstName": "Nicole",
     "lastName": "Hagobian",
-    "numEvals": 17,
-    "overallRating": 2.21,
-    "materialClear": 2.43,
-    "studentDifficulties": 2.32,
+    "numEvals": 18,
+    "overallRating": 2.31,
+    "materialClear": 2.52,
+    "studentDifficulties": 2.41,
     "courses": [
       "KINE 323",
       "KINE 324",
       "KINE 266"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -6192,9 +6194,9 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 175,
-    "overallRating": 3.15,
-    "materialClear": 3.17,
+    "numEvals": 176,
+    "overallRating": 3.14,
+    "materialClear": 3.16,
     "studentDifficulties": 3.2,
     "courses": [
       "BUS 102",
@@ -6208,12 +6210,12 @@
       "BUS 433"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Supplemental Study Material": 3,
       "Fast Response Time": 6,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
-      "Zoom Office Hours": 7,
+      "Zoom Office Hours": 8,
       "Uploads Slides": 6,
       "Flexible Attendance Policy": 2,
       "Class Handouts": 1
@@ -13081,14 +13083,18 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Eblen",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "MATH 143"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "4532007c-63bf-4453-abc1-59500bd4fae3",
@@ -13713,7 +13719,7 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 58,
+    "numEvals": 59,
     "overallRating": 3.79,
     "materialClear": 3.76,
     "studentDifficulties": 3.78,
@@ -13723,7 +13729,7 @@
       "ENGL 149"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 7,
+      "Inflexible Attendance Policy": 8,
       "Class Handouts": 2,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 3,
@@ -18656,10 +18662,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 43,
-    "overallRating": 2.73,
-    "materialClear": 2.53,
-    "studentDifficulties": 3.02,
+    "numEvals": 44,
+    "overallRating": 2.67,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.95,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18672,11 +18678,12 @@
       "Flexible Grading Policy": 4,
       "Uploads Slides": 17,
       "Supplemental Study Material": 9,
-      "Fast Response Time": 5,
-      "Flexible Attendance Policy": 14,
+      "Fast Response Time": 6,
+      "Flexible Attendance Policy": 15,
       "Class Handouts": 2,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 2,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -30273,10 +30280,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 78,
-    "overallRating": 1.29,
-    "materialClear": 1.24,
-    "studentDifficulties": 1.61,
+    "numEvals": 83,
+    "overallRating": 1.22,
+    "materialClear": 1.18,
+    "studentDifficulties": 1.51,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -30286,8 +30293,8 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 9,
-      "Inflexible Grading Policy": 13,
-      "Honor DRC Accommodations": 4,
+      "Inflexible Grading Policy": 15,
+      "Honor DRC Accommodations": 5,
       "High In-Person Availability": 8,
       "Fast Response Time": 6,
       "Flexible Deadline Policy": 16,
@@ -30297,7 +30304,7 @@
       "No Breaks During Lecture": 5,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 4
+      "Inflexible Deadline Policy": 5
     }
   },
   {
@@ -30731,10 +30738,10 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 67,
-    "overallRating": 2.94,
+    "numEvals": 68,
+    "overallRating": 2.93,
     "materialClear": 2.87,
-    "studentDifficulties": 2.85,
+    "studentDifficulties": 2.84,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -33166,10 +33173,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 71,
-    "overallRating": 2.96,
-    "materialClear": 2.93,
-    "studentDifficulties": 2.83,
+    "numEvals": 73,
+    "overallRating": 2.9,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.75,
     "courses": [
       "ME 129",
       "ME 130",
@@ -33178,7 +33185,8 @@
       "ME 212",
       "ME 228",
       "ME 251",
-      "ME 318"
+      "ME 318",
+      "ME 341"
     ],
     "tags": {
       "High In-Person Availability": 5,
@@ -36418,10 +36426,10 @@
     "department": "PHYS",
     "firstName": "Glen",
     "lastName": "Gillen",
-    "numEvals": 54,
-    "overallRating": 2.97,
-    "materialClear": 2.98,
-    "studentDifficulties": 2.9,
+    "numEvals": 55,
+    "overallRating": 2.99,
+    "materialClear": 3,
+    "studentDifficulties": 2.92,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -36437,11 +36445,11 @@
     "tags": {
       "High In-Person Availability": 2,
       "Supplemental Study Material": 2,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 3,
       "Fast Response Time": 2,
       "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     }
   },
   {
