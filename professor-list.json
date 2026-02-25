@@ -2849,7 +2849,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 36,
+    "numEvals": 37,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -2865,9 +2865,9 @@
       "Supplemental Study Material": 9,
       "Fast Response Time": 14,
       "Flexible Grading Policy": 10,
-      "Flexible Deadline Policy": 6,
+      "Flexible Deadline Policy": 7,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Honor DRC Accommodations": 1
     }
   },
@@ -2896,12 +2896,12 @@
     "department": "BUS",
     "firstName": "Alec",
     "lastName": "Lance",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 0,
+    "materialClear": 0.5,
     "studentDifficulties": 1,
     "courses": [
-      "BUS"
+      "BUS 439"
     ],
     "tags": {
       "Pop Quizzes": 1
@@ -9567,10 +9567,10 @@
     "department": "ASCI",
     "firstName": "Sarah",
     "lastName": "Stewart",
-    "numEvals": 11,
-    "overallRating": 3.72,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.28,
+    "numEvals": 12,
+    "overallRating": 3.74,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.34,
     "courses": [
       "ASCI 224",
       "ASCI 112",
@@ -9579,7 +9579,7 @@
     "tags": {
       "Fast Response Time": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Inflexible Attendance Policy": 2,
       "High In-Person Availability": 1,
       "Class Handouts": 2
@@ -18665,10 +18665,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 45,
-    "overallRating": 2.61,
-    "materialClear": 2.42,
-    "studentDifficulties": 2.88,
+    "numEvals": 46,
+    "overallRating": 2.62,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.9,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -18679,10 +18679,10 @@
     "tags": {
       "Zoom Office Hours": 12,
       "Flexible Grading Policy": 4,
-      "Uploads Slides": 17,
+      "Uploads Slides": 18,
       "Supplemental Study Material": 9,
-      "Fast Response Time": 6,
-      "Flexible Attendance Policy": 16,
+      "Fast Response Time": 7,
+      "Flexible Attendance Policy": 17,
       "Class Handouts": 2,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 2,
@@ -20301,10 +20301,10 @@
     "department": "CPE",
     "firstName": "Maria",
     "lastName": "Pantoja",
-    "numEvals": 6,
-    "overallRating": 3.33,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.43,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.72,
     "courses": [
       "CPE 333",
       "CPE 419"
@@ -26546,7 +26546,7 @@
     "department": "CHEM",
     "firstName": "Ruoxi",
     "lastName": "Wang",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 4,
     "materialClear": 3.93,
     "studentDifficulties": 4,
@@ -26558,14 +26558,15 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 4,
-      "Class Handouts": 8,
+      "Class Handouts": 9,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 5,
       "Fast Response Time": 5,
       "Inflexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 8,
-      "Recorded Lectures": 1
+      "Supplemental Study Material": 9,
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -26871,10 +26872,10 @@
     "department": "COMS",
     "firstName": "Alexa",
     "lastName": "Loken",
-    "numEvals": 18,
-    "overallRating": 3.89,
+    "numEvals": 19,
+    "overallRating": 3.9,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.63,
     "courses": [
       "COMS 101",
       "BUS 206",
@@ -30139,10 +30140,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 161,
-    "overallRating": 2.19,
-    "materialClear": 2.26,
-    "studentDifficulties": 1.98,
+    "numEvals": 162,
+    "overallRating": 2.18,
+    "materialClear": 2.25,
+    "studentDifficulties": 1.97,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -32789,10 +32790,10 @@
     "department": "CSC",
     "firstName": "Bruce",
     "lastName": "DeBruhl",
-    "numEvals": 6,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.71,
-    "overallRating": 3.43,
+    "numEvals": 7,
+    "overallRating": 3.37,
+    "materialClear": 3.11,
+    "studentDifficulties": 3.75,
     "courses": [
       "CSC 123",
       "CSC 315",
@@ -32800,7 +32801,8 @@
       "CSC 321",
       "CSC 325",
       "CSC 429"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b2bb1539-1202-4e45-99ea-0d9a8c2b45aa",
@@ -38019,12 +38021,13 @@
     "department": "ASCI",
     "firstName": "Julie",
     "lastName": "Yuhas",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ASCI 112"
+      "ASCI 112",
+      "ASCI 211"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -40810,10 +40813,10 @@
     "department": "ASCI",
     "firstName": "Jaymie",
     "lastName": "Noland",
-    "numEvals": 35,
-    "overallRating": 3.22,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.03,
+    "numEvals": 36,
+    "overallRating": 3.24,
+    "materialClear": 3.24,
+    "studentDifficulties": 3.06,
     "courses": [
       "ASCI 101",
       "ASCI 102",
@@ -40821,7 +40824,8 @@
       "ASCI 201",
       "ASCI 223",
       "VS 223",
-      "ASCI 227"
+      "ASCI 227",
+      "ASCI 490"
     ],
     "tags": {
       "Hybrid Option": 1,
@@ -46124,10 +46128,10 @@
     "department": "ASCI",
     "firstName": "Marc",
     "lastName": "Horney",
-    "numEvals": 27,
-    "overallRating": 2.98,
-    "materialClear": 2.93,
-    "studentDifficulties": 3.16,
+    "numEvals": 28,
+    "overallRating": 2.95,
+    "materialClear": 2.9,
+    "studentDifficulties": 3.12,
     "courses": [
       "ASCI 112",
       "ASCI 220",
@@ -46138,10 +46142,11 @@
       "ASCI 239"
     ],
     "tags": {
-      "Recorded Lectures": 5,
+      "Recorded Lectures": 6,
       "Supplemental Study Material": 1,
       "Uploads Slides": 5,
-      "Hybrid Option": 2
+      "Hybrid Option": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
