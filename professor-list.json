@@ -9412,10 +9412,10 @@
     "department": "IME",
     "firstName": "Sean",
     "lastName": "Gager",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "IME 146"
     ],
@@ -18695,10 +18695,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 165,
-    "overallRating": 2.42,
+    "numEvals": 167,
+    "overallRating": 2.44,
     "materialClear": 2.2,
-    "studentDifficulties": 2.38,
+    "studentDifficulties": 2.4,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -18723,7 +18723,7 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Does Not Use Canvas": 17,
+      "Does Not Use Canvas": 18,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 6,
       "Flexible Deadline Policy": 2,
@@ -23166,10 +23166,10 @@
     "department": "COMS",
     "firstName": "Ritch",
     "lastName": "Woffinden",
-    "numEvals": 18,
-    "overallRating": 2.72,
-    "materialClear": 3.23,
-    "studentDifficulties": 3,
+    "numEvals": 19,
+    "overallRating": 2.68,
+    "materialClear": 3.27,
+    "studentDifficulties": 2.84,
     "courses": [
       "COMS 101",
       "COMS 213"
@@ -29806,10 +29806,10 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 22,
-    "overallRating": 3.65,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.73,
+    "numEvals": 23,
+    "overallRating": 3.67,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.74,
     "courses": [
       "CHEM 124",
       "PHYS 141",
@@ -29817,11 +29817,11 @@
       "PHYS 142"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Class Handouts": 1,
       "Flexible Grading Policy": 4,
-      "Fast Response Time": 7,
-      "Uploads Slides": 8,
+      "Fast Response Time": 8,
+      "Uploads Slides": 9,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 1
@@ -37273,13 +37273,14 @@
     "department": "IME",
     "firstName": "Bryan",
     "lastName": "Lutz",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "IME 144",
-      "ME 128"
+      "ME 128",
+      "IME 142"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -37428,17 +37429,20 @@
     "department": "LS",
     "firstName": "Juleen",
     "lastName": "Packard",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "LS"
+      "LS 211"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -41717,15 +41721,16 @@
     "department": "MATE",
     "firstName": "Brian",
     "lastName": "Davis",
-    "numEvals": 9,
-    "overallRating": 3.66,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.79,
+    "numEvals": 10,
+    "overallRating": 3.69,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.81,
     "courses": [
       "MATE 210",
       "MATE 215",
       "ME 228",
-      "ME 404"
+      "ME 404",
+      "ME 129"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -42882,9 +42887,9 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 3.94,
-    "materialClear": 3.76,
+    "materialClear": 3.77,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -45031,10 +45036,10 @@
     "department": "ES",
     "firstName": "Grace",
     "lastName": "YEh",
-    "numEvals": 45,
-    "overallRating": 3.31,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.34,
+    "numEvals": 46,
+    "overallRating": 3.26,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.35,
     "courses": [
       "ES 244",
       "ES 322",
