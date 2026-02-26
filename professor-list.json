@@ -2929,10 +2929,10 @@
     "department": "BUS",
     "firstName": "Alec",
     "lastName": "Lance",
-    "numEvals": 9,
-    "overallRating": 0.78,
-    "materialClear": 0.45,
-    "studentDifficulties": 0.78,
+    "numEvals": 10,
+    "overallRating": 0.7,
+    "materialClear": 0.41,
+    "studentDifficulties": 0.7,
     "courses": [
       "BUS 439"
     ],
@@ -23150,16 +23150,16 @@
     "department": "BUS",
     "firstName": "Vinicios",
     "lastName": "Sant'Anna",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 434"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -26365,16 +26365,18 @@
   {
     "id": "8cc1aa56-6c0d-4b0e-8a98-4469e7d1f533",
     "department": "WGS",
-    "firstName": "Gabriel ",
+    "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
     "materialClear": 0,
     "studentDifficulties": 0,
     "courses": [
-      "WGS"
+      "WGS 350"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "8cd410f7-e422-4f27-843f-d880a832245f",
@@ -27529,19 +27531,22 @@
     "department": "CHEM",
     "firstName": "Sandra",
     "lastName": "Ward",
-    "numEvals": 6,
-    "overallRating": 2,
-    "materialClear": 2.67,
-    "studentDifficulties": 2,
+    "numEvals": 7,
+    "overallRating": 2.14,
+    "materialClear": 2.72,
+    "studentDifficulties": 2.29,
     "courses": [
       "CHEM 216",
       "CHEM 128",
-      "CHEM 125"
+      "CHEM 125",
+      "CHEM 217"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Supplemental Study Material": 1,
-      "Pop Quizzes": 1
+      "Supplemental Study Material": 2,
+      "Pop Quizzes": 1,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
