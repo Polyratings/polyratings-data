@@ -167,10 +167,10 @@
     "department": "ART",
     "firstName": "Jefferson",
     "lastName": "Clarke",
-    "numEvals": 13,
-    "overallRating": 2.38,
-    "materialClear": 2.95,
-    "studentDifficulties": 3.04,
+    "numEvals": 14,
+    "overallRating": 2.5,
+    "materialClear": 3.03,
+    "studentDifficulties": 3.11,
     "courses": [
       "ART 101",
       "ART 121",
@@ -179,7 +179,9 @@
       "ART 221",
       "ART 222"
     ],
-    "tags": {}
+    "tags": {
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "01a36da7-aa2e-4035-9c30-3e4e4f1a8a57",
@@ -4279,10 +4281,10 @@
     "department": "PHYS",
     "firstName": "Anthony",
     "lastName": "Buffa",
-    "numEvals": 60,
-    "overallRating": 2.66,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.63,
+    "numEvals": 61,
+    "overallRating": 2.68,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.65,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -4293,15 +4295,15 @@
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
-      "Does Not Use Canvas": 8,
+      "Does Not Use Canvas": 9,
       "No Breaks During Lecture": 3,
       "High In-Person Availability": 3,
       "Supplemental Study Material": 2,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Class Handouts": 1
     }
   },
@@ -19977,10 +19979,10 @@
     "department": "CHEM",
     "firstName": "Matthew",
     "lastName": "Zoerb",
-    "numEvals": 7,
-    "overallRating": 3.43,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 3.25,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.13,
     "courses": [
       "CHEM 125",
       "CHEM 331"
@@ -19990,7 +19992,9 @@
       "Flexible Attendance Policy": 1,
       "Uploads Slides": 1,
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -26579,10 +26583,10 @@
     "department": "PHYS",
     "firstName": "Kevin",
     "lastName": "Coulombe",
-    "numEvals": 8,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 10,
+    "overallRating": 0.8,
+    "materialClear": 0.8,
+    "studentDifficulties": 0.8,
     "courses": [
       "PHYS 104"
     ],
@@ -40279,9 +40283,9 @@
     "department": "CHEM",
     "firstName": "Kevin",
     "lastName": "Kingsbury",
-    "numEvals": 49,
+    "numEvals": 50,
     "overallRating": 2.99,
-    "materialClear": 3.06,
+    "materialClear": 3.08,
     "studentDifficulties": 2.91,
     "courses": [
       "CHEM 110",
@@ -40300,9 +40304,9 @@
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Does Not Use Canvas": 2,
       "Flexible Grading Policy": 1
     }
@@ -46010,10 +46014,10 @@
     "department": "PHYS",
     "firstName": "Colleen",
     "lastName": "Marlow",
-    "numEvals": 57,
-    "overallRating": 1.45,
-    "materialClear": 1.52,
-    "studentDifficulties": 1.44,
+    "numEvals": 58,
+    "overallRating": 1.44,
+    "materialClear": 1.56,
+    "studentDifficulties": 1.48,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -46024,10 +46028,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 5,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
       "No Breaks During Lecture": 1,
