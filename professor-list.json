@@ -11742,10 +11742,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 76,
+    "numEvals": 77,
     "overallRating": 2.25,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.11,
+    "materialClear": 2.54,
+    "studentDifficulties": 2.08,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -11768,7 +11768,7 @@
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 1
     }
@@ -14143,10 +14143,10 @@
     "department": "BUS",
     "firstName": "Jim",
     "lastName": "Kaney",
-    "numEvals": 71,
-    "overallRating": 3.17,
-    "materialClear": 3.23,
-    "studentDifficulties": 3.06,
+    "numEvals": 72,
+    "overallRating": 3.15,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.02,
     "courses": [
       "BUS 212",
       "BUS 214",
@@ -14157,11 +14157,11 @@
       "BUS 440"
     ],
     "tags": {
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Pop Quizzes": 1,
       "Uploads Slides": 3,
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "No Breaks During Lecture": 1,
       "Fast Response Time": 1,
       "Inflexible Deadline Policy": 1,
@@ -19642,10 +19642,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 49,
-    "overallRating": 2.91,
-    "materialClear": 3.31,
-    "studentDifficulties": 2.56,
+    "numEvals": 50,
+    "overallRating": 2.93,
+    "materialClear": 3.32,
+    "studentDifficulties": 2.59,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -19659,12 +19659,14 @@
       "Fast Response Time": 9,
       "High In-Person Availability": 6,
       "Flexible Attendance Policy": 4,
-      "Flexible Grading Policy": 3,
+      "Flexible Grading Policy": 4,
       "No Breaks During Lecture": 5,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 2,
-      "Honor DRC Accommodations": 2
+      "Honor DRC Accommodations": 2,
+      "Does Not Use Canvas": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -24617,10 +24619,10 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 84,
-    "overallRating": 2.99,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.14,
+    "numEvals": 85,
+    "overallRating": 2.97,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.13,
     "courses": [
       "ME 134",
       "ME 231",
@@ -24635,10 +24637,10 @@
       "Class Handouts": 2,
       "Supplemental Study Material": 2,
       "Inflexible Deadline Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 2
+      "Flexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 3
     }
   },
   {
@@ -27645,10 +27647,10 @@
     "department": "AGB",
     "firstName": "Hong",
     "lastName": "Hoang",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.5,
     "courses": [
       "AGB 369",
       "BUS 302"
@@ -27656,7 +27658,9 @@
     "tags": {
       "Flexible Grading Policy": 1,
       "Uploads Slides": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -32682,10 +32686,10 @@
     "department": "MATH",
     "firstName": "McFeely",
     "lastName": "Goodman",
-    "numEvals": 20,
-    "overallRating": 3.3,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.45,
+    "numEvals": 21,
+    "overallRating": 3.33,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.48,
     "courses": [
       "MATH 241",
       "MATH 143",
@@ -32697,12 +32701,14 @@
       "Honor DRC Accommodations": 2,
       "High In-Person Availability": 9,
       "Inflexible Attendance Policy": 6,
-      "Supplemental Study Material": 5,
+      "Supplemental Study Material": 6,
       "Fast Response Time": 6,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 2,
       "Inflexible Grading Policy": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Pop Quizzes": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -39376,10 +39382,10 @@
     "department": "ARCE",
     "firstName": "Andrew",
     "lastName": "Guyader",
-    "numEvals": 65,
-    "overallRating": 1.59,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.52,
+    "numEvals": 66,
+    "overallRating": 1.63,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.56,
     "courses": [
       "ARCE 204",
       "CE 204",
@@ -39395,7 +39401,10 @@
     "tags": {
       "Flexible Deadline Policy": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
