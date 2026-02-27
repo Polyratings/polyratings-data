@@ -1691,10 +1691,10 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Burt",
-    "numEvals": 21,
-    "overallRating": 3.73,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.63,
+    "numEvals": 22,
+    "overallRating": 3.74,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.65,
     "courses": [
       "BUS 214",
       "BUS 215"
@@ -19231,20 +19231,21 @@
     "department": "CHEM",
     "firstName": "Bonnie",
     "lastName": "Hall",
-    "numEvals": 7,
-    "overallRating": 3.57,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.72,
+    "numEvals": 8,
+    "overallRating": 3.5,
+    "materialClear": 3.01,
+    "studentDifficulties": 3.76,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 4,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 3
+      "Uploads Slides": 4,
+      "Class Handouts": 1
     }
   },
   {
@@ -26598,10 +26599,10 @@
     "department": "PHYS",
     "firstName": "Kevin",
     "lastName": "Coulombe",
-    "numEvals": 10,
-    "overallRating": 0.8,
-    "materialClear": 0.8,
-    "studentDifficulties": 0.8,
+    "numEvals": 11,
+    "overallRating": 0.73,
+    "materialClear": 0.73,
+    "studentDifficulties": 0.73,
     "courses": [
       "PHYS 104"
     ],
@@ -31407,10 +31408,10 @@
     "department": "MATH",
     "firstName": "Vincent",
     "lastName": "Bonini",
-    "numEvals": 50,
-    "overallRating": 3.54,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.38,
+    "numEvals": 51,
+    "overallRating": 3.55,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.39,
     "courses": [
       "MATH 141",
       "MATH 143",
@@ -31421,15 +31422,15 @@
       "MATH 306"
     ],
     "tags": {
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Uploads Slides": 1,
       "Does Not Use Canvas": 2,
       "Flexible Attendance Policy": 1,
       "Recorded Lectures": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
@@ -36693,10 +36694,10 @@
     "department": "PHYS",
     "firstName": "Glen",
     "lastName": "Gillen",
-    "numEvals": 55,
-    "overallRating": 2.99,
-    "materialClear": 3,
-    "studentDifficulties": 2.92,
+    "numEvals": 56,
+    "overallRating": 3.01,
+    "materialClear": 3.02,
+    "studentDifficulties": 2.94,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -36716,7 +36717,8 @@
       "Flexible Attendance Policy": 3,
       "Fast Response Time": 2,
       "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -44179,10 +44181,10 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 28,
-    "overallRating": 3.94,
-    "materialClear": 3.87,
-    "studentDifficulties": 4,
+    "numEvals": 29,
+    "overallRating": 3.87,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.97,
     "courses": [
       "PHYS 142",
       "PHYS 121",
