@@ -640,10 +640,10 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "OLeary",
-    "numEvals": 12,
-    "overallRating": 3.5,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.67,
+    "numEvals": 13,
+    "overallRating": 3.54,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.7,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -13019,21 +13019,21 @@
     "department": "COMS",
     "firstName": "Sandra",
     "lastName": "Valois",
-    "numEvals": 15,
-    "overallRating": 3.87,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.41,
+    "numEvals": 16,
+    "overallRating": 3.88,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.45,
     "courses": [
       "COMS 101",
       "COMS 213"
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 7,
+      "Flexible Attendance Policy": 8,
       "Flexible Deadline Policy": 5,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 4,
-      "Uploads Slides": 2
+      "Uploads Slides": 3
     }
   },
   {
@@ -25782,16 +25782,16 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 11,
-    "overallRating": 3.37,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.09,
+    "numEvals": 12,
+    "overallRating": 3.34,
+    "materialClear": 3.41,
+    "studentDifficulties": 2.92,
     "courses": [
       "BUS 410"
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Flexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
       "Inflexible Attendance Policy": 2,
@@ -25800,7 +25800,9 @@
       "No Breaks During Lecture": 1,
       "Honor DRC Accommodations": 1,
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -28837,10 +28839,10 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 26,
-    "overallRating": 2.76,
-    "materialClear": 3.08,
-    "studentDifficulties": 2.95,
+    "numEvals": 27,
+    "overallRating": 2.81,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.99,
     "courses": [
       "ENGL 231",
       "ENGL 305",
@@ -28853,13 +28855,13 @@
       "Hybrid Option": 1,
       "Recorded Lectures": 1,
       "Inflexible Deadline Policy": 1,
-      "Flexible Attendance Policy": 3,
-      "Pop Quizzes": 7,
+      "Flexible Attendance Policy": 4,
+      "Pop Quizzes": 8,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 2,
       "Inflexible Grading Policy": 2,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Fast Response Time": 1
     }
   },
@@ -41209,16 +41211,16 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 22,
-    "overallRating": 0.41,
-    "materialClear": 0.17,
-    "studentDifficulties": 0.72,
+    "numEvals": 23,
+    "overallRating": 0.39,
+    "materialClear": 0.16,
+    "studentDifficulties": 0.69,
     "courses": [
       "CHEM 127",
       "CHEM 128"
     ],
     "tags": {
-      "No Breaks During Lecture": 8,
+      "No Breaks During Lecture": 9,
       "Inflexible Attendance Policy": 5,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
@@ -43851,16 +43853,16 @@
     "department": "PSY",
     "firstName": "Tessa",
     "lastName": "Sun",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "PSY"
+      "PSY 252"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Uploads Slides": 1
     }
   },
