@@ -10943,10 +10943,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 25,
-    "overallRating": 2.53,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.48,
+    "numEvals": 27,
+    "overallRating": 2.49,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.37,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -18227,10 +18227,10 @@
     "department": "ENGL",
     "firstName": "William",
     "lastName": "Walters",
-    "numEvals": 81,
+    "numEvals": 82,
     "overallRating": 2.68,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.72,
+    "materialClear": 2.72,
+    "studentDifficulties": 2.74,
     "courses": [
       "ENGL 101",
       "ENGL 134",
@@ -18241,8 +18241,8 @@
     ],
     "tags": {
       "Zoom Office Hours": 4,
-      "Pop Quizzes": 3,
-      "Inflexible Grading Policy": 2,
+      "Pop Quizzes": 4,
+      "Inflexible Grading Policy": 3,
       "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1
     }
@@ -18671,10 +18671,10 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 8,
-    "overallRating": 2.87,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.5,
+    "numEvals": 9,
+    "overallRating": 2.66,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.22,
     "courses": [
       "BUS 346",
       "BUS 451"
@@ -18682,7 +18682,9 @@
     "tags": {
       "Zoom Office Hours": 2,
       "Fast Response Time": 3,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -22446,10 +22448,10 @@
     "department": "ARCH",
     "firstName": "Ryan",
     "lastName": "Brockett",
-    "numEvals": 11,
-    "overallRating": 2.79,
-    "materialClear": 2.78,
-    "studentDifficulties": 2.78,
+    "numEvals": 12,
+    "overallRating": 2.81,
+    "materialClear": 2.72,
+    "studentDifficulties": 2.8,
     "courses": [
       "ARCH 131",
       "ARCH 132",
@@ -25782,16 +25784,16 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 12,
-    "overallRating": 3.34,
-    "materialClear": 3.41,
-    "studentDifficulties": 2.92,
+    "numEvals": 13,
+    "overallRating": 3.39,
+    "materialClear": 3.46,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 410"
     ],
     "tags": {
       "Supplemental Study Material": 2,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
       "Inflexible Attendance Policy": 2,
@@ -25799,8 +25801,8 @@
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
       "Honor DRC Accommodations": 1,
-      "Zoom Office Hours": 1,
-      "High In-Person Availability": 1,
+      "Zoom Office Hours": 2,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Pop Quizzes": 1
     }
@@ -40772,9 +40774,9 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 30,
-    "overallRating": 3.88,
-    "materialClear": 3.96,
+    "numEvals": 31,
+    "overallRating": 3.85,
+    "materialClear": 3.93,
     "studentDifficulties": 3.88,
     "courses": [
       "MATH 141",
@@ -40792,7 +40794,8 @@
       "Supplemental Study Material": 8,
       "Flexible Grading Policy": 4,
       "Honor DRC Accommodations": 6,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
