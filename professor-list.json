@@ -4371,10 +4371,10 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 10,
-    "overallRating": 0.5,
-    "materialClear": 0.9,
-    "studentDifficulties": 1.11,
+    "numEvals": 11,
+    "overallRating": 0.45,
+    "materialClear": 0.82,
+    "studentDifficulties": 1.01,
     "courses": [
       "MATH 118"
     ],
@@ -24039,10 +24039,10 @@
     "department": "BUS",
     "firstName": "Scott",
     "lastName": "Hoppe",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 2.67,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
       "BUS 214"
     ],
@@ -24209,10 +24209,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 25,
-    "overallRating": 1.49,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.92,
+    "numEvals": 26,
+    "overallRating": 1.43,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.85,
     "courses": [
       "ES 255",
       "ES 112"
@@ -24221,13 +24221,13 @@
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 2,
       "Uploads Slides": 6,
-      "Inflexible Attendance Policy": 5,
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Attendance Policy": 6,
+      "Inflexible Deadline Policy": 4,
       "Inflexible Grading Policy": 4,
       "Pop Quizzes": 4,
       "Fast Response Time": 3,
       "Supplemental Study Material": 4,
-      "No Breaks During Lecture": 4
+      "No Breaks During Lecture": 5
     }
   },
   {
@@ -31426,10 +31426,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 84,
-    "overallRating": 1.21,
-    "materialClear": 1.17,
-    "studentDifficulties": 1.49,
+    "numEvals": 86,
+    "overallRating": 1.19,
+    "materialClear": 1.15,
+    "studentDifficulties": 1.45,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -31439,7 +31439,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 9,
-      "Inflexible Grading Policy": 15,
+      "Inflexible Grading Policy": 16,
       "Honor DRC Accommodations": 5,
       "High In-Person Availability": 8,
       "Fast Response Time": 6,
@@ -31447,7 +31447,7 @@
       "Flexible Grading Policy": 5,
       "Pop Quizzes": 2,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 5,
+      "No Breaks During Lecture": 6,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 5
@@ -32770,17 +32770,20 @@
     "department": "CM",
     "firstName": "Terry",
     "lastName": "Roy",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2,
     "courses": [
-      "CM"
+      "CM 310",
+      "CM 422"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
