@@ -2930,10 +2930,10 @@
     "department": "BUS",
     "firstName": "Alec",
     "lastName": "Lance",
-    "numEvals": 20,
-    "overallRating": 1.45,
-    "materialClear": 1.04,
-    "studentDifficulties": 1.35,
+    "numEvals": 21,
+    "overallRating": 1.48,
+    "materialClear": 1.09,
+    "studentDifficulties": 1.38,
     "courses": [
       "BUS 439"
     ],
@@ -19275,10 +19275,10 @@
     "department": "MATH",
     "firstName": "Caixing",
     "lastName": "Gu",
-    "numEvals": 167,
-    "overallRating": 2.44,
-    "materialClear": 2.2,
-    "studentDifficulties": 2.4,
+    "numEvals": 168,
+    "overallRating": 2.45,
+    "materialClear": 2.21,
+    "studentDifficulties": 2.41,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -19307,10 +19307,11 @@
       "No Breaks During Lecture": 1,
       "Fast Response Time": 6,
       "Flexible Deadline Policy": 2,
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 2,
-      "Class Handouts": 1
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -35818,10 +35819,10 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Wu",
-    "numEvals": 15,
-    "overallRating": 3.54,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.6,
+    "numEvals": 16,
+    "overallRating": 3.57,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.63,
     "courses": [
       "BUS 207",
       "BUS 404"
@@ -36904,10 +36905,10 @@
     "department": "POLS",
     "firstName": "Bobby",
     "lastName": "Olsen",
-    "numEvals": 6,
-    "overallRating": 3.83,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 7,
+    "overallRating": 3.43,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.57,
     "courses": [
       "POLS 112"
     ],
@@ -36917,7 +36918,9 @@
       "Honor DRC Accommodations": 2,
       "High In-Person Availability": 2,
       "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -44222,21 +44225,22 @@
     "department": "CPE",
     "firstName": "Tahmina",
     "lastName": "Azmin",
-    "numEvals": 10,
-    "overallRating": 0.9,
-    "materialClear": 0.6,
-    "studentDifficulties": 1.6,
+    "numEvals": 13,
+    "overallRating": 1,
+    "materialClear": 0.77,
+    "studentDifficulties": 1.54,
     "courses": [
       "CPE 133"
     ],
     "tags": {
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 8,
       "No Breaks During Lecture": 3,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 2,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -46372,21 +46376,22 @@
     "department": "AGB",
     "firstName": "Stacey",
     "lastName": "White",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.83,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.85,
     "courses": [
       "AGB 214"
     ],
     "tags": {
       "Recorded Lectures": 3,
-      "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 3,
+      "High In-Person Availability": 4,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 1,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Uploads Slides": 1
     }
   },
   {
