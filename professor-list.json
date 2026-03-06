@@ -1189,10 +1189,10 @@
     "department": "HLTH",
     "firstName": "Dulce",
     "lastName": "Romero-Urbina",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.79,
+    "studentDifficulties": 3.8,
     "courses": [
       "HLTH 250",
       "HLTH 255"
@@ -1592,10 +1592,10 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 44,
-    "overallRating": 2.9,
+    "numEvals": 45,
+    "overallRating": 2.86,
     "materialClear": 3.21,
-    "studentDifficulties": 2.84,
+    "studentDifficulties": 2.8,
     "courses": [
       "COMS 101"
     ],
@@ -3835,10 +3835,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 33,
-    "overallRating": 2.4,
-    "materialClear": 3.01,
-    "studentDifficulties": 2.8,
+    "numEvals": 34,
+    "overallRating": 2.39,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.84,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -3847,7 +3847,7 @@
       "MATH 118"
     ],
     "tags": {
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Class Handouts": 17,
       "Inflexible Grading Policy": 8,
       "Zoom Office Hours": 1,
@@ -3900,17 +3900,20 @@
     "department": "ANT",
     "firstName": "Weston",
     "lastName": "Mccool",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "ANT 202"
     ],
     "tags": {
       "Supplemental Study Material": 2,
       "No Breaks During Lecture": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -6717,10 +6720,10 @@
     "department": "ITP",
     "firstName": "Manocher",
     "lastName": "Djassemi",
-    "numEvals": 29,
-    "overallRating": 2.24,
-    "materialClear": 2.3,
-    "studentDifficulties": 2.22,
+    "numEvals": 30,
+    "overallRating": 2.3,
+    "materialClear": 2.36,
+    "studentDifficulties": 2.21,
     "courses": [
       "IT 260",
       "IT 326",
@@ -8749,7 +8752,7 @@
     "department": "HIST",
     "firstName": "Aaron",
     "lastName": "Ramirez",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -11096,10 +11099,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 27,
-    "overallRating": 2.49,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.37,
+    "numEvals": 28,
+    "overallRating": 2.54,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.43,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -11113,7 +11116,10 @@
       "ARCE 412",
       "ARCE 106"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "38c776d5-4959-4237-8c57-e31263fbefb9",
@@ -11415,10 +11421,10 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 56,
-    "overallRating": 3.73,
+    "numEvals": 57,
+    "overallRating": 3.72,
     "materialClear": 3.78,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.72,
     "courses": [
       "HIST 201",
       "HIST 207",
@@ -11948,16 +11954,17 @@
     "department": "SPAN",
     "firstName": "Marion",
     "lastName": "Hart",
-    "numEvals": 16,
-    "overallRating": 3.42,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.48,
+    "numEvals": 17,
+    "overallRating": 3.45,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.51,
     "courses": [
       "SPAN 233",
       "SPAN 305",
       "HUM 310",
       "SPAN 302",
-      "SPAN 103"
+      "SPAN 103",
+      "SPAN 102"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -12137,13 +12144,14 @@
     "department": "SPAN",
     "firstName": "Marivel",
     "lastName": "Lozano",
-    "numEvals": 3,
-    "overallRating": 0.33,
-    "materialClear": 0.67,
-    "studentDifficulties": 1,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 0.75,
+    "studentDifficulties": 1.75,
     "courses": [
       "SPAN 103",
-      "SPAN 202"
+      "SPAN 202",
+      "SPAN 101"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1
@@ -14458,9 +14466,9 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 59,
-    "overallRating": 3.67,
-    "materialClear": 3.75,
+    "numEvals": 60,
+    "overallRating": 3.68,
+    "materialClear": 3.74,
     "studentDifficulties": 3.72,
     "courses": [
       "HIST 201",
@@ -15855,10 +15863,10 @@
     "department": "ARCH",
     "firstName": "Bryan",
     "lastName": "Shields",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
-    "materialClear": 3.89,
-    "studentDifficulties": 3.6,
+    "materialClear": 3.9,
+    "studentDifficulties": 3.64,
     "courses": [
       "ARCH 131"
     ],
@@ -16451,10 +16459,10 @@
     "department": "SPAN",
     "firstName": "Fernando",
     "lastName": "Sanchez",
-    "numEvals": 16,
-    "overallRating": 3.56,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 17,
+    "overallRating": 3.59,
+    "materialClear": 3.53,
+    "studentDifficulties": 3.53,
     "courses": [
       "SPAN 101",
       "SPAN 121",
@@ -16463,7 +16471,8 @@
       "SPAN 305",
       "SPAN 307",
       "HUM 310",
-      "SPAN 410"
+      "SPAN 410",
+      "SPAN 201"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -16687,8 +16696,8 @@
     "department": "ES",
     "firstName": "Olivia",
     "lastName": "Tran",
-    "numEvals": 8,
-    "overallRating": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.88,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
@@ -21798,10 +21807,10 @@
     "department": "HIST",
     "firstName": "Nathan",
     "lastName": "Perry",
-    "numEvals": 21,
-    "overallRating": 2.43,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 22,
+    "overallRating": 2.37,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.27,
     "courses": [
       "HIST 222",
       "HIST 225",
@@ -31947,7 +31956,7 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 66,
+    "numEvals": 67,
     "overallRating": 3.73,
     "materialClear": 3.75,
     "studentDifficulties": 3.72,
@@ -32065,13 +32074,14 @@
     "department": "HIST",
     "firstName": "Gregory",
     "lastName": "Domber",
-    "numEvals": 19,
-    "overallRating": 3.42,
-    "materialClear": 3.53,
+    "numEvals": 20,
+    "overallRating": 3.4,
+    "materialClear": 3.5,
     "studentDifficulties": 3.07,
     "courses": [
       "HIST 202",
-      "HIST 213"
+      "HIST 213",
+      "HIST 326"
     ],
     "tags": {
       "Inflexible Attendance Policy": 9,
@@ -37519,10 +37529,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 112,
+    "numEvals": 113,
     "overallRating": 3.47,
     "materialClear": 3.55,
-    "studentDifficulties": 3.42,
+    "studentDifficulties": 3.43,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -46591,10 +46601,10 @@
     "department": "PHIL",
     "firstName": "Linda",
     "lastName": "Bomstad",
-    "numEvals": 32,
-    "overallRating": 2.71,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.44,
+    "numEvals": 33,
+    "overallRating": 2.75,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.49,
     "courses": [
       "PHIL 125",
       "PHIL 126",
