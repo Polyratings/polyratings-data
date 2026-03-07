@@ -26,10 +26,10 @@
     "department": "CSC",
     "firstName": "Chris",
     "lastName": "Clark",
-    "numEvals": 10,
-    "overallRating": 3.67,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.67,
+    "numEvals": 11,
+    "overallRating": 3.7,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.7,
     "courses": [
       "CPE 103",
       "CSC 103",
@@ -39,7 +39,8 @@
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -16036,10 +16037,10 @@
     "department": "CSC",
     "firstName": "Kurt",
     "lastName": "Voelker",
-    "numEvals": 69,
-    "overallRating": 2.53,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.42,
+    "numEvals": 70,
+    "overallRating": 2.51,
+    "materialClear": 2.48,
+    "studentDifficulties": 2.43,
     "courses": [
       "CSC 141",
       "CSC 231",
@@ -16051,7 +16052,7 @@
     ],
     "tags": {
       "Recorded Lectures": 8,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Does Not Use Canvas": 9,
       "Fast Response Time": 4,
       "Supplemental Study Material": 2,
@@ -17653,7 +17654,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 24,
+    "numEvals": 25,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -23116,10 +23117,10 @@
     "department": "PHYS",
     "firstName": "Pasha",
     "lastName": "Tabatabai",
-    "numEvals": 14,
-    "overallRating": 2.72,
-    "materialClear": 3.29,
-    "studentDifficulties": 2.72,
+    "numEvals": 15,
+    "overallRating": 2.67,
+    "materialClear": 3.2,
+    "studentDifficulties": 2.81,
     "courses": [
       "PHYS 141",
       "PHYS 143",
@@ -23208,10 +23209,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 83,
-    "overallRating": 1.94,
-    "materialClear": 1.87,
-    "studentDifficulties": 1.96,
+    "numEvals": 84,
+    "overallRating": 1.92,
+    "materialClear": 1.85,
+    "studentDifficulties": 1.94,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -31876,10 +31877,10 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 22,
-    "overallRating": 3.65,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.72,
+    "numEvals": 23,
+    "overallRating": 3.67,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.73,
     "courses": [
       "CSC 101",
       "CSC 203",
@@ -31893,9 +31894,9 @@
       "High In-Person Availability": 2,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Zoom Office Hours": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Honor DRC Accommodations": 1,
       "No Breaks During Lecture": 1
     }
@@ -38983,10 +38984,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 152,
-    "overallRating": 2.92,
-    "materialClear": 2.84,
-    "studentDifficulties": 2.91,
+    "numEvals": 154,
+    "overallRating": 2.9,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.89,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -38998,18 +38999,19 @@
       "CHEM 126"
     ],
     "tags": {
-      "High In-Person Availability": 15,
+      "High In-Person Availability": 16,
       "Fast Response Time": 11,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Flexible Deadline Policy": 5,
-      "Class Handouts": 18,
+      "Class Handouts": 20,
       "Supplemental Study Material": 15,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 4,
       "Recorded Lectures": 3,
       "No Breaks During Lecture": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -41378,19 +41380,21 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O'Connor",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "ENGL 134"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -41584,10 +41588,10 @@
     "department": "CHEM",
     "firstName": "Kevin",
     "lastName": "Kingsbury",
-    "numEvals": 50,
-    "overallRating": 2.99,
-    "materialClear": 3.08,
-    "studentDifficulties": 2.91,
+    "numEvals": 51,
+    "overallRating": 2.97,
+    "materialClear": 3.06,
+    "studentDifficulties": 2.93,
     "courses": [
       "CHEM 110",
       "CHEM 128",
@@ -43655,17 +43659,20 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 312",
+      "CHEM 127"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -47873,10 +47880,10 @@
     "department": "STAT",
     "firstName": "Sinem",
     "lastName": "Demirci",
-    "numEvals": 29,
-    "overallRating": 2.52,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.87,
+    "numEvals": 30,
+    "overallRating": 2.54,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.91,
     "courses": [
       "STAT 218",
       "STAT 251",
@@ -47886,8 +47893,8 @@
       "Class Handouts": 4,
       "Zoom Office Hours": 7,
       "Inflexible Deadline Policy": 5,
-      "Uploads Slides": 18,
-      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 19,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 2,
       "Fast Response Time": 5,
       "High In-Person Availability": 7,
