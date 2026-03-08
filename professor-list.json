@@ -5813,7 +5813,7 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 64,
+    "numEvals": 65,
     "overallRating": 3.74,
     "materialClear": 3.78,
     "studentDifficulties": 3.75,
@@ -5823,13 +5823,14 @@
     ],
     "tags": {
       "Supplemental Study Material": 6,
-      "Uploads Slides": 14,
+      "Uploads Slides": 15,
       "Flexible Attendance Policy": 12,
       "Class Handouts": 5,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "No Breaks During Lecture": 4,
       "Recorded Lectures": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -17656,7 +17657,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -17667,9 +17668,10 @@
       "Zoom Office Hours": 10,
       "Flexible Attendance Policy": 9,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 7,
+      "Flexible Grading Policy": 8,
       "Flexible Deadline Policy": 4,
-      "High In-Person Availability": 6
+      "High In-Person Availability": 7,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -36394,10 +36396,10 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 12,
-    "overallRating": 3.84,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.84,
+    "numEvals": 13,
+    "overallRating": 3.85,
+    "materialClear": 3.84,
+    "studentDifficulties": 3.85,
     "courses": [
       "ES 256",
       "ES 335",
@@ -36405,7 +36407,7 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 4,
-      "Pop Quizzes": 6,
+      "Pop Quizzes": 7,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1,
       "Fast Response Time": 3,
