@@ -5890,7 +5890,7 @@
     "department": "PSY",
     "firstName": "Brenna",
     "lastName": "Giordano",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5900,9 +5900,9 @@
     "tags": {
       "Class Handouts": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Uploads Slides": 3,
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -11422,7 +11422,7 @@
     "department": "HIST",
     "firstName": "James",
     "lastName": "Tejani",
-    "numEvals": 57,
+    "numEvals": 58,
     "overallRating": 3.72,
     "materialClear": 3.78,
     "studentDifficulties": 3.72,
@@ -11443,7 +11443,9 @@
       "Supplemental Study Material": 1,
       "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -21724,10 +21726,10 @@
     "department": "ME",
     "firstName": "Marjan",
     "lastName": "Zare",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 2,
+    "materialClear": 2.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "ME 303"
     ],
@@ -27324,23 +27326,24 @@
     "department": "COMS",
     "firstName": "Jamie",
     "lastName": "Ascher",
-    "numEvals": 25,
-    "overallRating": 3.67,
+    "numEvals": 26,
+    "overallRating": 3.68,
     "materialClear": 3.89,
-    "studentDifficulties": 3.68,
+    "studentDifficulties": 3.69,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Zoom Office Hours": 5,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "High In-Person Availability": 4,
       "Fast Response Time": 3,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 3,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -31810,10 +31813,10 @@
     "department": "GER",
     "firstName": "Angelica",
     "lastName": "Browne",
-    "numEvals": 8,
-    "overallRating": 2.71,
-    "materialClear": 3.16,
-    "studentDifficulties": 3.59,
+    "numEvals": 9,
+    "overallRating": 2.85,
+    "materialClear": 3.14,
+    "studentDifficulties": 3.64,
     "courses": [
       "GER 201",
       "GER 233",
@@ -31823,9 +31826,11 @@
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 3,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -31959,7 +31964,7 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 67,
+    "numEvals": 68,
     "overallRating": 3.73,
     "materialClear": 3.75,
     "studentDifficulties": 3.72,
@@ -31988,8 +31993,10 @@
       "Class Handouts": 4,
       "Supplemental Study Material": 1,
       "High In-Person Availability": 2,
-      "Flexible Deadline Policy": 2,
-      "Zoom Office Hours": 1
+      "Flexible Deadline Policy": 3,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -33238,12 +33245,12 @@
     "department": "MCRO",
     "firstName": "Alexis",
     "lastName": "Pasulka",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MCRO"
+      "MCRO 221"
     ],
     "tags": {}
   },
@@ -33340,9 +33347,9 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 175,
+    "numEvals": 176,
     "overallRating": 2.75,
-    "materialClear": 2.84,
+    "materialClear": 2.83,
     "studentDifficulties": 2.65,
     "courses": [
       "ENGL 101",
@@ -33361,7 +33368,7 @@
       "ENGL 145"
     ],
     "tags": {
-      "Class Handouts": 10,
+      "Class Handouts": 11,
       "Fast Response Time": 3,
       "Inflexible Attendance Policy": 3,
       "Pop Quizzes": 1,
@@ -33372,7 +33379,7 @@
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -36764,7 +36771,7 @@
     "department": "STAT",
     "firstName": "Billie-Jo",
     "lastName": "Grant-Ghanotakis",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -36772,11 +36779,12 @@
       "STAT 217"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
       "High In-Person Availability": 1,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -36953,10 +36961,10 @@
     "department": "CPE",
     "firstName": "Andrew",
     "lastName": "Danowitz",
-    "numEvals": 17,
-    "overallRating": 2.9,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.92,
+    "numEvals": 18,
+    "overallRating": 2.85,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.98,
     "courses": [
       "CPE 133",
       "CPE 233",
@@ -36964,16 +36972,18 @@
       "CPE 442",
       "CPE 202",
       "CPE 542",
-      "CPE 333"
+      "CPE 333",
+      "CPE 523"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
-      "Flexible Deadline Policy": 1
+      "Uploads Slides": 3,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -37336,10 +37346,10 @@
     "department": "PSY",
     "firstName": "Elizabeth",
     "lastName": "Barrett",
-    "numEvals": 60,
-    "overallRating": 3.27,
-    "materialClear": 3.32,
-    "studentDifficulties": 3.24,
+    "numEvals": 61,
+    "overallRating": 3.25,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.2,
     "courses": [
       "CD 254",
       "PSY 254",
@@ -37350,15 +37360,16 @@
       "PSY 520"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 7,
-      "Inflexible Deadline Policy": 4,
+      "Inflexible Attendance Policy": 8,
+      "Inflexible Deadline Policy": 5,
       "Does Not Use Canvas": 1,
       "Class Handouts": 2,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 4
+      "Inflexible Grading Policy": 4,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -41381,10 +41392,10 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O'Connor",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.25,
     "courses": [
       "ENGL 134"
     ],
@@ -45211,10 +45222,10 @@
     "department": "PSY",
     "firstName": "Tessa",
     "lastName": "Sun",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 3,
-    "materialClear": 3.33,
-    "studentDifficulties": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2.75,
     "courses": [
       "PSY 252"
     ],
@@ -45222,7 +45233,8 @@
       "Zoom Office Hours": 2,
       "Inflexible Attendance Policy": 2,
       "Uploads Slides": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
