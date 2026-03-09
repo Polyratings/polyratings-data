@@ -4568,10 +4568,10 @@
     "department": "PSY",
     "firstName": "Linda",
     "lastName": "Lee",
-    "numEvals": 31,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.69,
-    "overallRating": 3.72,
+    "numEvals": 32,
+    "overallRating": 3.73,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.7,
     "courses": [
       "CD 131",
       "CD 256",
@@ -4581,7 +4581,8 @@
       "PSY 356",
       "CD 417",
       "CD 424"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "169ebb4c-9de4-42ed-8d57-fdace8739ebd",
@@ -5791,10 +5792,10 @@
     "department": "ME",
     "firstName": "Leily",
     "lastName": "Majidi",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 7,
+    "overallRating": 3.29,
+    "materialClear": 3.29,
+    "studentDifficulties": 3,
     "courses": [
       "ME 343",
       "ME 341",
@@ -7483,10 +7484,10 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 39,
-    "overallRating": 3.77,
+    "numEvals": 40,
+    "overallRating": 3.78,
     "materialClear": 3.94,
-    "studentDifficulties": 3.79,
+    "studentDifficulties": 3.8,
     "courses": [
       "POLS 112",
       "POLS 245",
@@ -7497,11 +7498,11 @@
       "POLS 344"
     ],
     "tags": {
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 3,
-      "Does Not Use Canvas": 2,
+      "Fast Response Time": 4,
+      "Does Not Use Canvas": 3,
       "Flexible Attendance Policy": 2
     }
   },
@@ -10154,10 +10155,10 @@
     "department": "BUS",
     "firstName": "Craig Mark",
     "lastName": "Law-Smith",
-    "numEvals": 7,
-    "overallRating": 3.57,
+    "numEvals": 8,
+    "overallRating": 3.62,
     "materialClear": 4,
-    "studentDifficulties": 3.14,
+    "studentDifficulties": 3.25,
     "courses": [
       "BUS 346",
       "BUS 387"
@@ -10823,19 +10824,20 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 9,
-    "overallRating": 3.88,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.67,
+    "numEvals": 10,
+    "overallRating": 3.89,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.7,
     "courses": [
       "BUS 391"
     ],
     "tags": {
       "Flexible Attendance Policy": 6,
       "Class Handouts": 2,
-      "Uploads Slides": 4,
-      "Flexible Deadline Policy": 3,
-      "Flexible Grading Policy": 1
+      "Uploads Slides": 5,
+      "Flexible Deadline Policy": 4,
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -11103,10 +11105,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 28,
-    "overallRating": 2.54,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.43,
+    "numEvals": 29,
+    "overallRating": 2.59,
+    "materialClear": 2.46,
+    "studentDifficulties": 2.48,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -11118,11 +11120,15 @@
       "ARCE 260",
       "ARCE 316",
       "ARCE 412",
-      "ARCE 106"
+      "ARCE 106",
+      "ARCE 306"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -12241,7 +12247,7 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 290,
+    "numEvals": 291,
     "overallRating": 2.42,
     "materialClear": 2.07,
     "studentDifficulties": 2.58,
@@ -14666,13 +14672,14 @@
     "department": "EE",
     "firstName": "Uma",
     "lastName": "Balaji",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.76,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.79,
     "courses": [
       "EE 335",
-      "EE 241"
+      "EE 241",
+      "EE 212"
     ],
     "tags": {
       "High In-Person Availability": 4,
@@ -14680,7 +14687,7 @@
       "Fast Response Time": 4,
       "Flexible Deadline Policy": 2,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Class Handouts": 2
     }
   },
@@ -16293,13 +16300,14 @@
     "department": "BUS",
     "firstName": "Richard",
     "lastName": "Lehman",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 2.75,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.25,
     "courses": [
       "BUS 442",
-      "BUS 204"
+      "BUS 204",
+      "BUS 342"
     ],
     "tags": {
       "Uploads Slides": 1
@@ -16598,18 +16606,22 @@
     "department": "MU",
     "firstName": "John",
     "lastName": "Astaire",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.88,
     "studentDifficulties": 4,
     "courses": [
       "MU 101",
       "MU 324",
-      "MU 221"
+      "MU 221",
+      "MU 120"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -21213,9 +21225,9 @@
     "department": "EE",
     "firstName": "Jason",
     "lastName": "Poon",
-    "numEvals": 15,
-    "overallRating": 3.67,
-    "materialClear": 3.6,
+    "numEvals": 16,
+    "overallRating": 3.69,
+    "materialClear": 3.63,
     "studentDifficulties": 4,
     "courses": [
       "EE 212",
@@ -27531,10 +27543,10 @@
     "department": "ASCI",
     "firstName": "Mark",
     "lastName": "Edwards",
-    "numEvals": 45,
-    "overallRating": 2.4,
-    "materialClear": 2.63,
-    "studentDifficulties": 2.21,
+    "numEvals": 46,
+    "overallRating": 2.43,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.25,
     "courses": [
       "ASCI 112",
       "ASCI 220",
@@ -27549,7 +27561,9 @@
       "Does Not Use Canvas": 2,
       "Uploads Slides": 4,
       "High In-Person Availability": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -30880,7 +30894,7 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 3.76,
     "materialClear": 3.76,
     "studentDifficulties": 3.75,
@@ -33874,10 +33888,10 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 8,
-    "overallRating": 3.87,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.87,
+    "numEvals": 9,
+    "overallRating": 3.88,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.88,
     "courses": [
       "POLS 230",
       "POLS 348"
@@ -33885,10 +33899,11 @@
     "tags": {
       "High In-Person Availability": 4,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 3,
-      "Fast Response Time": 4,
+      "Uploads Slides": 4,
+      "Fast Response Time": 5,
       "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 2
+      "Zoom Office Hours": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -34221,10 +34236,10 @@
     "department": "WGS",
     "firstName": "Ruth",
     "lastName": "Kalin",
-    "numEvals": 96,
-    "overallRating": 2.68,
+    "numEvals": 97,
+    "overallRating": 2.66,
     "materialClear": 3,
-    "studentDifficulties": 2.74,
+    "studentDifficulties": 2.73,
     "courses": [
       "CM 101",
       "COMS 101",
@@ -37802,10 +37817,10 @@
     "department": "BUS",
     "firstName": "Dan",
     "lastName": "Featherstone",
-    "numEvals": 6,
-    "overallRating": 2.5,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.5,
+    "numEvals": 7,
+    "overallRating": 2.57,
+    "materialClear": 2.43,
+    "studentDifficulties": 2.43,
     "courses": [
       "ITP 371"
     ],
@@ -46890,10 +46905,10 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 85,
+    "numEvals": 86,
     "overallRating": 3.31,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.11,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.12,
     "courses": [
       "BIO 112",
       "BIO 210",
@@ -47245,7 +47260,7 @@
     "department": "BUS",
     "firstName": "Erik",
     "lastName": "Loken",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
