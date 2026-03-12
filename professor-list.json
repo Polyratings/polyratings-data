@@ -4382,10 +4382,10 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 16,
-    "overallRating": 0.82,
-    "materialClear": 1.13,
-    "studentDifficulties": 1.32,
+    "numEvals": 17,
+    "overallRating": 1.01,
+    "materialClear": 1.24,
+    "studentDifficulties": 1.42,
     "courses": [
       "MATH 118"
     ],
@@ -5429,14 +5429,16 @@
     "department": "CRP",
     "firstName": "Amir",
     "lastName": "Hajrasouliha",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 3,
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 2,
     "courses": [
-      "CRP"
+      "CRP 303"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1
+    }
   },
   {
     "id": "1a85e02c-557c-421b-94f6-80b53affbf5f",
@@ -10700,10 +10702,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 32,
-    "overallRating": 1.38,
-    "materialClear": 1.02,
-    "studentDifficulties": 2.09,
+    "numEvals": 33,
+    "overallRating": 1.37,
+    "materialClear": 0.99,
+    "studentDifficulties": 2.12,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -10711,7 +10713,7 @@
       "STAT 252"
     ],
     "tags": {
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Recorded Lectures": 2,
       "Flexible Grading Policy": 3,
       "Uploads Slides": 2,
@@ -10720,7 +10722,8 @@
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -11579,10 +11582,10 @@
     "department": "PHIL",
     "firstName": "Joe",
     "lastName": "Lynch",
-    "numEvals": 121,
-    "overallRating": 2.43,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.29,
+    "numEvals": 122,
+    "overallRating": 2.44,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.3,
     "courses": [
       "PHIL 125",
       "PHIL 230",
@@ -11599,8 +11602,10 @@
     "tags": {
       "Inflexible Grading Policy": 2,
       "Recorded Lectures": 1,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -27105,7 +27110,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 19,
+    "numEvals": 20,
     "overallRating": 3.94,
     "materialClear": 4,
     "studentDifficulties": 3.94,
@@ -27115,9 +27120,9 @@
       "PSY 324"
     ],
     "tags": {
-      "High In-Person Availability": 4,
-      "Fast Response Time": 5,
-      "Uploads Slides": 7,
+      "High In-Person Availability": 5,
+      "Fast Response Time": 6,
+      "Uploads Slides": 8,
       "Flexible Grading Policy": 2,
       "Inflexible Attendance Policy": 1,
       "Flexible Attendance Policy": 1,
@@ -30520,10 +30525,10 @@
     "department": "PHYS",
     "firstName": "Jessica",
     "lastName": "Pilgram",
-    "numEvals": 43,
-    "overallRating": 3,
-    "materialClear": 2.86,
-    "studentDifficulties": 3.32,
+    "numEvals": 44,
+    "overallRating": 3.02,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.34,
     "courses": [
       "PHYS 142",
       "PHYS 143",
