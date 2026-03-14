@@ -14112,7 +14112,7 @@
     "department": "COMS",
     "firstName": "Joshua",
     "lastName": "Losoya",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 3.92,
     "materialClear": 3.92,
     "studentDifficulties": 3.92,
@@ -14123,17 +14123,17 @@
     "tags": {
       "Zoom Office Hours": 8,
       "Inflexible Attendance Policy": 2,
-      "Fast Response Time": 9,
+      "Fast Response Time": 10,
       "Flexible Grading Policy": 5,
       "No Breaks During Lecture": 3,
       "High In-Person Availability": 4,
-      "Class Handouts": 6,
+      "Class Handouts": 7,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 4,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 4,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2
     }
   },
   {
@@ -43931,21 +43931,22 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.75,
     "courses": [
       "CHEM 312",
       "CHEM 127",
       "CHEM 216"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -44178,10 +44179,10 @@
     "department": "ES",
     "firstName": "Elizabeth",
     "lastName": "Lamorre",
-    "numEvals": 54,
-    "overallRating": 2.76,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.96,
+    "numEvals": 55,
+    "overallRating": 2.71,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.94,
     "courses": [
       "ES 112",
       "WGS 201",
@@ -44191,16 +44192,17 @@
       "ES 382"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Uploads Slides": 14,
       "No Breaks During Lecture": 6,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
       "Flexible Attendance Policy": 7,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -46748,7 +46750,7 @@
     "department": "MATH",
     "firstName": "Ryan",
     "lastName": "Tully-Doyle",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -46761,7 +46763,8 @@
       "MATH 413",
       "MATH 304",
       "MATH 244",
-      "MATH 344"
+      "MATH 344",
+      "MATH 206"
     ],
     "tags": {
       "High In-Person Availability": 10,
