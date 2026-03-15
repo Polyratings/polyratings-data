@@ -1886,10 +1886,10 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 29,
-    "overallRating": 2.41,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.37,
+    "numEvals": 30,
+    "overallRating": 2.43,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.39,
     "courses": [
       "BUS 438",
       "BUS 439",
@@ -1899,7 +1899,9 @@
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Zoom Office Hours": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -16863,10 +16865,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 44,
-    "overallRating": 3.4,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.42,
+    "numEvals": 45,
+    "overallRating": 3.39,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.41,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -16878,11 +16880,12 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 2,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -20772,10 +20775,10 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Liese",
-    "numEvals": 85,
-    "overallRating": 2.97,
-    "materialClear": 2.97,
-    "studentDifficulties": 2.82,
+    "numEvals": 86,
+    "overallRating": 2.98,
+    "materialClear": 2.98,
+    "studentDifficulties": 2.83,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -45299,9 +45302,9 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 91,
-    "overallRating": 2.38,
-    "materialClear": 2.53,
+    "numEvals": 92,
+    "overallRating": 2.39,
+    "materialClear": 2.52,
     "studentDifficulties": 2.41,
     "courses": [
       "ENGL 134",
@@ -45320,11 +45323,11 @@
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 8,
       "Honor DRC Accommodations": 2,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Inflexible Grading Policy": 4,
       "Zoom Office Hours": 1,
-      "No Breaks During Lecture": 1,
-      "Uploads Slides": 3
+      "No Breaks During Lecture": 2,
+      "Uploads Slides": 4
     }
   },
   {
