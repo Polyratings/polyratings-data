@@ -12707,10 +12707,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 35,
-    "overallRating": 3.8,
+    "numEvals": 36,
+    "overallRating": 3.72,
     "materialClear": 3.85,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.72,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -12725,10 +12725,11 @@
       "Zoom Office Hours": 1,
       "Fast Response Time": 2,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 1,
-      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 2,
+      "Does Not Use Canvas": 2,
       "Hybrid Option": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -17035,24 +17036,24 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 0.98,
-    "materialClear": 1.75,
+    "materialClear": 1.79,
     "studentDifficulties": 1.13,
     "courses": [
       "CSC 101",
       "CSC 203"
     ],
     "tags": {
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Pop Quizzes": 2,
       "Inflexible Grading Policy": 7,
       "High In-Person Availability": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "No Breaks During Lecture": 5,
       "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 7,
-      "Class Handouts": 8,
+      "Class Handouts": 9,
       "Fast Response Time": 4,
       "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 2
@@ -37310,10 +37311,10 @@
     "department": "STAT",
     "firstName": "Beth",
     "lastName": "Chance",
-    "numEvals": 75,
-    "overallRating": 3.46,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.41,
+    "numEvals": 76,
+    "overallRating": 3.47,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.42,
     "courses": [
       "STAT 130",
       "STAT 150",
@@ -37331,11 +37332,11 @@
       "STAT 470"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 2,
       "Uploads Slides": 6,
       "Flexible Deadline Policy": 3,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 1,
