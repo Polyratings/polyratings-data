@@ -6522,10 +6522,10 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 37,
-    "overallRating": 0.44,
-    "materialClear": 0.73,
-    "studentDifficulties": 0.56,
+    "numEvals": 38,
+    "overallRating": 0.48,
+    "materialClear": 0.71,
+    "studentDifficulties": 0.55,
     "courses": [
       "GRC 203",
       "GRC 316"
@@ -25622,7 +25622,7 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 227,
+    "numEvals": 228,
     "overallRating": 2.71,
     "materialClear": 2.59,
     "studentDifficulties": 2.44,
@@ -25642,13 +25642,13 @@
       "MATH 344"
     ],
     "tags": {
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 2,
-      "Supplemental Study Material": 5,
+      "Supplemental Study Material": 6,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
-      "High In-Person Availability": 6,
+      "High In-Person Availability": 7,
       "Fast Response Time": 7,
       "Flexible Attendance Policy": 6,
       "Class Handouts": 1,
@@ -33450,10 +33450,10 @@
     "department": "CSC",
     "firstName": "Christopher",
     "lastName": "Siu",
-    "numEvals": 37,
-    "overallRating": 3.85,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.57,
+    "numEvals": 38,
+    "overallRating": 3.83,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.53,
     "courses": [
       "CSC 248",
       "CSC 225",
@@ -33465,14 +33465,15 @@
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 6,
-      "Fast Response Time": 15,
+      "Fast Response Time": 16,
       "Zoom Office Hours": 9,
-      "Uploads Slides": 15,
+      "Uploads Slides": 16,
       "Flexible Deadline Policy": 3,
       "Flexible Attendance Policy": 6,
       "Supplemental Study Material": 3,
       "Honor DRC Accommodations": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -41066,18 +41067,19 @@
     "department": "ENGL",
     "firstName": "Shanae",
     "lastName": "Martinez",
-    "numEvals": 5,
-    "overallRating": 2.8,
-    "materialClear": 2.6,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "ENGL 346"
     ],
     "tags": {
       "Zoom Office Hours": 3,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -41904,10 +41906,10 @@
     "department": "PHYS",
     "firstName": "Tom",
     "lastName": "Bensky",
-    "numEvals": 109,
-    "overallRating": 3.18,
-    "materialClear": 3.34,
-    "studentDifficulties": 3.13,
+    "numEvals": 110,
+    "overallRating": 3.19,
+    "materialClear": 3.35,
+    "studentDifficulties": 3.14,
     "courses": [
       "ASTR 101",
       "ASTR 102",
