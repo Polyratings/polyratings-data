@@ -20194,10 +20194,10 @@
     "department": "CSC",
     "firstName": "Kirk",
     "lastName": "Duran",
-    "numEvals": 26,
+    "numEvals": 27,
     "overallRating": 3,
-    "materialClear": 2.59,
-    "studentDifficulties": 3.19,
+    "materialClear": 2.64,
+    "studentDifficulties": 3.18,
     "courses": [
       "CSC 101",
       "CSC 202",
@@ -20206,15 +20206,16 @@
     ],
     "tags": {
       "High In-Person Availability": 6,
-      "Flexible Deadline Policy": 5,
-      "Uploads Slides": 12,
+      "Flexible Deadline Policy": 6,
+      "Uploads Slides": 13,
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 3,
       "No Breaks During Lecture": 1,
       "Zoom Office Hours": 1,
       "Supplemental Study Material": 2,
-      "Class Handouts": 2
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -21222,16 +21223,19 @@
     "department": "BMED",
     "firstName": "Luke",
     "lastName": "Perreault",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
     "studentDifficulties": 4,
     "courses": [
-      "BMED 212"
+      "BMED 212",
+      "BMED 425"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -23692,10 +23696,10 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 101,
+    "numEvals": 102,
     "overallRating": 1.9,
     "materialClear": 2.17,
-    "studentDifficulties": 1.76,
+    "studentDifficulties": 1.77,
     "courses": [
       "ENGL 134",
       "ENGL 141",
@@ -23710,13 +23714,13 @@
       "ENGL 382"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Deadline Policy": 2,
       "Flexible Attendance Policy": 2,
       "Inflexible Grading Policy": 1,
-      "Hybrid Option": 3,
+      "Hybrid Option": 4,
       "Recorded Lectures": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1
     }
@@ -29788,15 +29792,16 @@
     "department": "POLS",
     "firstName": "Annie",
     "lastName": "Frew",
-    "numEvals": 14,
-    "overallRating": 3.21,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.86,
+    "numEvals": 15,
+    "overallRating": 3.2,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.94,
     "courses": [
       "POLS 112",
       "POLS 111",
       "POLS 359",
-      "POLS 445"
+      "POLS 445",
+      "POLS 518"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -29808,7 +29813,8 @@
       "Hybrid Option": 1,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -31203,7 +31209,7 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 61,
+    "numEvals": 62,
     "overallRating": 3.76,
     "materialClear": 3.76,
     "studentDifficulties": 3.72,
@@ -31216,8 +31222,8 @@
     ],
     "tags": {
       "High In-Person Availability": 11,
-      "Flexible Attendance Policy": 14,
-      "Uploads Slides": 25,
+      "Flexible Attendance Policy": 15,
+      "Uploads Slides": 26,
       "Fast Response Time": 4,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 1,
@@ -31618,10 +31624,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 164,
-    "overallRating": 2.16,
-    "materialClear": 2.23,
-    "studentDifficulties": 1.95,
+    "numEvals": 165,
+    "overallRating": 2.17,
+    "materialClear": 2.24,
+    "studentDifficulties": 1.96,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -37155,7 +37161,7 @@
     "department": "STAT",
     "firstName": "Billie-Jo",
     "lastName": "Grant-Ghanotakis",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
