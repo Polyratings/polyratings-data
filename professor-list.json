@@ -1918,10 +1918,10 @@
     "department": "BIO",
     "firstName": "Pat",
     "lastName": "Fidopiastis",
-    "numEvals": 28,
-    "overallRating": 3.38,
-    "materialClear": 3.32,
-    "studentDifficulties": 3.35,
+    "numEvals": 29,
+    "overallRating": 3.33,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.34,
     "courses": [
       "MCRO 221",
       "BIO 224",
@@ -1934,8 +1934,9 @@
     ],
     "tags": {
       "Recorded Lectures": 3,
-      "Uploads Slides": 3,
-      "Flexible Attendance Policy": 1
+      "Uploads Slides": 4,
+      "Flexible Attendance Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -5083,10 +5084,10 @@
     "department": "BIO",
     "firstName": "Haley",
     "lastName": "Moniz",
-    "numEvals": 17,
-    "overallRating": 3.76,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.81,
+    "numEvals": 18,
+    "overallRating": 3.77,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.71,
     "courses": [
       "BIO 111",
       "BIO 150",
@@ -7267,9 +7268,9 @@
     "department": "BIO",
     "firstName": "Kara",
     "lastName": "Jew",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "MCRO 224",
@@ -10953,10 +10954,10 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 11,
-    "overallRating": 3.9,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.73,
+    "numEvals": 12,
+    "overallRating": 3.91,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.75,
     "courses": [
       "BUS 391"
     ],
@@ -19856,21 +19857,21 @@
     "department": "CHEM",
     "firstName": "Bonnie",
     "lastName": "Hall",
-    "numEvals": 8,
-    "overallRating": 3.5,
+    "numEvals": 9,
+    "overallRating": 3.56,
     "materialClear": 3.01,
-    "studentDifficulties": 3.76,
+    "studentDifficulties": 3.79,
     "courses": [
       "CHEM 124"
     ],
     "tags": {
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Inflexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 4,
-      "Class Handouts": 1
+      "Class Handouts": 2
     }
   },
   {
@@ -37705,17 +37706,19 @@
     "department": "BIO",
     "firstName": "Christine",
     "lastName": "Strand",
-    "numEvals": 12,
-    "materialClear": 3.54,
-    "studentDifficulties": 3,
-    "overallRating": 3.46,
+    "numEvals": 13,
+    "overallRating": 3.5,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.08,
     "courses": [
       "ZOO 331",
       "BIO 408",
       "ZOO 422",
       "BIO 432",
-      "BIO 433"
-    ]
+      "BIO 433",
+      "BIO 231"
+    ],
+    "tags": {}
   },
   {
     "id": "c6006a44-3986-4fab-b22b-abc820597e96",
