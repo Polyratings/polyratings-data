@@ -13814,9 +13814,9 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Eblen",
-    "numEvals": 30,
-    "overallRating": 3.69,
-    "materialClear": 3.74,
+    "numEvals": 31,
+    "overallRating": 3.7,
+    "materialClear": 3.75,
     "studentDifficulties": 3.85,
     "courses": [
       "MATH 143",
@@ -46805,10 +46805,10 @@
     "department": "ME",
     "firstName": "Dwight",
     "lastName": "Harvey",
-    "numEvals": 18,
-    "overallRating": 3.11,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.27,
+    "numEvals": 19,
+    "overallRating": 3.16,
+    "materialClear": 2.53,
+    "studentDifficulties": 3.31,
     "courses": [
       "ME 129",
       "ME 264",
@@ -46816,7 +46816,7 @@
       "ME 251"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 6,
       "High In-Person Availability": 1,
@@ -46824,8 +46824,9 @@
       "Inflexible Grading Policy": 3,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1,
-      "No Breaks During Lecture": 1
+      "Class Handouts": 2,
+      "No Breaks During Lecture": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
