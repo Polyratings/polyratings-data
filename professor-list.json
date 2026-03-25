@@ -4495,10 +4495,10 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 17,
-    "overallRating": 1.13,
-    "materialClear": 0.96,
-    "studentDifficulties": 1.42,
+    "numEvals": 18,
+    "overallRating": 1.18,
+    "materialClear": 1.02,
+    "studentDifficulties": 1.4,
     "courses": [
       "MATH 118"
     ],
@@ -4689,19 +4689,19 @@
     "department": "PHYS",
     "firstName": "Harish",
     "lastName": "Moni Prakash",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.2,
+    "studentDifficulties": 3.33,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 2,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Grading Policy": 1
     }
   },
@@ -4997,10 +4997,10 @@
     "department": "ENGL",
     "firstName": "Catherine",
     "lastName": "Waitinas",
-    "numEvals": 38,
-    "overallRating": 2.72,
-    "materialClear": 2.77,
-    "studentDifficulties": 2.7,
+    "numEvals": 39,
+    "overallRating": 2.75,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.73,
     "courses": [
       "ENGL 231",
       "ENGL 240",
@@ -5012,7 +5012,9 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Recorded Lectures": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -15841,10 +15843,10 @@
     "department": "WGS",
     "firstName": "Alexia",
     "lastName": "Arani",
-    "numEvals": 7,
-    "overallRating": 3,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.57,
+    "numEvals": 8,
+    "overallRating": 2.88,
+    "materialClear": 3.38,
+    "studentDifficulties": 3.5,
     "courses": [
       "WGS 301",
       "WGS 201"
@@ -15856,7 +15858,8 @@
       "Flexible Grading Policy": 1,
       "Uploads Slides": 2,
       "Supplemental Study Material": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -17759,10 +17762,10 @@
     "department": "EE",
     "firstName": "Kenneth",
     "lastName": "McKell",
-    "numEvals": 54,
-    "overallRating": 3,
-    "materialClear": 3.16,
-    "studentDifficulties": 2.76,
+    "numEvals": 56,
+    "overallRating": 3.04,
+    "materialClear": 3.19,
+    "studentDifficulties": 2.8,
     "courses": [
       "EE 112",
       "EE 201",
@@ -22567,21 +22570,23 @@
     "department": "ENGL",
     "firstName": "Caleb",
     "lastName": "Nichols",
-    "numEvals": 9,
-    "overallRating": 3.56,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.66,
+    "numEvals": 10,
+    "overallRating": 3.5,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.59,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 3,
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -23570,9 +23575,9 @@
     "department": "STAT",
     "firstName": "Olga",
     "lastName": "Dekhtyar",
-    "numEvals": 137,
-    "overallRating": 3.44,
-    "materialClear": 3.28,
+    "numEvals": 138,
+    "overallRating": 3.43,
+    "materialClear": 3.29,
     "studentDifficulties": 3.51,
     "courses": [
       "STAT 221",
@@ -24762,10 +24767,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 31,
-    "overallRating": 1.43,
-    "materialClear": 1.64,
-    "studentDifficulties": 1.82,
+    "numEvals": 32,
+    "overallRating": 1.48,
+    "materialClear": 1.68,
+    "studentDifficulties": 1.86,
     "courses": [
       "ES 255",
       "ES 112"
@@ -24773,12 +24778,12 @@
     "tags": {
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 2,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 4,
       "Inflexible Grading Policy": 4,
       "Pop Quizzes": 4,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Supplemental Study Material": 6,
       "No Breaks During Lecture": 7,
       "Flexible Attendance Policy": 1
@@ -31577,10 +31582,10 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 25,
-    "overallRating": 3.69,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.76,
+    "numEvals": 26,
+    "overallRating": 3.66,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.77,
     "courses": [
       "CHEM 124",
       "PHYS 141",
@@ -31592,10 +31597,11 @@
       "Class Handouts": 1,
       "Flexible Grading Policy": 4,
       "Fast Response Time": 8,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -32080,9 +32086,9 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 94,
-    "overallRating": 1.16,
-    "materialClear": 1.13,
+    "numEvals": 95,
+    "overallRating": 1.17,
+    "materialClear": 1.14,
     "studentDifficulties": 1.38,
     "courses": [
       "MATH 118",
@@ -32093,7 +32099,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 9,
-      "Inflexible Grading Policy": 19,
+      "Inflexible Grading Policy": 20,
       "Honor DRC Accommodations": 5,
       "High In-Person Availability": 9,
       "Fast Response Time": 7,
@@ -37088,10 +37094,10 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 16,
-    "overallRating": 3.88,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.88,
+    "numEvals": 17,
+    "overallRating": 3.89,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.89,
     "courses": [
       "ES 256",
       "ES 335",
@@ -37102,7 +37108,7 @@
       "Pop Quizzes": 7,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "High In-Person Availability": 2,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 1,
@@ -42854,7 +42860,7 @@
     "department": "MATH",
     "firstName": "Montserrat",
     "lastName": "Dabkowski",
-    "numEvals": 34,
+    "numEvals": 35,
     "overallRating": 3.85,
     "materialClear": 3.93,
     "studentDifficulties": 3.88,
@@ -42867,11 +42873,11 @@
       "MATH 143"
     ],
     "tags": {
-      "High In-Person Availability": 12,
-      "Fast Response Time": 14,
+      "High In-Person Availability": 13,
+      "Fast Response Time": 15,
       "Flexible Attendance Policy": 8,
       "Flexible Deadline Policy": 4,
-      "Supplemental Study Material": 8,
+      "Supplemental Study Material": 9,
       "Flexible Grading Policy": 4,
       "Honor DRC Accommodations": 6,
       "Zoom Office Hours": 1,
@@ -48189,7 +48195,7 @@
     "department": "MATH",
     "firstName": "Bryce",
     "lastName": "Jenkin",
-    "numEvals": 235,
+    "numEvals": 236,
     "overallRating": 3.36,
     "materialClear": 3.39,
     "studentDifficulties": 3.27,
@@ -48212,14 +48218,14 @@
     "tags": {
       "Inflexible Grading Policy": 1,
       "Class Handouts": 2,
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Fast Response Time": 3,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 8,
       "Uploads Slides": 3,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 2
     }
   },
