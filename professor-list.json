@@ -4498,10 +4498,10 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 19,
-    "overallRating": 1.12,
-    "materialClear": 0.97,
-    "studentDifficulties": 1.33,
+    "numEvals": 20,
+    "overallRating": 1.21,
+    "materialClear": 1.02,
+    "studentDifficulties": 1.36,
     "courses": [
       "MATH 118"
     ],
@@ -4510,7 +4510,8 @@
       "Flexible Attendance Policy": 2,
       "High In-Person Availability": 1,
       "Inflexible Grading Policy": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -4851,10 +4852,10 @@
     "department": "ME",
     "firstName": "Alan",
     "lastName": "Zhang",
-    "numEvals": 14,
-    "overallRating": 3.15,
+    "numEvals": 15,
+    "overallRating": 3.21,
     "materialClear": 4,
-    "studentDifficulties": 3.71,
+    "studentDifficulties": 3.73,
     "courses": [
       "ME 211",
       "ME 328",
@@ -4862,11 +4863,11 @@
       "ME 329"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
@@ -6173,8 +6174,8 @@
     "department": "PHYS",
     "firstName": "John Jeremy",
     "lastName": "Jasbinsek",
-    "numEvals": 58,
-    "overallRating": 2.11,
+    "numEvals": 59,
+    "overallRating": 2.13,
     "materialClear": 2.08,
     "studentDifficulties": 1.94,
     "courses": [
@@ -6194,10 +6195,11 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 3,
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Supplemental Study Material": 2,
       "No Breaks During Lecture": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -8136,17 +8138,17 @@
     "department": "ASCI",
     "firstName": "Claire",
     "lastName": "Moreno",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ASCI"
+      "ASCI 211"
     ],
     "tags": {
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -8986,10 +8988,10 @@
     "department": "CM",
     "firstName": "Kevin",
     "lastName": "Bennett",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 2.25,
+    "studentDifficulties": 2.5,
     "courses": [
       "CM 214"
     ],
@@ -8997,8 +8999,8 @@
       "Recorded Lectures": 1,
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Flexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1,
+      "Flexible Deadline Policy": 2,
+      "No Breaks During Lecture": 2,
       "Fast Response Time": 1,
       "Uploads Slides": 1
     }
@@ -12276,9 +12278,9 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 79,
-    "overallRating": 2.23,
-    "materialClear": 2.5,
+    "numEvals": 80,
+    "overallRating": 2.24,
+    "materialClear": 2.52,
     "studentDifficulties": 2.06,
     "courses": [
       "PHYS 122",
@@ -12294,8 +12296,8 @@
       "PHYS 121"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 4,
+      "Inflexible Attendance Policy": 4,
+      "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 4,
@@ -16261,9 +16263,9 @@
     "department": "AEPS",
     "firstName": "Ashraf",
     "lastName": "Tubeileh",
-    "numEvals": 4,
-    "overallRating": 1.75,
-    "materialClear": 1.25,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 1.2,
     "studentDifficulties": 2,
     "courses": [
       "AEPS 120",
@@ -25911,8 +25913,8 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 230,
-    "overallRating": 2.72,
+    "numEvals": 231,
+    "overallRating": 2.73,
     "materialClear": 2.59,
     "studentDifficulties": 2.43,
     "courses": [
@@ -25934,11 +25936,11 @@
       "Flexible Grading Policy": 4,
       "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 2,
-      "Supplemental Study Material": 7,
+      "Supplemental Study Material": 8,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
-      "High In-Person Availability": 8,
-      "Fast Response Time": 8,
+      "High In-Person Availability": 9,
+      "Fast Response Time": 9,
       "Flexible Attendance Policy": 6,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1
@@ -27691,10 +27693,10 @@
     "department": "MATH",
     "firstName": "Hai",
     "lastName": "Tran",
-    "numEvals": 25,
-    "overallRating": 2.3,
-    "materialClear": 1.97,
-    "studentDifficulties": 2.55,
+    "numEvals": 26,
+    "overallRating": 2.37,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.57,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -27788,10 +27790,10 @@
     "department": "PSY",
     "firstName": "Marc",
     "lastName": "Halusic",
-    "numEvals": 15,
-    "overallRating": 2.39,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.87,
+    "numEvals": 16,
+    "overallRating": 2.43,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.88,
     "courses": [
       "PSY 252",
       "PSY 201",
@@ -27801,7 +27803,7 @@
     "tags": {
       "Recorded Lectures": 9,
       "Zoom Office Hours": 4,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Flexible Deadline Policy": 2,
       "No Breaks During Lecture": 1,
       "Inflexible Attendance Policy": 2,
@@ -38949,10 +38951,10 @@
     "department": "CHEM",
     "firstName": "Scott",
     "lastName": "Eagon",
-    "numEvals": 38,
-    "overallRating": 3.23,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.16,
+    "numEvals": 39,
+    "overallRating": 3.25,
+    "materialClear": 3.23,
+    "studentDifficulties": 3.18,
     "courses": [
       "CHEM 110",
       "CHEM 216",
