@@ -3432,7 +3432,7 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 226,
+    "numEvals": 227,
     "overallRating": 3.53,
     "materialClear": 3.62,
     "studentDifficulties": 3.33,
@@ -6176,10 +6176,10 @@
     "department": "PHYS",
     "firstName": "John Jeremy",
     "lastName": "Jasbinsek",
-    "numEvals": 59,
-    "overallRating": 2.13,
-    "materialClear": 2.08,
-    "studentDifficulties": 1.94,
+    "numEvals": 60,
+    "overallRating": 2.14,
+    "materialClear": 2.1,
+    "studentDifficulties": 1.96,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -6197,7 +6197,7 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 3,
-      "Class Handouts": 6,
+      "Class Handouts": 7,
       "Supplemental Study Material": 2,
       "No Breaks During Lecture": 2,
       "Uploads Slides": 2,
@@ -9309,19 +9309,20 @@
     "department": "WGS",
     "firstName": "Ceylan",
     "lastName": "Cemali",
-    "numEvals": 11,
-    "overallRating": 2.64,
-    "materialClear": 2.18,
-    "studentDifficulties": 2.45,
+    "numEvals": 12,
+    "overallRating": 2.5,
+    "materialClear": 2,
+    "studentDifficulties": 2.25,
     "courses": [
       "WGS 145"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 3,
       "Honor DRC Accommodations": 2,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -17333,10 +17334,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 36,
-    "overallRating": 1.07,
-    "materialClear": 1.84,
-    "studentDifficulties": 1.2,
+    "numEvals": 37,
+    "overallRating": 1.12,
+    "materialClear": 1.87,
+    "studentDifficulties": 1.25,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -17346,15 +17347,16 @@
       "Pop Quizzes": 2,
       "Inflexible Grading Policy": 8,
       "High In-Person Availability": 2,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "No Breaks During Lecture": 6,
       "Inflexible Attendance Policy": 8,
       "Inflexible Deadline Policy": 7,
-      "Class Handouts": 11,
+      "Class Handouts": 12,
       "Fast Response Time": 5,
       "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -39439,10 +39441,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 27,
-    "overallRating": 3.39,
-    "materialClear": 3.44,
-    "studentDifficulties": 3.6,
+    "numEvals": 28,
+    "overallRating": 3.41,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.61,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -39454,9 +39456,9 @@
       "High In-Person Availability": 3,
       "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "No Breaks During Lecture": 8,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Attendance Policy": 9,
       "Flexible Grading Policy": 2,
       "Class Handouts": 1
