@@ -16348,10 +16348,10 @@
     "department": "CE",
     "firstName": "Ann",
     "lastName": "Goodell",
-    "numEvals": 12,
-    "overallRating": 2.93,
-    "materialClear": 3.17,
-    "studentDifficulties": 2.75,
+    "numEvals": 13,
+    "overallRating": 2.78,
+    "materialClear": 3.23,
+    "studentDifficulties": 2.85,
     "courses": [
       "CE 204"
     ],
@@ -24806,21 +24806,21 @@
     "department": "STAT",
     "firstName": "Yi-Hui",
     "lastName": "Wang",
-    "numEvals": 7,
-    "overallRating": 1.29,
-    "materialClear": 0.71,
-    "studentDifficulties": 1.57,
+    "numEvals": 8,
+    "overallRating": 1.5,
+    "materialClear": 0.87,
+    "studentDifficulties": 1.75,
     "courses": [
       "STAT 218"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 1,
-      "Fast Response Time": 1,
+      "Supplemental Study Material": 2,
+      "Fast Response Time": 2,
       "Class Handouts": 1
     }
   },
@@ -25587,10 +25587,10 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 21,
-    "overallRating": 0.81,
-    "materialClear": 0.96,
-    "studentDifficulties": 1,
+    "numEvals": 23,
+    "overallRating": 0.74,
+    "materialClear": 0.88,
+    "studentDifficulties": 0.91,
     "courses": [
       "ECON 222",
       "ECON 434"
@@ -27467,10 +27467,10 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 19,
-    "overallRating": 3.85,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.9,
+    "numEvals": 20,
+    "overallRating": 3.76,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.91,
     "courses": [
       "MATH 248",
       "MATH 143",
@@ -33893,21 +33893,22 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Baltimore",
-    "numEvals": 10,
-    "overallRating": 2.5,
-    "materialClear": 3.1,
-    "studentDifficulties": 2.4,
+    "numEvals": 11,
+    "overallRating": 2.36,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.27,
     "courses": [
       "ENGL 147",
       "ENGL 310"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Uploads Slides": 1,
       "High In-Person Availability": 1,
       "Inflexible Deadline Policy": 2,
       "Class Handouts": 3,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 3,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -36172,16 +36173,17 @@
     "department": "MATH",
     "firstName": "Nicholas",
     "lastName": "Blanchard",
-    "numEvals": 2,
-    "overallRating": 0.5,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "numEvals": 3,
+    "overallRating": 1.33,
+    "materialClear": 1.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "MATH 119",
       "MATH 118"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -39532,10 +39534,10 @@
     "department": "SOC",
     "firstName": "Benjamin",
     "lastName": "Funston-Timms",
-    "numEvals": 51,
-    "overallRating": 3.71,
+    "numEvals": 52,
+    "overallRating": 3.7,
     "materialClear": 3.77,
-    "studentDifficulties": 3.63,
+    "studentDifficulties": 3.6,
     "courses": [
       "GEOG 150",
       "SOC 150",
@@ -39549,14 +39551,14 @@
       "GEOG 380"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Uploads Slides": 5,
+      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 6,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -42482,21 +42484,22 @@
     "department": "ENGL",
     "firstName": "Kailey",
     "lastName": "Herrmann",
-    "numEvals": 7,
-    "overallRating": 3.86,
-    "materialClear": 3.71,
-    "studentDifficulties": 4,
+    "numEvals": 8,
+    "overallRating": 3.75,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.88,
     "courses": [
       "ENGL 134",
       "ENGL 145"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
       "Hybrid Option": 1,
       "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
