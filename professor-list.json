@@ -7035,10 +7035,10 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.66,
+    "studentDifficulties": 3.69,
     "courses": [
       "EE 306",
       "EE 307",
@@ -7051,11 +7051,12 @@
       "Flexible Attendance Policy": 2,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 3,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 2,
       "Uploads Slides": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -7153,10 +7154,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 185,
-    "overallRating": 2.12,
-    "materialClear": 2.21,
-    "studentDifficulties": 2.21,
+    "numEvals": 187,
+    "overallRating": 2.1,
+    "materialClear": 2.2,
+    "studentDifficulties": 2.19,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -8171,7 +8172,7 @@
     "department": "ASCI",
     "firstName": "Claire",
     "lastName": "Moreno",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -10875,10 +10876,10 @@
     "department": "BIO",
     "firstName": "Michele",
     "lastName": "Roest",
-    "numEvals": 21,
-    "overallRating": 3.29,
-    "materialClear": 3.37,
-    "studentDifficulties": 3.57,
+    "numEvals": 22,
+    "overallRating": 3.32,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.59,
     "courses": [
       "BIO 227",
       "BIO 222",
@@ -10886,8 +10887,8 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Uploads Slides": 7,
-      "Flexible Attendance Policy": 5,
+      "Uploads Slides": 8,
+      "Flexible Attendance Policy": 6,
       "Recorded Lectures": 2,
       "Does Not Use Canvas": 4,
       "High In-Person Availability": 1,
@@ -11391,18 +11392,18 @@
     "department": "SOC",
     "firstName": "Upali",
     "lastName": "Bhattacharya",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.75,
     "courses": [
       "SOC 110"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 3,
-      "Fast Response Time": 1,
+      "Uploads Slides": 4,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1
     }
   },
@@ -14921,8 +14922,8 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 60,
-    "overallRating": 3.68,
+    "numEvals": 61,
+    "overallRating": 3.69,
     "materialClear": 3.74,
     "studentDifficulties": 3.72,
     "courses": [
@@ -19219,10 +19220,10 @@
     "department": "PHIL",
     "firstName": "Daniel",
     "lastName": "Story",
-    "numEvals": 15,
-    "overallRating": 3.61,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.53,
+    "numEvals": 16,
+    "overallRating": 3.63,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.56,
     "courses": [
       "PHIL 323",
       "PHIL 336",
@@ -19936,10 +19937,10 @@
     "department": "BIO",
     "firstName": "Sandi",
     "lastName": "Clement",
-    "numEvals": 38,
-    "overallRating": 3.11,
-    "materialClear": 2.97,
-    "studentDifficulties": 3.29,
+    "numEvals": 39,
+    "overallRating": 3.13,
+    "materialClear": 3,
+    "studentDifficulties": 3.31,
     "courses": [
       "BIO 161",
       "BIO 302",
@@ -19949,11 +19950,11 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
-      "Recorded Lectures": 3,
+      "Recorded Lectures": 4,
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1
     }
@@ -20938,10 +20939,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Ashley",
-    "numEvals": 71,
-    "overallRating": 3.19,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.16,
+    "numEvals": 72,
+    "overallRating": 3.2,
+    "materialClear": 3.16,
+    "studentDifficulties": 3.17,
     "courses": [
       "ENGL 134",
       "ENGL 143",
@@ -25627,16 +25628,16 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 24,
-    "overallRating": 0.75,
-    "materialClear": 0.84,
-    "studentDifficulties": 0.87,
+    "numEvals": 25,
+    "overallRating": 0.8,
+    "materialClear": 0.93,
+    "studentDifficulties": 0.92,
     "courses": [
       "ECON 222",
       "ECON 434"
     ],
     "tags": {
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "Class Handouts": 1,
@@ -27208,10 +27209,10 @@
     "department": "CHEM",
     "firstName": "Daniel A.",
     "lastName": "Bercovici",
-    "numEvals": 26,
-    "overallRating": 3.78,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.66,
+    "numEvals": 27,
+    "overallRating": 3.79,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.67,
     "courses": [
       "CHEM 216",
       "CHEM 217",
@@ -27227,10 +27228,10 @@
       "Class Handouts": 1,
       "Does Not Use Canvas": 5,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "Supplemental Study Material": 4,
       "No Breaks During Lecture": 1,
-      "Recorded Lectures": 2
+      "Recorded Lectures": 3
     }
   },
   {
@@ -30897,10 +30898,10 @@
     "department": "PHYS",
     "firstName": "Vardha",
     "lastName": "Bennert",
-    "numEvals": 34,
-    "overallRating": 2.92,
-    "materialClear": 2.82,
-    "studentDifficulties": 2.82,
+    "numEvals": 35,
+    "overallRating": 2.95,
+    "materialClear": 2.85,
+    "studentDifficulties": 2.85,
     "courses": [
       "ASTR 101",
       "PHYS 101",
@@ -30915,11 +30916,11 @@
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 4,
-      "Uploads Slides": 6,
-      "High In-Person Availability": 5,
+      "Uploads Slides": 7,
+      "High In-Person Availability": 6,
       "No Breaks During Lecture": 3,
       "Inflexible Attendance Policy": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 2
     }
   },
   {
@@ -32043,10 +32044,10 @@
     "department": "MATH",
     "firstName": "Jonathan",
     "lastName": "Shapiro",
-    "numEvals": 165,
-    "overallRating": 2.17,
-    "materialClear": 2.24,
-    "studentDifficulties": 1.96,
+    "numEvals": 166,
+    "overallRating": 2.16,
+    "materialClear": 2.23,
+    "studentDifficulties": 1.95,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -32784,10 +32785,10 @@
     "department": "PHIL",
     "firstName": "Adam",
     "lastName": "BenShea",
-    "numEvals": 23,
-    "overallRating": 3.5,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.35,
+    "numEvals": 24,
+    "overallRating": 3.52,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.38,
     "courses": [
       "RELS 201",
       "RELS 302",
@@ -33742,10 +33743,10 @@
     "department": "ES",
     "firstName": "Aaron",
     "lastName": "Rodriguez",
-    "numEvals": 47,
+    "numEvals": 48,
     "overallRating": 2.97,
-    "materialClear": 2.97,
-    "studentDifficulties": 2.8,
+    "materialClear": 2.99,
+    "studentDifficulties": 2.78,
     "courses": [
       "ES 110",
       "ES 112",
@@ -33970,10 +33971,10 @@
     "department": "HLTH",
     "firstName": "Christine Irish",
     "lastName": "Nelson",
-    "numEvals": 10,
-    "overallRating": 3.89,
-    "materialClear": 3.89,
-    "studentDifficulties": 3.6,
+    "numEvals": 11,
+    "overallRating": 3.9,
+    "materialClear": 3.9,
+    "studentDifficulties": 3.27,
     "courses": [
       "HLTH 250",
       "HLTH 101",
@@ -37477,9 +37478,9 @@
     "department": "FSN",
     "firstName": "Mary Beth",
     "lastName": "Brumit",
-    "numEvals": 9,
-    "overallRating": 3.89,
-    "materialClear": 3.89,
+    "numEvals": 10,
+    "overallRating": 3.9,
+    "materialClear": 3.9,
     "studentDifficulties": 4,
     "courses": [
       "FSN 305",
@@ -44833,10 +44834,10 @@
     "department": "BIO",
     "firstName": "Lars",
     "lastName": "Tomanek",
-    "numEvals": 13,
-    "overallRating": 2.01,
-    "materialClear": 1.77,
-    "studentDifficulties": 2.23,
+    "numEvals": 14,
+    "overallRating": 2.08,
+    "materialClear": 1.86,
+    "studentDifficulties": 2.29,
     "courses": [
       "BIO 162",
       "BIO 324",
@@ -44844,8 +44845,9 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Uploads Slides": 1,
-      "No Breaks During Lecture": 1
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
