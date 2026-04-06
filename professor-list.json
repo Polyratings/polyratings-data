@@ -32696,10 +32696,10 @@
     "department": "MATH",
     "firstName": "Eric",
     "lastName": "Brussel",
-    "numEvals": 70,
-    "overallRating": 2.86,
-    "materialClear": 2.8,
-    "studentDifficulties": 2.77,
+    "numEvals": 71,
+    "overallRating": 2.88,
+    "materialClear": 2.82,
+    "studentDifficulties": 2.79,
     "courses": [
       "MATH 142",
       "MATH 143",
@@ -32716,7 +32716,7 @@
     "tags": {
       "Supplemental Study Material": 2,
       "Inflexible Grading Policy": 4,
-      "Does Not Use Canvas": 12,
+      "Does Not Use Canvas": 13,
       "Uploads Slides": 1,
       "Class Handouts": 1,
       "Flexible Grading Policy": 1,
@@ -39656,10 +39656,10 @@
     "department": "GER",
     "firstName": "Christian",
     "lastName": "Anderson",
-    "numEvals": 35,
-    "overallRating": 3.24,
-    "materialClear": 3.27,
-    "studentDifficulties": 3.28,
+    "numEvals": 36,
+    "overallRating": 3.15,
+    "materialClear": 3.18,
+    "studentDifficulties": 3.3,
     "courses": [
       "GER 101",
       "GER 102",
@@ -42335,13 +42335,14 @@
     "department": "ARCH",
     "firstName": "Jonathan",
     "lastName": "Reich",
-    "numEvals": 2,
-    "overallRating": 2.67,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 3,
+    "overallRating": 3.11,
+    "materialClear": 3.11,
+    "studentDifficulties": 2.89,
     "courses": [
       "EDES 406"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "dc34830d-8cd4-421f-bd6d-18730691e3e9",
