@@ -43525,10 +43525,10 @@
     "department": "ME",
     "firstName": "Sam",
     "lastName": "Cordero",
-    "numEvals": 11,
-    "overallRating": 1.36,
-    "materialClear": 1,
-    "studentDifficulties": 1.36,
+    "numEvals": 12,
+    "overallRating": 1.25,
+    "materialClear": 0.92,
+    "studentDifficulties": 1.25,
     "courses": [
       "ME 343"
     ],
@@ -43538,8 +43538,10 @@
       "Uploads Slides": 2,
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 2
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "Pop Quizzes": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
