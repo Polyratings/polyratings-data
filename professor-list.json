@@ -551,10 +551,10 @@
     "department": "ARCH",
     "firstName": "Angela",
     "lastName": "Bracco",
-    "numEvals": 23,
-    "overallRating": 3.06,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.91,
+    "numEvals": 24,
+    "overallRating": 3.1,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.96,
     "courses": [
       "ARCH 131",
       "ARCH 132",
@@ -565,8 +565,10 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 2,
-      "Fast Response Time": 1,
-      "Supplemental Study Material": 1
+      "Fast Response Time": 2,
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -39672,10 +39674,10 @@
     "department": "GER",
     "firstName": "Christian",
     "lastName": "Anderson",
-    "numEvals": 36,
-    "overallRating": 3.15,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.3,
+    "numEvals": 37,
+    "overallRating": 3.06,
+    "materialClear": 3.09,
+    "studentDifficulties": 3.21,
     "courses": [
       "GER 101",
       "GER 102",
@@ -45807,19 +45809,20 @@
     "department": "ARCH",
     "firstName": "Casey",
     "lastName": "Benito",
-    "numEvals": 11,
-    "overallRating": 0.73,
-    "materialClear": 0.64,
-    "studentDifficulties": 0.82,
+    "numEvals": 12,
+    "overallRating": 0.75,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.84,
     "courses": [
       "ARCH 132",
       "ARCH 133",
       "ARCH 252"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 2,
-      "Pop Quizzes": 2
+      "Pop Quizzes": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
