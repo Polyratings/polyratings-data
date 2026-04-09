@@ -7093,7 +7093,7 @@
     "department": "CRP",
     "firstName": "Ryan",
     "lastName": "Miller",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -7101,9 +7101,11 @@
       "CRP 213"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -7756,10 +7758,10 @@
     "department": "BUS",
     "firstName": "Daeun",
     "lastName": "Lee",
-    "numEvals": 13,
-    "overallRating": 2.7,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.61,
+    "numEvals": 14,
+    "overallRating": 2.79,
+    "materialClear": 2.79,
+    "studentDifficulties": 2.71,
     "courses": [
       "BUS 321",
       "BUS 214"
@@ -7767,12 +7769,13 @@
     "tags": {
       "Flexible Attendance Policy": 2,
       "Inflexible Grading Policy": 2,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Inflexible Deadline Policy": 1,
       "Fast Response Time": 3,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -12922,10 +12925,10 @@
     "department": "BUS",
     "firstName": "Bingyi (Nicole)",
     "lastName": "Wu",
-    "numEvals": 11,
+    "numEvals": 12,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "BUS 391",
       "BUS 393"
@@ -35470,19 +35473,20 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 6,
-    "overallRating": 3.33,
-    "materialClear": 2.83,
-    "studentDifficulties": 3.83,
+    "numEvals": 7,
+    "overallRating": 3.28,
+    "materialClear": 2.57,
+    "studentDifficulties": 3.71,
     "courses": [
       "BUS 319"
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 2,
-      "Recorded Lectures": 1
+      "Inflexible Attendance Policy": 3,
+      "Recorded Lectures": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
