@@ -4870,10 +4870,10 @@
     "department": "ME",
     "firstName": "Alan",
     "lastName": "Zhang",
-    "numEvals": 21,
-    "overallRating": 3.15,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.52,
+    "numEvals": 22,
+    "overallRating": 3.1,
+    "materialClear": 3.74,
+    "studentDifficulties": 3.45,
     "courses": [
       "ME 211",
       "ME 328",
@@ -4885,11 +4885,11 @@
       "Flexible Grading Policy": 2,
       "Uploads Slides": 8,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Supplemental Study Material": 4,
       "Flexible Attendance Policy": 2,
-      "Inflexible Grading Policy": 2,
-      "Fast Response Time": 3
+      "Inflexible Grading Policy": 3,
+      "Fast Response Time": 4
     }
   },
   {
@@ -6028,7 +6028,7 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 68,
+    "numEvals": 69,
     "overallRating": 3.74,
     "materialClear": 3.78,
     "studentDifficulties": 3.75,
@@ -6040,11 +6040,11 @@
       "Supplemental Study Material": 7,
       "Uploads Slides": 16,
       "Flexible Attendance Policy": 12,
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Fast Response Time": 2,
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Recorded Lectures": 2,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Zoom Office Hours": 1
     }
   },
@@ -27673,7 +27673,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 3.94,
     "materialClear": 4,
     "studentDifficulties": 3.94,
@@ -27685,12 +27685,13 @@
     "tags": {
       "High In-Person Availability": 6,
       "Fast Response Time": 6,
-      "Uploads Slides": 9,
-      "Flexible Grading Policy": 2,
+      "Uploads Slides": 10,
+      "Flexible Grading Policy": 3,
       "Inflexible Attendance Policy": 1,
       "Flexible Attendance Policy": 1,
       "No Breaks During Lecture": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -34872,15 +34873,18 @@
     "department": "ENGL",
     "firstName": "Kacie",
     "lastName": "Wills",
-    "numEvals": 3,
-    "overallRating": 3.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.75,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Hybrid Option": 1,
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -37445,10 +37449,10 @@
     "department": "BIO",
     "firstName": "Jaimie",
     "lastName": "Bunting",
-    "numEvals": 35,
+    "numEvals": 36,
     "overallRating": 3.85,
     "materialClear": 3.9,
-    "studentDifficulties": 3.73,
+    "studentDifficulties": 3.74,
     "courses": [
       "BIO 111",
       "BIO 150",
@@ -37457,13 +37461,13 @@
     ],
     "tags": {
       "Recorded Lectures": 25,
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "Flexible Attendance Policy": 4,
       "High In-Person Availability": 7,
       "Supplemental Study Material": 6,
-      "Uploads Slides": 18,
+      "Uploads Slides": 19,
       "No Breaks During Lecture": 4,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Honor DRC Accommodations": 2,
       "Inflexible Attendance Policy": 2,
       "Inflexible Grading Policy": 1
@@ -40019,7 +40023,7 @@
     "department": "CHEM",
     "firstName": "Grace",
     "lastName": "Neff",
-    "numEvals": 155,
+    "numEvals": 156,
     "overallRating": 3.47,
     "materialClear": 3.43,
     "studentDifficulties": 3.41,
@@ -40031,12 +40035,12 @@
       "CHEM 128"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Class Handouts": 8,
       "Uploads Slides": 10,
-      "Fast Response Time": 11,
+      "Fast Response Time": 12,
       "Flexible Deadline Policy": 9,
-      "High In-Person Availability": 13,
+      "High In-Person Availability": 14,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 15
     }
@@ -41852,10 +41856,10 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Fogle",
-    "numEvals": 67,
-    "overallRating": 1.9,
-    "materialClear": 2.02,
-    "studentDifficulties": 1.84,
+    "numEvals": 68,
+    "overallRating": 1.93,
+    "materialClear": 2.05,
+    "studentDifficulties": 1.87,
     "courses": [
       "CHEM 101",
       "CHEM 110",
@@ -41870,10 +41874,11 @@
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Class Handouts": 3,
-      "Supplemental Study Material": 2,
-      "Uploads Slides": 1
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
