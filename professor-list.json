@@ -4953,10 +4953,10 @@
     "department": "EE",
     "firstName": "Dean",
     "lastName": "Arakaki",
-    "numEvals": 113,
-    "overallRating": 1.86,
-    "materialClear": 1.93,
-    "studentDifficulties": 1.77,
+    "numEvals": 114,
+    "overallRating": 1.88,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.79,
     "courses": [
       "EE 111",
       "EE 151",
@@ -11141,10 +11141,10 @@
     "department": "CSC",
     "firstName": "Greg",
     "lastName": "Philbrick",
-    "numEvals": 19,
-    "overallRating": 2.43,
-    "materialClear": 1.62,
-    "studentDifficulties": 2.78,
+    "numEvals": 20,
+    "overallRating": 2.36,
+    "materialClear": 1.54,
+    "studentDifficulties": 2.64,
     "courses": [
       "CSC 202"
     ],
@@ -19626,10 +19626,10 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 9,
-    "overallRating": 2.66,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.22,
+    "numEvals": 10,
+    "overallRating": 2.69,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.2,
     "courses": [
       "BUS 346",
       "BUS 451"
@@ -19637,9 +19637,10 @@
     "tags": {
       "Zoom Office Hours": 2,
       "Fast Response Time": 3,
-      "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -35798,15 +35799,16 @@
     "department": "CM",
     "firstName": "Stacy",
     "lastName": "Kolegraff",
-    "numEvals": 5,
-    "overallRating": 3.52,
-    "materialClear": 3.04,
-    "studentDifficulties": 3.68,
+    "numEvals": 6,
+    "overallRating": 2.93,
+    "materialClear": 3.03,
+    "studentDifficulties": 3.07,
     "courses": [
       "CM 214",
       "CM 335",
       "CM 371"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "b6d4215d-ad9b-4a59-b7bb-731cb49b35d2",
@@ -47108,13 +47110,14 @@
     "department": "CE",
     "firstName": "David",
     "lastName": "Houghton",
-    "numEvals": 9,
-    "overallRating": 3.41,
-    "materialClear": 3.02,
-    "studentDifficulties": 3.41,
+    "numEvals": 10,
+    "overallRating": 3.27,
+    "materialClear": 2.92,
+    "studentDifficulties": 3.47,
     "courses": [
       "CE 475",
-      "CE 251"
+      "CE 251",
+      "CE 525"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -48230,10 +48233,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 30,
-    "overallRating": 3.69,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.7,
+    "numEvals": 31,
+    "overallRating": 3.57,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.58,
     "courses": [
       "PHYS 143",
       "PHYS 123",
