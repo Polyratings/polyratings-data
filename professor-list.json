@@ -2156,12 +2156,13 @@
     "department": "MATH",
     "firstName": "Rebecca",
     "lastName": "Bishop",
-    "numEvals": 7,
-    "overallRating": 2.43,
-    "materialClear": 2.71,
-    "studentDifficulties": 3,
+    "numEvals": 8,
+    "overallRating": 2.25,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.63,
     "courses": [
-      "MATH 115"
+      "MATH 115",
+      "MATH 141"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
@@ -6764,23 +6765,23 @@
     "department": "ECON",
     "firstName": "Javier",
     "lastName": "Medina",
-    "numEvals": 29,
+    "numEvals": 30,
     "overallRating": 3.91,
-    "materialClear": 3.91,
+    "materialClear": 3.88,
     "studentDifficulties": 3.89,
     "courses": [
       "ECON 222",
       "ECON 221"
     ],
     "tags": {
-      "Uploads Slides": 15,
+      "Uploads Slides": 16,
       "Fast Response Time": 9,
       "Flexible Attendance Policy": 6,
       "High In-Person Availability": 3,
       "Supplemental Study Material": 5,
-      "No Breaks During Lecture": 9,
+      "No Breaks During Lecture": 10,
       "Honor DRC Accommodations": 3,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 3
     }
   },
   {
@@ -15796,10 +15797,10 @@
     "department": "NR",
     "firstName": "Priya",
     "lastName": "Verma",
-    "numEvals": 25,
-    "overallRating": 2.12,
-    "materialClear": 2.27,
-    "studentDifficulties": 2.34,
+    "numEvals": 26,
+    "overallRating": 2.15,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.4,
     "courses": [
       "AG 141",
       "ENVE 142",
@@ -15813,8 +15814,10 @@
       "NR 335"
     ],
     "tags": {
-      "Uploads Slides": 2,
-      "Honor DRC Accommodations": 1
+      "Uploads Slides": 3,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -29986,10 +29989,10 @@
     "department": "MATH",
     "firstName": "Theresa",
     "lastName": "Migler",
-    "numEvals": 44,
-    "overallRating": 3.24,
-    "materialClear": 3.32,
-    "studentDifficulties": 3.24,
+    "numEvals": 45,
+    "overallRating": 3.26,
+    "materialClear": 3.34,
+    "studentDifficulties": 3.23,
     "courses": [
       "MATH 117",
       "MATH 118",
@@ -30007,13 +30010,13 @@
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Recorded Lectures": 1,
       "High In-Person Availability": 3,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 1
     }
   },
@@ -44207,18 +44210,18 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 24,
-    "overallRating": 3.88,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.66,
+    "numEvals": 25,
+    "overallRating": 3.84,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.67,
     "courses": [
       "STAT 252"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 11,
+      "Uploads Slides": 12,
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 11,
+      "Flexible Attendance Policy": 12,
       "Class Handouts": 1,
       "Supplemental Study Material": 6,
       "Flexible Grading Policy": 2,
