@@ -4744,19 +4744,19 @@
     "department": "PHYS",
     "firstName": "Harish",
     "lastName": "Moni Prakash",
-    "numEvals": 8,
-    "overallRating": 3.88,
+    "numEvals": 9,
+    "overallRating": 3.89,
     "materialClear": 4,
-    "studentDifficulties": 3.25,
+    "studentDifficulties": 3.33,
     "courses": [
       "PHYS 142"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 5,
       "Supplemental Study Material": 3,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Flexible Grading Policy": 2,
       "Inflexible Grading Policy": 1
     }
@@ -7794,23 +7794,23 @@
     "department": "BUS",
     "firstName": "Daeun",
     "lastName": "Lee",
-    "numEvals": 14,
-    "overallRating": 2.79,
-    "materialClear": 2.79,
-    "studentDifficulties": 2.71,
+    "numEvals": 16,
+    "overallRating": 2.94,
+    "materialClear": 2.88,
+    "studentDifficulties": 2.81,
     "courses": [
       "BUS 321",
       "BUS 214"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 2,
       "Uploads Slides": 6,
       "Inflexible Deadline Policy": 1,
       "Fast Response Time": 3,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Grading Policy": 1
     }
   },
@@ -13819,10 +13819,10 @@
     "department": "HIST",
     "firstName": "Roger",
     "lastName": "Hall",
-    "numEvals": 46,
-    "overallRating": 3.53,
-    "materialClear": 3.58,
-    "studentDifficulties": 3.34,
+    "numEvals": 48,
+    "overallRating": 3.55,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.36,
     "courses": [
       "HIST 201",
       "HIST 202",
@@ -18506,10 +18506,10 @@
     "department": "FR",
     "firstName": "John",
     "lastName": "Thompson",
-    "numEvals": 29,
-    "overallRating": 3.58,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.61,
+    "numEvals": 30,
+    "overallRating": 3.59,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.62,
     "courses": [
       "FR 101",
       "FR 103",
@@ -26227,10 +26227,10 @@
     "department": "ME",
     "firstName": "Glen",
     "lastName": "Thorncroft",
-    "numEvals": 90,
-    "overallRating": 2.94,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.1,
+    "numEvals": 91,
+    "overallRating": 2.95,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.11,
     "courses": [
       "ME 134",
       "ME 231",
@@ -26243,12 +26243,13 @@
     "tags": {
       "Does Not Use Canvas": 8,
       "Class Handouts": 2,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Inflexible Deadline Policy": 1,
       "Uploads Slides": 2,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 2,
-      "Inflexible Grading Policy": 4
+      "Inflexible Grading Policy": 4,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -34564,9 +34565,9 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 192,
-    "overallRating": 2.65,
-    "materialClear": 2.74,
+    "numEvals": 193,
+    "overallRating": 2.66,
+    "materialClear": 2.75,
     "studentDifficulties": 2.59,
     "courses": [
       "ENGL 101",
@@ -42380,7 +42381,7 @@
     "department": "CHEM",
     "firstName": "Emily",
     "lastName": "Fogle",
-    "numEvals": 68,
+    "numEvals": 69,
     "overallRating": 1.93,
     "materialClear": 2.05,
     "studentDifficulties": 1.87,
@@ -42393,16 +42394,17 @@
       "CHEM 371",
       "CHEM 373",
       "CHEM 474",
-      "CHEM 403"
+      "CHEM 403",
+      "CHEM 314"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "High In-Person Availability": 3,
       "Class Handouts": 3,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Uploads Slides": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2
     }
   },
   {
