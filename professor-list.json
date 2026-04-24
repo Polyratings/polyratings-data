@@ -13145,10 +13145,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 39,
-    "overallRating": 3.72,
+    "numEvals": 40,
+    "overallRating": 3.73,
     "materialClear": 3.83,
-    "studentDifficulties": 3.72,
+    "studentDifficulties": 3.73,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -13168,7 +13168,8 @@
       "Does Not Use Canvas": 2,
       "Hybrid Option": 1,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -22486,10 +22487,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 19,
-    "overallRating": 3.06,
+    "numEvals": 20,
+    "overallRating": 3.11,
     "materialClear": 2.95,
-    "studentDifficulties": 2.95,
+    "studentDifficulties": 3,
     "courses": [
       "STAT 331",
       "STAT 218",
@@ -22498,16 +22499,16 @@
     ],
     "tags": {
       "Fast Response Time": 5,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 4,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 4,
       "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Uploads Slides": 4,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2
     }
   },
   {
@@ -30141,10 +30142,10 @@
     "department": "STAT",
     "firstName": "Ulric",
     "lastName": "Lund",
-    "numEvals": 108,
-    "overallRating": 3.36,
-    "materialClear": 3.39,
-    "studentDifficulties": 3.22,
+    "numEvals": 109,
+    "overallRating": 3.37,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.23,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -30167,7 +30168,7 @@
       "Class Handouts": 8,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Attendance Policy": 1,
       "Fast Response Time": 3,
       "Flexible Deadline Policy": 1
