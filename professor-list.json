@@ -6447,15 +6447,15 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 387"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -27660,10 +27660,10 @@
     "department": "BIO",
     "firstName": "Po Marie",
     "lastName": "Yeung",
-    "numEvals": 19,
-    "overallRating": 1.79,
-    "materialClear": 1.95,
-    "studentDifficulties": 2.05,
+    "numEvals": 20,
+    "overallRating": 1.9,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.15,
     "courses": [
       "BIO 224",
       "MCRO 224",
@@ -27672,7 +27672,10 @@
       "MCRO 342"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -33998,10 +34001,10 @@
     "department": "CM",
     "firstName": "Terry",
     "lastName": "Roy",
-    "numEvals": 4,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 6,
+    "overallRating": 1.33,
+    "materialClear": 1.33,
+    "studentDifficulties": 1.33,
     "courses": [
       "CM 310",
       "CM 422"
@@ -34010,7 +34013,7 @@
       "High In-Person Availability": 1,
       "Class Handouts": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 4,
       "No Breaks During Lecture": 1,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1
