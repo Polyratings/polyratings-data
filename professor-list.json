@@ -673,10 +673,10 @@
     "department": "BRAE",
     "firstName": "G.W.",
     "lastName": "Bates",
-    "numEvals": 21,
+    "numEvals": 22,
     "overallRating": 2.91,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.73,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.79,
     "courses": [
       "BRAE 232",
       "BRAE 237",
@@ -685,10 +685,11 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 3
+      "Supplemental Study Material": 3,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -1837,12 +1838,12 @@
     "department": "LS",
     "firstName": "Crystal",
     "lastName": "Mercado",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.5,
     "courses": [
-      "LS"
+      "LS 370"
     ],
     "tags": {}
   },
@@ -3404,10 +3405,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 22,
-    "overallRating": 1.59,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.63,
+    "numEvals": 23,
+    "overallRating": 1.69,
+    "materialClear": 2,
+    "studentDifficulties": 1.73,
     "courses": [
       "CSC 378",
       "CSC 123",
@@ -3421,8 +3422,8 @@
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 5,
-      "Flexible Deadline Policy": 3
+      "Uploads Slides": 6,
+      "Flexible Deadline Policy": 4
     }
   },
   {
@@ -4592,10 +4593,10 @@
     "department": "ART",
     "firstName": "Charmaine",
     "lastName": "Martinez",
-    "numEvals": 11,
-    "overallRating": 2.04,
-    "materialClear": 2.38,
-    "studentDifficulties": 2.22,
+    "numEvals": 12,
+    "overallRating": 1.95,
+    "materialClear": 2.27,
+    "studentDifficulties": 2.12,
     "courses": [
       "ART 237",
       "ART 260",
@@ -4603,9 +4604,9 @@
       "ART 338"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -4906,10 +4907,10 @@
     "department": "ME",
     "firstName": "Alan",
     "lastName": "Zhang",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 3.1,
-    "materialClear": 3.74,
-    "studentDifficulties": 3.45,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.43,
     "courses": [
       "ME 211",
       "ME 328",
@@ -4917,15 +4918,16 @@
       "ME 329"
     ],
     "tags": {
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 8,
       "Flexible Deadline Policy": 1,
       "Class Handouts": 6,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Flexible Attendance Policy": 2,
       "Inflexible Grading Policy": 3,
-      "Fast Response Time": 4
+      "Fast Response Time": 4,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -34576,10 +34578,10 @@
     "department": "ENGL",
     "firstName": "Joel",
     "lastName": "Westwood",
-    "numEvals": 193,
-    "overallRating": 2.66,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.59,
+    "numEvals": 194,
+    "overallRating": 2.65,
+    "materialClear": 2.74,
+    "studentDifficulties": 2.58,
     "courses": [
       "ENGL 101",
       "ENGL 148",
@@ -40037,10 +40039,10 @@
     "department": "BRAE",
     "firstName": "Sara",
     "lastName": "Kuwahara",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 9,
+    "overallRating": 3.66,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.56,
     "courses": [
       "BRAE 348",
       "BRAE 150",
@@ -40048,11 +40050,12 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -41562,16 +41565,17 @@
     "department": "CHEM",
     "firstName": "Anya",
     "lastName": "Goodman",
-    "numEvals": 35,
-    "overallRating": 2.56,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.74,
+    "numEvals": 36,
+    "overallRating": 2.52,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.72,
     "courses": [
       "CHEM 128",
       "CHEM 308",
       "CHEM 313",
       "CHEM 371",
-      "CHEM 418"
+      "CHEM 418",
+      "CHEM 314"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
