@@ -11313,20 +11313,20 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 13,
-    "overallRating": 3.92,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.77,
+    "numEvals": 14,
+    "overallRating": 3.93,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.79,
     "courses": [
       "BUS 391"
     ],
     "tags": {
       "Flexible Attendance Policy": 6,
-      "Class Handouts": 2,
-      "Uploads Slides": 5,
+      "Class Handouts": 3,
+      "Uploads Slides": 6,
       "Flexible Deadline Policy": 4,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
@@ -29657,10 +29657,10 @@
     "department": "CSC",
     "firstName": "Michael",
     "lastName": "Haungs",
-    "numEvals": 38,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.08,
-    "overallRating": 3.26,
+    "numEvals": 39,
+    "overallRating": 3.28,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.1,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -29670,7 +29670,8 @@
       "CPE 453",
       "CSC 453",
       "CSC 543"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "946dd21e-9535-4e3b-b386-6776c2d838d5",
@@ -38903,10 +38904,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 115,
-    "overallRating": 3.47,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.43,
+    "numEvals": 116,
+    "overallRating": 3.44,
+    "materialClear": 3.52,
+    "studentDifficulties": 3.4,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -38921,9 +38922,9 @@
       "Flexible Deadline Policy": 2,
       "Class Handouts": 2,
       "Uploads Slides": 7,
-      "Flexible Attendance Policy": 9,
-      "Inflexible Grading Policy": 2,
-      "Hybrid Option": 3,
+      "Flexible Attendance Policy": 10,
+      "Inflexible Grading Policy": 3,
+      "Hybrid Option": 4,
       "Fast Response Time": 2,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 1,
