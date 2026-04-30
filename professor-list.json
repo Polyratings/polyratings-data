@@ -5841,10 +5841,10 @@
     "department": "AEPS",
     "firstName": "Benjamin",
     "lastName": "Hoover",
-    "numEvals": 13,
-    "overallRating": 2.83,
-    "materialClear": 3.31,
-    "studentDifficulties": 2.87,
+    "numEvals": 14,
+    "overallRating": 2.91,
+    "materialClear": 3.36,
+    "studentDifficulties": 2.95,
     "courses": [
       "EHS 120",
       "EHS 124",
@@ -5857,11 +5857,12 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 3,
-      "Uploads Slides": 3,
+      "Inflexible Deadline Policy": 4,
+      "Uploads Slides": 4,
       "Zoom Office Hours": 2,
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -18878,17 +18879,20 @@
     "department": "AEPS",
     "firstName": "Jeffery",
     "lastName": "Wong",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 3.33,
     "studentDifficulties": 3,
     "courses": [
       "AEPS 150",
-      "AG 101"
+      "AG 101",
+      "AEPS 304"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -25979,10 +25983,10 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 30,
-    "overallRating": 1.2,
-    "materialClear": 1.34,
-    "studentDifficulties": 1.43,
+    "numEvals": 31,
+    "overallRating": 1.16,
+    "materialClear": 1.3,
+    "studentDifficulties": 1.38,
     "courses": [
       "ECON 222",
       "ECON 434"
@@ -40286,10 +40290,10 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 69,
+    "numEvals": 70,
     "overallRating": 3.01,
-    "materialClear": 3.13,
-    "studentDifficulties": 2.89,
+    "materialClear": 3.14,
+    "studentDifficulties": 2.91,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -45281,7 +45285,7 @@
     "department": "ES",
     "firstName": "Dan",
     "lastName": "Castilow",
-    "numEvals": 20,
+    "numEvals": 21,
     "overallRating": 4,
     "materialClear": 3.91,
     "studentDifficulties": 3.91,
