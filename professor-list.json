@@ -2415,17 +2415,19 @@
     "department": "CPE",
     "firstName": "Sachiko",
     "lastName": "Matsumoto",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 3,
     "studentDifficulties": 4,
     "courses": [
-      "CPE"
+      "CPE 316",
+      "CPE 470"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9306,14 +9308,15 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "PHIL 126",
       "PHIL 231",
-      "PHIL 323"
+      "PHIL 323",
+      "PHIL 321"
     ],
     "tags": {
       "Recorded Lectures": 3,
@@ -29724,19 +29727,22 @@
     "department": "BIO",
     "firstName": "Sarah",
     "lastName": "Gravem",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.33,
     "courses": [
-      "BIO 150"
+      "BIO 150",
+      "MSCI 300"
     ],
     "tags": {
       "Recorded Lectures": 5,
       "High In-Person Availability": 4,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
