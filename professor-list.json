@@ -7775,7 +7775,7 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 43,
+    "numEvals": 44,
     "overallRating": 3.8,
     "materialClear": 3.94,
     "studentDifficulties": 3.8,
@@ -7785,16 +7785,17 @@
       "POLS 334",
       "POLS 341",
       "POLS 343",
-      "POLS 344"
+      "POLS 344",
+      "POLS 342"
     ],
     "tags": {
-      "High In-Person Availability": 9,
+      "High In-Person Availability": 10,
       "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "Does Not Use Canvas": 3,
       "Flexible Attendance Policy": 2,
-      "Honor DRC Accommodations": 2
+      "Honor DRC Accommodations": 3
     }
   },
   {
@@ -17931,10 +17932,10 @@
     "department": "PSC",
     "firstName": "Ryan",
     "lastName": "Perry",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.8,
+    "studentDifficulties": 3.83,
     "courses": [
       "PSC 110",
       "AEPS 313",
@@ -17942,7 +17943,7 @@
       "AEPS 431"
     ],
     "tags": {
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Fast Response Time": 3,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 4,
@@ -27671,10 +27672,10 @@
     "department": "BIO",
     "firstName": "Po Marie",
     "lastName": "Yeung",
-    "numEvals": 20,
-    "overallRating": 1.9,
-    "materialClear": 2.05,
-    "studentDifficulties": 2.15,
+    "numEvals": 21,
+    "overallRating": 1.81,
+    "materialClear": 1.95,
+    "studentDifficulties": 2.14,
     "courses": [
       "BIO 224",
       "MCRO 224",
@@ -27686,7 +27687,8 @@
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
