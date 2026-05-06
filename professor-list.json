@@ -6605,10 +6605,10 @@
     "department": "BUS",
     "firstName": "Sharon",
     "lastName": "Dobson",
-    "numEvals": 181,
-    "overallRating": 3.14,
-    "materialClear": 3.16,
-    "studentDifficulties": 3.19,
+    "numEvals": 182,
+    "overallRating": 3.13,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.18,
     "courses": [
       "BUS 102",
       "BUS 215",
@@ -10812,7 +10812,7 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Retsek",
-    "numEvals": 148,
+    "numEvals": 149,
     "overallRating": 3.37,
     "materialClear": 3.42,
     "studentDifficulties": 3.32,
@@ -15083,8 +15083,8 @@
     "department": "HIST",
     "firstName": "Cameron",
     "lastName": "Jones",
-    "numEvals": 61,
-    "overallRating": 3.69,
+    "numEvals": 62,
+    "overallRating": 3.7,
     "materialClear": 3.74,
     "studentDifficulties": 3.72,
     "courses": [
@@ -26994,10 +26994,10 @@
     "department": "BIO",
     "firstName": "Aubrey",
     "lastName": "Davis",
-    "numEvals": 19,
-    "overallRating": 1.8,
-    "materialClear": 1.43,
-    "studentDifficulties": 1.89,
+    "numEvals": 20,
+    "overallRating": 1.86,
+    "materialClear": 1.56,
+    "studentDifficulties": 2,
     "courses": [
       "BIO 161"
     ],
@@ -28203,19 +28203,19 @@
     "department": "ASCI",
     "firstName": "Darin",
     "lastName": "Bennett",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.83,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.85,
     "courses": [
       "ASCI 225"
     ],
     "tags": {
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 1,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -34334,10 +34334,10 @@
     "department": "PHIL",
     "firstName": "Kevin",
     "lastName": "Houser",
-    "numEvals": 12,
-    "overallRating": 2.84,
-    "materialClear": 2.92,
-    "studentDifficulties": 3.18,
+    "numEvals": 13,
+    "overallRating": 2.78,
+    "materialClear": 2.77,
+    "studentDifficulties": 3.17,
     "courses": [
       "PHIL 231",
       "PHIL 126"
@@ -34350,7 +34350,8 @@
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 1,
       "No Breaks During Lecture": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
