@@ -16675,10 +16675,10 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 77,
-    "overallRating": 0.47,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.65,
+    "numEvals": 78,
+    "overallRating": 0.5,
+    "materialClear": 0.7,
+    "studentDifficulties": 0.68,
     "courses": [
       "TH 210",
       "TH 228",
@@ -20840,9 +20840,9 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 153,
+    "numEvals": 154,
     "overallRating": 1.55,
-    "materialClear": 1.37,
+    "materialClear": 1.36,
     "studentDifficulties": 1.54,
     "courses": [
       "ECON 201",
@@ -20864,8 +20864,9 @@
       "Flexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 1,
-      "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 1
+      "High In-Person Availability": 2,
+      "Inflexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
