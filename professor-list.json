@@ -10162,16 +10162,17 @@
     "department": "CSC",
     "firstName": "Paul",
     "lastName": "Anderson",
-    "numEvals": 2,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.33,
     "courses": [
       "CSC 466",
       "CSC 448"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -18906,7 +18907,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 3.96,
@@ -18914,12 +18915,12 @@
       "COMS 101"
     ],
     "tags": {
-      "Fast Response Time": 18,
+      "Fast Response Time": 19,
       "Flexible Deadline Policy": 3,
       "Honor DRC Accommodations": 3,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 3,
-      "Flexible Grading Policy": 6,
+      "Flexible Grading Policy": 7,
       "Uploads Slides": 2,
       "Inflexible Deadline Policy": 1,
       "High In-Person Availability": 3
@@ -21021,21 +21022,24 @@
     "department": "POLS",
     "firstName": "Jennifer",
     "lastName": "Denbow",
-    "numEvals": 7,
-    "overallRating": 3,
-    "materialClear": 3.29,
-    "studentDifficulties": 2.86,
+    "numEvals": 9,
+    "overallRating": 3.23,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.11,
     "courses": [
       "POLS 230",
       "POLS 245",
-      "POLS 343"
+      "POLS 343",
+      "POLS 417"
     ],
     "tags": {
-      "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 2,
+      "Zoom Office Hours": 2,
+      "Inflexible Attendance Policy": 4,
       "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -24852,10 +24856,10 @@
     "department": "PHIL",
     "firstName": "David",
     "lastName": "Zoller",
-    "numEvals": 18,
-    "overallRating": 3.45,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.34,
+    "numEvals": 19,
+    "overallRating": 3.48,
+    "materialClear": 3.32,
+    "studentDifficulties": 3.37,
     "courses": [
       "PHIL 230",
       "PHIL 231",
@@ -24864,9 +24868,10 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 4,
-      "Class Handouts": 1,
-      "Honor DRC Accommodations": 1
+      "Uploads Slides": 5,
+      "Class Handouts": 2,
+      "Honor DRC Accommodations": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -35521,23 +35526,26 @@
     "department": "BUS",
     "firstName": "Ashish",
     "lastName": "Hingle",
-    "numEvals": 28,
-    "overallRating": 3.67,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.67,
+    "numEvals": 29,
+    "overallRating": 3.68,
+    "materialClear": 3.65,
+    "studentDifficulties": 3.68,
     "courses": [
       "BUS 391",
-      "IS 391"
+      "IS 391",
+      "BUS 399"
     ],
     "tags": {
       "Zoom Office Hours": 4,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Uploads Slides": 11,
       "High In-Person Availability": 3,
       "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -36616,10 +36624,10 @@
     "department": "POLS",
     "firstName": "Kevin",
     "lastName": "Simmt",
-    "numEvals": 16,
-    "overallRating": 3.44,
+    "numEvals": 18,
+    "overallRating": 3.4,
     "materialClear": 2.94,
-    "studentDifficulties": 3.76,
+    "studentDifficulties": 3.78,
     "courses": [
       "POLS 359",
       "POLS 229",
@@ -36628,12 +36636,12 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "Flexible Deadline Policy": 5,
-      "Uploads Slides": 7,
-      "Zoom Office Hours": 1,
+      "Uploads Slides": 9,
+      "Zoom Office Hours": 2,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1
     }
@@ -38140,7 +38148,7 @@
     "department": "STAT",
     "firstName": "Billie-Jo",
     "lastName": "Grant-Ghanotakis",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -38149,15 +38157,15 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "High In-Person Availability": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 2,
       "Hybrid Option": 2,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2
     }
   },
   {
