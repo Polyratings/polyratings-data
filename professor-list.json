@@ -3189,10 +3189,10 @@
     "department": "CSC",
     "firstName": "David",
     "lastName": "Parkinson",
-    "numEvals": 24,
-    "overallRating": 3.52,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.48,
+    "numEvals": 25,
+    "overallRating": 3.54,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.42,
     "courses": [
       "CPE 102",
       "CSC 102",
@@ -6459,18 +6459,18 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 3,
-    "overallRating": 2,
+    "numEvals": 4,
+    "overallRating": 1.75,
     "materialClear": 2,
-    "studentDifficulties": 2.67,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 387"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2
     }
   },
   {
@@ -19677,10 +19677,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Seng",
-    "numEvals": 55,
-    "overallRating": 3.69,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 56,
+    "overallRating": 3.7,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.68,
     "courses": [
       "CPE 101",
       "CPE 123",
@@ -22868,10 +22868,10 @@
     "department": "PHYS",
     "firstName": "Katharina",
     "lastName": "Gillen",
-    "numEvals": 55,
-    "overallRating": 2.69,
-    "materialClear": 2.74,
-    "studentDifficulties": 2.81,
+    "numEvals": 56,
+    "overallRating": 2.64,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.76,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -22885,13 +22885,14 @@
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 3,
       "High In-Person Availability": 2,
       "Class Handouts": 3,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -28188,10 +28189,10 @@
     "department": "MATH",
     "firstName": "Hai",
     "lastName": "Tran",
-    "numEvals": 27,
-    "overallRating": 2.43,
-    "materialClear": 2.08,
-    "studentDifficulties": 2.62,
+    "numEvals": 28,
+    "overallRating": 2.49,
+    "materialClear": 2.15,
+    "studentDifficulties": 2.67,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -28199,13 +28200,13 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 2,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "No Breaks During Lecture": 4,
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 4,
       "Pop Quizzes": 1,
-      "High In-Person Availability": 5
+      "High In-Person Availability": 6
     }
   },
   {
@@ -36637,17 +36638,17 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 12,
-    "overallRating": 2.33,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.91,
+    "numEvals": 13,
+    "overallRating": 2.23,
+    "materialClear": 2.23,
+    "studentDifficulties": 2.84,
     "courses": [
       "CSC 101",
       "CSC 466",
       "DATA 301"
     ],
     "tags": {
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 1
@@ -42569,10 +42570,10 @@
     "department": "EE",
     "firstName": "Steve",
     "lastName": "Dunton",
-    "numEvals": 11,
-    "overallRating": 2.45,
-    "materialClear": 2.36,
-    "studentDifficulties": 3.18,
+    "numEvals": 12,
+    "overallRating": 2.5,
+    "materialClear": 2.33,
+    "studentDifficulties": 3.17,
     "courses": [
       "EE 201",
       "EE 504",
@@ -44906,7 +44907,7 @@
     "department": "CM",
     "firstName": "Jacob",
     "lastName": "Clark",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -48630,10 +48631,10 @@
     "department": "BIO",
     "firstName": "Praveen",
     "lastName": "Babu",
-    "numEvals": 88,
-    "overallRating": 3.3,
+    "numEvals": 89,
+    "overallRating": 3.31,
     "materialClear": 3.44,
-    "studentDifficulties": 3.09,
+    "studentDifficulties": 3.06,
     "courses": [
       "BIO 112",
       "BIO 210",
@@ -48644,9 +48645,9 @@
     ],
     "tags": {
       "No Breaks During Lecture": 6,
-      "Flexible Attendance Policy": 6,
-      "Uploads Slides": 11,
-      "Recorded Lectures": 5,
+      "Flexible Attendance Policy": 7,
+      "Uploads Slides": 12,
+      "Recorded Lectures": 6,
       "Flexible Grading Policy": 1
     }
   },
