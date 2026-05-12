@@ -7838,7 +7838,7 @@
     "department": "MATH",
     "firstName": "Lukas",
     "lastName": "Dakhlia",
-    "numEvals": 19,
+    "numEvals": 20,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 3.91,
@@ -7850,9 +7850,9 @@
       "MATH 221"
     ],
     "tags": {
-      "High In-Person Availability": 5,
-      "Fast Response Time": 8,
-      "Flexible Attendance Policy": 5,
+      "High In-Person Availability": 6,
+      "Fast Response Time": 9,
+      "Flexible Attendance Policy": 6,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1
@@ -16223,10 +16223,10 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 70,
+    "numEvals": 71,
     "overallRating": 3.67,
     "materialClear": 3.67,
-    "studentDifficulties": 3.53,
+    "studentDifficulties": 3.54,
     "courses": [
       "BUS 214",
       "BUS 215",
@@ -16236,14 +16236,14 @@
       "AGB 323"
     ],
     "tags": {
-      "Class Handouts": 7,
+      "Class Handouts": 8,
       "High In-Person Availability": 4,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
       "Fast Response Time": 5,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Does Not Use Canvas": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Flexible Attendance Policy": 1
     }
   },
@@ -18916,7 +18916,7 @@
     "department": "COMS",
     "firstName": "Jon",
     "lastName": "Kawashima",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 3.96,
@@ -18932,7 +18932,8 @@
       "Flexible Grading Policy": 7,
       "Uploads Slides": 2,
       "Inflexible Deadline Policy": 1,
-      "High In-Person Availability": 3
+      "High In-Person Availability": 4,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -21900,7 +21901,7 @@
     "department": "BUS",
     "firstName": "Travis",
     "lastName": "Raynaud",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -21908,9 +21909,9 @@
       "BUS 206"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Grading Policy": 1
     }
   },
@@ -35461,22 +35462,22 @@
     "department": "ES",
     "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 35,
-    "overallRating": 3.41,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.57,
+    "numEvals": 36,
+    "overallRating": 3.4,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.58,
     "courses": [
       "ES 253",
       "NR 360"
     ],
     "tags": {
-      "Flexible Attendance Policy": 13,
+      "Flexible Attendance Policy": 14,
       "Uploads Slides": 1,
       "Fast Response Time": 2,
       "Flexible Grading Policy": 3,
       "High In-Person Availability": 1,
-      "No Breaks During Lecture": 5,
-      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 6,
+      "Inflexible Deadline Policy": 2,
       "Supplemental Study Material": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
@@ -48400,10 +48401,10 @@
     "department": "AGB",
     "firstName": "Michael",
     "lastName": "McCullough",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.83,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 3.43,
+    "studentDifficulties": 3,
     "courses": [
       "NR 326",
       "AGB 260"
@@ -48412,10 +48413,11 @@
       "Uploads Slides": 3,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Pop Quizzes": 3,
-      "Inflexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Inflexible Grading Policy": 2,
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
