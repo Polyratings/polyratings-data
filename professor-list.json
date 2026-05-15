@@ -26,17 +26,19 @@
     "department": "ES",
     "firstName": "Tisha",
     "lastName": "Reichle-Aguilera",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "ES"
+      "ES 302"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 1,
+      "Zoom Office Hours": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -14877,10 +14879,10 @@
     "department": "ES",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 29,
-    "overallRating": 0.56,
-    "materialClear": 0.83,
-    "studentDifficulties": 0.73,
+    "numEvals": 30,
+    "overallRating": 0.54,
+    "materialClear": 0.8,
+    "studentDifficulties": 0.71,
     "courses": [
       "ES 350",
       "WGS 350",
@@ -24241,10 +24243,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 105,
-    "overallRating": 1.69,
-    "materialClear": 1.69,
-    "studentDifficulties": 1.73,
+    "numEvals": 106,
+    "overallRating": 1.71,
+    "materialClear": 1.71,
+    "studentDifficulties": 1.75,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -27888,7 +27890,7 @@
     "department": "CHEM",
     "firstName": "Haitham",
     "lastName": "Kalil",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -28103,7 +28105,7 @@
     "department": "WGS",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 0,
     "materialClear": 0,
     "studentDifficulties": 0,
@@ -29755,10 +29757,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 16,
-    "overallRating": 0.82,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.18,
+    "numEvals": 17,
+    "overallRating": 1.01,
+    "materialClear": 1.41,
+    "studentDifficulties": 1.35,
     "courses": [
       "EE 251",
       "EE 307",
