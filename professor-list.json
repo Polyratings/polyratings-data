@@ -33485,20 +33485,20 @@
     "department": "ME",
     "firstName": "Jennifer",
     "lastName": "Mott",
-    "numEvals": 4,
-    "overallRating": 2.5,
-    "materialClear": 2.75,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 2.8,
+    "materialClear": 3,
+    "studentDifficulties": 3.2,
     "courses": [
       "ME 303",
       "ME 448"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 3,
+      "Flexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Flexible Grading Policy": 1,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "High In-Person Availability": 1
     }
   },
@@ -45321,10 +45321,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 10,
-    "overallRating": 2.11,
-    "materialClear": 2.11,
-    "studentDifficulties": 2.3,
+    "numEvals": 11,
+    "overallRating": 2.19,
+    "materialClear": 2.1,
+    "studentDifficulties": 2.45,
     "courses": [
       "CHEM 312",
       "CHEM 127",
@@ -45335,10 +45335,11 @@
       "Fast Response Time": 3,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 9,
-      "Supplemental Study Material": 2,
+      "Uploads Slides": 10,
+      "Supplemental Study Material": 3,
       "Pop Quizzes": 4,
-      "Inflexible Grading Policy": 4
+      "Inflexible Grading Policy": 4,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
