@@ -18568,10 +18568,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 12,
-    "overallRating": 0.5,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.92,
+    "numEvals": 13,
+    "overallRating": 0.46,
+    "materialClear": 0.46,
+    "studentDifficulties": 0.85,
     "courses": [
       "ENGL 347",
       "ENGL 345",
@@ -20349,10 +20349,10 @@
     "department": "ME",
     "firstName": "Jennifer",
     "lastName": "Peuker",
-    "numEvals": 26,
-    "materialClear": 1.73,
-    "studentDifficulties": 1.77,
-    "overallRating": 1.65,
+    "numEvals": 27,
+    "overallRating": 1.63,
+    "materialClear": 1.7,
+    "studentDifficulties": 1.78,
     "courses": [
       "ME 128",
       "ME 302",
@@ -20360,7 +20360,10 @@
       "ME 343",
       "ME 420",
       "ME 440"
-    ]
+    ],
+    "tags": {
+      "Zoom Office Hours": 1
+    }
   },
   {
     "id": "64dc116c-a08f-4a8c-a377-2e4c93b372ee",
@@ -22691,16 +22694,16 @@
     "department": "ME",
     "firstName": "Marjan",
     "lastName": "Zare",
-    "numEvals": 11,
-    "overallRating": 1.73,
-    "materialClear": 2.38,
-    "studentDifficulties": 1.82,
+    "numEvals": 12,
+    "overallRating": 1.92,
+    "materialClear": 2.52,
+    "studentDifficulties": 2,
     "courses": [
       "ME 303"
     ],
     "tags": {
       "Inflexible Deadline Policy": 4,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "No Breaks During Lecture": 1,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1
@@ -45643,10 +45646,10 @@
     "department": "ENGL",
     "firstName": "Jennifer",
     "lastName": "Bates",
-    "numEvals": 52,
-    "overallRating": 2.18,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.15,
+    "numEvals": 53,
+    "overallRating": 2.14,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.11,
     "courses": [
       "ENGL 134",
       "ENGL 149",
