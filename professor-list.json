@@ -11178,10 +11178,10 @@
     "department": "STAT",
     "firstName": "Frank",
     "lastName": "Giron",
-    "numEvals": 40,
-    "overallRating": 1.43,
-    "materialClear": 1.08,
-    "studentDifficulties": 2,
+    "numEvals": 41,
+    "overallRating": 1.4,
+    "materialClear": 1.05,
+    "studentDifficulties": 1.95,
     "courses": [
       "STAT 217",
       "STAT 312",
@@ -22419,20 +22419,22 @@
     "department": "CSC",
     "firstName": "Austin",
     "lastName": "Wright",
-    "numEvals": 6,
-    "overallRating": 2.67,
-    "materialClear": 2.17,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 2.43,
+    "materialClear": 2.15,
+    "studentDifficulties": 3.15,
     "courses": [
-      "CSC 486"
+      "CSC 486",
+      "CSC 480"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
-      "Does Not Use Canvas": 6,
+      "Flexible Attendance Policy": 4,
+      "Does Not Use Canvas": 7,
       "Uploads Slides": 2,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 3,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
