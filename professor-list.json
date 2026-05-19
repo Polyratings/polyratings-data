@@ -14135,10 +14135,10 @@
     "department": "BUS",
     "firstName": "Wes",
     "lastName": "Love",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.17,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.29,
     "courses": [
       "ITP 303",
       "BUS 387"
@@ -15597,10 +15597,10 @@
     "department": "POLS",
     "firstName": "Anika",
     "lastName": "Leithner",
-    "numEvals": 88,
-    "overallRating": 3.37,
-    "materialClear": 3.35,
-    "studentDifficulties": 3.51,
+    "numEvals": 89,
+    "overallRating": 3.38,
+    "materialClear": 3.36,
+    "studentDifficulties": 3.52,
     "courses": [
       "POLS 111",
       "POLS 131",
@@ -15616,13 +15616,15 @@
       "POLS 308"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 3,
       "Uploads Slides": 2,
       "Supplemental Study Material": 1,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -38993,10 +38995,10 @@
     "department": "HIST",
     "firstName": "Jason",
     "lastName": "Linn",
-    "numEvals": 116,
-    "overallRating": 3.44,
-    "materialClear": 3.52,
-    "studentDifficulties": 3.4,
+    "numEvals": 117,
+    "overallRating": 3.42,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.41,
     "courses": [
       "HIST 110",
       "HIST 201",
@@ -39011,9 +39013,9 @@
       "Flexible Deadline Policy": 2,
       "Class Handouts": 2,
       "Uploads Slides": 7,
-      "Flexible Attendance Policy": 10,
+      "Flexible Attendance Policy": 11,
       "Inflexible Grading Policy": 3,
-      "Hybrid Option": 4,
+      "Hybrid Option": 5,
       "Fast Response Time": 2,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 1,
@@ -45149,20 +45151,21 @@
     "department": "SOC",
     "firstName": "Kylie",
     "lastName": "Parrotta",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "SOC 110",
       "SOC 311"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Deadline Policy": 2,
       "Zoom Office Hours": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {
