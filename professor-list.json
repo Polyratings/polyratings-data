@@ -15873,7 +15873,7 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -15886,7 +15886,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -36057,10 +36059,10 @@
     "department": "ENGL",
     "firstName": "Lisa",
     "lastName": "Coffman",
-    "numEvals": 43,
-    "overallRating": 3.16,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.08,
+    "numEvals": 44,
+    "overallRating": 3.18,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.1,
     "courses": [
       "ENGL 134",
       "ENGL 251",
@@ -36071,7 +36073,9 @@
       "ENGL 386",
       "ENGL 388"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1
+    }
   },
   {
     "id": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
@@ -46369,7 +46373,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 204,
+    "numEvals": 205,
     "overallRating": 3.39,
     "materialClear": 3.39,
     "studentDifficulties": 3.23,
