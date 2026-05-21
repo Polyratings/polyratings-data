@@ -4368,10 +4368,10 @@
     "department": "BUS",
     "firstName": "Drexler",
     "lastName": "Alcantara",
-    "numEvals": 8,
-    "overallRating": 3.75,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.88,
+    "numEvals": 9,
+    "overallRating": 3.78,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.89,
     "courses": [
       "BUS 100"
     ],
@@ -7118,16 +7118,17 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.69,
+    "studentDifficulties": 3.72,
     "courses": [
       "EE 306",
       "EE 307",
       "EE 315",
       "EE 346",
-      "EE 409"
+      "EE 409",
+      "EE 321"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -24357,10 +24358,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 106,
-    "overallRating": 1.71,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.75,
+    "numEvals": 111,
+    "overallRating": 1.81,
+    "materialClear": 1.81,
+    "studentDifficulties": 1.85,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -25206,10 +25207,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 72,
-    "overallRating": 2.37,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.35,
+    "numEvals": 73,
+    "overallRating": 2.34,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.32,
     "courses": [
       "TH 210",
       "TH 227",
@@ -26152,22 +26153,23 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 34,
-    "overallRating": 1.09,
-    "materialClear": 1.18,
-    "studentDifficulties": 1.29,
+    "numEvals": 35,
+    "overallRating": 1.17,
+    "materialClear": 1.26,
+    "studentDifficulties": 1.34,
     "courses": [
       "ECON 222",
       "ECON 434"
     ],
     "tags": {
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Flexible Attendance Policy": 1,
       "Does Not Use Canvas": 0,
-      "Honor DRC Accommodations": 0
+      "Honor DRC Accommodations": 0,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -41882,15 +41884,18 @@
     "department": "POLS",
     "firstName": "Chris",
     "lastName": "Nelson",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 2.75,
+    "studentDifficulties": 3.75,
     "courses": [
       "POLS 351"
     ],
     "tags": {
-      "Uploads Slides": 3
+      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
