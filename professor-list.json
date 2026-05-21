@@ -5366,10 +5366,10 @@
     "department": "ARCE",
     "firstName": "Michael",
     "lastName": "Deigert",
-    "numEvals": 7,
-    "overallRating": 1.86,
-    "materialClear": 2.29,
-    "studentDifficulties": 1.86,
+    "numEvals": 8,
+    "overallRating": 1.63,
+    "materialClear": 2,
+    "studentDifficulties": 1.63,
     "courses": [
       "ARCE 315",
       "ARCE 304",
@@ -10412,10 +10412,10 @@
     "department": "LA",
     "firstName": "Amber",
     "lastName": "Lake",
-    "numEvals": 5,
-    "overallRating": 3.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.67,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.67,
     "courses": [
       "LA 212"
     ],
@@ -12525,10 +12525,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 82,
-    "overallRating": 2.18,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.02,
+    "numEvals": 83,
+    "overallRating": 2.15,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.01,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -14854,7 +14854,7 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 64,
+    "numEvals": 65,
     "overallRating": 3.79,
     "materialClear": 3.76,
     "studentDifficulties": 3.78,
@@ -17549,10 +17549,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 116,
-    "overallRating": 2.14,
-    "materialClear": 2.12,
-    "studentDifficulties": 2.38,
+    "numEvals": 117,
+    "overallRating": 2.16,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.39,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -17565,7 +17565,7 @@
       "SPC 202"
     ],
     "tags": {
-      "Inflexible Grading Policy": 14,
+      "Inflexible Grading Policy": 15,
       "Uploads Slides": 2,
       "High In-Person Availability": 1,
       "Fast Response Time": 5,
@@ -18258,7 +18258,7 @@
     "department": "DSCI",
     "firstName": "Vincent",
     "lastName": "Yeung",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18267,9 +18267,9 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 2,
-      "Fast Response Time": 1,
-      "Flexible Grading Policy": 1
+      "Uploads Slides": 3,
+      "Fast Response Time": 2,
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -30977,10 +30977,10 @@
     "department": "PHYS",
     "firstName": "Matthew",
     "lastName": "Moelter",
-    "numEvals": 84,
-    "overallRating": 3.5,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.41,
+    "numEvals": 85,
+    "overallRating": 3.47,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.38,
     "courses": [
       "PHYS 101",
       "PSC 101",
@@ -30998,11 +30998,12 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
       "Inflexible Attendance Policy": 1,
-      "No Breaks During Lecture": 2
+      "No Breaks During Lecture": 3,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -32045,10 +32046,10 @@
     "department": "HIST",
     "firstName": "Joel",
     "lastName": "Orth",
-    "numEvals": 27,
-    "overallRating": 3.35,
-    "materialClear": 3.38,
-    "studentDifficulties": 3.34,
+    "numEvals": 28,
+    "overallRating": 3.37,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.36,
     "courses": [
       "HIST 202",
       "HIST 207",
@@ -43099,10 +43100,10 @@
     "department": "ENGL",
     "firstName": "Beth",
     "lastName": "O'Connor",
-    "numEvals": 6,
-    "overallRating": 2.17,
-    "materialClear": 2.5,
-    "studentDifficulties": 2,
+    "numEvals": 7,
+    "overallRating": 2.43,
+    "materialClear": 2.71,
+    "studentDifficulties": 2.29,
     "courses": [
       "ENGL 134"
     ],
@@ -43110,11 +43111,11 @@
       "Class Handouts": 3,
       "Inflexible Grading Policy": 2,
       "Uploads Slides": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Inflexible Attendance Policy": 3,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Inflexible Deadline Policy": 1
     }
   },
@@ -47389,10 +47390,10 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 14,
-    "overallRating": 3.86,
-    "materialClear": 4,
-    "studentDifficulties": 3.72,
+    "numEvals": 15,
+    "overallRating": 3.74,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.61,
     "courses": [
       "CSC 305",
       "CSC 357"
@@ -47403,11 +47404,12 @@
       "Supplemental Study Material": 1,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
-      "Zoom Office Hours": 1
+      "Inflexible Grading Policy": 2,
+      "Zoom Office Hours": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
