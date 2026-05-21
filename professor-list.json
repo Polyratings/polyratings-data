@@ -4601,9 +4601,9 @@
     "department": "EE",
     "firstName": "Payam",
     "lastName": "Nayeri",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
       "EE 504",
@@ -4611,9 +4611,10 @@
       "EE 409"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -5634,10 +5635,10 @@
     "department": "BUS",
     "firstName": "Ziemowit",
     "lastName": "Bednarek",
-    "numEvals": 42,
-    "overallRating": 1.85,
-    "materialClear": 1.71,
-    "studentDifficulties": 1.83,
+    "numEvals": 43,
+    "overallRating": 1.88,
+    "materialClear": 1.76,
+    "studentDifficulties": 1.88,
     "courses": [
       "BUS 342",
       "BUS 431",
@@ -8515,15 +8516,19 @@
     "department": "POLS",
     "firstName": "Ricardo",
     "lastName": "Vega Leon",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "POLS 430",
       "POLS 338"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Pop Quizzes": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "29b50a10-669f-4322-889f-3d01796b7d6c",
@@ -17714,10 +17719,10 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 38,
-    "overallRating": 1.17,
-    "materialClear": 1.93,
-    "studentDifficulties": 1.3,
+    "numEvals": 39,
+    "overallRating": 1.14,
+    "materialClear": 1.88,
+    "studentDifficulties": 1.27,
     "courses": [
       "CSC 101",
       "CSC 203"
@@ -22694,10 +22699,10 @@
     "department": "MATE",
     "firstName": "Kareesa",
     "lastName": "Kron",
-    "numEvals": 19,
-    "overallRating": 3.26,
-    "materialClear": 3.59,
-    "studentDifficulties": 3.37,
+    "numEvals": 20,
+    "overallRating": 3.3,
+    "materialClear": 3.61,
+    "studentDifficulties": 3.4,
     "courses": [
       "MATE 110",
       "MATE 215",
@@ -22707,15 +22712,15 @@
       "AEPS 310"
     ],
     "tags": {
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Class Handouts": 4,
       "High In-Person Availability": 4,
       "Honor DRC Accommodations": 2,
       "Flexible Deadline Policy": 3,
       "Flexible Grading Policy": 1,
-      "Recorded Lectures": 2
+      "Recorded Lectures": 3
     }
   },
   {
