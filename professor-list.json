@@ -7425,10 +7425,10 @@
     "department": "PHYS",
     "firstName": "Hyewon",
     "lastName": "Pechkis",
-    "numEvals": 8,
-    "overallRating": 3.62,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.5,
+    "numEvals": 9,
+    "overallRating": 3.33,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.11,
     "courses": [
       "PHYS 143",
       "PHYS 141"
@@ -7504,9 +7504,9 @@
     "department": "BIO",
     "firstName": "Kara",
     "lastName": "Jew",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
-    "materialClear": 3.85,
+    "materialClear": 3.87,
     "studentDifficulties": 4,
     "courses": [
       "MCRO 224",
@@ -9372,7 +9372,7 @@
     "department": "PHIL",
     "firstName": "Alex",
     "lastName": "LeBrun",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -9387,11 +9387,11 @@
       "Fast Response Time": 4,
       "Does Not Use Canvas": 3,
       "Zoom Office Hours": 3,
-      "Class Handouts": 7,
-      "Flexible Attendance Policy": 4,
+      "Class Handouts": 8,
+      "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 2,
       "Pop Quizzes": 2,
-      "Flexible Grading Policy": 4,
+      "Flexible Grading Policy": 5,
       "Inflexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
       "Inflexible Attendance Policy": 0,
@@ -22997,10 +22997,10 @@
     "department": "PHYS",
     "firstName": "Katharina",
     "lastName": "Gillen",
-    "numEvals": 57,
-    "overallRating": 2.59,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.71,
+    "numEvals": 56,
+    "overallRating": 2.64,
+    "materialClear": 2.69,
+    "studentDifficulties": 2.76,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -27605,7 +27605,7 @@
     "department": "STAT",
     "firstName": "Jimmy",
     "lastName": "Doi",
-    "numEvals": 115,
+    "numEvals": 116,
     "overallRating": 3.63,
     "materialClear": 3.78,
     "studentDifficulties": 3.61,
@@ -27628,7 +27628,8 @@
       "Fast Response Time": 2,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -30046,9 +30047,9 @@
     "department": "CM",
     "firstName": "Jason",
     "lastName": "Miller",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 4,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.75,
     "studentDifficulties": 4,
     "courses": [
       "CM 313"
@@ -31581,14 +31582,15 @@
     "department": "PHIL",
     "firstName": "Sam",
     "lastName": "Zahn",
-    "numEvals": 12,
-    "overallRating": 3.84,
-    "materialClear": 3.84,
-    "studentDifficulties": 3.84,
+    "numEvals": 13,
+    "overallRating": 3.85,
+    "materialClear": 3.85,
+    "studentDifficulties": 3.85,
     "courses": [
       "PHIL 230",
       "PHIL 126",
-      "PHIL 340"
+      "PHIL 340",
+      "PHIL 323"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -33387,10 +33389,10 @@
     "department": "PSY",
     "firstName": "Hannah",
     "lastName": "Roberts",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.2,
     "courses": [
       "PSY 405"
     ],
@@ -33398,7 +33400,7 @@
       "High In-Person Availability": 2,
       "Fast Response Time": 1,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2
     }
   },
@@ -43547,7 +43549,7 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 80,
+    "numEvals": 81,
     "overallRating": 1.98,
     "materialClear": 1.98,
     "studentDifficulties": 2,
@@ -43563,7 +43565,7 @@
       "Inflexible Attendance Policy": 7,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 3,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "Does Not Use Canvas": 2,
       "Recorded Lectures": 1
     }
