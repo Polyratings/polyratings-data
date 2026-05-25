@@ -25212,10 +25212,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 73,
-    "overallRating": 2.34,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.32,
+    "numEvals": 74,
+    "overallRating": 2.35,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.33,
     "courses": [
       "TH 210",
       "TH 227",
@@ -26158,10 +26158,10 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 35,
-    "overallRating": 1.17,
-    "materialClear": 1.26,
-    "studentDifficulties": 1.34,
+    "numEvals": 36,
+    "overallRating": 1.25,
+    "materialClear": 1.34,
+    "studentDifficulties": 1.41,
     "courses": [
       "ECON 222",
       "ECON 434"
@@ -26170,8 +26170,8 @@
       "Uploads Slides": 6,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
-      "Class Handouts": 2,
-      "Flexible Attendance Policy": 1,
+      "Class Handouts": 3,
+      "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 0,
       "Honor DRC Accommodations": 0,
       "Supplemental Study Material": 1
@@ -29842,10 +29842,10 @@
     "department": "CSC",
     "firstName": "Michael",
     "lastName": "Haungs",
-    "numEvals": 38,
-    "overallRating": 3.26,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.08,
+    "numEvals": 39,
+    "overallRating": 3.18,
+    "materialClear": 3.07,
+    "studentDifficulties": 3.03,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -29854,9 +29854,14 @@
       "CSC 171",
       "CPE 453",
       "CSC 453",
-      "CSC 543"
+      "CSC 543",
+      "CSC 371"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "946dd21e-9535-4e3b-b386-6776c2d838d5",
