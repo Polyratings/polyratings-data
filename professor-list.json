@@ -6674,10 +6674,10 @@
     "department": "STAT",
     "firstName": "Lubaba",
     "lastName": "Alim",
-    "numEvals": 20,
+    "numEvals": 21,
     "overallRating": 2.9,
-    "materialClear": 2.16,
-    "studentDifficulties": 2.95,
+    "materialClear": 2.15,
+    "studentDifficulties": 3,
     "courses": [
       "STAT 217",
       "STAT 251"
@@ -6687,11 +6687,13 @@
       "Flexible Grading Policy": 1,
       "Uploads Slides": 10,
       "Honor DRC Accommodations": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Fast Response Time": 2,
       "Inflexible Grading Policy": 2,
       "High In-Person Availability": 3,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Recorded Lectures": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -36662,10 +36664,10 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 72,
-    "overallRating": 2.23,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.32,
+    "numEvals": 73,
+    "overallRating": 2.21,
+    "materialClear": 2.15,
+    "studentDifficulties": 2.3,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -36676,12 +36678,12 @@
       "ECON 524"
     ],
     "tags": {
-      "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 2,
+      "Uploads Slides": 2,
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 2,
-      "Honor DRC Accommodations": 2,
+      "Honor DRC Accommodations": 3,
       "Fast Response Time": 1,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1
