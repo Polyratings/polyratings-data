@@ -14209,16 +14209,16 @@
     "department": "BUS",
     "firstName": "Wes",
     "lastName": "Love",
-    "numEvals": 7,
-    "overallRating": 3,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.29,
+    "numEvals": 9,
+    "overallRating": 3.23,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.45,
     "courses": [
       "ITP 303",
       "BUS 387"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 2,
       "Flexible Deadline Policy": 1
     }
@@ -47374,10 +47374,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 167,
-    "overallRating": 1.47,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.51,
+    "numEvals": 182,
+    "overallRating": 1.32,
+    "materialClear": 1.6,
+    "studentDifficulties": 1.36,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -47403,9 +47403,9 @@
       "Zoom Office Hours": 2,
       "Inflexible Attendance Policy": 14,
       "Inflexible Deadline Policy": 5,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 20,
       "Recorded Lectures": 4,
-      "Does Not Use Canvas": 16,
+      "Does Not Use Canvas": 31,
       "Pop Quizzes": 3
     }
   },
