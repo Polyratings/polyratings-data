@@ -699,10 +699,10 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "OLeary",
-    "numEvals": 17,
-    "overallRating": 3.24,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.41,
+    "numEvals": 18,
+    "overallRating": 3.28,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.44,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -712,12 +712,12 @@
     "tags": {
       "Fast Response Time": 3,
       "Supplemental Study Material": 3,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 2
+      "Flexible Attendance Policy": 3
     }
   },
   {
@@ -11645,10 +11645,10 @@
     "department": "ASCI",
     "firstName": "Rodrigo Manjarin",
     "lastName": "Arredondo",
-    "numEvals": 18,
-    "overallRating": 2.19,
-    "materialClear": 1.74,
-    "studentDifficulties": 1.81,
+    "numEvals": 19,
+    "overallRating": 2.29,
+    "materialClear": 1.86,
+    "studentDifficulties": 1.93,
     "courses": [
       "ASCI 220",
       "ASCI 229",
@@ -24091,10 +24091,10 @@
     "department": "ME",
     "firstName": "Pam",
     "lastName": "Ridgely",
-    "numEvals": 29,
-    "overallRating": 0.62,
-    "materialClear": 0.7,
-    "studentDifficulties": 0.67,
+    "numEvals": 30,
+    "overallRating": 0.63,
+    "materialClear": 0.74,
+    "studentDifficulties": 0.65,
     "courses": [
       "ME 236"
     ],
@@ -30112,10 +30112,10 @@
     "department": "JPNS",
     "firstName": "Junko",
     "lastName": "Cleave",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.62,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.66,
     "courses": [
       "JPNS 101",
       "JPNS 103",
@@ -42196,20 +42196,22 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "Ruys de Perez",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3,
+    "studentDifficulties": 3.6,
     "courses": [
       "MATH 244",
-      "MATH 206"
+      "MATH 206",
+      "MATH 344"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -44010,10 +44012,10 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 17,
-    "overallRating": 1.83,
-    "materialClear": 1.23,
-    "studentDifficulties": 2,
+    "numEvals": 18,
+    "overallRating": 1.84,
+    "materialClear": 1.22,
+    "studentDifficulties": 2.06,
     "courses": [
       "WGS 201"
     ],
@@ -44021,7 +44023,7 @@
       "Recorded Lectures": 2,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 4,
-      "Hybrid Option": 6,
+      "Hybrid Option": 7,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 3,
@@ -47374,10 +47376,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 182,
-    "overallRating": 1.32,
-    "materialClear": 1.6,
-    "studentDifficulties": 1.36,
+    "numEvals": 183,
+    "overallRating": 1.31,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.35,
     "courses": [
       "ENGL 203",
       "ENGL 204",
