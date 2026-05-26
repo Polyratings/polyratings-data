@@ -1588,46 +1588,25 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 432,
-    "overallRating": 2.28,
-    "materialClear": 2.45,
-    "studentDifficulties": 2.52,
+    "numEvals": 13,
+    "overallRating": 0.77,
+    "materialClear": 1.38,
+    "studentDifficulties": 1.69,
     "courses": [
       "CPE 133",
       "CPE 131",
-      "EE 133",
-      "CPE 233",
-      "BIO 121",
-      "AEPS 333",
-      "AEPS 555",
-      "AGB 345",
-      "ART 123",
-      "ARCH 367",
-      "BOT 444",
-      "CD 231",
-      "EE 377",
-      "SPED 101",
-      "GRC 321"
+      "EE 133"
     ],
     "tags": {
-      "Recorded Lectures": 15,
-      "High In-Person Availability": 17,
-      "Uploads Slides": 4,
-      "Zoom Office Hours": 5,
+      "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 12,
-      "Does Not Use Canvas": 16,
-      "Fast Response Time": 20,
-      "Class Handouts": 35,
-      "Supplemental Study Material": 10,
-      "No Breaks During Lecture": 39,
-      "Hybrid Option": 13,
-      "Honor DRC Accommodations": 13,
-      "Pop Quizzes": 33,
-      "Inflexible Grading Policy": 16,
-      "Inflexible Deadline Policy": 14,
-      "Flexible Deadline Policy": 7,
-      "Inflexible Attendance Policy": 4
+      "Flexible Grading Policy": 1,
+      "Does Not Use Canvas": 2,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 2,
+      "Pop Quizzes": 1
     },
     "locked": true
   },
@@ -13194,6 +13173,20 @@
     ]
   },
   {
+    "id": "41097ec9-7d83-4ff9-a063-a6e0811b4eb3",
+    "department": "POLS",
+    "firstName": "Sahane",
+    "lastName": "Bedenlier",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ],
+    "tags": {}
+  },
+  {
     "id": "41370614-5504-4e2c-9a75-0687f1ae04a5",
     "department": "BUS",
     "firstName": "Li",
@@ -17962,6 +17955,24 @@
       "Supplemental Study Material": 1,
       "Flexible Deadline Policy": 1,
       "Pop Quizzes": 1
+    }
+  },
+  {
+    "id": "58b632ff-b167-4155-9500-6d54ceb169aa",
+    "department": "BUS",
+    "firstName": "Maren",
+    "lastName": "Hufton",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -26160,10 +26171,10 @@
     "department": "ECON",
     "firstName": "Bessy",
     "lastName": "Liao",
-    "numEvals": 36,
-    "overallRating": 1.25,
-    "materialClear": 1.34,
-    "studentDifficulties": 1.41,
+    "numEvals": 37,
+    "overallRating": 1.22,
+    "materialClear": 1.3,
+    "studentDifficulties": 1.37,
     "courses": [
       "ECON 222",
       "ECON 434"
@@ -31371,6 +31382,20 @@
       "CPE 103",
       "EE 112"
     ]
+  },
+  {
+    "id": "9c606af8-d444-477d-b1ba-b3ee6f03351f",
+    "department": "BIO",
+    "firstName": "Lucy",
+    "lastName": "Nelson",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 3,
+    "courses": [
+      "BIO"
+    ],
+    "tags": {}
   },
   {
     "id": "9c652853-b050-4497-b107-1bc53bfc9061",
@@ -40559,6 +40584,24 @@
     }
   },
   {
+    "id": "cf3d7fe4-795d-49a6-9558-a4761b988f7a",
+    "department": "ASCI",
+    "firstName": "Karen",
+    "lastName": "Vagnoni",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "ASCI"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
+  },
+  {
     "id": "cf80f1d9-8104-489a-81db-88db0b866175",
     "department": "LS",
     "firstName": "Juleen",
@@ -44589,6 +44632,20 @@
     }
   },
   {
+    "id": "e33ebad7-c57d-40eb-9242-c9ceee9b8470",
+    "department": "BUS",
+    "firstName": "Gianni",
+    "lastName": "Rasgado",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {}
+  },
+  {
     "id": "e3450a50-53db-454d-822f-f340bddc4173",
     "department": "PHIL",
     "firstName": "Jacob",
@@ -45912,12 +45969,11 @@
     "department": "ENGL",
     "firstName": "Dawn",
     "lastName": "Janke",
-    "numEvals": 9,
-    "overallRating": 3.3,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.52,
+    "numEvals": 8,
+    "overallRating": 3.31,
+    "materialClear": 3.22,
+    "studentDifficulties": 3.54,
     "courses": [
-      "ENGL 133",
       "ENGL 134",
       "ENGL 145",
       "ENGL 364",
@@ -46471,9 +46527,9 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 3.94,
-    "materialClear": 3.79,
+    "materialClear": 3.8,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
@@ -46482,13 +46538,13 @@
       "PHYS 142"
     ],
     "tags": {
-      "Class Handouts": 14,
+      "Class Handouts": 15,
       "Flexible Grading Policy": 4,
       "Uploads Slides": 9,
       "Fast Response Time": 10,
       "High In-Person Availability": 4,
-      "Supplemental Study Material": 8,
-      "Flexible Deadline Policy": 3,
+      "Supplemental Study Material": 9,
+      "Flexible Deadline Policy": 4,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 2,
       "No Breaks During Lecture": 1
@@ -49729,15 +49785,15 @@
     "department": "BUS",
     "firstName": "Mary",
     "lastName": "Gibbs",
-    "numEvals": 5,
-    "overallRating": 3.2,
-    "materialClear": 3.2,
-    "studentDifficulties": 2.2,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 3.25,
+    "studentDifficulties": 2.5,
     "courses": [
       "BUS 391"
     ],
     "tags": {
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 2,
       "Inflexible Deadline Policy": 1
     }
