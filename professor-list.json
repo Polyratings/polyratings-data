@@ -3406,10 +3406,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 23,
-    "overallRating": 1.69,
-    "materialClear": 2,
-    "studentDifficulties": 1.73,
+    "numEvals": 24,
+    "overallRating": 1.74,
+    "materialClear": 2.08,
+    "studentDifficulties": 1.74,
     "courses": [
       "CSC 378",
       "CSC 123",
@@ -3417,9 +3417,9 @@
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Attendance Policy": 3,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
@@ -10662,13 +10662,15 @@
     "department": "BUS",
     "firstName": "Craig Mark",
     "lastName": "Law-Smith",
-    "numEvals": 22,
-    "overallRating": 3.86,
+    "numEvals": 24,
+    "overallRating": 3.88,
     "materialClear": 4,
-    "studentDifficulties": 3.73,
+    "studentDifficulties": 3.75,
     "courses": [
       "BUS 346",
-      "BUS 387"
+      "BUS 387",
+      "BUS 388",
+      "BUS 377"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
@@ -10678,7 +10680,7 @@
       "High In-Person Availability": 4,
       "Flexible Grading Policy": 3,
       "Flexible Deadline Policy": 1,
-      "Fast Response Time": 4
+      "Fast Response Time": 5
     }
   },
   {
@@ -13497,10 +13499,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 56,
-    "overallRating": 2.33,
-    "materialClear": 2.25,
-    "studentDifficulties": 2.49,
+    "numEvals": 59,
+    "overallRating": 2.42,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.57,
     "courses": [
       "PHYS 141",
       "PHYS 142",
@@ -13512,7 +13514,7 @@
       "Fast Response Time": 8,
       "Flexible Attendance Policy": 11,
       "Inflexible Grading Policy": 3,
-      "Uploads Slides": 20,
+      "Uploads Slides": 21,
       "Flexible Grading Policy": 6,
       "High In-Person Availability": 4,
       "No Breaks During Lecture": 5,
@@ -15928,10 +15930,10 @@
     "department": "PHIL",
     "firstName": "Sean",
     "lastName": "Pierce",
-    "numEvals": 12,
-    "overallRating": 3.91,
+    "numEvals": 13,
+    "overallRating": 3.92,
     "materialClear": 4,
-    "studentDifficulties": 3.92,
+    "studentDifficulties": 3.93,
     "courses": [
       "PHIL 231"
     ],
@@ -17544,10 +17546,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 117,
-    "overallRating": 2.16,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.39,
+    "numEvals": 118,
+    "overallRating": 2.17,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.4,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -17565,7 +17567,7 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 5,
       "Inflexible Attendance Policy": 9,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Pop Quizzes": 3,
       "Zoom Office Hours": 1,
       "Flexible Deadline Policy": 2
@@ -23530,10 +23532,10 @@
     "department": "ENGL",
     "firstName": "Steven",
     "lastName": "Ruszczycky",
-    "numEvals": 18,
-    "overallRating": 2.5,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.61,
+    "numEvals": 19,
+    "overallRating": 2.47,
+    "materialClear": 2.73,
+    "studentDifficulties": 2.63,
     "courses": [
       "ENGL 134",
       "ENGL 202",
@@ -29897,10 +29899,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 17,
-    "overallRating": 1.01,
-    "materialClear": 1.41,
-    "studentDifficulties": 1.35,
+    "numEvals": 18,
+    "overallRating": 1.18,
+    "materialClear": 1.55,
+    "studentDifficulties": 1.5,
     "courses": [
       "EE 251",
       "EE 307",
@@ -36351,12 +36353,12 @@
     "department": "EE",
     "firstName": "Joseph",
     "lastName": "Sparks",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 0,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 3.33,
     "courses": [
-      "EE"
+      "EE 241"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -41988,21 +41990,21 @@
     "department": "ES",
     "firstName": "Mt",
     "lastName": "Vallarta",
-    "numEvals": 25,
-    "overallRating": 1.98,
-    "materialClear": 2,
-    "studentDifficulties": 1.84,
+    "numEvals": 26,
+    "overallRating": 1.9,
+    "materialClear": 1.92,
+    "studentDifficulties": 1.85,
     "courses": [
       "ES 112"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Pop Quizzes": 5,
+      "Pop Quizzes": 6,
       "Honor DRC Accommodations": 3,
       "Uploads Slides": 4,
       "Fast Response Time": 1,
-      "Class Handouts": 1,
-      "Inflexible Attendance Policy": 2,
+      "Class Handouts": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
       "Does Not Use Canvas": 1,
@@ -44366,10 +44368,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 37,
-    "overallRating": 0.22,
+    "numEvals": 38,
+    "overallRating": 0.21,
     "materialClear": 0.07,
-    "studentDifficulties": 0.49,
+    "studentDifficulties": 0.48,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -46806,10 +46808,10 @@
     "department": "PSY",
     "firstName": "Matthew",
     "lastName": "Melendrez",
-    "numEvals": 4,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.6,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.4,
     "courses": [
       "PSY 372"
     ],
@@ -46817,7 +46819,9 @@
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
       "Uploads Slides": 2,
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
