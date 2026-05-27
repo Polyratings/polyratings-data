@@ -6415,10 +6415,10 @@
     "department": "NR",
     "firstName": "Marni",
     "lastName": "Goldenberg",
-    "numEvals": 26,
-    "overallRating": 1.75,
-    "materialClear": 1.94,
-    "studentDifficulties": 1.88,
+    "numEvals": 27,
+    "overallRating": 1.69,
+    "materialClear": 1.87,
+    "studentDifficulties": 1.81,
     "courses": [
       "AG 101",
       "REC 101",
@@ -14147,20 +14147,20 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Eblen",
-    "numEvals": 36,
-    "overallRating": 3.6,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.82,
+    "numEvals": 37,
+    "overallRating": 3.53,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.74,
     "courses": [
       "MATH 143",
       "AEPS 143",
       "MATH 241"
     ],
     "tags": {
-      "High In-Person Availability": 16,
-      "Supplemental Study Material": 15,
+      "High In-Person Availability": 17,
+      "Supplemental Study Material": 16,
       "Flexible Grading Policy": 7,
-      "Fast Response Time": 14,
+      "Fast Response Time": 15,
       "Flexible Attendance Policy": 12,
       "Flexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
@@ -19028,14 +19028,18 @@
     "department": "LA",
     "firstName": "Alexandre",
     "lastName": "Champagne",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 0,
+    "materialClear": 1,
     "studentDifficulties": 1,
     "courses": [
-      "LA"
+      "LA 212"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "5d8245a2-0142-4c09-930c-78c2312c077e",
@@ -34601,10 +34605,10 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Baltimore",
-    "numEvals": 12,
-    "overallRating": 2.41,
-    "materialClear": 2.75,
-    "studentDifficulties": 2.33,
+    "numEvals": 13,
+    "overallRating": 2.53,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.46,
     "courses": [
       "ENGL 147",
       "ENGL 310"
@@ -34616,7 +34620,10 @@
       "Inflexible Deadline Policy": 2,
       "Class Handouts": 3,
       "Inflexible Grading Policy": 3,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
