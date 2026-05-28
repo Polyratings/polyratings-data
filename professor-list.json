@@ -20199,10 +20199,10 @@
     "department": "ECON",
     "firstName": "Steve",
     "lastName": "Hamilton",
-    "numEvals": 12,
-    "overallRating": 1.35,
-    "materialClear": 1.46,
-    "studentDifficulties": 1.63,
+    "numEvals": 13,
+    "overallRating": 1.48,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.74,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -20213,7 +20213,9 @@
     "tags": {
       "Fast Response Time": 2,
       "Does Not Use Canvas": 3,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -21439,19 +21441,19 @@
     "department": "COMS",
     "firstName": "Erica",
     "lastName": "Stewart",
-    "numEvals": 21,
-    "overallRating": 2.72,
-    "materialClear": 2.71,
-    "studentDifficulties": 2.8,
+    "numEvals": 22,
+    "overallRating": 2.78,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.85,
     "courses": [
       "COMS 101"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
       "Flexible Grading Policy": 5,
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Inflexible Attendance Policy": 3,
       "Pop Quizzes": 1,
       "Inflexible Deadline Policy": 2,
@@ -22374,10 +22376,10 @@
     "department": "POLS",
     "firstName": "Sada",
     "lastName": "Andrews",
-    "numEvals": 19,
-    "overallRating": 3.76,
-    "materialClear": 3.76,
-    "studentDifficulties": 3.76,
+    "numEvals": 20,
+    "overallRating": 3.77,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.77,
     "courses": [
       "POLS 180",
       "POLS 225",
@@ -27666,7 +27668,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 29,
+    "numEvals": 30,
     "overallRating": 4,
     "materialClear": 3.88,
     "studentDifficulties": 4,
@@ -27677,13 +27679,14 @@
     "tags": {
       "Fast Response Time": 6,
       "Flexible Attendance Policy": 13,
-      "Flexible Deadline Policy": 16,
+      "Flexible Deadline Policy": 17,
       "Flexible Grading Policy": 10,
       "High In-Person Availability": 6,
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -31881,10 +31884,10 @@
     "department": "PHYS",
     "firstName": "Jefferey",
     "lastName": "Chaffin",
-    "numEvals": 12,
-    "overallRating": 3.83,
-    "materialClear": 3.91,
-    "studentDifficulties": 3.84,
+    "numEvals": 13,
+    "overallRating": 3.84,
+    "materialClear": 3.92,
+    "studentDifficulties": 3.85,
     "courses": [
       "PHYS 143"
     ],
@@ -42241,10 +42244,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 60,
-    "overallRating": 3.35,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.24,
+    "numEvals": 61,
+    "overallRating": 3.3,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.19,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -45565,10 +45568,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 14,
-    "overallRating": 1.73,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.93,
+    "numEvals": 16,
+    "overallRating": 1.51,
+    "materialClear": 1.44,
+    "studentDifficulties": 1.69,
     "courses": [
       "CHEM 312",
       "CHEM 127",
