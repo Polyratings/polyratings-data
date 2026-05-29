@@ -7411,10 +7411,10 @@
     "department": "PHYS",
     "firstName": "Hyewon",
     "lastName": "Pechkis",
-    "numEvals": 9,
-    "overallRating": 3.33,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.11,
+    "numEvals": 10,
+    "overallRating": 3.4,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.2,
     "courses": [
       "PHYS 143",
       "PHYS 141"
@@ -7423,9 +7423,9 @@
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Pop Quizzes": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 2
     }
   },
   {
@@ -20189,14 +20189,17 @@
     "department": "BIO",
     "firstName": "Kelsey",
     "lastName": "Cliburn",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO"
+      "BIO 221"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    }
   },
   {
     "id": "63d88ef1-d1f5-47ee-9d69-1ec0fc11ae8a",
@@ -23035,10 +23038,10 @@
     "department": "PHYS",
     "firstName": "Katharina",
     "lastName": "Gillen",
-    "numEvals": 57,
-    "overallRating": 2.61,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.73,
+    "numEvals": 58,
+    "overallRating": 2.63,
+    "materialClear": 2.66,
+    "studentDifficulties": 2.75,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -23053,9 +23056,9 @@
     "tags": {
       "Flexible Grading Policy": 1,
       "Uploads Slides": 5,
-      "Flexible Attendance Policy": 3,
-      "Flexible Deadline Policy": 3,
-      "High In-Person Availability": 2,
+      "Flexible Attendance Policy": 4,
+      "Flexible Deadline Policy": 4,
+      "High In-Person Availability": 3,
       "Class Handouts": 3,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
@@ -43895,10 +43898,10 @@
     "department": "FSN",
     "firstName": "Corinne",
     "lastName": "Kohlen",
-    "numEvals": 15,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.62,
+    "numEvals": 16,
+    "overallRating": 3.28,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.39,
     "courses": [
       "FSN 121",
       "FSN 210",
@@ -49211,10 +49214,10 @@
     "department": "PHYS",
     "firstName": "Taha",
     "lastName": "Dawoodbhoy",
-    "numEvals": 31,
-    "overallRating": 3.63,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.61,
+    "numEvals": 32,
+    "overallRating": 3.52,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.5,
     "courses": [
       "PHYS 143",
       "PHYS 123",
@@ -49484,10 +49487,10 @@
     "department": "PHYS",
     "firstName": "Colleen",
     "lastName": "Marlow",
-    "numEvals": 58,
-    "overallRating": 1.44,
-    "materialClear": 1.56,
-    "studentDifficulties": 1.48,
+    "numEvals": 59,
+    "overallRating": 1.42,
+    "materialClear": 1.53,
+    "studentDifficulties": 1.45,
     "courses": [
       "PHYS 101",
       "PSC 101",
