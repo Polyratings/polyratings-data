@@ -14356,10 +14356,10 @@
     "department": "IME",
     "firstName": "Virginia",
     "lastName": "Callow-Adams",
-    "numEvals": 50,
-    "overallRating": 1.78,
-    "materialClear": 1.68,
-    "studentDifficulties": 1.84,
+    "numEvals": 51,
+    "overallRating": 1.82,
+    "materialClear": 1.73,
+    "studentDifficulties": 1.88,
     "courses": [
       "IME 223",
       "IME 314",
@@ -22553,19 +22553,21 @@
     "department": "ENGR",
     "firstName": "James C.",
     "lastName": "Eason",
-    "numEvals": 21,
-    "overallRating": 3.47,
-    "materialClear": 3.43,
-    "studentDifficulties": 3.43,
+    "numEvals": 22,
+    "overallRating": 3.49,
+    "materialClear": 3.46,
+    "studentDifficulties": 3.46,
     "courses": [
       "BMED 213",
       "ENGR 213",
       "BMED 430"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
