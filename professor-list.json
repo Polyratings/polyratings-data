@@ -5923,10 +5923,10 @@
     "department": "COMS",
     "firstName": "Nancie",
     "lastName": "Hudson",
-    "numEvals": 28,
-    "overallRating": 3.46,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.45,
+    "numEvals": 29,
+    "overallRating": 3.38,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.4,
     "courses": [
       "COMS 101",
       "COMS 211"
@@ -12839,7 +12839,7 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 298,
+    "numEvals": 299,
     "overallRating": 2.43,
     "materialClear": 2.05,
     "studentDifficulties": 2.58,
@@ -20189,12 +20189,13 @@
     "department": "BIO",
     "firstName": "Kelsey",
     "lastName": "Cliburn",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BIO 221"
+      "BIO 221",
+      "MCRO 221"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -23866,7 +23867,7 @@
     "department": "ES",
     "firstName": "Alex",
     "lastName": "Wescott",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 3.86,
     "materialClear": 3.92,
     "studentDifficulties": 3.96,
@@ -23877,13 +23878,13 @@
     "tags": {
       "Flexible Attendance Policy": 7,
       "Pop Quizzes": 1,
-      "Uploads Slides": 13,
+      "Uploads Slides": 14,
       "Zoom Office Hours": 9,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 3,
       "Supplemental Study Material": 1,
       "Hybrid Option": 5,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "Honor DRC Accommodations": 1
     }
   },
@@ -27619,16 +27620,16 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 19,
-    "overallRating": 3.21,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.16,
+    "numEvals": 20,
+    "overallRating": 3.25,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.2,
     "courses": [
       "BUS 410"
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 12,
+      "Uploads Slides": 13,
       "Flexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
       "Inflexible Attendance Policy": 5,
@@ -27639,7 +27640,7 @@
       "Zoom Office Hours": 3,
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 2
     }
   },
   {
@@ -27679,7 +27680,7 @@
     "department": "ENGL",
     "firstName": "Ethan",
     "lastName": "Powers",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 4,
     "materialClear": 3.88,
     "studentDifficulties": 4,
@@ -27689,9 +27690,9 @@
     ],
     "tags": {
       "Fast Response Time": 6,
-      "Flexible Attendance Policy": 13,
-      "Flexible Deadline Policy": 17,
-      "Flexible Grading Policy": 10,
+      "Flexible Attendance Policy": 14,
+      "Flexible Deadline Policy": 18,
+      "Flexible Grading Policy": 11,
       "High In-Person Availability": 6,
       "Zoom Office Hours": 5,
       "Inflexible Attendance Policy": 1,
@@ -47421,10 +47422,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 183,
-    "overallRating": 1.31,
-    "materialClear": 1.59,
-    "studentDifficulties": 1.35,
+    "numEvals": 184,
+    "overallRating": 1.3,
+    "materialClear": 1.58,
+    "studentDifficulties": 1.34,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -47448,12 +47449,12 @@
     "tags": {
       "Hybrid Option": 1,
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 14,
+      "Inflexible Attendance Policy": 15,
       "Inflexible Deadline Policy": 5,
       "Inflexible Grading Policy": 20,
       "Recorded Lectures": 4,
-      "Does Not Use Canvas": 31,
-      "Pop Quizzes": 3
+      "Does Not Use Canvas": 32,
+      "Pop Quizzes": 4
     }
   },
   {
