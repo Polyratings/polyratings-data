@@ -6470,10 +6470,10 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 5,
-    "overallRating": 1.4,
-    "materialClear": 1.6,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 1.33,
+    "materialClear": 1.5,
+    "studentDifficulties": 3.17,
     "courses": [
       "BUS 387"
     ],
@@ -7227,10 +7227,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 194,
-    "overallRating": 2.03,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.15,
+    "numEvals": 195,
+    "overallRating": 2.02,
+    "materialClear": 2.12,
+    "studentDifficulties": 2.14,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -40671,10 +40671,10 @@
     "department": "NR",
     "firstName": "Brian",
     "lastName": "Greenwood",
-    "numEvals": 15,
-    "overallRating": 2.58,
-    "materialClear": 2.52,
-    "studentDifficulties": 2.64,
+    "numEvals": 16,
+    "overallRating": 2.67,
+    "materialClear": 2.61,
+    "studentDifficulties": 2.73,
     "courses": [
       "REC 101",
       "REC 160",
@@ -40685,7 +40685,8 @@
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
