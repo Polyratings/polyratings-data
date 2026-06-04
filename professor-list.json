@@ -1392,16 +1392,17 @@
     "department": "MATH",
     "firstName": "Daniel",
     "lastName": "Ford",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.71,
+    "materialClear": 2.43,
+    "studentDifficulties": 2.57,
     "courses": [
-      "MATH 118"
+      "MATH 118",
+      "MATH 221"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 4,
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 5,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 1,
@@ -5622,10 +5623,10 @@
     "department": "BUS",
     "firstName": "Ziemowit",
     "lastName": "Bednarek",
-    "numEvals": 45,
-    "overallRating": 1.93,
+    "numEvals": 46,
+    "overallRating": 1.98,
     "materialClear": 1.79,
-    "studentDifficulties": 1.98,
+    "studentDifficulties": 2,
     "courses": [
       "BUS 342",
       "BUS 431",
@@ -7237,10 +7238,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 197,
-    "overallRating": 2,
-    "materialClear": 2.1,
-    "studentDifficulties": 2.12,
+    "numEvals": 198,
+    "overallRating": 1.99,
+    "materialClear": 2.09,
+    "studentDifficulties": 2.11,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -7248,14 +7249,14 @@
     "tags": {
       "Flexible Attendance Policy": 5,
       "Pop Quizzes": 16,
-      "Inflexible Grading Policy": 21,
+      "Inflexible Grading Policy": 22,
       "Zoom Office Hours": 6,
       "Fast Response Time": 9,
       "Recorded Lectures": 4,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 10,
+      "Inflexible Deadline Policy": 11,
       "Hybrid Option": 6,
-      "Does Not Use Canvas": 7,
+      "Does Not Use Canvas": 8,
       "Flexible Deadline Policy": 2
     }
   },
@@ -9097,10 +9098,10 @@
     "department": "MATH",
     "firstName": "Amelie",
     "lastName": "Schinck",
-    "numEvals": 15,
-    "overallRating": 2.94,
-    "materialClear": 2.94,
-    "studentDifficulties": 3.01,
+    "numEvals": 16,
+    "overallRating": 3.01,
+    "materialClear": 3.01,
+    "studentDifficulties": 3.07,
     "courses": [
       "MATH 141",
       "MATH 227",
@@ -12739,9 +12740,9 @@
     "department": "MATE",
     "firstName": "Nahmoon",
     "lastName": "Kim",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
-    "materialClear": 3.81,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "MATE 215",
@@ -12752,11 +12753,11 @@
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 3,
       "Uploads Slides": 4,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
       "Recorded Lectures": 2,
-      "Fast Response Time": 2,
-      "Flexible Deadline Policy": 2
+      "Fast Response Time": 3,
+      "Flexible Deadline Policy": 3
     }
   },
   {
@@ -22797,10 +22798,10 @@
     "department": "MATE",
     "firstName": "Kareesa",
     "lastName": "Kron",
-    "numEvals": 20,
-    "overallRating": 3.3,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.4,
+    "numEvals": 21,
+    "overallRating": 3.33,
+    "materialClear": 3.63,
+    "studentDifficulties": 3.43,
     "courses": [
       "MATE 110",
       "MATE 215",
@@ -22812,13 +22813,13 @@
     "tags": {
       "Uploads Slides": 7,
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Class Handouts": 4,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Honor DRC Accommodations": 2,
       "Flexible Deadline Policy": 3,
       "Flexible Grading Policy": 1,
-      "Recorded Lectures": 3
+      "Recorded Lectures": 4
     }
   },
   {
@@ -32339,7 +32340,7 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 66,
+    "numEvals": 67,
     "overallRating": 3.76,
     "materialClear": 3.76,
     "studentDifficulties": 3.72,
@@ -47701,9 +47702,9 @@
     "department": "PHYS",
     "firstName": "Chad",
     "lastName": "Miller",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 3.87,
-    "materialClear": 3.82,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 142",
@@ -47717,7 +47718,7 @@
       "Uploads Slides": 7,
       "Flexible Deadline Policy": 10,
       "Fast Response Time": 6,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Honor DRC Accommodations": 2,
       "Supplemental Study Material": 3,
       "Flexible Grading Policy": 3,
