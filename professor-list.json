@@ -4225,10 +4225,10 @@
     "department": "MU",
     "firstName": "Christopher",
     "lastName": "Woodruff",
-    "numEvals": 34,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.71,
-    "overallRating": 3.74,
+    "numEvals": 35,
+    "overallRating": 3.75,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.72,
     "courses": [
       "MU 101",
       "MU 120",
@@ -4240,7 +4240,10 @@
       "MU 371",
       "MU 373",
       "MU 376"
-    ]
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1
+    }
   },
   {
     "id": "147278a9-39be-4acc-9fec-700ac27ced16",
@@ -4636,10 +4639,10 @@
     "department": "ART",
     "firstName": "Marco Polo",
     "lastName": "Juarez Cruz",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3,
-    "studentDifficulties": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.75,
     "courses": [
       "ART 111"
     ],
@@ -9599,21 +9602,22 @@
     "department": "ENGL",
     "firstName": "Christopher",
     "lastName": "Hayter",
-    "numEvals": 19,
-    "overallRating": 2.57,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.37,
+    "numEvals": 20,
+    "overallRating": 2.64,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.45,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
-      "Fast Response Time": 7,
-      "Uploads Slides": 1,
+      "Fast Response Time": 8,
+      "Uploads Slides": 2,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1,
       "Hybrid Option": 1,
       "Zoom Office Hours": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -18756,10 +18760,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 18,
-    "overallRating": 0.34,
-    "materialClear": 0.34,
-    "studentDifficulties": 0.61,
+    "numEvals": 19,
+    "overallRating": 0.32,
+    "materialClear": 0.32,
+    "studentDifficulties": 0.58,
     "courses": [
       "ENGL 347",
       "ENGL 345",
@@ -26754,10 +26758,10 @@
     "department": "EE",
     "firstName": "Ashraf",
     "lastName": "Elbarbary",
-    "numEvals": 28,
-    "overallRating": 3.43,
-    "materialClear": 2.99,
-    "studentDifficulties": 3.42,
+    "numEvals": 30,
+    "overallRating": 3.47,
+    "materialClear": 3.02,
+    "studentDifficulties": 3.46,
     "courses": [
       "EE 211",
       "PHYS 133",
@@ -26768,11 +26772,11 @@
     "tags": {
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Recorded Lectures": 3,
       "Inflexible Attendance Policy": 2,
       "Fast Response Time": 4,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Pop Quizzes": 1,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
@@ -28022,10 +28026,10 @@
     "department": "ITP",
     "firstName": "German",
     "lastName": "Serna",
-    "numEvals": 19,
-    "overallRating": 0.74,
-    "materialClear": 0.58,
-    "studentDifficulties": 1.62,
+    "numEvals": 20,
+    "overallRating": 0.9,
+    "materialClear": 0.75,
+    "studentDifficulties": 1.74,
     "courses": [
       "ITP 371",
       "IME 100",
@@ -47700,10 +47704,10 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 16,
-    "overallRating": 3.63,
-    "materialClear": 3.88,
-    "studentDifficulties": 3.51,
+    "numEvals": 17,
+    "overallRating": 3.65,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.48,
     "courses": [
       "CSC 305",
       "CSC 357"
@@ -47714,12 +47718,12 @@
       "Supplemental Study Material": 1,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 7,
-      "Flexible Attendance Policy": 4,
+      "Uploads Slides": 8,
+      "Flexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2
     }
   },
   {
