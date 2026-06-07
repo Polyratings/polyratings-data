@@ -15106,21 +15106,22 @@
     "department": "SS",
     "firstName": "Charlotte",
     "lastName": "Decock",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 1.67,
+    "numEvals": 4,
+    "overallRating": 1.75,
+    "materialClear": 3.25,
+    "studentDifficulties": 2,
     "courses": [
       "SS 120",
       "SS 221"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -18760,10 +18761,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 19,
-    "overallRating": 0.32,
-    "materialClear": 0.32,
-    "studentDifficulties": 0.58,
+    "numEvals": 21,
+    "overallRating": 0.29,
+    "materialClear": 0.29,
+    "studentDifficulties": 0.52,
     "courses": [
       "ENGL 347",
       "ENGL 345",
@@ -24509,9 +24510,9 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 115,
+    "numEvals": 116,
     "overallRating": 1.78,
-    "materialClear": 1.78,
+    "materialClear": 1.79,
     "studentDifficulties": 1.81,
     "courses": [
       "CPE 101",
@@ -24527,7 +24528,7 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 13,
-      "Inflexible Deadline Policy": 20,
+      "Inflexible Deadline Policy": 21,
       "Inflexible Grading Policy": 16,
       "Fast Response Time": 3,
       "Class Handouts": 20,
@@ -35528,23 +35529,25 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 3.93,
     "materialClear": 3.93,
     "studentDifficulties": 3.93,
     "courses": [
       "POLS 230",
       "POLS 348",
-      "POLS 341"
+      "POLS 341",
+      "POLS 344"
     ],
     "tags": {
-      "High In-Person Availability": 7,
+      "High In-Person Availability": 8,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Fast Response Time": 7,
       "Flexible Attendance Policy": 1,
       "Zoom Office Hours": 4,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -45940,12 +45943,12 @@
     "department": "POLS",
     "firstName": "Gunes",
     "lastName": "Ertan",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 2.5,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 359"
     ],
     "tags": {}
   },
