@@ -26,10 +26,10 @@
     "department": "ES",
     "firstName": "Tisha",
     "lastName": "Reichle-Aguilera",
-    "numEvals": 14,
-    "overallRating": 1.08,
-    "materialClear": 1.28,
-    "studentDifficulties": 1.99,
+    "numEvals": 18,
+    "overallRating": 0.84,
+    "materialClear": 0.99,
+    "studentDifficulties": 1.55,
     "courses": [
       "ES 302"
     ],
@@ -39,10 +39,10 @@
       "Uploads Slides": 1,
       "Zoom Office Hours": 0,
       "Supplemental Study Material": 0,
-      "Inflexible Deadline Policy": 6,
-      "Inflexible Grading Policy": 8,
+      "Inflexible Deadline Policy": 7,
+      "Inflexible Grading Policy": 9,
       "No Breaks During Lecture": 6,
-      "Inflexible Attendance Policy": 8
+      "Inflexible Attendance Policy": 9
     }
   },
   {
@@ -2495,7 +2495,7 @@
     "department": "POLS",
     "firstName": "Pete",
     "lastName": "Ford",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5107,10 +5107,10 @@
     "department": "AEPS",
     "firstName": "Micheal",
     "lastName": "Costello",
-    "numEvals": 29,
-    "overallRating": 2.66,
-    "materialClear": 2.69,
-    "studentDifficulties": 2.31,
+    "numEvals": 30,
+    "overallRating": 2.57,
+    "materialClear": 2.63,
+    "studentDifficulties": 2.27,
     "courses": [
       "CRSC 102",
       "CRSC 110",
@@ -5125,7 +5125,11 @@
       "AEPS 110",
       "WVIT 300"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "177105b8-0eff-4fdd-8592-f8fc78413445",
@@ -5680,10 +5684,10 @@
     "department": "BUS",
     "firstName": "Ziemowit",
     "lastName": "Bednarek",
-    "numEvals": 47,
+    "numEvals": 48,
     "overallRating": 2.02,
-    "materialClear": 1.82,
-    "studentDifficulties": 2.04,
+    "materialClear": 1.78,
+    "studentDifficulties": 2.02,
     "courses": [
       "BUS 342",
       "BUS 431",
@@ -5694,7 +5698,7 @@
     "tags": {
       "Recorded Lectures": 7,
       "Inflexible Grading Policy": 4,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 2,
       "Pop Quizzes": 3,
@@ -15248,10 +15252,10 @@
     "department": "BUS",
     "firstName": "Jim",
     "lastName": "Kaney",
-    "numEvals": 84,
-    "overallRating": 2.99,
-    "materialClear": 3.07,
-    "studentDifficulties": 2.98,
+    "numEvals": 85,
+    "overallRating": 2.98,
+    "materialClear": 3.05,
+    "studentDifficulties": 2.97,
     "courses": [
       "BUS 212",
       "BUS 214",
@@ -15262,16 +15266,17 @@
       "BUS 440"
     ],
     "tags": {
-      "Class Handouts": 8,
+      "Class Handouts": 9,
       "Pop Quizzes": 2,
       "Uploads Slides": 7,
       "Zoom Office Hours": 3,
-      "Inflexible Attendance Policy": 7,
+      "Inflexible Attendance Policy": 8,
       "No Breaks During Lecture": 6,
       "Fast Response Time": 1,
       "Inflexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -17758,10 +17763,10 @@
     "department": "HIST",
     "firstName": "Molly",
     "lastName": "Loberg",
-    "numEvals": 45,
-    "overallRating": 3.39,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.41,
+    "numEvals": 46,
+    "overallRating": 3.38,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.4,
     "courses": [
       "HIST 110",
       "HIST 111",
@@ -17775,10 +17780,11 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 3,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -20389,10 +20395,10 @@
     "department": "ECON",
     "firstName": "Steve",
     "lastName": "Hamilton",
-    "numEvals": 13,
-    "overallRating": 1.48,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.74,
+    "numEvals": 14,
+    "overallRating": 1.59,
+    "materialClear": 1.54,
+    "studentDifficulties": 1.83,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -29557,10 +29563,10 @@
     "department": "PHIL",
     "firstName": "Richard",
     "lastName": "Graziano",
-    "numEvals": 75,
-    "overallRating": 2.54,
-    "materialClear": 2.65,
-    "studentDifficulties": 2.49,
+    "numEvals": 76,
+    "overallRating": 2.55,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.48,
     "courses": [
       "PHIL 132",
       "PHIL 230",
@@ -31083,10 +31089,10 @@
     "department": "ENGL",
     "firstName": "Tad",
     "lastName": "Walters",
-    "numEvals": 3,
-    "overallRating": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.25,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.75,
     "courses": [
       "ENGL 145"
     ],
@@ -35759,7 +35765,7 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 15,
+    "numEvals": 16,
     "overallRating": 3.93,
     "materialClear": 3.93,
     "studentDifficulties": 3.93,
@@ -40238,10 +40244,10 @@
     "department": "CHEM",
     "firstName": "Lloyd",
     "lastName": "Lapoot",
-    "numEvals": 14,
-    "overallRating": 3.79,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.78,
+    "numEvals": 15,
+    "overallRating": 3.8,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.79,
     "courses": [
       "CHEM 216",
       "CHEM 128",
@@ -45608,20 +45614,20 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 29,
+    "numEvals": 30,
     "overallRating": 3.87,
-    "materialClear": 3.75,
-    "studentDifficulties": 3.71,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.72,
     "courses": [
       "STAT 252"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 13,
+      "Uploads Slides": 14,
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 13,
+      "Flexible Attendance Policy": 14,
       "Class Handouts": 1,
-      "Supplemental Study Material": 8,
+      "Supplemental Study Material": 9,
       "Flexible Grading Policy": 2,
       "High In-Person Availability": 4,
       "No Breaks During Lecture": 1,
@@ -47929,10 +47935,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 185,
-    "overallRating": 1.29,
-    "materialClear": 1.57,
-    "studentDifficulties": 1.33,
+    "numEvals": 186,
+    "overallRating": 1.28,
+    "materialClear": 1.56,
+    "studentDifficulties": 1.32,
     "courses": [
       "ENGL 203",
       "ENGL 204",
