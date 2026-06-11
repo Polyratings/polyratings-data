@@ -3873,9 +3873,9 @@
     "department": "ES",
     "firstName": "Elvira",
     "lastName": "Pulitano",
-    "numEvals": 47,
-    "overallRating": 2.01,
-    "materialClear": 2.25,
+    "numEvals": 48,
+    "overallRating": 2.03,
+    "materialClear": 2.27,
     "studentDifficulties": 2.07,
     "courses": [
       "ES 241",
@@ -3887,7 +3887,7 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Inflexible Deadline Policy": 5,
       "Pop Quizzes": 8,
       "Inflexible Grading Policy": 3,
@@ -4008,10 +4008,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 59,
-    "overallRating": 1.6,
+    "numEvals": 60,
+    "overallRating": 1.57,
     "materialClear": 2.05,
-    "studentDifficulties": 2.91,
+    "studentDifficulties": 2.86,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -4022,13 +4022,13 @@
     "tags": {
       "Flexible Attendance Policy": 10,
       "Class Handouts": 20,
-      "Inflexible Grading Policy": 11,
+      "Inflexible Grading Policy": 12,
       "Zoom Office Hours": 4,
       "Supplemental Study Material": 10,
       "Fast Response Time": 5,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Deadline Policy": 6,
+      "Inflexible Deadline Policy": 7,
       "No Breaks During Lecture": 4,
       "High In-Person Availability": 2,
       "Inflexible Attendance Policy": 1
@@ -14993,7 +14993,7 @@
     "department": "ENGL",
     "firstName": "Jonathan",
     "lastName": "Gotsick",
-    "numEvals": 65,
+    "numEvals": 66,
     "overallRating": 3.79,
     "materialClear": 3.76,
     "studentDifficulties": 3.78,
@@ -15006,11 +15006,11 @@
       "Inflexible Attendance Policy": 8,
       "Class Handouts": 2,
       "No Breaks During Lecture": 1,
-      "Flexible Deadline Policy": 3,
+      "Flexible Deadline Policy": 4,
       "High In-Person Availability": 4,
       "Hybrid Option": 1,
       "Flexible Attendance Policy": 3,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1
     }
   },
@@ -37025,16 +37025,18 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Valdez",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MATH"
+      "MATH 221"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Grading Policy": 1,
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -39381,20 +39383,23 @@
     "department": "RPTA",
     "firstName": "Ryan",
     "lastName": "Baker",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
-    "materialClear": 3.88,
+    "materialClear": 3.89,
     "studentDifficulties": 4,
     "courses": [
-      "RPTA 255"
+      "RPTA 255",
+      "RPTA 101"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
       "Pop Quizzes": 1,
       "Uploads Slides": 2,
       "High In-Person Availability": 1,
-      "Fast Response Time": 2,
-      "Supplemental Study Material": 1
+      "Fast Response Time": 3,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -43878,17 +43883,19 @@
     "department": "BUS",
     "firstName": "Jon",
     "lastName": "Ossie",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 396"
     ],
     "tags": {
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Does Not Use Canvas": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -45158,7 +45165,7 @@
     "department": "BUS",
     "firstName": "Gianni",
     "lastName": "Rasgado",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -48539,10 +48546,10 @@
     "department": "ME",
     "firstName": "Dwight",
     "lastName": "Harvey",
-    "numEvals": 22,
-    "overallRating": 2.95,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.22,
+    "numEvals": 23,
+    "overallRating": 3,
+    "materialClear": 2.57,
+    "studentDifficulties": 3.25,
     "courses": [
       "ME 129",
       "ME 264",
@@ -48550,7 +48557,7 @@
       "ME 251"
     ],
     "tags": {
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 6,
       "High In-Person Availability": 1,
@@ -48558,9 +48565,10 @@
       "Inflexible Grading Policy": 3,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "No Breaks During Lecture": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Recorded Lectures": 1
     }
   },
   {
