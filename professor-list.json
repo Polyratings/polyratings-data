@@ -4499,9 +4499,9 @@
     "department": "ENGL",
     "firstName": "Regulus",
     "lastName": "Allen",
-    "numEvals": 57,
-    "overallRating": 1.92,
-    "materialClear": 2.37,
+    "numEvals": 58,
+    "overallRating": 1.94,
+    "materialClear": 2.4,
     "studentDifficulties": 1.87,
     "courses": [
       "ENGL 205",
@@ -16016,16 +16016,17 @@
     "department": "ITP",
     "firstName": "Christopher",
     "lastName": "Ferrier",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "ITP"
+      "ITP 303"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -17646,9 +17647,9 @@
     "department": "CE",
     "firstName": "Damian",
     "lastName": "Kachlakev",
-    "numEvals": 36,
-    "overallRating": 2.03,
-    "materialClear": 1.97,
+    "numEvals": 37,
+    "overallRating": 2,
+    "materialClear": 1.94,
     "studentDifficulties": 1.9,
     "courses": [
       "CE 204",
@@ -17662,9 +17663,10 @@
       "CE 521"
     ],
     "tags": {
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Flexible Deadline Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -32272,10 +32274,10 @@
     "department": "CE",
     "firstName": "Ashraf",
     "lastName": "Rahim",
-    "numEvals": 45,
-    "overallRating": 2.95,
-    "materialClear": 3,
-    "studentDifficulties": 2.71,
+    "numEvals": 46,
+    "overallRating": 2.97,
+    "materialClear": 3.02,
+    "studentDifficulties": 2.74,
     "courses": [
       "CE 112",
       "CE 114",
@@ -32284,7 +32286,8 @@
       "CE 222",
       "CE 322",
       "CE 521",
-      "CE 523"
+      "CE 523",
+      "CE 321"
     ],
     "tags": {
       "Fast Response Time": 2,
@@ -32293,7 +32296,7 @@
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -50263,9 +50266,9 @@
     "department": "CE",
     "firstName": "Jonathan",
     "lastName": "Howard",
-    "numEvals": 3,
-    "overallRating": 1.33,
-    "materialClear": 2,
+    "numEvals": 4,
+    "overallRating": 1.25,
+    "materialClear": 1.5,
     "studentDifficulties": 1,
     "courses": [
       "CE 529",
