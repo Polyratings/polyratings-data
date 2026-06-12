@@ -5013,7 +5013,7 @@
     "department": "MU",
     "firstName": "Aaron",
     "lastName": "Kline",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -5025,7 +5025,7 @@
       "High In-Person Availability": 2,
       "Supplemental Study Material": 4,
       "Uploads Slides": 4,
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "No Breaks During Lecture": 1,
       "Honor DRC Accommodations": 1
     }
@@ -18864,10 +18864,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 24,
-    "overallRating": 0.26,
-    "materialClear": 0.26,
-    "studentDifficulties": 0.46,
+    "numEvals": 25,
+    "overallRating": 0.25,
+    "materialClear": 0.25,
+    "studentDifficulties": 0.44,
     "courses": [
       "ENGL 347",
       "ENGL 345",
@@ -22080,10 +22080,10 @@
     "department": "CE",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 170,
-    "overallRating": 1.75,
-    "materialClear": 1.94,
-    "studentDifficulties": 1.67,
+    "numEvals": 171,
+    "overallRating": 1.76,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.68,
     "courses": [
       "CE 204",
       "CE 211",
@@ -22101,7 +22101,7 @@
     "tags": {
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Uploads Slides": 2,
       "No Breaks During Lecture": 2,
       "Inflexible Deadline Policy": 4,
@@ -22109,11 +22109,12 @@
       "Does Not Use Canvas": 7,
       "Pop Quizzes": 5,
       "Flexible Grading Policy": 1,
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Fast Response Time": 6,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Recorded Lectures": 1
     }
   },
   {
@@ -30239,25 +30240,26 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 20,
-    "overallRating": 1.42,
-    "materialClear": 1.8,
-    "studentDifficulties": 1.7,
+    "numEvals": 23,
+    "overallRating": 1.23,
+    "materialClear": 1.56,
+    "studentDifficulties": 2,
     "courses": [
       "EE 251",
       "EE 307",
       "EE 347"
     ],
     "tags": {
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "Inflexible Attendance Policy": 7,
       "Recorded Lectures": 5,
       "Uploads Slides": 4,
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Flexible Grading Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Flexible Grading Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -30265,20 +30267,20 @@
     "department": "BIO",
     "firstName": "Sarah",
     "lastName": "Gravem",
-    "numEvals": 6,
-    "overallRating": 3.17,
-    "materialClear": 3.17,
-    "studentDifficulties": 3.33,
+    "numEvals": 9,
+    "overallRating": 3.45,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.56,
     "courses": [
       "BIO 150",
       "MSCI 300"
     ],
     "tags": {
       "Recorded Lectures": 5,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "Uploads Slides": 5,
-      "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1,
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 2,
       "Class Handouts": 1,
       "Supplemental Study Material": 1
     }
@@ -37147,10 +37149,10 @@
     "department": "ECON",
     "firstName": "Aric",
     "lastName": "Shafran",
-    "numEvals": 77,
-    "overallRating": 2.19,
-    "materialClear": 2.09,
-    "studentDifficulties": 2.3,
+    "numEvals": 78,
+    "overallRating": 2.2,
+    "materialClear": 2.11,
+    "studentDifficulties": 2.31,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -37169,7 +37171,7 @@
       "Inflexible Deadline Policy": 2,
       "Honor DRC Accommodations": 3,
       "Fast Response Time": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Flexible Grading Policy": 2,
       "Inflexible Attendance Policy": 1,
       "No Breaks During Lecture": 1
@@ -38929,10 +38931,10 @@
     "department": "CHEM",
     "firstName": "Bradley",
     "lastName": "Moran",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 3.01,
     "materialClear": 3.05,
-    "studentDifficulties": 3.22,
+    "studentDifficulties": 3.21,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -38944,10 +38946,10 @@
     ],
     "tags": {
       "Uploads Slides": 4,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "No Breaks During Lecture": 6,
       "Flexible Grading Policy": 2,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Class Handouts": 3,
       "High In-Person Availability": 2,
       "Fast Response Time": 1
@@ -39245,12 +39247,12 @@
     "department": "BUS",
     "firstName": "Donica",
     "lastName": "Forensich",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 207"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -45691,10 +45693,10 @@
     "department": "CM",
     "firstName": "Jacob",
     "lastName": "Clark",
-    "numEvals": 4,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.8,
     "courses": [
       "CM 280"
     ],
@@ -49556,10 +49558,10 @@
     "department": "ES",
     "firstName": "Jennifer",
     "lastName": "Leal",
-    "numEvals": 5,
-    "overallRating": 2.4,
-    "materialClear": 2.4,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 2.33,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
       "ES 253"
     ],
