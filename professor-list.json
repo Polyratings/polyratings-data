@@ -5336,10 +5336,10 @@
     "department": "BIO",
     "firstName": "Haley",
     "lastName": "Moniz",
-    "numEvals": 24,
-    "overallRating": 3.73,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.62,
+    "numEvals": 25,
+    "overallRating": 3.74,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.64,
     "courses": [
       "BIO 111",
       "BIO 150",
@@ -5349,10 +5349,10 @@
     ],
     "tags": {
       "Recorded Lectures": 11,
-      "Supplemental Study Material": 5,
-      "Uploads Slides": 9,
+      "Supplemental Study Material": 6,
+      "Uploads Slides": 10,
       "Flexible Attendance Policy": 5,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Class Handouts": 1,
       "Fast Response Time": 4,
       "No Breaks During Lecture": 1,
@@ -9352,10 +9352,10 @@
     "department": "ME",
     "firstName": "Tim",
     "lastName": "Jain",
-    "numEvals": 12,
-    "overallRating": 3.49,
-    "materialClear": 3.09,
-    "studentDifficulties": 3.42,
+    "numEvals": 13,
+    "overallRating": 3.45,
+    "materialClear": 3.08,
+    "studentDifficulties": 3.46,
     "courses": [
       "ME 228",
       "ME 211",
@@ -14949,10 +14949,10 @@
     "department": "CE",
     "firstName": "Garrett",
     "lastName": "Hall",
-    "numEvals": 65,
+    "numEvals": 66,
     "overallRating": 3.15,
-    "materialClear": 3.14,
-    "studentDifficulties": 3.21,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.22,
     "courses": [
       "CE 204",
       "CE 205",
@@ -15630,7 +15630,7 @@
     "department": "ENGL",
     "firstName": "Bill",
     "lastName": "Fitzhenry",
-    "numEvals": 72,
+    "numEvals": 74,
     "overallRating": 3.9,
     "materialClear": 3.84,
     "studentDifficulties": 3.84,
@@ -15649,11 +15649,12 @@
       "ENGL 439"
     ],
     "tags": {
-      "Does Not Use Canvas": 6,
+      "Does Not Use Canvas": 7,
       "Fast Response Time": 2,
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -40911,10 +40912,10 @@
     "department": "SOC",
     "firstName": "Benjamin",
     "lastName": "Funston-Timms",
-    "numEvals": 52,
-    "overallRating": 3.7,
+    "numEvals": 53,
+    "overallRating": 3.71,
     "materialClear": 3.77,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.61,
     "courses": [
       "GEOG 150",
       "SOC 150",
@@ -40929,13 +40930,14 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
-      "Inflexible Grading Policy": 2
+      "Inflexible Grading Policy": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
