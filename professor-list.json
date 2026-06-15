@@ -2394,10 +2394,10 @@
     "department": "BIO",
     "firstName": "Nathaniel",
     "lastName": "Martinez",
-    "numEvals": 17,
-    "overallRating": 3.38,
-    "materialClear": 3.15,
-    "studentDifficulties": 3.56,
+    "numEvals": 19,
+    "overallRating": 3.44,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.6,
     "courses": [
       "BIO 221",
       "MCRO 221",
@@ -2409,12 +2409,12 @@
       "BIO 161"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 5,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 3,
       "Flexible Attendance Policy": 1
     }
   },
@@ -3532,18 +3532,19 @@
     "department": "JOUR",
     "firstName": "Jeremy",
     "lastName": "Shermak",
-    "numEvals": 2,
-    "overallRating": 3,
+    "numEvals": 3,
+    "overallRating": 2.67,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.67,
     "courses": [
       "JOUR 219"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
-      "Class Handouts": 2,
-      "Uploads Slides": 1,
-      "Inflexible Deadline Policy": 1
+      "Class Handouts": 3,
+      "Uploads Slides": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -8631,10 +8632,10 @@
     "department": "POLS",
     "firstName": "Ricardo",
     "lastName": "Vega Leon",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 2.6,
-    "studentDifficulties": 3,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 2.83,
+    "studentDifficulties": 3.17,
     "courses": [
       "POLS 430",
       "POLS 338",
@@ -8642,8 +8643,8 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Pop Quizzes": 2,
-      "Uploads Slides": 2,
+      "Pop Quizzes": 3,
+      "Uploads Slides": 3,
       "Inflexible Grading Policy": 1,
       "Inflexible Attendance Policy": 1
     }
@@ -45015,10 +45016,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 44,
-    "overallRating": 0.29,
+    "numEvals": 45,
+    "overallRating": 0.28,
     "materialClear": 0.16,
-    "studentDifficulties": 0.56,
+    "studentDifficulties": 0.55,
     "courses": [
       "CHEM 127",
       "CHEM 128",
