@@ -28252,10 +28252,10 @@
     "department": "ITP",
     "firstName": "German",
     "lastName": "Serna",
-    "numEvals": 21,
-    "overallRating": 0.86,
-    "materialClear": 0.71,
-    "studentDifficulties": 1.66,
+    "numEvals": 22,
+    "overallRating": 0.82,
+    "materialClear": 0.68,
+    "studentDifficulties": 1.77,
     "courses": [
       "ITP 371",
       "IME 100",
@@ -28263,7 +28263,8 @@
       "IME 417",
       "IME 314",
       "IME 305",
-      "IME 430"
+      "IME 430",
+      "ITP 303"
     ],
     "tags": {
       "Uploads Slides": 3,
@@ -49642,16 +49643,17 @@
     "department": "CRP",
     "firstName": "Kelly",
     "lastName": "Main",
-    "numEvals": 10,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.27,
-    "overallRating": 2.45,
+    "numEvals": 11,
+    "overallRating": 2.59,
+    "materialClear": 2.68,
+    "studentDifficulties": 2.43,
     "courses": [
       "CRP 215",
       "CRP 410",
       "CRP 411",
       "CRP 412"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "f9ff9e1d-0786-4b53-99e1-e903b40b7cca",
