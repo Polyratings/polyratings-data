@@ -4503,13 +4503,14 @@
     "department": "EE",
     "firstName": "Nishith",
     "lastName": "Chakraborty",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 3.5,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
       "EE 511",
-      "ENGR 308"
+      "ENGR 308",
+      "EE 308"
     ],
     "tags": {
       "Uploads Slides": 1
@@ -14421,10 +14422,10 @@
     "department": "MATE",
     "firstName": "Vidya",
     "lastName": "Schalk",
-    "numEvals": 52,
-    "overallRating": 1.34,
-    "materialClear": 1.56,
-    "studentDifficulties": 1.55,
+    "numEvals": 53,
+    "overallRating": 1.31,
+    "materialClear": 1.53,
+    "studentDifficulties": 1.52,
     "courses": [
       "MATE 210",
       "BRAE 348",
@@ -14436,9 +14437,9 @@
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Inflexible Attendance Policy": 26,
-      "Inflexible Deadline Policy": 16,
-      "Inflexible Grading Policy": 17,
+      "Inflexible Attendance Policy": 27,
+      "Inflexible Deadline Policy": 17,
+      "Inflexible Grading Policy": 18,
       "No Breaks During Lecture": 9,
       "Supplemental Study Material": 9,
       "Uploads Slides": 9,
@@ -20070,10 +20071,10 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Seng",
-    "numEvals": 56,
-    "overallRating": 3.7,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.68,
+    "numEvals": 57,
+    "overallRating": 3.71,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.69,
     "courses": [
       "CPE 101",
       "CPE 123",
@@ -20086,7 +20087,7 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 3,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -24713,10 +24714,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 113,
-    "overallRating": 1.71,
-    "materialClear": 1.72,
-    "studentDifficulties": 1.75,
+    "numEvals": 117,
+    "overallRating": 1.79,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.83,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -24737,8 +24738,8 @@
       "Inflexible Deadline Policy": 22,
       "Zoom Office Hours": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 4,
-      "High In-Person Availability": 4,
+      "Uploads Slides": 5,
+      "High In-Person Availability": 5,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 5
@@ -29682,7 +29683,7 @@
     "department": "SS",
     "firstName": "Timothy",
     "lastName": "McHale",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -29695,8 +29696,9 @@
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
-      "Uploads Slides": 4,
-      "Pop Quizzes": 1
+      "Uploads Slides": 5,
+      "Pop Quizzes": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -30775,10 +30777,10 @@
     "department": "STAT",
     "firstName": "Ulric",
     "lastName": "Lund",
-    "numEvals": 109,
-    "overallRating": 3.37,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.23,
+    "numEvals": 110,
+    "overallRating": 3.38,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.24,
     "courses": [
       "STAT 130",
       "STAT 217",
@@ -31163,17 +31165,20 @@
     "department": "ENGL",
     "firstName": "Tad",
     "lastName": "Walters",
-    "numEvals": 4,
-    "overallRating": 3.25,
+    "numEvals": 5,
+    "overallRating": 3.2,
     "materialClear": 4,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.8,
     "courses": [
       "ENGL 145"
     ],
     "tags": {
       "Hybrid Option": 2,
       "Pop Quizzes": 3,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -31318,26 +31323,27 @@
     "department": "EE",
     "firstName": "Kun",
     "lastName": "Hua",
-    "numEvals": 15,
-    "overallRating": 3.01,
-    "materialClear": 2.8,
-    "studentDifficulties": 3.53,
+    "numEvals": 16,
+    "overallRating": 3.07,
+    "materialClear": 2.88,
+    "studentDifficulties": 3.56,
     "courses": [
       "EE 215",
       "EE 228",
       "EE 251",
       "EE 563",
-      "EE 314"
+      "EE 314",
+      "EE 416"
     ],
     "tags": {
       "Supplemental Study Material": 4,
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "Inflexible Attendance Policy": 1,
       "High In-Person Availability": 3,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Honor DRC Accommodations": 1,
       "Hybrid Option": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Recorded Lectures": 1
     }
   },
@@ -32068,10 +32074,10 @@
     "department": "PHIL",
     "firstName": "Sam",
     "lastName": "Zahn",
-    "numEvals": 13,
-    "overallRating": 3.85,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.85,
+    "numEvals": 14,
+    "overallRating": 3.86,
+    "materialClear": 3.86,
+    "studentDifficulties": 3.86,
     "courses": [
       "PHIL 230",
       "PHIL 126",
@@ -41068,10 +41074,10 @@
     "department": "GER",
     "firstName": "Christian",
     "lastName": "Anderson",
-    "numEvals": 45,
-    "overallRating": 2.56,
-    "materialClear": 2.63,
-    "studentDifficulties": 2.9,
+    "numEvals": 46,
+    "overallRating": 2.5,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.84,
     "courses": [
       "GER 101",
       "GER 102",
@@ -42333,10 +42339,10 @@
     "department": "PHIL",
     "firstName": "Devin",
     "lastName": "Kuhn",
-    "numEvals": 33,
-    "overallRating": 2.41,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.29,
+    "numEvals": 34,
+    "overallRating": 2.46,
+    "materialClear": 2.57,
+    "studentDifficulties": 2.34,
     "courses": [
       "RELS 201",
       "WS 301",
@@ -42350,7 +42356,9 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -48154,10 +48162,10 @@
     "department": "CSC",
     "firstName": "Joydeep",
     "lastName": "Mukherjee",
-    "numEvals": 18,
-    "overallRating": 3.45,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.29,
+    "numEvals": 19,
+    "overallRating": 3.43,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.27,
     "courses": [
       "CSC 305",
       "CSC 357"
@@ -48168,7 +48176,7 @@
       "Supplemental Study Material": 1,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Flexible Attendance Policy": 5,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 2,
@@ -49706,10 +49714,10 @@
     "department": "ECON",
     "firstName": "Hilary",
     "lastName": "Soldati",
-    "numEvals": 11,
-    "overallRating": 1.74,
-    "materialClear": 2.09,
-    "studentDifficulties": 2.27,
+    "numEvals": 12,
+    "overallRating": 1.68,
+    "materialClear": 2,
+    "studentDifficulties": 2.16,
     "courses": [
       "ECON 435",
       "ECON 303",
