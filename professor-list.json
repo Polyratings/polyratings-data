@@ -36675,10 +36675,10 @@
     "department": "MATH",
     "firstName": "Daniel",
     "lastName": "Cruz",
-    "numEvals": 12,
-    "overallRating": 1.75,
-    "materialClear": 1.92,
-    "studentDifficulties": 2.17,
+    "numEvals": 13,
+    "overallRating": 1.69,
+    "materialClear": 1.85,
+    "studentDifficulties": 2.08,
     "courses": [
       "MATH 241",
       "MATH 248",
@@ -36686,7 +36686,7 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 7,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Inflexible Attendance Policy": 2,
       "Inflexible Grading Policy": 2,
       "Fast Response Time": 3,
@@ -42218,9 +42218,9 @@
     "department": "CE",
     "firstName": "Daniel",
     "lastName": "Jansen",
-    "numEvals": 39,
-    "overallRating": 3.22,
-    "materialClear": 3.39,
+    "numEvals": 40,
+    "overallRating": 3.24,
+    "materialClear": 3.41,
     "studentDifficulties": 3.03,
     "courses": [
       "CE 111",
@@ -42238,8 +42238,10 @@
       "No Breaks During Lecture": 2,
       "Inflexible Attendance Policy": 2,
       "Uploads Slides": 1,
-      "Class Handouts": 1,
-      "Does Not Use Canvas": 1
+      "Class Handouts": 2,
+      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -47240,22 +47242,22 @@
     "department": "PHYS",
     "firstName": "Stamatis",
     "lastName": "Vokos",
-    "numEvals": 12,
-    "overallRating": 3.67,
-    "materialClear": 3.16,
-    "studentDifficulties": 3.5,
+    "numEvals": 13,
+    "overallRating": 3.62,
+    "materialClear": 3.15,
+    "studentDifficulties": 3.54,
     "courses": [
       "PHYS 104",
       "PHYS 141",
       "PHYS 143"
     ],
     "tags": {
-      "High In-Person Availability": 5,
+      "High In-Person Availability": 6,
       "Flexible Deadline Policy": 1,
       "Class Handouts": 5,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Honor DRC Accommodations": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Flexible Grading Policy": 2,
       "Zoom Office Hours": 1
     }
@@ -50309,17 +50311,17 @@
     "department": "STAT",
     "firstName": "Deniz",
     "lastName": "Yenigun",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "STAT"
+      "STAT 312"
     ],
     "tags": {
       "Class Handouts": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
