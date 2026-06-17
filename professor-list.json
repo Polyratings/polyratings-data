@@ -37164,10 +37164,10 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Valdez",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.25,
+    "materialClear": 3.25,
+    "studentDifficulties": 3.75,
     "courses": [
       "MATH 221"
     ],
@@ -37177,7 +37177,10 @@
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
