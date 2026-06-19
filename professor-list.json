@@ -4386,7 +4386,7 @@
     "department": "PSY",
     "firstName": "James",
     "lastName": "Elliott",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -4395,7 +4395,10 @@
       "PSY 329"
     ],
     "tags": {
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -8535,10 +8538,10 @@
     "department": "ENGL",
     "firstName": "Isabell",
     "lastName": "Garcia",
-    "numEvals": 24,
-    "overallRating": 1.33,
-    "materialClear": 1.16,
-    "studentDifficulties": 1.5,
+    "numEvals": 25,
+    "overallRating": 1.28,
+    "materialClear": 1.11,
+    "studentDifficulties": 1.44,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -8547,14 +8550,14 @@
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Flexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 7,
+      "Inflexible Grading Policy": 8,
       "Flexible Attendance Policy": 4,
       "Uploads Slides": 2,
       "No Breaks During Lecture": 1,
       "Hybrid Option": 1,
-      "Inflexible Deadline Policy": 3
+      "Inflexible Deadline Policy": 4
     }
   },
   {
@@ -11646,16 +11649,17 @@
     "department": "BOT",
     "firstName": "Dena",
     "lastName": "Grossenbacher",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BOT"
+      "BOT 326"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -23021,10 +23025,10 @@
     "department": "MATE",
     "firstName": "Kareesa",
     "lastName": "Kron",
-    "numEvals": 24,
-    "overallRating": 3.29,
-    "materialClear": 3.68,
-    "studentDifficulties": 3.5,
+    "numEvals": 25,
+    "overallRating": 3.32,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.52,
     "courses": [
       "MATE 110",
       "MATE 215",
@@ -29079,7 +29083,7 @@
     "department": "CHEM",
     "firstName": "Ruoxi",
     "lastName": "Wang",
-    "numEvals": 25,
+    "numEvals": 26,
     "overallRating": 4,
     "materialClear": 3.93,
     "studentDifficulties": 4,
@@ -29089,19 +29093,20 @@
       "CHEM 312",
       "CHEM 216",
       "CHEM 129",
-      "CHEM 128"
+      "CHEM 128",
+      "CHEM 127"
     ],
     "tags": {
       "Flexible Attendance Policy": 6,
       "Class Handouts": 16,
       "Honor DRC Accommodations": 2,
       "Uploads Slides": 9,
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "Inflexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Supplemental Study Material": 12,
+      "Supplemental Study Material": 13,
       "Recorded Lectures": 1,
-      "High In-Person Availability": 3,
+      "High In-Person Availability": 4,
       "Flexible Deadline Policy": 1
     }
   },
@@ -30320,10 +30325,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 33,
-    "overallRating": 2.07,
-    "materialClear": 2.29,
-    "studentDifficulties": 2.61,
+    "numEvals": 34,
+    "overallRating": 2.01,
+    "materialClear": 2.34,
+    "studentDifficulties": 2.65,
     "courses": [
       "EE 251",
       "EE 307",
@@ -35153,10 +35158,10 @@
     "department": "HLTH",
     "firstName": "Christine Irish",
     "lastName": "Nelson",
-    "numEvals": 13,
-    "overallRating": 3.92,
-    "materialClear": 3.92,
-    "studentDifficulties": 3.38,
+    "numEvals": 14,
+    "overallRating": 3.93,
+    "materialClear": 3.93,
+    "studentDifficulties": 3.42,
     "courses": [
       "HLTH 250",
       "HLTH 101",
