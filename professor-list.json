@@ -21601,13 +21601,14 @@
     "department": "IME",
     "firstName": "Jeff",
     "lastName": "Zimmerman",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 3.91,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.83,
+    "materialClear": 3.58,
+    "studentDifficulties": 3.84,
     "courses": [
       "IME 145",
-      "IME 144"
+      "IME 144",
+      "IME 143"
     ],
     "tags": {
       "Fast Response Time": 8,
@@ -27956,10 +27957,10 @@
     "department": "ME",
     "firstName": "Cristopher",
     "lastName": "Pascual",
-    "numEvals": 43,
+    "numEvals": 44,
     "overallRating": 3.79,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.75,
+    "materialClear": 3.79,
+    "studentDifficulties": 3.76,
     "courses": [
       "ME 301",
       "ME 302",
@@ -27975,7 +27976,9 @@
     "tags": {
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -36382,17 +36385,18 @@
     "department": "IME",
     "firstName": "Xuan",
     "lastName": "Wang",
-    "numEvals": 3,
-    "overallRating": 3.67,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 3.5,
+    "materialClear": 3,
+    "studentDifficulties": 3.5,
     "courses": [
       "IME 327"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -41322,9 +41326,9 @@
     "department": "IME",
     "firstName": "Trian",
     "lastName": "Georgeou",
-    "numEvals": 27,
-    "overallRating": 3.78,
-    "materialClear": 3.83,
+    "numEvals": 28,
+    "overallRating": 3.79,
+    "materialClear": 3.84,
     "studentDifficulties": 3.87,
     "courses": [
       "IME 140",
@@ -42428,7 +42432,7 @@
     "department": "ME",
     "firstName": "Eric",
     "lastName": "Espinoza-Wade",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -42438,8 +42442,10 @@
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -47049,10 +47055,10 @@
     "department": "ME",
     "firstName": "Joseph",
     "lastName": "Pinheiro",
-    "numEvals": 20,
-    "overallRating": 3.6,
-    "materialClear": 3.86,
-    "studentDifficulties": 3.75,
+    "numEvals": 21,
+    "overallRating": 3.62,
+    "materialClear": 3.87,
+    "studentDifficulties": 3.76,
     "courses": [
       "ME 211",
       "ME 347",
@@ -47061,15 +47067,15 @@
       "ME 302"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Inflexible Deadline Policy": 2,
       "Honor DRC Accommodations": 3,
       "Inflexible Attendance Policy": 1,
       "Class Handouts": 6,
       "Inflexible Grading Policy": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 6,
+      "Flexible Grading Policy": 7,
       "Zoom Office Hours": 2,
       "Uploads Slides": 6,
       "Recorded Lectures": 1,
@@ -48367,10 +48373,10 @@
     "department": "ME",
     "firstName": "Charlie",
     "lastName": "Refvem",
-    "numEvals": 4,
-    "overallRating": 2.25,
-    "materialClear": 1.75,
-    "studentDifficulties": 2,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.2,
+    "studentDifficulties": 2.4,
     "courses": [
       "ME 326",
       "ME 322",
