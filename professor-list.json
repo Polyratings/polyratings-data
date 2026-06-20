@@ -13032,10 +13032,10 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 302,
+    "numEvals": 303,
     "overallRating": 2.44,
     "materialClear": 2.04,
-    "studentDifficulties": 2.58,
+    "studentDifficulties": 2.57,
     "courses": [
       "ECON 111",
       "ECON 201",
@@ -15587,10 +15587,10 @@
     "department": "EE",
     "firstName": "Uma",
     "lastName": "Balaji",
-    "numEvals": 19,
-    "overallRating": 3.48,
-    "materialClear": 2.81,
-    "studentDifficulties": 3.74,
+    "numEvals": 21,
+    "overallRating": 3.25,
+    "materialClear": 2.64,
+    "studentDifficulties": 3.71,
     "courses": [
       "EE 335",
       "EE 241",
@@ -30429,12 +30429,13 @@
     "department": "WLC",
     "firstName": "Akiko",
     "lastName": "Takamatsu",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "JPNS"
+      "JPNS 103",
+      "WLC 310"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -37422,21 +37423,21 @@
     "department": "CSC",
     "firstName": "Sumona",
     "lastName": "Mukhopadhyay",
-    "numEvals": 14,
-    "overallRating": 2.36,
-    "materialClear": 2.36,
-    "studentDifficulties": 2.92,
+    "numEvals": 15,
+    "overallRating": 2.47,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.99,
     "courses": [
       "CSC 101",
       "CSC 466",
       "DATA 301"
     ],
     "tags": {
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 1,
-      "Class Handouts": 1
+      "Flexible Grading Policy": 2,
+      "Class Handouts": 2
     }
   },
   {
