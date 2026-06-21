@@ -7948,7 +7948,7 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 46,
+    "numEvals": 47,
     "overallRating": 3.8,
     "materialClear": 3.94,
     "studentDifficulties": 3.8,
@@ -7963,13 +7963,13 @@
       "POLS 470"
     ],
     "tags": {
-      "High In-Person Availability": 12,
+      "High In-Person Availability": 13,
       "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 9,
+      "Fast Response Time": 10,
       "Does Not Use Canvas": 3,
       "Flexible Attendance Policy": 3,
-      "Honor DRC Accommodations": 3
+      "Honor DRC Accommodations": 4
     }
   },
   {
@@ -9224,10 +9224,10 @@
     "department": "MATH",
     "firstName": "Amelie",
     "lastName": "Schinck",
-    "numEvals": 17,
-    "overallRating": 3.07,
-    "materialClear": 3.07,
-    "studentDifficulties": 3.12,
+    "numEvals": 18,
+    "overallRating": 3.12,
+    "materialClear": 3.12,
+    "studentDifficulties": 3.17,
     "courses": [
       "MATH 141",
       "MATH 227",
@@ -9236,11 +9236,12 @@
     ],
     "tags": {
       "Zoom Office Hours": 5,
-      "Class Handouts": 7,
+      "Class Handouts": 8,
       "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Fast Response Time": 1
+      "Flexible Grading Policy": 2,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -9319,14 +9320,18 @@
     "department": "ARCE",
     "firstName": "Megan",
     "lastName": "Hanson",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ARCE"
+      "ARCE 257"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "2cfe6063-bb6a-4000-806a-8af286a2043b",
@@ -11811,10 +11816,10 @@
     "department": "CHEM",
     "firstName": "Tsvetan",
     "lastName": "Aleksandrov",
-    "numEvals": 36,
-    "overallRating": 2.48,
-    "materialClear": 2.04,
-    "studentDifficulties": 2.87,
+    "numEvals": 37,
+    "overallRating": 2.52,
+    "materialClear": 2.07,
+    "studentDifficulties": 2.9,
     "courses": [
       "CHEM 129",
       "CHEM 128",
@@ -11823,13 +11828,13 @@
       "CHEM 127"
     ],
     "tags": {
-      "Uploads Slides": 17,
+      "Uploads Slides": 18,
       "Zoom Office Hours": 7,
       "Honor DRC Accommodations": 1,
       "Inflexible Grading Policy": 1,
       "No Breaks During Lecture": 3,
-      "Pop Quizzes": 2,
-      "Supplemental Study Material": 7,
+      "Pop Quizzes": 3,
+      "Supplemental Study Material": 8,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 3,
       "High In-Person Availability": 3,
@@ -11867,10 +11872,10 @@
     "department": "ARCE",
     "firstName": "Edmond",
     "lastName": "Saliklis",
-    "numEvals": 33,
-    "overallRating": 2.52,
-    "materialClear": 2.4,
-    "studentDifficulties": 2.42,
+    "numEvals": 34,
+    "overallRating": 2.56,
+    "materialClear": 2.45,
+    "studentDifficulties": 2.47,
     "courses": [
       "ARCH 131",
       "ARCE 133",
@@ -11887,11 +11892,11 @@
       "ARCE 211"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Deadline Policy": 1,
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Inflexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1
@@ -30331,10 +30336,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 34,
-    "overallRating": 2.01,
-    "materialClear": 2.34,
-    "studentDifficulties": 2.65,
+    "numEvals": 35,
+    "overallRating": 2.07,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.69,
     "courses": [
       "EE 251",
       "EE 307",
@@ -33328,10 +33333,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 104,
-    "overallRating": 1.17,
-    "materialClear": 1.14,
-    "studentDifficulties": 1.39,
+    "numEvals": 105,
+    "overallRating": 1.2,
+    "materialClear": 1.16,
+    "studentDifficulties": 1.41,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -33343,14 +33348,14 @@
       "Flexible Attendance Policy": 10,
       "Inflexible Grading Policy": 23,
       "Honor DRC Accommodations": 5,
-      "High In-Person Availability": 9,
+      "High In-Person Availability": 10,
       "Fast Response Time": 8,
       "Flexible Deadline Policy": 17,
-      "Flexible Grading Policy": 5,
+      "Flexible Grading Policy": 6,
       "Pop Quizzes": 2,
       "Class Handouts": 3,
       "No Breaks During Lecture": 7,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 7
     }
@@ -48009,14 +48014,18 @@
     "department": "ARCE",
     "firstName": "Kristin",
     "lastName": "Potterton",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ARCE"
+      "ARCE 211"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "f1a94ef4-3abb-4680-b7e1-bee6494cbbdf",
