@@ -4670,10 +4670,10 @@
     "department": "EE",
     "firstName": "Payam",
     "lastName": "Nayeri",
-    "numEvals": 9,
-    "overallRating": 2.78,
-    "materialClear": 2.89,
-    "studentDifficulties": 2.56,
+    "numEvals": 10,
+    "overallRating": 2.6,
+    "materialClear": 2.9,
+    "studentDifficulties": 2.3,
     "courses": [
       "EE 504",
       "EE 335",
@@ -4682,7 +4682,7 @@
     "tags": {
       "Fast Response Time": 3,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Honor DRC Accommodations": 1,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 1
@@ -39192,10 +39192,10 @@
     "department": "POLS",
     "firstName": "Bobby",
     "lastName": "Olsen",
-    "numEvals": 20,
-    "overallRating": 2.99,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.16,
+    "numEvals": 21,
+    "overallRating": 2.9,
+    "materialClear": 3.14,
+    "studentDifficulties": 3.06,
     "courses": [
       "POLS 112",
       "POLS 343"
@@ -42236,18 +42236,19 @@
     "department": "BIO",
     "firstName": "Tim",
     "lastName": "Spade",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.2,
+    "studentDifficulties": 3.8,
     "courses": [
-      "BIO 231"
+      "BIO 231",
+      "BIO 232"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Supplemental Study Material": 1,
+      "Supplemental Study Material": 2,
       "Uploads Slides": 3,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Flexible Deadline Policy": 1
     }
   },
