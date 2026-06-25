@@ -777,21 +777,23 @@
     "department": "BRAE",
     "firstName": "Daniel",
     "lastName": "Namyst",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.67,
     "courses": [
       "BRAE 239",
       "BRAE 355"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Inflexible Deadline Policy": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Honor DRC Accommodations": 2
+      "Honor DRC Accommodations": 2,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -33952,12 +33954,13 @@
     "department": "PSY",
     "firstName": "Hannah",
     "lastName": "Roberts",
-    "numEvals": 7,
-    "overallRating": 3.29,
-    "materialClear": 3.57,
-    "studentDifficulties": 3.43,
+    "numEvals": 8,
+    "overallRating": 3.38,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.5,
     "courses": [
-      "PSY 405"
+      "PSY 405",
+      "PSY 311"
     ],
     "tags": {
       "High In-Person Availability": 3,
@@ -37198,10 +37201,10 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Valdez",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.8,
     "courses": [
       "MATH 221"
     ],
@@ -43447,10 +43450,10 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 103,
-    "overallRating": 3.46,
-    "materialClear": 3.26,
-    "studentDifficulties": 3.48,
+    "numEvals": 104,
+    "overallRating": 3.47,
+    "materialClear": 3.27,
+    "studentDifficulties": 3.49,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -43462,16 +43465,16 @@
       "MATH 182"
     ],
     "tags": {
-      "Class Handouts": 24,
+      "Class Handouts": 25,
       "Supplemental Study Material": 8,
       "Flexible Grading Policy": 3,
       "Recorded Lectures": 10,
       "Uploads Slides": 17,
       "Honor DRC Accommodations": 4,
-      "Fast Response Time": 12,
+      "Fast Response Time": 13,
       "Inflexible Attendance Policy": 6,
       "Flexible Attendance Policy": 6,
-      "High In-Person Availability": 6,
+      "High In-Person Availability": 7,
       "Inflexible Deadline Policy": 1,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 1,
