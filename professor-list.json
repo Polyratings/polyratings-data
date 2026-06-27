@@ -6854,10 +6854,10 @@
     "department": "GRC",
     "firstName": "Dina",
     "lastName": "Vees",
-    "numEvals": 37,
-    "overallRating": 0.67,
-    "materialClear": 0.86,
-    "studentDifficulties": 0.71,
+    "numEvals": 38,
+    "overallRating": 0.73,
+    "materialClear": 0.92,
+    "studentDifficulties": 0.77,
     "courses": [
       "GRC 203",
       "GRC 316"
@@ -6867,12 +6867,12 @@
       "Class Handouts": 1,
       "Inflexible Grading Policy": 15,
       "Inflexible Deadline Policy": 15,
-      "Inflexible Attendance Policy": 14,
+      "Inflexible Attendance Policy": 15,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 2,
-      "No Breaks During Lecture": 9,
-      "Uploads Slides": 3
+      "No Breaks During Lecture": 10,
+      "Uploads Slides": 4
     }
   },
   {
@@ -24729,18 +24729,20 @@
     "department": "GRC",
     "firstName": "Bekir",
     "lastName": "Keskin",
-    "numEvals": 2,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.67,
+    "materialClear": 3.33,
+    "studentDifficulties": 3,
     "courses": [
       "GRC 328"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Class Handouts": 2,
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -41868,17 +41870,19 @@
     "department": "GRC",
     "firstName": "Hocheol",
     "lastName": "Yang",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 0,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "GRC"
+      "GRC 301"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
