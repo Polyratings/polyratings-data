@@ -31620,12 +31620,13 @@
     "department": "BRAE",
     "firstName": "Peter",
     "lastName": "Livingston",
-    "numEvals": 1,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 2,
     "courses": [
-      "BRAE"
+      "BRAE 349",
+      "BRAE 128"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -37212,20 +37213,20 @@
     "department": "MATH",
     "firstName": "Christopher",
     "lastName": "Valdez",
-    "numEvals": 5,
-    "overallRating": 2.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.8,
+    "numEvals": 6,
+    "overallRating": 2.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.83,
     "courses": [
       "MATH 221"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
       "Honor DRC Accommodations": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
       "No Breaks During Lecture": 1
