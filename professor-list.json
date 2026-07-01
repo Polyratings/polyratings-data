@@ -17483,9 +17483,9 @@
     "department": "BIO",
     "firstName": "Weston",
     "lastName": "Gonor",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
-    "materialClear": 3.86,
+    "materialClear": 3.87,
     "studentDifficulties": 4,
     "courses": [
       "BIO 161",
@@ -17495,10 +17495,10 @@
       "High In-Person Availability": 3,
       "Fast Response Time": 6,
       "Class Handouts": 3,
-      "Recorded Lectures": 7,
-      "Uploads Slides": 4,
+      "Recorded Lectures": 8,
+      "Uploads Slides": 5,
       "Honor DRC Accommodations": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 2
     }
@@ -17718,10 +17718,10 @@
     "department": "CE",
     "firstName": "Damian",
     "lastName": "Kachlakev",
-    "numEvals": 37,
-    "overallRating": 2,
-    "materialClear": 1.94,
-    "studentDifficulties": 1.9,
+    "numEvals": 38,
+    "overallRating": 1.97,
+    "materialClear": 1.92,
+    "studentDifficulties": 1.88,
     "courses": [
       "CE 204",
       "CE 205",
@@ -24105,16 +24105,17 @@
     "department": "PSY",
     "firstName": "Roxanne",
     "lastName": "Rassti",
-    "numEvals": 3,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.75,
     "courses": [
-      "PSY 375"
+      "PSY 375",
+      "PSY 405"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Flexible Grading Policy": 1
     }
   },
@@ -31730,10 +31731,10 @@
     "department": "CHEM",
     "firstName": "Tammy",
     "lastName": "Campbell",
-    "numEvals": 53,
-    "overallRating": 1.33,
+    "numEvals": 54,
+    "overallRating": 1.34,
     "materialClear": 1.07,
-    "studentDifficulties": 1.6,
+    "studentDifficulties": 1.63,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -31745,10 +31746,10 @@
     ],
     "tags": {
       "Flexible Deadline Policy": 2,
-      "Flexible Grading Policy": 1,
-      "Uploads Slides": 6,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 7,
       "Zoom Office Hours": 3,
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 1
     }
