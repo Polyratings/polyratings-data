@@ -18176,10 +18176,10 @@
     "department": "ENGL",
     "firstName": "Brad",
     "lastName": "Campbell",
-    "numEvals": 56,
-    "overallRating": 3.71,
+    "numEvals": 57,
+    "overallRating": 3.72,
     "materialClear": 3.76,
-    "studentDifficulties": 3.7,
+    "studentDifficulties": 3.71,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -18194,7 +18194,7 @@
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Pop Quizzes": 6,
       "Does Not Use Canvas": 1,
       "Inflexible Grading Policy": 1,
@@ -19248,13 +19248,18 @@
     "department": "BIO",
     "firstName": "Alejandra",
     "lastName": "Yep-Rodriguez",
-    "numEvals": 4,
-    "overallRating": 3.44,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.56,
+    "numEvals": 5,
+    "overallRating": 3.55,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.65,
     "courses": [
-      "MCRO 224"
-    ]
+      "MCRO 224",
+      "MCRO 225"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5cc6a6d5-fc9d-44ed-9835-9482a7d6ac0d",
