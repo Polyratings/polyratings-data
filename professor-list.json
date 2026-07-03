@@ -4717,19 +4717,20 @@
     "department": "ART",
     "firstName": "Marco Polo",
     "lastName": "Juarez Cruz",
-    "numEvals": 4,
-    "overallRating": 3.75,
-    "materialClear": 3.25,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.8,
     "courses": [
       "ART 111"
     ],
     "tags": {
-      "Class Handouts": 1,
+      "Class Handouts": 2,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -20307,10 +20308,10 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 11,
-    "overallRating": 2.81,
-    "materialClear": 3.63,
-    "studentDifficulties": 3.27,
+    "numEvals": 12,
+    "overallRating": 2.91,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.33,
     "courses": [
       "BUS 346",
       "BUS 451"
@@ -21556,7 +21557,7 @@
     "department": "ISLA",
     "firstName": "Maggie",
     "lastName": "Mang",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -21564,9 +21565,10 @@
       "ISLA 355"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Deadline Policy": 2,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -28153,10 +28155,10 @@
     "department": "BUS",
     "firstName": "Brennan L",
     "lastName": "Davis",
-    "numEvals": 62,
-    "overallRating": 3.38,
-    "materialClear": 3.36,
-    "studentDifficulties": 3.39,
+    "numEvals": 63,
+    "overallRating": 3.39,
+    "materialClear": 3.37,
+    "studentDifficulties": 3.38,
     "courses": [
       "BUS 201",
       "BUS 300",
@@ -28169,7 +28171,11 @@
       "BUS 421",
       "BUS 450"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "89bcb967-a125-4e21-a96a-2470cded6785",
