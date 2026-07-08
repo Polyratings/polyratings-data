@@ -4652,20 +4652,22 @@
     "department": "MATH",
     "firstName": "Samuel",
     "lastName": "Tiscareno",
-    "numEvals": 21,
-    "overallRating": 1.15,
-    "materialClear": 0.97,
-    "studentDifficulties": 1.34,
+    "numEvals": 22,
+    "overallRating": 1.28,
+    "materialClear": 1.06,
+    "studentDifficulties": 1.46,
     "courses": [
-      "MATH 118"
+      "MATH 118",
+      "MATH 119"
     ],
     "tags": {
       "No Breaks During Lecture": 4,
       "Flexible Attendance Policy": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Inflexible Grading Policy": 3,
       "Inflexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -41417,10 +41419,10 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 170,
-    "overallRating": 2.85,
-    "materialClear": 2.76,
-    "studentDifficulties": 2.83,
+    "numEvals": 171,
+    "overallRating": 2.84,
+    "materialClear": 2.75,
+    "studentDifficulties": 2.81,
     "courses": [
       "CHEM 111",
       "CHEM 124",
@@ -41434,9 +41436,9 @@
     "tags": {
       "High In-Person Availability": 23,
       "Fast Response Time": 15,
-      "Uploads Slides": 11,
+      "Uploads Slides": 12,
       "Flexible Deadline Policy": 6,
-      "Class Handouts": 26,
+      "Class Handouts": 27,
       "Supplemental Study Material": 18,
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 3,
