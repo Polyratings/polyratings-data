@@ -1647,10 +1647,10 @@
     "department": "COMS",
     "firstName": "Amy",
     "lastName": "Ward",
-    "numEvals": 47,
+    "numEvals": 48,
     "overallRating": 2.82,
-    "materialClear": 3.23,
-    "studentDifficulties": 2.83,
+    "materialClear": 3.2,
+    "studentDifficulties": 2.81,
     "courses": [
       "COMS 101"
     ],
@@ -1660,10 +1660,10 @@
       "High In-Person Availability": 2,
       "Inflexible Deadline Policy": 2,
       "Inflexible Attendance Policy": 4,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Hybrid Option": 2,
-      "Zoom Office Hours": 3,
-      "Fast Response Time": 4,
+      "Zoom Office Hours": 4,
+      "Fast Response Time": 5,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2
     }
@@ -47524,20 +47524,22 @@
     "department": "ARCH",
     "firstName": "Casey",
     "lastName": "Benito",
-    "numEvals": 12,
-    "overallRating": 0.75,
-    "materialClear": 0.67,
-    "studentDifficulties": 0.84,
+    "numEvals": 13,
+    "overallRating": 0.85,
+    "materialClear": 0.7,
+    "studentDifficulties": 1.01,
     "courses": [
       "ARCH 132",
       "ARCH 133",
-      "ARCH 252"
+      "ARCH 252",
+      "ARCH 253"
     ],
     "tags": {
       "Inflexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 2,
       "Pop Quizzes": 2,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
