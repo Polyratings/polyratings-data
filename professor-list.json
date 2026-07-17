@@ -6774,10 +6774,10 @@
     "department": "STAT",
     "firstName": "Lubaba",
     "lastName": "Alim",
-    "numEvals": 28,
-    "overallRating": 2.96,
-    "materialClear": 2.32,
-    "studentDifficulties": 3.11,
+    "numEvals": 29,
+    "overallRating": 2.93,
+    "materialClear": 2.31,
+    "studentDifficulties": 3.07,
     "courses": [
       "STAT 217",
       "STAT 251"
@@ -6787,13 +6787,13 @@
       "Flexible Grading Policy": 1,
       "Uploads Slides": 10,
       "Honor DRC Accommodations": 2,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Fast Response Time": 3,
       "Inflexible Grading Policy": 2,
       "High In-Person Availability": 3,
       "Supplemental Study Material": 2,
-      "Recorded Lectures": 2,
-      "Inflexible Attendance Policy": 2
+      "Recorded Lectures": 3,
+      "Inflexible Attendance Policy": 3
     }
   },
   {
@@ -26033,10 +26033,10 @@
     "department": "BUS",
     "firstName": "Adam",
     "lastName": "Bordeman",
-    "numEvals": 26,
-    "overallRating": 3.04,
-    "materialClear": 2.89,
-    "studentDifficulties": 2.8,
+    "numEvals": 27,
+    "overallRating": 3.08,
+    "materialClear": 2.93,
+    "studentDifficulties": 2.84,
     "courses": [
       "BUS 214",
       "BUS 321"
@@ -26045,7 +26045,8 @@
       "Flexible Attendance Policy": 5,
       "Recorded Lectures": 3,
       "Fast Response Time": 3,
-      "Uploads Slides": 5
+      "Uploads Slides": 6,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -37327,7 +37328,7 @@
     "department": "COMS",
     "firstName": "Sasha",
     "lastName": "Sanders",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -42728,10 +42729,10 @@
     "department": "ES",
     "firstName": "Mt",
     "lastName": "Vallarta",
-    "numEvals": 28,
-    "overallRating": 1.87,
-    "materialClear": 1.89,
-    "studentDifficulties": 1.86,
+    "numEvals": 29,
+    "overallRating": 1.81,
+    "materialClear": 1.82,
+    "studentDifficulties": 1.8,
     "courses": [
       "ES 112"
     ],
@@ -43160,19 +43161,21 @@
     "department": "ENGL",
     "firstName": "Shanae",
     "lastName": "Martinez",
-    "numEvals": 6,
-    "overallRating": 2.83,
-    "materialClear": 2.67,
-    "studentDifficulties": 3,
+    "numEvals": 7,
+    "overallRating": 3,
+    "materialClear": 2.86,
+    "studentDifficulties": 3.14,
     "courses": [
-      "ENGL 346"
+      "ENGL 346",
+      "ENGL 381"
     ],
     "tags": {
       "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
       "Flexible Deadline Policy": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Recorded Lectures": 1
     }
   },
   {
