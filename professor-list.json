@@ -14820,10 +14820,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 86,
+    "numEvals": 87,
     "overallRating": 3.81,
     "materialClear": 3.79,
-    "studentDifficulties": 3.8,
+    "studentDifficulties": 3.79,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -14841,10 +14841,11 @@
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "No Breaks During Lecture": 2,
       "Class Handouts": 1,
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -19325,19 +19326,19 @@
     "department": "LA",
     "firstName": "Alexandre",
     "lastName": "Champagne",
-    "numEvals": 14,
-    "overallRating": 0.72,
-    "materialClear": 0.72,
-    "studentDifficulties": 0.79,
+    "numEvals": 15,
+    "overallRating": 0.87,
+    "materialClear": 0.81,
+    "studentDifficulties": 0.94,
     "courses": [
       "LA 212"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
-      "Inflexible Deadline Policy": 6,
+      "Inflexible Attendance Policy": 6,
+      "Inflexible Deadline Policy": 7,
       "Supplemental Study Material": 2,
       "Inflexible Grading Policy": 4,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "No Breaks During Lecture": 2
     }
   },
