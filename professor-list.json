@@ -9039,7 +9039,7 @@
     "department": "PHIL",
     "firstName": "Keith",
     "lastName": "Abney",
-    "numEvals": 148,
+    "numEvals": 149,
     "overallRating": 2.34,
     "materialClear": 2.62,
     "studentDifficulties": 2.09,
@@ -9063,16 +9063,16 @@
       "PHIL 323"
     ],
     "tags": {
-      "Recorded Lectures": 5,
+      "Recorded Lectures": 6,
       "Hybrid Option": 2,
       "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Flexible Attendance Policy": 1,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2
     }
   },
   {
@@ -12144,13 +12144,14 @@
     "department": "KINE",
     "firstName": "Jafra",
     "lastName": "Thomas",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 2,
-    "studentDifficulties": 2,
+    "numEvals": 4,
+    "overallRating": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
       "KINE 278",
-      "HLTH 405"
+      "HLTH 405",
+      "KINE 323"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
@@ -25838,10 +25839,10 @@
     "department": "ES",
     "firstName": "Jorge",
     "lastName": "Moraga",
-    "numEvals": 36,
-    "overallRating": 1.49,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.9,
+    "numEvals": 37,
+    "overallRating": 1.53,
+    "materialClear": 1.81,
+    "studentDifficulties": 1.96,
     "courses": [
       "ES 255",
       "ES 112"
@@ -25854,7 +25855,7 @@
       "Inflexible Deadline Policy": 4,
       "Inflexible Grading Policy": 4,
       "Pop Quizzes": 4,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Supplemental Study Material": 6,
       "No Breaks During Lecture": 9,
       "Flexible Attendance Policy": 1
@@ -36254,13 +36255,14 @@
     "department": "ES",
     "firstName": "Lydia",
     "lastName": "Heberling",
-    "numEvals": 38,
-    "overallRating": 3.44,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.6,
+    "numEvals": 39,
+    "overallRating": 3.4,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.53,
     "courses": [
       "ES 253",
-      "NR 360"
+      "NR 360",
+      "ES 340"
     ],
     "tags": {
       "Flexible Attendance Policy": 14,
@@ -37316,10 +37318,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 51,
-    "overallRating": 3.1,
-    "materialClear": 3.27,
-    "studentDifficulties": 3.29,
+    "numEvals": 52,
+    "overallRating": 3.12,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.3,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -37332,11 +37334,12 @@
     ],
     "tags": {
       "Pop Quizzes": 1,
-      "Recorded Lectures": 9,
+      "Recorded Lectures": 10,
       "Zoom Office Hours": 3,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Hybrid Option": 2,
-      "Honor DRC Accommodations": 3
+      "Honor DRC Accommodations": 3,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
