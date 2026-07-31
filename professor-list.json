@@ -21377,10 +21377,10 @@
     "department": "MATH",
     "firstName": "Mitch",
     "lastName": "McDuff",
-    "numEvals": 57,
-    "overallRating": 3.05,
-    "materialClear": 3.39,
-    "studentDifficulties": 2.73,
+    "numEvals": 58,
+    "overallRating": 3.07,
+    "materialClear": 3.4,
+    "studentDifficulties": 2.75,
     "courses": [
       "MATH 161",
       "MATH 141",
@@ -41075,16 +41075,17 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 31,
-    "overallRating": 3.44,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.64,
+    "numEvals": 32,
+    "overallRating": 3.43,
+    "materialClear": 3.47,
+    "studentDifficulties": 3.62,
     "courses": [
       "MATH 143",
       "MATH 244",
       "MATH 118",
       "MATH 241",
-      "MATH 142"
+      "MATH 142",
+      "MATH 344"
     ],
     "tags": {
       "High In-Person Availability": 3,
@@ -41093,7 +41094,7 @@
       "Uploads Slides": 8,
       "No Breaks During Lecture": 8,
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 9,
+      "Flexible Attendance Policy": 10,
       "Flexible Grading Policy": 2,
       "Class Handouts": 1
     }
@@ -42343,10 +42344,10 @@
     "department": "CE",
     "firstName": "Daniel",
     "lastName": "Jansen",
-    "numEvals": 41,
-    "overallRating": 3.26,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.03,
+    "numEvals": 42,
+    "overallRating": 3.28,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.05,
     "courses": [
       "CE 111",
       "CE 201",
@@ -42366,7 +42367,8 @@
       "Class Handouts": 3,
       "Does Not Use Canvas": 1,
       "Inflexible Deadline Policy": 2,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
