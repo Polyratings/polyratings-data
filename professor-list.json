@@ -7363,10 +7363,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 201,
-    "overallRating": 1.97,
-    "materialClear": 2.06,
-    "studentDifficulties": 2.09,
+    "numEvals": 202,
+    "overallRating": 1.96,
+    "materialClear": 2.05,
+    "studentDifficulties": 2.08,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -21918,18 +21918,21 @@
     "department": "ENGL",
     "firstName": "Ricky",
     "lastName": "Reynoso",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 310",
-      "ENGL 319"
+      "ENGL 319",
+      "ENGL 147"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Flexible Grading Policy": 2,
+      "Honor DRC Accommodations": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -40269,10 +40272,10 @@
     "department": "PHYS",
     "firstName": "Glen",
     "lastName": "Gillen",
-    "numEvals": 57,
-    "overallRating": 3.03,
-    "materialClear": 3.04,
-    "studentDifficulties": 2.96,
+    "numEvals": 58,
+    "overallRating": 3.05,
+    "materialClear": 3.06,
+    "studentDifficulties": 2.98,
     "courses": [
       "PHYS 121",
       "PHYS 122",
@@ -40287,13 +40290,13 @@
       "PHYS 142"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Supplemental Study Material": 2,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 3,
       "Fast Response Time": 3,
       "No Breaks During Lecture": 1,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Pop Quizzes": 1
     }
   },
@@ -46018,10 +46021,10 @@
     "department": "MATE",
     "firstName": "Brian",
     "lastName": "Davis",
-    "numEvals": 10,
-    "overallRating": 3.69,
-    "materialClear": 3.6,
-    "studentDifficulties": 3.81,
+    "numEvals": 11,
+    "overallRating": 3.72,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.83,
     "courses": [
       "MATE 210",
       "MATE 215",
@@ -46034,9 +46037,11 @@
       "Flexible Attendance Policy": 3,
       "Uploads Slides": 4,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Inflexible Grading Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
