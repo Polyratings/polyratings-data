@@ -2241,17 +2241,18 @@
     "department": "AGB",
     "firstName": "Maria",
     "lastName": "Gerveni",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "AGB"
+      "AGB 301",
+      "AGB 322"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "High In-Person Availability": 2,
+      "Class Handouts": 2,
+      "Supplemental Study Material": 2
     }
   },
   {
