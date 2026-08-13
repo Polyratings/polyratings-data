@@ -9871,10 +9871,10 @@
     "department": "PHIL",
     "firstName": "Damien",
     "lastName": "Barnes",
-    "numEvals": 32,
-    "overallRating": 3.85,
-    "materialClear": 3.85,
-    "studentDifficulties": 3.88,
+    "numEvals": 33,
+    "overallRating": 3.76,
+    "materialClear": 3.76,
+    "studentDifficulties": 3.79,
     "courses": [
       "PHIL 126",
       "PHIL 230"
@@ -20527,10 +20527,10 @@
     "department": "ECON",
     "firstName": "Steve",
     "lastName": "Hamilton",
-    "numEvals": 17,
-    "overallRating": 1.6,
-    "materialClear": 1.45,
-    "studentDifficulties": 1.86,
+    "numEvals": 18,
+    "overallRating": 1.73,
+    "materialClear": 1.59,
+    "studentDifficulties": 1.98,
     "courses": [
       "ECON 201",
       "ECON 311",
@@ -20543,7 +20543,9 @@
       "Does Not Use Canvas": 3,
       "Flexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 2,
+      "Flexible Deadline Policy": 1,
+      "Uploads Slides": 1
     }
   },
   {
