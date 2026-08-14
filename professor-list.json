@@ -2241,18 +2241,22 @@
     "department": "AGB",
     "firstName": "Maria",
     "lastName": "Gerveni",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "AGB 301",
-      "AGB 322"
+      "AGB 322",
+      "AGB 327"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Class Handouts": 2,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 2,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -18541,7 +18545,7 @@
     "department": "ENGL",
     "firstName": "Lauren",
     "lastName": "Henley",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -18551,16 +18555,16 @@
     ],
     "tags": {
       "Hybrid Option": 6,
-      "Fast Response Time": 8,
+      "Fast Response Time": 9,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
       "Inflexible Attendance Policy": 3,
       "Class Handouts": 4,
       "Uploads Slides": 3,
-      "Zoom Office Hours": 5,
+      "Zoom Office Hours": 6,
       "High In-Person Availability": 4,
       "Flexible Deadline Policy": 4,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 1
     }
   },
@@ -34155,10 +34159,10 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 21,
-    "overallRating": 3.44,
-    "materialClear": 3.87,
-    "studentDifficulties": 3.48,
+    "numEvals": 22,
+    "overallRating": 3.47,
+    "materialClear": 3.88,
+    "studentDifficulties": 3.5,
     "courses": [
       "BUS 346",
       "BUS 454"
@@ -34166,7 +34170,7 @@
     "tags": {
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 2,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Honor DRC Accommodations": 3,
       "Flexible Attendance Policy": 1,
       "No Breaks During Lecture": 1,
@@ -37348,10 +37352,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 52,
-    "overallRating": 3.12,
-    "materialClear": 3.28,
-    "studentDifficulties": 3.3,
+    "numEvals": 53,
+    "overallRating": 3.14,
+    "materialClear": 3.29,
+    "studentDifficulties": 3.31,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -37360,7 +37364,8 @@
       "ENGL 343",
       "ENGL 350",
       "ENGL 487",
-      "ENGL 380"
+      "ENGL 380",
+      "ISLA 320"
     ],
     "tags": {
       "Pop Quizzes": 1,
@@ -45910,22 +45915,22 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 3.87,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.73,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.74,
     "courses": [
       "STAT 252"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 14,
-      "Fast Response Time": 6,
+      "Uploads Slides": 15,
+      "Fast Response Time": 7,
       "Flexible Attendance Policy": 15,
       "Class Handouts": 1,
       "Supplemental Study Material": 9,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 4,
+      "High In-Person Availability": 5,
       "No Breaks During Lecture": 1,
       "Inflexible Grading Policy": 1
     }
@@ -47396,9 +47401,9 @@
     "department": "PHYS",
     "firstName": "Bishal",
     "lastName": "Parajuli",
-    "numEvals": 26,
+    "numEvals": 27,
     "overallRating": 3.94,
-    "materialClear": 3.8,
+    "materialClear": 3.81,
     "studentDifficulties": 4,
     "courses": [
       "PHYS 143",
