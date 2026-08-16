@@ -4781,10 +4781,10 @@
     "department": "EE",
     "firstName": "David",
     "lastName": "Braun",
-    "numEvals": 87,
-    "materialClear": 2.42,
-    "studentDifficulties": 1.79,
-    "overallRating": 2.09,
+    "numEvals": 88,
+    "overallRating": 2.07,
+    "materialClear": 2.39,
+    "studentDifficulties": 1.77,
     "courses": [
       "EE 208",
       "EE 248",
@@ -4796,7 +4796,8 @@
       "EE 413",
       "EE 422",
       "EE 460"
-    ]
+    ],
+    "tags": {}
   },
   {
     "id": "16247be2-b937-42c2-8857-b905c2ed0324",
@@ -15623,10 +15624,10 @@
     "department": "EE",
     "firstName": "Uma",
     "lastName": "Balaji",
-    "numEvals": 21,
-    "overallRating": 3.25,
-    "materialClear": 2.64,
-    "studentDifficulties": 3.71,
+    "numEvals": 22,
+    "overallRating": 3.15,
+    "materialClear": 2.57,
+    "studentDifficulties": 3.72,
     "courses": [
       "EE 335",
       "EE 241",
@@ -18610,10 +18611,10 @@
     "department": "ITP",
     "firstName": "Enar",
     "lastName": "Tunc",
-    "numEvals": 22,
-    "overallRating": 2.08,
-    "materialClear": 1.59,
-    "studentDifficulties": 2.41,
+    "numEvals": 23,
+    "overallRating": 2.03,
+    "materialClear": 1.52,
+    "studentDifficulties": 2.31,
     "courses": [
       "ITP 371",
       "ITP 125",
@@ -19632,7 +19633,7 @@
     "department": "STAT",
     "firstName": "Matt",
     "lastName": "Carlton",
-    "numEvals": 118,
+    "numEvals": 119,
     "overallRating": 3.68,
     "materialClear": 3.74,
     "studentDifficulties": 3.64,
@@ -19657,12 +19658,13 @@
       "STAT 302"
     ],
     "tags": {
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 2,
       "High In-Person Availability": 2,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Class Handouts": 2,
+      "Supplemental Study Material": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -23040,10 +23042,10 @@
     "department": "STAT",
     "firstName": "Emily",
     "lastName": "Robinson",
-    "numEvals": 20,
-    "overallRating": 3.11,
-    "materialClear": 2.95,
-    "studentDifficulties": 3,
+    "numEvals": 21,
+    "overallRating": 3.15,
+    "materialClear": 3,
+    "studentDifficulties": 3.05,
     "courses": [
       "STAT 331",
       "STAT 218",
@@ -23051,17 +23053,17 @@
       "STAT 323"
     ],
     "tags": {
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 4,
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 4,
       "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 1,
-      "Class Handouts": 5,
+      "Class Handouts": 6,
       "Uploads Slides": 4,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 2
+      "Recorded Lectures": 3
     }
   },
   {
