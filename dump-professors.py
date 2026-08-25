@@ -14,14 +14,14 @@ def get_professors(id_list):
     try:
         resp = requests.post(
                 POLYRATINGS_API_BASE + f'admin.getBulkValues', json={'bulkKey': "professors",'keys':id_list},
-                headers={'Authorization': f'Bearer {auth_token}'},
+                headers={'Authorization': f'Bearer {get_auth_token()}'},
                 timeout=8
         )
     # sometimes the request to Cloudflare hangs, so we put a timeout to re-fire the request
     except requests.exceptions.ReadTimeout as _:
         resp = requests.post(
                 POLYRATINGS_API_BASE + f'admin.getBulkValues',
-                json={'bulkKey': "professors",'keys':id_list}, headers={'Authorization': f'Bearer {auth_token}'},
+                json={'bulkKey': "professors",'keys':id_list}, headers={'Authorization': f'Bearer {get_auth_token()}'},
                 timeout=14
         )
 
@@ -31,22 +31,23 @@ def get_professors(id_list):
     return resp.json()['result']['data']
 
 
-if __name__ == '__main__':
+def get_auth_token():
     response = requests.post(
-            POLYRATINGS_API_BASE + 'auth.login',
-            json={
-                'username': os.environ['POLYRATINGS_USERNAME'],
-                'password': os.environ['POLYRATINGS_PASSWORD']
-                }
+        POLYRATINGS_API_BASE + 'auth.login',
+        json={
+            'username': os.environ['POLYRATINGS_USERNAME'],
+            'password': os.environ['POLYRATINGS_PASSWORD']
+        }
     )
     if response.status_code != 200:
         raise RuntimeError(f'Response from API was not 200: {response.status_code}')
 
-    auth_token = response.json()['result']['data']
+    return response.json()['result']['data']
 
+if __name__ == '__main__':
     response = requests.get(
             POLYRATINGS_API_BASE + 'admin.getBulkKeys?input=%22professors%22',
-            headers={'Authorization': f'Bearer {auth_token}'}
+            headers={'Authorization': f'Bearer {get_auth_token()}'},
     )
 
     if response.status_code != 200:
@@ -65,8 +66,8 @@ if __name__ == '__main__':
         pool.join()
 
     # flatten all of the responses and make sure that we don't include the truncated prof list
-    professors = [prof for sublist in professors for prof in sublist if not isinstance(prof, list)]
-    professors = sorted(professors, key=lambda p: p['id']) 
+    professors = [prof['value'] for sublist in professors for prof in sublist if not isinstance(prof, list)]
+    professors = sorted(professors, key=lambda p: p['id'])
 
     with open('professor-dump.json', 'w') as f:
         json.dump(professors, f, indent=2)
