@@ -4442,10 +4442,10 @@
     "department": "BUS",
     "firstName": "Drexler",
     "lastName": "Alcantara",
-    "numEvals": 9,
-    "overallRating": 3.78,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.89,
+    "numEvals": 10,
+    "overallRating": 3.8,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.9,
     "courses": [
       "BUS 100"
     ],
@@ -29686,10 +29686,10 @@
     "department": "BUS",
     "firstName": "Michael",
     "lastName": "Browne",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.5,
     "courses": [
       "BUS 401"
     ],
@@ -42046,14 +42046,18 @@
     "department": "UNIV",
     "firstName": "Fabian",
     "lastName": "Quintero",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "UNIV"
+      "UNIV 100"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    }
   },
   {
     "id": "d28e51ab-2559-423d-bebc-e6cca1465dcf",
