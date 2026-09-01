@@ -18966,10 +18966,10 @@
     "department": "ENGL",
     "firstName": "Ashley",
     "lastName": "Clemons",
-    "numEvals": 26,
-    "overallRating": 0.24,
-    "materialClear": 0.24,
-    "studentDifficulties": 0.42,
+    "numEvals": 27,
+    "overallRating": 0.23,
+    "materialClear": 0.23,
+    "studentDifficulties": 0.4,
     "courses": [
       "ENGL 347",
       "ENGL 345",
@@ -23161,17 +23161,17 @@
     "department": "ME",
     "firstName": "Marjan",
     "lastName": "Zare",
-    "numEvals": 15,
-    "overallRating": 2,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.2,
+    "numEvals": 14,
+    "overallRating": 2.07,
+    "materialClear": 2.23,
+    "studentDifficulties": 2.07,
     "courses": [
       "ME 303"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 4,
-      "Uploads Slides": 7,
-      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 3,
+      "Uploads Slides": 6,
+      "No Breaks During Lecture": 0,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1
     }
@@ -34028,10 +34028,10 @@
     "department": "BUS",
     "firstName": "David",
     "lastName": "Chamberlain",
-    "numEvals": 10,
-    "overallRating": 2,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.2,
+    "numEvals": 2,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
     "courses": [
       "BUS 320"
     ],
@@ -34040,10 +34040,9 @@
       "Pop Quizzes": 1,
       "Uploads Slides": 2,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 1,
-      "Recorded Lectures": 1,
-      "Supplemental Study Material": 1
-    }
+      "Flexible Grading Policy": 1
+    },
+    "locked": true
   },
   {
     "id": "a6dfbcc0-8467-46ec-af81-f4dabd3cbeaa",
@@ -41860,7 +41859,7 @@
     "department": "UNIV",
     "firstName": "Fabian",
     "lastName": "Quintero",
-    "numEvals": 2,
+    "numEvals": 1,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -41868,9 +41867,9 @@
       "UNIV 100"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "High In-Person Availability": 0,
+      "Flexible Attendance Policy": 0,
+      "Flexible Deadline Policy": 0
     }
   },
   {
