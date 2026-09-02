@@ -25749,12 +25749,13 @@
     "department": "RPTA",
     "firstName": "Jennifer",
     "lastName": "Prentice",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "AG"
+      "AG 420",
+      "EIM 370"
     ],
     "tags": {}
   },
@@ -32005,10 +32006,10 @@
     "department": "STAT",
     "firstName": "Immanuel",
     "lastName": "Williams",
-    "numEvals": 36,
-    "overallRating": 1.7,
-    "materialClear": 1.88,
-    "studentDifficulties": 2.31,
+    "numEvals": 41,
+    "overallRating": 1.98,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.52,
     "courses": [
       "STAT 252",
       "STAT 251",
