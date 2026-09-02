@@ -21024,15 +21024,17 @@
     "department": "EDES",
     "firstName": "Ellen",
     "lastName": "Burke",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 2.5,
     "courses": [
-      "EDES"
+      "EDES 123"
     ],
     "tags": {
-      "Recorded Lectures": 1
+      "Recorded Lectures": 2,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
