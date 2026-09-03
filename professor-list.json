@@ -9309,14 +9309,19 @@
     "department": "CSC",
     "firstName": "Nicholas",
     "lastName": "Sakellariou",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CPE 300",
       "CSC 300"
-    ]
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "2cfcffdc-a856-487b-9130-fc3698345685",
@@ -16796,10 +16801,10 @@
     "department": "AGED",
     "firstName": "Richard",
     "lastName": "Gearhart",
-    "numEvals": 30,
-    "overallRating": 3.49,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.23,
+    "numEvals": 31,
+    "overallRating": 3.44,
+    "materialClear": 3.39,
+    "studentDifficulties": 3.25,
     "courses": [
       "AGC 102",
       "JOUR 102",
@@ -16818,7 +16823,7 @@
       "Supplemental Study Material": 1,
       "Uploads Slides": 4,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1,
       "Inflexible Attendance Policy": 1
@@ -27632,24 +27637,25 @@
     "department": "BIO",
     "firstName": "Aubrey",
     "lastName": "Davis",
-    "numEvals": 23,
-    "overallRating": 2.1,
-    "materialClear": 1.84,
-    "studentDifficulties": 2.22,
+    "numEvals": 24,
+    "overallRating": 2.14,
+    "materialClear": 1.85,
+    "studentDifficulties": 2.21,
     "courses": [
       "BIO 161"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 5,
+      "Inflexible Deadline Policy": 6,
       "Supplemental Study Material": 5,
       "Inflexible Grading Policy": 4,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Inflexible Attendance Policy": 4,
       "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
       "No Breaks During Lecture": 7,
       "Class Handouts": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -28922,10 +28928,10 @@
     "department": "NR",
     "firstName": "Nicholas",
     "lastName": "Williams",
-    "numEvals": 7,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.85,
+    "studentDifficulties": 3.74,
     "courses": [
       "NR 142"
     ],
