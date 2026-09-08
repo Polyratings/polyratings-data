@@ -3434,10 +3434,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 25,
-    "overallRating": 1.71,
-    "materialClear": 2.04,
-    "studentDifficulties": 1.71,
+    "numEvals": 26,
+    "overallRating": 1.68,
+    "materialClear": 2,
+    "studentDifficulties": 1.68,
     "courses": [
       "CSC 378",
       "CSC 123",
@@ -3448,10 +3448,10 @@
       "Fast Response Time": 4,
       "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 2,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Flexible Deadline Policy": 4
     }
   },
@@ -14211,10 +14211,10 @@
     "department": "CSC",
     "firstName": "Assal",
     "lastName": "Hisham",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 2.96,
-    "materialClear": 2.47,
-    "studentDifficulties": 3.23,
+    "materialClear": 2.45,
+    "studentDifficulties": 3.18,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -20523,10 +20523,10 @@
     "department": "MATH",
     "firstName": "Michael",
     "lastName": "Miller",
-    "numEvals": 71,
-    "overallRating": 2.23,
-    "materialClear": 2.22,
-    "studentDifficulties": 2.54,
+    "numEvals": 72,
+    "overallRating": 2.21,
+    "materialClear": 2.2,
+    "studentDifficulties": 2.52,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -41365,12 +41365,12 @@
     "department": "ASCI",
     "firstName": "Karen",
     "lastName": "Vagnoni",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "materialClear": 2.5,
+    "studentDifficulties": 3,
     "courses": [
-      "ASCI"
+      "ASCI 440"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
