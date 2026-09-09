@@ -7243,14 +7243,18 @@
     "department": "ITP",
     "firstName": "Javier",
     "lastName": "de la Fuente",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
-      "ITP"
+      "ITP 330"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "22c2456d-8540-4574-ac27-499d65a4caef",
@@ -45551,7 +45555,7 @@
     "department": "PSY",
     "firstName": "Aaron",
     "lastName": "Estrada",
-    "numEvals": 35,
+    "numEvals": 34,
     "overallRating": 2.53,
     "materialClear": 2.68,
     "studentDifficulties": 2.51,
@@ -46381,10 +46385,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 30,
-    "overallRating": 2.13,
-    "materialClear": 2.18,
-    "studentDifficulties": 2.38,
+    "numEvals": 31,
+    "overallRating": 2.19,
+    "materialClear": 2.24,
+    "studentDifficulties": 2.43,
     "courses": [
       "CHEM 312",
       "CHEM 127",
