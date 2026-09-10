@@ -9893,10 +9893,10 @@
     "department": "BUS",
     "firstName": "Stephen",
     "lastName": "Stern",
-    "numEvals": 46,
-    "overallRating": 3.61,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.56,
+    "numEvals": 47,
+    "overallRating": 3.58,
+    "materialClear": 3.49,
+    "studentDifficulties": 3.53,
     "courses": [
       "BUS 207",
       "JOUR 302",
@@ -9905,7 +9905,9 @@
     "tags": {
       "Zoom Office Hours": 1,
       "Flexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -12729,10 +12731,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 89,
-    "overallRating": 2.02,
-    "materialClear": 2.35,
-    "studentDifficulties": 1.92,
+    "numEvals": 90,
+    "overallRating": 2,
+    "materialClear": 2.32,
+    "studentDifficulties": 1.9,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -12747,11 +12749,11 @@
       "PHYS 121"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 5,
+      "Inflexible Attendance Policy": 5,
+      "Inflexible Deadline Policy": 6,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
-      "No Breaks During Lecture": 4,
+      "No Breaks During Lecture": 5,
       "Zoom Office Hours": 3,
       "High In-Person Availability": 1,
       "Flexible Deadline Policy": 1,
@@ -46386,10 +46388,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 31,
-    "overallRating": 2.19,
-    "materialClear": 2.24,
-    "studentDifficulties": 2.43,
+    "numEvals": 32,
+    "overallRating": 2.25,
+    "materialClear": 2.3,
+    "studentDifficulties": 2.48,
     "courses": [
       "CHEM 312",
       "CHEM 127",
@@ -46398,8 +46400,8 @@
       "CHEM 224"
     ],
     "tags": {
-      "High In-Person Availability": 10,
-      "Fast Response Time": 8,
+      "High In-Person Availability": 11,
+      "Fast Response Time": 9,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 19,
