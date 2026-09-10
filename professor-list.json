@@ -6594,17 +6594,18 @@
     "department": "AGB",
     "firstName": "Daniel",
     "lastName": "Scheitrum",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.8,
     "courses": [
-      "AGB 312"
+      "AGB 312",
+      "AGB 412"
     ],
     "tags": {
       "Class Handouts": 1,
-      "Uploads Slides": 3,
-      "Fast Response Time": 1,
+      "Uploads Slides": 4,
+      "Fast Response Time": 2,
       "High In-Person Availability": 1
     }
   },
@@ -7339,10 +7340,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 202,
-    "overallRating": 1.96,
-    "materialClear": 2.05,
-    "studentDifficulties": 2.08,
+    "numEvals": 203,
+    "overallRating": 1.95,
+    "materialClear": 2.04,
+    "studentDifficulties": 2.07,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -14849,7 +14850,7 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 87,
+    "numEvals": 88,
     "overallRating": 3.81,
     "materialClear": 3.79,
     "studentDifficulties": 3.79,
@@ -14867,11 +14868,11 @@
       "MATH 482"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 2,
       "Supplemental Study Material": 3,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Class Handouts": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 1
