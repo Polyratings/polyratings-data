@@ -21503,17 +21503,19 @@
     "department": "CE",
     "firstName": "Genevieve",
     "lastName": "Farrar",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 3,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 1.5,
+    "studentDifficulties": 2.5,
     "courses": [
-      "CE"
+      "CE 204",
+      "ME 3317"
     ],
     "tags": {
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -47844,10 +47846,10 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 93,
-    "overallRating": 2.39,
-    "materialClear": 2.49,
-    "studentDifficulties": 2.38,
+    "numEvals": 94,
+    "overallRating": 2.38,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.39,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -47866,10 +47868,11 @@
       "Flexible Deadline Policy": 9,
       "Honor DRC Accommodations": 2,
       "Class Handouts": 5,
-      "Inflexible Grading Policy": 4,
+      "Inflexible Grading Policy": 5,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 2,
-      "Uploads Slides": 4
+      "Uploads Slides": 4,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
