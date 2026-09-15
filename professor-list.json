@@ -13177,16 +13177,17 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 33,
-    "overallRating": 1.76,
-    "materialClear": 1.6,
-    "studentDifficulties": 1.94,
+    "numEvals": 34,
+    "overallRating": 1.83,
+    "materialClear": 1.67,
+    "studentDifficulties": 2,
     "courses": [
       "CHEM 124",
       "CHEM 125",
       "CHEM 128",
       "CHEM 312",
-      "CHEM 203"
+      "CHEM 203",
+      "CHEM 126"
     ],
     "tags": {
       "Does Not Use Canvas": 5,
@@ -13195,7 +13196,9 @@
       "Inflexible Grading Policy": 2,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
     }
   },
   {
