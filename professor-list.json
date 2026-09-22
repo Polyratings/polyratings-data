@@ -1037,14 +1037,16 @@
     "department": "PSY",
     "firstName": "Lucy",
     "lastName": "Bencharit",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
-    "materialClear": 0,
+    "materialClear": 1,
     "studentDifficulties": 1,
     "courses": [
-      "PSY"
+      "PSY 350"
     ],
-    "tags": {}
+    "tags": {
+      "Class Handouts": 1
+    }
   },
   {
     "id": "05cc433b-cd90-4189-ad8a-99baadf5900f",
@@ -33949,7 +33951,7 @@
     "department": "HIST",
     "firstName": "Matthew",
     "lastName": "Hopper",
-    "numEvals": 70,
+    "numEvals": 71,
     "overallRating": 3.73,
     "materialClear": 3.75,
     "studentDifficulties": 3.72,
@@ -45190,10 +45192,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 0.24,
     "materialClear": 0.18,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.49,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -45202,14 +45204,14 @@
       "CHEM 1120"
     ],
     "tags": {
-      "No Breaks During Lecture": 20,
+      "No Breaks During Lecture": 21,
       "Inflexible Attendance Policy": 15,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
       "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 7,
-      "Inflexible Grading Policy": 6,
+      "Inflexible Deadline Policy": 8,
+      "Inflexible Grading Policy": 7,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
       "Class Handouts": 1
