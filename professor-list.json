@@ -4291,10 +4291,10 @@
     "department": "MU",
     "firstName": "Christopher",
     "lastName": "Woodruff",
-    "numEvals": 36,
-    "overallRating": 3.76,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.73,
+    "numEvals": 37,
+    "overallRating": 3.77,
+    "materialClear": 3.74,
+    "studentDifficulties": 3.74,
     "courses": [
       "MU 101",
       "MU 120",
@@ -4309,8 +4309,9 @@
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Class Handouts": 2,
+      "Supplemental Study Material": 2,
+      "Fast Response Time": 1
     }
   },
   {
@@ -4469,10 +4470,10 @@
     "department": "ME",
     "firstName": "James",
     "lastName": "Sever",
-    "numEvals": 8,
-    "overallRating": 3.38,
-    "materialClear": 2.88,
-    "studentDifficulties": 3.76,
+    "numEvals": 9,
+    "overallRating": 3.45,
+    "materialClear": 3,
+    "studentDifficulties": 3.79,
     "courses": [
       "ME 212",
       "AEPS 228",
@@ -4480,10 +4481,11 @@
     ],
     "tags": {
       "Uploads Slides": 5,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Supplemental Study Material": 1,
       "Recorded Lectures": 3,
-      "Fast Response Time": 1
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30445,10 +30447,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 45,
-    "overallRating": 2.32,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.8,
+    "numEvals": 46,
+    "overallRating": 2.36,
+    "materialClear": 2.6,
+    "studentDifficulties": 2.83,
     "courses": [
       "EE 251",
       "EE 307",
@@ -49901,10 +49903,10 @@
     "department": "ECON",
     "firstName": "Hilary",
     "lastName": "Soldati",
-    "numEvals": 12,
-    "overallRating": 1.68,
-    "materialClear": 2,
-    "studentDifficulties": 2.16,
+    "numEvals": 13,
+    "overallRating": 1.55,
+    "materialClear": 1.85,
+    "studentDifficulties": 1.99,
     "courses": [
       "ECON 435",
       "ECON 303",
