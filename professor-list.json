@@ -1938,14 +1938,15 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 32,
-    "overallRating": 2.31,
-    "materialClear": 2.2,
-    "studentDifficulties": 2.31,
+    "numEvals": 33,
+    "overallRating": 2.24,
+    "materialClear": 2.13,
+    "studentDifficulties": 2.24,
     "courses": [
       "BUS 438",
       "BUS 439",
-      "BUS 204"
+      "BUS 204",
+      "BUS 342"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -21348,10 +21349,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 156,
-    "overallRating": 1.53,
+    "numEvals": 157,
+    "overallRating": 1.52,
     "materialClear": 1.34,
-    "studentDifficulties": 1.52,
+    "studentDifficulties": 1.51,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -50723,12 +50724,13 @@
     "department": "BUS",
     "firstName": "Mary",
     "lastName": "Gibbs",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3.4,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 3391"
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
