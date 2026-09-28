@@ -7943,7 +7943,7 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 52,
+    "numEvals": 53,
     "overallRating": 3.8,
     "materialClear": 3.94,
     "studentDifficulties": 3.8,
@@ -7958,10 +7958,10 @@
       "POLS 470"
     ],
     "tags": {
-      "High In-Person Availability": 15,
-      "Flexible Deadline Policy": 3,
+      "High In-Person Availability": 16,
+      "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 14,
+      "Fast Response Time": 15,
       "Does Not Use Canvas": 4,
       "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 5,
@@ -41109,17 +41109,19 @@
     "department": "BRAE",
     "firstName": "Stuart",
     "lastName": "Styles",
-    "numEvals": 1,
-    "overallRating": 4,
-    "materialClear": 2,
-    "studentDifficulties": 4,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 2,
     "courses": [
-      "BRAE"
+      "BRAE 236"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -44544,15 +44546,18 @@
     "department": "ES",
     "firstName": "Marcus",
     "lastName": "Clayton",
-    "numEvals": 1,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2,
+    "numEvals": 2,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3,
     "courses": [
-      "POLS 300"
+      "POLS 300",
+      "ES 303"
     ],
     "tags": {
-      "Does Not Use Canvas": 0
+      "Does Not Use Canvas": 0,
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1
     }
   },
   {
