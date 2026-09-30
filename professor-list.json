@@ -1458,9 +1458,9 @@
     "department": "SOC",
     "firstName": "Dawn",
     "lastName": "Neill",
-    "numEvals": 60,
+    "numEvals": 61,
     "overallRating": 2.84,
-    "materialClear": 2.93,
+    "materialClear": 2.91,
     "studentDifficulties": 2.74,
     "courses": [
       "ANT 201",
@@ -1470,8 +1470,12 @@
       "ANT 344",
       "ANT 401",
       "SOC 401",
-      "SOC 402"
-    ]
+      "SOC 402",
+      "ISLA 3350"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "070f03e3-cb7f-428c-adad-0a78184ad6c4",
@@ -8249,9 +8253,9 @@
     "department": "COMS",
     "firstName": "Lisa",
     "lastName": "Kawamura",
-    "numEvals": 341,
+    "numEvals": 342,
     "overallRating": 1.7,
-    "materialClear": 2.07,
+    "materialClear": 2.06,
     "studentDifficulties": 1.7,
     "courses": [
       "CM 101",
@@ -13184,10 +13188,10 @@
     "department": "CHEM",
     "firstName": "Taylor",
     "lastName": "Haynes",
-    "numEvals": 34,
-    "overallRating": 1.83,
-    "materialClear": 1.67,
-    "studentDifficulties": 2,
+    "numEvals": 35,
+    "overallRating": 1.78,
+    "materialClear": 1.62,
+    "studentDifficulties": 1.94,
     "courses": [
       "CHEM 124",
       "CHEM 125",
@@ -23848,18 +23852,19 @@
     "department": "HLTH",
     "firstName": "Erika",
     "lastName": "Meza",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1.75,
+    "studentDifficulties": 2,
     "courses": [
-      "HLTH 318"
+      "HLTH 318",
+      "HLTH 2261"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -31370,15 +31375,16 @@
     "department": "CM",
     "firstName": "Bryan",
     "lastName": "Knakiewicz",
-    "numEvals": 10,
-    "overallRating": 3.2,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.2,
+    "numEvals": 11,
+    "overallRating": 2.91,
+    "materialClear": 3.09,
+    "studentDifficulties": 2.91,
     "courses": [
       "CM 115",
       "CM 280",
       "CM 458",
-      "CM 239"
+      "CM 239",
+      "CM 2239"
     ],
     "tags": {
       "Zoom Office Hours": 3,
@@ -31388,11 +31394,12 @@
       "Class Handouts": 2,
       "Recorded Lectures": 3,
       "Fast Response Time": 2,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Flexible Grading Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 2,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -42581,10 +42588,10 @@
     "department": "ME",
     "firstName": "Melinda",
     "lastName": "Keller",
-    "numEvals": 186,
-    "overallRating": 1.79,
-    "materialClear": 2.04,
-    "studentDifficulties": 1.73,
+    "numEvals": 187,
+    "overallRating": 1.78,
+    "materialClear": 2.03,
+    "studentDifficulties": 1.72,
     "courses": [
       "ME 347",
       "CE 204",
@@ -42604,7 +42611,7 @@
       "Fast Response Time": 7,
       "Class Handouts": 6,
       "Honor DRC Accommodations": 2,
-      "Inflexible Attendance Policy": 3,
+      "Inflexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 4,
       "Inflexible Grading Policy": 8,
       "Flexible Attendance Policy": 2,
