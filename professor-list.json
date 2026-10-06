@@ -1305,10 +1305,10 @@
     "department": "ITAL",
     "firstName": "Teresiana",
     "lastName": "Matarrese",
-    "numEvals": 9,
-    "overallRating": 3.66,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.66,
+    "numEvals": 10,
+    "overallRating": 3.69,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.69,
     "courses": [
       "ITAL 101",
       "WLC 310",
@@ -1323,8 +1323,9 @@
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Inflexible Grading Policy": 1,
-      "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1
+      "High In-Person Availability": 2,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -13029,10 +13030,10 @@
     "department": "ECON",
     "firstName": "Daniel",
     "lastName": "Seiver",
-    "numEvals": 91,
-    "overallRating": 2.21,
-    "materialClear": 2.26,
-    "studentDifficulties": 2.03,
+    "numEvals": 92,
+    "overallRating": 2.23,
+    "materialClear": 2.28,
+    "studentDifficulties": 2.05,
     "courses": [
       "ECON 122",
       "ECON 221",
@@ -18622,10 +18623,10 @@
     "department": "ITP",
     "firstName": "Enar",
     "lastName": "Tunc",
-    "numEvals": 23,
-    "overallRating": 2.03,
-    "materialClear": 1.52,
-    "studentDifficulties": 2.31,
+    "numEvals": 24,
+    "overallRating": 1.99,
+    "materialClear": 1.46,
+    "studentDifficulties": 2.21,
     "courses": [
       "ITP 371",
       "ITP 125",
@@ -21561,10 +21562,10 @@
     "department": "POLS",
     "firstName": "Jennifer",
     "lastName": "Denbow",
-    "numEvals": 9,
-    "overallRating": 3.23,
-    "materialClear": 3.45,
-    "studentDifficulties": 3.11,
+    "numEvals": 10,
+    "overallRating": 2.91,
+    "materialClear": 3.21,
+    "studentDifficulties": 2.8,
     "courses": [
       "POLS 230",
       "POLS 245",
@@ -21573,12 +21574,13 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -42150,9 +42152,9 @@
     "department": "BIO",
     "firstName": "Nishanta",
     "lastName": "Rajakaruna",
-    "numEvals": 4,
-    "overallRating": 1.75,
-    "materialClear": 1.5,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 1.2,
     "studentDifficulties": 2,
     "courses": [
       "BIO 448",
@@ -42163,10 +42165,11 @@
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 2,
       "Pop Quizzes": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -45220,10 +45223,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 57,
-    "overallRating": 0.24,
-    "materialClear": 0.18,
-    "studentDifficulties": 0.47,
+    "numEvals": 58,
+    "overallRating": 0.3,
+    "materialClear": 0.25,
+    "studentDifficulties": 0.53,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -47353,7 +47356,7 @@
     "department": "MATH",
     "firstName": "Bill",
     "lastName": "Hesselgrave",
-    "numEvals": 207,
+    "numEvals": 208,
     "overallRating": 3.39,
     "materialClear": 3.39,
     "studentDifficulties": 3.23,
@@ -47381,7 +47384,9 @@
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "High In-Person Availability": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
