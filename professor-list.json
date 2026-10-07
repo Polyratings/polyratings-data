@@ -14569,13 +14569,14 @@
     "department": "BIO",
     "firstName": "Lauren",
     "lastName": "Chan",
-    "numEvals": 8,
-    "overallRating": 4,
-    "materialClear": 4,
-    "studentDifficulties": 4,
+    "numEvals": 9,
+    "overallRating": 3.67,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "BIO 263",
-      "BIO 363"
+      "BIO 363",
+      "AEPS 1150"
     ],
     "tags": {
       "Uploads Slides": 3,
@@ -23252,16 +23253,16 @@
     "department": "ME",
     "firstName": "Marjan",
     "lastName": "Zare",
-    "numEvals": 14,
-    "overallRating": 2.07,
-    "materialClear": 2.23,
-    "studentDifficulties": 2.07,
+    "numEvals": 15,
+    "overallRating": 2.2,
+    "materialClear": 2.35,
+    "studentDifficulties": 2.2,
     "courses": [
       "ME 303"
     ],
     "tags": {
       "Inflexible Deadline Policy": 3,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "No Breaks During Lecture": 0,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1
@@ -42650,16 +42651,19 @@
     "department": "STAT",
     "firstName": "Stevenson",
     "lastName": "Bolivar",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "STAT 1210"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
