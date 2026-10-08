@@ -7389,10 +7389,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 203,
-    "overallRating": 1.95,
-    "materialClear": 2.04,
-    "studentDifficulties": 2.07,
+    "numEvals": 204,
+    "overallRating": 1.94,
+    "materialClear": 2.03,
+    "studentDifficulties": 2.06,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -7400,12 +7400,12 @@
     "tags": {
       "Flexible Attendance Policy": 5,
       "Pop Quizzes": 16,
-      "Inflexible Grading Policy": 23,
+      "Inflexible Grading Policy": 24,
       "Zoom Office Hours": 6,
       "Fast Response Time": 9,
       "Recorded Lectures": 4,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 12,
+      "Inflexible Deadline Policy": 13,
       "Hybrid Option": 6,
       "Does Not Use Canvas": 8,
       "Flexible Deadline Policy": 2
@@ -13805,10 +13805,10 @@
     "department": "PHYS",
     "firstName": "Afshin",
     "lastName": "Montakhab",
-    "numEvals": 71,
-    "overallRating": 2.49,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.6,
+    "numEvals": 72,
+    "overallRating": 2.51,
+    "materialClear": 2.39,
+    "studentDifficulties": 2.61,
     "courses": [
       "PHYS 141",
       "PHYS 142",
@@ -13819,10 +13819,10 @@
     "tags": {
       "Inflexible Deadline Policy": 5,
       "Fast Response Time": 8,
-      "Flexible Attendance Policy": 13,
+      "Flexible Attendance Policy": 14,
       "Inflexible Grading Policy": 3,
       "Uploads Slides": 23,
-      "Flexible Grading Policy": 8,
+      "Flexible Grading Policy": 9,
       "High In-Person Availability": 4,
       "No Breaks During Lecture": 5,
       "Supplemental Study Material": 5,
@@ -17884,14 +17884,19 @@
     "department": "CPE",
     "firstName": "Muhilan",
     "lastName": "Ramamoorthy",
-    "numEvals": 2,
+    "numEvals": 4,
     "overallRating": 0.5,
-    "materialClear": 0.5,
+    "materialClear": 0.25,
     "studentDifficulties": 1,
     "courses": [
       "CPE 2301"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "5751af10-419e-4e69-a377-af7f37eefbc6",
@@ -17961,10 +17966,10 @@
     "department": "ASCI",
     "firstName": "Mohammed",
     "lastName": "Abo-Ismail",
-    "numEvals": 20,
-    "overallRating": 1.9,
-    "materialClear": 1.8,
-    "studentDifficulties": 2.66,
+    "numEvals": 21,
+    "overallRating": 2,
+    "materialClear": 1.86,
+    "studentDifficulties": 2.72,
     "courses": [
       "ASCI 302",
       "ASCI 304",
@@ -17976,11 +17981,13 @@
       "Class Handouts": 1,
       "Fast Response Time": 4,
       "Uploads Slides": 12,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 2,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -25803,10 +25810,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 79,
-    "overallRating": 2.3,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.28,
+    "numEvals": 80,
+    "overallRating": 2.28,
+    "materialClear": 2.54,
+    "studentDifficulties": 2.25,
     "courses": [
       "TH 210",
       "TH 227",
@@ -25815,15 +25822,15 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
-      "Inflexible Attendance Policy": 16,
+      "Inflexible Attendance Policy": 17,
       "Class Handouts": 3,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 5,
       "Hybrid Option": 3,
       "Fast Response Time": 10,
       "High In-Person Availability": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 3,
       "Supplemental Study Material": 3,
       "Pop Quizzes": 1,
@@ -31856,19 +31863,22 @@
     "department": "PHYS",
     "firstName": "Isinsu",
     "lastName": "Toker",
-    "numEvals": 6,
-    "overallRating": 3.33,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.33,
+    "numEvals": 7,
+    "overallRating": 2.85,
+    "materialClear": 2.14,
+    "studentDifficulties": 3.14,
     "courses": [
       "PHYS 211",
-      "PHYS 143"
+      "PHYS 143",
+      "PHYS 2211"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -37007,10 +37017,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 9,
-    "overallRating": 2.55,
-    "materialClear": 2.44,
-    "studentDifficulties": 2.89,
+    "numEvals": 14,
+    "overallRating": 1.86,
+    "materialClear": 1.78,
+    "studentDifficulties": 1.99,
     "courses": [
       "BUS 319"
     ],
@@ -43740,10 +43750,10 @@
     "department": "ASCI",
     "firstName": "Ike",
     "lastName": "Kang",
-    "numEvals": 12,
-    "overallRating": 3.42,
-    "materialClear": 2.92,
-    "studentDifficulties": 3.75,
+    "numEvals": 13,
+    "overallRating": 3.46,
+    "materialClear": 3,
+    "studentDifficulties": 3.77,
     "courses": [
       "ASCI 211"
     ],
@@ -43752,11 +43762,11 @@
       "Uploads Slides": 9,
       "No Breaks During Lecture": 4,
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 2,
-      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 3,
+      "Flexible Attendance Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Fast Response Time": 1,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1
     }
   },
