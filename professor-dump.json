@@ -653289,10 +653289,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 17,
-    "overallRating": 1.53,
-    "materialClear": 1.47,
-    "studentDifficulties": 1.64,
+    "numEvals": 20,
+    "overallRating": 1.3,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.4,
     "courses": [
       "BUS 319"
     ],
@@ -653555,6 +653555,45 @@
           "id": "ccf69ce3-1c83-4590-8bd5-9721993b0186",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Sat Oct 10 2026 03:19:06 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "dont take this class until they figure alteryx shi out",
+          "anonymousIdentifier": "8e6a7c79a7cdf2d5",
+          "id": "9b27895b-2759-43cb-a01c-11025b443b5f",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Sat Oct 10 2026 20:28:45 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "SQL = Satanic, Battle Quizzes = Useless, Z-Change = AI Slop",
+          "anonymousIdentifier": "8e6a7c79a7cdf2d5",
+          "id": "5b0f1dfe-82b6-4d1e-b8e8-43989ff2904b",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Sat Oct 10 2026 20:30:02 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Midterm was MCQ and Sequel, then they give us some fill in the blanks I'm dropping ts if its not curved",
+          "anonymousIdentifier": "8e6a7c79a7cdf2d5",
+          "id": "1d46fac3-21c1-4093-9c32-725441256752",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Sat Oct 10 2026 20:30:55 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -661807,10 +661846,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 54,
-    "overallRating": 3.16,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.32,
+    "numEvals": 55,
+    "overallRating": 3.18,
+    "materialClear": 3.31,
+    "studentDifficulties": 3.33,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -661824,11 +661863,11 @@
     ],
     "tags": {
       "Pop Quizzes": 1,
-      "Recorded Lectures": 11,
+      "Recorded Lectures": 12,
       "Zoom Office Hours": 3,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Hybrid Option": 2,
-      "Honor DRC Accommodations": 3,
+      "Honor DRC Accommodations": 4,
       "Inflexible Deadline Policy": 1
     },
     "reviews": {
@@ -662291,6 +662330,24 @@
           "id": "8c5863a4-1c71-4889-9962-8a004e776338",
           "professor": "b823d69f-8e41-409e-91e0-e9c4a2098377",
           "postDate": "Wed Jul 29 2026 20:19:42 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "It was a pretty chill class.  I could find most of the books on Audible.  The lectures were audio.  The sound quality was good and easy to hear.  if you did the reading and listened to the lecture, you should do fine.  One more thing.  He's strict on AI. One of the few classes I know where someone failed out for using Chat.  My friend got a warning for turning in an AI paper and then later he failed.  If you're really hooked on Chat, this isn't the class for you.  But other than that, we read books I'd mostly heard of.  There was one that I'd never heard of.  But only one.  But the others were solid.  Slaughter House Five.  Edgar Allan Poe.  Things like that.  So I felt this was a decent GE class where we looked at major works mostly, rather than books that fit the prof's agenda.  So a decent class.  You can do most of the work in your car, by listening to it, if you drive home a lot.  So it can be a good way to maximize time in your car.",
+          "tags": [
+            "Recorded Lectures",
+            "Fast Response Time",
+            "Honor DRC Accommodations"
+          ],
+          "anonymousIdentifier": "b1b6113def352034",
+          "id": "748d496b-1299-47b2-b3ae-afd4fad89f62",
+          "professor": "b823d69f-8e41-409e-91e0-e9c4a2098377",
+          "postDate": "Sat Oct 10 2026 21:06:08 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ENGL 320": [
@@ -882837,7 +882894,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 78,
+    "numEvals": 79,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
@@ -882849,18 +882906,19 @@
       "MATH 222",
       "MATH 141",
       "MATH 241",
-      "MATH 182"
+      "MATH 182",
+      "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 26,
+      "Zoom Office Hours": 27,
       "Fast Response Time": 14,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 1,
       "Flexible Grading Policy": 3,
-      "Flexible Attendance Policy": 7,
+      "Flexible Attendance Policy": 8,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "High In-Person Availability": 2,
       "Does Not Use Canvas": 2,
       "Uploads Slides": 2
@@ -883988,6 +884046,26 @@
           "id": "d024fe1b-c98b-4126-9233-15ca99cab864",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "Mon Aug 19 2024 18:46:08 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1263": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Basically just what all of these reviews are saying, if you have to take Bridge Calc 2, this guy is great for it. The class moves pretty quickly because its meant to be just review and is only half a semester, but he knows when to slow down on harder concepts and is really good at breaking down the more confusing aspects. He is a really passionate guy, you can tell he cares about his students and wants us all to succeed. The only thing is that his test grading can be very subjective at times and its hard to argue for points back, but its still pretty easy to get an A and I ended with a 100% in the class.",
+          "tags": [
+            "Zoom Office Hours",
+            "Flexible Attendance Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "7b54ff52d6f1d0f8",
+          "id": "d2f9e5ce-0461-4f7b-a68c-8459e8c523f7",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "Sat Oct 10 2026 18:16:01 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
