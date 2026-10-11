@@ -234679,14 +234679,18 @@
     "department": "POLS",
     "firstName": "Sahane",
     "lastName": "Bedenlier",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 429"
     ],
-    "tags": {},
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
+    },
     "reviews": {
       "POLS 429": [
         {
@@ -234700,6 +234704,24 @@
           "id": "4bba6c1a-9656-4dad-968f-c6e00ef117f0",
           "professor": "41097ec9-7d83-4ff9-a063-a6e0811b4eb3",
           "postDate": "Thu May 21 2026 00:11:44 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great professor. Teaches real, unbiased information about the Middle East, Islam, and the Arab World. Could not recommend more. This class will teach you the complexities of the Middle East from an anti-imperialist perspective. Engaging, challenging, and fun. Best class I have taken at Cal Poly.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "ec4e40610497b110",
+          "id": "6ef5a89f-c903-48b5-b165-ee91b3288eaa",
+          "professor": "41097ec9-7d83-4ff9-a063-a6e0811b4eb3",
+          "postDate": "Sun Oct 11 2026 06:26:47 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }

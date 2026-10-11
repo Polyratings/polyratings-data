@@ -13481,14 +13481,18 @@
     "department": "POLS",
     "firstName": "Sahane",
     "lastName": "Bedenlier",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 429"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "41370614-5504-4e2c-9a75-0687f1ae04a5",
