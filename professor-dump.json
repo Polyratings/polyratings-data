@@ -342651,10 +342651,10 @@
     "department": "SOC",
     "firstName": "Unique",
     "lastName": "Shaw",
-    "numEvals": 22,
-    "overallRating": 3.64,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.76,
+    "numEvals": 23,
+    "overallRating": 3.53,
+    "materialClear": 3.35,
+    "studentDifficulties": 3.68,
     "courses": [
       "SOC 355",
       "SOC 406",
@@ -342669,7 +342669,7 @@
       "Hybrid Option": 4,
       "Fast Response Time": 6,
       "Flexible Attendance Policy": 4,
-      "Recorded Lectures": 5,
+      "Recorded Lectures": 6,
       "Flexible Deadline Policy": 3,
       "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 1
@@ -343041,6 +343041,22 @@
           "id": "1941735a-a004-4e34-965c-55adf1137249",
           "professor": "5c2c1396-f7d2-4ee6-8589-efb79e1189fa",
           "postDate": "Fri Jun 26 2026 04:31:57 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Quizzes/Midterms have some of the most confusingly worded questions, its quite a bit of work too, overall would not recommend, find another professor for the cultural studies gen ed.",
+          "tags": [
+            "Recorded Lectures"
+          ],
+          "anonymousIdentifier": "5105f6fd3b4b8dfa",
+          "id": "af6712da-6523-4e17-ab11-3663bf122057",
+          "professor": "5c2c1396-f7d2-4ee6-8589-efb79e1189fa",
+          "postDate": "Sun Oct 11 2026 19:40:49 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -791145,26 +791161,27 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 21,
-    "overallRating": 1.81,
-    "materialClear": 1.33,
-    "studentDifficulties": 2.05,
+    "numEvals": 22,
+    "overallRating": 1.91,
+    "materialClear": 1.32,
+    "studentDifficulties": 2,
     "courses": [
-      "WGS 201"
+      "WGS 201",
+      "WGQS 2268"
     ],
     "tags": {
       "Recorded Lectures": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 4,
       "Hybrid Option": 7,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 3,
-      "Zoom Office Hours": 2,
+      "Zoom Office Hours": 3,
       "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "High In-Person Availability": 1
     },
     "reviews": {
@@ -791504,6 +791521,26 @@
           "id": "10a0c81c-468c-4e7d-aa56-8ed175d091c6",
           "professor": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
           "postDate": "Wed Sep 02 2026 18:26:35 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "WGQS 2268": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "She is a character, and that's what made me enjoy her class. Her grading structure is very forgiving and this class is chill, all you have to do is show up and do 2 discussion posts a week with 2 mini presentations, 2 group presentations, and 1 final project. Very fruitful and would recommend.",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "c22b73ac2082c777",
+          "id": "3cf18ea5-4e59-438e-a331-e856664332d6",
+          "professor": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
+          "postDate": "Sun Oct 11 2026 19:48:50 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
