@@ -796784,10 +796784,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 60,
+    "numEvals": 63,
     "overallRating": 0.29,
     "materialClear": 0.25,
-    "studentDifficulties": 0.51,
+    "studentDifficulties": 0.48,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -797732,6 +797732,45 @@
           "id": "0445517f-b6ae-49fe-88e4-cee59eee911f",
           "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
           "postDate": "Fri Oct 09 2026 03:05:56 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Would not recommend this class if you actually want to learn chemistry. The lectures are difficult to follow, and I found myself having to teach myself most of the material outside of class. The assignments and deadlines can also be confusing. You might be able to get a decent grade, but that doesn't necessarily mean you'll understand the material. Take another professor if you have the option.",
+          "anonymousIdentifier": "417a6cbaeb84f97a",
+          "id": "eeb1a16c-8549-4fa3-9ba5-bd0f91f8fa71",
+          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
+          "postDate": "Mon Oct 12 2026 14:53:08 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "My biggest issue with this class was the teaching style. I often left lectures more confused than when I walked in. The explanations weren't always clear, and it was difficult to follow the steps in example problems. I ended up relying on outside resources to understand concepts that I expected to learn in class. The course itself isn't necessarily impossible, but the lectures made it much harder than it needed to be.",
+          "anonymousIdentifier": "417a6cbaeb84f97a",
+          "id": "cdae3aa2-ec71-4eff-9edf-f57532e10d8c",
+          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
+          "postDate": "Mon Oct 12 2026 14:53:49 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "The lack of organization made this class frustrating. It was difficult to keep track of assignments and know exactly what was expected. When you're balancing multiple college classes, having to constantly double-check deadlines and instructions becomes exhausting. I wish the course had a clearer schedule and more consistent communication. The chemistry is manageable, but the way the class is organized makes it unnecessarily stressful. I had planned to see my family on a weekend where we weren't supposed to have a quiz, but guess what? Surprise Quiz! That's about the daily experience you will have with this devilish spawn of Satan.",
+          "anonymousIdentifier": "417a6cbaeb84f97a",
+          "id": "414bfbe9-1b4e-463a-bd3a-7443542798eb",
+          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
+          "postDate": "Mon Oct 12 2026 14:55:37 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
