@@ -578,16 +578,17 @@
     "department": "ARCH",
     "firstName": "Angela",
     "lastName": "Bracco",
-    "numEvals": 24,
-    "overallRating": 3.1,
-    "materialClear": 2.59,
-    "studentDifficulties": 2.96,
+    "numEvals": 25,
+    "overallRating": 2.98,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.84,
     "courses": [
       "ARCH 131",
       "ARCH 132",
       "ARCH 133",
       "ARCH 251",
-      "ARCH 252"
+      "ARCH 252",
+      "ARCH 231"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -7389,10 +7390,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 204,
-    "overallRating": 1.94,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.06,
+    "numEvals": 205,
+    "overallRating": 1.93,
+    "materialClear": 2.02,
+    "studentDifficulties": 2.05,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -14789,10 +14790,10 @@
     "department": "PSY",
     "firstName": "Gary",
     "lastName": "Laver",
-    "numEvals": 54,
-    "overallRating": 2.77,
+    "numEvals": 55,
+    "overallRating": 2.72,
     "materialClear": 2.83,
-    "studentDifficulties": 2.66,
+    "studentDifficulties": 2.68,
     "courses": [
       "PSY 201",
       "PSY 202",
@@ -14808,8 +14809,9 @@
       "Uploads Slides": 1,
       "Flexible Attendance Policy": 4,
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 2,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -32485,10 +32487,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 37,
-    "overallRating": 3.12,
-    "materialClear": 3.03,
-    "studentDifficulties": 3.01,
+    "numEvals": 38,
+    "overallRating": 3.04,
+    "materialClear": 2.95,
+    "studentDifficulties": 2.93,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -32499,7 +32501,8 @@
       "MATH 329",
       "MATH 143",
       "MATH 248",
-      "MATH 206"
+      "MATH 206",
+      "MATH 330"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
@@ -48579,10 +48582,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 187,
-    "overallRating": 1.27,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.31,
+    "numEvals": 188,
+    "overallRating": 1.26,
+    "materialClear": 1.54,
+    "studentDifficulties": 1.3,
     "courses": [
       "ENGL 203",
       "ENGL 204",

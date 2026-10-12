@@ -8401,16 +8401,17 @@
     "department": "ARCH",
     "firstName": "Angela",
     "lastName": "Bracco",
-    "numEvals": 24,
-    "overallRating": 3.1,
-    "materialClear": 2.59,
-    "studentDifficulties": 2.96,
+    "numEvals": 25,
+    "overallRating": 2.98,
+    "materialClear": 2.53,
+    "studentDifficulties": 2.84,
     "courses": [
       "ARCH 131",
       "ARCH 132",
       "ARCH 133",
       "ARCH 251",
-      "ARCH 252"
+      "ARCH 252",
+      "ARCH 231"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -8738,6 +8739,21 @@
           "id": "87a4a4cb-a679-47e3-9ba2-640ae0c82c2d",
           "professor": "032e275d-c77c-4f39-9367-b705d84fc98b",
           "postDate": "2018-12-01T08:00:00.000Z"
+        }
+      ],
+      "ARCH 231": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Terrible professor!! Idk who she thinks she is!! Tell me why she zoomed in 10 times and noticed a line didn\u2019t match up on rhino and said nope do it again. Don\u2019t believe the people who say \u201coh she\u2019s my favorite\u201d they\u2019re lying!! Nothing will ever be good enough for this professor!! Not to mention she will always ask more than what was originally asked of.",
+          "anonymousIdentifier": "48abb3f672278cf6",
+          "id": "97a7dd9c-50af-4a32-9e04-7f2e4e09d87c",
+          "professor": "032e275d-c77c-4f39-9367-b705d84fc98b",
+          "postDate": "Mon Oct 12 2026 01:31:13 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -125614,10 +125630,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 204,
-    "overallRating": 1.94,
-    "materialClear": 2.03,
-    "studentDifficulties": 2.06,
+    "numEvals": 205,
+    "overallRating": 1.93,
+    "materialClear": 2.02,
+    "studentDifficulties": 2.05,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -126821,6 +126837,19 @@
           "id": "072d79cc-24d5-4c04-a175-e13c5642936b",
           "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
           "postDate": "Thu Oct 08 2026 17:59:23 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "She doesn't care about her job. Bad reflection on Cal Poly.",
+          "anonymousIdentifier": "dd5f8e32b8bc0cbb",
+          "id": "cd0d69ac-7a68-498e-bc6d-f3c4987649fb",
+          "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
+          "postDate": "Mon Oct 12 2026 05:36:56 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ENGL 145": [
@@ -260845,10 +260874,10 @@
     "department": "PSY",
     "firstName": "Gary",
     "lastName": "Laver",
-    "numEvals": 54,
-    "overallRating": 2.77,
+    "numEvals": 55,
+    "overallRating": 2.72,
     "materialClear": 2.83,
-    "studentDifficulties": 2.66,
+    "studentDifficulties": 2.68,
     "courses": [
       "PSY 201",
       "PSY 202",
@@ -260864,8 +260893,9 @@
       "Uploads Slides": 1,
       "Flexible Attendance Policy": 4,
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 2,
+      "Inflexible Deadline Policy": 1
     },
     "reviews": {
       "PSY 201": [
@@ -261126,6 +261156,24 @@
           "id": "fd8a7ee7-69d1-4e52-a115-bf6b309c6991",
           "professor": "46bb0366-5299-4e25-a8dd-338e3e75d8ce",
           "postDate": "Tue Apr 28 2026 02:59:26 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "pls don't take this. they made it so much harder this year. it was NO open notes and it was on scantron. btw we had to buy our own scatron paper also. plsplsplspls its so hard i seriously cried during the exam. OH AND THEY TAKE ATTENDENCE. THEY MADE IT SO SO SO HARD. i rlly cried. but they are nice. thats all.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "3b0e9e03a9d311a6",
+          "id": "a41028f5-f9a0-48e4-b5ec-7653c41324ad",
+          "professor": "46bb0366-5299-4e25-a8dd-338e3e75d8ce",
+          "postDate": "Mon Oct 12 2026 03:38:36 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "PSY 202": [
@@ -577958,10 +578006,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 37,
-    "overallRating": 3.12,
-    "materialClear": 3.03,
-    "studentDifficulties": 3.01,
+    "numEvals": 38,
+    "overallRating": 3.04,
+    "materialClear": 2.95,
+    "studentDifficulties": 2.93,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -577972,7 +578020,8 @@
       "MATH 329",
       "MATH 143",
       "MATH 248",
-      "MATH 206"
+      "MATH 206",
+      "MATH 330"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
@@ -578505,6 +578554,21 @@
           "id": "549d62f5-ec6d-4ee4-b918-8280a403e06c",
           "professor": "9d81c7f9-4fa2-42df-8648-c4f5b3cfb59d",
           "postDate": "Tue Jan 07 2025 01:45:21 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 330": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "At seven a.m., while students arrive awake-ish and dressed,\nChampney walks in pajama-coded, Starbucks in hand, messy bun at its best.\nWe\u2019re solving for x, but the real mystery each day:\nWhether she\u2019s teaching equations or just here for the caf\u00e9.\n\nShe starts with five minutes of teaching, if \u201cteaching\u201d is the word,\nTalking in circles so fast that not one thing can be heard\nA rushed little speech, then the lesson is officially done\nLike explaining math is a task she speed-runs just for fun.\n\n\n\u201cIs this okay?\u201d she asks, already clicking to the next slide,\nNot pausing long enough for the class to collectively cry inside.\nBecause no, Danielle, it is not okay, we\u2019re stranded at sea,\nWatching you explain equations in a language known only to thee.\n\nShe drops a packet of problems and says, \u201cDo your best,\u201d\nThen tells us, \u201cWork with your team,\u201d and retreats to her desk.\n\nThen after five whole minutes of lecture, she opens her screen,\nStarts doing other work while we stare at the problems unseen.\nA room full of students, confused and academically fried,\nWhile she\u2019s multitasking like our grades have already died.\n\nThree mornings a week, before the sun can shine,\nWe stumble into Math at seven, barely feeling fine.\nHere\u2019s to Math 7 A.M., where knowledge starts to flee,\nAnd the only thing we\u2019re solving is our misery.",
+          "anonymousIdentifier": "69927fe3956204f4",
+          "id": "d5375628-1022-4003-9a91-33f89a4d06fb",
+          "professor": "9d81c7f9-4fa2-42df-8648-c4f5b3cfb59d",
+          "postDate": "Mon Oct 12 2026 01:54:55 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -850878,10 +850942,10 @@
     "department": "ENGL",
     "firstName": "Debora",
     "lastName": "Schwartz",
-    "numEvals": 187,
-    "overallRating": 1.27,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.31,
+    "numEvals": 188,
+    "overallRating": 1.26,
+    "materialClear": 1.54,
+    "studentDifficulties": 1.3,
     "courses": [
       "ENGL 203",
       "ENGL 204",
@@ -852280,6 +852344,19 @@
           "id": "d891ea74-0b59-4e5d-ba83-4a19d489e030",
           "professor": "f25c98db-1c3b-4f46-a476-1908630c7c6a",
           "postDate": "Thu Jun 11 2026 20:20:15 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "so... Is she gone?",
+          "anonymousIdentifier": "dd5f8e32b8bc0cbb",
+          "id": "90c007bc-c43d-40c2-84dd-3027d48b1c0b",
+          "professor": "f25c98db-1c3b-4f46-a476-1908630c7c6a",
+          "postDate": "Mon Oct 12 2026 05:39:10 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ENGL 204": [
