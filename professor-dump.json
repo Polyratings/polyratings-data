@@ -41681,10 +41681,10 @@
     "department": "ECON",
     "firstName": "Carlos",
     "lastName": "Flores",
-    "numEvals": 17,
-    "overallRating": 3.13,
-    "materialClear": 2.64,
-    "studentDifficulties": 3.03,
+    "numEvals": 18,
+    "overallRating": 2.96,
+    "materialClear": 2.49,
+    "studentDifficulties": 2.86,
     "courses": [
       "ECON 311",
       "ECON 313",
@@ -41692,7 +41692,8 @@
       "ECON 518",
       "GSB 518",
       "ECON 440",
-      "ECON 526"
+      "ECON 526",
+      "ECON 460"
     ],
     "tags": {
       "Uploads Slides": 2,
@@ -41926,6 +41927,21 @@
           "id": "bfedcd92-b766-4690-ab73-d5241cb2f82b",
           "professor": "0c896ffd-7111-4a03-b59b-20d422e0ef22",
           "postDate": "Tue Jun 03 2025 23:27:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ECON 460": [
+        {
+          "grade": "C",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I took the Econ senior project spring 2026.\nFlores made this class super difficult, and expected 6-10 hours of work a week for a B level project. Meanwhile, my friend in Jon James was coasting all semester, put in a few hours, then got an A. I wish I took James :(. DO NOT TAKE",
+          "anonymousIdentifier": "17ce2293ab532456",
+          "id": "e30e1246-4dc2-4589-8bba-3a8c2d29114a",
+          "professor": "0c896ffd-7111-4a03-b59b-20d422e0ef22",
+          "postDate": "Tue Oct 13 2026 17:54:27 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -225248,9 +225264,9 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 304,
+    "numEvals": 305,
     "overallRating": 2.45,
-    "materialClear": 2.05,
+    "materialClear": 2.04,
     "studentDifficulties": 2.57,
     "courses": [
       "ECON 111",
@@ -225261,7 +225277,8 @@
       "ECON 252",
       "ECON 303",
       "ECON 304",
-      "BUS 523"
+      "BUS 523",
+      "ECON 3081"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -229076,6 +229093,21 @@
           "id": "c5eac15d-df65-4e47-9382-941500321bed",
           "professor": "3f623886-df5f-4a2e-a7d3-c8b1b618fe4e",
           "postDate": "2002-11-01T08:00:00.000Z"
+        }
+      ],
+      "ECON 3081": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 3,
+          "rating": "The classic curse of a class that is so easy it becomes hard. For lectures, she stands at the front of the class and uses her ADHD to decide which of 20 irrelevant political rants to flip between. Points are scattered between attendance, like 3 or 4 super light assignments, and a final. The content of the entire class could probably be condensed into a single hour-long lecture. \n\nTLDR: Very easy class if you want an A. Side effects may include increased crayon eating.",
+          "anonymousIdentifier": "43207eca2e9c9b98",
+          "id": "780aa1c4-bf90-4e95-88a4-365bf38a0e5d",
+          "professor": "3f623886-df5f-4a2e-a7d3-c8b1b618fe4e",
+          "postDate": "Tue Oct 13 2026 21:44:18 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -653506,10 +653538,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 35,
-    "overallRating": 0.8,
-    "materialClear": 0.83,
-    "studentDifficulties": 0.91,
+    "numEvals": 36,
+    "overallRating": 0.78,
+    "materialClear": 0.81,
+    "studentDifficulties": 0.88,
     "courses": [
       "BUS 319"
     ],
@@ -654026,6 +654058,19 @@
           "id": "0a5ff602-c85c-4301-9ab6-f3ea7b1d3d48",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Tue Oct 13 2026 05:03:54 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "GSON?? What does this mean??",
+          "anonymousIdentifier": "cc53ca528cf95377",
+          "id": "8e1e57be-9f26-4ff7-ac6e-abfa005a5e04",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 22:35:24 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
