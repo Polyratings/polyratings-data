@@ -393344,10 +393344,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 82,
-    "overallRating": 1.83,
-    "materialClear": 2.1,
-    "studentDifficulties": 1.84,
+    "numEvals": 83,
+    "overallRating": 1.82,
+    "materialClear": 2.09,
+    "studentDifficulties": 1.82,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -393807,6 +393807,19 @@
           "id": "f44b9ef9-29c4-47cb-83e9-153ea34c09b0",
           "professor": "6a01710e-f974-4913-b596-68e477453198",
           "postDate": "Mon Dec 01 2025 19:09:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "does not seem to care about his students",
+          "anonymousIdentifier": "e6c7b85bd2b0fb32",
+          "id": "9c6150a4-67b4-4da4-8443-9ee9fb12589a",
+          "professor": "6a01710e-f974-4913-b596-68e477453198",
+          "postDate": "Tue Oct 13 2026 02:58:11 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "MATH 143": [
@@ -445523,14 +445536,18 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 1,
-    "overallRating": 0,
+    "numEvals": 3,
+    "overallRating": 0.33,
     "materialClear": 2,
-    "studentDifficulties": 4,
+    "studentDifficulties": 2.67,
     "courses": [
-      "ENGL"
+      "ENGL 2242"
     ],
-    "tags": {},
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
+    },
     "reviews": {
       "ENGL 2242": [
         {
@@ -445544,6 +445561,38 @@
           "id": "b165ab9e-b8d3-4962-9621-7e187cf074c9",
           "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
           "postDate": "Mon Oct 05 2026 21:42:40 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 2,
+          "rating": "The only rating I've posted on Poly Ratings as well (like the other person who reviewed). For context, I'm a freshman taking this class, although it's meant for sophomores and above, an EE major, and taking many other classes this semester. I was super sick at the beginning of the semester, had proof of it, and she offered 0 flexibility. Overall, she seems to care about her students, but assigns WAY too much reading and homework. She is an extremely harsh grader and acts like this is the only class we are taking. Also, she doesn't have flexible attendance policies. I wouldn't recommend taking this class with her; I severely regret not dropping it when I could.",
+          "tags": [],
+          "anonymousIdentifier": "7b54ff52d6f1d0f8",
+          "id": "83f2f4c7-3068-4ea2-bd03-c0a0cc648f43",
+          "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
+          "postDate": "Tue Oct 13 2026 03:59:31 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "BEWARE!!! DO NOT TAKE THIS PROFESSOR! Suzie is the worst professor I have had to endure. This week (8) marks exactly halfway through the semester, but I just wanted to warn other students of her nature, as course registration nears. I will write a more in-depth review at the end of the semester. Originally when I chose this class, the teacher hadn't been assigned yet. I should have dropped out after meeting her in week 1, but thought I would be able to make it through this class. \n\nSuzie is extremely vague in her instructions, but grades students for unspecified criteria. This is one of the worst qualities to have as a teacher because you have no clue what she is looking for in assignments and essay, until it is too late and you receive a 7/10. This class tests your ability to understand a vague teacher, not your ability to understand the material. \n\nShe puts trick questions on the pop-quizzes, testing students recollection on a topic / word that was mentioned once in 50 pages of dense readings. Office hours are no help and are a waste of time.\n\nSuzie is an extremely stubborn teacher on top of that. She is set on her ways and won't put the effort in to listen to other students' perspectives or critique. \n\nHowever, I will say that the is extremely passionate about the subject. But, because of this, she rambles on and on during class, and especially during the async lectures. Expect online lecture of 1-2 hours weekly of straight nonsense that will not contribute anything to your understanding of the material. It's mostly just fluff and unnecessary. \n\nOn the topic of course load, expect 7-10 hours of work a week if you actually read the all the assigned stories, watch lectures on 2x speed, answer the discussions, do the interpretation exercise. With all this being said, this is the bare minimum if you want to receive a mediocre score (8/10). Often you will get 50%s.   Suzie randomly chooses assignments to grade, but tells you to spend multiple hours annotating 20+ page readings, only to not collect them. Feel like she likes to find ways to take points away (pop quizzes and harsh grading) but doesn't like assignments that will help students recover when they put in the work. \n\nWhen giving feedback on participation exercise's and annotations (annotations are graded extremely harsh) she will write indirect comments saying \"you should consider this and that\" despite it being the exact opposite of what the instructions outline. \n\nShe is also extremely inappropriate and a weirdo. Multiple times she mentions sex in class in a way that contributes nothing to our understanding of literature. I get that we are all adults, but why bring up this stuff when it is not helping educate students. \n\nThis are many other things I can list but I thing everyone gets the gist. DO NOT TAKE THIS CLASS.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Pop Quizzes",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "f69d76431dc3b725",
+          "id": "662a2f28-dfd1-49f1-8c58-7d3312abc8be",
+          "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
+          "postDate": "Tue Oct 13 2026 04:28:29 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -653457,10 +653506,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 27,
-    "overallRating": 1.03,
-    "materialClear": 1.08,
-    "studentDifficulties": 1.18,
+    "numEvals": 35,
+    "overallRating": 0.8,
+    "materialClear": 0.83,
+    "studentDifficulties": 0.91,
     "courses": [
       "BUS 319"
     ],
@@ -653468,13 +653517,14 @@
       "Supplemental Study Material": 3,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 2,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 1
     },
     "reviews": {
       "BUS 319": [
@@ -653867,6 +653917,115 @@
           "id": "a15a767f-258f-4bcb-85a8-dd5a9a03bece",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Mon Oct 12 2026 22:15:59 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "it is all AI slop there's no textbook it's insane that we have to pay for this class when i could do some online course. ever other review is also correct they took out so much material just to make the exams weigh more. 0/10 i can't believe cal poly is letting an ai class exist",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "b995245d8cf88655",
+          "id": "4ecd1a72-88ae-4293-9f11-0b4f8eda6bba",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 01:48:25 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Can we all plz just not show up to class and protest I can\u2019t keep doing ts",
+          "anonymousIdentifier": "e6b9ae72d5d17bd2",
+          "id": "cc3b8e05-7722-45f2-babf-d3e78525864f",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 02:15:46 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Hanging from a pull up bar upside down for an hour twenty is more useful",
+          "anonymousIdentifier": "e6b9ae72d5d17bd2",
+          "id": "b7a0ae11-d258-4c4d-b49d-e08d7cd803ae",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 02:16:31 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "We need more classes like this I want AI slop it\u2019s fun can we have more please?",
+          "anonymousIdentifier": "e6b9ae72d5d17bd2",
+          "id": "719129ed-8bae-47d5-8fd7-841d57f70f04",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 02:18:34 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "This is the most poorly taught class I have ever taken. In my 16 years of education, I have never been more confused. For somebody who is so focused on people not using AI in his class, you would think his entire course wouldn't be created using Claude. If you can avoid taking this class, do it.",
+          "anonymousIdentifier": "a56a847cf8f4f3e2",
+          "id": "965d50c8-a99e-4c2f-9620-ceff1850f52d",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 03:22:58 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Don\u2019t get me wrong. Chuancai is a nice guy but he is one of the most oblivious teachers I have ever had, not to mention his lecture style is erratic and nearly impossible to follow. At my four years at SLO i have never gotten a midterm/ final grade less than a B. I got a D on this first midterm and I did good on the SQL portion. For one he assured us that the MCQ portion was in fact just multiple choice questions. nope! There were atleast 10 short answers questions that he failed to mention. Even if I was able to understand and remember terms from his AI textbook, it wouldn\u2019t have mattered as he tested the most random and obscure information imaginable. I hope someone does something about this class cuz boy this is atrocious",
+          "anonymousIdentifier": "1b82e1db3e762b21",
+          "id": "94d253f3-0a52-493f-ada9-cee4a2b43b01",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 03:39:22 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Worst class in my 16 years of school by far, teacher is nice but this is actually insane",
+          "anonymousIdentifier": "97a896657fcfee04",
+          "id": "4e8b3afb-1e1b-44aa-b71b-cf036bfdf911",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 05:01:30 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Whoever rated ts 2/4 is either zhangs relative or himself, studied for a week straight and then I see 4 tables on SQL, the \"textbook\" is such a joke too",
+          "anonymousIdentifier": "97a896657fcfee04",
+          "id": "0a5ff602-c85c-4301-9ab6-f3ea7b1d3d48",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 05:03:54 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -686821,17 +686980,17 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 19,
-    "overallRating": 3.8,
-    "materialClear": 3.9,
-    "studentDifficulties": 3.91,
+    "numEvals": 20,
+    "overallRating": 3.61,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.76,
     "courses": [
       "ES 256",
       "ES 335",
       "ES 340"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Pop Quizzes": 7,
       "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 1,
@@ -686839,10 +686998,11 @@
       "High In-Person Availability": 3,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Does Not Use Canvas": 1
     },
     "reviews": {
       "ES 256": [
@@ -687120,6 +687280,24 @@
           "id": "1ee36510-e8eb-41ee-b278-9839adf389d9",
           "professor": "c0bb660c-556a-4936-8b04-05e13d29de54",
           "postDate": "Mon Jun 01 2026 22:47:38 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Terrible teacher who claims to believe in and teach acceptance and inclusivity, but is completely insensitive to what his students are going through, and even if a family member has passed, he still wouldn't let you make up any sort of midterm, assignment, quiz, nothing. Honestly, just a spit in the face coming from a teacher who preaches about accommodating individuals. Also, doesnt use canvas or respond to emails.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "1852fbb35f03411b",
+          "id": "4f85d054-e952-4a50-abbb-5fffa83d9a81",
+          "professor": "c0bb660c-556a-4936-8b04-05e13d29de54",
+          "postDate": "Tue Oct 13 2026 07:26:53 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ES 335": [

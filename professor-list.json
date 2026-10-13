@@ -22191,10 +22191,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 82,
-    "overallRating": 1.83,
-    "materialClear": 2.1,
-    "studentDifficulties": 1.84,
+    "numEvals": 83,
+    "overallRating": 1.82,
+    "materialClear": 2.09,
+    "studentDifficulties": 1.82,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -25188,14 +25188,18 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 1,
-    "overallRating": 0,
+    "numEvals": 3,
+    "overallRating": 0.33,
     "materialClear": 2,
-    "studentDifficulties": 4,
+    "studentDifficulties": 2.67,
     "courses": [
-      "ENGL"
+      "ENGL 2242"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Pop Quizzes": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "790ac45d-059c-43e0-871d-5232417a0218",
@@ -37027,10 +37031,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 27,
-    "overallRating": 1.03,
-    "materialClear": 1.08,
-    "studentDifficulties": 1.18,
+    "numEvals": 35,
+    "overallRating": 0.8,
+    "materialClear": 0.83,
+    "studentDifficulties": 0.91,
     "courses": [
       "BUS 319"
     ],
@@ -37038,13 +37042,14 @@
       "Supplemental Study Material": 3,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 2,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 1
     }
   },
   {
@@ -38973,17 +38978,17 @@
     "department": "ES",
     "firstName": "Ryan",
     "lastName": "Buyco",
-    "numEvals": 19,
-    "overallRating": 3.8,
-    "materialClear": 3.9,
-    "studentDifficulties": 3.91,
+    "numEvals": 20,
+    "overallRating": 3.61,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.76,
     "courses": [
       "ES 256",
       "ES 335",
       "ES 340"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Pop Quizzes": 7,
       "No Breaks During Lecture": 2,
       "Flexible Attendance Policy": 1,
@@ -38991,10 +38996,11 @@
       "High In-Person Availability": 3,
       "Supplemental Study Material": 1,
       "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Flexible Grading Policy": 1,
       "Zoom Office Hours": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
