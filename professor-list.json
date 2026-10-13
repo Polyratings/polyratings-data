@@ -21424,10 +21424,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 157,
-    "overallRating": 1.52,
-    "materialClear": 1.34,
-    "studentDifficulties": 1.51,
+    "numEvals": 158,
+    "overallRating": 1.51,
+    "materialClear": 1.33,
+    "studentDifficulties": 1.5,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -23442,16 +23442,16 @@
     "department": "HLTH",
     "firstName": "Daryl",
     "lastName": "Mangosing",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 2,
+    "studentDifficulties": 3,
     "courses": [
       "HLTH 3348",
       "HLTH 3305"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     }
   },
   {
@@ -24913,10 +24913,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 124,
-    "overallRating": 1.75,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.79,
+    "numEvals": 125,
+    "overallRating": 1.74,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.78,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -24927,21 +24927,22 @@
       "CPE 202",
       "CSC 202",
       "CPE 203",
-      "CSC 203"
+      "CSC 203",
+      "CPE 2001"
     ],
     "tags": {
       "Inflexible Attendance Policy": 14,
-      "Inflexible Grading Policy": 18,
+      "Inflexible Grading Policy": 19,
       "Fast Response Time": 3,
       "Class Handouts": 21,
-      "Inflexible Deadline Policy": 24,
+      "Inflexible Deadline Policy": 25,
       "Zoom Office Hours": 1,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 6,
       "High In-Person Availability": 5,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 5
+      "No Breaks During Lecture": 6
     }
   },
   {
@@ -28888,7 +28889,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 3.94,
     "materialClear": 4,
     "studentDifficulties": 3.94,
@@ -28900,7 +28901,7 @@
     "tags": {
       "High In-Person Availability": 7,
       "Fast Response Time": 9,
-      "Uploads Slides": 12,
+      "Uploads Slides": 13,
       "Flexible Grading Policy": 4,
       "Inflexible Attendance Policy": 2,
       "Flexible Attendance Policy": 1,
@@ -37026,10 +37027,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 20,
-    "overallRating": 1.3,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.4,
+    "numEvals": 27,
+    "overallRating": 1.03,
+    "materialClear": 1.08,
+    "studentDifficulties": 1.18,
     "courses": [
       "BUS 319"
     ],
@@ -37037,11 +37038,13 @@
       "Supplemental Study Material": 3,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 6,
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "No Breaks During Lecture": 2,
+      "Does Not Use Canvas": 1
     }
   },
   {

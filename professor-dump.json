@@ -379663,10 +379663,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 157,
-    "overallRating": 1.52,
-    "materialClear": 1.34,
-    "studentDifficulties": 1.51,
+    "numEvals": 158,
+    "overallRating": 1.51,
+    "materialClear": 1.33,
+    "studentDifficulties": 1.5,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -379836,6 +379836,19 @@
           "id": "7ae5a70b-f213-444f-8a7d-db1c6e3b0937",
           "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
           "postDate": "Tue Mar 10 2026 03:10:12 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Worst teacher I\u2019ve ever had. Dude has a pebble for a brain.",
+          "anonymousIdentifier": "3741236badf7446d",
+          "id": "f841cdc7-eefe-499a-a99e-cba5bec5072a",
+          "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
+          "postDate": "Mon Oct 12 2026 20:41:00 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ECON 221": [
@@ -410029,16 +410042,16 @@
     "department": "HLTH",
     "firstName": "Daryl",
     "lastName": "Mangosing",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 2,
+    "studentDifficulties": 3,
     "courses": [
       "HLTH 3348",
       "HLTH 3305"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 2
     },
     "reviews": {
       "HLTH 3348": [
@@ -410053,6 +410066,22 @@
           "id": "95028690-c996-446d-8cb6-1faa31850b07",
           "professor": "7159923e-11cb-49c7-aa5e-fdffe9cbd4ea",
           "postDate": "Fri Sep 25 2026 00:10:43 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 2,
+          "rating": "I was so excited for this course, but I have been really disappointed. It is genuinely so hard to stay awake in the lectures (slides seem to be AI generated) due to the monotonous tone of the class. Dr. Mangosing does not seem to know the answers to questions they are asked about course content, phrases iClicker questions very difficulty (and struggles to provide clarification when asked), and overall is not welcoming or friendly. I am sure they are extremely intelligent and I want to give them the benefit of the doubt because I think they are a new professor at Cal Poly and this is a new course, but I genuinely dread going to this class. It is so boring. Easily could be online but attendance is required due to iClicker questions. The workload is light (so far) which is nice, but I don't feel like I have gotten anything out of this class.",
+          "tags": [
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "2675a13344bdb965",
+          "id": "83d66436-7b7e-422c-b0ec-76a0338a828c",
+          "professor": "7159923e-11cb-49c7-aa5e-fdffe9cbd4ea",
+          "postDate": "Mon Oct 12 2026 18:18:28 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "HLTH 3305": [
@@ -439912,10 +439941,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 124,
-    "overallRating": 1.75,
-    "materialClear": 1.76,
-    "studentDifficulties": 1.79,
+    "numEvals": 125,
+    "overallRating": 1.74,
+    "materialClear": 1.75,
+    "studentDifficulties": 1.78,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -439926,21 +439955,22 @@
       "CPE 202",
       "CSC 202",
       "CPE 203",
-      "CSC 203"
+      "CSC 203",
+      "CPE 2001"
     ],
     "tags": {
       "Inflexible Attendance Policy": 14,
-      "Inflexible Grading Policy": 18,
+      "Inflexible Grading Policy": 19,
       "Fast Response Time": 3,
       "Class Handouts": 21,
-      "Inflexible Deadline Policy": 24,
+      "Inflexible Deadline Policy": 25,
       "Zoom Office Hours": 1,
       "Flexible Grading Policy": 2,
       "Uploads Slides": 6,
       "High In-Person Availability": 5,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
-      "No Breaks During Lecture": 5
+      "No Breaks During Lecture": 6
     },
     "reviews": {
       "CPE 101": [
@@ -441700,6 +441730,26 @@
           "id": "6a3bd1ed-c141-441f-95ca-45fe51f2af37",
           "professor": "777000c8-22f7-4113-b50d-3506b49e6d78",
           "postDate": "Tue Feb 24 2026 06:36:33 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CPE 2001": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I really, really wanted to like Einakian. I specifically said to myself that these reviews were probably just people wanting it easy, or that she had an accent and people just couldn't handle it, or people were being unnecessarily nitpicky. Nope. \n\nIt is truly shocking that she has retained a job here. Within the first few weeks, she made several glaring mistakes about basic CS concepts in a 2000s class, and would refuse to correct them, instead twisting any questions on the matter. Her lecture style isn't terrible, but even after knowing many people in the class are unfamiliar with Java, she asks questions on many expecting them to, completing negating something she herself said.\n\nHer grading is even worse. She grades \"discussions\" on topics in class, punishing literally any absence, and these \"discussions\" aren't discussions at all, but just a way for her to mandate attendance without mandating attendance. For a technically based class, she is extremely bullheaded toward any technical issues, even when reached out about hours in advance of deadlines. Her grading nitpicks about the \"design recipe\" even when blissfully unnecessary.\n\nMany assignments are also confusingly written or even contradict themselves. Many times she would write a lab or project and then release a supplement that directly contradicted the original assignment in multiple parts, and then act confused when people called it out. She even got extremely upset with a large portion of the class for submitting \"in the wrong place\", aka, the same place as the lab prior, without telling students not to do so, and to only submit through Canvas, which we *hadn't* done previously. \n\nOverall, she's not just \" oldschool\" or \"strict\", she's prideful, unwilling to admit mistakes or actually help students succeed, and just a bad teacher. If you can, do not take her class.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "5d9c912d753bae03",
+          "id": "8cc26197-71ab-4190-af54-4301824dd7a8",
+          "professor": "777000c8-22f7-4113-b50d-3506b49e6d78",
+          "postDate": "Mon Oct 12 2026 17:27:08 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -514888,7 +514938,7 @@
     "department": "PSY",
     "firstName": "Kara",
     "lastName": "Samaniego",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 3.94,
     "materialClear": 4,
     "studentDifficulties": 3.94,
@@ -514900,7 +514950,7 @@
     "tags": {
       "High In-Person Availability": 7,
       "Fast Response Time": 9,
-      "Uploads Slides": 12,
+      "Uploads Slides": 13,
       "Flexible Grading Policy": 4,
       "Inflexible Attendance Policy": 2,
       "Flexible Attendance Policy": 1,
@@ -515354,6 +515404,22 @@
           "id": "c1aba165-f837-498a-8002-b70368c29e3a",
           "professor": "8c8d72a7-61e4-48e8-a482-ea650de1d21f",
           "postDate": "Wed May 21 2025 20:26:02 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I absolutely love Dr. Samaniego and this class. She makes it very engaging and interesting, lots of group activities and class discussions. Not too much work and the assignments/readings all feel applicable. Only thing I didn't like is that assignments are due at 10pm.",
+          "tags": [
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "2675a13344bdb965",
+          "id": "c692c626-880b-433a-91ee-7e380b0aba44",
+          "professor": "8c8d72a7-61e4-48e8-a482-ea650de1d21f",
+          "postDate": "Mon Oct 12 2026 18:36:11 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "PSY 324": [
@@ -653391,10 +653457,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 20,
-    "overallRating": 1.3,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.4,
+    "numEvals": 27,
+    "overallRating": 1.03,
+    "materialClear": 1.08,
+    "studentDifficulties": 1.18,
     "courses": [
       "BUS 319"
     ],
@@ -653402,11 +653468,13 @@
       "Supplemental Study Material": 3,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 6,
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "No Breaks During Lecture": 2,
+      "Does Not Use Canvas": 1
     },
     "reviews": {
       "BUS 319": [
@@ -653696,6 +653764,109 @@
           "id": "1d46fac3-21c1-4093-9c32-725441256752",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Sat Oct 10 2026 20:30:55 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "If you love AI slop and a class that has no clear instruction or goal then this is the course for you. The midterm is straight buzzwords with terms that you've never heard and aren't related to the practice quizzes at all. And don't even get me started on the Z change AI BS; this man legit generated the whole course with ai and just reads word for word from the slides then turns into Kim Jong Un when monitoring you to make sure you don't cheat. I've learned more from staring blankly at a wall then attending this class so far. Z change is genuinely surveillance state bs straight out of 1984 with a side of SQL that makes no sense and like the rest of the course is not explained.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "43eea51666356873",
+          "id": "9460c46a-78db-42ef-971c-393b2f159e30",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 17:22:06 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 2,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "everyone rating this is just bad at studying. he's not a good teacher but a nice guy and uses ai slop and doesn't teach very well but I just studied hard and the test is not unreasonable. It is a lot of content to learn but he's not like mean and also I don't think he's going overboard with stopping cheating.",
+          "anonymousIdentifier": "0ce023b69e3d768b",
+          "id": "f1b2c7a2-3a16-4153-b7cf-13ae7d752595",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 18:03:07 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Bro doesn't even teach in class, expects you to learn from the AI generated textbook, and then gives you a quiz every class that's graded on accuracy and how fast you complete the quiz... Then he claims he's 'too busy' to fix the claude coded ahh class, as he continues to vibe code the website (ts literally changes every class). It's wraps for my grade, I'm hoping i can end with a D at this point",
+          "tags": [
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "daf19fa1065019ac",
+          "id": "52c7672b-8d43-4335-b221-a2c327801c33",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 21:32:48 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "the guy who rated him a 2/4 two ratings below might be Chuancai himself watch out",
+          "anonymousIdentifier": "daf19fa1065019ac",
+          "id": "666cca2b-a62a-4ee7-ac35-d786c3d2f32b",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 21:36:54 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "You wont understand whats going on every class and then get destroyed on the exams where the questions are 10x harder than the practice tests. You also have to learn how to code better than a CS major. Good luck.",
+          "anonymousIdentifier": "b7f8037d41d7ef8c",
+          "id": "9d16cdf6-10ea-4296-b9cf-b31f5494de1f",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 22:14:10 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "The fact that this class is required for accounting concentrations is a ridiculous mistake from the accounting department. I have had to teach myself the entire class from a textbook written from claude. I've never been more angry about coming to class and having to try and learn code, for which no class has prepared me for. I don't understand how this supports audit or tax. Good luck try and fade if poss.",
+          "tags": [
+            "Inflexible Grading Policy",
+            "Does Not Use Canvas",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "46ec79b83f5cb11f",
+          "id": "59bc12c3-9729-4dc3-8812-e2f4e34a2475",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 22:14:26 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Impossible to get a good grade in this class. Lectures are confusing, textbook is unintelligible AI slop, midterm is nothing like any in class work. His teaching makes no sense, the class is a mess and he doesn't know what he's doing.",
+          "anonymousIdentifier": "3bc662c8b1546e3f",
+          "id": "a15a767f-258f-4bcb-85a8-dd5a9a03bece",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Mon Oct 12 2026 22:15:59 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
