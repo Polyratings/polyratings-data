@@ -180206,9 +180206,9 @@
     "department": "ENGL",
     "firstName": "Colum",
     "lastName": "Yip",
-    "numEvals": 7,
-    "overallRating": 3.57,
-    "materialClear": 3.72,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 492",
@@ -180223,7 +180223,7 @@
       "Class Handouts": 2,
       "Pop Quizzes": 1,
       "Fast Response Time": 4,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 1,
       "Supplemental Study Material": 1
     },
@@ -180265,6 +180265,22 @@
           "id": "8a410d8b-bee8-4a9d-9de1-ff3b115d6717",
           "professor": "301ef50a-d3ae-495d-90e4-8990ab1461c6",
           "postDate": "Wed Jan 01 2025 07:22:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. Yip's class was the first linguistics class at Cal Poly I actually enjoyed. He is super friendly, knowledgeable, and a clear lecturer. He does lecture off of slides, but often engages the class by asking questions, sharing anecdotes, or providing additional information on the whiteboard. The workload is manageable and with some studying, the exams felt very doable. I thought I had no interest in linguistics, but I loved Dr. Yip and his class.",
+          "tags": [
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "7db82f110dbf1fcb",
+          "id": "fce46132-a40f-442b-995f-8541378f31fe",
+          "professor": "301ef50a-d3ae-495d-90e4-8990ab1461c6",
+          "postDate": "Wed Oct 14 2026 19:46:56 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ENGL 497": [
@@ -287483,10 +287499,10 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 6,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.88,
     "courses": [
       "BUS 394",
       "BUS 393",
@@ -287494,11 +287510,12 @@
       "BUS 498"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     },
     "reviews": {
       "BUS 394": [
@@ -287549,6 +287566,19 @@
           "id": "e167e7c6-014b-45f3-b7c6-21eb225f3f4d",
           "professor": "4e75a9b0-2c51-420b-95d7-f3c311699474",
           "postDate": "Fri Jun 05 2026 19:47:52 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Yongcheng is the goat. he can have my kids. greatest prof i've taken at Cal Poly. One of hardest classes i've taken and definitely hardest midterm/final, but extremely worth it. he is human ChatGPT.",
+          "anonymousIdentifier": "430cbf7e473a1e5f",
+          "id": "c432cab3-5209-42ee-ba70-923c2a12e091",
+          "professor": "4e75a9b0-2c51-420b-95d7-f3c311699474",
+          "postDate": "Wed Oct 14 2026 17:46:42 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "BUS 393": [
@@ -287564,6 +287594,24 @@
           "id": "feea1474-a21f-4113-ac93-c072ac38ca4b",
           "professor": "4e75a9b0-2c51-420b-95d7-f3c311699474",
           "postDate": "Wed Jun 05 2024 18:03:25 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Yongcheng can have my children. goat",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "430cbf7e473a1e5f",
+          "id": "20c94e80-f888-4f78-a026-b44f5474c229",
+          "professor": "4e75a9b0-2c51-420b-95d7-f3c311699474",
+          "postDate": "Wed Oct 14 2026 17:46:54 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "BUS 520": [
@@ -379695,10 +379743,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 158,
-    "overallRating": 1.51,
-    "materialClear": 1.33,
-    "studentDifficulties": 1.5,
+    "numEvals": 160,
+    "overallRating": 1.49,
+    "materialClear": 1.31,
+    "studentDifficulties": 1.48,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -379881,6 +379929,32 @@
           "id": "f841cdc7-eefe-499a-a99e-cba5bec5072a",
           "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
           "postDate": "Mon Oct 12 2026 20:41:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "trah teacher. dont take.",
+          "anonymousIdentifier": "f76c6e2cb481d016",
+          "id": "8727d022-f256-4655-a1ce-53f4793305f0",
+          "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
+          "postDate": "Wed Oct 14 2026 19:21:06 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "dude showed the grades of the class halfway through the semster. Of the 110 kids 60 had F's in the class. Yea if ur reading this and ur signed up for his class just know ur fucked kid.",
+          "anonymousIdentifier": "f76c6e2cb481d016",
+          "id": "2d1a9eaf-0b69-4907-bb45-86c1ee89a66f",
+          "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
+          "postDate": "Wed Oct 14 2026 19:22:27 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ECON 221": [
@@ -390711,12 +390785,13 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 1.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 0.5,
+    "materialClear": 1,
+    "studentDifficulties": 1.75,
     "courses": [
-      "BUS 214"
+      "BUS 214",
+      "BUS 3320"
     ],
     "tags": {},
     "reviews": {
@@ -390758,6 +390833,21 @@
           "id": "12ebfd22-1570-4935-8771-d35463fc5fd6",
           "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
           "postDate": "Sun Aug 23 2026 04:31:19 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3320": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "This dude is the actual worst. His lecture is meaningless and he doesn't post slides. The homework is based purely off the reading so you have to figure it out yourself basically. Ridiculous hyper specific test questions. DO NOT TAKE he should be fired immediately.",
+          "anonymousIdentifier": "40c4c4ab310dac4b",
+          "id": "5b30cdb5-63a5-4925-b87d-d79d0683a15a",
+          "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
+          "postDate": "Wed Oct 14 2026 17:27:27 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }

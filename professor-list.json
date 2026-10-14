@@ -10304,9 +10304,9 @@
     "department": "ENGL",
     "firstName": "Colum",
     "lastName": "Yip",
-    "numEvals": 7,
-    "overallRating": 3.57,
-    "materialClear": 3.72,
+    "numEvals": 8,
+    "overallRating": 3.62,
+    "materialClear": 3.76,
     "studentDifficulties": 4,
     "courses": [
       "ENGL 492",
@@ -10321,7 +10321,7 @@
       "Class Handouts": 2,
       "Pop Quizzes": 1,
       "Fast Response Time": 4,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 1,
       "Supplemental Study Material": 1
     }
@@ -16185,10 +16185,10 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 6,
+    "numEvals": 8,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3.88,
     "courses": [
       "BUS 394",
       "BUS 393",
@@ -16196,11 +16196,12 @@
       "BUS 498"
     ],
     "tags": {
-      "High In-Person Availability": 2,
-      "Fast Response Time": 1,
+      "High In-Person Availability": 3,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -21426,10 +21427,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 158,
-    "overallRating": 1.51,
-    "materialClear": 1.33,
-    "studentDifficulties": 1.5,
+    "numEvals": 160,
+    "overallRating": 1.49,
+    "materialClear": 1.31,
+    "studentDifficulties": 1.48,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -22022,12 +22023,13 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 1.33,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 0.5,
+    "materialClear": 1,
+    "studentDifficulties": 1.75,
     "courses": [
-      "BUS 214"
+      "BUS 214",
+      "BUS 3320"
     ],
     "tags": {}
   },
