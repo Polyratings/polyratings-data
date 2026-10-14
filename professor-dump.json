@@ -445568,10 +445568,10 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 3,
-    "overallRating": 0.33,
-    "materialClear": 2,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 0.25,
+    "materialClear": 1.75,
+    "studentDifficulties": 2,
     "courses": [
       "ENGL 2242"
     ],
@@ -445625,6 +445625,19 @@
           "id": "662a2f28-dfd1-49f1-8c58-7d3312abc8be",
           "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
           "postDate": "Tue Oct 13 2026 04:28:29 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "holy avoid fr, why is this class harder than my major classes by 4x the workload",
+          "anonymousIdentifier": "4928369f76a2ad0c",
+          "id": "09179d5d-7cf8-448f-864e-3db4fc0285a7",
+          "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
+          "postDate": "Tue Oct 13 2026 23:28:15 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -653538,10 +653551,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 36,
-    "overallRating": 0.78,
-    "materialClear": 0.81,
-    "studentDifficulties": 0.88,
+    "numEvals": 39,
+    "overallRating": 0.83,
+    "materialClear": 0.85,
+    "studentDifficulties": 0.92,
     "courses": [
       "BUS 319"
     ],
@@ -654071,6 +654084,45 @@
           "id": "8e1e57be-9f26-4ff7-ac6e-abfa005a5e04",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Tue Oct 13 2026 22:35:24 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Teacher is legit a Bot SOS",
+          "anonymousIdentifier": "08b99e3379137e4f",
+          "id": "539a9f10-b330-4f27-940c-8f5012dab54e",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Tue Oct 13 2026 22:39:03 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "In my four years at Cal Poly, never have I encountered a man as handsome and charismatic as Professor Zhang. His attention to detail when it comes to catching cheaters is unmatched; his use of AI to teach the coursework is unparalleled. In fact, he is the benchmark researchers at OpenAI and Anthropic can only dream of reaching. No man has come closer to reaching the pinnacle of humanity than Professor Zhang has.",
+          "anonymousIdentifier": "b0d2d5551146746e",
+          "id": "774567ad-52f2-4569-a124-5c0201b90526",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Wed Oct 14 2026 03:17:46 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "hes a nice guy which is the only positive thing about the class but the class sucks please armstrong save us",
+          "anonymousIdentifier": "3da4db6314d582a7",
+          "id": "de3f5082-ef8e-45ed-9d8c-6181cc014448",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Wed Oct 14 2026 04:24:26 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -670451,7 +670503,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 139,
+    "numEvals": 140,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -670470,7 +670522,8 @@
       "MATH 408",
       "MATH 412",
       "MATH 413",
-      "MATH 550"
+      "MATH 550",
+      "MATH 1263"
     ],
     "tags": {
       "High In-Person Availability": 8,
@@ -672239,6 +672292,21 @@
           "id": "83b78a65-d21a-4da3-be68-fde254b3fe66",
           "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
           "postDate": "2005-04-01T08:00:00.000Z"
+        }
+      ],
+      "MATH 1263": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Retsek is amazing, take him for Honors Bridge Calc II if you get the chance! He presents in a very clear, engaging, and exciting way, I was actually a little sad the class is only a half-semester course and not full semester lol. We have weekly take-home quizzes but you can work with others, and there was only one exam and a final for this course, it always felt easily manageable and not rushed. Highly recommend!!",
+          "anonymousIdentifier": "065a9d5f91f32ce5",
+          "id": "0b6e7a2e-4de0-4163-94ac-d32a7f1d6de6",
+          "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
+          "postDate": "Wed Oct 14 2026 02:37:51 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -797178,10 +797246,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 63,
+    "numEvals": 64,
     "overallRating": 0.29,
     "materialClear": 0.25,
-    "studentDifficulties": 0.48,
+    "studentDifficulties": 0.47,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -797191,13 +797259,13 @@
     ],
     "tags": {
       "No Breaks During Lecture": 23,
-      "Inflexible Attendance Policy": 15,
+      "Inflexible Attendance Policy": 16,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
       "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 9,
-      "Inflexible Grading Policy": 8,
+      "Inflexible Deadline Policy": 10,
+      "Inflexible Grading Policy": 9,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
       "Class Handouts": 1
@@ -798165,6 +798233,24 @@
           "id": "414bfbe9-1b4e-463a-bd3a-7443542798eb",
           "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
           "postDate": "Mon Oct 12 2026 14:55:37 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "In all honesty, I don't know how she hasn't been fired but maybe someone just needs to develop a way to get Cal Poly professors investigated because she's honestly awful at teaching and we all know Armstrong ain't checking that issue. It's just irritating showing up to class everyday knowing you'll come in more confused than the last. Self-teaching is more than likely in this class, and honestly it makes me miserable seeing everyone struggle here besides a given two people who ask questions apparently too complicated for a CHEMISTRY professor. Moreso, I just don't like her. Trust me, I am a teacher's pet at heart, but there isn't a thing I like about professor Huang. She's genuinely so dislikeable when you don't understand a thing she's trying to teach her and it's genuinely annoying wasting 2 hours of your life as she writes in the worst writing imaginable on the board. Furthermore, I just believe she shouldn't be a chemistry professor here. She lacks the flexibility, organization, distinction, teaching style (OF ANY), respect for her students, knowledge of the work, and overall basis of being a professor. The only credit she has is her teaching credentials, frankly. And honestly, this isn't even in a rude manner, God knows how many teachers require a horrid mic to teach that doesn't do anyone justice. Plus, I truly believed for a minute that I would learn something but genuinely no. She's terrible, her attitude is even worse than her teaching, and what I find the worst is that she has no respect for her students. She consistently changes deadlines to early 5am and 6am deadlines out of nowhere, locks assignments at random, and clearly doesn't ask if students are confused or acknowledges the horrible grades every midterm in class has received. If I could tell you anything of Huang, it's that she truly shouldn't be a professor and I wish someone would just tell her because clearly the scores in her class aren't telling to her whatsoever. - From a student who adored high school chemistry",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "76e86ebf39836b78",
+          "id": "8597079c-67e2-43b7-91a4-364b3a9b32ee",
+          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
+          "postDate": "Tue Oct 13 2026 23:40:43 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -803846,7 +803932,7 @@
     "department": "BUS",
     "firstName": "Gianni",
     "lastName": "Rasgado",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -803870,6 +803956,19 @@
           "id": "092021f3-bcdd-4f05-8db0-abfe36bd0d71",
           "professor": "e33ebad7-c57d-40eb-9242-c9ceee9b8470",
           "postDate": "Mon May 04 2026 23:23:25 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Best teacher at poly",
+          "anonymousIdentifier": "59be4e35267a852b",
+          "id": "4a1d41d6-4fdd-4a25-8e44-d35a57ac78fa",
+          "professor": "e33ebad7-c57d-40eb-9242-c9ceee9b8470",
+          "postDate": "Tue Oct 13 2026 23:49:01 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ITP 371": [
@@ -811269,10 +811368,10 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 35,
+    "numEvals": 32,
     "overallRating": 3.87,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.77,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.74,
     "courses": [
       "STAT 252"
     ],
@@ -811805,45 +811904,6 @@
           "id": "7d6e7c39-6d57-40f0-aea9-fc7957f17e62",
           "professor": "e6435044-40d7-45cd-8dbb-eac8eb9c6b75",
           "postDate": "Thu Aug 13 2026 23:03:27 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "testetestetesteteste",
-          "anonymousIdentifier": "cf0ba89b9101631b",
-          "id": "6c35fe37-07b3-4a18-8393-5616c86f9150",
-          "professor": "e6435044-40d7-45cd-8dbb-eac8eb9c6b75",
-          "postDate": "Sat Sep 05 2026 21:35:34 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "testetestetestetesteteste",
-          "anonymousIdentifier": "cf0ba89b9101631b",
-          "id": "643cb139-a333-4b81-8a9b-2c240d587daf",
-          "professor": "e6435044-40d7-45cd-8dbb-eac8eb9c6b75",
-          "postDate": "Sat Sep 05 2026 21:35:43 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "testetestetestetestetestetestetestetestetestetesteteste",
-          "anonymousIdentifier": "cf0ba89b9101631b",
-          "id": "d38fd159-d8bc-4bee-842d-5e66a1e75eaf",
-          "professor": "e6435044-40d7-45cd-8dbb-eac8eb9c6b75",
-          "postDate": "Sat Sep 05 2026 21:36:24 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }

@@ -25190,10 +25190,10 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 3,
-    "overallRating": 0.33,
-    "materialClear": 2,
-    "studentDifficulties": 2.67,
+    "numEvals": 4,
+    "overallRating": 0.25,
+    "materialClear": 1.75,
+    "studentDifficulties": 2,
     "courses": [
       "ENGL 2242"
     ],
@@ -37033,10 +37033,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 36,
-    "overallRating": 0.78,
-    "materialClear": 0.81,
-    "studentDifficulties": 0.88,
+    "numEvals": 39,
+    "overallRating": 0.83,
+    "materialClear": 0.85,
+    "studentDifficulties": 0.92,
     "courses": [
       "BUS 319"
     ],
@@ -38172,7 +38172,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 139,
+    "numEvals": 140,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -38191,7 +38191,8 @@
       "MATH 408",
       "MATH 412",
       "MATH 413",
-      "MATH 550"
+      "MATH 550",
+      "MATH 1263"
     ],
     "tags": {
       "High In-Person Availability": 8,
@@ -45508,10 +45509,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 63,
+    "numEvals": 64,
     "overallRating": 0.29,
     "materialClear": 0.25,
-    "studentDifficulties": 0.48,
+    "studentDifficulties": 0.47,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -45521,13 +45522,13 @@
     ],
     "tags": {
       "No Breaks During Lecture": 23,
-      "Inflexible Attendance Policy": 15,
+      "Inflexible Attendance Policy": 16,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
       "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 9,
-      "Inflexible Grading Policy": 8,
+      "Inflexible Deadline Policy": 10,
+      "Inflexible Grading Policy": 9,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
       "Class Handouts": 1
@@ -45782,7 +45783,7 @@
     "department": "BUS",
     "firstName": "Gianni",
     "lastName": "Rasgado",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -46224,10 +46225,10 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 35,
+    "numEvals": 32,
     "overallRating": 3.87,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.77,
+    "materialClear": 3.78,
+    "studentDifficulties": 3.74,
     "courses": [
       "STAT 252"
     ],
