@@ -653564,10 +653564,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 40,
-    "overallRating": 0.81,
-    "materialClear": 0.83,
-    "studentDifficulties": 0.9,
+    "numEvals": 41,
+    "overallRating": 0.79,
+    "materialClear": 0.81,
+    "studentDifficulties": 0.88,
     "courses": [
       "BUS 319"
     ],
@@ -654149,6 +654149,19 @@
           "id": "81a9de05-946b-4c8d-9141-98effa3b8626",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Wed Oct 14 2026 08:02:49 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "SOS this man and Professor Sui are terminators here to take over the world with Z-change ai slop.",
+          "anonymousIdentifier": "43eea51666356873",
+          "id": "3f464554-66a8-4e1f-935a-a4403b1bd00f",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Wed Oct 14 2026 16:01:15 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
