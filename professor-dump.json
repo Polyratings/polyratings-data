@@ -445568,10 +445568,10 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 4,
-    "overallRating": 0.25,
-    "materialClear": 1.75,
-    "studentDifficulties": 2,
+    "numEvals": 5,
+    "overallRating": 0.2,
+    "materialClear": 1.4,
+    "studentDifficulties": 1.6,
     "courses": [
       "ENGL 2242"
     ],
@@ -445638,6 +445638,19 @@
           "id": "09179d5d-7cf8-448f-864e-3db4fc0285a7",
           "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
           "postDate": "Tue Oct 13 2026 23:28:15 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Very bad class. Teacher is very misleading and hard to understand. Very poor communicator.",
+          "anonymousIdentifier": "f69d76431dc3b725",
+          "id": "c92b2dfc-7990-4a49-889c-a121079a2e04",
+          "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
+          "postDate": "Wed Oct 14 2026 05:07:17 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -653551,10 +653564,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 39,
-    "overallRating": 0.83,
-    "materialClear": 0.85,
-    "studentDifficulties": 0.92,
+    "numEvals": 40,
+    "overallRating": 0.81,
+    "materialClear": 0.83,
+    "studentDifficulties": 0.9,
     "courses": [
       "BUS 319"
     ],
@@ -654123,6 +654136,19 @@
           "id": "de3f5082-ef8e-45ed-9d8c-6181cc014448",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Wed Oct 14 2026 04:24:26 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "if you sign up for this class before they get alterx license back you are signing up to be oiled",
+          "anonymousIdentifier": "868e9a4af20dbb40",
+          "id": "81a9de05-946b-4c8d-9141-98effa3b8626",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Wed Oct 14 2026 08:02:49 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
