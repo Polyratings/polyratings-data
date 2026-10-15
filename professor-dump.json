@@ -10843,10 +10843,10 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "O'Leary",
-    "numEvals": 19,
-    "overallRating": 3.16,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.31,
+    "numEvals": 20,
+    "overallRating": 3,
+    "materialClear": 3.05,
+    "studentDifficulties": 3.14,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -10922,6 +10922,19 @@
           "id": "120af262-f023-4263-ac3b-2486722bae0f",
           "professor": "03a195d6-44a4-4e94-bee6-976383c3b825",
           "postDate": "Thu Mar 13 2025 00:39:15 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Gave me a 0 on the final for no reason and ignored my 6 emails i spam sent with no reason, failed me for no valid reason and is ugly",
+          "anonymousIdentifier": "4af181cbd0762ae0",
+          "id": "73ddcb1d-bdbb-4cee-a42c-b4e3e78758bf",
+          "professor": "03a195d6-44a4-4e94-bee6-976383c3b825",
+          "postDate": "Thu Oct 15 2026 05:12:59 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "MATH 221": [
@@ -169423,10 +169436,10 @@
     "department": "MATH",
     "firstName": "Kelly",
     "lastName": "Lyle",
-    "numEvals": 6,
-    "overallRating": 0.17,
-    "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "numEvals": 7,
+    "overallRating": 0.72,
+    "materialClear": 0.57,
+    "studentDifficulties": 1,
     "courses": [
       "MATH 118"
     ],
@@ -169522,6 +169535,19 @@
           "id": "4101b158-0f7f-4a5e-8c44-7babb423d61d",
           "professor": "2e4c1a87-e55e-4352-90ce-c777ad720c27",
           "postDate": "Tue Jun 17 2025 23:57:53 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "hi im the professor im a great teacher please take me",
+          "anonymousIdentifier": "4af181cbd0762ae0",
+          "id": "96082362-2dd4-4ec8-a8ff-efc146a0a466",
+          "professor": "2e4c1a87-e55e-4352-90ce-c777ad720c27",
+          "postDate": "Thu Oct 15 2026 05:15:17 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -599561,10 +599587,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 106,
-    "overallRating": 1.19,
-    "materialClear": 1.16,
-    "studentDifficulties": 1.41,
+    "numEvals": 125,
+    "overallRating": 1.04,
+    "materialClear": 1.02,
+    "studentDifficulties": 1.26,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -600039,6 +600065,188 @@
           "id": "12eeb3e6-c478-4326-9309-d8c6ef4eb1a7",
           "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
           "postDate": "Mon Aug 24 2026 17:43:36 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "terrible professor never take her",
+          "anonymousIdentifier": "4af181cbd0762ae0",
+          "id": "4d22f0e9-8142-47de-8247-41933c4b3295",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:08:11 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "DO NOT TAKE THIS CLASS WITH ZOE NESPA YOU WILL FAIL. XDDDDDDEDDDDDD WOPRST PROFESSOR IN THE UNIVERSE",
+          "anonymousIdentifier": "4af181cbd0762ae0",
+          "id": "b5a18a2c-790a-4230-9edc-2a0e919ab6dd",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:08:48 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "shes such a great beatufiul professor SIKE YOu thought WORSRT PROFESSOR DORP{ HER IF YO GET IM GIVIGN HER A FAKE 4 SO SHE THINKS SEHS GOOD LUL SHES NOT",
+          "anonymousIdentifier": "4af181cbd0762ae0",
+          "id": "6fae313e-30c2-4295-ab1e-959a290ccd54",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:10:17 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "DO NOT TAKE THIS PROFESSOR. THIS PROFESSOR IS AWFUL. YOU WILL REGRET IT.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "a804a0a0-bd76-4272-8103-3e5777761321",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:16:56 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "You're an awful professor. Lectures make no sense, the exams have nothing to do with the homework, and you act like we're the problem when the whole class fails. Do better.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "3f1361c3-d859-4dba-9545-b7638481f3fb",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:17:36 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "worst professor i have had at cal poly. i went to office hours three times and left more confused every time. avoid if you can",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "01d0f70b-82b9-48e0-bcce-e4bea52113ee",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:18:25 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "D",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Grading is completely unfair. Average on the midterm was a 41 and nothing got curved. She says she cares about students but it really doesn't show. Zero stars if I could.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "87b63fe4-8f0a-45da-b574-c74db5f0c5cb",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:19:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "F",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "THIS PROFESSOR IS AWFUL. THIS PROFESSOR IS AWFUL. I FAILED BECAUSE SHE CANT TEACH. DO NOT SIGN UP",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "d8db8e47-3659-45aa-96a3-49e6f796e005",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:20:37 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "5th/6th Year",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Been here 5 years and this is the one class I regret. Slides are just copied from the textbook, she reads them word for word, and quizzes are on stuff we never covered. Would not recommend to anyone.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "fa41db84-3f73-4780-9eca-8c4c315535ea",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:21:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "got a B but only because i taught myself off youtube. she is not a good teacher at all. 0/10",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "71249003-bf45-4305-a42f-8b80cf64841e",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:22:37 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Please read the other reviews before you enroll. Late homework gets a zero, emails go unanswered for a week, and the final was impossible. This professor is awful and the department should look into it.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "5dd91b24-e616-435f-ad5f-7091b7390f7b",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:24:03 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "W",
+          "gradeLevel": "Grad Student",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I withdrew halfway through the quarter. Do yourself a favor and take it with someone else. DO NOT TAKE ZOE NEPSA!!!",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "bb97f629-fc34-4dfe-900d-6f0c4dc4e93c",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:25:06 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "NC",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Zero stars. She is rude in class, dismisses questions, and tests us on material she never taught. Awful experience from start to finish.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "2bbb523b-3fd7-4443-a787-67bce4a70aff",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:26:02 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "W",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "took her last quarter and she can't teach and doesn't seem to care that we are lost save yourself the stress.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "2c05dcc1-4795-42f6-96ad-9c72eda1c1bc",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:27:57 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "MATH 141": [
@@ -600504,6 +600712,45 @@
           "id": "8ce7740d-976a-41bd-b77f-497034f36b81",
           "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
           "postDate": "Wed Jun 17 2026 03:23:12 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "might be the worst proff of all time, dont take the class if you love your life",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "478d7ace-f48b-47b3-98b5-b3a332190cb7",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:08:45 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Honestly cannot recommend her. She cannot teach this material and I learned more from the textbook than any lecture.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "77d056af-b7b7-4a97-b110-a4050d369dfc",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:27:21 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "PSA: she is the worst teacher I have had here Do not take her.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "ccc024ec-038f-41a5-9ddf-7424c6323e7b",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:29:04 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "MATH 161": [
@@ -601181,6 +601428,32 @@
           "id": "0af22c23-8554-4a5c-bb16-aa5e8db5ec7e",
           "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
           "postDate": "Sat Jun 20 2026 21:29:47 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "PSA: this professor can't teach, plain and simple Exams are nothing like the homework.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "654521c7-98fb-4d2d-9369-b22744751c23",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:28:04 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Update: this professor can't teach, plain and simple Zero stars if I could.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "1368f0e9-17ce-4187-a933-8a3bfcfd7aca",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "Thu Oct 15 2026 05:28:34 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -658048,18 +658321,20 @@
     "department": "EE",
     "firstName": "Joseph",
     "lastName": "Sparks",
-    "numEvals": 5,
-    "overallRating": 2.8,
-    "materialClear": 2.6,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 2.5,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.67,
     "courses": [
       "EE 241",
       "EE 242"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "EE 241": [
@@ -658118,6 +658393,24 @@
           "id": "7cac8b7b-b24b-4416-b3e4-c06ecb58ab10",
           "professor": "b669164c-2fdc-4de2-9456-5388d02114a0",
           "postDate": "Fri Oct 09 2026 19:12:16 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "never spent more work in a one unit class in any other class that i've had. it's one unit btw",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "01b176e8c19c6f4d",
+          "id": "05fb5f8d-4412-4179-8f7e-c524ab23a678",
+          "professor": "b669164c-2fdc-4de2-9456-5388d02114a0",
+          "postDate": "Thu Oct 15 2026 04:35:56 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "EE 242": [

@@ -725,10 +725,10 @@
     "department": "MATH",
     "firstName": "Mason",
     "lastName": "O'Leary",
-    "numEvals": 19,
-    "overallRating": 3.16,
-    "materialClear": 3.21,
-    "studentDifficulties": 3.31,
+    "numEvals": 20,
+    "overallRating": 3,
+    "materialClear": 3.05,
+    "studentDifficulties": 3.14,
     "courses": [
       "MATH 118",
       "MATH 221",
@@ -9751,10 +9751,10 @@
     "department": "MATH",
     "firstName": "Kelly",
     "lastName": "Lyle",
-    "numEvals": 6,
-    "overallRating": 0.17,
-    "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "numEvals": 7,
+    "overallRating": 0.72,
+    "materialClear": 0.57,
+    "studentDifficulties": 1,
     "courses": [
       "MATH 118"
     ],
@@ -33645,10 +33645,10 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 106,
-    "overallRating": 1.19,
-    "materialClear": 1.16,
-    "studentDifficulties": 1.41,
+    "numEvals": 125,
+    "overallRating": 1.04,
+    "materialClear": 1.02,
+    "studentDifficulties": 1.26,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -37292,18 +37292,20 @@
     "department": "EE",
     "firstName": "Joseph",
     "lastName": "Sparks",
-    "numEvals": 5,
-    "overallRating": 2.8,
-    "materialClear": 2.6,
-    "studentDifficulties": 3.2,
+    "numEvals": 6,
+    "overallRating": 2.5,
+    "materialClear": 2.17,
+    "studentDifficulties": 2.67,
     "courses": [
       "EE 241",
       "EE 242"
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
