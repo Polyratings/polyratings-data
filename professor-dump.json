@@ -471973,21 +471973,22 @@
     "department": "CSC",
     "firstName": "Eric",
     "lastName": "Yocam",
-    "numEvals": 13,
-    "overallRating": 2.77,
-    "materialClear": 2.55,
-    "studentDifficulties": 3.23,
+    "numEvals": 14,
+    "overallRating": 2.86,
+    "materialClear": 2.65,
+    "studentDifficulties": 3.29,
     "courses": [
       "CSC 321"
     ],
     "tags": {
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Flexible Grading Policy": 4,
       "Uploads Slides": 7,
       "Flexible Attendance Policy": 5,
       "Flexible Deadline Policy": 3,
-      "High In-Person Availability": 1,
-      "Inflexible Attendance Policy": 1
+      "High In-Person Availability": 2,
+      "Inflexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     },
     "reviews": {
       "CSC 321": [
@@ -472201,6 +472202,24 @@
           "id": "26f98a66-6eb4-4220-9ec0-7fbee5f810e8",
           "professor": "81270ba5-d799-465c-b9d7-61f4247bb13d",
           "postDate": "Fri Jun 05 2026 06:28:36 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Honestly, take the other reviews with a grain of salt. A lot of them come from students who stopped going to lecture, and they even admit so. If you attend and want to learn, Dr. Yocam is a wealth of knowledge, and he ties his industry experience back into every lecture. He's also extremely approachable and nice. Show up, ask questions, and you'll get a lot out of his class. I can't recommend him enough.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "7c8736cffd4bc666",
+          "id": "57284746-096c-41b1-9118-f0721dfa9e2b",
+          "professor": "81270ba5-d799-465c-b9d7-61f4247bb13d",
+          "postDate": "Thu Oct 15 2026 19:55:04 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -541159,10 +541178,10 @@
     "department": "AGB",
     "firstName": "Hong",
     "lastName": "Hoang",
-    "numEvals": 5,
-    "overallRating": 3.4,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.5,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.67,
     "courses": [
       "AGB 369",
       "BUS 302"
@@ -541170,10 +541189,11 @@
     "tags": {
       "Flexible Grading Policy": 2,
       "Uploads Slides": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2,
+      "Hybrid Option": 1
     },
     "reviews": {
       "AGB 369": [
@@ -541222,6 +541242,24 @@
           "id": "46e229f2-9b3e-4244-9d76-79614671c787",
           "professor": "922666a1-9357-4813-9fb9-189535c9c775",
           "postDate": "Mon Mar 02 2026 21:24:30 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This class is an easy class she is very kind and flexible. Even if the class is in person you can do the assignments, never shoe up, and make it all up. She gives out extra credit like candy so you don't have to do the final. There was basically no at home work if you go to class you can finish it all during class time. She always brought us food and snacks. She is nice but the lectures were a bit mixed around and jumpy from one topic to the next.",
+          "tags": [
+            "Hybrid Option",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "57ad10877ed7f94c",
+          "id": "61f58490-f75a-4112-a307-e9b38fd19aec",
+          "professor": "922666a1-9357-4813-9fb9-189535c9c775",
+          "postDate": "Thu Oct 15 2026 18:05:10 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "BUS 302": [
@@ -654089,10 +654127,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 42,
-    "overallRating": 0.77,
-    "materialClear": 0.79,
-    "studentDifficulties": 0.86,
+    "numEvals": 45,
+    "overallRating": 0.89,
+    "materialClear": 0.91,
+    "studentDifficulties": 0.98,
     "courses": [
       "BUS 319"
     ],
@@ -654705,6 +654743,45 @@
           "id": "d774e4b4-6c1c-4cb9-9223-b2a53bc47b42",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Thu Oct 15 2026 01:26:27 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Armstrong, Kaney, David Groom if youu can hear us. Save us from this bs please.",
+          "anonymousIdentifier": "43eea51666356873",
+          "id": "709c1486-f3c6-4317-a231-723964fcec71",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Thu Oct 15 2026 20:43:36 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "W ZCHANGE I LOVE ARCANE QUEST AND BATTLE QUIZES. I LOVE USING MY Z CHANGE COINS TO PURCHASE EXTRA CREDIT ON MY MIDTERM AND FINAL EXAM. W BAKERTILLY FOR GENEROUSLY SPONSORING US WITH $5 STARBUCKS GIFTCARDS THAT WE CAN REDEEM FOR 75 ZCHANGE COINS. OMG I LOVE PROFESSOR ZHANG THE GOAT.",
+          "anonymousIdentifier": "8ba97a5eb20f13d6",
+          "id": "85842f6a-dcd6-468a-ac65-56ae3261e335",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Thu Oct 15 2026 20:45:43 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "NOW WE WILL BE TALKING ABOUT SOMETHING MORE EXCITING, PYTHON. LETS FREAKING GOOOOO I LOVE PYTHON.",
+          "anonymousIdentifier": "8ba97a5eb20f13d6",
+          "id": "f1e8c230-9dd4-439b-8c4b-a9e31c02865b",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Thu Oct 15 2026 20:58:09 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -818905,10 +818982,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 44,
-    "overallRating": 2.81,
-    "materialClear": 2.84,
-    "studentDifficulties": 2.98,
+    "numEvals": 45,
+    "overallRating": 2.84,
+    "materialClear": 2.87,
+    "studentDifficulties": 3,
     "courses": [
       "CHEM 312",
       "CHEM 127",
@@ -818917,11 +818994,11 @@
       "CHEM 224"
     ],
     "tags": {
-      "High In-Person Availability": 17,
+      "High In-Person Availability": 18,
       "Fast Response Time": 11,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 22,
+      "Uploads Slides": 23,
       "Supplemental Study Material": 5,
       "Pop Quizzes": 10,
       "Inflexible Grading Policy": 6,
@@ -819392,6 +819469,23 @@
           "id": "e8d7d6c9-2e2b-42d6-b64b-967293eaba0c",
           "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
           "postDate": "Wed Oct 07 2026 04:02:00 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "okay wait i actually loved her.\nlike the class itself was definitely not easy but professor hartung explains things SO well and she's genuinely so nice when you're confused. i went to office hours before an exam and she literally figured out what i was doing wrong in like five minutes.\nalso she remembered my name???\ngirl.\nthat's mother now.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "d881dfd87c466351",
+          "id": "37c28365-ddb6-45d3-aba0-a37638507625",
+          "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
+          "postDate": "Thu Oct 15 2026 18:39:24 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "CHEM 217": [
@@ -854621,10 +854715,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 47,
-    "overallRating": 2.76,
-    "materialClear": 2.42,
-    "studentDifficulties": 3.01,
+    "numEvals": 48,
+    "overallRating": 2.7,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.95,
     "courses": [
       "COMS 100",
       "COMS 316",
@@ -855360,6 +855454,19 @@
           "id": "69222e35-7dd7-49fd-a678-4a2705313ba6",
           "professor": "f2633611-976b-424a-954f-8c2649da095b",
           "postDate": "Thu Oct 08 2026 09:55:23 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Barely speaks English. SUPER unclear. Worst professor I have ever taken",
+          "anonymousIdentifier": "772fe1adccfbf76e",
+          "id": "9740a295-8903-4833-bc67-993c3f2c6167",
+          "professor": "f2633611-976b-424a-954f-8c2649da095b",
+          "postDate": "Thu Oct 15 2026 18:44:46 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -884154,8 +884261,8 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 79,
-    "overallRating": 3.78,
+    "numEvals": 80,
+    "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
     "courses": [
@@ -884170,13 +884277,13 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 27,
-      "Fast Response Time": 14,
+      "Zoom Office Hours": 28,
+      "Fast Response Time": 15,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 1,
       "Flexible Grading Policy": 3,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Class Handouts": 1,
       "Inflexible Grading Policy": 2,
       "High In-Person Availability": 2,
@@ -885326,6 +885433,24 @@
           "id": "d2f9e5ce-0461-4f7b-a68c-8459e8c523f7",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "Sat Oct 10 2026 18:16:01 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Even though I didn't do great in the class (first midterm rocked me), I enjoy Dr. Gervasi a lot as a professor. He's super fun and knowledgeable, probably my favorite professor for the semester! My main complaint is that he doesn't post any notes, which I personally would have benefited from. No graded homework, and quizzes and exams are either from the book or very similar.",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "5d9c912d753bae03",
+          "id": "cd2aab1d-87bf-41e5-8529-cfc77aaf3f37",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "Thu Oct 15 2026 20:39:09 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
