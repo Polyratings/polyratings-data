@@ -3462,10 +3462,10 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 26,
-    "overallRating": 1.68,
-    "materialClear": 2,
-    "studentDifficulties": 1.68,
+    "numEvals": 27,
+    "overallRating": 1.62,
+    "materialClear": 1.93,
+    "studentDifficulties": 1.77,
     "courses": [
       "CSC 378",
       "CSC 123",
@@ -6093,17 +6093,20 @@
     "department": "BUS",
     "firstName": "Coby",
     "lastName": "Snyder",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 0,
+    "numEvals": 2,
+    "overallRating": 2.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 1.5,
     "courses": [
-      "BUS"
+      "BUS 4445"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -6614,10 +6617,10 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 133,
-    "overallRating": 2.11,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.29,
+    "numEvals": 134,
+    "overallRating": 2.09,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.3,
     "courses": [
       "BUS 387",
       "COMS 101",
@@ -6629,11 +6632,11 @@
       "HNRS 261"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 33,
+      "Inflexible Attendance Policy": 34,
       "Inflexible Deadline Policy": 20,
       "Inflexible Grading Policy": 15,
       "No Breaks During Lecture": 5,
-      "Class Handouts": 11,
+      "Class Handouts": 12,
       "Fast Response Time": 4,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 4,
@@ -8571,23 +8574,24 @@
     "department": "CM",
     "firstName": "Eric",
     "lastName": "Brinkman",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.88,
+    "studentDifficulties": 3.89,
     "courses": [
       "CM 214",
       "CM 115",
-      "CM 318"
+      "CM 318",
+      "CM 1114"
     ],
     "tags": {
       "High In-Person Availability": 3,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 4,
-      "Class Handouts": 1,
+      "Uploads Slides": 5,
+      "Class Handouts": 2,
       "Hybrid Option": 2,
       "Flexible Attendance Policy": 2,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Recorded Lectures": 1,
       "Supplemental Study Material": 1
@@ -9130,10 +9134,10 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 27,
-    "overallRating": 3.26,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.3,
+    "numEvals": 28,
+    "overallRating": 3.22,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.25,
     "courses": [
       "MATH 142",
       "MATH 206",
@@ -9141,14 +9145,15 @@
       "MATH 248",
       "MATH 143",
       "MATH 241",
-      "MATH 118"
+      "MATH 118",
+      "MATH 1263"
     ],
     "tags": {
       "High In-Person Availability": 7,
       "Fast Response Time": 6,
       "Supplemental Study Material": 6,
-      "Flexible Attendance Policy": 5,
-      "Class Handouts": 4,
+      "Flexible Attendance Policy": 6,
+      "Class Handouts": 5,
       "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
@@ -16185,10 +16190,10 @@
     "department": "BUS",
     "firstName": "Yongcheng",
     "lastName": "Zhan",
-    "numEvals": 8,
+    "numEvals": 9,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.88,
+    "studentDifficulties": 3.89,
     "courses": [
       "BUS 394",
       "BUS 393",
@@ -31571,10 +31576,10 @@
     "department": "CM",
     "firstName": "Bryan",
     "lastName": "Knakiewicz",
-    "numEvals": 12,
-    "overallRating": 2.67,
-    "materialClear": 2.83,
-    "studentDifficulties": 2.67,
+    "numEvals": 13,
+    "overallRating": 2.62,
+    "materialClear": 2.77,
+    "studentDifficulties": 2.54,
     "courses": [
       "CM 115",
       "CM 280",
@@ -36218,17 +36223,20 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "McDonough",
-    "numEvals": 1,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2.5,
     "courses": [
-      "MATH"
+      "MATH 1264",
+      "MATH 1263"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Flexible Grading Policy": 2,
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -37035,10 +37043,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 41,
-    "overallRating": 0.79,
-    "materialClear": 0.81,
-    "studentDifficulties": 0.88,
+    "numEvals": 42,
+    "overallRating": 0.77,
+    "materialClear": 0.79,
+    "studentDifficulties": 0.86,
     "courses": [
       "BUS 319"
     ],
@@ -37050,10 +37058,10 @@
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "No Breaks During Lecture": 2,
-      "Does Not Use Canvas": 1,
-      "Inflexible Deadline Policy": 1
+      "Does Not Use Canvas": 2,
+      "Inflexible Deadline Policy": 2
     }
   },
   {
@@ -41549,14 +41557,15 @@
     "department": "CM",
     "firstName": "Thomas",
     "lastName": "Kommer",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "CM 102",
       "CM 334",
-      "CM 113"
+      "CM 113",
+      "CM 1413"
     ],
     "tags": {
       "Fast Response Time": 3,
@@ -46720,10 +46729,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 43,
-    "overallRating": 2.78,
-    "materialClear": 2.81,
-    "studentDifficulties": 2.96,
+    "numEvals": 44,
+    "overallRating": 2.81,
+    "materialClear": 2.84,
+    "studentDifficulties": 2.98,
     "courses": [
       "CHEM 312",
       "CHEM 127",
