@@ -65627,10 +65627,10 @@
     "department": "CM",
     "firstName": "Lonny",
     "lastName": "Simonian",
-    "numEvals": 6,
-    "overallRating": 2.5,
+    "numEvals": 7,
+    "overallRating": 2.71,
     "materialClear": 2,
-    "studentDifficulties": 2.83,
+    "studentDifficulties": 2.85,
     "courses": [
       "CM 212",
       "CM 352",
@@ -65640,7 +65640,9 @@
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "CM 212": [
@@ -65696,6 +65698,24 @@
           "id": "4b46f5f3-fa9d-4601-8cb0-30d9cd0328f9",
           "professor": "11de1dbc-9a07-4f80-9c16-892cd72e1dbe",
           "postDate": "Thu Sep 03 2026 06:25:43 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Easy B and doable A if you put in a just little more effort than usual. Honestly didn't even do much and got an A but I know some people who like never went to class and got low B's. Also, not having an 8am was awesome so that's definitely a plus.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "e62350126319ff8b",
+          "id": "9c911d46-c135-4c12-924a-05eb2137e578",
+          "professor": "11de1dbc-9a07-4f80-9c16-892cd72e1dbe",
+          "postDate": "Thu Oct 15 2026 15:48:41 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "CM 413": [
