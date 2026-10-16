@@ -7415,19 +7415,20 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 205,
-    "overallRating": 1.93,
-    "materialClear": 2.02,
-    "studentDifficulties": 2.05,
+    "numEvals": 206,
+    "overallRating": 1.92,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.04,
     "courses": [
       "ENGL 134",
-      "ENGL 145"
+      "ENGL 145",
+      "ENVE 1145"
     ],
     "tags": {
       "Flexible Attendance Policy": 5,
-      "Pop Quizzes": 16,
-      "Inflexible Grading Policy": 24,
-      "Zoom Office Hours": 6,
+      "Pop Quizzes": 17,
+      "Inflexible Grading Policy": 25,
+      "Zoom Office Hours": 7,
       "Fast Response Time": 9,
       "Recorded Lectures": 4,
       "Inflexible Attendance Policy": 1,
@@ -26789,12 +26790,13 @@
     "department": "CSC",
     "firstName": "Eric",
     "lastName": "Yocam",
-    "numEvals": 14,
-    "overallRating": 2.86,
-    "materialClear": 2.65,
-    "studentDifficulties": 3.29,
+    "numEvals": 16,
+    "overallRating": 3.01,
+    "materialClear": 2.82,
+    "studentDifficulties": 3.19,
     "courses": [
-      "CSC 321"
+      "CSC 321",
+      "CSC 3021"
     ],
     "tags": {
       "Fast Response Time": 5,

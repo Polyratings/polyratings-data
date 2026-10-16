@@ -125787,19 +125787,20 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 205,
-    "overallRating": 1.93,
-    "materialClear": 2.02,
-    "studentDifficulties": 2.05,
+    "numEvals": 206,
+    "overallRating": 1.92,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.04,
     "courses": [
       "ENGL 134",
-      "ENGL 145"
+      "ENGL 145",
+      "ENVE 1145"
     ],
     "tags": {
       "Flexible Attendance Policy": 5,
-      "Pop Quizzes": 16,
-      "Inflexible Grading Policy": 24,
-      "Zoom Office Hours": 6,
+      "Pop Quizzes": 17,
+      "Inflexible Grading Policy": 25,
+      "Zoom Office Hours": 7,
       "Fast Response Time": 9,
       "Recorded Lectures": 4,
       "Inflexible Attendance Policy": 1,
@@ -128525,6 +128526,26 @@
           "id": "a476c018-5ed6-4600-97c5-6b00de837d4e",
           "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
           "postDate": "Thu Jul 16 2026 04:48:05 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENVE 1145": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "DO NOT. AND I MEAN DO NOT TAKE HER. The most difficult, condescending, rigid, narcissistic teacher ever. Spare your mental health and take someone else. Genuinely wouldn\u2019t wish this prof on my greatest enemy. Horrible representation of Cal Poly as a whole.",
+          "tags": [
+            "Zoom Office Hours",
+            "Pop Quizzes",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "885d4c3525d4cecc",
+          "id": "163641c5-8cdb-46a5-9ddb-5a6e101224b1",
+          "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
+          "postDate": "2026-10-16T20:42:04.580Z"
         }
       ]
     }
@@ -472079,12 +472100,13 @@
     "department": "CSC",
     "firstName": "Eric",
     "lastName": "Yocam",
-    "numEvals": 14,
-    "overallRating": 2.86,
-    "materialClear": 2.65,
-    "studentDifficulties": 3.29,
+    "numEvals": 16,
+    "overallRating": 3.01,
+    "materialClear": 2.82,
+    "studentDifficulties": 3.19,
     "courses": [
-      "CSC 321"
+      "CSC 321",
+      "CSC 3021"
     ],
     "tags": {
       "Fast Response Time": 5,
@@ -472326,6 +472348,34 @@
           "id": "57284746-096c-41b1-9118-f0721dfa9e2b",
           "professor": "81270ba5-d799-465c-b9d7-61f4247bb13d",
           "postDate": "Thu Oct 15 2026 19:55:04 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 3021": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Was a good professor enjoyed his classes alot.",
+          "anonymousIdentifier": "62712540aabbf6c2",
+          "id": "e25e4e08-8571-42e2-bc27-8158df5c9b08",
+          "professor": "81270ba5-d799-465c-b9d7-61f4247bb13d",
+          "postDate": "2026-10-16T18:17:44.435Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "amazing teacher enjoyed his class a lot it was not hard like other say.",
+          "anonymousIdentifier": "62712540aabbf6c2",
+          "id": "fae5a763-45db-4a19-bbb7-960dfb628f40",
+          "professor": "81270ba5-d799-465c-b9d7-61f4247bb13d",
+          "postDate": "2026-10-16T18:18:57.770Z"
         }
       ]
     }
