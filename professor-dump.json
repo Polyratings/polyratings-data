@@ -358442,10 +358442,10 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 12,
-    "overallRating": 2.91,
-    "materialClear": 3.66,
-    "studentDifficulties": 3.33,
+    "numEvals": 13,
+    "overallRating": 2.99,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.38,
     "courses": [
       "BUS 346",
       "BUS 451"
@@ -358643,6 +358643,19 @@
           "id": "320f0f0f-a367-4d1f-b2b5-dc8f5c0480b0",
           "professor": "6287909f-1e0e-47fa-9d65-f556afab08d8",
           "postDate": "Sun Jun 07 2026 21:05:27 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Easy A! The prof is very caring and supportive. The class isn't time consuming all. Light Work fs!! Just love this class and how kind Dr. Birdshall is. DEF Recommend!! TAKE HER FOR BUS 451. <3",
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "bb445ae7-a433-4ef4-b3e5-8eee1f043309",
+          "professor": "6287909f-1e0e-47fa-9d65-f556afab08d8",
+          "postDate": "Fri Oct 16 2026 08:40:20 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -611040,10 +611053,10 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 22,
-    "overallRating": 3.47,
-    "materialClear": 3.88,
-    "studentDifficulties": 3.5,
+    "numEvals": 23,
+    "overallRating": 3.49,
+    "materialClear": 3.89,
+    "studentDifficulties": 3.52,
     "courses": [
       "BUS 346",
       "BUS 454"
@@ -611377,6 +611390,19 @@
           "id": "5eb9fedf-bebd-4080-93b3-e9dae03529f7",
           "professor": "a72d930a-2527-474c-b037-45ca14a72533",
           "postDate": "Sun Dec 28 2025 04:43:13 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This guys is soo difficult and this class is sooo TIME consuming OMG! Pls take another class if you can and not have to worry about all the BS you have to go through in this class! DEF NOT Recommend at all!",
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "7b011f8d-792b-4a11-b01f-4f5adaa16efb",
+          "professor": "a72d930a-2527-474c-b037-45ca14a72533",
+          "postDate": "Fri Oct 16 2026 08:42:17 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
