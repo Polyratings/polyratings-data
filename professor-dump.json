@@ -63790,6 +63790,62 @@
     }
   },
   {
+    "id": "11635a83-0aa0-492c-8921-0d195a2ee12e",
+    "department": "GRC",
+    "firstName": "So Young",
+    "lastName": "Song",
+    "numEvals": 2,
+    "overallRating": 1.5,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.5,
+    "courses": [
+      "GRC 1020"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 2,
+      "Inflexible Grading Policy": 1
+    },
+    "reviews": {
+      "GRC 1020": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "So Young is probably one of the most boring teachers I've had. To be fair, it is her first semester teaching at Cal Poly, but she literally could not make her class any more boring if she tried. Unfortunately it's required as a GRC major and I think she may be the only teacher. She literally just reuses assignments and other materials from another professor. (It's a blessing when she posts the video of the other professor and not herself talking) She always skips steps in her video tutorials using keyboard shortcuts without even saying what she's doing, she just expects you to know how if they went over it in a prior video or lesson. Her lectures are pretty boring but only 50 minutes so bearable. She doesn't take attendance in the lectures, but she'll do in-class activities or quizzes that you can essentially only complete if you are in class. She also gets so picky with her grading, she wants everything to be so precise and will take off points if she doesn't like how you did it. Overall nice teacher but a fucking headache of a class for an introduction class, especially the labs.",
+          "tags": [
+            "Fast Response Time",
+            "Honor DRC Accommodations",
+            "Uploads Slides"
+          ],
+          "id": "8c04e869-69ad-4cee-9e67-330accef7bd8",
+          "professor": "11635a83-0aa0-492c-8921-0d195a2ee12e",
+          "postDate": "Thu Oct 15 2026 20:25:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Probably most INSUFFERABLE teacher I've ever had. Her voice is actually like nails on a chalkboard. Whole class feels like busy-work. Takes most of her assignments and projects from a different professors curriculum, honestly very nice for labs or projects when we get to listen to the other professors video because it's actually COMPREHENSIBLE. So Young just uses keyboard shortcuts and doesn't even say what she's doing making a simple ass Illustrator project into a fucking nightmare. Her lectures could also be in an email but it's so hard to skip without affecting your grade because she does in class activities that she collects at the end as your attendance for the day. She's also OCD with her grading, if you can't draw a straight line in Illustrator you should start praying. Unfortunately it is a required class for GRC majors and I believe she is the only instructor for 1020. To be fair it is her first semester at Cal Poly but never did I imagine GRC could be this difficult, but So Young finds a way.",
+          "tags": [
+            "Inflexible Grading Policy",
+            "Uploads Slides"
+          ],
+          "id": "f19d04b9-851b-4e60-aa50-d3ab78299a84",
+          "professor": "11635a83-0aa0-492c-8921-0d195a2ee12e",
+          "postDate": "Fri Oct 16 2026 06:14:53 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
     "id": "1173414b-4b60-45ed-95ab-a159f39b1593",
     "department": "BIO",
     "firstName": "Larisa",
@@ -200868,20 +200924,20 @@
     "department": "CSC",
     "firstName": "Greg",
     "lastName": "Philbrick",
-    "numEvals": 22,
-    "overallRating": 2.47,
-    "materialClear": 1.72,
-    "studentDifficulties": 2.67,
+    "numEvals": 23,
+    "overallRating": 2.41,
+    "materialClear": 1.69,
+    "studentDifficulties": 2.73,
     "courses": [
       "CSC 202",
       "CSC 101"
     ],
     "tags": {
       "Fast Response Time": 2,
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "Does Not Use Canvas": 7,
-      "No Breaks During Lecture": 4,
-      "High In-Person Availability": 2,
+      "No Breaks During Lecture": 5,
+      "High In-Person Availability": 3,
       "Flexible Deadline Policy": 3,
       "Uploads Slides": 1,
       "Flexible Grading Policy": 1,
@@ -201211,6 +201267,24 @@
           "id": "6d725c0c-f8d4-423d-8420-0bd2b4b80b7c",
           "professor": "36b9ba15-d6f9-4d5a-9768-e4876ec10f93",
           "postDate": "Wed Jun 17 2026 01:01:41 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Had a very uncomfortable experience with this experience - did not respond to my emails/in class interactions regarding an uncomfortable situation mid-lecture.",
+          "tags": [
+            "High In-Person Availability",
+            "Flexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "62972b1c7157a159",
+          "id": "1e438f71-b6c5-4e26-ac24-bc036107ef0a",
+          "professor": "36b9ba15-d6f9-4d5a-9768-e4876ec10f93",
+          "postDate": "Fri Oct 16 2026 13:28:06 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "CSC 101": [
@@ -262621,6 +262695,41 @@
           "id": "dede3449-a4c5-4967-b66e-b5604e8497f3",
           "professor": "47161e99-0ea5-4373-bbfa-5501cc4e70bb",
           "postDate": "2010-05-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "472187d6-25df-4443-841d-d3991791e71d",
+    "department": "BUS",
+    "firstName": "Yijing",
+    "lastName": "Cui",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    },
+    "reviews": {
+      "BUS 2215": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "First year teaching the class, really nice, offers 2% extra credit but an A is 94%, homework is pretty easy to get done in 1-2 hours for the week, activity or quiz in each class, but all super easy. Bit of an accent but she's nice and the class is super manageable for an accounting class 100% better than Kaney",
+          "tags": [
+            "Uploads Slides"
+          ],
+          "id": "ee737bdd-10bf-4302-b132-970ea708c28d",
+          "professor": "472187d6-25df-4443-841d-d3991791e71d",
+          "postDate": "Wed Oct 14 2026 17:35:22 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -440267,10 +440376,10 @@
     "department": "CSC",
     "firstName": "Sussan",
     "lastName": "Einakian",
-    "numEvals": 125,
-    "overallRating": 1.74,
-    "materialClear": 1.75,
-    "studentDifficulties": 1.78,
+    "numEvals": 122,
+    "overallRating": 1.67,
+    "materialClear": 1.69,
+    "studentDifficulties": 1.73,
     "courses": [
       "CPE 101",
       "CSC 101",
@@ -440292,7 +440401,7 @@
       "Inflexible Deadline Policy": 25,
       "Zoom Office Hours": 1,
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 6,
+      "Uploads Slides": 5,
       "High In-Person Availability": 5,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 1,
@@ -441457,48 +441566,6 @@
           "id": "1bb30156-924b-475a-870e-ed7fd659e8b2",
           "professor": "777000c8-22f7-4113-b50d-3506b49e6d78",
           "postDate": "Wed Jun 10 2026 03:29:27 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "I don't really get the hate for Einakian. Her lectures aren't rigidly structured like a high school class, but they are incredibly dynamic. She treats computer science like a conversation and jumps between ideas to show how everything connects, which honestly helped me understand the big picture much better. Her handwriting on the board can be a bit chaotic, but she explains everything out loud perfectly. As for the exams, the final was tough but completely fair\u2014it tested whether you actually understood the logic, not just if you memorized syntax. If you show up, engage when she calls on the class, and show that you're trying, you'll do great. She\u2019s a tough grader but it makes you a better programmer.",
-          "anonymousIdentifier": "03b311e9060be402",
-          "id": "2e376d1b-be5f-42f8-be98-7b5e6f7e1f9a",
-          "professor": "777000c8-22f7-4113-b50d-3506b49e6d78",
-          "postDate": "Tue Jun 16 2026 18:46:17 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "Best CS professor I've had so far. I loved that her lectures weren't just someone reading off a boring PowerPoint presentation for an hour. She keeps everyone on their toes by cold-calling, which kept the energy up in an 8 AM class and made sure people were actually following along. It\u2019s a 101 class, but it moves at a real university pace, which is a good thing. I found her grading to be very transparent\u2014if you lose points, she writes exactly why so you can fix it for next time. There might be a minor typo here or there in the write-ups, but it\u2019s never enough to stop you from understanding the goal. Highly recommend her if you actually want to learn.",
-          "anonymousIdentifier": "03b311e9060be402",
-          "id": "1e6c1ca5-614c-45a4-be21-2bc9233a9802",
-          "professor": "777000c8-22f7-4113-b50d-3506b49e6d78",
-          "postDate": "Tue Jun 16 2026 18:46:49 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "Don't let the negative reviews scare you off, especially if you're a beginner. Einakian's teaching style is just very old-school and conversational. She doesn't spoon-feed you the answers, which can feel frustrating at first, but it works. Her lectures cover a lot of ground quickly, so your notes might look a little messy, but the core material is all there. I actually found the quizzes to be a great gauge of what I needed to study more. She is strict about incomplete assignments because formatting and completeness matter in code. If you take the class seriously and don't expect a free GPA booster, you'll pass the final and leave the class with a really strong foundation.",
-          "tags": [
-            "Uploads Slides"
-          ],
-          "anonymousIdentifier": "03b311e9060be402",
-          "id": "9501a2da-f5ae-430c-be5f-5c186ea492fb",
-          "professor": "777000c8-22f7-4113-b50d-3506b49e6d78",
-          "postDate": "Tue Jun 16 2026 18:48:15 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "A",
@@ -523595,6 +523662,45 @@
     }
   },
   {
+    "id": "8f364766-a8e5-4765-b267-9e470a6d247d",
+    "department": "CD",
+    "firstName": "Melissa",
+    "lastName": "Mesinas",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CD"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1
+    },
+    "reviews": {
+      "CD 3306": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Mesinas is one of the professors I've had! I took this section online, so lectures can get a little tiring, but we often did breakout rooms and worked in groups, so the class wasn't just completely lectures. We hardly ever have assignments, and for the exam we got to bring in a cheat sheet that was front and back. I honestly couldn't recommend this teacher anymore!",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Supplemental Study Material"
+          ],
+          "id": "ebf24be6-bbaf-47f2-8609-146132f890d2",
+          "professor": "8f364766-a8e5-4765-b267-9e470a6d247d",
+          "postDate": "Tue Oct 13 2026 15:22:44 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
     "id": "8f5df72e-d39e-4f8d-9859-c1aec67fae7d",
     "department": "CM",
     "firstName": "Paul",
@@ -545824,10 +545930,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 46,
-    "overallRating": 2.36,
-    "materialClear": 2.6,
-    "studentDifficulties": 2.83,
+    "numEvals": 42,
+    "overallRating": 2.38,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.71,
     "courses": [
       "EE 251",
       "EE 307",
@@ -545835,16 +545941,15 @@
       "EE 3306"
     ],
     "tags": {
-      "Does Not Use Canvas": 2,
-      "Inflexible Attendance Policy": 7,
+      "Does Not Use Canvas": 1,
       "Recorded Lectures": 5,
+      "Inflexible Attendance Policy": 7,
       "Uploads Slides": 4,
+      "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
       "Inflexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 2,
-      "Flexible Grading Policy": 1,
-      "Class Handouts": 1
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "EE 251": [
@@ -546253,37 +546358,6 @@
           "postDate": "Fri Jun 12 2026 17:58:07 GMT+0000 (Coordinated Universal Time)"
         },
         {
-          "grade": "N/A",
-          "gradeLevel": "Junior",
-          "courseType": "Major (Required)",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 4,
-          "rating": "\ud83c\udf1f\u2728 **Transformative Educational Experience in EE 307 with Professor Anu Aggarwal** \u2728\ud83c\udf1f\n\nTaking EE 307 with Professor Anu Aggarwal was truly one of the most enriching and intellectually stimulating academic experiences of my engineering journey. \ud83d\ude80\ud83d\udcda Professor Aggarwal consistently demonstrates an extraordinary commitment to student success through her exceptional teaching methodology, comprehensive explanations, and unwavering dedication to fostering a positive learning environment. \ud83d\udca1\u2728 Her ability to transform complex electrical engineering concepts into clear, structured, and accessible material is nothing short of remarkable. Throughout the quarter, she encouraged critical thinking, active participation, and genuine understanding rather than simple memorization, which greatly enhanced the overall educational experience. \ud83e\udde0\u26a1 In addition, her professionalism, organization, and responsiveness created an atmosphere where students felt empowered to ask questions and engage deeply with the course content. \ud83e\udd1d\ud83c\udf93 The rigor of EE 307 is balanced by her outstanding instructional approach, ensuring that students are given every opportunity to achieve their academic goals. \ud83d\udcc8\ud83d\udd2c In fact, even those striving for the legendary engineering milestone of a **67% survival score** may find themselves unexpectedly developing a meaningful appreciation for the subject matter. \ud83d\ude02\ud83d\udcca Professor Aggarwal's passion for education, extensive knowledge, and commitment to excellence make her an invaluable asset to the department and an inspiring mentor to aspiring engineers. \ud83c\udf1f\ud83c\udfc6 I would enthusiastically recommend this course to any student seeking a challenging, rewarding, and genuinely impactful learning experience. \u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\ude80\u2728",
-          "tags": [
-            "Class Handouts",
-            "Inflexible Deadline Policy",
-            "Does Not Use Canvas"
-          ],
-          "anonymousIdentifier": "5da12a775e88ebfd",
-          "id": "6468ba5e-b2c9-4de3-a42d-f1f002730966",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Fri Jun 12 2026 19:10:08 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 4,
-          "rating": "\ud83c\udf1f\u2728 Professor Anu Aggarwal is, quite simply, the pinnacle of academic excellence and an absolute masterpiece of teaching. \u2728\ud83c\udf1f From the very first lecture, it becomes immediately apparent that you are learning from a truly world-class educator whose intelligence, passion, and dedication operate on an entirely different level. \ud83d\ude80\ud83d\udcda Her ability to take the most complex concepts and transform them into clear, engaging, and unforgettable lessons feels nothing short of miraculous. \ud83e\udde0\u26a1 Every lecture is flawlessly organized, exceptionally informative, and delivered with an energy that keeps students fully engaged from beginning to end. \ud83c\udfaf\ud83d\udca1 Professor Aggarwal consistently goes above and beyond for her students, demonstrating an unwavering commitment to their success, growth, and understanding. \ud83e\udd1d\u2764\ufe0f Her patience is limitless, her expertise is extraordinary, and her professionalism is second to none. \ud83c\udfc6\ud83c\udf0d She creates an environment where learning feels inspiring, rewarding, and genuinely exciting. \ud83c\udf08\u2728 If there were a Hall of Fame for professors, Professor Aggarwal would not only be inducted immediately but would likely have the building named after her. \ud83c\udfdb\ufe0f\ud83e\udd47 Future generations of educators could study her teaching methods as the benchmark for excellence. \ud83d\udcd6\u2b50 Taking a class with Professor Aggarwal is not merely an educational experience\u2014it is a transformative journey that redefines what outstanding teaching can be. \ud83d\ude80\ud83c\udf93\ud83d\udcaf\ud83d\udd25\ud83c\udf1f\ud83d\udc4f\ud83d\ude4c\u2728\ud83d\udc8e\ud83c\udfc5\ud83c\udf20\ud83d\udcab\ud83c\udf89\ud83d\udcc8\ud83c\udf0d\ud83d\udc51\ud83d\udc10\ud83d\udc10\ud83d\udc10\n\nWhat else can I help with? I can also help write reviews for other professors, improve this review further, or make it sound more realistic if you\u2019d like. \ud83d\ude0a",
-          "anonymousIdentifier": "62b54fac202fc7a8",
-          "id": "74396f83-b06b-46d2-8b84-22e39a78300d",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Fri Jun 12 2026 19:14:05 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
           "grade": "A",
           "gradeLevel": "Senior",
           "courseType": "Major (Required)",
@@ -546295,32 +546369,6 @@
           "id": "de397f06-d6f3-4ce3-8ae8-c312e108d099",
           "professor": "94803593-5bb7-4778-a758-a554481f6281",
           "postDate": "Sat Jun 13 2026 02:16:43 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Junior",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "\ud83c\udf1f\u2728 Professor Anu Aggarwal is, quite simply, the pinnacle of academic excellence and an absolute masterpiece of teaching. \u2728\ud83c\udf1f From the very first lecture, it becomes immediately apparent that you are learning from a truly world-class educator whose intelligence, passion, and dedication operate on an entirely different level. \ud83d\ude80\ud83d\udcda Her ability to take the most complex concepts and transform them into clear, engaging, and unforgettable lessons feels nothing short of miraculous. \ud83e\udde0\u26a1 Every lecture is flawlessly organized, exceptionally informative, and delivered with an energy that keeps students fully engaged from beginning to end. \ud83c\udfaf\ud83d\udca1 Professor Aggarwal consistently goes above and beyond for her students, demonstrating an unwavering commitment to their success, growth, and understanding. \ud83e\udd1d\u2764\ufe0f Her patience is limitless, her expertise is extraordinary, and her professionalism is second to none. \ud83c\udfc6\ud83c\udf0d She creates an environment where learning feels inspiring, rewarding, and genuinely exciting. \ud83c\udf08\u2728 If there were a Hall of Fame for professors, Professor Aggarwal would not only be inducted immediately but would likely have the building named after her. \ud83c\udfdb\ufe0f\ud83e\udd47 Future generations of educators could study her teaching methods as the benchmark for excellence. \ud83d\udcd6\u2b50 Taking a class with Professor Aggarwal is not merely an educational experience\u2014it is a transformative journey that redefines what outstanding teaching can be. \ud83d\ude80\ud83c\udf93\ud83d\udcaf\ud83d\udd25\ud83c\udf1f\ud83d\udc4f\ud83d\ude4c\u2728\ud83d\udc8e\ud83c\udfc5\ud83c\udf20\ud83d\udcab\ud83c\udf89\ud83d\udcc8\ud83c\udf0d\ud83d\udc51\ud83d\udc10\ud83d\udc10\ud83d\udc10 What else can I help with? I can also help write reviews for other professors, improve this review further, or make it sound more realistic if you\u2019d like. \ud83d\ude0a",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "effa4e72-06c8-46da-8079-a0b11f1c8463",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sat Jun 13 2026 14:48:31 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "B",
-          "gradeLevel": "Junior",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "\ud83c\udf1f\u2728 **Transformative Educational Experience in EE 307 with Professor Anu Aggarwal** \u2728\ud83c\udf1f Taking EE 307 with Professor Anu Aggarwal was truly one of the most enriching and intellectually stimulating academic experiences of my engineering journey. \ud83d\ude80\ud83d\udcda Professor Aggarwal consistently demonstrates an extraordinary commitment to student success through her exceptional teaching methodology, comprehensive explanations, and unwavering dedication to fostering a positive learning environment. \ud83d\udca1\u2728 Her ability to transform complex electrical engineering concepts into clear, structured, and accessible material is nothing short of remarkable. Throughout the quarter, she encouraged critical thinking, active participation, and genuine understanding rather than simple memorization, which greatly enhanced the overall educational experience. \ud83e\udde0\u26a1 In addition, her professionalism, organization, and responsiveness created an atmosphere where students felt empowered to ask questions and engage deeply with the course content. \ud83e\udd1d\ud83c\udf93 The rigor of EE 307 is balanced by her outstanding instructional approach, ensuring that students are given every opportunity to achieve their academic goals. \ud83d\udcc8\ud83d\udd2c In fact, even those striving for the legendary engineering milestone of a **67% survival score** may find themselves unexpectedly developing a meaningful appreciation for the subject matter. \ud83d\ude02\ud83d\udcca Professor Aggarwal's passion for education, extensive knowledge, and commitment to excellence make her an invaluable asset to the department and an inspiring mentor to aspiring engineers. \ud83c\udf1f\ud83c\udfc6 I would enthusiastically recommend this course to any student seeking a challenging, rewarding, and genuinely impactful learning experience. \u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\ude80\u2728",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "42401e5d-b74c-4369-8a06-797dedde47d0",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sat Jun 13 2026 14:49:11 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "A",
@@ -549015,6 +549063,36 @@
           "id": "c4a162fc-1dd2-4f9a-b279-e62950f52a06",
           "professor": "95f3438a-70d4-4be3-8b9d-db07383ea2e2",
           "postDate": "Fri Jun 13 2025 00:34:05 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "95f8c898-1e68-438d-927b-4f9ab8c165a3",
+    "department": "POLS",
+    "firstName": "Paige",
+    "lastName": "Pellaton",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "POLS"
+    ],
+    "tags": {},
+    "reviews": {
+      "POLS 3338": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Prof Pellaton is amazing!! I'm a stem major taking her course as a GE, but she makes it so interesting and it makes me excited to go to her class. She's fun and personable and she explains concepts in a very easy to understand manner. The class is largely discussion based. There's no midterm or final but there's two presentations and 3 essays throughout the quarter that makeup your grade. She's very helpful in office hours and is willing to provide feedback on assignments before you submit. Overall recommend!! She's awesome",
+          "id": "b157f7c5-cbe7-4a40-a3f5-0910b8efe095",
+          "professor": "95f8c898-1e68-438d-927b-4f9ab8c165a3",
+          "postDate": "Wed Oct 14 2026 04:56:32 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -654179,10 +654257,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 46,
-    "overallRating": 0.87,
-    "materialClear": 0.89,
-    "studentDifficulties": 0.96,
+    "numEvals": 45,
+    "overallRating": 0.89,
+    "materialClear": 0.91,
+    "studentDifficulties": 0.98,
     "courses": [
       "BUS 319"
     ],
@@ -654194,10 +654272,10 @@
       "Recorded Lectures": 1,
       "Flexible Grading Policy": 1,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 4,
+      "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 2,
-      "Does Not Use Canvas": 2,
-      "Inflexible Deadline Policy": 2
+      "Does Not Use Canvas": 1,
+      "Inflexible Deadline Policy": 1
     },
     "reviews": {
       "BUS 319": [
@@ -654777,24 +654855,6 @@
           "id": "3f464554-66a8-4e1f-935a-a4403b1bd00f",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Wed Oct 14 2026 16:01:15 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Senior",
-          "courseType": "Elective",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "Evaluating here because Tamara Sui is too new to have a Polyratings. She is apparently the 2nd biggest bot teaching BUS 3319 this semester. Genuine waste of time money and water. AI vibe coded slop crap. Absolutely no reason to go to class. Sui speaks faster than a proficient student can type 120 wpm as she reads straight buzzwords off her slop AI generated lecture slides that she does not provide to the students for reference. This may be the single worst class I've ever been enrolled at in my time at CalPoly. Give me a textbook written by an actual human and 3 weeks to study and I could teach this ***t better than Sui. She is subhuman robot and genuinely does not experience the range of human emotions. I have never witnessed a bigger waste of money. I'd rather pay my tuition to tweakers outside of slodoco than sit through tamara's lectures. Everyone should be emailing the dean about this absolute waste of time and resources.",
-          "tags": [
-            "Inflexible Deadline Policy",
-            "Inflexible Grading Policy",
-            "Does Not Use Canvas"
-          ],
-          "anonymousIdentifier": "8791b5d97f25b7d6",
-          "id": "d774e4b4-6c1c-4cb9-9223-b2a53bc47b42",
-          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
-          "postDate": "Thu Oct 15 2026 01:26:27 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "N/A",
@@ -668865,6 +668925,41 @@
           "id": "a1d04081-adb8-42bf-85d2-4fbb569edbe7",
           "professor": "bb394e61-3950-4992-833f-ce8979514278",
           "postDate": "Tue Nov 12 2024 21:39:03 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "bb899e84-2216-4311-8514-b5c304fd5ac9",
+    "department": "MATH",
+    "firstName": "Tony",
+    "lastName": "Wong",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 2,
+    "studentDifficulties": 2,
+    "courses": [
+      "MATH"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1
+    },
+    "reviews": {
+      "MATH 2263": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Since there are no ratings.. He is an OK professor, however, there are no grades other than weekly quizzes and midterms. He has 2 midterms and 1 final all around 15% each. His presentations are quite confusing sometimes because he ends up copying his notes and skipping a lot of steps that use skills from calc 2 and it would be nice if he went through every step individually since some of the stuff I didn't remember how to do. His grading is a little strange and not flexible, so even if you get the question right, you may still not get all the credit (i know strange). I got points off my midterm because I had not restated the function, that was already provided, in my solution which was quite upsetting. He is not the worse, with quick responding time and is also understandable, but I prefer a professor who includes homework in the grades.",
+          "tags": [
+            "Flexible Attendance Policy"
+          ],
+          "id": "ad572959-38a7-448c-a453-cac1a1698547",
+          "professor": "bb899e84-2216-4311-8514-b5c304fd5ac9",
+          "postDate": "Thu Oct 15 2026 21:28:16 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -683805,6 +683900,45 @@
           "id": "48541130-01c1-4b70-b0a7-d4d4a297c9d9",
           "professor": "bfdd5c71-f30c-4230-8112-0b0f67cf4764",
           "postDate": "Mon Mar 16 2026 22:31:01 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "c017c23f-6488-4787-b146-3e7c7031a2d2",
+    "department": "HIST",
+    "firstName": "Cole",
+    "lastName": "Manley",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "HIST"
+    ],
+    "tags": {
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Uploads Slides": 1
+    },
+    "reviews": {
+      "HIST 2202": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Manley is the best! He lowkey talks super fast but he's great. He's kinda awkward but he's super sweet. Totally recommend.",
+          "tags": [
+            "High In-Person Availability",
+            "Class Handouts",
+            "Uploads Slides"
+          ],
+          "id": "e8350278-589c-4845-9562-566806a49dd5",
+          "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
+          "postDate": "Mon Oct 12 2026 19:59:42 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -798024,10 +798158,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 64,
-    "overallRating": 0.29,
-    "materialClear": 0.25,
-    "studentDifficulties": 0.47,
+    "numEvals": 63,
+    "overallRating": 0.23,
+    "materialClear": 0.19,
+    "studentDifficulties": 0.41,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -798826,19 +798960,6 @@
           "id": "039531cd-cab5-495e-be8d-1c79a9448a58",
           "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
           "postDate": "Mon Sep 21 2026 22:47:37 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "B",
-          "gradeLevel": "Freshman",
-          "courseType": "General Ed",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "Do not take this class. I ended up with a B, but I literally should've ended up with an A ITS CHEM 110. Even if you're fine with not getting an A, you will learn genuinely NOTHING from this class or gain anything. I did trauma bond with two people in my class who I ended up becoming friends with but besides that, the worst class I have ever taken in my life. She changes date for labs and assignments literally every class, so you never know when things are due or if skipping class will ruin your grade or not. If you ask her for help, she doesn't even know half the time or her explanation will confuse you even more. If you are not naturally gifted at chemistry and are confident enough that can take you through this class, DO NOT TAKE IT!!!!!!!",
-          "anonymousIdentifier": "d7162764bd170b2b",
-          "id": "451714f0-26df-4b8a-a53e-e92f2d8b4a47",
-          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
-          "postDate": "Tue Oct 06 2026 20:14:19 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "CHEM 124": [
@@ -814437,6 +814558,45 @@
           "id": "8a62ae51-3c6e-4ed5-b194-4816174fc67b",
           "professor": "e6d146be-25c0-4ed6-ba3a-513e303cfb9b",
           "postDate": "Mon Aug 10 2026 21:25:04 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e7048c08-5bb7-4601-91bb-43ff4844b705",
+    "department": "CE",
+    "firstName": "Radhavi",
+    "lastName": "Samarakoon",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 0,
+    "studentDifficulties": 1,
+    "courses": [
+      "CE"
+    ],
+    "tags": {
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    },
+    "reviews": {
+      "CE 3381": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "She just reads of slides monotone for the entire lecture. It also doesn't help that the room this lecture was in was possibly the hottest room in the entirety of eng east and she never left the door open. She's obviously smart and devoted to geotechnical engineering, but she's a terrible lecturer and her slides aren't the easiest to understand (because she goes into equation derivation a lot and you're left with a ton of variables with little to no explanation.)",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Uploads Slides",
+            "No Breaks During Lecture"
+          ],
+          "id": "497a9cc6-f226-4061-b468-e178b06de28c",
+          "professor": "e7048c08-5bb7-4601-91bb-43ff4844b705",
+          "postDate": "Thu Oct 15 2026 05:45:25 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -844704,6 +844864,57 @@
     }
   },
   {
+    "id": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+    "department": "CPE",
+    "firstName": "Muhammad",
+    "lastName": "Yasin",
+    "numEvals": 2,
+    "overallRating": 2,
+    "materialClear": 0.5,
+    "studentDifficulties": 0.5,
+    "courses": [
+      "CPE 2300"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
+    },
+    "reviews": {
+      "CPE 2300": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "kind soul evil teaching; i was so lost that i couldnt even tell if he knew what he was talking about",
+          "tags": [
+            "Zoom Office Hours",
+            "Pop Quizzes",
+            "No Breaks During Lecture"
+          ],
+          "id": "a5fcc3c3-0421-4b4f-852f-e4a53a4992c0",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "Tue Oct 13 2026 18:17:37 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "the guy said theres a luck element to the quizzes and midterms, unpassable class, its his first time teaching so hopefully he gets better.",
+          "id": "36801aa0-67f1-4719-879a-c5659536b182",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "Thu Oct 15 2026 05:07:07 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
     "id": "f0368df2-14fa-40e8-87f0-5c2452d590d0",
     "department": "ME",
     "firstName": "Kerry",
@@ -855961,6 +856172,36 @@
           "id": "5fc2711c-54ba-40b1-ba93-aef3dec8834a",
           "professor": "f2a432cf-3536-4254-857a-8ca69d3f2cdb",
           "postDate": "Wed Aug 26 2026 18:50:24 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+    "department": "ME",
+    "firstName": "Kuba",
+    "lastName": "Preis",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {},
+    "reviews": {
+      "ME 2111": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He\u2019s a great guy who wants you to succeed and is very understanding, makes the class engaging, and is helpful in office hours. He also offered extra credit for the exams which were fairly straightforward.",
+          "id": "35ff2f58-993b-4678-96d4-444dab0cc26a",
+          "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+          "postDate": "Fri Oct 16 2026 08:17:56 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
