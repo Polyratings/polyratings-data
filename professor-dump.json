@@ -148596,10 +148596,10 @@
     "department": "ENGL",
     "firstName": "Isabell",
     "lastName": "Garcia",
-    "numEvals": 26,
-    "overallRating": 1.23,
-    "materialClear": 1.07,
-    "studentDifficulties": 1.38,
+    "numEvals": 27,
+    "overallRating": 1.18,
+    "materialClear": 1.03,
+    "studentDifficulties": 1.33,
     "courses": [
       "ENGL 134",
       "ENGL 145"
@@ -148964,6 +148964,19 @@
           "id": "9aa6b13f-676e-4661-9938-c80eea15f41e",
           "professor": "2904107f-6ddc-4802-8d52-942f508eb914",
           "postDate": "Fri Aug 28 2026 06:47:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "do not take this class it is brutal.",
+          "anonymousIdentifier": "9a513c406268e402",
+          "id": "ccbdc4fb-6147-42a3-8903-c8a9928d69c4",
+          "professor": "2904107f-6ddc-4802-8d52-942f508eb914",
+          "postDate": "Fri Oct 16 2026 01:03:56 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ENGL 145": [
@@ -379895,10 +379908,10 @@
     "department": "ECON",
     "firstName": "Jonathan",
     "lastName": "James",
-    "numEvals": 160,
-    "overallRating": 1.49,
-    "materialClear": 1.31,
-    "studentDifficulties": 1.48,
+    "numEvals": 161,
+    "overallRating": 1.48,
+    "materialClear": 1.3,
+    "studentDifficulties": 1.47,
     "courses": [
       "ECON 201",
       "ECON 221",
@@ -380107,6 +380120,19 @@
           "id": "2d1a9eaf-0b69-4907-bb45-86c1ee89a66f",
           "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
           "postDate": "Wed Oct 14 2026 19:22:27 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Jon Jones is a grading terrorist dont take this class.",
+          "anonymousIdentifier": "79aa9c86d766303c",
+          "id": "58200d90-dc44-4007-84e3-3e1c63954d19",
+          "professor": "66a8823c-ede7-41a2-b783-d36796fefe65",
+          "postDate": "Fri Oct 16 2026 00:14:48 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "ECON 221": [
@@ -654127,10 +654153,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 45,
-    "overallRating": 0.89,
-    "materialClear": 0.91,
-    "studentDifficulties": 0.98,
+    "numEvals": 46,
+    "overallRating": 0.87,
+    "materialClear": 0.89,
+    "studentDifficulties": 0.96,
     "courses": [
       "BUS 319"
     ],
@@ -654782,6 +654808,19 @@
           "id": "f1e8c230-9dd4-439b-8c4b-a9e31c02865b",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Thu Oct 15 2026 20:58:09 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "5th/6th Year",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Sui herself may have written the last two reviews. Today was the first day she showed emotion. Dean Fleming please save us from this AI slop class I genuinely don't know how Cal Poly is allowing for a class written by gen AI to be taught.",
+          "anonymousIdentifier": "43eea51666356873",
+          "id": "3fc173f6-1af0-4d68-b7ca-204e9614c8ac",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "Thu Oct 15 2026 22:04:10 GMT+0000 (Coordinated Universal Time)"
         }
       ]
     }
@@ -790237,9 +790276,9 @@
     "department": "BIO",
     "firstName": "Charles",
     "lastName": "Knight",
-    "numEvals": 135,
-    "overallRating": 1.48,
-    "materialClear": 1.48,
+    "numEvals": 136,
+    "overallRating": 1.47,
+    "materialClear": 1.47,
     "studentDifficulties": 1.53,
     "courses": [
       "BIO 101",
@@ -790257,12 +790296,12 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 5,
-      "Uploads Slides": 21,
+      "Uploads Slides": 22,
       "Supplemental Study Material": 3,
-      "No Breaks During Lecture": 10,
+      "No Breaks During Lecture": 11,
       "Inflexible Deadline Policy": 1,
       "Honor DRC Accommodations": 3,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Fast Response Time": 1
     },
     "reviews": {
@@ -791125,6 +791164,24 @@
           "id": "aad1dc57-c35d-4014-90a6-31e7aede034c",
           "professor": "e083670f-20ff-4745-936b-c2065a026c9d",
           "postDate": "2014-04-01T07:00:00.000Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "He was by far the worst professor I have ever had at Cal Poly. Lectures were boring; half the time he wouldn't even present the material, and if he did, it was just reading off the slides. His tests were extremely difficult, even if you studied, and he even had questions where he would subtract the points you got wrong from your final score. I have had multiple friends who have taken him and have similar comments as well. Do whatever you can to avoid this professor.",
+          "tags": [
+            "Inflexible Grading Policy",
+            "Uploads Slides",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "4160b04e3aad0454",
+          "id": "66a3fc87-5302-4ecb-b2c1-b24b763fab80",
+          "professor": "e083670f-20ff-4745-936b-c2065a026c9d",
+          "postDate": "Fri Oct 16 2026 01:07:44 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "BIO 414": [
