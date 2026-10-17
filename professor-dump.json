@@ -496390,22 +496390,23 @@
     "department": "BIO",
     "firstName": "Aubrey",
     "lastName": "Davis",
-    "numEvals": 24,
-    "overallRating": 2.14,
-    "materialClear": 1.85,
-    "studentDifficulties": 2.21,
+    "numEvals": 25,
+    "overallRating": 2.21,
+    "materialClear": 1.94,
+    "studentDifficulties": 2.28,
     "courses": [
-      "BIO 161"
+      "BIO 161",
+      "BIO 1151"
     ],
     "tags": {
       "Inflexible Deadline Policy": 6,
-      "Supplemental Study Material": 5,
+      "Supplemental Study Material": 6,
       "Inflexible Grading Policy": 4,
-      "Uploads Slides": 7,
+      "Uploads Slides": 8,
       "Inflexible Attendance Policy": 4,
       "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
-      "No Breaks During Lecture": 7,
+      "No Breaks During Lecture": 8,
       "Class Handouts": 1,
       "High In-Person Availability": 1,
       "Flexible Attendance Policy": 1
@@ -496793,6 +496794,26 @@
           "id": "efdc20fe-4f6f-4b40-a092-04a6a9a40f8b",
           "professor": "869c0e34-fe4b-4e79-8853-42e71202fe1c",
           "postDate": "Wed Sep 02 2026 22:59:21 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 1151": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I really enjoyed bio 161. And I really liked Dr. Davis! I\u2019m sure you\u2019re like I was and reading reviews and feeling nervous for the class but take those with a grain of salt. Yes, this is a challenging weed out class and yes, you have to try. Read the slides ahead, go to supplemental workshops and office hrs, review a little every day! Her lectures can be a little monotone but this is just her natural speaking voice, not a reflection of how much she cares about the material. Put into this class what you would like to get out of it.",
+          "tags": [
+            "Supplemental Study Material",
+            "Uploads Slides",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "041ca210076624e8",
+          "id": "87503f6b-9a32-4088-93c4-b8fdab4fe1c6",
+          "professor": "869c0e34-fe4b-4e79-8853-42e71202fe1c",
+          "postDate": "2026-10-17T06:29:02.370Z"
         }
       ]
     }
@@ -654307,12 +654328,13 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 45,
-    "overallRating": 0.89,
-    "materialClear": 0.91,
-    "studentDifficulties": 0.98,
+    "numEvals": 47,
+    "overallRating": 1.02,
+    "materialClear": 1.04,
+    "studentDifficulties": 1.11,
     "courses": [
-      "BUS 319"
+      "BUS 319",
+      "BUS 3319"
     ],
     "tags": {
       "Supplemental Study Material": 3,
@@ -654957,6 +654979,34 @@
           "id": "3fc173f6-1af0-4d68-b7ca-204e9614c8ac",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Thu Oct 15 2026 22:04:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3319": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Lovely professor, lovely class, W extra credit opportunities :D.",
+          "anonymousIdentifier": "b0d2d5551146746e",
+          "id": "a16e8157-3404-4962-aee2-b2194760c984",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-10-17T08:24:56.217Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I LOVE THIS CLASS W CHUANCAI ZHANG",
+          "anonymousIdentifier": "b0d2d5551146746e",
+          "id": "3748a146-0116-4641-86e4-773e0a7fe4fd",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-10-17T08:25:55.145Z"
         }
       ]
     }
