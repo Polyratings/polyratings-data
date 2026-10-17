@@ -48662,14 +48662,19 @@
     "department": "CHEM",
     "firstName": "Yuting",
     "lastName": "Chen",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 1120"
     ],
-    "tags": {}
+    "tags": {
+      "Recorded Lectures": 2,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 2,
+      "Class Handouts": 1
+    }
   },
   {
     "id": "f20cc7c5-e033-49cc-96b1-13f7e2846265",
@@ -50483,7 +50488,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 80,
+    "numEvals": 81,
     "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
@@ -50499,8 +50504,8 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 28,
-      "Fast Response Time": 15,
+      "Zoom Office Hours": 29,
+      "Fast Response Time": 16,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 1,

@@ -849719,14 +849719,19 @@
     "department": "CHEM",
     "firstName": "Yuting",
     "lastName": "Chen",
-    "numEvals": 1,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CHEM"
+      "CHEM 1120"
     ],
-    "tags": {},
+    "tags": {
+      "Recorded Lectures": 2,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 2,
+      "Class Handouts": 1
+    },
     "reviews": {
       "CHEM 1120": [
         {
@@ -849740,6 +849745,42 @@
           "id": "ed01aeb7-8d8b-494c-8da2-d366749020ae",
           "professor": "f1dfc746-bce8-4e4c-afb6-a6df78f1e792",
           "postDate": "Tue Sep 29 2026 22:16:19 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Yuting is an awesome professor. He provides many resources to understand the material and is always ready to answer questions very clearly. He gives you a good idea of whats on the midterms before they happen. Would take his class again!",
+          "tags": [
+            "Recorded Lectures",
+            "Flexible Grading Policy",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "d335765c31e540f0",
+          "id": "82653207-0b48-4c78-a385-70b31ff1b3ed",
+          "professor": "f1dfc746-bce8-4e4c-afb6-a6df78f1e792",
+          "postDate": "2026-10-16T22:22:17.129Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This guy basically teaches like the organic chemistry tutor online. every word he says is incredibly clear, he articulates really well, and keeps the class very engaging. he operates on a flipped class style, where the lecture is what is done for homework, and the homework is done in class, which makes getting your work done so much easier. Even his analogies are some of the best analogies I've heard, and I find myself using them instead of making my own. Absolutely recommend taking his class. If there was a downside, I would say that one lesson can be incredibly simple high school level chemistry, and the next lesson will be something you'll not even be able to pronounce, but this is mostly just because of the departments requirements, so overall really good. (He even brings in cookies after exams)",
+          "tags": [
+            "Recorded Lectures",
+            "Class Handouts",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "041ca210076624e8",
+          "id": "4937ee7d-404b-4669-a27c-00065283b00c",
+          "professor": "f1dfc746-bce8-4e4c-afb6-a6df78f1e792",
+          "postDate": "2026-10-17T02:38:16.619Z"
         }
       ]
     }
@@ -884635,7 +884676,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 80,
+    "numEvals": 81,
     "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.76,
@@ -884651,8 +884692,8 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 28,
-      "Fast Response Time": 15,
+      "Zoom Office Hours": 29,
+      "Fast Response Time": 16,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 1,
@@ -885825,6 +885866,23 @@
           "id": "cd2aab1d-87bf-41e5-8529-cfc77aaf3f37",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "Thu Oct 15 2026 20:39:09 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Tests are fair, and he gives partial credit. He isn\u2019t out to make the class hard just for the sake of it. He\u2019s funny, teaches well, made the class one I actually looked forward to, and he absolutely deserves a high rating. Since it\u2019s a half\u2011term class, there\u2019s a quiz or exam every week, but the quizzes are basically homework problems and the exams are straight from (or really similar to) the textbook. You also get reference sheets for all quizzes and exams.\n\nShout out his New Jersey accent and uncanny ability to learn everyone's names after the first week. If you have the chance to take him, do it.",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time"
+          ],
+          "anonymousIdentifier": "1c5d723d80b6498b",
+          "id": "769d098d-2917-4c37-8622-958d0d03a5d2",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "2026-10-16T21:59:32.214Z"
         }
       ]
     }
