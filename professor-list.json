@@ -51701,14 +51701,18 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 1,
-    "overallRating": 0,
+    "numEvals": 2,
+    "overallRating": 2,
     "materialClear": 0,
-    "studentDifficulties": 2,
+    "studentDifficulties": 1,
     "courses": [
-      "BUS"
+      "BUS 3319"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Pop Quizzes": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "ff3ca29b-b39b-4d71-b5e3-5842283d67dd",
