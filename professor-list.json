@@ -12791,6 +12791,24 @@
     "tags": {}
   },
   {
+    "id": "3d89d2ab-e3c6-4613-8c1c-591ef83a33d0",
+    "department": "PHYS",
+    "firstName": "Ian",
+    "lastName": "Descamps",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
+    }
+  },
+  {
     "id": "3d989c52-cb92-4b81-9ec6-838beb46fc23",
     "department": "ENGL",
     "firstName": "Ryan",
@@ -37116,10 +37134,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 47,
-    "overallRating": 1.02,
-    "materialClear": 1.04,
-    "studentDifficulties": 1.11,
+    "numEvals": 48,
+    "overallRating": 1.08,
+    "materialClear": 1.1,
+    "studentDifficulties": 1.17,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -51677,6 +51695,20 @@
     "courses": [
       "EE 375"
     ]
+  },
+  {
+    "id": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+    "department": "BUS",
+    "firstName": "Tamara",
+    "lastName": "Sui",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 2,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {}
   },
   {
     "id": "ff3ca29b-b39b-4d71-b5e3-5842283d67dd",

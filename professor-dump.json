@@ -219354,6 +219354,45 @@
     }
   },
   {
+    "id": "3d89d2ab-e3c6-4613-8c1c-591ef83a33d0",
+    "department": "PHYS",
+    "firstName": "Ian",
+    "lastName": "Descamps",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "PHYS 1141": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This is professor Ians first year teaching at cal poly, and if I could describe him in a single sentence, it would be that he definitely teaches like one. From what I can gather, a lot of people have pretty mixed feelings about him, but I think most people are being pretty harsh. when you go into class, the first thing you do are these online questions that are super simple, not graded, and are done essentially as attendence. about 1/3 of his classes are just these easy online questions about what we're learning, and everything else is your pretty standard lecture. Its extremely clear he knows what he is talking about, and I would say does a pretty good job at explaining topics and teaching the class, but its definetly nothing unqiue. The midterm quizes are pretty challenging, so a lot of studying before a test is a must. the only part that I would say really sucks is the labs, since often its really difficult to understand the instructions on what to do, but they also are the only thing he hasnt written, since he took them from the department. To be honest however, Ian cares a lot and really enjoys interacting with the students and talking about a range of different subjects even outside of physics. I think most of the people who don't like him simply havent cared enough to get to know him, so I would highly recommend going to his office hours to chat with him or just chat with him after class. hes a super cool dude",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Class Handouts",
+            "Flexible Grading Policy"
+          ],
+          "id": "90c9340c-92aa-477e-8a13-5678235e03ff",
+          "professor": "3d89d2ab-e3c6-4613-8c1c-591ef83a33d0",
+          "postDate": "2026-10-17T02:48:55.814Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "3d989c52-cb92-4b81-9ec6-838beb46fc23",
     "department": "ENGL",
     "firstName": "Ryan",
@@ -654328,10 +654367,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 47,
-    "overallRating": 1.02,
-    "materialClear": 1.04,
-    "studentDifficulties": 1.11,
+    "numEvals": 48,
+    "overallRating": 1.08,
+    "materialClear": 1.1,
+    "studentDifficulties": 1.17,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -655007,6 +655046,19 @@
           "id": "3748a146-0116-4641-86e4-773e0a7fe4fd",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "2026-10-17T08:25:55.145Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "he dapped me up w mans",
+          "anonymousIdentifier": "16da71f1db49ffd5",
+          "id": "d76bae58-e17c-48ea-afd2-2ec12731c816",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-10-17T21:41:38.281Z"
         }
       ]
     }
@@ -906391,6 +906443,36 @@
           "id": "eac07550-53da-4c74-b9d4-1e825b5e18bb",
           "professor": "ff07da6e-b997-44cf-9ecc-ea361361e6b2",
           "postDate": "2013-02-01T08:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+    "department": "BUS",
+    "firstName": "Tamara",
+    "lastName": "Sui",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 0,
+    "studentDifficulties": 2,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {},
+    "reviews": {
+      "BUS 3319": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Worst class I\u2019ve taken. It seems Sui follows Zhang\u2019s blueprint. Horrible idea already. She simply reads slides word for word, most of which are buzz words. She seems kind and I hope she figures out how to make her class her own and actually valuable.",
+          "id": "6b71ebb9-5b88-470f-9ae4-78f43feb0b27",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-16T20:53:06.834Z"
         }
       ]
     }
