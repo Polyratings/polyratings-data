@@ -358624,13 +358624,14 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 13,
-    "overallRating": 2.99,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.38,
+    "numEvals": 14,
+    "overallRating": 3.06,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.42,
     "courses": [
       "BUS 346",
-      "BUS 451"
+      "BUS 451",
+      "BUS 4451"
     ],
     "tags": {
       "Zoom Office Hours": 2,
@@ -358838,6 +358839,21 @@
           "id": "bb445ae7-a433-4ef4-b3e5-8eee1f043309",
           "professor": "6287909f-1e0e-47fa-9d65-f556afab08d8",
           "postDate": "Fri Oct 16 2026 08:40:20 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4451": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This class(BUS 451) is very easy and Straightforward, thx to professors! She is very nice and kind! The course work is very light and I definitely recommend, if you want easy class for marketing elective!",
+          "anonymousIdentifier": "3529249ddfd90dc6",
+          "id": "34aa7f6f-169b-409d-b9d8-b1382a2a19f2",
+          "professor": "6287909f-1e0e-47fa-9d65-f556afab08d8",
+          "postDate": "2026-10-19T08:00:19.539Z"
         }
       ]
     }
@@ -455403,19 +455419,21 @@
     "department": "PHIL",
     "firstName": "Kyle",
     "lastName": "Dickey",
-    "numEvals": 10,
-    "overallRating": 3.2,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.3,
+    "numEvals": 11,
+    "overallRating": 3,
+    "materialClear": 3.09,
+    "studentDifficulties": 3.09,
     "courses": [
-      "PHIL 126"
+      "PHIL 126",
+      "PHIL 1126"
     ],
     "tags": {
       "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Recorded Lectures": 1,
-      "Hybrid Option": 1
+      "Hybrid Option": 1,
+      "High In-Person Availability": 1
     },
     "reviews": {
       "PHIL 126": [
@@ -455561,6 +455579,24 @@
           "id": "b4d7b9dd-524a-40a4-ab7e-97a5e4a51a8e",
           "professor": "7c2c4d24-4950-414f-8a09-359ec4e406d7",
           "postDate": "Wed Aug 12 2026 05:22:48 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PHIL 1126": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Way too hard for a GE",
+          "tags": [
+            "High In-Person Availability"
+          ],
+          "anonymousIdentifier": "830521df712d19d3",
+          "id": "f70fc9c4-0c19-4ec8-bd71-b75db1495841",
+          "professor": "7c2c4d24-4950-414f-8a09-359ec4e406d7",
+          "postDate": "2026-10-19T05:26:07.430Z"
         }
       ]
     }
@@ -456470,12 +456506,13 @@
     "department": "STAT",
     "firstName": "Yi-Hui",
     "lastName": "Wang",
-    "numEvals": 9,
-    "overallRating": 1.44,
-    "materialClear": 1,
-    "studentDifficulties": 1.89,
+    "numEvals": 10,
+    "overallRating": 1.5,
+    "materialClear": 0.9,
+    "studentDifficulties": 1.8,
     "courses": [
-      "STAT 218"
+      "STAT 218",
+      "MATH 1110"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
@@ -456640,6 +456677,22 @@
           "id": "7fb84b38-eade-4b96-b142-2bf305d5ce17",
           "professor": "7c94e5e0-f97c-4fcb-a7c6-509230492590",
           "postDate": "Wed Jun 03 2026 16:45:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1110": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Does not teach at all. You have to teach yourself everything. Readings from the textbook and online quizzes on the readings as homework. And then the actual homework assignment due on Friday. Handout based on the reading done in class with students around you and that takes up the whole class. You and your peers (who also don\u2019t know what they\u2019re doing) have to get through the assignment which is thankfully graded on completion. 2 midterms and a final. I am grateful for the sheet of paper we are allowed to write notes on and bring in for our midterms, otherwise I would be failing\u2026 she seems like a nice person, but doesn\u2019t really know how to teach or explain concepts to others.",
+          "tags": [],
+          "anonymousIdentifier": "40209d3fdcdcb852",
+          "id": "bf9352d5-2e75-4fd0-8ef2-4b6b7308a6ca",
+          "professor": "7c94e5e0-f97c-4fcb-a7c6-509230492590",
+          "postDate": "2026-10-19T08:05:54.147Z"
         }
       ]
     }
@@ -654380,10 +654433,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 48,
-    "overallRating": 1.08,
-    "materialClear": 1.1,
-    "studentDifficulties": 1.17,
+    "numEvals": 50,
+    "overallRating": 1.04,
+    "materialClear": 1.06,
+    "studentDifficulties": 1.15,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -655072,6 +655125,32 @@
           "id": "d76bae58-e17c-48ea-afd2-2ec12731c816",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "2026-10-17T21:41:38.281Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "btw those 4/4's all came in at once. That's chuancai rating himself, AGAIN. Bro told us in class to not bomb his course evals but i'm fosho giving him a 1/100 on course evals (not even bombing his evals, it's just the truth)",
+          "anonymousIdentifier": "9f34fbdb493b35c1",
+          "id": "b1b9a526-3d34-4d5b-bf37-08eaf3e1026b",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-10-19T05:13:11.765Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Might be the worst professor I have ever had. All he talks about is his Z-Change website and coins we can use to get quail eggs and also how we don't get 20% extra credit anymore. He's way too proud about not being able to cheat on his tests and talks more about that then teaching us his AI material. Tests are extremely hard and he knows it. He also updates his website every 27 seconds so that makes it a lot easier to know whats going on. If you guys would rather have starbucks giftcards than an A in the class then you should take this course. ALso it doesn't matter if you are sick/dying you wont get participation points for the class you missed.",
+          "anonymousIdentifier": "65446ab37e78fcff",
+          "id": "bbc1c55f-4c16-4f66-a74b-7bf77da4b929",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-10-19T05:18:46.398Z"
         }
       ]
     }

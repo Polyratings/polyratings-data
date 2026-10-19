@@ -20466,13 +20466,14 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 13,
-    "overallRating": 2.99,
-    "materialClear": 3.69,
-    "studentDifficulties": 3.38,
+    "numEvals": 14,
+    "overallRating": 3.06,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.42,
     "courses": [
       "BUS 346",
-      "BUS 451"
+      "BUS 451",
+      "BUS 4451"
     ],
     "tags": {
       "Zoom Office Hours": 2,
@@ -25956,19 +25957,21 @@
     "department": "PHIL",
     "firstName": "Kyle",
     "lastName": "Dickey",
-    "numEvals": 10,
-    "overallRating": 3.2,
-    "materialClear": 3.3,
-    "studentDifficulties": 3.3,
+    "numEvals": 11,
+    "overallRating": 3,
+    "materialClear": 3.09,
+    "studentDifficulties": 3.09,
     "courses": [
-      "PHIL 126"
+      "PHIL 126",
+      "PHIL 1126"
     ],
     "tags": {
       "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Recorded Lectures": 1,
-      "Hybrid Option": 1
+      "Hybrid Option": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -26068,12 +26071,13 @@
     "department": "STAT",
     "firstName": "Yi-Hui",
     "lastName": "Wang",
-    "numEvals": 9,
-    "overallRating": 1.44,
-    "materialClear": 1,
-    "studentDifficulties": 1.89,
+    "numEvals": 10,
+    "overallRating": 1.5,
+    "materialClear": 0.9,
+    "studentDifficulties": 1.8,
     "courses": [
-      "STAT 218"
+      "STAT 218",
+      "MATH 1110"
     ],
     "tags": {
       "Inflexible Attendance Policy": 2,
@@ -37134,10 +37138,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 48,
-    "overallRating": 1.08,
-    "materialClear": 1.1,
-    "studentDifficulties": 1.17,
+    "numEvals": 50,
+    "overallRating": 1.04,
+    "materialClear": 1.06,
+    "studentDifficulties": 1.15,
     "courses": [
       "BUS 319",
       "BUS 3319"
