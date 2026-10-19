@@ -63794,10 +63794,10 @@
     "department": "GRC",
     "firstName": "So Young",
     "lastName": "Song",
-    "numEvals": 2,
-    "overallRating": 1.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 1,
+    "materialClear": 1.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "GRC 1020"
     ],
@@ -63841,6 +63841,19 @@
           "id": "f19d04b9-851b-4e60-aa50-d3ab78299a84",
           "professor": "11635a83-0aa0-492c-8921-0d195a2ee12e",
           "postDate": "Fri Oct 16 2026 06:14:53 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I don't know why So Young's class is so hard for no reason... the last thing you'll be when you finish that class is YOUNG. You'll be So OLD and tired and ready to leave Cal Poly even though you have 3 years left...",
+          "anonymousIdentifier": "ee7a7eeb757b0fe8",
+          "id": "513f61fa-9a09-4618-857a-ae4b60d070e9",
+          "professor": "11635a83-0aa0-492c-8921-0d195a2ee12e",
+          "postDate": "2026-10-19T04:20:27.413Z"
         }
       ]
     }
@@ -906452,10 +906465,10 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 2,
-    "overallRating": 2,
+    "numEvals": 3,
+    "overallRating": 1.33,
     "materialClear": 0,
-    "studentDifficulties": 1,
+    "studentDifficulties": 0.67,
     "courses": [
       "BUS 3319"
     ],
@@ -906495,6 +906508,19 @@
           "id": "01a7e65e-fa92-41ac-88f6-3ebaf0900ac0",
           "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
           "postDate": "2026-10-18T04:51:33.841Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "actual ai slop vibecoded POS shit class just like mr zhangs, id rather get waterboarded every morning than have to go to this class every tues/thurs and get destroyed by exams where the \"MCQ\" has fill in the blanks...",
+          "anonymousIdentifier": "da1c0d46e542365f",
+          "id": "2d3569c8-42f8-4925-9142-b24539db5b49",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-18T21:24:33.241Z"
         }
       ]
     }
