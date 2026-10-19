@@ -39416,19 +39416,23 @@
     "department": "AEPS",
     "firstName": "Tiffany",
     "lastName": "Faulstich",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "AEPS 127",
-      "AEPS 381"
+      "AEPS 381",
+      "AEPS 1123"
     ],
     "tags": {
       "Class Handouts": 2,
       "Flexible Grading Policy": 1,
       "Uploads Slides": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "AEPS 127": [
@@ -39481,6 +39485,26 @@
           "id": "d333b822-0c37-46f2-9f35-a77ac6fd3649",
           "professor": "0b0836c9-598a-4af2-b738-2018f87a5d36",
           "postDate": "Wed May 22 2024 16:30:15 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "AEPS 1123": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Tiffany is an amazing professor. One of the best professors I have ever had. She is extremely passionate about her PLSC classes and goes above and beyond to make her students feel comfortable of the material. She runs the campus Arboretum and has many connections in the landscape horticulture industry which she uses to get student jobs and internships.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Honor DRC Accommodations"
+          ],
+          "anonymousIdentifier": "35f7cb7d1e2bed27",
+          "id": "95b6275d-3eb0-436f-a0c6-3123bb4b3af4",
+          "professor": "0b0836c9-598a-4af2-b738-2018f87a5d36",
+          "postDate": "2026-10-19T18:17:43.621Z"
         }
       ]
     }
@@ -51179,7 +51203,7 @@
     "department": "POLS",
     "firstName": "Jared",
     "lastName": "Van Ramshorst",
-    "numEvals": 44,
+    "numEvals": 45,
     "overallRating": 3.94,
     "materialClear": 3.94,
     "studentDifficulties": 3.94,
@@ -51187,7 +51211,8 @@
       "POLS 112",
       "POLS 310",
       "POLS 251",
-      "POLS 225"
+      "POLS 225",
+      "POLS 1112"
     ],
     "tags": {
       "High In-Person Availability": 22,
@@ -51928,6 +51953,21 @@
           "id": "6b8376ee-16e5-4d6b-8ca0-e195b83387df",
           "professor": "0e7837e3-9449-424b-af24-9d11f2809e63",
           "postDate": "Tue Dec 23 2025 03:05:12 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "POLS 1112": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "1 star guy is bigoted. Jared is the best professor in the POLS department.",
+          "anonymousIdentifier": "e333ace0ebb3e02d",
+          "id": "09446050-1370-4061-8d39-25909584081c",
+          "professor": "0e7837e3-9449-424b-af24-9d11f2809e63",
+          "postDate": "2026-10-19T15:38:53.225Z"
         }
       ]
     }
@@ -140707,24 +140747,27 @@
     "department": "SPAN",
     "firstName": "Maria",
     "lastName": "Garcia-Velasco",
-    "numEvals": 6,
-    "overallRating": 3.67,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.29,
+    "materialClear": 3,
+    "studentDifficulties": 3.43,
     "courses": [
       "SPAN 103",
       "SPAN 101",
       "SPAN 203",
-      "SPAN 301"
+      "SPAN 301",
+      "SPAN 1101"
     ],
     "tags": {
       "Fast Response Time": 4,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Flexible Grading Policy": 5,
       "Pop Quizzes": 1,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "SPAN 103": [
@@ -140835,6 +140878,26 @@
           "id": "ed3ccf64-594b-4c3d-ba54-2835388541ed",
           "professor": "27086c0a-51f7-43ec-acbf-40b07b0e7193",
           "postDate": "Wed Jun 03 2026 23:45:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "SPAN 1101": [
+        {
+          "grade": "B",
+          "gradeLevel": "5th/6th Year",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Professor Garcia is very nice and respectful to her students. However, I found the description for this class in the course catalog misleading. It says this class is meant for absolute beginners who do not have any prior education or background in Spanish. That is the category of student I was when I walked through the door on the first day of class. If my situation applies to you then you will probably have a tough time getting through this course. I was definitely surprised that she started teaching in Spanish from the start as if we already understood everything she was saying, which can be frustrating for someone like me. She doesn't take time to explain anything in a way that students can understand, or give context in English for what different words and grammar protocols are in Spanish. The classes are just the professor reading from the textbook, and some boring activities that no one wants to participate in. She will deduct points from your grade if you say anything in English during the activities. Most of the exercises felt forced, which is probably why 75% of the class has already dropped or stopped showing up. Garcia-Velasco should probably be teaching some of the more advanced Spanish classes. Avoid this professor if you want to succeed.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Class Handouts",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "499b9fb3fc67764e",
+          "id": "f9c56e2e-a1fa-41cc-b2ad-1c4961ffd2a0",
+          "professor": "27086c0a-51f7-43ec-acbf-40b07b0e7193",
+          "postDate": "2026-10-19T22:09:17.679Z"
         }
       ]
     }
@@ -546106,15 +546169,16 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 42,
-    "overallRating": 2.38,
-    "materialClear": 2.67,
-    "studentDifficulties": 2.71,
+    "numEvals": 43,
+    "overallRating": 2.32,
+    "materialClear": 2.61,
+    "studentDifficulties": 2.74,
     "courses": [
       "EE 251",
       "EE 307",
       "EE 347",
-      "EE 3306"
+      "EE 3306",
+      "EE 3307"
     ],
     "tags": {
       "Does Not Use Canvas": 1,
@@ -546721,6 +546785,21 @@
           "id": "b927c762-f11b-44e2-aa2d-2485f184e788",
           "professor": "94803593-5bb7-4778-a758-a554481f6281",
           "postDate": "Wed Sep 23 2026 00:30:09 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 3307": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 4,
+          "rating": "bad, took it in winter 2025, fake ratings, did not learn anything",
+          "anonymousIdentifier": "809f69b0d8cdffe6",
+          "id": "8c5beaf6-7841-4b98-a42d-b734f7495d61",
+          "professor": "94803593-5bb7-4778-a758-a554481f6281",
+          "postDate": "2026-10-19T22:13:34.035Z"
         }
       ]
     }
@@ -782682,10 +782761,10 @@
     "department": "NR",
     "firstName": "Samantha",
     "lastName": "Gill",
-    "numEvals": 34,
-    "overallRating": 1.9,
-    "materialClear": 1.9,
-    "studentDifficulties": 1.8,
+    "numEvals": 35,
+    "overallRating": 1.96,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.86,
     "courses": [
       "FNR 201",
       "FNR 215",
@@ -782695,13 +782774,17 @@
       "FNR 247",
       "FNR 315",
       "FNR 318",
-      "AERO 414"
+      "AERO 414",
+      "NR 3315"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
       "Inflexible Grading Policy": 2,
       "Inflexible Deadline Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Recorded Lectures": 1,
+      "Zoom Office Hours": 1,
+      "Pop Quizzes": 1
     },
     "reviews": {
       "FNR 201": [
@@ -783140,6 +783223,26 @@
           "id": "45e4178f-a0f2-4ab5-bdb4-e0ff6598edad",
           "professor": "dd7e7ab3-10d9-4207-9d58-85d683884d2a",
           "postDate": "2016-01-01T08:00:00.000Z"
+        }
+      ],
+      "NR 3315": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. Gill is one of the best professors I have had at Cal Poly. Her classes are hard, her grading is rough, and but she is smart, helpful, and knows what she is doing. She sets a very high standard for her students so, be prepared to meet it.\nForest Mensuration is one of the hardest classes FFS majors will take. You will probably hate the class and you will always be behind but, out of all my classes at Cal Poly, NR 315 (now 3315) is the one where I learned the most and retained the most information. My biggest advice is to go to her office hours. I went every week. She is super helpful in a one-on-one setting and really tried helping me understand the material better. \n\nI have never had a problem with her but I know many people who have. If you take a class with her then you should know that she is very open about her personal health. This can affect her mood and she will sometimes cancel class last minute if her pain continues. Again, she is very open about this and allows students to call her out if she is being too harsh. \n\nMany FFS professors and their classes are easy. In our major, we get a lot of easy classes and even some where we really don't learn much of anything. This class is hard for everyone but, it is well worth taking with Dr. Gill both by FFS and even ENVM majors.",
+          "tags": [
+            "Recorded Lectures",
+            "Zoom Office Hours",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "35f7cb7d1e2bed27",
+          "id": "2a121c61-5b23-45d0-8f9b-81d0d666a81c",
+          "professor": "dd7e7ab3-10d9-4207-9d58-85d683884d2a",
+          "postDate": "2026-10-19T18:32:13.412Z"
         }
       ]
     }
