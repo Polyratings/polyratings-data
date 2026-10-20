@@ -14906,15 +14906,18 @@
     "department": "BUS",
     "firstName": "Yijing",
     "lastName": "Cui",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 2215"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -23595,7 +23598,7 @@
     "department": "CE",
     "firstName": "Eltahry",
     "lastName": "Elghandour",
-    "numEvals": 149,
+    "numEvals": 148,
     "overallRating": 2.69,
     "materialClear": 2.55,
     "studentDifficulties": 2.73,
@@ -27241,10 +27244,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 236,
-    "overallRating": 2.69,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.42,
+    "numEvals": 237,
+    "overallRating": 2.68,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.41,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -27258,7 +27261,8 @@
       "MATH 241",
       "MATH 244",
       "MATH 328",
-      "MATH 344"
+      "MATH 344",
+      "MATH 1263"
     ],
     "tags": {
       "Flexible Grading Policy": 5,
@@ -27267,9 +27271,9 @@
       "Supplemental Study Material": 9,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
-      "High In-Person Availability": 9,
+      "High In-Person Availability": 10,
       "Fast Response Time": 10,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 0
@@ -37147,10 +37151,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 50,
-    "overallRating": 1.04,
-    "materialClear": 1.06,
-    "studentDifficulties": 1.15,
+    "numEvals": 51,
+    "overallRating": 1.1,
+    "materialClear": 1.12,
+    "studentDifficulties": 1.21,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -48227,17 +48231,18 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 1,
+    "studentDifficulties": 1,
     "courses": [
       "CPE 2300"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Pop Quizzes": 1,
-      "No Breaks During Lecture": 1
+      "Pop Quizzes": 2,
+      "No Breaks During Lecture": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -50770,6 +50775,24 @@
       "EE 347",
       "EE 348"
     ]
+  },
+  {
+    "id": "fad3ec6f-95ba-4d89-9303-683a45b48ded",
+    "department": "CD",
+    "firstName": "Natasha",
+    "lastName": "Duell",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CD"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    }
   },
   {
     "id": "fad6697d-139a-422c-b547-c87053c26b26",

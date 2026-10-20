@@ -262840,15 +262840,18 @@
     "department": "BUS",
     "firstName": "Yijing",
     "lastName": "Cui",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 2215"
     ],
     "tags": {
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "BUS 2215": [
@@ -262866,6 +262869,24 @@
           "id": "ee737bdd-10bf-4302-b132-970ea708c28d",
           "professor": "472187d6-25df-4443-841d-d3991791e71d",
           "postDate": "Wed Oct 14 2026 17:35:22 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This is Dr. Cui's first semester teaching at Cal Poly (she has taught at 3 other universities) and she has quickly become one of my favorite professors at Cal Poly. She genuinely is so excited to teach the class and that excitement causes her students to be more engaged. She is very positive wants her students to succeed. Compared to Kaney, there is less homework, the lectures aren't rushed, and the midterms are spaced out perfectly. her requirements and guidelines are very clearly laid out and she responds to feedback from her students reactively, making small changes such as adding more study resources or practice problems. There are multiple ways to get extra credit (one requires to participate by answering questions in class, and the other is for submitting comprehensive notes for each chapter). You can only choose one of these and you will get maximum 2% extra credit. I know a lot of students in James Kaney's managerial class and he is rushing through the content (his second midterm is WEEKS before Cui's second midterm). My only gripe is that she has a somewhat strong accent (was not a problem for me at all but just something to note). \nHomework is slightly more difficult than the weekly quizzes and midterm so it takes a little bit of a long time, but she gives the class the weekend plus 2 days to complete it. You get at least 10 days to complete each homework. \nShe has weekly quizzes, but no worries since she believes that studying can be done while learning the content in class, so by the team you get to each quiz and completed the homework, you will not need to study any more. She gives formulas when applicable for the most part as well.",
+          "tags": [
+            "High In-Person Availability",
+            "Supplemental Study Material",
+            "Honor DRC Accommodations"
+          ],
+          "anonymousIdentifier": "7c0a9da44fdd483d",
+          "id": "9f9fd15e-5aff-40a6-a118-f455e8daa558",
+          "professor": "472187d6-25df-4443-841d-d3991791e71d",
+          "postDate": "2026-10-20T00:15:58.680Z"
         }
       ]
     }
@@ -411799,7 +411820,7 @@
     "department": "CE",
     "firstName": "Eltahry",
     "lastName": "Elghandour",
-    "numEvals": 149,
+    "numEvals": 148,
     "overallRating": 2.69,
     "materialClear": 2.55,
     "studentDifficulties": 2.73,
@@ -413296,18 +413317,6 @@
           "recognizesStudentDifficulties": 2.68,
           "rating": "Repulsive questions contented him few extensive supported. Of remarkably thoroughly he appearance in. Supposing tolerably applauded or of be. Suffering unfeeling so objection agreeable allowance me of. Ask within entire season sex common far who family. As be valley warmth assure on. Park girl they rich hour new well way you. Face ye be me been room we sons fond.",
           "id": "d5c8c385-1ca7-4e76-8131-7324d8e1ef29",
-          "professor": "7186d2aa-ae12-41e3-92ef-4ef1cffcefe8",
-          "postDate": "2011-02-01T08:00:00.000Z"
-        },
-        {
-          "grade": "NC",
-          "gradeLevel": "Grad Student",
-          "courseType": "General Ed",
-          "overallRating": 2.64,
-          "presentsMaterialClearly": 2.52,
-          "recognizesStudentDifficulties": 2.68,
-          "rating": "%01 ????? s,???? ??p??? ?no? ?o %01 o? dn ?q u?? ????? ??p??? ???x? ???? os?? ?? ?no? ?o? ?n? ??? s? s??? ???? ?u??? p?no? ? ?s?? ??? ?o? dn ??,no? ?? ??n? s??? ?noq? ?u??? ? ???? uo 081 ? p?u?n? ?????? ? ??pn?s o? ?s?? ?? s???? ????? 'q?? ??? uo s??s?u? ??? s?nd ?? ?np s? ??o???o? ????? ???p??? ? ??? no? '??o???o? ?no? uo ??o? no? ?? ??s?? ???o?? ??d???n? ??? ??? ? ???o???o? ??? o? ???????s pu? ???????s s????? ?so??? ???? s?z?nb pu? ?s?? s?? pu? '??? p????o?dd? no? ????u??? ?n?d??? ???? s?? ?? ?s?? ?????o s?? ?o p??u??p? ???? p??u no? s? ??n? s? no? d??? pu? ???s ???? ?? pu? s?no? ?????o s?? o? o? ?s??n???? s?? u? ????? ???? s?? ?? ??? op u??? ???? ???s ??? ?? ?u???s s? ??????? ??? ???? ?u?pu??s??pun uo pu? ???????? ??u uo ?????u??uo? u?? no? ?? ?s???????? ???s s?? s?ou? ?? pu? ????? u??q ???? ? u??? ???uo? ?u?????? u??q s?? pu? ??????? ????? ?u???p ? s? ?? ??p",
-          "id": "fed8d8f6-1e19-43b6-8510-7e8f0d020a79",
           "professor": "7186d2aa-ae12-41e3-92ef-4ef1cffcefe8",
           "postDate": "2011-02-01T08:00:00.000Z"
         },
@@ -481492,10 +481501,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 236,
-    "overallRating": 2.69,
-    "materialClear": 2.56,
-    "studentDifficulties": 2.42,
+    "numEvals": 237,
+    "overallRating": 2.68,
+    "materialClear": 2.55,
+    "studentDifficulties": 2.41,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -481509,7 +481518,8 @@
       "MATH 241",
       "MATH 244",
       "MATH 328",
-      "MATH 344"
+      "MATH 344",
+      "MATH 1263"
     ],
     "tags": {
       "Flexible Grading Policy": 5,
@@ -481518,9 +481528,9 @@
       "Supplemental Study Material": 9,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 1,
-      "High In-Person Availability": 9,
+      "High In-Person Availability": 10,
       "Fast Response Time": 10,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 0
@@ -484521,6 +484531,25 @@
           "id": "4d98ba62-e785-474e-b944-01595f2ec8be",
           "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
           "postDate": "Fri Jul 25 2025 09:54:04 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1263": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I'm truly unsure of how to rate this man. There are times during his lectures that he makes complete sense and explains it well, but for the most part, don't expect to understand his methods of teaching right off the bat. Going into the class I felt confident since I had already taken and passed Calc 2 with an A, however Mike requires so much more than what most people are typically taught. While that isn't inherently a bad thing, Mike grades harshly for the smallest of things, and don't ask him about it, he will make you feel like an idiot. To pass his class, I'd recommend going to his office hours, he does make slightly more sense there, but still be prepared to be called an idiot. Also don't fully rely on the notes he does in class, if you copy his methods (and subsequently his mistakes) and repeat that on a test he will take off way more points than he should and make you feel stupid for asking why. I don't recommend him as a teacher if you are the type of person who wants someone to explain things without diminishing your hopes and dreams.",
+          "tags": [
+            "High In-Person Availability",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "515681b71f6671c2",
+          "id": "87e4194b-94a8-4881-8ebd-5bd36068ec23",
+          "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
+          "postDate": "2026-10-20T00:46:48.440Z"
         }
       ]
     }
@@ -654512,10 +654541,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 50,
-    "overallRating": 1.04,
-    "materialClear": 1.06,
-    "studentDifficulties": 1.15,
+    "numEvals": 51,
+    "overallRating": 1.1,
+    "materialClear": 1.12,
+    "studentDifficulties": 1.21,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -655230,6 +655259,19 @@
           "id": "bbc1c55f-4c16-4f66-a74b-7bf77da4b929",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "2026-10-19T05:18:46.398Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Chuancai Zhang isn't even that bad of a professor. Sure his course material isn't the most interesting, but there are tons of extra credit opportunities to increase your grade. As long as you study adequately for the exams, an A is attainable. It seems like a great majority of the students leaving negative reviews here are putting in more effort into writing a review than the class itself.",
+          "anonymousIdentifier": "b0d2d5551146746e",
+          "id": "b4c8cf5a-d490-4368-854d-d27b7dc627c4",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-10-20T02:27:28.357Z"
         }
       ]
     }
@@ -845215,17 +845257,18 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 0.5,
-    "studentDifficulties": 0.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 1,
+    "studentDifficulties": 1,
     "courses": [
       "CPE 2300"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Pop Quizzes": 1,
-      "No Breaks During Lecture": 1
+      "Pop Quizzes": 2,
+      "No Breaks During Lecture": 1,
+      "Does Not Use Canvas": 1
     },
     "reviews": {
       "CPE 2300": [
@@ -845257,6 +845300,23 @@
           "id": "36801aa0-67f1-4719-879a-c5659536b182",
           "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
           "postDate": "Thu Oct 15 2026 05:07:07 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Dr. Yasin is a kind professor but unfortunately his lectures are extremely difficult to follow and concepts usually have to be self taught among myself and my peers. He generates all his homework, quizzes, and midterms with chat gtp so there are oftentimes mistakes in resources and questions that we are supposed to use for study. To add, Dr. Yasin has not graded a single assignment 2/3 of the way through the semester. I can appreciate the effort he puts into his lectures but he is unaware that a majority of the class is struggling and doesnt have a clue what is going on. Overall, if you take his class be prepared to teach yourself all concepts through chat generated homework.",
+          "tags": [
+            "Pop Quizzes",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "76e86ebf39836b78",
+          "id": "616bedaf-005b-4459-ad4f-2bedfac4df53",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "2026-10-20T01:06:21.143Z"
         }
       ]
     }
@@ -889508,6 +889568,45 @@
           "id": "1a58061d-6bec-410b-bd4b-8b02b0cd5784",
           "professor": "fab98276-5984-4b8e-a6ff-9e1345c23c07",
           "postDate": "2017-06-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fad3ec6f-95ba-4d89-9303-683a45b48ded",
+    "department": "CD",
+    "firstName": "Natasha",
+    "lastName": "Duell",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CD"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
+    },
+    "reviews": {
+      "CD 3329": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Natasha is the best! She is a great lecturer and is beyond understanding! Research methods is a heavy course but she does an amazing job breaking the content down. She has a few projects, but gives you ample time to work on them in class, and is super helpful if you need her outside of class. She has lots of class group work, most you don't need to turn in. She even made a study guide for our midterm! Overall, super engaging and she is a very understanding professor. Take her course!!",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Class Handouts",
+            "Supplemental Study Material"
+          ],
+          "id": "57ece9b4-fc32-4806-a458-3bd45939639e",
+          "professor": "fad3ec6f-95ba-4d89-9303-683a45b48ded",
+          "postDate": "2026-10-19T19:22:48.348Z"
         }
       ]
     }
