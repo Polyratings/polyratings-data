@@ -14478,16 +14478,17 @@
     "department": "BUS",
     "firstName": "Pratish",
     "lastName": "Patel",
-    "numEvals": 31,
-    "overallRating": 2.61,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.37,
+    "numEvals": 32,
+    "overallRating": 2.62,
+    "materialClear": 2.58,
+    "studentDifficulties": 2.39,
     "courses": [
       "TH 407",
       "BUS 434",
       "BUS 435",
       "BUS 441",
-      "BUS 442"
+      "BUS 442",
+      "BUS 3440"
     ],
     "tags": {
       "High In-Person Availability": 1,
@@ -29009,14 +29010,15 @@
     "department": "WGS",
     "firstName": "Gabriel",
     "lastName": "Medina-Kim",
-    "numEvals": 35,
-    "overallRating": 0.46,
-    "materialClear": 0.7,
-    "studentDifficulties": 0.6,
+    "numEvals": 36,
+    "overallRating": 0.56,
+    "materialClear": 0.79,
+    "studentDifficulties": 0.69,
     "courses": [
       "WGS 350",
       "ES 350",
-      "ISLA 303"
+      "ISLA 303",
+      "WGS 3350"
     ],
     "tags": {
       "Inflexible Grading Policy": 6,
@@ -29025,7 +29027,9 @@
       "Flexible Deadline Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -32616,10 +32620,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 38,
-    "overallRating": 3.04,
-    "materialClear": 2.95,
-    "studentDifficulties": 2.93,
+    "numEvals": 39,
+    "overallRating": 2.96,
+    "materialClear": 2.87,
+    "studentDifficulties": 2.85,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -32631,14 +32635,15 @@
       "MATH 143",
       "MATH 248",
       "MATH 206",
-      "MATH 330"
+      "MATH 330",
+      "MATH 3290"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 7,
+      "Class Handouts": 8,
       "Honor DRC Accommodations": 3,
       "Flexible Attendance Policy": 3,
-      "Fast Response Time": 3,
+      "Fast Response Time": 4,
       "Inflexible Grading Policy": 1,
       "Supplemental Study Material": 3,
       "High In-Person Availability": 1
@@ -37158,10 +37163,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 51,
-    "overallRating": 1.1,
-    "materialClear": 1.12,
-    "studentDifficulties": 1.21,
+    "numEvals": 54,
+    "overallRating": 1.19,
+    "materialClear": 1.2,
+    "studentDifficulties": 1.29,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -42557,19 +42562,20 @@
     "department": "BUS",
     "firstName": "Lisa",
     "lastName": "Anderson",
-    "numEvals": 16,
-    "overallRating": 3.24,
-    "materialClear": 3.51,
-    "studentDifficulties": 3.18,
+    "numEvals": 17,
+    "overallRating": 3.28,
+    "materialClear": 3.54,
+    "studentDifficulties": 3.23,
     "courses": [
       "BUS 214",
-      "BUS 322"
+      "BUS 322",
+      "BUS 3322"
     ],
     "tags": {
       "High In-Person Availability": 4,
-      "Supplemental Study Material": 5,
-      "Uploads Slides": 11,
-      "Fast Response Time": 3,
+      "Supplemental Study Material": 6,
+      "Uploads Slides": 12,
+      "Fast Response Time": 4,
       "Inflexible Attendance Policy": 1,
       "Honor DRC Accommodations": 3,
       "Recorded Lectures": 1
@@ -51816,22 +51822,23 @@
     "department": "BIO",
     "firstName": "Emily",
     "lastName": "Neal",
-    "numEvals": 76,
-    "overallRating": 2.08,
-    "materialClear": 2.25,
+    "numEvals": 77,
+    "overallRating": 2.07,
+    "materialClear": 2.23,
     "studentDifficulties": 2.23,
     "courses": [
       "BIO 161",
       "BIO 221",
       "MCRO 221",
-      "BIO 302"
+      "BIO 302",
+      "BIO 1151"
     ],
     "tags": {
       "Fast Response Time": 8,
       "Inflexible Attendance Policy": 10,
       "Inflexible Deadline Policy": 7,
-      "Uploads Slides": 13,
-      "No Breaks During Lecture": 12,
+      "Uploads Slides": 14,
+      "No Breaks During Lecture": 13,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 2,
       "Supplemental Study Material": 1,
