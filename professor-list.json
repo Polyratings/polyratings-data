@@ -13181,7 +13181,7 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 305,
+    "numEvals": 306,
     "overallRating": 2.45,
     "materialClear": 2.04,
     "studentDifficulties": 2.57,
@@ -13201,16 +13201,17 @@
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 11,
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 2,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Class Handouts": 9,
       "Inflexible Attendance Policy": 3,
       "No Breaks During Lecture": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -17375,14 +17376,19 @@
     "department": "BUS",
     "firstName": "Christine",
     "lastName": "Gray",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 3.75,
+    "studentDifficulties": 2.75,
     "courses": [
-      "BUS 100"
+      "BUS 100",
+      "BUS 1101"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "53d4ff93-f689-49a4-935e-08bb559541cc",

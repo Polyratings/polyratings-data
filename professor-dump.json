@@ -225642,7 +225642,7 @@
     "department": "ECON",
     "firstName": "Solina",
     "lastName": "Lindahl",
-    "numEvals": 305,
+    "numEvals": 306,
     "overallRating": 2.45,
     "materialClear": 2.04,
     "studentDifficulties": 2.57,
@@ -225662,16 +225662,17 @@
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 11,
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "Supplemental Study Material": 3,
       "Recorded Lectures": 2,
       "High In-Person Availability": 2,
       "Flexible Grading Policy": 2,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Class Handouts": 9,
       "Inflexible Attendance Policy": 3,
       "No Breaks During Lecture": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "ECON 111": [
@@ -229486,6 +229487,24 @@
           "id": "780aa1c4-bf90-4e95-88a4-365bf38a0e5d",
           "professor": "3f623886-df5f-4a2e-a7d3-c8b1b618fe4e",
           "postDate": "Tue Oct 13 2026 21:44:18 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Lindahl is very sweet, if you need an extension on her homework online, she will reopen if for you, but her lecture style is just not for me. I think they're just a little all over the place, so you might have to teach yourself most of the time. As for her tests, I've only had one midterm which I didn't think was bad at all, just study before. She will also cancel class a LOT which I don't mind since you teach yourself mostly regardless, but some students may not learn that way.",
+          "tags": [
+            "Zoom Office Hours",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "954621042aa6ec5d",
+          "id": "5b11e5da-f6e2-414e-b9e7-d433444590e7",
+          "professor": "3f623886-df5f-4a2e-a7d3-c8b1b618fe4e",
+          "postDate": "2026-10-20T16:28:17.275Z"
         }
       ]
     }
@@ -309760,14 +309779,19 @@
     "department": "BUS",
     "firstName": "Christine",
     "lastName": "Gray",
-    "numEvals": 3,
-    "overallRating": 2.33,
-    "materialClear": 3.67,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 2.25,
+    "materialClear": 3.75,
+    "studentDifficulties": 2.75,
     "courses": [
-      "BUS 100"
+      "BUS 100",
+      "BUS 1101"
     ],
-    "tags": {},
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    },
     "reviews": {
       "BUS 100": [
         {
@@ -309808,6 +309832,26 @@
           "id": "73e56e5e-8240-43ed-8b12-9103585cd2d1",
           "professor": "53981703-7bbb-4267-82d9-e24609fe17e6",
           "postDate": "Thu Sep 03 2026 23:38:55 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 1101": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 2,
+          "rating": "If you're expecting a really easy class because it's career readiness, yes, the work itself is. However, Professor Gray is definitely very strict. You absolutely have to attend class for credit, NEVER end early, and can never be on another tab or she will call you out. I do appreciate the resources she puts out and does bring in student speakers in business to share their experience and tips for first years, but it's almost every class and gets a bit repetitive. If she sees you not paying attention or on your laptop, she has told students they are unappreciative of being in class which I just find a bit odd.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "954621042aa6ec5d",
+          "id": "a14070ba-f02a-4948-93cf-caf0e1653fd2",
+          "professor": "53981703-7bbb-4267-82d9-e24609fe17e6",
+          "postDate": "2026-10-20T16:23:30.775Z"
         }
       ]
     }
