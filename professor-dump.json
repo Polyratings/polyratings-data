@@ -535314,14 +535314,15 @@
     "department": "CSC",
     "firstName": "Rodrigo",
     "lastName": "Canaan",
-    "numEvals": 16,
-    "overallRating": 3.82,
-    "materialClear": 3.24,
-    "studentDifficulties": 3.82,
+    "numEvals": 17,
+    "overallRating": 3.83,
+    "materialClear": 3.28,
+    "studentDifficulties": 3.83,
     "courses": [
       "CSC 349",
       "CSC 580",
-      "CSC 480"
+      "CSC 480",
+      "CSC 4880"
     ],
     "tags": {
       "Zoom Office Hours": 4,
@@ -535584,6 +535585,21 @@
           "id": "a0c22d48-867a-4f2c-8e55-b10d716f743e",
           "professor": "90e0b35c-af79-46c7-aca2-f3983e59d872",
           "postDate": "Mon Sep 14 2026 17:23:18 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 4880": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "The course is good, and the professor is good. Not sure what the two other bums are talking about.",
+          "anonymousIdentifier": "c5f7b3548af13f8e",
+          "id": "761794b8-26d8-4694-b268-af7490650a70",
+          "professor": "90e0b35c-af79-46c7-aca2-f3983e59d872",
+          "postDate": "2026-10-20T09:00:33.118Z"
         }
       ]
     }
