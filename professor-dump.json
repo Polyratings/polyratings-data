@@ -32502,23 +32502,26 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 33,
-    "overallRating": 2.24,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.24,
+    "numEvals": 34,
+    "overallRating": 2.17,
+    "materialClear": 2.07,
+    "studentDifficulties": 2.17,
     "courses": [
       "BUS 438",
       "BUS 439",
       "BUS 204",
-      "BUS 342"
+      "BUS 342",
+      "BUS 3342"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 2,
-      "Zoom Office Hours": 1,
-      "Pop Quizzes": 1
+      "Zoom Office Hours": 2,
+      "Pop Quizzes": 1,
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "BUS 438": [
@@ -32945,6 +32948,26 @@
           "id": "9e308cb6-3022-4033-baca-24278de42649",
           "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
           "postDate": "Wed Sep 23 2026 18:13:47 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3342": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "By far, the worst business professor at Cal Poly. Lectures have no sense of structure. Rastad lectures, but nothing that he says will stick. This is an intro finance course that is the foundational base for future finance classes, and Rastad teaches it in such a way that you will probably leave with zero foundational understanding of finance. Quiz #2: 10 questions, 30 minutes; I ran out of time and had to guess on the remaining 5 questions, and I failed it after 4 hours of studying.\nI thought it was just me until I asked the people around me, and they also said they ran out of time and failed it as well. 50% of the class got up and left after the quiz. DO NOT TAKE THIS PROFESSOR. Genuinely, if he is the only professor who is teaching it, wait until someone else teaches it.",
+          "tags": [
+            "Zoom Office Hours",
+            "Class Handouts",
+            "Honor DRC Accommodations"
+          ],
+          "anonymousIdentifier": "6fcb566bb98c0939",
+          "id": "5e51959b-6d72-470b-b14e-f12f9ba0dade",
+          "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
+          "postDate": "2026-10-21T18:46:02.576Z"
         }
       ]
     }
@@ -82275,10 +82298,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 61,
-    "overallRating": 1.43,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.34,
+    "numEvals": 62,
+    "overallRating": 1.41,
+    "materialClear": 1.53,
+    "studentDifficulties": 1.38,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -82287,7 +82310,8 @@
       "AGB 313",
       "AGB 318",
       "AGB 404",
-      "AGB 406"
+      "AGB 406",
+      "AGB 3301"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -83058,6 +83082,21 @@
           "id": "261985a7-ab88-4fc7-b3a9-b6a98d895353",
           "professor": "16784ab6-136f-449a-b1ad-d2a8554cc69b",
           "postDate": "2014-11-01T07:00:00.000Z"
+        }
+      ],
+      "AGB 3301": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This has been one of the most disorganized and frustrating classes I have taken. What makes it especially frustrating is that this was supposed to be an **asynchronous online food marketing class, yet nearly the entire course grade revolves around a group project with people you never meet in person.** Expecting students to coordinate a major group project entirely online while providing unclear, constantly changing instructions is incredibly unreasonable.\n\nProfessor Schroeter changes assignment expectations frequently, and the instructions often contradict previous directions. There are multiple rubrics with different requirements, little to no clear guidance on what assignments should actually look like, and vague feedback that does not explain how to improve the work. It feels like students are expected to read her mind rather than demonstrate their understanding of food marketing.\n\nAnother major concern is that we are required to purchase her book from Amazon for $40. The book focuses on leadership and personal goal setting, with little to no connection to food marketing. She has repeatedly sent reminders stating that using a used copy instead of purchasing a brand new one will result in an automatic course failure. Requiring students to spend that much money on a book that is largely unrelated to the course, while threatening an automatic failure for using a used copy, is extremely frustrating and difficult to understand.\n\nThe course also feels like an excessive amount of busy work without a clear educational purpose. The expectations for the final project seem to change constantly, and feedback is often subjective rather than constructive. It is difficult to know whether your work meets the requirements when those requirements are never communicated consistently.\n\nWhat is especially telling is that many students in this online class of approximately 30 people have independently expressed the same frustrations about the lack of organization, unclear expectations, and perceived unfairness. This does not feel like an isolated issue or a matter of students simply disliking a difficult class. The course structure and communication need significant improvement.",
+          "anonymousIdentifier": "6f9b6fd8d224375e",
+          "id": "a99d226f-d9dd-4373-9959-534aa2f254c2",
+          "professor": "16784ab6-136f-449a-b1ad-d2a8554cc69b",
+          "postDate": "2026-10-21T20:19:48.379Z"
         }
       ]
     }
@@ -313222,24 +313261,26 @@
     "department": "BIO",
     "firstName": "Weston",
     "lastName": "Gonor",
-    "numEvals": 18,
-    "overallRating": 3.84,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.84,
+    "numEvals": 19,
+    "overallRating": 3.85,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.85,
     "courses": [
       "BIO 161",
-      "BIO 111"
+      "BIO 111",
+      "BIO 1111"
     ],
     "tags": {
       "High In-Person Availability": 3,
       "Fast Response Time": 6,
       "Class Handouts": 4,
-      "Recorded Lectures": 9,
-      "Uploads Slides": 6,
+      "Recorded Lectures": 10,
+      "Uploads Slides": 7,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 4,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 2,
+      "Hybrid Option": 1
     },
     "reviews": {
       "BIO 161": [
@@ -313541,6 +313582,26 @@
           "id": "ae3ab76b-304d-4720-bb5d-dfd6d2795cbc",
           "professor": "54e5e892-f324-4b8f-89be-1c7832a0a8ac",
           "postDate": "Thu Jul 23 2026 08:27:53 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 1111": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He is genuinely an incredible person who thoroughly enjoys teaching and biology in general. All of his lectures are recorded, and he makes it clear what will be on exams. Just an incredible person.",
+          "tags": [
+            "Hybrid Option",
+            "Recorded Lectures",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "15e1be77cf145ed0",
+          "id": "537cff63-6dbe-42ea-b0b7-2f534a121682",
+          "professor": "54e5e892-f324-4b8f-89be-1c7832a0a8ac",
+          "postDate": "2026-10-21T20:49:12.539Z"
         }
       ]
     }
@@ -384749,19 +384810,20 @@
     "department": "CE",
     "firstName": "Genevieve",
     "lastName": "Farrar",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 3,
     "courses": [
       "CE 204",
       "ME 3317"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Honor DRC Accommodations": 1,
-      "Uploads Slides": 2,
-      "Zoom Office Hours": 1
+      "Honor DRC Accommodations": 2,
+      "Uploads Slides": 3,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "CE 204": [
@@ -384801,6 +384863,24 @@
           "id": "2260c665-cbc0-43f5-bd3f-836456ee4b3d",
           "professor": "6739b37d-7ee6-4fe5-af2b-3144f9f42c52",
           "postDate": "Fri Sep 11 2026 05:45:23 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Whoever wrote that first rating for Vibrations is completely lying. A friend of mine who as registering for vibrations, and I told them to take her but they told me she had a bad review which I thought made no sense. I think the person who wrote the last rating is genuinely selling her short, especially since their rating was posted in September. She initially started the course by going through slides (which I agree sucked), but this was only because the classroom set up made it hard for her to solve out example problems in the given time without an iPad where she could project and write to the class. She finally got the department to give her one, and ever since then, she has consistently been solving out examples in a very clear style. At this point in time, I have taken 2/3 midterms she has during the semester, and she is one of the nicest graders in ME for such a difficult course. The average on midterm 1 across all 4 of her sections was an 85% with the high being 100% and the low being a 50%. That is an extremely high average, and she really wants her students to succeed. She also claims if the average ever were to drop, she would curve to that when necessary. I just think she had to deal with the school not being willing to give her the technical equipment she needed originally, but now that she has it, she has improved immensely. She is definitely one of the best options for this course, and anyone complaining is just being dramatic. Plus if you study the last homework set before any midterm, she structures her exams to follow those problems so it\u2019s not hard to follow. Don\u2019t listen to that negative review.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Honor DRC Accommodations",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "3c82b47de07a2314",
+          "id": "886e00a6-4221-45e9-843c-69dce03143d8",
+          "professor": "6739b37d-7ee6-4fe5-af2b-3144f9f42c52",
+          "postDate": "2026-10-21T21:19:43.257Z"
         }
       ]
     }
@@ -546313,10 +546393,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 43,
-    "overallRating": 2.32,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.74,
+    "numEvals": 44,
+    "overallRating": 2.36,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.77,
     "courses": [
       "EE 251",
       "EE 307",
@@ -546944,6 +547024,19 @@
           "id": "8c5beaf6-7841-4b98-a42d-b734f7495d61",
           "professor": "94803593-5bb7-4778-a758-a554481f6281",
           "postDate": "2026-10-19T22:13:34.035Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Aggarwal is an amazing professor and learned so much in her class.",
+          "anonymousIdentifier": "495a0234405897cc",
+          "id": "d8e77835-27a8-4954-99eb-1e09b818cac7",
+          "professor": "94803593-5bb7-4778-a758-a554481f6281",
+          "postDate": "2026-10-21T18:48:41.131Z"
         }
       ]
     }
@@ -746134,10 +746227,10 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 4,
-    "overallRating": 1.75,
-    "materialClear": 0.75,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 0.8,
+    "studentDifficulties": 2.8,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
@@ -746202,6 +746295,19 @@
           "id": "907cb39d-79ca-4a50-b641-3b10a8f60a5c",
           "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
           "postDate": "Tue Oct 06 2026 00:17:08 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Very unorganized and lectures are all over the place. Tends to not answer questions thoroughly and doesn\u2019t explain concepts well. Labs are engaging, But you will struggle in this class if you don\u2019t understand chemistry to begin with.",
+          "anonymousIdentifier": "6dc100adf2377999",
+          "id": "0c2ef800-c243-45db-bf15-5bbbd236bf9e",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-10-21T21:28:17.324Z"
         }
       ]
     }

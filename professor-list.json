@@ -1962,23 +1962,26 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 33,
-    "overallRating": 2.24,
-    "materialClear": 2.13,
-    "studentDifficulties": 2.24,
+    "numEvals": 34,
+    "overallRating": 2.17,
+    "materialClear": 2.07,
+    "studentDifficulties": 2.17,
     "courses": [
       "BUS 438",
       "BUS 439",
       "BUS 204",
-      "BUS 342"
+      "BUS 342",
+      "BUS 3342"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Uploads Slides": 2,
-      "Zoom Office Hours": 1,
-      "Pop Quizzes": 1
+      "Zoom Office Hours": 2,
+      "Pop Quizzes": 1,
+      "Class Handouts": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -4865,10 +4868,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 61,
-    "overallRating": 1.43,
-    "materialClear": 1.55,
-    "studentDifficulties": 1.34,
+    "numEvals": 62,
+    "overallRating": 1.41,
+    "materialClear": 1.53,
+    "studentDifficulties": 1.38,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -4877,7 +4880,8 @@
       "AGB 313",
       "AGB 318",
       "AGB 404",
-      "AGB 406"
+      "AGB 406",
+      "AGB 3301"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -17649,24 +17653,26 @@
     "department": "BIO",
     "firstName": "Weston",
     "lastName": "Gonor",
-    "numEvals": 18,
-    "overallRating": 3.84,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.84,
+    "numEvals": 19,
+    "overallRating": 3.85,
+    "materialClear": 3.69,
+    "studentDifficulties": 3.85,
     "courses": [
       "BIO 161",
-      "BIO 111"
+      "BIO 111",
+      "BIO 1111"
     ],
     "tags": {
       "High In-Person Availability": 3,
       "Fast Response Time": 6,
       "Class Handouts": 4,
-      "Recorded Lectures": 9,
-      "Uploads Slides": 6,
+      "Recorded Lectures": 10,
+      "Uploads Slides": 7,
       "Honor DRC Accommodations": 2,
       "Flexible Attendance Policy": 4,
       "Flexible Deadline Policy": 1,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 2,
+      "Hybrid Option": 1
     }
   },
   {
@@ -21675,19 +21681,20 @@
     "department": "CE",
     "firstName": "Genevieve",
     "lastName": "Farrar",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 1.5,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.33,
+    "studentDifficulties": 3,
     "courses": [
       "CE 204",
       "ME 3317"
     ],
     "tags": {
       "High In-Person Availability": 2,
-      "Honor DRC Accommodations": 1,
-      "Uploads Slides": 2,
-      "Zoom Office Hours": 1
+      "Honor DRC Accommodations": 2,
+      "Uploads Slides": 3,
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -30750,10 +30757,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 43,
-    "overallRating": 2.32,
-    "materialClear": 2.61,
-    "studentDifficulties": 2.74,
+    "numEvals": 44,
+    "overallRating": 2.36,
+    "materialClear": 2.64,
+    "studentDifficulties": 2.77,
     "courses": [
       "EE 251",
       "EE 307",
@@ -42428,10 +42435,10 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 4,
-    "overallRating": 1.75,
-    "materialClear": 0.75,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 0.8,
+    "studentDifficulties": 2.8,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
