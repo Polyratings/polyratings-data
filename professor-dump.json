@@ -578988,10 +578988,10 @@
     "department": "MATH",
     "firstName": "Danielle",
     "lastName": "Champney",
-    "numEvals": 39,
-    "overallRating": 2.96,
-    "materialClear": 2.87,
-    "studentDifficulties": 2.85,
+    "numEvals": 40,
+    "overallRating": 2.89,
+    "materialClear": 2.8,
+    "studentDifficulties": 2.78,
     "courses": [
       "MATH 141",
       "MATH 142",
@@ -579571,6 +579571,19 @@
           "id": "cc015860-2b6d-4de8-a6f0-5df6838d4d41",
           "professor": "9d81c7f9-4fa2-42df-8648-c4f5b3cfb59d",
           "postDate": "2026-10-20T19:42:15.733Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Champney gives ZERO consideration of time on the midterms and every single class so far. Nobody I know of finished the midterm and with me racing through it and having nearly mastered the material, I still couldn\u2019t finish. There is no possible way to succeed in class. Every question you ask, she brushes you off. Every packet each week, you will have to spend doing outside of class because she doesn\u2019t understand that we can\u2019t do this math in record time. Only good thing is the study guide is pretty on point to what\u2019s on the midterm but that\u2019s it.",
+          "anonymousIdentifier": "e503835295abae0c",
+          "id": "3f5099f2-65b8-44fd-8dd4-93659869b688",
+          "professor": "9d81c7f9-4fa2-42df-8648-c4f5b3cfb59d",
+          "postDate": "2026-10-21T05:14:31.496Z"
         }
       ]
     }
@@ -885241,10 +885254,10 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 81,
+    "numEvals": 82,
     "overallRating": 3.77,
     "materialClear": 3.84,
-    "studentDifficulties": 3.76,
+    "studentDifficulties": 3.75,
     "courses": [
       "MATH 118",
       "MATH 142",
@@ -885257,7 +885270,7 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 29,
+      "Zoom Office Hours": 30,
       "Fast Response Time": 16,
       "Supplemental Study Material": 4,
       "Recorded Lectures": 3,
@@ -885265,10 +885278,11 @@
       "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 9,
       "Class Handouts": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "High In-Person Availability": 2,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 2
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     },
     "reviews": {
       "MATH 118": [
@@ -886448,6 +886462,24 @@
           "id": "769d098d-2917-4c37-8622-958d0d03a5d2",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "2026-10-16T21:59:32.214Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Overall, this is a great class with an efficient teacher, but the pace is very quick and doesn't leave much room for error.\n\nGood: Efficient teaching, great pacing for a half-semester class, easy accessibility for questions, kind and funny professor who wants you to succeed, offers breaks during lectures (for the 2-hour lectures that I had), occasionally lets the class out early (and more)\n\nBad: No curving on tests, heavily weighted final exam worth 30%, difficult pace in the last ~2 weeks of class (if you didn't learn vectors in Calc BC)\n\n   This class went well for me for the majority of it. Most of what I learned about series in Calc BC helped prepare me for this class's coursework, yet we barely touched on vectors my senior year. When we learned them in class, I got lost pretty quickly and didn't even feel like I understood them well by the time the exam rolled around (however, if I went to his office hours one more time before the exam and did more practice problems, I probably would've been good). \n Coming into college as a Biochemistry student in a class full of engineers, I did occasionally feel outpaced by my peers and the momentum of the class. \nBut if you go to his office hours when confused and do all of the homework (and some extra practice before exams doesn't hurt either), you'll be prepared and capable of passing easily. \n\nMy advice: Do all the homework and then some extra book problems. Do the example problems in each lesson before attempting the respective homework assignment. Go to office hours!!!!! Start preparing for the final exam by completing the last lesson and its homework AS SOON AS POSSIBLE!",
+          "tags": [
+            "Zoom Office Hours",
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "ee7a7eeb757b0fe8",
+          "id": "a7df6e0e-9315-49c8-9e7e-15ce06c93361",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "2026-10-21T05:11:28.874Z"
         }
       ]
     }
