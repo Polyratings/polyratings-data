@@ -38322,7 +38322,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 140,
+    "numEvals": 141,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -38345,11 +38345,11 @@
       "MATH 1263"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Fast Response Time": 6,
       "Flexible Attendance Policy": 3,
-      "Supplemental Study Material": 2,
-      "Does Not Use Canvas": 2,
+      "Supplemental Study Material": 3,
+      "Does Not Use Canvas": 3,
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2
     }
@@ -38967,17 +38967,18 @@
     "department": "HIST",
     "firstName": "Cole",
     "lastName": "Manley",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "HIST"
+      "HIST 2202"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Class Handouts": 2,
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {

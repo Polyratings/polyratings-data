@@ -671894,7 +671894,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 140,
+    "numEvals": 141,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -671917,11 +671917,11 @@
       "MATH 1263"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Fast Response Time": 6,
       "Flexible Attendance Policy": 3,
-      "Supplemental Study Material": 2,
-      "Does Not Use Canvas": 2,
+      "Supplemental Study Material": 3,
+      "Does Not Use Canvas": 3,
       "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2
     },
@@ -673698,6 +673698,24 @@
           "id": "0b6e7a2e-4de0-4163-94ac-d32a7f1d6de6",
           "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
           "postDate": "Wed Oct 14 2026 02:37:51 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Literally the best. If you can take his class, do it. His lectures are so clear, he is amazing at answering questions, and makes us feel confident for the midterm and final. Definitely one of the best math professors I've had. Lectures are never boring because he makes small side comments and jokes and one time even brought us cookies. Really nice and helpful guy, definitely one of the best professors on campus.",
+          "tags": [
+            "High In-Person Availability",
+            "Supplemental Study Material",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "1ef1a9f7d3d3e60f",
+          "id": "c014b924-1e30-4cbd-9ee0-593fe6fd96b6",
+          "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
+          "postDate": "2026-10-21T15:13:22.921Z"
         }
       ]
     }
@@ -684461,17 +684479,18 @@
     "department": "HIST",
     "firstName": "Cole",
     "lastName": "Manley",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
-    "materialClear": 3,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "HIST"
+      "HIST 2202"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Class Handouts": 2,
+      "Uploads Slides": 2,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "HIST 2202": [
@@ -684491,6 +684510,24 @@
           "id": "e8350278-589c-4845-9562-566806a49dd5",
           "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
           "postDate": "Mon Oct 12 2026 19:59:42 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Manley is really great! This was one of the first history classes I took where the lectures were actually interesting and engaging. The grading is a little harsh though, the only assignments that go into the grade book are the midterm, a final, an essay, and participation grade and the essay is graded pretty harshly. Showing up to class definitely helped boost my grade because of the participation points. The grading makes it kind of hard to get an A but also there aren't really many assignments to do outside of class so it's not too bad overall. Professor Manley is also very willing to help and encourages us to go to his office hours with any questions. I would definitely recommend taking this class for the really interesting lectures and because he's a great professor but if you're looking for an easy A this might not be the right pick.",
+          "tags": [
+            "Class Handouts",
+            "Uploads Slides",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "1ef1a9f7d3d3e60f",
+          "id": "92481e97-23b0-435b-b20d-cf91b88da8df",
+          "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
+          "postDate": "2026-10-21T15:03:25.540Z"
         }
       ]
     }
