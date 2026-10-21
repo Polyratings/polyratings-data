@@ -8414,13 +8414,14 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 15,
-    "overallRating": 2.34,
-    "materialClear": 2.26,
-    "studentDifficulties": 2.61,
+    "numEvals": 16,
+    "overallRating": 2.44,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.7,
     "courses": [
       "BUS 215",
-      "BUS 412"
+      "BUS 412",
+      "BUS 4425"
     ],
     "tags": {
       "Zoom Office Hours": 3,
@@ -48244,10 +48245,10 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 0.75,
+    "studentDifficulties": 1.25,
     "courses": [
       "CPE 2300"
     ],

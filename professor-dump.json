@@ -146992,13 +146992,14 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 15,
-    "overallRating": 2.34,
-    "materialClear": 2.26,
-    "studentDifficulties": 2.61,
+    "numEvals": 16,
+    "overallRating": 2.44,
+    "materialClear": 2.37,
+    "studentDifficulties": 2.7,
     "courses": [
       "BUS 215",
-      "BUS 412"
+      "BUS 412",
+      "BUS 4425"
     ],
     "tags": {
       "Zoom Office Hours": 3,
@@ -147263,6 +147264,21 @@
           "id": "efc74830-fa76-45f7-b705-59e4971e31b9",
           "professor": "27f53828-8c54-45bd-a75c-312a894061fe",
           "postDate": "Mon Jun 10 2024 06:34:53 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4425": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great professor, goes fast but explains very well.",
+          "anonymousIdentifier": "8ba97a5eb20f13d6",
+          "id": "464820c5-a9b7-4b46-bb32-d88c97e3b6ef",
+          "professor": "27f53828-8c54-45bd-a75c-312a894061fe",
+          "postDate": "2026-10-20T21:46:49.890Z"
         }
       ]
     }
@@ -845436,10 +845452,10 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 1,
-    "studentDifficulties": 1,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 0.75,
+    "studentDifficulties": 1.25,
     "courses": [
       "CPE 2300"
     ],
@@ -845496,6 +845512,19 @@
           "id": "616bedaf-005b-4459-ad4f-2bedfac4df53",
           "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
           "postDate": "2026-10-20T01:06:21.143Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Dr Yasin is very knowledgeable and cares a lot about his students. He also is accessible in office hours and is willing to answer any question you might have. However, I think it's safe to say that Dr Yasin is not a very good teacher. This is his first time every teaching and it really shows; I think with some proper training and time he will improve. Everyone I know struggled with this professor.\n\nHis lectures are impossible to take notes in and he barely covers any material that appears on our quizzes and midterm. Coupled with a think accent, I struggled to understand how anything he said in lecture correlated to the course objectives and what to study for. Everything I learned in this class was self-taught. Additionally, the canvas was disorganized and the help resources were posted extremely late, so I barely followed along with what I was supposed to be studying week to week. Most of our assignments were AI generated which while I don't have a problem with normally, they were often hard to follow or just completely impossible to understand without a technical background.\n\nWith all that said, I'm sure he'll be very receptive to feedback and hopefully course correct for his future sections",
+          "anonymousIdentifier": "64600d936868cb64",
+          "id": "a4cc40d7-e546-4b11-bca9-1b760d9518fe",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "2026-10-21T01:05:29.166Z"
         }
       ]
     }
