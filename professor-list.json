@@ -34525,13 +34525,14 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 23,
-    "overallRating": 3.49,
-    "materialClear": 3.89,
-    "studentDifficulties": 3.52,
+    "numEvals": 24,
+    "overallRating": 3.43,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.42,
     "courses": [
       "BUS 346",
-      "BUS 454"
+      "BUS 454",
+      "BUS 4454"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -41953,9 +41954,9 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 171,
+    "numEvals": 172,
     "overallRating": 2.84,
-    "materialClear": 2.75,
+    "materialClear": 2.74,
     "studentDifficulties": 2.81,
     "courses": [
       "CHEM 111",
@@ -41965,23 +41966,25 @@
       "CHEM 129",
       "CHEM 331",
       "CHEM 128",
-      "CHEM 126"
+      "CHEM 126",
+      "AEPS 1110"
     ],
     "tags": {
       "High In-Person Availability": 23,
       "Fast Response Time": 15,
       "Uploads Slides": 12,
-      "Flexible Deadline Policy": 6,
+      "Flexible Deadline Policy": 7,
       "Class Handouts": 27,
       "Supplemental Study Material": 18,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Honor DRC Accommodations": 3,
       "Inflexible Grading Policy": 4,
       "Recorded Lectures": 3,
       "No Breaks During Lecture": 1,
       "Inflexible Deadline Policy": 1,
       "Flexible Attendance Policy": 3,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {

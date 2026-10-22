@@ -611801,13 +611801,14 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 23,
-    "overallRating": 3.49,
-    "materialClear": 3.89,
-    "studentDifficulties": 3.52,
+    "numEvals": 24,
+    "overallRating": 3.43,
+    "materialClear": 3.77,
+    "studentDifficulties": 3.42,
     "courses": [
       "BUS 346",
-      "BUS 454"
+      "BUS 454",
+      "BUS 4454"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -612151,6 +612152,21 @@
           "id": "7b011f8d-792b-4a11-b01f-4f5adaa16efb",
           "professor": "a72d930a-2527-474c-b037-45ca14a72533",
           "postDate": "Fri Oct 16 2026 08:42:17 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4454": [
+        {
+          "grade": "B",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I took for BUS 454 class (I took him last year btw), But I had to come out and say like how wasteful this class and the professor. the class was confusing, professor is rude and like the other person said, its rly hard to work with athlete. (OMG YES!), I recommend any other marketing elective beside this one. Take anything but this class! You've been warned.",
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "b348e412-4a14-4b84-b9ce-7f80bbb85483",
+          "professor": "a72d930a-2527-474c-b037-45ca14a72533",
+          "postDate": "2026-10-22T18:09:32.287Z"
         }
       ]
     }
@@ -738412,9 +738428,9 @@
     "department": "CHEM",
     "firstName": "Francesco",
     "lastName": "Contu",
-    "numEvals": 171,
+    "numEvals": 172,
     "overallRating": 2.84,
-    "materialClear": 2.75,
+    "materialClear": 2.74,
     "studentDifficulties": 2.81,
     "courses": [
       "CHEM 111",
@@ -738424,23 +738440,25 @@
       "CHEM 129",
       "CHEM 331",
       "CHEM 128",
-      "CHEM 126"
+      "CHEM 126",
+      "AEPS 1110"
     ],
     "tags": {
       "High In-Person Availability": 23,
       "Fast Response Time": 15,
       "Uploads Slides": 12,
-      "Flexible Deadline Policy": 6,
+      "Flexible Deadline Policy": 7,
       "Class Handouts": 27,
       "Supplemental Study Material": 18,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Honor DRC Accommodations": 3,
       "Inflexible Grading Policy": 4,
       "Recorded Lectures": 3,
       "No Breaks During Lecture": 1,
       "Inflexible Deadline Policy": 1,
       "Flexible Attendance Policy": 3,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1
     },
     "reviews": {
       "CHEM 111": [
@@ -740776,6 +740794,26 @@
           "id": "9a9db74f-d527-4c64-b884-311524d4698e",
           "professor": "cfe1c763-58a1-42e9-b0bc-b5b521d520b8",
           "postDate": "Tue Jul 29 2025 06:23:38 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "AEPS 1110": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 3,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Took this course last year, but I still laugh when I look back on it. He is such a peculiar person; his canvas had an AI-generated homepage of him as a quail teaching us while we were little baby quails, something he would call us frequently, as well as donkeys, all of which I found amusing. Guy is from Italy and has the thickest accent ever. It was hilarious to hear him pronounce \"atoms\"; he sounded like AH-TOMES (I recorded a video clip of it and laugh every time I revisit it). If you guys know the meme \"No more than one unmarketable tomato,\" that is exactly what I would compare this to, and if you don't know, search it up to gain context. As for teaching, he knows what he is talking about; it's just so hard for him to put it into clear English words, and he gets pretty frustrated when people have no idea what he is talking about. The homework was on this wacky website that was excruciating to use on a computer, and it took forever. Midterms and finals were pretty easy if you just study the homework really hard repeatedly. He also lets you correct both of them to get almost full points, which was awesome. Overall, such a goofy and weird professor, but I believe he has good intentions. He knows what he is talking about; he loved our class, but I just don't think this guy is fit to teach college students in general: he doesn't have that teacher's attitude, more like a foreign uncle who is trying to teach you about his import business with the thickest accent imaginable, and might be in the mafia. I would avoid him for chem, but he's not the worst person in the world to take.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "b85497f99248f2a6",
+          "id": "0f10a7e6-be59-435c-bcd7-3fbd592dec92",
+          "professor": "cfe1c763-58a1-42e9-b0bc-b5b521d520b8",
+          "postDate": "2026-10-22T18:39:34.507Z"
         }
       ]
     }
