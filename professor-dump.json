@@ -364739,16 +364739,17 @@
     "department": "MU",
     "firstName": "Samuel",
     "lastName": "Shalhoub",
-    "numEvals": 6,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "MU 120"
+      "MU 120",
+      "LS 2370"
     ],
     "tags": {
-      "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 1,
+      "High In-Person Availability": 4,
+      "Flexible Attendance Policy": 2,
       "Inflexible Grading Policy": 1,
       "Flexible Grading Policy": 2,
       "Supplemental Study Material": 1,
@@ -364855,6 +364856,25 @@
           "id": "7da94cc6-3403-42f6-b0ae-6d84ddf267bc",
           "professor": "643f2c29-9ab2-42d5-bf30-d90e65d91811",
           "postDate": "Thu Apr 02 2026 00:02:07 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "LS 2370": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "One of the sweetest professors ever! He genuinely makes these topics super interesting and spends so much time making sure we understand everything! He's very caring and open to helping wherever he can. There's hardly any homework and the tests aren't hard at all, and he prepares us so well!",
+          "tags": [
+            "High In-Person Availability",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "010d50c684cbc2f6",
+          "id": "f6470ba0-1672-4eed-bc2f-9e33f4bdbaad",
+          "professor": "643f2c29-9ab2-42d5-bf30-d90e65d91811",
+          "postDate": "2026-10-22T16:14:06.220Z"
         }
       ]
     }
