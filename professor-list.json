@@ -50,17 +50,20 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 1,
-    "overallRating": 0,
+    "numEvals": 2,
+    "overallRating": 1,
     "materialClear": 0,
-    "studentDifficulties": 0,
+    "studentDifficulties": 0.5,
     "courses": [
-      "EE"
+      "EE 2328"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     }
   },
   {
@@ -1962,16 +1965,17 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 34,
-    "overallRating": 2.17,
-    "materialClear": 2.07,
-    "studentDifficulties": 2.17,
+    "numEvals": 35,
+    "overallRating": 2.11,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.11,
     "courses": [
       "BUS 438",
       "BUS 439",
       "BUS 204",
       "BUS 342",
-      "BUS 3342"
+      "BUS 3342",
+      "BUS 1342"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -3470,25 +3474,27 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 27,
-    "overallRating": 1.62,
+    "numEvals": 28,
+    "overallRating": 1.71,
     "materialClear": 1.93,
-    "studentDifficulties": 1.77,
+    "studentDifficulties": 1.85,
     "courses": [
       "CSC 378",
       "CSC 123",
-      "CSC 377"
+      "CSC 377",
+      "CSC 3710"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 4,
       "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 2,
-      "Flexible Grading Policy": 3,
+      "Flexible Grading Policy": 4,
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 7,
-      "Flexible Deadline Policy": 4
+      "Uploads Slides": 8,
+      "Flexible Deadline Policy": 4,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -9987,14 +9993,15 @@
     "department": "BUS",
     "firstName": "Stephen",
     "lastName": "Stern",
-    "numEvals": 47,
-    "overallRating": 3.58,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.53,
+    "numEvals": 48,
+    "overallRating": 3.59,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.54,
     "courses": [
       "BUS 207",
       "JOUR 302",
-      "BUS 404"
+      "BUS 404",
+      "BUS 4404"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -14796,22 +14803,23 @@
     "department": "BUS",
     "firstName": "Holly",
     "lastName": "Newman",
-    "numEvals": 18,
-    "overallRating": 1.95,
+    "numEvals": 19,
+    "overallRating": 1.9,
     "materialClear": 2,
-    "studentDifficulties": 2.32,
+    "studentDifficulties": 2.2,
     "courses": [
       "BUS 214",
       "BUS 212",
       "AGB 212",
-      "AGB 214"
+      "AGB 214",
+      "BUS 2214"
     ],
     "tags": {
       "Uploads Slides": 4,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "No Breaks During Lecture": 4,
-      "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1,
+      "Fast Response Time": 2,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
       "Class Handouts": 4,
       "Honor DRC Accommodations": 1
@@ -20491,10 +20499,10 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 14,
-    "overallRating": 3.06,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.42,
+    "numEvals": 15,
+    "overallRating": 3.12,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.46,
     "courses": [
       "BUS 346",
       "BUS 451",
@@ -30514,13 +30522,14 @@
     "department": "TH",
     "firstName": "Michelle",
     "lastName": "Walter",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "DANC 131",
-      "DANC 231"
+      "DANC 231",
+      "DANC 2231"
     ],
     "tags": {}
   },
@@ -49421,15 +49430,20 @@
     "department": "AERO",
     "firstName": "Daniel",
     "lastName": "Biezad",
-    "numEvals": 15,
-    "overallRating": 2.32,
+    "numEvals": 16,
+    "overallRating": 2.42,
     "materialClear": 1.95,
-    "studentDifficulties": 2.14,
+    "studentDifficulties": 2.26,
     "courses": [
       "AERO 310",
       "AERO 320",
-      "AERO 420"
-    ]
+      "AERO 420",
+      "AERO 3310"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "f4e2392d-4633-4c2b-be00-82fc2bfc2b54",

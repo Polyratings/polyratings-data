@@ -575,17 +575,20 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 1,
-    "overallRating": 0,
+    "numEvals": 2,
+    "overallRating": 1,
     "materialClear": 0,
-    "studentDifficulties": 0,
+    "studentDifficulties": 0.5,
     "courses": [
-      "EE"
+      "EE 2328"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 1,
+      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 1,
+      "Uploads Slides": 1
     },
     "reviews": {
       "EE 2328": [
@@ -605,6 +608,24 @@
           "id": "45234c03-fc90-4821-bcf7-1676be9ff264",
           "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
           "postDate": "Thu Sep 17 2026 03:11:05 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I would not recommend, he is new professor so he does not present his lectures and points across very well. He is very knowledgeable on the subject and a kind professor but unfortunately not a very good teacher. I will say though slides and problems are posted to canvas, he grades quickly, and homework and lab solutions are given usually before the assignment is due, and he will tell you exactly what is on the midterm. Usually 1-3 labs due per week using MATLAB or solving equations, and sometimes 1 homework assignment per week, 2 midterms where you can use a sheet for notes, and a final. How he explains solving equations, along with how he solves them on the board, is done all over the place, making it extremely difficult to follow. If you want to understand the concepts well, I would take a different professor, but if you are required to take the class and just need to pass, he is fine for meeting a requirement. I think he is a professor still learning how to teach.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Supplemental Study Material",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "d016fbb4930fe691",
+          "id": "08f425e1-af6d-45b6-982d-8984c710d9fa",
+          "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
+          "postDate": "2026-10-21T21:46:12.260Z"
         }
       ]
     }
@@ -32502,16 +32523,17 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 34,
-    "overallRating": 2.17,
-    "materialClear": 2.07,
-    "studentDifficulties": 2.17,
+    "numEvals": 35,
+    "overallRating": 2.11,
+    "materialClear": 2.01,
+    "studentDifficulties": 2.11,
     "courses": [
       "BUS 438",
       "BUS 439",
       "BUS 204",
       "BUS 342",
-      "BUS 3342"
+      "BUS 3342",
+      "BUS 1342"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -32968,6 +32990,21 @@
           "id": "5e51959b-6d72-470b-b14e-f12f9ba0dade",
           "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
           "postDate": "2026-10-21T18:46:02.576Z"
+        }
+      ],
+      "BUS 1342": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "this is the worst fcking professor i've ever had please do not take this class it's not worth it. zero concept of time, zero ability to teach in any regard, not even a nice human being. worst professor. a disgrace to cal poly",
+          "anonymousIdentifier": "f48c898942a11f81",
+          "id": "5d0134f7-c66c-422d-96f6-68404c51ce6a",
+          "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
+          "postDate": "2026-10-21T22:11:30.705Z"
         }
       ]
     }
@@ -58807,25 +58844,27 @@
     "department": "CSC",
     "firstName": "April",
     "lastName": "Grow",
-    "numEvals": 27,
-    "overallRating": 1.62,
+    "numEvals": 28,
+    "overallRating": 1.71,
     "materialClear": 1.93,
-    "studentDifficulties": 1.77,
+    "studentDifficulties": 1.85,
     "courses": [
       "CSC 378",
       "CSC 123",
-      "CSC 377"
+      "CSC 377",
+      "CSC 3710"
     ],
     "tags": {
       "Recorded Lectures": 1,
       "Fast Response Time": 4,
       "Flexible Attendance Policy": 3,
       "Inflexible Grading Policy": 2,
-      "Flexible Grading Policy": 3,
+      "Flexible Grading Policy": 4,
       "Zoom Office Hours": 1,
       "Pop Quizzes": 1,
-      "Uploads Slides": 7,
-      "Flexible Deadline Policy": 4
+      "Uploads Slides": 8,
+      "Flexible Deadline Policy": 4,
+      "Inflexible Attendance Policy": 1
     },
     "reviews": {
       "CSC 378": [
@@ -59234,6 +59273,26 @@
           "id": "6eb4c6ab-cf1b-44c5-b95e-a8cad33f402c",
           "professor": "0fe890dd-4fe2-4909-8b1a-72a371721672",
           "postDate": "Tue Apr 28 2026 21:29:58 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 3710": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Overall I would recommend professor Grow for this class. I don't know why her ratings are so low, but based on my experience, I would not let them scare you. The class is Unity based, which can be a hurdle to learn, but her lectures and labs make it easier to learn. I will say though that there is a LOT of labs, they are not to hard to do but can take some time, usually 2-3 labs due per week. No final or midterm and lab is optional for the first half of the semester, you only have to demo your labs and projects. Attendance is 10% of grade, so if you usually attend class then this is good, but if not it can hurt you. The second half of the class is a group project where you are creating a game. She has a very flexible late deadline policy, is very accommodating, and grades easily. I would recommend her for if you are looking to learn Unity and need to boost your GPA or need to take an elective.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Grading Policy",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "d016fbb4930fe691",
+          "id": "39cb9c83-76af-4b1e-a24d-853542b9e57a",
+          "professor": "0fe890dd-4fe2-4909-8b1a-72a371721672",
+          "postDate": "2026-10-21T21:55:31.543Z"
         }
       ]
     }
@@ -171398,14 +171457,15 @@
     "department": "BUS",
     "firstName": "Stephen",
     "lastName": "Stern",
-    "numEvals": 47,
-    "overallRating": 3.58,
-    "materialClear": 3.49,
-    "studentDifficulties": 3.53,
+    "numEvals": 48,
+    "overallRating": 3.59,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.54,
     "courses": [
       "BUS 207",
       "JOUR 302",
-      "BUS 404"
+      "BUS 404",
+      "BUS 4404"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -171996,6 +172056,21 @@
           "id": "29a5a594-97ca-4889-91c7-5c5e46bea8fd",
           "professor": "2ee69dc7-506a-47a8-b822-a56acdd6ae46",
           "postDate": "Thu Jun 04 2026 02:59:35 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4404": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "At first, I dreaded this class. He requires two 2 minute presentations and one 5 minute presentation all done solo. He also has no slides to follow along with during lecture but does provide readings, and lesson plans. As the quarter progressed, I really learned to enjoy his class. He keeps the class interesting, and even made me laugh lol. He seems scary but he's actually kinda cool.",
+          "anonymousIdentifier": "640fcf359a30b4b8",
+          "id": "5aa4e5bf-888c-49c3-85dd-0c0bbc25ff04",
+          "professor": "2ee69dc7-506a-47a8-b822-a56acdd6ae46",
+          "postDate": "2026-10-22T01:53:11.633Z"
         }
       ]
     }
@@ -260465,22 +260540,23 @@
     "department": "BUS",
     "firstName": "Holly",
     "lastName": "Newman",
-    "numEvals": 18,
-    "overallRating": 1.95,
+    "numEvals": 19,
+    "overallRating": 1.9,
     "materialClear": 2,
-    "studentDifficulties": 2.32,
+    "studentDifficulties": 2.2,
     "courses": [
       "BUS 214",
       "BUS 212",
       "AGB 212",
-      "AGB 214"
+      "AGB 214",
+      "BUS 2214"
     ],
     "tags": {
       "Uploads Slides": 4,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "No Breaks During Lecture": 4,
-      "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1,
+      "Fast Response Time": 2,
+      "Inflexible Deadline Policy": 2,
       "Inflexible Grading Policy": 2,
       "Class Handouts": 4,
       "Honor DRC Accommodations": 1
@@ -260767,6 +260843,26 @@
           "id": "752b85cf-8216-41f1-a89f-dbf08d9e8510",
           "professor": "466b9ca1-f891-4ba2-af1a-cdf8c8e3532c",
           "postDate": "Wed Jun 17 2026 00:26:29 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 2214": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I HATE THIS CLASS she is so annoying and is genuinely so rude if you dont follow her little specific rules. she has no grace for if you miss class no matter the reason. something is stuck up her ass genuinely. she talks all high pitch and squeaky and is all like \"omg I love otters they are so cute!!!\" and then will call u out infant of the class for breaking eye contact. do. not. take. this. class. I would take business law with Carr over this any day.",
+          "tags": [
+            "Fast Response Time",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "0999487942941957",
+          "id": "ffc1e148-d133-49d4-91f2-09d5a95365fc",
+          "professor": "466b9ca1-f891-4ba2-af1a-cdf8c8e3532c",
+          "postDate": "2026-10-21T22:36:14.808Z"
         }
       ]
     }
@@ -358845,10 +358941,10 @@
     "department": "BUS",
     "firstName": "Nicole",
     "lastName": "Birdsall",
-    "numEvals": 14,
-    "overallRating": 3.06,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.42,
+    "numEvals": 15,
+    "overallRating": 3.12,
+    "materialClear": 3.73,
+    "studentDifficulties": 3.46,
     "courses": [
       "BUS 346",
       "BUS 451",
@@ -359075,6 +359171,19 @@
           "id": "34aa7f6f-169b-409d-b9d8-b1382a2a19f2",
           "professor": "6287909f-1e0e-47fa-9d65-f556afab08d8",
           "postDate": "2026-10-19T08:00:19.539Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This class is the best and so is the professor! She is really caring! I absolutely recommend to take this class! SUPER LIGHT CLASS! And WORKLOAD! Definitely TAKE her for BUS 4451!",
+          "anonymousIdentifier": "8ffd3284eace1de1",
+          "id": "91326400-d3c8-489e-b80e-8249bf47f5b6",
+          "professor": "6287909f-1e0e-47fa-9d65-f556afab08d8",
+          "postDate": "2026-10-22T02:10:18.376Z"
         }
       ]
     }
@@ -542466,13 +542575,14 @@
     "department": "TH",
     "firstName": "Michelle",
     "lastName": "Walter",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "DANC 131",
-      "DANC 231"
+      "DANC 231",
+      "DANC 2231"
     ],
     "tags": {},
     "reviews": {
@@ -542539,6 +542649,21 @@
           "id": "d3e45639-c51c-4e2c-9395-4891996805d9",
           "professor": "9274d21b-c167-4350-ae81-4e00cb1caf8b",
           "postDate": "Mon May 19 2025 23:44:07 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "DANC 2231": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I absolutely love Michelle! She is truly so sweet and cares about all her students. Her class is challenging but still accommodates for all of her students. You can tell she is genuinely passionate about teaching and ballet, and it's reflected in the way she gives corrections and comes up with fun combinations. I would highly recommend taking her class :)",
+          "anonymousIdentifier": "fca45cffeaeb8cb0",
+          "id": "d541747d-35ce-4654-8314-f9a6d13f6c9b",
+          "professor": "9274d21b-c167-4350-ae81-4e00cb1caf8b",
+          "postDate": "2026-10-22T03:08:23.715Z"
         }
       ]
     }
@@ -865676,15 +865801,20 @@
     "department": "AERO",
     "firstName": "Daniel",
     "lastName": "Biezad",
-    "numEvals": 15,
-    "overallRating": 2.32,
+    "numEvals": 16,
+    "overallRating": 2.42,
     "materialClear": 1.95,
-    "studentDifficulties": 2.14,
+    "studentDifficulties": 2.26,
     "courses": [
       "AERO 310",
       "AERO 320",
-      "AERO 420"
+      "AERO 420",
+      "AERO 3310"
     ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    },
     "reviews": {
       "AERO 310": [
         {
@@ -865870,6 +866000,25 @@
           "id": "b71fad39-1f2f-4b3e-9919-5ba01e1ffeeb",
           "professor": "f4d2e246-5487-4c15-96f7-20f18a0c7617",
           "postDate": "2002-09-01T07:00:00.000Z"
+        }
+      ],
+      "AERO 3310": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He might be the sweetest guy ever, he is kind of hard to learn from because he goes so fast, but the class's difficult is not too bad at all. He genuinely cares about what his teaching so they are basically paying him to ramble about random aerospace things for an hour or so, and im all for it. Take his class!",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "8d26e867695e013a",
+          "id": "7b377b11-1169-489d-b3d0-30e9f6b6d292",
+          "professor": "f4d2e246-5487-4c15-96f7-20f18a0c7617",
+          "postDate": "2026-10-21T23:13:46.423Z"
         }
       ]
     }
