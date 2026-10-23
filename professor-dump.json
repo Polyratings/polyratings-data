@@ -52615,12 +52615,13 @@
     "department": "BUS",
     "firstName": "Alec",
     "lastName": "Lance",
-    "numEvals": 26,
-    "overallRating": 1.81,
-    "materialClear": 1.49,
-    "studentDifficulties": 1.88,
+    "numEvals": 27,
+    "overallRating": 1.74,
+    "materialClear": 1.43,
+    "studentDifficulties": 1.81,
     "courses": [
-      "BUS 439"
+      "BUS 439",
+      "BUS 4439"
     ],
     "tags": {
       "Pop Quizzes": 8,
@@ -53012,6 +53013,21 @@
           "id": "c5ce7172-49ff-4dd9-8199-28c5fe586748",
           "professor": "0e8aa283-e9a9-46b2-b9de-174535c78915",
           "postDate": "Mon Aug 24 2026 17:43:08 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4439": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "This page is just an archive at this point. He doesn't work here anymore, but good riddance. Worst prof OAT",
+          "anonymousIdentifier": "3d8be2f10cc24c70",
+          "id": "4c1234ed-37a1-423c-980e-d995a90f836b",
+          "professor": "0e8aa283-e9a9-46b2-b9de-174535c78915",
+          "postDate": "2026-10-23T02:29:52.896Z"
         }
       ]
     }
@@ -885604,7 +885620,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 82,
+    "numEvals": 83,
     "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.75,
@@ -885620,13 +885636,13 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 30,
+      "Zoom Office Hours": 31,
       "Fast Response Time": 16,
-      "Supplemental Study Material": 4,
+      "Supplemental Study Material": 5,
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 1,
       "Flexible Grading Policy": 3,
-      "Flexible Attendance Policy": 9,
+      "Flexible Attendance Policy": 10,
       "Class Handouts": 1,
       "Inflexible Grading Policy": 3,
       "High In-Person Availability": 2,
@@ -886830,6 +886846,24 @@
           "id": "a7df6e0e-9315-49c8-9e7e-15ce06c93361",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "2026-10-21T05:11:28.874Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "An excellent professor who teaches clearly and emphasizes understanding the reasoning behind concepts rather than just memorizing formulas. He consistently explains why things work and highlights their importance for future courses and real-world applications. Lectures are always well-structured, and he does a great job breaking down complex concepts by relating them to simpler ideas when students are struggling to understand something. Quizzes and exams closely reflect the textbook material, so there are no unexpected surprises if you keep up with the coursework. He is a fair and reasonable grader who genuinely wants his students to succeed, both in his class and beyond. My final grade was a reflection of the work I put in, not a lack of clarity or quality in his teaching. Overall, I highly recommend him to anyone taking Bridge Calculus 2.",
+          "tags": [
+            "Zoom Office Hours",
+            "Flexible Attendance Policy",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "48b0cd10b38c3d0b",
+          "id": "7f163828-e8e7-4772-aecc-61db4d00343d",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "2026-10-22T21:32:39.008Z"
         }
       ]
     }
@@ -907336,17 +907370,19 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 3,
-    "overallRating": 1.33,
+    "numEvals": 4,
+    "overallRating": 1,
     "materialClear": 0,
-    "studentDifficulties": 0.67,
+    "studentDifficulties": 0.5,
     "courses": [
       "BUS 3319"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1
     },
     "reviews": {
       "BUS 3319": [
@@ -907392,6 +907428,24 @@
           "id": "2d3569c8-42f8-4925-9142-b24539db5b49",
           "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
           "postDate": "2026-10-18T21:24:33.241Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Tamara Sui is a terrible teacher. She seems like a nice person but her willingness to read straight AI slop off of confusing slide decks every single lecture is concerning from the view of humanity. It's shocking that Cal Poly is tolerating this waste of time and resources and having students pay to be force fed AI slop generating teaching content. 100% the worst class/teacher combo I have encountered in my time at Cal Poly. The worst part is that Sui doesn't even produce the slop herself. She is transfering slop from professor Zhang straight to her own sections and just reading buzzwords all lecture. Every aspect of her teaching style crutches the use of AI generation. What is even going on!",
+          "tags": [
+            "Inflexible Grading Policy",
+            "Does Not Use Canvas",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "2af3e22f776747d2",
+          "id": "3303276b-b6c7-4944-a57d-3c1526bc0616",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-23T02:12:52.094Z"
         }
       ]
     }
