@@ -575,10 +575,10 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 2,
-    "overallRating": 1,
+    "numEvals": 3,
+    "overallRating": 0.67,
     "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.33,
     "courses": [
       "EE 2328"
     ],
@@ -626,6 +626,19 @@
           "id": "08f425e1-af6d-45b6-982d-8984c710d9fa",
           "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
           "postDate": "2026-10-21T21:46:12.260Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Ranking worst professors in EE (Taking into account both lack of teaching ability AND/OR difficult to understand):     5. Xiaomin Jin (SUPER friendly but thickest accent in the department. Absolutely love her as a person and professor but i needed to use google live translate in class to my airpod to not be rude. If that isnt an issue for you - absolutely take her - shes a genius)          4. Ahlgren (bro dead ah forgot his own writing on the board \"Who wrote this on the board?\" NEEDS TO RETIRE)       3. Arakaki (Bro must hate his life cus he rains down hell upon his students - okay at teaching but belittles everyone)             2. Basu (Avoid Avoid Avoid - bro could not teach a class if his life depended on it. me along with the top scores on the midterms had to teach ourselves but he does allow for retaking quizzes and exams probabaly because the scores were incredibly low and hes desperate to look at least okay as a professor)          1 [THE WORST]. Basu AGAIN. Bro is so bad im giving him the #1 and #2 spots. Id bet a semester of tuition that he gets fired/is asked to leave within 3 years. If im wrong then the EE department is actually the worst at evaluating their own professors. By week 7, only 6 of the 25 students were in class",
+          "anonymousIdentifier": "b6c7342f66071658",
+          "id": "4d179061-980d-457f-8aa4-bf75b8256e3f",
+          "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
+          "postDate": "2026-10-23T18:23:18.938Z"
         }
       ]
     }
@@ -566176,10 +566189,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 66,
-    "overallRating": 1.88,
-    "materialClear": 1.58,
-    "studentDifficulties": 2.02,
+    "numEvals": 67,
+    "overallRating": 1.85,
+    "materialClear": 1.56,
+    "studentDifficulties": 2,
     "courses": [
       "EE 111",
       "EE 208",
@@ -566194,7 +566207,8 @@
       "EE 375",
       "EE 402",
       "EE 406",
-      "EE 255"
+      "EE 255",
+      "EE 3306"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
@@ -567050,6 +567064,21 @@
           "id": "3df4dad6-2414-4111-8a2f-58376c3991e4",
           "professor": "9b4b605b-d19a-4f70-a7ec-2b6ba670505d",
           "postDate": "Thu Jun 04 2026 23:56:34 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 3306": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Class has 30 people in it. Since week 2 there\u2019s been 6 people who show up every day. A very nice guy who loves teaching, and at one point it time must\u2019ve been brilliant. However, now this class is a complete and utter waste of your time. Some days he repeats entire lectures, others he spends the entire class trying to derive an equation from memory, some days he answers a yes or no question with a long-winded 30 minute explanation that leaves you more confused.\n\nThis is the easiest A I will likely ever receive. You can teach yourself the content, it\u2019s not terribly challenging. Not a bad teacher to take if you don\u2019t mind doing a little personal research and want an easy A for your troubles.\n\nHe goes over the 50 minutes every single day wasting my time, that\u2019s my biggest gripe. Doesn\u2019t respect the time.",
+          "anonymousIdentifier": "443cf9961e89eda4",
+          "id": "b45e0be2-5d76-4f95-a450-9883a69b16f1",
+          "professor": "9b4b605b-d19a-4f70-a7ec-2b6ba670505d",
+          "postDate": "2026-10-23T19:52:40.540Z"
         }
       ]
     }

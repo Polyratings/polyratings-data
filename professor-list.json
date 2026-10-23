@@ -50,10 +50,10 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 2,
-    "overallRating": 1,
+    "numEvals": 3,
+    "overallRating": 0.67,
     "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.33,
     "courses": [
       "EE 2328"
     ],
@@ -32121,10 +32121,10 @@
     "department": "EE",
     "firstName": "William L.",
     "lastName": "Ahlgren",
-    "numEvals": 66,
-    "overallRating": 1.88,
-    "materialClear": 1.58,
-    "studentDifficulties": 2.02,
+    "numEvals": 67,
+    "overallRating": 1.85,
+    "materialClear": 1.56,
+    "studentDifficulties": 2,
     "courses": [
       "EE 111",
       "EE 208",
@@ -32139,7 +32139,8 @@
       "EE 375",
       "EE 402",
       "EE 406",
-      "EE 255"
+      "EE 255",
+      "EE 3306"
     ],
     "tags": {
       "Inflexible Grading Policy": 1,
