@@ -336092,12 +336092,13 @@
     "department": "BUS",
     "firstName": "Jack",
     "lastName": "Wroldsen",
-    "numEvals": 5,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.72,
     "courses": [
-      "BUS 404"
+      "BUS 404",
+      "BUS 4404"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -336172,6 +336173,34 @@
           "id": "377b73de-c684-4ac2-8d5e-89557bb4bc0a",
           "professor": "5bb0d371-a4bb-4b7b-85e9-411e09dc2706",
           "postDate": "Fri Jun 12 2026 01:11:06 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4404": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "One of the nicest profs I've ever had, even made me consider law school! Learned a lot from him, and he gives out weekly homework and just grades based off of completion. I did need to study a bit for his exams but as long as you show up to class, take notes on his examples and ai some practice problems to do, you should be fine! Group presentation at the end of the quarter was super easy too.",
+          "anonymousIdentifier": "9708db12821ecc80",
+          "id": "921cf899-c494-4b6c-9d96-7d11fcaa338a",
+          "professor": "5bb0d371-a4bb-4b7b-85e9-411e09dc2706",
+          "postDate": "2026-10-23T05:51:46.940Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Super smart professor, really cares for his students! my goat",
+          "anonymousIdentifier": "9708db12821ecc80",
+          "id": "eefb80d2-1fda-4133-ae84-3db7e26f8402",
+          "professor": "5bb0d371-a4bb-4b7b-85e9-411e09dc2706",
+          "postDate": "2026-10-23T05:54:40.553Z"
         }
       ]
     }
@@ -611817,10 +611846,10 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 24,
-    "overallRating": 3.43,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.42,
+    "numEvals": 25,
+    "overallRating": 3.29,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.32,
     "courses": [
       "BUS 346",
       "BUS 454",
@@ -612183,6 +612212,19 @@
           "id": "b348e412-4a14-4b84-b9ce-7f80bbb85483",
           "professor": "a72d930a-2527-474c-b037-45ca14a72533",
           "postDate": "2026-10-22T18:09:32.287Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "OMGosh! this is too diffcult of a class. Spent like 6+ hours per week on assignment and tried to arrange time with athletes. The prof doesn't care about it. Worst Marketing elective I've ever taken at Cal Poly. Not recommending BUS 454 to anyone!",
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "2f659ee0-496d-4453-a4fa-51559fa363ff",
+          "professor": "a72d930a-2527-474c-b037-45ca14a72533",
+          "postDate": "2026-10-23T05:37:20.447Z"
         }
       ]
     }

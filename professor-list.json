@@ -19185,12 +19185,13 @@
     "department": "BUS",
     "firstName": "Jack",
     "lastName": "Wroldsen",
-    "numEvals": 5,
+    "numEvals": 7,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "studentDifficulties": 3.72,
     "courses": [
-      "BUS 404"
+      "BUS 404",
+      "BUS 4404"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
@@ -34526,10 +34527,10 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 24,
-    "overallRating": 3.43,
-    "materialClear": 3.77,
-    "studentDifficulties": 3.42,
+    "numEvals": 25,
+    "overallRating": 3.29,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.32,
     "courses": [
       "BUS 346",
       "BUS 454",
