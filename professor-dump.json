@@ -188416,14 +188416,15 @@
     "department": "ENGL",
     "firstName": "Scott",
     "lastName": "Hamilton",
-    "numEvals": 19,
-    "overallRating": 2.05,
-    "materialClear": 2,
-    "studentDifficulties": 2.74,
+    "numEvals": 20,
+    "overallRating": 1.95,
+    "materialClear": 1.9,
+    "studentDifficulties": 2.6,
     "courses": [
       "ENGL 145",
       "ENGL 134",
-      "ENGL 147"
+      "ENGL 147",
+      "ENGL 1134"
     ],
     "tags": {
       "Flexible Attendance Policy": 2,
@@ -188726,6 +188727,21 @@
           "id": "1ebba2e0-908e-41cd-bbcf-f406b079b9f3",
           "professor": "31f8e995-c234-47a1-9128-5308a772c12a",
           "postDate": "Sat Jun 06 2026 16:57:57 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGL 1134": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "For a GE class, this class was awful. I have it async and I've never had a worse teacher/professor. He is not helpful at all, and in every assignment, his instructions have numerous misspellings and missing words. As an English professor, I feel like that's just not okay. You can hear the attitude within his feedback, and it's rarely helpful. I don't know how he's still teaching and is a professor, but overall, do not take this class.",
+          "anonymousIdentifier": "041ca210076624e8",
+          "id": "06e6aed8-35dd-4e91-ad71-e5940d5bb79a",
+          "professor": "31f8e995-c234-47a1-9128-5308a772c12a",
+          "postDate": "2026-10-24T00:09:31.242Z"
         }
       ]
     }
@@ -384997,10 +385013,10 @@
     "department": "CE",
     "firstName": "Genevieve",
     "lastName": "Farrar",
-    "numEvals": 3,
-    "overallRating": 2.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 2.75,
+    "studentDifficulties": 3.25,
     "courses": [
       "CE 204",
       "ME 3317"
@@ -385068,6 +385084,19 @@
           "id": "886e00a6-4221-45e9-843c-69dce03143d8",
           "professor": "6739b37d-7ee6-4fe5-af2b-3144f9f42c52",
           "postDate": "2026-10-21T21:19:43.257Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I think Farrar is a pretty great teacher for Vibes. Lots of material provided with lecture slides always posted. Homeworks and exams are very fair. She is an entertaining lecturer and I think she is hilarious during class. 100% would retake.",
+          "anonymousIdentifier": "e1d0c5541654fa62",
+          "id": "8565b3cd-0b92-4cc7-996c-2d5e092b714d",
+          "professor": "6739b37d-7ee6-4fe5-af2b-3144f9f42c52",
+          "postDate": "2026-10-23T22:37:40.009Z"
         }
       ]
     }
@@ -513084,9 +513113,9 @@
     "department": "MATH",
     "firstName": "Patrick",
     "lastName": "Orson",
-    "numEvals": 23,
-    "overallRating": 3.79,
-    "materialClear": 3.82,
+    "numEvals": 24,
+    "overallRating": 3.8,
+    "materialClear": 3.83,
     "studentDifficulties": 3.91,
     "courses": [
       "MATH 248",
@@ -513095,15 +513124,16 @@
       "MATH 142",
       "MATH 306",
       "MATH 406",
-      "MATH 241"
+      "MATH 241",
+      "MATH 3152"
     ],
     "tags": {
-      "Fast Response Time": 7,
+      "Fast Response Time": 8,
       "Class Handouts": 6,
-      "Supplemental Study Material": 3,
-      "High In-Person Availability": 4,
+      "Supplemental Study Material": 4,
+      "High In-Person Availability": 5,
       "Flexible Attendance Policy": 3,
-      "Honor DRC Accommodations": 1,
+      "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 1,
       "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 1
@@ -513468,6 +513498,27 @@
           "id": "7634fa48-8e35-4712-bf4c-8c7442bd297b",
           "professor": "8ba3f348-3512-416b-ba99-eb06d55f2127",
           "postDate": "Fri Jun 26 2026 19:13:06 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 3152": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took Math 406 (Linear Algebra III) in the spring. Dr. Orson is goated. He teaches in a very clear and organized style, and the exams are fair although quite lengthy. He provides preparation sheets for the exams, although they are sometimes a lot more difficult than the actual exams. The homework is generally an appropriate length. Beware of typos on the homework and exam preparation sheets. Overall, I highly recommend taking Dr. Orson.",
+          "tags": [
+            "High In-Person Availability",
+            "Honor DRC Accommodations",
+            "Fast Response Time",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "3f3147d814fddbe4",
+          "id": "51fcb206-ad1f-4672-aaa0-6fc034840330",
+          "professor": "8ba3f348-3512-416b-ba99-eb06d55f2127",
+          "postDate": "2026-10-23T23:37:29.863Z"
         }
       ]
     }
