@@ -157,20 +157,22 @@
     "department": "BUS",
     "firstName": "Cheryl-lyn",
     "lastName": "Ngoh",
-    "numEvals": 7,
-    "overallRating": 2.14,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.43,
+    "numEvals": 8,
+    "overallRating": 2.37,
+    "materialClear": 2.99,
+    "studentDifficulties": 2.63,
     "courses": [
-      "BUS 418"
+      "BUS 418",
+      "BUS 4450"
     ],
     "tags": {
-      "Class Handouts": 1,
-      "Inflexible Deadline Policy": 1,
+      "Class Handouts": 2,
+      "Inflexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -27271,10 +27273,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 237,
+    "numEvals": 238,
     "overallRating": 2.68,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.41,
+    "materialClear": 2.54,
+    "studentDifficulties": 2.4,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -27293,14 +27295,14 @@
     ],
     "tags": {
       "Flexible Grading Policy": 5,
-      "Inflexible Deadline Policy": 5,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 6,
+      "Inflexible Grading Policy": 3,
       "Supplemental Study Material": 9,
       "Inflexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "High In-Person Availability": 10,
-      "Fast Response Time": 10,
-      "Flexible Attendance Policy": 7,
+      "Fast Response Time": 11,
+      "Flexible Attendance Policy": 8,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 0
@@ -50575,7 +50577,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 83,
+    "numEvals": 84,
     "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.75,
@@ -50591,7 +50593,7 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 31,
+      "Zoom Office Hours": 32,
       "Fast Response Time": 16,
       "Supplemental Study Material": 5,
       "Recorded Lectures": 3,

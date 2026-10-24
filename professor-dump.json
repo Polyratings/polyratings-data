@@ -1324,20 +1324,22 @@
     "department": "BUS",
     "firstName": "Cheryl-lyn",
     "lastName": "Ngoh",
-    "numEvals": 7,
-    "overallRating": 2.14,
-    "materialClear": 2.85,
-    "studentDifficulties": 2.43,
+    "numEvals": 8,
+    "overallRating": 2.37,
+    "materialClear": 2.99,
+    "studentDifficulties": 2.63,
     "courses": [
-      "BUS 418"
+      "BUS 418",
+      "BUS 4450"
     ],
     "tags": {
-      "Class Handouts": 1,
-      "Inflexible Deadline Policy": 1,
+      "Class Handouts": 2,
+      "Inflexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 1
     },
     "reviews": {
       "BUS 418": [
@@ -1440,6 +1442,27 @@
           "id": "8cacef1d-b6d2-4a55-807c-c1bf2d23a3f7",
           "professor": "0152ac87-4953-4fba-85b7-eeb0f6ac045f",
           "postDate": "Mon May 11 2026 00:51:09 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4450": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Honestly, I don't really understand the bad rep she gets from her polyratings. I had her fully online class during the summer and then an in-person one for fall. She can def sometimes come off kind of rude in her responses through email, but in person she's really nice and totally reasonable of what she expects of you in the class. The only thing though, she's pretty strict about attendance. There is almost always an in-class graded assignment. It's not super hard or anything but you get graded based on if you were there in class to complete it or not",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Uploads Slides",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "3737842e97704587",
+          "id": "19f3063f-8ae9-498e-bf7a-dfd418c34bdb",
+          "professor": "0152ac87-4953-4fba-85b7-eeb0f6ac045f",
+          "postDate": "2026-10-24T06:21:13.784Z"
         }
       ]
     }
@@ -481873,10 +481896,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 237,
+    "numEvals": 238,
     "overallRating": 2.68,
-    "materialClear": 2.55,
-    "studentDifficulties": 2.41,
+    "materialClear": 2.54,
+    "studentDifficulties": 2.4,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -481895,14 +481918,14 @@
     ],
     "tags": {
       "Flexible Grading Policy": 5,
-      "Inflexible Deadline Policy": 5,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 6,
+      "Inflexible Grading Policy": 3,
       "Supplemental Study Material": 9,
       "Inflexible Attendance Policy": 1,
-      "Does Not Use Canvas": 1,
+      "Does Not Use Canvas": 2,
       "High In-Person Availability": 10,
-      "Fast Response Time": 10,
-      "Flexible Attendance Policy": 7,
+      "Fast Response Time": 11,
+      "Flexible Attendance Policy": 8,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 0
@@ -484922,6 +484945,26 @@
           "id": "87e4194b-94a8-4881-8ebd-5bd36068ec23",
           "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
           "postDate": "2026-10-20T00:46:48.440Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Good ol Mike\u2026 Where do I even begin. If you enjoy waking up at 7am to be met with pure rage bait take his class. He will stand over your shoulder and ridicule you out loud for asking questions or doing a problem wrong WHILE taking a quiz. He needs his answers written in a very specific way and if you don\u2019t then you will lose points even if your answer is correct. This is the first teacher I\u2019ve ever had who doesn\u2019t encourage you to show your work, even claiming it\u2019s a \u201csign of weakness.\u201d That being said his tests don\u2019t try to trick you with crazy stupid math. Just make sure you double check your points on the test because even though he will compare you to a 4th graders math skills he forgets to add points right himself sometimes. You can try going to his office hours but it\u2019s is minimally helpful. He gets irritated and rolls his eyes when you ask for help or practice problems. if you enjoy getting verbally abused then his office hours are for you. Someone hook this guy up with a barber too \ud83d\ude4f",
+          "tags": [
+            "Fast Response Time",
+            "Does Not Use Canvas",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "2436146027cdef32",
+          "id": "63f1a904-72a8-4998-b8f5-dccfe6594d29",
+          "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
+          "postDate": "2026-10-24T04:37:17.946Z"
         }
       ]
     }
@@ -885725,7 +885768,7 @@
     "department": "MATH",
     "firstName": "Jeff",
     "lastName": "Gervasi",
-    "numEvals": 83,
+    "numEvals": 84,
     "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.75,
@@ -885741,7 +885784,7 @@
       "MATH 1263"
     ],
     "tags": {
-      "Zoom Office Hours": 31,
+      "Zoom Office Hours": 32,
       "Fast Response Time": 16,
       "Supplemental Study Material": 5,
       "Recorded Lectures": 3,
@@ -886969,6 +887012,22 @@
           "id": "7f163828-e8e7-4772-aecc-61db4d00343d",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "2026-10-22T21:32:39.008Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Very engaging and good presenter. Grade consists of homework quizzes and midterms. Midterms can be tricky but studying examples from lecture helps.",
+          "tags": [
+            "Zoom Office Hours"
+          ],
+          "anonymousIdentifier": "553fcd567352ac50",
+          "id": "7624b653-1413-42e1-97e9-0aeb9d563544",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "2026-10-24T07:24:07.396Z"
         }
       ]
     }
