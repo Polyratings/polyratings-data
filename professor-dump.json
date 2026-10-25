@@ -29495,10 +29495,10 @@
     "department": "CPE",
     "firstName": "Mona",
     "lastName": "El Helbawy",
-    "numEvals": 12,
-    "overallRating": 0.83,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.83,
+    "numEvals": 11,
+    "overallRating": 0.91,
+    "materialClear": 1.64,
+    "studentDifficulties": 2,
     "courses": [
       "CPE 133",
       "EE 133"
@@ -29593,19 +29593,6 @@
           "id": "493fbfa9-be21-4ec8-9a41-e7e57a35321c",
           "professor": "079f32e1-579c-44a2-b50f-b187193b7314",
           "postDate": "Fri Dec 12 2025 09:00:48 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "C",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Required)",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "hated this class, a complete waste of time. turns out she got fired from her last job as a professor and it shows. DO. NOT. TAKE.",
-          "anonymousIdentifier": "bc3cb2023218b07c",
-          "id": "e226b7fc-5711-4d20-bc64-2c0fec3ffbe6",
-          "professor": "079f32e1-579c-44a2-b50f-b187193b7314",
-          "postDate": "Fri Dec 12 2025 09:01:41 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "N/A",
@@ -55636,7 +55623,7 @@
   {
     "id": "0f476bc1-9830-447c-a1da-a484d9356991",
     "department": "CSC",
-    "firstName": "David",
+    "firstName": "Dave",
     "lastName": "Parkinson",
     "numEvals": 25,
     "overallRating": 3.54,
@@ -92091,7 +92078,7 @@
   {
     "id": "1846e94f-a6ba-4d76-8295-c0d260884da0",
     "department": "MU",
-    "firstName": "Nicholas",
+    "firstName": "Nick",
     "lastName": "Waldron",
     "numEvals": 6,
     "overallRating": 4,
@@ -137808,7 +137795,7 @@
     "department": "POLS",
     "firstName": "Ronald",
     "lastName": "Den Otter",
-    "numEvals": 53,
+    "numEvals": 54,
     "overallRating": 3.8,
     "materialClear": 3.94,
     "studentDifficulties": 3.8,
@@ -137820,14 +137807,15 @@
       "POLS 343",
       "POLS 344",
       "POLS 342",
-      "POLS 470"
+      "POLS 470",
+      "POLS 3344"
     ],
     "tags": {
-      "High In-Person Availability": 16,
+      "High In-Person Availability": 17,
       "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 1,
-      "Fast Response Time": 15,
-      "Does Not Use Canvas": 4,
+      "Fast Response Time": 16,
+      "Does Not Use Canvas": 5,
       "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 5,
       "Flexible Grading Policy": 3
@@ -138597,6 +138585,26 @@
           "professor": "26178397-77b3-4f1c-a007-ec5bf80fc79a",
           "postDate": "Mon Sep 14 2026 03:40:12 GMT+0000 (Coordinated Universal Time)"
         }
+      ],
+      "POLS 3344": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Really liked the free speech class and the class exercises. I\u2019d recommend him and the class. He is funny too.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "9cea5f712f19f736",
+          "id": "bff9e95a-1d17-43d8-aec2-3fd63fa38418",
+          "professor": "26178397-77b3-4f1c-a007-ec5bf80fc79a",
+          "postDate": "2026-10-25T17:07:55.689Z"
+        }
       ]
     }
   },
@@ -139302,7 +139310,7 @@
   {
     "id": "2658aaf4-6d48-405c-a9c1-7042fd5b2d2c",
     "department": "IME",
-    "firstName": "Jianbiao",
+    "firstName": "John",
     "lastName": "Pan",
     "numEvals": 37,
     "overallRating": 2.4,
@@ -142004,6 +142012,45 @@
           "id": "7a387069-3852-4789-b7e3-8ac05ebcadee",
           "professor": "2732903f-be16-4993-9559-1b6e71129a09",
           "postDate": "2016-02-01T08:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "273ef58a-8c72-4494-9a0e-c5dcef265517",
+    "department": "BIO",
+    "firstName": "Elizabeth",
+    "lastName": "Sharpe",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BIO"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Honor DRC Accommodations": 1,
+      "Uploads Slides": 1
+    },
+    "reviews": {
+      "BIO 1151": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I had Dr. Sharpe last year as my lab instructor. She is very organized and sets up her quizzes the same way every time, so you know what to expect on the next one.  Being her first year at Cal Poly, she was hard to reach as her office hours were only through zoom. She lectured very clearly and responded to emails very quickly. Always open to explaining feedback on lab reports and assisting with lab assignments.",
+          "tags": [
+            "Zoom Office Hours",
+            "Honor DRC Accommodations",
+            "Uploads Slides"
+          ],
+          "id": "82bbac8c-ea75-4a59-9782-abf9d8223f22",
+          "professor": "273ef58a-8c72-4494-9a0e-c5dcef265517",
+          "postDate": "2026-10-22T23:57:53.933Z"
         }
       ]
     }
@@ -147898,6 +147945,36 @@
           "id": "56a555e8-9bca-4a70-8dc8-08a29fe0152d",
           "professor": "2825e6b2-6d93-4e1f-890d-bc3d7b4aca14",
           "postDate": "Sat Apr 04 2026 00:04:01 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "283213bf-e1ed-4dc2-b093-4deaad869ed3",
+    "department": "BUS",
+    "firstName": "Paul",
+    "lastName": "Stimpfl",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {},
+    "reviews": {
+      "BUS 1204": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Love this guy so much. I am new to Cal Poly, and he made me love finance so much to the point i changed my life cuz of him. He will make sure you understand the topic and if you get to know him, he will support you.",
+          "id": "47c9c159-87d6-4ef4-9548-d9e4bd76d066",
+          "professor": "283213bf-e1ed-4dc2-b093-4deaad869ed3",
+          "postDate": "2026-10-20T04:08:24.519Z"
         }
       ]
     }
@@ -154805,7 +154882,7 @@
   {
     "id": "2b107a64-757b-422c-a897-c268eef96d01",
     "department": "AGB",
-    "firstName": "William",
+    "firstName": "Bill",
     "lastName": "Townsend",
     "numEvals": 5,
     "overallRating": 3.8,
@@ -162454,7 +162531,7 @@
     "id": "2c8e4241-4f53-4556-8eb9-f6d74455e4aa",
     "department": "MATH",
     "firstName": "Amelie",
-    "lastName": "Schinck",
+    "lastName": "Schinck-Mikel",
     "numEvals": 18,
     "overallRating": 3.12,
     "materialClear": 3.12,
@@ -190575,7 +190652,7 @@
   {
     "id": "3264539b-38c2-485f-b98d-3ea6f1fbd510",
     "department": "ME",
-    "firstName": "Hyeonik",
+    "firstName": "Hyeonik (Sean)",
     "lastName": "Song",
     "numEvals": 4,
     "overallRating": 3.75,
@@ -200682,7 +200759,7 @@
   {
     "id": "365d2a96-396b-4716-8622-6fe35323199e",
     "department": "CM",
-    "firstName": "James",
+    "firstName": "Jim",
     "lastName": "Dick",
     "numEvals": 1,
     "overallRating": 4,
@@ -213544,7 +213621,7 @@
   {
     "id": "3afefd72-65f1-4c55-b633-a7cce136074f",
     "department": "PHIL",
-    "firstName": "Joe",
+    "firstName": "Joseph",
     "lastName": "Lynch",
     "numEvals": 122,
     "overallRating": 2.44,
@@ -245161,8 +245238,8 @@
   {
     "id": "43021371-5b50-4da7-8270-b0d39381f48b",
     "department": "AERO",
-    "firstName": "Deif",
-    "lastName": "Ahmed",
+    "firstName": "Ahmed",
+    "lastName": "Deif",
     "numEvals": 13,
     "overallRating": 2.9,
     "materialClear": 2.81,
@@ -249747,8 +249824,8 @@
   {
     "id": "44206a7f-ed55-416d-b623-e15c4d14dab2",
     "department": "CSC",
-    "firstName": "Assal",
-    "lastName": "Hisham",
+    "firstName": "Hisham",
+    "lastName": "Assal",
     "numEvals": 23,
     "overallRating": 2.96,
     "materialClear": 2.45,
@@ -267071,7 +267148,7 @@
   {
     "id": "47dbf43d-97ca-4d62-baf8-3696b3a9f4ab",
     "department": "BUS",
-    "firstName": "James",
+    "firstName": "Jim",
     "lastName": "Burleson",
     "numEvals": 29,
     "overallRating": 3.18,
@@ -273030,7 +273107,7 @@
   {
     "id": "4a1d52e6-a255-469e-990a-1fcbb9ecf62f",
     "department": "BUS",
-    "firstName": "Jim",
+    "firstName": "James",
     "lastName": "Kaney",
     "numEvals": 85,
     "overallRating": 2.98,
@@ -307633,7 +307710,7 @@
   {
     "id": "533a457d-bd11-425a-ab21-eda45a117e4f",
     "department": "ARCE",
-    "firstName": "Dhalia",
+    "firstName": "Dahlia",
     "lastName": "Hafez",
     "numEvals": 12,
     "overallRating": 3.13,
@@ -324473,7 +324550,7 @@
   {
     "id": "58a346b7-3147-4bdf-b8af-846d4341243f",
     "department": "ASCI",
-    "firstName": "Zach",
+    "firstName": "Zachary",
     "lastName": "McFarlane",
     "numEvals": 10,
     "overallRating": 3.5,
@@ -343562,7 +343639,7 @@
     "id": "5c2c1396-f7d2-4ee6-8589-efb79e1189fa",
     "department": "SOC",
     "firstName": "Unique",
-    "lastName": "Shaw",
+    "lastName": "Shaw-Dismuke",
     "numEvals": 23,
     "overallRating": 3.53,
     "materialClear": 3.35,
@@ -345547,7 +345624,7 @@
   {
     "id": "5d3fdb90-99d5-4ccd-80ee-85756d4b7dbc",
     "department": "AEPS",
-    "firstName": "Jeffery",
+    "firstName": "Jeffrey",
     "lastName": "Wong",
     "numEvals": 4,
     "overallRating": 2,
@@ -358407,7 +358484,7 @@
   {
     "id": "620e31d3-d103-483b-a832-3470fc08e759",
     "department": "ARCH",
-    "firstName": "Alex",
+    "firstName": "Alexander",
     "lastName": "Hirsig",
     "numEvals": 3,
     "overallRating": 4,
@@ -358513,7 +358590,7 @@
   {
     "id": "6238327b-f70a-43d1-8541-cbacde1ed97d",
     "department": "BUS",
-    "firstName": "Jeff",
+    "firstName": "Jeffrey",
     "lastName": "Hess",
     "numEvals": 25,
     "overallRating": 2.22,
@@ -358845,7 +358922,7 @@
   {
     "id": "62711b6c-6c86-400f-bb00-587fdd020cd4",
     "department": "ASCI",
-    "firstName": "Rachel",
+    "firstName": "Rachael",
     "lastName": "Lyons",
     "numEvals": 12,
     "overallRating": 2.42,
@@ -361152,6 +361229,43 @@
           "id": "d1760c27-1c46-4a29-807b-59d495edc93f",
           "professor": "63b80bcb-0789-4d91-abea-bc2b4fb5d7de",
           "postDate": "Fri May 29 2026 21:25:37 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "63c88dc4-c718-4720-8b0d-6e28e3f94086",
+    "department": "ENGL",
+    "firstName": "Colin",
+    "lastName": "Dewey",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "Flexible Deadline Policy": 1
+    },
+    "reviews": {
+      "ENGL 3611": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took this course for the GWR requirement. I truly have enjoyed professor Colin Dewey, he has a clear and bright passion for what he teaches. An easy grader if you just follow the baseline instructions for the smaller assignments. For the big essays, it is understandable he is more inclined to grade them a little harsher, I understand completely why lol. Take him if you can, he truly cares for his students.",
+          "tags": [
+            "Fast Response Time",
+            "Flexible Deadline Policy"
+          ],
+          "id": "33aae614-3b14-4618-8920-8d40a62db2ae",
+          "professor": "63c88dc4-c718-4720-8b0d-6e28e3f94086",
+          "postDate": "2026-10-25T05:38:25.223Z"
         }
       ]
     }
@@ -376837,8 +376951,8 @@
   {
     "id": "6610aa50-b537-417f-82ab-4419c2c68e1e",
     "department": "PHYS",
-    "firstName": "Walter",
-    "lastName": "Ryan",
+    "firstName": "Ryan",
+    "lastName": "Walter",
     "numEvals": 24,
     "overallRating": 3.75,
     "materialClear": 3.79,
@@ -382879,7 +382993,7 @@
   {
     "id": "66d16b76-baa9-449c-b5b7-7ca97ee39df8",
     "department": "MATH",
-    "firstName": "Mitch",
+    "firstName": "Mitchell",
     "lastName": "McDuff",
     "numEvals": 58,
     "overallRating": 3.07,
@@ -388613,7 +388727,7 @@
   {
     "id": "69070999-3990-47ff-92f7-732a79b03330",
     "department": "COMS",
-    "firstName": "Erica",
+    "firstName": "Erica A",
     "lastName": "Stewart",
     "numEvals": 23,
     "overallRating": 2.83,
@@ -392389,7 +392503,7 @@
   {
     "id": "69cee8f9-2b35-4adf-8d6c-d384d2863732",
     "department": "SPAN",
-    "firstName": "Alex",
+    "firstName": "Alexander",
     "lastName": "Flores",
     "numEvals": 12,
     "overallRating": 1.92,
@@ -422023,6 +422137,36 @@
     }
   },
   {
+    "id": "73b28601-6e18-45e9-9be8-376eb7eeec51",
+    "department": "ME",
+    "firstName": "Owen",
+    "lastName": "Arreguy",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ME"
+    ],
+    "tags": {},
+    "reviews": {
+      "ME 3317": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This guy is actually the goat. He\u2019s a masters student and is such a chiller. Rip to anyone who can\u2019t have him for lab since he\u2019s gone once he\u2019s done with his masters degree.",
+          "id": "d33b317e-245b-47c9-8ae1-ed9dbdd19f60",
+          "professor": "73b28601-6e18-45e9-9be8-376eb7eeec51",
+          "postDate": "2026-10-21T21:41:03.265Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "73e7e401-374b-4d37-b6ef-1eacd8c69b7c",
     "department": "MATH",
     "firstName": "Riley",
@@ -429627,7 +429771,7 @@
   {
     "id": "75117b0c-30f1-49aa-8220-756ff0f36eca",
     "department": "CE",
-    "firstName": "Rebecca",
+    "firstName": "Rebekah",
     "lastName": "Oulton",
     "numEvals": 7,
     "overallRating": 3.14,
@@ -440386,7 +440530,7 @@
   {
     "id": "776074ab-6257-481c-9a45-7cec968039de",
     "department": "LA",
-    "firstName": "Cesar",
+    "firstName": "C\u00e9sar Torres",
     "lastName": "Bustamante",
     "numEvals": 5,
     "overallRating": 2.72,
@@ -456733,6 +456877,136 @@
           "id": "74a47656-b9ed-4569-bdfb-ca6be62b1057",
           "professor": "7c726604-e13d-4aa8-8a9b-3decaa342461",
           "postDate": "2008-05-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7c8d50d1-f559-4207-8dec-06dda414c808",
+    "department": "COMS",
+    "firstName": "Jarrod",
+    "lastName": "Ventura",
+    "numEvals": 7,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS 1101"
+    ],
+    "tags": {
+      "Zoom Office Hours": 2,
+      "Fast Response Time": 4,
+      "Uploads Slides": 1,
+      "Pop Quizzes": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 2,
+      "High In-Person Availability": 1
+    },
+    "reviews": {
+      "COMS 1101": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "His assignments are straightforward and he's a great speaker, making it easy and entertaining to follow along during any lectures (which aren't super long). I was never super worried about taking a public speaking class and having him as a professor made me all the more happy to take the class. Jarrod himself is so easy-going and you can truly come to him with any question. Having him as a professor for my first semester at Cal Poly has been amazing.",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "Uploads Slides"
+          ],
+          "id": "ac859076-2ce9-4c13-b8db-692d207b862e",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-20T22:54:25.832Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Jarrod is so easy-going and his assignments are super straightforward. I have never been super worried about taking a public speaking class and having Jarrod as my professor has made the course all the more manageable. You can truly come to him with any question or even talk to him about random stuff. Having him my first semester at Cal Poly has been the best.",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "Pop Quizzes"
+          ],
+          "id": "80f81de3-a38e-4d9e-b987-8c78bebdac37",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-21T17:02:07.644Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Ventura is an excellent speech instructor who makes class engaging, informative, and easy to follow. He creates a positive learning environment that helps students build confidence and improve their public speaking skills. Overall, he is a great professor who genuinely cares about his students' success.",
+          "id": "207f82c3-c477-46bd-b5b8-8ea04543c29f",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-22T18:20:02.146Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "The absolute goat, super chill, funny and really understanding. 10/10 would recommend if you need to take comms.",
+          "id": "405c242b-cb4f-4b2b-9d62-15a09418849b",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-22T18:34:00.919Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Jarrod is such a great public speaking professor!! Super clear and honest with assignment/speech expectations, gives great and immediate feedback to exactly what you could work on, while also highlighting what you did well. Very flexible and understanding, and makes the class very manageable for students who struggle with public speaking and communications in general. Awesome personality and the BEST professor. I would take more of his classes if I was a COMS major.",
+          "tags": [
+            "Fast Response Time",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "1f8c22f1-d64b-4c78-ad7c-24a22014bf25",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-22T20:57:46.642Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "One of my favorite professors ever!! He is so chill with the class and assignments. There are 3 speeches in his class, but he is an easy grader and gives you a lot of time to prepare. There are 6 discussion posts, but they are all easy topics that you can choose. No tests/exams. He is super responsive to emails and is understanding of illness and missed assignments. He always makes his in-class assignments fun, and they are all group work.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Flexible Grading Policy"
+          ],
+          "id": "3add5982-9bde-480a-9f2f-0346a7274c12",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-22T21:06:07.661Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "easiest class ever and best professor",
+          "id": "c0e3158c-66a1-4dd1-a3de-096233fed09c",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-22T21:34:45.282Z"
         }
       ]
     }
@@ -504101,7 +504375,7 @@
   {
     "id": "88d70b62-a7ac-41a1-89e8-30202e7a1b56",
     "department": "ME",
-    "firstName": "Cristopher",
+    "firstName": "Christopher",
     "lastName": "Pascual",
     "numEvals": 44,
     "overallRating": 3.79,
@@ -540711,7 +540985,7 @@
   {
     "id": "91916bd2-8be0-413b-b0d4-8fe18acd49cc",
     "department": "ARCH",
-    "firstName": "Josh",
+    "firstName": "Joshua",
     "lastName": "Miller",
     "numEvals": 2,
     "overallRating": 4,
@@ -550096,7 +550370,7 @@
   {
     "id": "961b34e0-5e20-49bf-9bca-3ecd6f1dfefa",
     "department": "MATH",
-    "firstName": "Cierra",
+    "firstName": "Ciera",
     "lastName": "Street",
     "numEvals": 15,
     "overallRating": 4,
@@ -559201,7 +559475,7 @@
   {
     "id": "98dee929-d3aa-471f-b626-a2729fe651d6",
     "department": "POLS",
-    "firstName": "Annie",
+    "firstName": "Annie Aguiniga",
     "lastName": "Frew",
     "numEvals": 20,
     "overallRating": 3.25,
@@ -583813,7 +584087,7 @@
   {
     "id": "9eba8d15-abba-4142-8d09-8d3e2f74856a",
     "department": "PHYS",
-    "firstName": "Jefferey",
+    "firstName": "Jeffrey",
     "lastName": "Chaffin",
     "numEvals": 15,
     "overallRating": 3.86,
@@ -625022,7 +625296,7 @@
   {
     "id": "ab7941bd-a662-4a16-9f54-0f20cecded1e",
     "department": "JOUR",
-    "firstName": "Patricia (Patti)",
+    "firstName": "Patti",
     "lastName": "Piburn",
     "numEvals": 17,
     "overallRating": 2.89,
@@ -636084,7 +636358,7 @@
   {
     "id": "af027de6-8993-4099-949d-adb138d0bfbf",
     "department": "AGB",
-    "firstName": "Ricky",
+    "firstName": "Richard",
     "lastName": "Volpe",
     "numEvals": 21,
     "overallRating": 3.5,
@@ -637190,6 +637464,49 @@
           "id": "82f33355-b0a8-4da5-94f8-dfae0cf24653",
           "professor": "afa35e7b-e495-4d13-a3b0-1406d902cc51",
           "postDate": "2001-08-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "afb41f2d-cf9b-4baa-a240-991917d30bb1",
+    "department": "STAT",
+    "firstName": "Connor",
+    "lastName": "Celum",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "STAT"
+    ],
+    "tags": {
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    },
+    "reviews": {
+      "STAT 1110": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He is literally the goat and teacher very well and is a reasonable grader. He is extremely friendly in class and more than welcome to give students additional instruction. He is also getting married so we all wish him a happy and long marriage      :^)",
+          "tags": [
+            "Fast Response Time",
+            "High In-Person Availability",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "id": "d07e8d67-f279-4875-b89f-cae7030e1345",
+          "professor": "afb41f2d-cf9b-4baa-a240-991917d30bb1",
+          "postDate": "2026-10-25T03:12:05.929Z"
         }
       ]
     }
@@ -652717,7 +653034,7 @@
   {
     "id": "b4806304-8d46-4040-ae3a-26aca65c4c2c",
     "department": "BIO",
-    "firstName": "Cilnton",
+    "firstName": "Clinton",
     "lastName": "Francis",
     "numEvals": 15,
     "overallRating": 2.65,
@@ -663024,7 +663341,7 @@
   {
     "id": "b7d3b66b-1fde-4d9f-8ada-8cb1ec26ec00",
     "department": "PSY",
-    "firstName": "Debora",
+    "firstName": "Debra",
     "lastName": "Valencia-Laver",
     "numEvals": 12,
     "overallRating": 4,
@@ -688271,7 +688588,7 @@
   {
     "id": "c083bbb4-5406-4867-aa87-c4c61e74d932",
     "department": "ME",
-    "firstName": "Stephen",
+    "firstName": "Steve",
     "lastName": "Klisch",
     "numEvals": 58,
     "overallRating": 3.06,
@@ -692177,7 +692494,7 @@
   {
     "id": "c15b693a-c08e-4e15-9efc-f215b0b1fb88",
     "department": "BIO",
-    "firstName": "Jaimie",
+    "firstName": "Jamie",
     "lastName": "Bunting",
     "numEvals": 38,
     "overallRating": 3.85,
@@ -696861,7 +697178,7 @@
     "id": "c2152f06-bfae-4bb8-bf33-a2709cd4e3b4",
     "department": "STAT",
     "firstName": "Billie-Jo",
-    "lastName": "Grant-Ghanotakis",
+    "lastName": "Grant",
     "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
@@ -697074,7 +697391,7 @@
   {
     "id": "c2490f21-941f-4bf1-b35d-021eb65eed0b",
     "department": "FSN",
-    "firstName": "Sharon",
+    "firstName": "Sherry",
     "lastName": "Elliston",
     "numEvals": 2,
     "overallRating": 4,
@@ -748357,7 +748674,7 @@
   {
     "id": "d38d3f0e-43ad-4719-bccd-2bb5629ee19a",
     "department": "BIO",
-    "firstName": "Nishanta",
+    "firstName": "Nishi",
     "lastName": "Rajakaruna",
     "numEvals": 5,
     "overallRating": 1.6,
@@ -748980,7 +749297,7 @@
     "id": "d42b6b52-3cfa-453f-9bee-56dd17d87d11",
     "department": "DANC",
     "firstName": "Horacio",
-    "lastName": "Heredia",
+    "lastName": "Heredia Vital",
     "numEvals": 1,
     "overallRating": 4,
     "materialClear": 4,
@@ -749009,7 +749326,7 @@
   {
     "id": "d437fd69-e533-44f5-8be5-bee3dae366f8",
     "department": "GEOG",
-    "firstName": "Andrew",
+    "firstName": "G. Andrew",
     "lastName": "Fricker",
     "numEvals": 3,
     "overallRating": 3.67,
@@ -777964,7 +778281,7 @@
   {
     "id": "dc34830d-8cd4-421f-bd6d-18730691e3e9",
     "department": "BMED",
-    "firstName": "Bob",
+    "firstName": "Robert",
     "lastName": "Crockett",
     "numEvals": 21,
     "overallRating": 3.41,
@@ -805570,7 +805887,7 @@
   {
     "id": "e32ff950-6b4b-420a-90cf-0eefafa1e92b",
     "department": "BUS",
-    "firstName": "Kaveepan",
+    "firstName": "Kevin",
     "lastName": "Lertwachara",
     "numEvals": 31,
     "overallRating": 3.46,
@@ -829529,6 +829846,49 @@
     }
   },
   {
+    "id": "eb374838-21fa-4e7b-a630-886dd1f829bc",
+    "department": "ECON",
+    "firstName": "Onil",
+    "lastName": "Boussim",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "ECON"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    },
+    "reviews": {
+      "ECON 3021": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Horrible professor, chill dude, but the guy can not teach. You will have to self-study everything.",
+          "tags": [
+            "Recorded Lectures",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "c1c4eac8-bfb1-4e6a-a4a8-12e6cc264c9c",
+          "professor": "eb374838-21fa-4e7b-a630-886dd1f829bc",
+          "postDate": "2026-10-23T22:14:14.162Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "eb4a0594-a071-4f6d-b792-8cee0ca9ab0d",
     "department": "ENGL",
     "firstName": "Dawn",
@@ -832067,7 +832427,7 @@
   {
     "id": "ec0a9d80-dcba-4f4f-8b7c-b746effc60c5",
     "department": "BUS",
-    "firstName": "Sisi",
+    "firstName": "Setareh",
     "lastName": "Pouraghabagher",
     "numEvals": 94,
     "overallRating": 3.64,
@@ -835891,7 +836251,7 @@
   {
     "id": "ed4666c2-b1a7-4ada-963c-d70b9c2f4e1d",
     "department": "ME",
-    "firstName": "William",
+    "firstName": "Bill",
     "lastName": "Murray",
     "numEvals": 33,
     "overallRating": 2.88,
@@ -837244,7 +837604,7 @@
   {
     "id": "ee24cd1e-3f8e-4a05-bf4f-d5447a1f04c6",
     "department": "MATH",
-    "firstName": "Bill",
+    "firstName": "William",
     "lastName": "Hesselgrave",
     "numEvals": 208,
     "overallRating": 3.39,
@@ -885842,7 +886202,7 @@
   {
     "id": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
     "department": "MATH",
-    "firstName": "Jeff",
+    "firstName": "Jeffrey",
     "lastName": "Gervasi",
     "numEvals": 84,
     "overallRating": 3.77,
@@ -901789,7 +902149,7 @@
   {
     "id": "fda15571-1fb4-42b0-a693-f9ecacc324c1",
     "department": "ART",
-    "firstName": "Kathryn",
+    "firstName": "Katie",
     "lastName": "McCormick",
     "numEvals": 21,
     "overallRating": 2.26,
@@ -907610,17 +907970,17 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 4,
-    "overallRating": 1,
+    "numEvals": 3,
+    "overallRating": 0,
     "materialClear": 0,
-    "studentDifficulties": 0.5,
+    "studentDifficulties": 0.67,
     "courses": [
       "BUS 3319"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Pop Quizzes": 1,
-      "No Breaks During Lecture": 2,
+      "Inflexible Deadline Policy": 0,
+      "Pop Quizzes": 0,
+      "No Breaks During Lecture": 1,
       "Inflexible Grading Policy": 1,
       "Does Not Use Canvas": 1
     },
@@ -907637,24 +907997,6 @@
           "id": "6b71ebb9-5b88-470f-9ae4-78f43feb0b27",
           "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
           "postDate": "2026-10-16T20:53:06.834Z"
-        },
-        {
-          "grade": "F",
-          "gradeLevel": "Grad Student",
-          "courseType": "General Ed",
-          "overallRating": 4,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "Agent 404 smiled during the lecture today. Honestly made my entire year. It seemed she's forced to be here, and I honestly admire her lack of remorse toward her students and willingness to solely read off slides generated by AI slop. I talked with her after class and she has a big fat crush on Chuancai Zhang, and I'll probably apply to be her TA next year because she brings me so much joy and and peace, and I'd rather sit through her class then spend time with my family over thanksgiving break. Thank you Tamara Sui for changing my outlook on life. You inspire me to learn SQL in an obscenely short amount of time",
-          "tags": [
-            "Inflexible Deadline Policy",
-            "Pop Quizzes",
-            "No Breaks During Lecture"
-          ],
-          "anonymousIdentifier": "52a804182d918e88",
-          "id": "01a7e65e-fa92-41ac-88f6-3ebaf0900ac0",
-          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
-          "postDate": "2026-10-18T04:51:33.841Z"
         },
         {
           "grade": "N/A",
