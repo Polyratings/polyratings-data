@@ -152332,10 +152332,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 98,
-    "overallRating": 2.42,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.38,
+    "numEvals": 99,
+    "overallRating": 2.4,
+    "materialClear": 2.31,
+    "studentDifficulties": 2.36,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -152352,16 +152352,17 @@
       "ME 236",
       "MATE 340",
       "MATE 450",
-      "ME 212"
+      "ME 212",
+      "ENGR 2211"
     ],
     "tags": {
-      "Flexible Attendance Policy": 3,
-      "Uploads Slides": 7,
-      "Class Handouts": 5,
-      "Inflexible Deadline Policy": 4,
+      "Flexible Attendance Policy": 4,
+      "Uploads Slides": 8,
+      "Class Handouts": 6,
+      "Inflexible Deadline Policy": 5,
       "Recorded Lectures": 7,
       "Flexible Grading Policy": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Does Not Use Canvas": 1,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 2,
@@ -153669,6 +153670,28 @@
           "id": "bdae8b64-99fc-48b6-9b1a-26a7d628e8cb",
           "professor": "2a9a925e-6305-4546-957b-b10b78f95f9d",
           "postDate": "Mon Jun 15 2026 23:59:37 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGR 2211": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Do not take him. His homework grading is needlessly hard and there is no rubric that he grades against. He will require some work for problems that he has not on any other assignment. Subsequently he will give you a fifty on the assignment after it is not there. Also, homework takes like 8-10 hours a week. It is also week 10 of the semester and there are no quiz or test grades in canvas. When he presents in class, he tends to do the easy parts and skip over the hard parts. He has also missed 3 weeks of classes because he works another job and that one comes first apparently. I think that should be a deal breaker for being a professor, but I guess not. He posts vides sometimes but they are not helpful and often assume that they are in addition to in person lecture, but he posts them as substitutes.",
+          "tags": [
+            "Uploads Slides",
+            "Class Handouts",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "64e02d0656154e96",
+          "id": "41197d49-2a10-45bb-aceb-0fbba924e009",
+          "professor": "2a9a925e-6305-4546-957b-b10b78f95f9d",
+          "postDate": "2026-10-25T00:24:31.306Z"
         }
       ]
     }
@@ -857340,14 +857363,21 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 1,
-    "overallRating": 4,
+    "numEvals": 2,
+    "overallRating": 3.5,
     "materialClear": 4,
-    "studentDifficulties": 4,
+    "studentDifficulties": 3,
     "courses": [
-      "ME"
+      "ME 2111",
+      "ENGR 2211"
     ],
-    "tags": {},
+    "tags": {
+      "Honor DRC Accommodations": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Inflexible Grading Policy": 1,
+      "Uploads Slides": 1
+    },
     "reviews": {
       "ME 2111": [
         {
@@ -857361,6 +857391,28 @@
           "id": "35ff2f58-993b-4678-96d4-444dab0cc26a",
           "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
           "postDate": "Fri Oct 16 2026 08:17:56 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGR 2211": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Kuba is a brand-new professor, so he is still figuring out his teaching style. His lectures are fairly helpful, and he does a good job explaining new concepts to students. That being said, he expects the majority of learning to happen outside of class, whether through homework or studying on your own. He often says his class should be your main priority, and it sometimes feels like he doesn\u2019t account for students having other classes with their own work or extracurriculars. He is helpful during office hours and truly wants every student to do well and succeed in his class. He has two midterms and a final, along with weekly homework and quizzes. The homework takes a decent amount of time and is by no means easy, but it prepares you well for the quizzes. On quizzes and midterms, he takes off a disproportionate number of points for small mistakes, so definitely expect to lose points even for minor errors. However, he does offer extra credit assignments before each midterm and the final, but these are very time-consuming and difficult.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Inflexible Grading Policy",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "8384486e5767d0f8",
+          "id": "a4a7bcf6-0dce-435f-8892-94e918a4eb85",
+          "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+          "postDate": "2026-10-24T22:20:32.549Z"
         }
       ]
     }
