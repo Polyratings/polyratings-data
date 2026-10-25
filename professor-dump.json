@@ -674474,9 +674474,9 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Powell",
-    "numEvals": 37,
-    "overallRating": 3.76,
-    "materialClear": 3.78,
+    "numEvals": 38,
+    "overallRating": 3.71,
+    "materialClear": 3.73,
     "studentDifficulties": 3.84,
     "courses": [
       "PHYS 143",
@@ -674484,21 +674484,23 @@
       "PHYS 141",
       "PHYS 121",
       "PHYS 405",
-      "PHYS 211"
+      "PHYS 211",
+      "PHYS 1141"
     ],
     "tags": {
       "Fast Response Time": 6,
       "Does Not Use Canvas": 2,
-      "Uploads Slides": 21,
+      "Uploads Slides": 22,
       "High In-Person Availability": 9,
       "Recorded Lectures": 1,
-      "Flexible Attendance Policy": 15,
-      "No Breaks During Lecture": 3,
+      "Flexible Attendance Policy": 16,
+      "No Breaks During Lecture": 4,
       "Flexible Grading Policy": 4,
       "Inflexible Attendance Policy": 2,
       "Honor DRC Accommodations": 1,
       "Supplemental Study Material": 9,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1
     },
     "reviews": {
       "PHYS 143": [
@@ -675114,6 +675116,28 @@
           "id": "3a987c9d-d5ec-4677-8be6-d49681aafdaa",
           "professor": "bc6cf593-6ab0-4730-8a03-170e89a52af5",
           "postDate": "Wed Apr 01 2026 16:46:25 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PHYS 1141": [
+        {
+          "grade": "D",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Not a great lecturer, but he himself is a chill dude, and he\u2019s cool to talk to. The Hw was hard, the midterms were even worse, and the final was a bit easier than the midterms. When I took this class the only people that got A\u2019s/B\u2019s were the people that already took physics in highschool. I didn\u2019t have any prior knowledge so I had to resort to self studying which did not prepare me for the exams.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "698d278cd1efce40",
+          "id": "634fd65b-924b-4182-a6bf-1caa52a2c8f9",
+          "professor": "bc6cf593-6ab0-4730-8a03-170e89a52af5",
+          "postDate": "2026-10-25T15:13:13.010Z"
         }
       ]
     }
