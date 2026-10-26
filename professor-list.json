@@ -50,10 +50,10 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0,
-    "studentDifficulties": 0.33,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 1.25,
     "courses": [
       "EE 2328"
     ],
@@ -63,7 +63,12 @@
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "High In-Person Availability": 1
     }
   },
   {
@@ -4094,30 +4099,31 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 63,
-    "overallRating": 1.51,
-    "materialClear": 1.99,
-    "studentDifficulties": 2.74,
+    "numEvals": 64,
+    "overallRating": 1.49,
+    "materialClear": 1.96,
+    "studentDifficulties": 2.7,
     "courses": [
       "MATH 141",
       "MATH 119",
       "MATE 162",
       "MATH 161",
-      "MATH 118"
+      "MATH 118",
+      "MATH 1411"
     ],
     "tags": {
       "Flexible Attendance Policy": 11,
-      "Class Handouts": 22,
-      "Inflexible Grading Policy": 13,
+      "Class Handouts": 23,
+      "Inflexible Grading Policy": 14,
       "Zoom Office Hours": 4,
       "Supplemental Study Material": 10,
       "Fast Response Time": 5,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Deadline Policy": 8,
-      "No Breaks During Lecture": 4,
+      "Inflexible Deadline Policy": 9,
+      "No Breaks During Lecture": 5,
       "High In-Person Availability": 3,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -12478,10 +12484,10 @@
     "department": "PHIL",
     "firstName": "Joseph",
     "lastName": "Lynch",
-    "numEvals": 122,
-    "overallRating": 2.44,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.3,
+    "numEvals": 123,
+    "overallRating": 2.45,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.31,
     "courses": [
       "PHIL 125",
       "PHIL 230",
@@ -12493,12 +12499,13 @@
       "PHIL 320",
       "PHIL 321",
       "PHIL 342",
-      "PHIL 422"
+      "PHIL 422",
+      "PHIL 2231"
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
       "Recorded Lectures": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
       "No Breaks During Lecture": 1
@@ -42564,17 +42571,19 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 5,
-    "overallRating": 1.6,
-    "materialClear": 0.8,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 1.5,
+    "materialClear": 0.83,
+    "studentDifficulties": 2.67,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {

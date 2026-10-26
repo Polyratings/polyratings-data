@@ -575,10 +575,10 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0,
-    "studentDifficulties": 0.33,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1,
+    "studentDifficulties": 1.25,
     "courses": [
       "EE 2328"
     ],
@@ -588,7 +588,12 @@
       "No Breaks During Lecture": 1,
       "Flexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "High In-Person Availability": 1
     },
     "reviews": {
       "EE 2328": [
@@ -639,6 +644,26 @@
           "id": "4d179061-980d-457f-8aa4-bf75b8256e3f",
           "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
           "postDate": "2026-10-23T18:23:18.938Z"
+        },
+        {
+          "grade": "F",
+          "gradeLevel": "5th/6th Year",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Ive never taken an EE class before. I asked my advisor to take signals and systems cause I was like, huh Signals sound super cool. Systems not so much. Anyways, first day of class he starts talking some guy named Fourier. I'm not sure what was going on. But all I know is that EE is super cool! I'm gonna consider switching from my English degree. \n\nBasu IS THE GOAT. Would take again. gg frickin ez",
+          "tags": [
+            "Hybrid Option",
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "Honor DRC Accommodations",
+            "High In-Person Availability"
+          ],
+          "anonymousIdentifier": "af62f9d2db51ec1b",
+          "id": "2bd40424-1295-4336-acb9-22aa82c9469b",
+          "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
+          "postDate": "2026-10-25T23:25:00.480Z"
         }
       ]
     }
@@ -70517,30 +70542,31 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 63,
-    "overallRating": 1.51,
-    "materialClear": 1.99,
-    "studentDifficulties": 2.74,
+    "numEvals": 64,
+    "overallRating": 1.49,
+    "materialClear": 1.96,
+    "studentDifficulties": 2.7,
     "courses": [
       "MATH 141",
       "MATH 119",
       "MATE 162",
       "MATH 161",
-      "MATH 118"
+      "MATH 118",
+      "MATH 1411"
     ],
     "tags": {
       "Flexible Attendance Policy": 11,
-      "Class Handouts": 22,
-      "Inflexible Grading Policy": 13,
+      "Class Handouts": 23,
+      "Inflexible Grading Policy": 14,
       "Zoom Office Hours": 4,
       "Supplemental Study Material": 10,
       "Fast Response Time": 5,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Deadline Policy": 8,
-      "No Breaks During Lecture": 4,
+      "Inflexible Deadline Policy": 9,
+      "No Breaks During Lecture": 5,
       "High In-Person Availability": 3,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     },
     "reviews": {
       "MATH 141": [
@@ -71526,6 +71552,28 @@
           "id": "b62178d1-05b1-4284-98b8-2c6260d5883a",
           "professor": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
           "postDate": "Tue Jan 13 2026 02:50:13 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1411": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Absolute dog shi teacher. Genuinely terrible; I regret ever enrolling in her class, and you should not enroll for your own sake. I don't know how she still teaches at Cal Poly teaching the way she does; no one in my class likes her. I hope she gets fired and finds a high school to terrorize the students there because she is not fit for a college classroom.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Class Handouts",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "75befcdb869e8e66",
+          "id": "2f79e217-4525-4180-8150-72f9628b1253",
+          "professor": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
+          "postDate": "2026-10-26T03:58:19.634Z"
         }
       ]
     }
@@ -213623,10 +213671,10 @@
     "department": "PHIL",
     "firstName": "Joseph",
     "lastName": "Lynch",
-    "numEvals": 122,
-    "overallRating": 2.44,
-    "materialClear": 2.41,
-    "studentDifficulties": 2.3,
+    "numEvals": 123,
+    "overallRating": 2.45,
+    "materialClear": 2.42,
+    "studentDifficulties": 2.31,
     "courses": [
       "PHIL 125",
       "PHIL 230",
@@ -213638,12 +213686,13 @@
       "PHIL 320",
       "PHIL 321",
       "PHIL 342",
-      "PHIL 422"
+      "PHIL 422",
+      "PHIL 2231"
     ],
     "tags": {
       "Inflexible Grading Policy": 2,
       "Recorded Lectures": 1,
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Supplemental Study Material": 1,
       "Fast Response Time": 1,
       "No Breaks During Lecture": 1
@@ -215153,6 +215202,24 @@
           "id": "e95631b9-57aa-440b-b0b3-4c828dce80e8",
           "professor": "3afefd72-65f1-4c55-b633-a7cce136074f",
           "postDate": "2008-07-01T07:00:00.000Z"
+        }
+      ],
+      "PHIL 2231": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "He is the most interesting lecturer ever. I genuinely find myself laughing out loud in his class. The exams are on the more challenging side, but if you prep for it they're not that bad. Readings are lowkey optional because he just goes over them in class. I was so scared for a boring prof but he is anything but that.",
+          "tags": [
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "fb2138fe052a4100",
+          "id": "0e8e1632-4dc9-40f0-84e2-1c84d5861ba4",
+          "professor": "3afefd72-65f1-4c55-b633-a7cce136074f",
+          "postDate": "2026-10-26T03:59:03.823Z"
         }
       ]
     }
@@ -746955,17 +747022,19 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 5,
-    "overallRating": 1.6,
-    "materialClear": 0.8,
-    "studentDifficulties": 2.8,
+    "numEvals": 6,
+    "overallRating": 1.5,
+    "materialClear": 0.83,
+    "studentDifficulties": 2.67,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "CHEM 120": [
@@ -747036,6 +747105,24 @@
           "id": "0c2ef800-c243-45db-bf15-5bbbd236bf9e",
           "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
           "postDate": "2026-10-21T21:28:17.324Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "She seems like a nice person, but she doesn't know how to lecture. At the time of writing this, it is her first year instructing, and she doesn't do a good job with explaining concepts. She puts the info on the slides and mostly just reads off them with barely any engagement. She also makes a lot of mistakes when writing problems on the board and confuses different terms that makes it hard to learn and confuses all of the students. I have had to rely on mostly self studying to understand concepts. I hope she gets better in the future.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "065a9d5f91f32ce5",
+          "id": "145333f5-685b-4150-a212-4f9dc0bc0ed9",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-10-26T03:55:30.129Z"
         }
       ]
     }
