@@ -16760,28 +16760,31 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 71,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.54,
+    "numEvals": 72,
+    "overallRating": 3.66,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.53,
     "courses": [
       "BUS 214",
       "BUS 215",
       "BUS 322",
       "AGB 214",
       "AGB 260",
-      "AGB 323"
+      "AGB 323",
+      "AGB 3310"
     ],
     "tags": {
       "Class Handouts": 8,
       "High In-Person Availability": 4,
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "Supplemental Study Material": 1,
       "Fast Response Time": 5,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Does Not Use Canvas": 1,
-      "Inflexible Attendance Policy": 3,
-      "Flexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -19401,6 +19404,23 @@
       "EE 368"
     ],
     "tags": {}
+  },
+  {
+    "id": "5c110ff5-3d9a-47b5-afa8-4a93e0588886",
+    "department": "ME",
+    "firstName": "Glynn",
+    "lastName": "Gallaway",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 2,
+    "studentDifficulties": 0,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    }
   },
   {
     "id": "5c1558ba-12fd-451e-998d-d2779ec9b483",

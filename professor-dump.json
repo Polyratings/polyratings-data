@@ -298580,28 +298580,31 @@
     "department": "BUS",
     "firstName": "Tim",
     "lastName": "Ridout",
-    "numEvals": 71,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.54,
+    "numEvals": 72,
+    "overallRating": 3.66,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.53,
     "courses": [
       "BUS 214",
       "BUS 215",
       "BUS 322",
       "AGB 214",
       "AGB 260",
-      "AGB 323"
+      "AGB 323",
+      "AGB 3310"
     ],
     "tags": {
       "Class Handouts": 8,
       "High In-Person Availability": 4,
-      "Pop Quizzes": 1,
+      "Pop Quizzes": 2,
       "Supplemental Study Material": 1,
       "Fast Response Time": 5,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Does Not Use Canvas": 1,
-      "Inflexible Attendance Policy": 3,
-      "Flexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "BUS 214": [
@@ -299537,6 +299540,28 @@
           "id": "77c2008e-a8d0-4c50-9a87-22616a575827",
           "professor": "50431e30-0639-429d-947e-27df6fe7c4a8",
           "postDate": "Thu Oct 23 2025 04:40:14 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "AGB 3310": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Tim is a fairly traditional professor that really only requires showing up and doing you work. I think he gets a bad rep for being strict on deadlines and a bit challening on exams. If you took 214 with him I would suggest taking 310 with him as his teaching style is very much the same and really helps you with your mistakes. He clearly lays out instructions and gets you comfortable with working with the software. Truly knowledgable in what he teaches and would reccoment him to those who want to really learn Excel.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "e7df306b8d33bb52",
+          "id": "dd1728dc-cb6a-4102-9f60-5cd515049c66",
+          "professor": "50431e30-0639-429d-947e-27df6fe7c4a8",
+          "postDate": "2026-10-26T12:42:17.411Z"
         }
       ]
     }
@@ -342728,6 +342753,43 @@
           "id": "49d8ac6d-14df-483e-99e4-64c9fa5dc3c1",
           "professor": "5bfd4591-3978-4bb6-8f86-afb312200cbb",
           "postDate": "2014-11-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5c110ff5-3d9a-47b5-afa8-4a93e0588886",
+    "department": "ME",
+    "firstName": "Glynn",
+    "lastName": "Gallaway",
+    "numEvals": 1,
+    "overallRating": 0,
+    "materialClear": 2,
+    "studentDifficulties": 0,
+    "courses": [
+      "ME"
+    ],
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    },
+    "reviews": {
+      "ME 3328": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Genuinely such a terrible professor. In terms of lecturing, she isnt hard to follow, but her grading is some of the most insane crap i've seen at my time at poly. Her averages are incredibly low on quizzes, hw, labs, etc. The average for the first midterm was a C, but the rest of the gradebook sits around the same. All quiz averages have been failing and she doesn't recognize that four problems in 15 minutes is very unusual, and the majority of students do not finish. She tends to act nice, yet every lab we do takes around 8 hours outside of class to complete when all the other professors teaching this course have their students finish in lab. Even at office hours, she is not the most understanding, and typically gives the impression that she is one of the best professors out there and she isn't. Her lab alone can feel like a 4 unit class, and no matter what you put on the homework, the odds you ever get 100 on one of them are very low. Rarely is anyone from all of her sections getting a 100 on any of the work and exams she assigns. I personally don't think she would get 100 if she was a student in her own class. This class is just way too much work for what it is, and I would avoid her if you can.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "bf144296-91f4-49db-a0a6-8defb6b9760a",
+          "professor": "5c110ff5-3d9a-47b5-afa8-4a93e0588886",
+          "postDate": "2026-10-25T23:50:52.232Z"
         }
       ]
     }
