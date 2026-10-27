@@ -445063,28 +445063,29 @@
     "department": "CHEM",
     "firstName": "Javin",
     "lastName": "Oza",
-    "numEvals": 11,
-    "overallRating": 2.09,
-    "materialClear": 2.09,
-    "studentDifficulties": 3.09,
+    "numEvals": 12,
+    "overallRating": 1.92,
+    "materialClear": 1.92,
+    "studentDifficulties": 2.92,
     "courses": [
       "CHEM 124",
       "CHEM 127",
-      "CHEM 314"
+      "CHEM 314",
+      "CHEM 1120"
     ],
     "tags": {
       "Fast Response Time": 3,
       "Flexible Attendance Policy": 1,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 4,
+      "Inflexible Grading Policy": 5,
       "Inflexible Deadline Policy": 2,
       "No Breaks During Lecture": 3,
       "Zoom Office Hours": 1,
       "High In-Person Availability": 2,
-      "Flexible Deadline Policy": 2,
-      "Class Handouts": 4,
+      "Flexible Deadline Policy": 3,
+      "Class Handouts": 5,
       "Does Not Use Canvas": 1,
       "Recorded Lectures": 1
     },
@@ -445277,6 +445278,27 @@
           "id": "c2819ce5-0430-4e86-a502-1acebf5ec54c",
           "professor": "7814eb56-75bf-4478-bd05-2e8968332181",
           "postDate": "Tue Mar 03 2026 06:19:43 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CHEM 1120": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Wastes as much of your time as possible explaining a 10 minute Organic Chemistry Tutor video worth of information in 3 hours, using 15 different analogies as to confuse you as much as possible. I came into this class taking AP Chem (5), so this was all well known to me. However, Javin Oza's lectures made me question whether I understood anything at all. You may think, \u201cWell, I\u2019ll just skip the lectures and show up for the labs/quizzes.\u201d You\u2019d be on the right track, if the syllabus calendar offered any direction through the same crocodile-evading path his disorganized teaching and lectures follow. If you end up with the elementary schoolteacher that is Javin Oza, enjoy self-teaching yourself chemistry and cringing during his 3 hour dillydallying session.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Class Handouts",
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "d48c41f40356b702",
+          "id": "299e15a0-a124-4ac8-a33f-bde6e1bd3f1c",
+          "professor": "7814eb56-75bf-4478-bd05-2e8968332181",
+          "postDate": "2026-10-27T21:40:02.709Z"
         }
       ]
     }
@@ -457317,7 +457339,7 @@
     "department": "COMS",
     "firstName": "Jarrod",
     "lastName": "Ventura",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -457479,6 +457501,19 @@
           "id": "c3c8767f-09b4-45af-9e7d-ef254cb77668",
           "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
           "postDate": "2026-10-26T23:03:44.192Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Amazing teacher!! Take public speaking with Jarrod he is the best!!!",
+          "anonymousIdentifier": "23eff55ec7a4b710",
+          "id": "f90953de-663f-4b77-8078-f7c68d73af12",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-27T21:26:59.908Z"
         }
       ]
     }
@@ -562252,24 +562287,25 @@
     "department": "ENGL",
     "firstName": "Krista",
     "lastName": "Kauffmann",
-    "numEvals": 30,
-    "overallRating": 2.93,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.02,
+    "numEvals": 31,
+    "overallRating": 2.96,
+    "materialClear": 3.19,
+    "studentDifficulties": 3.05,
     "courses": [
       "ENGL 231",
       "ENGL 305",
       "ENGL 335",
       "ENGL 338",
       "ENGL 349",
-      "ENGL 439"
+      "ENGL 439",
+      "ENGL 2231"
     ],
     "tags": {
       "Hybrid Option": 1,
       "Recorded Lectures": 1,
       "Inflexible Deadline Policy": 1,
       "Flexible Attendance Policy": 5,
-      "Pop Quizzes": 10,
+      "Pop Quizzes": 11,
       "Flexible Grading Policy": 1,
       "No Breaks During Lecture": 3,
       "Inflexible Grading Policy": 2,
@@ -562722,6 +562758,24 @@
           "id": "d4fb0cf3-9ad7-4e52-8f8a-53a6deff7760",
           "professor": "99b69438-7d1e-4417-b27d-e46e03e5e8ae",
           "postDate": "2013-11-01T07:00:00.000Z"
+        }
+      ],
+      "ENGL 2231": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Amazing, kind, sweet professor! Has a new policy where you hand-write essays in class now due to AI, and although it was definitely a throwback to high school, they weren't bad and she graded pretty fairly. To get an A, you will have to keep up on the readings for all 3 books (as there are pop quizzes on them) but the pop quizzes are super chill. Overall just the right amount of difficulty for a GWR- a bit of a challenge, but an A is very attainable. Take this class!",
+          "tags": [
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "d7aa15c9c73e0cc5",
+          "id": "c79b96a1-7dd8-4f99-a15d-12f5db4a0126",
+          "professor": "99b69438-7d1e-4417-b27d-e46e03e5e8ae",
+          "postDate": "2026-10-27T21:04:03.720Z"
         }
       ]
     }
@@ -865245,18 +865299,19 @@
     "department": "CSC",
     "firstName": "Lucas",
     "lastName": "Pierce",
-    "numEvals": 9,
-    "overallRating": 3.78,
-    "materialClear": 3.78,
+    "numEvals": 10,
+    "overallRating": 3.8,
+    "materialClear": 3.8,
     "studentDifficulties": 4,
     "courses": [
       "CSC 365",
       "CSC 466",
-      "CSC 369"
+      "CSC 369",
+      "CSC 3660"
     ],
     "tags": {
       "Fast Response Time": 3,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Uploads Slides": 3,
       "Flexible Grading Policy": 2,
       "Flexible Deadline Policy": 1
@@ -865403,6 +865458,24 @@
           "id": "db1a77aa-9a80-4b63-9a64-ba0eb7fe24e9",
           "professor": "f47c9768-f6da-4c8c-ad57-a9ba87ca5e5e",
           "postDate": "Fri Mar 13 2026 22:23:01 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 3660": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I gatekept writing a review until my enrollment appointment today so i could get into another one of his classes next semester bc Pierce is the best professor I've had so far. He makes his lectures engaging, and the potion shop project made me actually care about the class (still disappointed i didnt get top 5). I'm probably gonna remember databases for the rest of my life",
+          "tags": [
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "64e02d0656154e96",
+          "id": "c282df86-3d99-4fe7-b273-d2b95c7d8d65",
+          "professor": "f47c9768-f6da-4c8c-ad57-a9ba87ca5e5e",
+          "postDate": "2026-10-27T20:34:38.218Z"
         }
       ]
     }
