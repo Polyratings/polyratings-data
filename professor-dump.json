@@ -587697,19 +587697,20 @@
     "department": "BUS",
     "firstName": "Paul",
     "lastName": "Patterson",
-    "numEvals": 17,
-    "overallRating": 3.16,
-    "materialClear": 3.18,
-    "studentDifficulties": 3.59,
+    "numEvals": 18,
+    "overallRating": 3.21,
+    "materialClear": 3.17,
+    "studentDifficulties": 3.56,
     "courses": [
-      "BUS 346"
+      "BUS 346",
+      "BUS 3346"
     ],
     "tags": {
       "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 8,
+      "Flexible Grading Policy": 9,
       "No Breaks During Lecture": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Inflexible Attendance Policy": 3,
       "Flexible Deadline Policy": 3,
       "Fast Response Time": 1
@@ -587974,6 +587975,25 @@
           "id": "efd929b0-2c96-42cf-9eb8-cbe649f434e0",
           "professor": "a013ca4b-5a13-4b62-a251-4d60d6038e70",
           "postDate": "Tue Sep 29 2026 03:22:02 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3346": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "75 year old dude from tahoe who loves trains. This is the easiest A you will receive in a major course, although you wont learn much. Attendence taken each day in class, little individual work. Will ramble on about his work experence and will end class early occasionally.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "3f8037070b161c8b",
+          "id": "2feeaea1-8407-4e44-9792-a5b4949199af",
+          "professor": "a013ca4b-5a13-4b62-a251-4d60d6038e70",
+          "postDate": "2026-10-27T17:33:43.844Z"
         }
       ]
     }
@@ -612821,10 +612841,10 @@
     "department": "BUS",
     "firstName": "Randy",
     "lastName": "Rovegno",
-    "numEvals": 26,
-    "overallRating": 3.32,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.31,
+    "numEvals": 27,
+    "overallRating": 3.35,
+    "materialClear": 3.68,
+    "studentDifficulties": 3.34,
     "courses": [
       "BUS 346",
       "BUS 454",
@@ -612833,14 +612853,16 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 2,
-      "High In-Person Availability": 2,
+      "Inflexible Attendance Policy": 3,
+      "High In-Person Availability": 3,
       "Honor DRC Accommodations": 3,
       "Flexible Attendance Policy": 1,
       "No Breaks During Lecture": 1,
       "Supplemental Study Material": 1,
       "Does Not Use Canvas": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "BUS 346": [
@@ -613216,6 +613238,25 @@
           "id": "ebfc2106-2194-45a2-8f3e-684cb4015564",
           "professor": "a72d930a-2527-474c-b037-45ca14a72533",
           "postDate": "2026-10-26T16:29:52.265Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Randy is an absolute stud and so ferda, the in class quizzes are every other week and really straight forward, no tests, brings really good guest speakers into class and knows a lot about the industry. You get to do a fun marketing plan project which is the only thing he grades pretty hard on. Everyone who has said anything bad about Rovegno is just a squid because this is one of best classes I have taken.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy",
+            "High In-Person Availability"
+          ],
+          "anonymousIdentifier": "d6f7a4810d08b5bc",
+          "id": "aa83b531-fdb5-4306-9287-bd907593c90f",
+          "professor": "a72d930a-2527-474c-b037-45ca14a72533",
+          "postDate": "2026-10-27T16:27:59.393Z"
         }
       ]
     }
@@ -629303,26 +629344,27 @@
     "department": "ENGL",
     "firstName": "Anne",
     "lastName": "Baltimore",
-    "numEvals": 14,
-    "overallRating": 2.56,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.5,
+    "numEvals": 15,
+    "overallRating": 2.66,
+    "materialClear": 2.81,
+    "studentDifficulties": 2.6,
     "courses": [
       "ENGL 147",
-      "ENGL 310"
+      "ENGL 310",
+      "ENGL 3310"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 6,
+      "Inflexible Attendance Policy": 7,
       "Uploads Slides": 1,
       "High In-Person Availability": 1,
-      "Inflexible Deadline Policy": 2,
-      "Class Handouts": 3,
+      "Inflexible Deadline Policy": 3,
+      "Class Handouts": 4,
       "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 1,
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
       "Flexible Grading Policy": 1,
-      "Hybrid Option": 1
+      "Hybrid Option": 2
     },
     "reviews": {
       "ENGL 147": [
@@ -629549,6 +629591,28 @@
           "id": "7a2ba56f-967c-4df7-b9b6-eb0c80b9be05",
           "professor": "ac7b210e-e4f1-428f-b5fc-92fcf0656dac",
           "postDate": "Wed Jun 03 2026 21:50:01 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGL 3310": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Taking this class to fulfill my GE UD 4 and GWR, super easy class because it is hybrid. She is very knowledgeable about corporate etiquette. Some short presentations and in class assignments, definitely take this class",
+          "tags": [
+            "Hybrid Option",
+            "Fast Response Time",
+            "Class Handouts",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "d6f7a4810d08b5bc",
+          "id": "25749c75-6c54-4197-9162-79b01372b612",
+          "professor": "ac7b210e-e4f1-428f-b5fc-92fcf0656dac",
+          "postDate": "2026-10-27T16:24:04.327Z"
         }
       ]
     }
@@ -786439,10 +786503,10 @@
     "department": "BUS",
     "firstName": "Bing",
     "lastName": "Anderson",
-    "numEvals": 84,
-    "overallRating": 1.92,
+    "numEvals": 85,
+    "overallRating": 1.93,
     "materialClear": 1.93,
-    "studentDifficulties": 1.97,
+    "studentDifficulties": 1.99,
     "courses": [
       "BUS 301",
       "BUS 342",
@@ -786453,12 +786517,14 @@
     ],
     "tags": {
       "Hybrid Option": 1,
-      "Inflexible Attendance Policy": 8,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Attendance Policy": 9,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 3,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "Does Not Use Canvas": 2,
-      "Recorded Lectures": 2
+      "Recorded Lectures": 2,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "BUS 301": [
@@ -787568,6 +787634,26 @@
           "id": "34511466-0d41-4dc5-acf5-218bd14dddc9",
           "professor": "debce908-824a-4b92-ab31-726c47542b87",
           "postDate": "Sat Oct 03 2026 03:23:29 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Definitely a class you should take if you are not planning to concentrate in finance. Lectures drag for a while but you honestly don't have to listen at all to do well. The midterms were super short and lowkey a cake walk, felt like I was back in 4th grade. It's kind of hard to understand what he is lecturing on but you honestly don't need to listen because everything you do is on a calculator. He's super nice in office hours and has ratings that are lower than it should be.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "d6f7a4810d08b5bc",
+          "id": "ead1e5da-4af4-4e89-b5c8-f2530c23df67",
+          "professor": "debce908-824a-4b92-ab31-726c47542b87",
+          "postDate": "2026-10-27T16:30:58.155Z"
         }
       ]
     }
@@ -891001,7 +891087,7 @@
     "department": "BUS",
     "firstName": "Erik",
     "lastName": "Loken",
-    "numEvals": 15,
+    "numEvals": 16,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -891010,17 +891096,17 @@
       "BUS 3391"
     ],
     "tags": {
-      "Supplemental Study Material": 2,
-      "Uploads Slides": 9,
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 10,
       "Fast Response Time": 2,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Zoom Office Hours": 1,
       "Recorded Lectures": 2,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Flexible Deadline Policy": 2,
       "No Breaks During Lecture": 1,
       "Honor DRC Accommodations": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     },
     "reviews": {
       "BUS 391": [
@@ -891265,6 +891351,26 @@
           "id": "2bf39923-cab6-4421-98ea-ff765ae54171",
           "professor": "fa732a7c-5fca-483e-9621-7cd7008f6941",
           "postDate": "2026-10-26T16:23:04.173Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Taking it right now and bro is an absolute dawg. The class moves at a good speed and his lectures are super interesting even if you're not too into IS. Not much work to do outside of class other than familiarize yourself with databases. Super understanding professor that definitely cares a lot about his students. take him.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "d6f7a4810d08b5bc",
+          "id": "ff6a5a9e-8c33-4b1c-9fb8-326443bc5d64",
+          "professor": "fa732a7c-5fca-483e-9621-7cd7008f6941",
+          "postDate": "2026-10-27T16:21:33.898Z"
         }
       ]
     }
