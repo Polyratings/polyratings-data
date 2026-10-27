@@ -27410,9 +27410,9 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 238,
-    "overallRating": 2.68,
-    "materialClear": 2.54,
+    "numEvals": 239,
+    "overallRating": 2.67,
+    "materialClear": 2.53,
     "studentDifficulties": 2.4,
     "courses": [
       "MATH 112",
@@ -27433,16 +27433,16 @@
     "tags": {
       "Flexible Grading Policy": 5,
       "Inflexible Deadline Policy": 6,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Supplemental Study Material": 9,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 2,
       "High In-Person Availability": 10,
       "Fast Response Time": 11,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 1,
-      "Flexible Deadline Policy": 0
+      "No Breaks During Lecture": 2,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -37160,10 +37160,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 83,
-    "overallRating": 2.91,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.81,
+    "numEvals": 85,
+    "overallRating": 2.88,
+    "materialClear": 2.9,
+    "studentDifficulties": 2.77,
     "courses": [
       "ME 129",
       "ME 130",
@@ -37177,19 +37177,20 @@
       "ME 1148"
     ],
     "tags": {
-      "High In-Person Availability": 7,
-      "Class Handouts": 3,
+      "High In-Person Availability": 8,
+      "Class Handouts": 4,
       "Fast Response Time": 3,
-      "Uploads Slides": 13,
+      "Uploads Slides": 15,
       "Supplemental Study Material": 9,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Recorded Lectures": 4,
       "Zoom Office Hours": 2,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Deadline Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Inflexible Deadline Policy": 3,
+      "Flexible Attendance Policy": 3,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -37600,13 +37601,14 @@
     "department": "EE",
     "firstName": "Joseph",
     "lastName": "Sparks",
-    "numEvals": 6,
-    "overallRating": 2.5,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.29,
+    "materialClear": 2,
+    "studentDifficulties": 2.43,
     "courses": [
       "EE 241",
-      "EE 242"
+      "EE 242",
+      "EE 2241"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -49074,10 +49076,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 48,
-    "overallRating": 2.7,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.95,
+    "numEvals": 49,
+    "overallRating": 2.64,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.89,
     "courses": [
       "COMS 100",
       "COMS 316",

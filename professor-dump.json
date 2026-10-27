@@ -482685,9 +482685,9 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 238,
-    "overallRating": 2.68,
-    "materialClear": 2.54,
+    "numEvals": 239,
+    "overallRating": 2.67,
+    "materialClear": 2.53,
     "studentDifficulties": 2.4,
     "courses": [
       "MATH 112",
@@ -482708,16 +482708,16 @@
     "tags": {
       "Flexible Grading Policy": 5,
       "Inflexible Deadline Policy": 6,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Supplemental Study Material": 9,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 2,
       "High In-Person Availability": 10,
       "Fast Response Time": 11,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Class Handouts": 1,
-      "No Breaks During Lecture": 1,
-      "Flexible Deadline Policy": 0
+      "No Breaks During Lecture": 2,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "MATH 112": [
@@ -485754,6 +485754,25 @@
           "id": "63f1a904-72a8-4998-b8f5-dccfe6594d29",
           "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
           "postDate": "2026-10-24T04:37:17.946Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "i genuinely don't understand how this dude is still teaching. i swear in a year he's going to be more crippled than Hector Salamanca. he will absolutely dog on you for asking a question and embarrass you to the point where you never want to ask a question again. even if you do go to class every day and pay maximum attention, you're still not going to be ready for the tests bc he invented half the curriculum",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "2a2f81f7887fa725",
+          "id": "4014d20e-316f-49ee-b337-a0018212a97e",
+          "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
+          "postDate": "2026-10-27T07:10:01.479Z"
         }
       ]
     }
@@ -651960,10 +651979,10 @@
     "department": "ME",
     "firstName": "Ashley",
     "lastName": "Leitzell",
-    "numEvals": 83,
-    "overallRating": 2.91,
-    "materialClear": 2.94,
-    "studentDifficulties": 2.81,
+    "numEvals": 85,
+    "overallRating": 2.88,
+    "materialClear": 2.9,
+    "studentDifficulties": 2.77,
     "courses": [
       "ME 129",
       "ME 130",
@@ -651977,19 +651996,20 @@
       "ME 1148"
     ],
     "tags": {
-      "High In-Person Availability": 7,
-      "Class Handouts": 3,
+      "High In-Person Availability": 8,
+      "Class Handouts": 4,
       "Fast Response Time": 3,
-      "Uploads Slides": 13,
+      "Uploads Slides": 15,
       "Supplemental Study Material": 9,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Recorded Lectures": 4,
       "Zoom Office Hours": 2,
       "Pop Quizzes": 1,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Deadline Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Inflexible Deadline Policy": 3,
+      "Flexible Attendance Policy": 3,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "ME 129": [
@@ -653127,6 +653147,46 @@
           "id": "52d3bf5b-8894-409b-8993-822eb6c3510d",
           "professor": "b4657f29-3b86-4aa3-9206-bc61d32551ce",
           "postDate": "Sat Oct 10 2026 01:52:52 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "the only reason i didn't give her one star is because at least she tries and she helps in office hours and she knows when she was struggling. but holy crap, being blonde definitely got her through life because i don't understand half the things she says",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Class Handouts",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "2a2f81f7887fa725",
+          "id": "3992ab46-2e36-49bf-881d-032053624abc",
+          "professor": "b4657f29-3b86-4aa3-9206-bc61d32551ce",
+          "postDate": "2026-10-27T07:13:09.369Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I dont understand most of the things she says in the lecture - she always makes mistakes on the ppts and her grading is also quite harsh . PLEASE PLEASE TAKE SOMEONE ELSE IF YOU GET THE CHANCE. Atleast she tries helping in office hours but im sorry she is not a good professor",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Flexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "65f014d7-c11b-4ec1-94ac-eb1be443f07e",
+          "professor": "b4657f29-3b86-4aa3-9206-bc61d32551ce",
+          "postDate": "2026-10-27T08:53:48.500Z"
         }
       ]
     }
@@ -660422,13 +660482,14 @@
     "department": "EE",
     "firstName": "Joseph",
     "lastName": "Sparks",
-    "numEvals": 6,
-    "overallRating": 2.5,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.67,
+    "numEvals": 7,
+    "overallRating": 2.29,
+    "materialClear": 2,
+    "studentDifficulties": 2.43,
     "courses": [
       "EE 241",
-      "EE 242"
+      "EE 242",
+      "EE 2241"
     ],
     "tags": {
       "Fast Response Time": 1,
@@ -660527,6 +660588,21 @@
           "id": "1a0edc2e-e544-4785-a8e5-99a05f9bf9f1",
           "professor": "b669164c-2fdc-4de2-9456-5388d02114a0",
           "postDate": "Sun Jun 07 2026 22:07:18 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 2241": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Genuinely just a grumpy old man that really needs to retire. He's hella sassy and will not hesitate to embarrass you in front of the entire class if you make a simple mistake. One time, my lab partner and I were struggling on a lab and decided to ask for help after troubleshooting for damn near an hour. When asking nicely for help and telling him that we think we did something wrong, he immediately said, \"then do it right,\" and then walked away. He also left comments under mine, many others lab reports, and even made a complaint in class about how the font on our electronically submitted lab reports were too small and took points off for it (I used 12 pt academic standard font too). Btw he also has a lab practical midterm where you have to do an entire lab by yourself and submit the completed report in 1 hour and 20 minutes. He is so evil and unhelpful. Just do not take him.",
+          "anonymousIdentifier": "72fa7fc14e484568",
+          "id": "258e7b23-bf6f-4ee5-99f5-8bd2c62c784b",
+          "professor": "b669164c-2fdc-4de2-9456-5388d02114a0",
+          "postDate": "2026-10-27T05:33:52.917Z"
         }
       ]
     }
@@ -857240,10 +857316,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 48,
-    "overallRating": 2.7,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.95,
+    "numEvals": 49,
+    "overallRating": 2.64,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.89,
     "courses": [
       "COMS 100",
       "COMS 316",
@@ -857992,6 +858068,19 @@
           "id": "9740a295-8903-4833-bc67-993c3f2c6167",
           "professor": "f2633611-976b-424a-954f-8c2649da095b",
           "postDate": "Thu Oct 15 2026 18:44:46 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Can't understand anything she says. Super unclear, everything is open ended.",
+          "anonymousIdentifier": "21bed5d916024e2b",
+          "id": "be385e41-c71a-45d0-8a07-05be6a7a17e3",
+          "professor": "f2633611-976b-424a-954f-8c2649da095b",
+          "postDate": "2026-10-27T05:51:01.178Z"
         }
       ]
     }
