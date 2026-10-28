@@ -97815,25 +97815,27 @@
     "department": "BUS",
     "firstName": "Ziemowit",
     "lastName": "Bednarek",
-    "numEvals": 48,
-    "overallRating": 2.02,
+    "numEvals": 49,
+    "overallRating": 2,
     "materialClear": 1.78,
-    "studentDifficulties": 2.02,
+    "studentDifficulties": 2,
     "courses": [
       "BUS 342",
       "BUS 431",
       "BUS 438",
       "BUS 531",
-      "GSB 531"
+      "GSB 531",
+      "BUS 1342"
     ],
     "tags": {
       "Recorded Lectures": 7,
-      "Inflexible Grading Policy": 4,
-      "No Breaks During Lecture": 3,
+      "Inflexible Grading Policy": 5,
+      "No Breaks During Lecture": 4,
       "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Pop Quizzes": 3,
-      "Uploads Slides": 4
+      "Uploads Slides": 5,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "BUS 342": [
@@ -98486,6 +98488,28 @@
           "id": "c902965c-67e8-4bc4-b1a3-c9514fd7f17d",
           "professor": "19f36a36-669d-4c41-abfb-abdeccf68ae6",
           "postDate": "Wed Mar 25 2026 22:21:18 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 1342": [
+        {
+          "grade": "W",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "This guy.... SCARY. He's really fun, but why am I fearing for my life every time I get to class late? His exams are hard. He puts you on the spot and presses you when you don't know or when you get to class late. It got to a point where I stopped showing up because I was scared of him. He only has two homework assignments, each worth 10%, has one midterm and one final, each a big portion of your grade, and it's difficult af. I'm sure he's not a bad person, and he wants all his students to succeed I just feel like pressing people isn't the way to go about it. Not sure tho.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "96cf6a011b08dab8",
+          "id": "885203e2-1920-4b89-917a-093eee7ddae9",
+          "professor": "19f36a36-669d-4c41-abfb-abdeccf68ae6",
+          "postDate": "2026-10-28T16:29:32.315Z"
         }
       ]
     }
@@ -124284,29 +124308,31 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 12,
+    "numEvals": 13,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.76,
     "courses": [
       "EE 306",
       "EE 307",
       "EE 315",
       "EE 346",
       "EE 409",
-      "EE 321"
+      "EE 321",
+      "EE 2211"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Flexible Attendance Policy": 2,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 3,
-      "Class Handouts": 3,
-      "Zoom Office Hours": 2,
-      "Flexible Deadline Policy": 2,
-      "Uploads Slides": 2,
+      "Class Handouts": 4,
+      "Zoom Office Hours": 3,
+      "Flexible Deadline Policy": 3,
+      "Uploads Slides": 3,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "High In-Person Availability": 1
     },
     "reviews": {
       "EE 306": [
@@ -124504,6 +124530,28 @@
           "id": "91909ed5-2651-489d-aee6-2605a73be98b",
           "professor": "229cb75c-b14c-4014-b701-2efe5f95db7f",
           "postDate": "Sat Jul 04 2026 00:20:30 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 2211": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Such a great professor. He presents the material in a way that is understandable. the homework is a little harder than what we learn in class, but it is doable and helps you undersand the material better. Hes lowkey kinda funny, idk if its intentional or not. You will learn the material at a fundamental level and also get the bigger picture",
+          "tags": [
+            "Class Handouts",
+            "Uploads Slides",
+            "High In-Person Availability",
+            "Zoom Office Hours",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "a8a58b8b01ca68a5",
+          "id": "0db3d1f4-995e-422a-9f49-5930a99de8f3",
+          "professor": "229cb75c-b14c-4014-b701-2efe5f95db7f",
+          "postDate": "2026-10-28T20:28:26.698Z"
         }
       ]
     }
@@ -138816,10 +138864,10 @@
     "department": "BUS",
     "firstName": "Daeun (Philip)",
     "lastName": "Lee",
-    "numEvals": 20,
-    "overallRating": 3.05,
-    "materialClear": 2.9,
-    "studentDifficulties": 2.95,
+    "numEvals": 21,
+    "overallRating": 3.1,
+    "materialClear": 2.95,
+    "studentDifficulties": 3,
     "courses": [
       "BUS 321",
       "BUS 214",
@@ -139147,6 +139195,19 @@
           "id": "8ed9b770-5c78-4235-9a91-729374eb076f",
           "professor": "26451072-1d94-4327-b9b0-f6413f3f5e52",
           "postDate": "2026-10-26T20:53:08.757Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "should wear the number 30 on his back at all times bc he is the goat.",
+          "anonymousIdentifier": "477868a2a7276d65",
+          "id": "780b760a-6c7b-4ab6-a5e6-afb3506c0c61",
+          "professor": "26451072-1d94-4327-b9b0-f6413f3f5e52",
+          "postDate": "2026-10-28T19:06:01.756Z"
         }
       ]
     }
@@ -273463,10 +273524,10 @@
     "department": "BUS",
     "firstName": "James",
     "lastName": "Kaney",
-    "numEvals": 85,
-    "overallRating": 2.98,
-    "materialClear": 3.05,
-    "studentDifficulties": 2.97,
+    "numEvals": 86,
+    "overallRating": 2.96,
+    "materialClear": 3.03,
+    "studentDifficulties": 2.95,
     "courses": [
       "BUS 212",
       "BUS 214",
@@ -273474,7 +273535,8 @@
       "BUS 319",
       "BUS 321",
       "BUS 342",
-      "BUS 440"
+      "BUS 440",
+      "BUS 2215"
     ],
     "tags": {
       "Class Handouts": 9,
@@ -273484,10 +273546,11 @@
       "Inflexible Attendance Policy": 8,
       "No Breaks During Lecture": 6,
       "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 2,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "BUS 212": [
@@ -274612,6 +274675,26 @@
           "id": "9faa4f41-b2ab-447d-ae7b-2b94bec76d57",
           "professor": "4a1d52e6-a255-469e-990a-1fcbb9ecf62f",
           "postDate": "2003-06-01T07:00:00.000Z"
+        }
+      ],
+      "BUS 2215": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I don\u2019t think I learned a single valuable thing from Kaney. He typically spends the first 25 minutes of class talking to us about something completely unrelated to managerial which is a huge waste of time. I never fully grasped any concepts because his lectures are unclear, he goes through his slides way too fast and he doesn\u2019t explain anything well. We are assigned a ton of McGraw hill stuff to do that usually is never on the tests. The first midterm was relatively easy but the second one was terrible. I took financial with Pouraghabagher and that class was brutal but she was an incredible teacher which made all the difference. Managerial is supposed to be much easier than financial but because of the lack of teaching has made it so much more difficult. If you\u2019re planning to go into accounting you may have a different experience but if accounting does not come easy to you, take this class with someone else.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "c6010d759e545277",
+          "id": "fa589179-010a-4ab6-81b2-6d9d2d3f3760",
+          "professor": "4a1d52e6-a255-469e-990a-1fcbb9ecf62f",
+          "postDate": "2026-10-28T18:09:55.424Z"
         }
       ]
     }
@@ -354275,23 +354358,25 @@
     "department": "MATH",
     "firstName": "Maya",
     "lastName": "Seagraves",
-    "numEvals": 9,
+    "numEvals": 10,
     "overallRating": 4,
-    "materialClear": 3.89,
+    "materialClear": 3.9,
     "studentDifficulties": 4,
     "courses": [
       "BUS 221",
       "MATE 221",
       "MATH 118",
-      "MATH 221"
+      "MATH 221",
+      "MATH 1104"
     ],
     "tags": {
       "High In-Person Availability": 4,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Supplemental Study Material": 2,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 3,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "BUS 221": [
@@ -354448,6 +354533,26 @@
           "id": "a204c0cb-da0c-434f-bd22-084d8e0839f4",
           "professor": "6056f3a3-9ea2-4eed-9d98-e1baa36c2e41",
           "postDate": "Sat Jun 06 2026 06:48:21 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1104": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Maya is the absolute GOAT. She has gotten me through this semester. She is so patient and understanding, and genuinely such a good math class. I literally go to her office hours just to do the homework because she is so helpful and just nice to be around.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Fast Response Time",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "da34e421cb44990e",
+          "id": "1b6dcb7e-6332-424c-99a6-4d5d7d9ec8e4",
+          "professor": "6056f3a3-9ea2-4eed-9d98-e1baa36c2e41",
+          "postDate": "2026-10-28T22:13:07.330Z"
         }
       ]
     }
@@ -394907,10 +395012,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 83,
-    "overallRating": 1.82,
-    "materialClear": 2.09,
-    "studentDifficulties": 1.82,
+    "numEvals": 84,
+    "overallRating": 1.85,
+    "materialClear": 2.11,
+    "studentDifficulties": 1.85,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -394926,9 +395031,9 @@
     ],
     "tags": {
       "Honor DRC Accommodations": 4,
-      "Flexible Attendance Policy": 7,
+      "Flexible Attendance Policy": 8,
       "Flexible Deadline Policy": 4,
-      "No Breaks During Lecture": 8,
+      "No Breaks During Lecture": 9,
       "Does Not Use Canvas": 2,
       "Class Handouts": 2,
       "Flexible Grading Policy": 6,
@@ -396074,6 +396179,23 @@
           "id": "5b4cd091-44f5-49af-9c25-49abd387333e",
           "professor": "6a01710e-f974-4913-b596-68e477453198",
           "postDate": "Fri Oct 09 2026 23:48:49 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great professor, don't trust the past reviews it looks like he has improved a lot in the last few years. I thought lectures were pretty clear and it was easy to ask questions, and he would also stay after class a bit if you wanted him to explain something again. There are weekly quizzes, but they were almost always taken straight from the homework and he was generous with partial credit (Lowest you could score was a 6/10). No midterm, just one final which was a little challenging but very doable and fair for the course. Would highly recommend this class, the homework load wasn't crazy, quizzes weren't hard as long as you actually understand most of the homework, and he presents the material clearly.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "95cdbaa0af0ac522",
+          "id": "0da4ede8-25ed-4fc0-b7cf-855e7f6113e6",
+          "professor": "6a01710e-f974-4913-b596-68e477453198",
+          "postDate": "2026-10-28T16:48:09.765Z"
         }
       ]
     }
@@ -457435,7 +457557,7 @@
     "department": "COMS",
     "firstName": "Jarrod",
     "lastName": "Ventura",
-    "numEvals": 10,
+    "numEvals": 11,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -457444,14 +457566,15 @@
     ],
     "tags": {
       "Zoom Office Hours": 2,
-      "Fast Response Time": 6,
+      "Fast Response Time": 7,
       "Uploads Slides": 1,
       "Pop Quizzes": 1,
       "Flexible Attendance Policy": 3,
       "Flexible Grading Policy": 4,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 2,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Hybrid Option": 1
     },
     "reviews": {
       "COMS 1101": [
@@ -457610,6 +457733,24 @@
           "id": "f90953de-663f-4b77-8078-f7c68d73af12",
           "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
           "postDate": "2026-10-27T21:26:59.908Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "One of the best teachers I have ever had. He is one of the most personable people you will meet. His class structure is great and gives us lots of opportunities to practice the different skills of public speaking with the class. He gives feedback right away, and always lets you know what you did well and how you can improve for the future. Overall, I could not recommend this class with professor Ventura enough.",
+          "tags": [
+            "Fast Response Time",
+            "Hybrid Option",
+            "High In-Person Availability"
+          ],
+          "anonymousIdentifier": "64e02d0656154e96",
+          "id": "07e1c3af-eca5-458a-a436-0b8596a7160b",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-10-28T16:45:52.963Z"
         }
       ]
     }
@@ -520148,10 +520289,10 @@
     "department": "PSY",
     "firstName": "Marc",
     "lastName": "Halusic",
-    "numEvals": 18,
-    "overallRating": 2.22,
-    "materialClear": 2.45,
-    "studentDifficulties": 2.62,
+    "numEvals": 19,
+    "overallRating": 2.1,
+    "materialClear": 2.32,
+    "studentDifficulties": 2.48,
     "courses": [
       "PSY 252",
       "PSY 201",
@@ -520168,7 +520309,7 @@
       "Inflexible Attendance Policy": 3,
       "Pop Quizzes": 3,
       "Hybrid Option": 1,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Flexible Grading Policy": 2,
       "Inflexible Deadline Policy": 1
     },
@@ -520480,6 +520621,22 @@
           "id": "0e7d417c-486f-4c66-91cb-f51dd718c5c6",
           "professor": "8e14446c-c592-4102-8f4b-32b91841915d",
           "postDate": "2026-10-26T16:09:03.055Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Horrible professor. Was interested in psyc, then I took his class. He is simply not a good professor. assignments are too difficult. He uses AI for EVERYTHING, while giving no actual help if you ask for it.",
+          "tags": [
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "548a4e79-3d91-4594-9beb-26e1278bd30d",
+          "professor": "8e14446c-c592-4102-8f4b-32b91841915d",
+          "postDate": "2026-10-28T17:56:02.273Z"
         }
       ]
     }
@@ -734868,28 +735025,30 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 33,
-    "overallRating": 3.42,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.63,
+    "numEvals": 34,
+    "overallRating": 3.38,
+    "materialClear": 3.42,
+    "studentDifficulties": 3.61,
     "courses": [
       "MATH 143",
       "MATH 244",
       "MATH 118",
       "MATH 241",
       "MATH 142",
-      "MATH 344"
+      "MATH 344",
+      "MATH 1263"
     ],
     "tags": {
       "High In-Person Availability": 4,
       "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 8,
+      "Uploads Slides": 9,
       "No Breaks During Lecture": 8,
-      "Fast Response Time": 6,
-      "Flexible Attendance Policy": 11,
-      "Flexible Grading Policy": 2,
-      "Class Handouts": 1
+      "Fast Response Time": 7,
+      "Flexible Attendance Policy": 12,
+      "Flexible Grading Policy": 3,
+      "Class Handouts": 1,
+      "Zoom Office Hours": 1
     },
     "reviews": {
       "MATH 143": [
@@ -735416,6 +735575,28 @@
           "id": "84f4ce53-0c75-4582-8ad6-f198e1320ccd",
           "professor": "cdb163d8-97a4-4ad4-a97c-1cc85e8ee7bb",
           "postDate": "Thu Jul 30 2026 21:58:48 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1263": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Robert Lopez can be a good professor; however, he spends too much time on the theoretical part of the class. He does not do enough problems in class to make me or other students confident in what we learned. He goes over every topic in a class period and is mostly conscious of your time. Though, he simply goes over the notes without much added depth. The homework load is very manageable, but more studying is required to do well. His quizzes and tests are relatively easy without too many tricks. His problems are straightforward applications of concepts without much algebraic setup beforehand. P.S. I did not attend office hours, but I spent a decent amount of time studying beforehand. I had a strong A going into the final and did not study enough beforehand, but the final was very fair.",
+          "tags": [
+            "Fast Response Time",
+            "Zoom Office Hours",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "5789ad854eaab482",
+          "id": "38c897f5-2148-44e1-b89b-1f02b827828c",
+          "professor": "cdb163d8-97a4-4ad4-a97c-1cc85e8ee7bb",
+          "postDate": "2026-10-28T18:56:59.401Z"
         }
       ]
     }
@@ -816055,18 +816236,21 @@
     "department": "CE",
     "firstName": "Hani",
     "lastName": "Alzraiee",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 2.67,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
-      "CE 371"
+      "CE 371",
+      "CE 3371"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "CE 371": [
@@ -816102,6 +816286,27 @@
           "id": "e3fbb680-43a3-4d6c-a62e-e3c429bc3b4f",
           "professor": "e680acfe-77af-487b-a432-e8f2930bf637",
           "postDate": "Sun Aug 02 2026 01:10:11 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CE 3371": [
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took Professor Alzraiee for CE 371. He communicated with us 10 days before the start of the summer and made the first week's materials available, including the syllabus, video recordings, slides, and other resources. I have never seen a more organized professor than him. He graded quizzes and assignments on time. If you have a legitimate reason for needing an assignment accommodation, he is understanding and willing to work with you. However, if you are consistently asking for extensions due to poor planning, he will not grant them. He is very fair as long as you are professional and responsible with your work. I remember that he reached out to me because I had not turned in an assignment. When I explained my reason, he accepted it without any penalty. He is very knowledgeable in his field. If you genuinely want to learn, take his class and you will not regret it.",
+          "tags": [
+            "Recorded Lectures",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "8c2546dc0880a06e",
+          "id": "972a6896-0448-4a3e-b2d0-7b462823694d",
+          "professor": "e680acfe-77af-487b-a432-e8f2930bf637",
+          "postDate": "2026-10-28T16:28:04.606Z"
         }
       ]
     }
@@ -858879,23 +859084,23 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 3,
-    "overallRating": 3.67,
+    "numEvals": 4,
+    "overallRating": 3.75,
     "materialClear": 4,
-    "studentDifficulties": 3.33,
+    "studentDifficulties": 3.5,
     "courses": [
       "ME 2111",
       "ENGR 2211"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 1,
+      "High In-Person Availability": 2,
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Uploads Slides": 2,
-      "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1,
+      "Supplemental Study Material": 2,
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1
     },
     "reviews": {
@@ -858953,6 +859158,26 @@
           "id": "1ae032d2-3acf-4620-a639-c3696c652bd8",
           "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
           "postDate": "2026-10-27T22:20:18.234Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. Preis is amazing! He really wants every student to succeed and explains the harder topics in ways that are much easier to understand. His methodology really emphasizes FBD's, which builds a strong foundation for the rest of the class and problems. Homeworks can be hard but overall reasonable, quizzes and midterms are based very heavily from said homeworks. Grading is hard but fair on the quizzes and midterms, and explains them all afterwards very thoroughly. Remember B.A.D.G.E.R is the bouncer to the statics club.",
+          "tags": [
+            "Supplemental Study Material",
+            "High In-Person Availability",
+            "Inflexible Grading Policy",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "9037515f6affa368",
+          "id": "8f41ea25-9ef7-41ff-a2cc-e91875ce7af8",
+          "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+          "postDate": "2026-10-28T21:12:44.547Z"
         }
       ]
     }
@@ -909260,10 +909485,10 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 4,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 1.5,
+    "numEvals": 6,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 2.33,
     "courses": [
       "BUS 3319"
     ],
@@ -909341,6 +909566,32 @@
           "id": "a4b1665a-eb0e-44ef-83b6-164c56fc71f3",
           "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
           "postDate": "2026-10-27T22:34:24.337Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This is Sui's first semester at Cal Poly. I want to have some mercy for her. Please do not use Z change next time.",
+          "anonymousIdentifier": "44f8fbe39a08449f",
+          "id": "24e1f7e7-976a-4e10-9a60-ea4f88466642",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-28T17:51:49.147Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Sui shouldn\u2019t be blamed for the problems Professor Zhang has created. As another reviewer noted, this is Professor Sui\u2019s first semester at Cal Poly. And while I don\u2019t think the coursework is appropriate or relevant to the class, she doesn\u2019t have control over it. Please cut her some slack, she\u2019s clearly making an effort to make the class more bearable.",
+          "anonymousIdentifier": "495aef7a044ef6b0",
+          "id": "8e44b4bc-791b-444c-b17b-920c6ee3e4e4",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-28T19:11:44.563Z"
         }
       ]
     }
