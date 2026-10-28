@@ -5499,17 +5499,22 @@
     "department": "ENGL",
     "firstName": "Hailey",
     "lastName": "Gross",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL 145"
+      "ENGL 145",
+      "ENGL 1145"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Uploads Slides": 1,
-      "Fast Response Time": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -11514,17 +11519,21 @@
     "department": "WGS",
     "firstName": "Lara",
     "lastName": "Schubert",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "WGS 350"
+      "WGS 350",
+      "WGQS 3500"
     ],
     "tags": {
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Flexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -14697,19 +14706,21 @@
     "department": "BIO",
     "firstName": "Lauren",
     "lastName": "Chan",
-    "numEvals": 9,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 10,
+    "overallRating": 3.7,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.7,
     "courses": [
       "BIO 263",
       "BIO 363",
-      "AEPS 1150"
+      "AEPS 1150",
+      "BIO 2252"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "High In-Person Availability": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -24726,17 +24737,20 @@
     "department": "CE",
     "firstName": "Timothy",
     "lastName": "Saucerman",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.33,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "CE 113"
+      "CE 113",
+      "CE 1112"
     ],
     "tags": {
       "Recorded Lectures": 2,
       "Zoom Office Hours": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -31408,14 +31422,20 @@
     "department": "BUS",
     "firstName": "Liam",
     "lastName": "Chew",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 3391"
     ],
-    "tags": {}
+    "tags": {
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
+    }
   },
   {
     "id": "96cfe39e-beb5-41be-9b83-9abfa376ae19",
@@ -31811,29 +31831,31 @@
     "department": "POLS",
     "firstName": "Annie Aguiniga",
     "lastName": "Frew",
-    "numEvals": 20,
-    "overallRating": 3.25,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.15,
+    "numEvals": 21,
+    "overallRating": 3.24,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.19,
     "courses": [
       "POLS 112",
       "POLS 111",
       "POLS 359",
       "POLS 445",
-      "POLS 518"
+      "POLS 518",
+      "POLS 1112"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 3,
-      "Fast Response Time": 4,
-      "Uploads Slides": 6,
+      "High In-Person Availability": 4,
+      "Fast Response Time": 5,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 3,
       "Class Handouts": 2,
       "Hybrid Option": 1,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -35141,24 +35163,26 @@
     "department": "IME",
     "firstName": "Jack",
     "lastName": "Maughan",
-    "numEvals": 12,
-    "overallRating": 3.83,
+    "numEvals": 13,
+    "overallRating": 3.84,
     "materialClear": 4,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "IME 142",
       "IME 146",
       "IME 144",
-      "IME 141"
+      "IME 141",
+      "IME 1440"
     ],
     "tags": {
       "Class Handouts": 1,
       "Inflexible Attendance Policy": 4,
-      "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 3,
+      "Flexible Grading Policy": 2,
+      "Flexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 4,
       "Flexible Deadline Policy": 1,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 3,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -36557,7 +36581,7 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 3.93,
     "materialClear": 3.93,
     "studentDifficulties": 3.93,
@@ -36565,17 +36589,19 @@
       "POLS 230",
       "POLS 348",
       "POLS 341",
-      "POLS 344"
+      "POLS 344",
+      "POLS 2230"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Supplemental Study Material": 1,
       "Uploads Slides": 6,
       "Fast Response Time": 7,
       "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Does Not Use Canvas": 1
     }
   },
   {
@@ -37444,15 +37470,20 @@
     "department": "POLS",
     "firstName": "Martin",
     "lastName": "Battle",
-    "numEvals": 5,
-    "overallRating": 2.65,
-    "materialClear": 3,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 2.71,
+    "materialClear": 2.83,
+    "studentDifficulties": 3.17,
     "courses": [
       "POLS 112",
-      "POLS 361"
+      "POLS 361",
+      "POLS 1180"
     ],
-    "tags": {}
+    "tags": {
+      "High In-Person Availability": 1,
+      "Does Not Use Canvas": 1,
+      "Flexible Attendance Policy": 1
+    }
   },
   {
     "id": "b5cd910f-9274-4219-a167-a56dcdda3b35",
@@ -43473,21 +43504,22 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 19,
-    "overallRating": 3.05,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.15,
+    "numEvals": 20,
+    "overallRating": 2.95,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.09,
     "courses": [
       "EE 201",
       "EE 306",
       "EE 346",
-      "EE 115"
+      "EE 115",
+      "EE 2115"
     ],
     "tags": {
-      "Recorded Lectures": 11,
+      "Recorded Lectures": 12,
       "High In-Person Availability": 1,
-      "Uploads Slides": 4,
-      "Hybrid Option": 6,
+      "Uploads Slides": 5,
+      "Hybrid Option": 7,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
       "Class Handouts": 1,
@@ -49154,10 +49186,10 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "ME 2111",
       "ENGR 2211"
@@ -49167,7 +49199,11 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -51446,18 +51482,22 @@
     "department": "NR",
     "firstName": "Nicola",
     "lastName": "Morais",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
-      "NR 326"
+      "NR 326",
+      "NR 3326"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Fast Response Time": 2,
-      "Uploads Slides": 2,
-      "Flexible Deadline Policy": 1
+      "Fast Response Time": 3,
+      "Uploads Slides": 3,
+      "Flexible Deadline Policy": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -52009,19 +52049,22 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 3,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0.67,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1.5,
     "courses": [
       "BUS 3319"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 0,
+      "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 0,
       "No Breaks During Lecture": 1,
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     }
   },
   {

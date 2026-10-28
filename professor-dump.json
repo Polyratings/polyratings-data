@@ -92973,17 +92973,22 @@
     "department": "ENGL",
     "firstName": "Hailey",
     "lastName": "Gross",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "ENGL 145"
+      "ENGL 145",
+      "ENGL 1145"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Uploads Slides": 1,
-      "Fast Response Time": 1
+      "Uploads Slides": 2,
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "ENGL 145": [
@@ -93017,6 +93022,28 @@
           "id": "8edc3fb3-4fde-431c-a053-14f1b6e0ba07",
           "professor": "18a7fb53-aacc-4bc5-9fab-5808a518695c",
           "postDate": "Mon Dec 29 2025 02:00:52 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGL 1145": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Very sweet professor that always has her office hours open. If you were competent in AP lang or AP lit in high school you'll do beyond fine here. She reteaches everything from highschool english classes if you're feeling rusty and if not, you can just chill out in class. Very reasonable time lines and due dates, seriously she is the best.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Class Handouts",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "57d2f70c262dea9b",
+          "id": "e78f297b-f605-4cc2-859c-70b9724098dd",
+          "professor": "18a7fb53-aacc-4bc5-9fab-5808a518695c",
+          "postDate": "2026-10-28T02:00:11.391Z"
         }
       ]
     }
@@ -199892,17 +199919,21 @@
     "department": "WGS",
     "firstName": "Lara",
     "lastName": "Schubert",
-    "numEvals": 3,
-    "overallRating": 3,
-    "materialClear": 3.33,
-    "studentDifficulties": 3.33,
+    "numEvals": 4,
+    "overallRating": 2.5,
+    "materialClear": 3,
+    "studentDifficulties": 3,
     "courses": [
-      "WGS 350"
+      "WGS 350",
+      "WGQS 3500"
     ],
     "tags": {
-      "Hybrid Option": 1,
+      "Hybrid Option": 2,
       "Flexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "WGS 350": [
@@ -199950,6 +199981,28 @@
           "id": "e9c5205d-8c41-440b-8f29-a2e319699f73",
           "professor": "359505b3-25c9-4b7b-a88c-7dfef0ec7f4e",
           "postDate": "Thu Apr 02 2026 05:48:19 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "WGQS 3500": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Super annoying teacher who will grade your work as \"incomplete\" if you have one little thing wrong that she doesn't like. Extremely frustrating.",
+          "tags": [
+            "Hybrid Option",
+            "Zoom Office Hours",
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "6f2856f0e260661b",
+          "id": "067a62bf-62e3-408d-a294-a0f118b15950",
+          "professor": "359505b3-25c9-4b7b-a88c-7dfef0ec7f4e",
+          "postDate": "2026-10-28T03:42:54.776Z"
         }
       ]
     }
@@ -254353,19 +254406,21 @@
     "department": "BIO",
     "firstName": "Lauren",
     "lastName": "Chan",
-    "numEvals": 9,
-    "overallRating": 3.67,
-    "materialClear": 3.67,
-    "studentDifficulties": 3.67,
+    "numEvals": 10,
+    "overallRating": 3.7,
+    "materialClear": 3.7,
+    "studentDifficulties": 3.7,
     "courses": [
       "BIO 263",
       "BIO 363",
-      "AEPS 1150"
+      "AEPS 1150",
+      "BIO 2252"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "High In-Person Availability": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "BIO 263": [
@@ -254499,6 +254554,25 @@
           "id": "3ba1c8e1-78cb-4bd6-8d35-9e53c59c5f5d",
           "professor": "45a82d2a-55d8-499b-9f2e-e5cb833be1ff",
           "postDate": "Wed Oct 07 2026 19:24:14 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 2252": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "She is lowk a really good teacher--presents clearly and gives fair tests. She's a nice person and is an engaging teacher. Just all round a good choice",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "27c7e3b3-9999-470f-962f-9709475cea30",
+          "professor": "45a82d2a-55d8-499b-9f2e-e5cb833be1ff",
+          "postDate": "2026-10-28T04:50:31.476Z"
         }
       ]
     }
@@ -435002,17 +435076,20 @@
     "department": "CE",
     "firstName": "Timothy",
     "lastName": "Saucerman",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
-    "materialClear": 3.33,
+    "materialClear": 3.5,
     "studentDifficulties": 4,
     "courses": [
-      "CE 113"
+      "CE 113",
+      "CE 1112"
     ],
     "tags": {
       "Recorded Lectures": 2,
       "Zoom Office Hours": 2,
-      "Fast Response Time": 2
+      "Fast Response Time": 2,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "CE 113": [
@@ -435063,6 +435140,25 @@
           "id": "ddb9141c-db4d-481e-baa7-8691f4a02a95",
           "professor": "766c3271-386a-47b2-bb01-7c1c95a981c5",
           "postDate": "Thu Apr 02 2026 04:46:26 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CE 1112": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "chillest guy ever. i understand autocad pretty well now. someone in my class asked what his grading scale looked like and he was like \"you dont need to worry about that\" and he was right",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "67d3075991fc77fa",
+          "id": "b3e47266-b5b0-4504-b95a-091e365bc609",
+          "professor": "766c3271-386a-47b2-bb01-7c1c95a981c5",
+          "postDate": "2026-10-28T01:11:13.075Z"
         }
       ]
     }
@@ -555622,14 +555718,20 @@
     "department": "BUS",
     "firstName": "Liam",
     "lastName": "Chew",
-    "numEvals": 2,
+    "numEvals": 3,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 3391"
     ],
-    "tags": {},
+    "tags": {
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
+    },
     "reviews": {
       "BUS 391": [
         {
@@ -555655,6 +555757,27 @@
           "id": "14ca5155-fbea-46bf-8c29-3e4188470d53",
           "professor": "96b2d25d-9fd5-405a-9d25-3750c99af9ae",
           "postDate": "Wed Aug 26 2026 19:34:38 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3391": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Chew is a great professor who wants his students to succeed. He is extremely clear about what is on his exams so it's easy to do fairly well, though you definitely need to study the guides he puts out. There are a lot of weekly excel assignments, as there would be in any IS class, but he's pretty open to questions about them and any of his other assignments. I would definitely recommend this course.",
+          "tags": [
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "2ca2826b8ea3e824",
+          "id": "091aeab4-3390-4750-b63d-40bc392d29a1",
+          "professor": "96b2d25d-9fd5-405a-9d25-3750c99af9ae",
+          "postDate": "2026-10-27T23:34:26.069Z"
         }
       ]
     }
@@ -560047,29 +560170,31 @@
     "department": "POLS",
     "firstName": "Annie Aguiniga",
     "lastName": "Frew",
-    "numEvals": 20,
-    "overallRating": 3.25,
-    "materialClear": 3.06,
-    "studentDifficulties": 3.15,
+    "numEvals": 21,
+    "overallRating": 3.24,
+    "materialClear": 3.1,
+    "studentDifficulties": 3.19,
     "courses": [
       "POLS 112",
       "POLS 111",
       "POLS 359",
       "POLS 445",
-      "POLS 518"
+      "POLS 518",
+      "POLS 1112"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "High In-Person Availability": 3,
-      "Fast Response Time": 4,
-      "Uploads Slides": 6,
+      "High In-Person Availability": 4,
+      "Fast Response Time": 5,
+      "Uploads Slides": 7,
       "Flexible Attendance Policy": 3,
       "Class Handouts": 2,
       "Hybrid Option": 1,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 1,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "POLS 112": [
@@ -560388,6 +560513,27 @@
           "id": "66f9a0a0-a75a-49e4-873c-d610d3d350a7",
           "professor": "98dee929-d3aa-471f-b626-a2729fe651d6",
           "postDate": "Sun Mar 22 2026 05:10:40 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "POLS 1112": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Really fun and passionate professor but the work load is pretty heavy for what most people are taking as a GE. She goes over a lot of material but its fairly simple to understand so nothing too crazy, just a lot in volume. The exams are okay but you must study without a questions. However, her exams are asynchronous if that helps with some test taking anxieties that might challenge you in a big room with a bunch of people. It was nice to just reserve a room in the library and take it by myself. If you are poli sci she provides any research, event, or internship opportunities when she sees one which was so helpful. She also has plenty of extra credit opportunities but it definetly won't bring a B- to a A but if you're at the brink of having an A it will tip the scale for you",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Uploads Slides",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "57d2f70c262dea9b",
+          "id": "5384e52a-ae52-4e2f-896a-e947b4cdb584",
+          "professor": "98dee929-d3aa-471f-b626-a2729fe651d6",
+          "postDate": "2026-10-28T02:07:00.152Z"
         }
       ]
     }
@@ -619226,24 +619372,26 @@
     "department": "IME",
     "firstName": "Jack",
     "lastName": "Maughan",
-    "numEvals": 12,
-    "overallRating": 3.83,
+    "numEvals": 13,
+    "overallRating": 3.84,
     "materialClear": 4,
-    "studentDifficulties": 3.83,
+    "studentDifficulties": 3.84,
     "courses": [
       "IME 142",
       "IME 146",
       "IME 144",
-      "IME 141"
+      "IME 141",
+      "IME 1440"
     ],
     "tags": {
       "Class Handouts": 1,
       "Inflexible Attendance Policy": 4,
-      "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 3,
+      "Flexible Grading Policy": 2,
+      "Flexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 4,
       "Flexible Deadline Policy": 1,
-      "High In-Person Availability": 2
+      "High In-Person Availability": 3,
+      "Supplemental Study Material": 1
     },
     "reviews": {
       "IME 142": [
@@ -619433,6 +619581,28 @@
           "id": "d3ef4fba-c655-4d86-83f6-640bf8e8d1b3",
           "professor": "a962b367-2616-48e5-ac6b-127f2e9eed11",
           "postDate": "Thu Jul 24 2025 15:30:46 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "IME 1440": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Chillest dude ever. Homework took a lot of time, but there are supplemental videos on YouTube. Funny and has a lot of cool backstories.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy",
+            "High In-Person Availability",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "2f5fcc5c0d6c5c5d",
+          "id": "218c56f1-9526-4aa1-b6c1-079d98085b3c",
+          "professor": "a962b367-2616-48e5-ac6b-127f2e9eed11",
+          "postDate": "2026-10-28T01:27:37.856Z"
         }
       ]
     }
@@ -641098,7 +641268,7 @@
     "department": "POLS",
     "firstName": "Nolan",
     "lastName": "Bennett",
-    "numEvals": 16,
+    "numEvals": 17,
     "overallRating": 3.93,
     "materialClear": 3.93,
     "studentDifficulties": 3.93,
@@ -641106,17 +641276,19 @@
       "POLS 230",
       "POLS 348",
       "POLS 341",
-      "POLS 344"
+      "POLS 344",
+      "POLS 2230"
     ],
     "tags": {
-      "High In-Person Availability": 8,
+      "High In-Person Availability": 9,
       "Supplemental Study Material": 1,
       "Uploads Slides": 6,
       "Fast Response Time": 7,
       "Flexible Attendance Policy": 1,
-      "Zoom Office Hours": 4,
+      "Zoom Office Hours": 5,
       "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Does Not Use Canvas": 1
     },
     "reviews": {
       "POLS 230": [
@@ -641382,6 +641554,26 @@
           "id": "22670b5d-9267-4bf8-b2e6-2a0aca49cb93",
           "professor": "b0ff5631-bb89-42ae-8268-e6b2babeda18",
           "postDate": "Thu Jun 11 2026 20:13:33 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "POLS 2230": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Insanley supportive, smart, clear, and articulate. The readings are heavy in volume and in content becuase it is some more complex peices, and you must do the readings to do well in class, but it is so nice becuase all you do in class is talk about the previous reading. He explains it so well and is so interactive there are many times where I did the reading and was so confused and walked out feeling like a philosopher myself haha. I never felt scared to raise my hand, if anything I was excited to because he clears any confusion so well. LOVE IT!!",
+          "tags": [
+            "High In-Person Availability",
+            "Zoom Office Hours",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "57d2f70c262dea9b",
+          "id": "b1f09606-76fe-44f6-82ef-3e1dd5e08e3e",
+          "professor": "b0ff5631-bb89-42ae-8268-e6b2babeda18",
+          "postDate": "2026-10-28T02:11:44.338Z"
         }
       ]
     }
@@ -658074,15 +658266,20 @@
     "department": "POLS",
     "firstName": "Martin",
     "lastName": "Battle",
-    "numEvals": 5,
-    "overallRating": 2.65,
-    "materialClear": 3,
-    "studentDifficulties": 3.4,
+    "numEvals": 6,
+    "overallRating": 2.71,
+    "materialClear": 2.83,
+    "studentDifficulties": 3.17,
     "courses": [
       "POLS 112",
-      "POLS 361"
+      "POLS 361",
+      "POLS 1180"
     ],
-    "tags": {},
+    "tags": {
+      "High In-Person Availability": 1,
+      "Does Not Use Canvas": 1,
+      "Flexible Attendance Policy": 1
+    },
     "reviews": {
       "POLS 112": [
         {
@@ -658147,6 +658344,26 @@
           "id": "10ec1610-6726-4fae-b119-557d445b3654",
           "professor": "b5985049-f58e-4a0d-8ac3-7bd6cfcb0ab8",
           "postDate": "Thu Dec 05 2024 19:11:22 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "POLS 1180": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Battle is VERY knowledgable which is a good and bad thing at the same time. He goes off on a lot of rants and just says so much, yet so little content wise. He will spend the whole class lecturing till we run out but I walk out with a sentance and a few bullet points of notes. He uses no slides or the white board so you CANNOT zone out even though it can be very easy. He is also a very pessimistic British guy, take that with what you will.",
+          "tags": [
+            "High In-Person Availability",
+            "Does Not Use Canvas",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "57d2f70c262dea9b",
+          "id": "6771baa3-965b-4d98-9729-010ab39b2394",
+          "professor": "b5985049-f58e-4a0d-8ac3-7bd6cfcb0ab8",
+          "postDate": "2026-10-28T02:17:17.565Z"
         }
       ]
     }
@@ -760395,21 +760612,22 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 19,
-    "overallRating": 3.05,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.15,
+    "numEvals": 20,
+    "overallRating": 2.95,
+    "materialClear": 3.41,
+    "studentDifficulties": 3.09,
     "courses": [
       "EE 201",
       "EE 306",
       "EE 346",
-      "EE 115"
+      "EE 115",
+      "EE 2115"
     ],
     "tags": {
-      "Recorded Lectures": 11,
+      "Recorded Lectures": 12,
       "High In-Person Availability": 1,
-      "Uploads Slides": 4,
-      "Hybrid Option": 6,
+      "Uploads Slides": 5,
+      "Hybrid Option": 7,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
       "Class Handouts": 1,
@@ -760725,6 +760943,26 @@
           "id": "58bcaf90-7328-49f4-a721-42ea630e192f",
           "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
           "postDate": "Thu Dec 18 2025 02:57:17 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 2115": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Yes he does have recorded lectures, and posts the recordings... that's about the only pro. Lectures are so dry, that it's hard to even sit through them, and even if you do it feel like you learned nothing. His policy has changed now, you do have in person quizzes every week, and they are NOT open note. 2 Midterms, we've only taken midterm 1, which was honestly pretty difficult. Also... we're on week 10 and he still hasn't graded the midterm we took on week 5. He's also only graded 2/6 quizzes we've taken. Idk, his ratings just made him seem so much better than he actually is.",
+          "tags": [
+            "Recorded Lectures",
+            "Hybrid Option",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "f7335492f32c4229",
+          "id": "c8656c26-287e-4f78-bf22-70132e38c543",
+          "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
+          "postDate": "2026-10-28T01:18:03.159Z"
         }
       ]
     }
@@ -858641,10 +858879,10 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
-    "studentDifficulties": 3,
+    "studentDifficulties": 3.33,
     "courses": [
       "ME 2111",
       "ENGR 2211"
@@ -858654,7 +858892,11 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "ME 2111": [
@@ -858691,6 +858933,26 @@
           "id": "a4a7bcf6-0dce-435f-8892-94e918a4eb85",
           "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
           "postDate": "2026-10-24T22:20:32.549Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Kuba is one of the best professors I have encountered at Cal Poly. He is super crazy smart and he's an awesome lecturer. He always posts the problems worked on in class with full worked-through solutions so you can try again at home and see the whole process. The workload is really manageable, and you can tell he wants you to succeed. He is flexible with grading and is willing to shift weighting/points to help you achieve the grade you want as long as it's clear to him that you tried your best. He offers a (time consuming) extra credit assignment before each midterm/final which can get you up to 10 points of extra credit. His office hours are always crowded but he is good at making sure everyone gets their questions answered and everyone understands the content. Overall, I have loved taking this class with Kuba and I am taking another course with him next semester as he's that good of a professor.",
+          "tags": [
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Uploads Slides",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "8d6ce629306faf79",
+          "id": "1ae032d2-3acf-4620-a639-c3696c652bd8",
+          "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+          "postDate": "2026-10-27T22:20:18.234Z"
         }
       ]
     }
@@ -901121,18 +901383,22 @@
     "department": "NR",
     "firstName": "Nicola",
     "lastName": "Morais",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.4,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
-      "NR 326"
+      "NR 326",
+      "NR 3326"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Fast Response Time": 2,
-      "Uploads Slides": 2,
-      "Flexible Deadline Policy": 1
+      "Fast Response Time": 3,
+      "Uploads Slides": 3,
+      "Flexible Deadline Policy": 1,
+      "High In-Person Availability": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     },
     "reviews": {
       "NR 326": [
@@ -901195,6 +901461,28 @@
           "id": "39edacf7-b3c3-48c4-b8c9-f3436c80be78",
           "professor": "fc1b76d3-53af-417e-8e07-0077f217b721",
           "postDate": "Tue Dec 09 2025 22:18:00 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "NR 3326": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Nicola is the best. She is so clear about her expectations, literally telling the class exactly what will be on the test. While the content can be confusing, she definitely does her best to make it interesting. She's funny, nice, and really responsive to people who come to office hours. A perfect class to take a coffee to, sit back, and enjoy.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Uploads Slides",
+            "Class Handouts",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "9b33874626b140c7",
+          "id": "9b952d86-0c65-47a0-9438-ad29bcab2d62",
+          "professor": "fc1b76d3-53af-417e-8e07-0077f217b721",
+          "postDate": "2026-10-27T22:19:51.553Z"
         }
       ]
     }
@@ -908972,19 +909260,22 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 3,
-    "overallRating": 0,
-    "materialClear": 0,
-    "studentDifficulties": 0.67,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 1.5,
     "courses": [
       "BUS 3319"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 0,
+      "Inflexible Deadline Policy": 1,
       "Pop Quizzes": 0,
       "No Breaks During Lecture": 1,
-      "Inflexible Grading Policy": 1,
-      "Does Not Use Canvas": 1
+      "Inflexible Grading Policy": 2,
+      "Does Not Use Canvas": 1,
+      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1
     },
     "reviews": {
       "BUS 3319": [
@@ -909030,6 +909321,26 @@
           "id": "3303276b-b6c7-4944-a57d-3c1526bc0616",
           "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
           "postDate": "2026-10-23T02:12:52.094Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I wake up thinking about Z-Change. I go to sleep dreaming about Z-Change. Z-Change is not a hobby; it is a lifestyle. Only those who conquer the Z-Change battle quizzes make it out of this class unscathed. I came for the extra credit. I left a proud Z-Changillionaire. Live. Laugh. Love. Z-Change.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Uploads Slides",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "5481f8872ee7e89c",
+          "id": "a4b1665a-eb0e-44ef-83b6-164c56fc71f3",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-27T22:34:24.337Z"
         }
       ]
     }
