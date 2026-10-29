@@ -68999,29 +68999,31 @@
     "department": "STAT",
     "firstName": "Felicia",
     "lastName": "Korengel",
-    "numEvals": 29,
-    "overallRating": 3.04,
-    "materialClear": 2.97,
+    "numEvals": 30,
+    "overallRating": 3.01,
+    "materialClear": 2.9,
     "studentDifficulties": 2.98,
     "courses": [
       "STAT 217",
       "STAT 218",
-      "STAT 314"
+      "STAT 314",
+      "STAT 1210"
     ],
     "tags": {
       "High In-Person Availability": 6,
       "Honor DRC Accommodations": 5,
-      "Uploads Slides": 17,
+      "Uploads Slides": 18,
       "Recorded Lectures": 1,
       "Fast Response Time": 3,
-      "Flexible Attendance Policy": 5,
-      "Zoom Office Hours": 2,
+      "Flexible Attendance Policy": 6,
+      "Zoom Office Hours": 3,
       "Class Handouts": 6,
-      "No Breaks During Lecture": 2,
+      "No Breaks During Lecture": 3,
       "Flexible Grading Policy": 1,
       "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
     },
     "reviews": {
       "STAT 217": [
@@ -69500,6 +69502,28 @@
           "id": "ad3c8bac-e2af-4475-9639-4b7ba3399e36",
           "professor": "125b8b2c-b881-4d72-8398-77f93a4c21f6",
           "postDate": "Wed Mar 11 2026 06:38:15 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "STAT 1210": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 3,
+          "rating": "She is a nice person. She isn't really condescending; however, she does get mad at the class when no one responds or participates. She asks a question, and when no one raises their hand, she gets upset and blames the students for not paying attention and/or being distracted. In reality, most students who try to answer the questions get them wrong, and she doesn't really help us walk through the problem thoroughly. Most people who take her stats courses say she presents too fast, and that's true. I find myself going back to the slide deck on Canvas to rewrite my notes because I'm usually a couple of slides behind in every class. On that note, she rushes through topics, never really works through them, and assumes you will have them mastered the first time you see them. That said, take another professor if you can, but if you end up with her, you'll be fine. She's fine if you've taken a stats class before.",
+          "tags": [
+            "Zoom Office Hours",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "f69f21999606d15e",
+          "id": "43faeeca-0550-45c4-9d92-e79a7ca3817c",
+          "professor": "125b8b2c-b881-4d72-8398-77f93a4c21f6",
+          "postDate": "2026-10-28T23:56:28.509Z"
         }
       ]
     }
@@ -71944,12 +71968,13 @@
     "department": "ANT",
     "firstName": "Weston",
     "lastName": "Mccool",
-    "numEvals": 5,
-    "overallRating": 3,
-    "materialClear": 3.2,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.33,
+    "studentDifficulties": 3.67,
     "courses": [
-      "ANT 202"
+      "ANT 202",
+      "ANT 2202"
     ],
     "tags": {
       "Supplemental Study Material": 3,
@@ -71957,7 +71982,8 @@
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2
+      "Uploads Slides": 3,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "ANT 202": [
@@ -72045,6 +72071,25 @@
           "id": "5c2905cc-f78f-4a3c-92ed-3d2901ddfabe",
           "professor": "1357f9b4-59f1-493f-a8be-f34289a9aef3",
           "postDate": "Fri Mar 13 2026 22:34:07 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ANT 2202": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. McCool is a very chill guy who is very passionate about his lectures. I took his World History Before Writing class and it was a mix of lectures and group discussions. The discussions/writing assignments were done in groups during class time. The quizzes are quick + easy and you have a full day to complete them (they are always due at 11:59 on a Friday.) The lectures are interesting as Dr. McCool always has some of his own input to add into the information he is relaying. I am 100% going to take another class with him and would recommend ANT-2202 to anyone!",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "0c855c2a7b2dbcd2",
+          "id": "3cca3327-313c-4b3e-a5d3-ad14e0244b57",
+          "professor": "1357f9b4-59f1-493f-a8be-f34289a9aef3",
+          "postDate": "2026-10-28T22:32:09.077Z"
         }
       ]
     }
@@ -195008,7 +195053,7 @@
     "department": "CHEM",
     "firstName": "Jennifer",
     "lastName": "Retsek",
-    "numEvals": 156,
+    "numEvals": 157,
     "overallRating": 3.37,
     "materialClear": 3.42,
     "studentDifficulties": 3.32,
@@ -195019,20 +195064,21 @@
       "CHEM 127",
       "CHEM 128",
       "CHEM 129",
-      "CHEM 142"
+      "CHEM 142",
+      "CHEM 1122"
     ],
     "tags": {
-      "High In-Person Availability": 10,
-      "Uploads Slides": 14,
+      "High In-Person Availability": 11,
+      "Uploads Slides": 15,
       "Flexible Attendance Policy": 2,
-      "Class Handouts": 10,
-      "Fast Response Time": 7,
+      "Class Handouts": 11,
+      "Fast Response Time": 8,
       "Supplemental Study Material": 3,
       "No Breaks During Lecture": 2,
       "Inflexible Attendance Policy": 2,
       "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 1,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Inflexible Deadline Policy": 1,
       "Flexible Grading Policy": 1
     },
@@ -197054,6 +197100,28 @@
           "id": "9b33e7f1-ca9d-4627-bdaf-292c6dd4d1cc",
           "professor": "340f1a48-a770-4366-8d21-5150166e67ed",
           "postDate": "2008-12-01T08:00:00.000Z"
+        }
+      ],
+      "CHEM 1122": [
+        {
+          "grade": "W",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Retsek was an amazing professor, genuinely one of the nicest and most approachable chemistry professors at Cal Poly! CHEM 129 is definitely a challenging class, especially since the lecture portion is primarily based on tests and quizzes. However, Professor Retsek herself is an incredible teacher who truly cares about her students. I would definitely recommend taking a class with her if you need to take chemistry!",
+          "tags": [
+            "Recorded Lectures",
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Uploads Slides",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "7c784c81dd590e1e",
+          "id": "a4c6aeef-c15a-4db0-a780-0bb71c26e826",
+          "professor": "340f1a48-a770-4366-8d21-5150166e67ed",
+          "postDate": "2026-10-29T04:15:29.231Z"
         }
       ]
     }
@@ -395012,10 +395080,10 @@
     "department": "MATH",
     "firstName": "Jason",
     "lastName": "Elwood",
-    "numEvals": 84,
-    "overallRating": 1.85,
-    "materialClear": 2.11,
-    "studentDifficulties": 1.85,
+    "numEvals": 85,
+    "overallRating": 1.88,
+    "materialClear": 2.13,
+    "studentDifficulties": 1.86,
     "courses": [
       "MATH 116",
       "MATH 118",
@@ -395031,13 +395099,13 @@
     ],
     "tags": {
       "Honor DRC Accommodations": 4,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Flexible Deadline Policy": 4,
       "No Breaks During Lecture": 9,
       "Does Not Use Canvas": 2,
       "Class Handouts": 2,
-      "Flexible Grading Policy": 6,
-      "Inflexible Deadline Policy": 2,
+      "Flexible Grading Policy": 7,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Supplemental Study Material": 1
@@ -396196,6 +396264,24 @@
           "id": "0da4ede8-25ed-4fc0-b7cf-855e7f6113e6",
           "professor": "6a01710e-f974-4913-b596-68e477453198",
           "postDate": "2026-10-28T16:48:09.765Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "I don't know why Elwood has such bad ratings. He wasn't a life changing professor, but his lectures were very clear, and he gives a lot of examples which I really appreciated. He is also very approachable and helpful in office hours, so definitely go to those. The quizzes and exams aren't easy, but as long as you do the homework and keep up, they are definitely doable.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "57d2f70c262dea9b",
+          "id": "bc5b51e5-2e8f-4720-906a-689436ddcef9",
+          "professor": "6a01710e-f974-4913-b596-68e477453198",
+          "postDate": "2026-10-29T00:01:50.189Z"
         }
       ]
     }
@@ -590913,15 +590999,16 @@
     "department": "CHEM",
     "firstName": "Nick",
     "lastName": "Stair",
-    "numEvals": 28,
-    "overallRating": 3.65,
-    "materialClear": 3.7,
-    "studentDifficulties": 3.75,
+    "numEvals": 29,
+    "overallRating": 3.66,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.76,
     "courses": [
       "CHEM 124",
       "PHYS 141",
       "PHYS 143",
-      "PHYS 142"
+      "PHYS 142",
+      "PHYS 1143"
     ],
     "tags": {
       "High In-Person Availability": 11,
@@ -591388,6 +591475,21 @@
           "id": "b1e08deb-533a-472a-90ec-b22c55e32337",
           "professor": "a137c5db-8444-4abe-a4e5-c33d9b9d99b7",
           "postDate": "Tue Apr 07 2026 23:46:35 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PHYS 1143": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Hes sick im just kinda bogging. Heard this guy talkin bout some \"Crux of the problem\". Pretty sure this guy climbs like V9...",
+          "anonymousIdentifier": "a7576585692710f8",
+          "id": "7647234a-1d3f-44da-a8ef-b5433fab24c8",
+          "professor": "a137c5db-8444-4abe-a4e5-c33d9b9d99b7",
+          "postDate": "2026-10-29T01:05:10.981Z"
         }
       ]
     }
@@ -735025,10 +735127,10 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Lopez",
-    "numEvals": 34,
-    "overallRating": 3.38,
-    "materialClear": 3.42,
-    "studentDifficulties": 3.61,
+    "numEvals": 35,
+    "overallRating": 3.4,
+    "materialClear": 3.44,
+    "studentDifficulties": 3.59,
     "courses": [
       "MATH 143",
       "MATH 244",
@@ -735042,13 +735144,13 @@
       "High In-Person Availability": 4,
       "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 9,
+      "Uploads Slides": 10,
       "No Breaks During Lecture": 8,
       "Fast Response Time": 7,
-      "Flexible Attendance Policy": 12,
+      "Flexible Attendance Policy": 13,
       "Flexible Grading Policy": 3,
       "Class Handouts": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 2
     },
     "reviews": {
       "MATH 143": [
@@ -735597,6 +735699,24 @@
           "id": "38c897f5-2148-44e1-b89b-1f02b827828c",
           "professor": "cdb163d8-97a4-4ad4-a97c-1cc85e8ee7bb",
           "postDate": "2026-10-28T18:56:59.401Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Found the class at the start different then my previous high school classes.  He presents very formal math, more so then he requires on the quizzes and tests.  Speaking of, the tests and weekly quizzes are straight forward and not at all any harder then the homework problems.  He has a policy that the midterm will be replaced by the final if it is better which tends to help a lot of people.  The homework is only a couple hours a week, but some extra studying might be helpful for the quizzes.  Overall, I found the class pretty easy and well structured.  I would recommend.",
+          "tags": [
+            "Zoom Office Hours",
+            "Uploads Slides",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "aaa5fcd0fc551adc",
+          "id": "22fce0cb-8586-4257-ba5b-c04c105f798c",
+          "professor": "cdb163d8-97a4-4ad4-a97c-1cc85e8ee7bb",
+          "postDate": "2026-10-29T04:54:37.968Z"
         }
       ]
     }
@@ -748123,19 +748243,23 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 6,
-    "overallRating": 1.5,
-    "materialClear": 0.83,
-    "studentDifficulties": 2.67,
+    "numEvals": 8,
+    "overallRating": 1.38,
+    "materialClear": 0.75,
+    "studentDifficulties": 2.5,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
     ],
     "tags": {
-      "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Supplemental Study Material": 3,
+      "Uploads Slides": 4,
       "Flexible Attendance Policy": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "High In-Person Availability": 1,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "CHEM 120": [
@@ -748224,6 +748348,44 @@
           "id": "145333f5-685b-4150-a212-4f9dc0bc0ed9",
           "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
           "postDate": "2026-10-26T03:55:30.129Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Dr. Riffel is very friendly but I will say that it's very evident that it's her first year teaching. It's difficult to take notes because lectures are very sporadic and jump between different concepts without connecting them very well. They're also boring and tend to drag on without significantly helping understanding. Additionally, she has a tendency to make mistakes on problems which adds to the confusion, and sometimes the answers to her practice tests are incorrect. At the beginning of the semester she gave practice quizzes which were very helpful but she stopped doing it and now it's a lot more unclear what content is going to be covered on the quizzes. Labs are okay but I think they lack instruction and usually feel quite disorganized.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "4df30700beddbbb5",
+          "id": "9af29d1a-6047-442a-9c19-46a09630c4b5",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-10-28T23:15:39.215Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "You could just tell that is professor is just INCREDIBLY new at teaching. Her way of teaching during lectures consists of writing on the whiteboard in a very messy manner too. Sometimes she goes back and erases things because they are wrong, the amount of times she said \"oh just ignore that it's wrong\" is times too many. The lectures could also get really long and boring because she drags it on and on. The labs are okay because most of them are online, but overall kind of boring. The quizzes that she gives out for her class consist of mainly of 4-6 True of False and some chem problems. OVERALL if you have to take this class, I would recommend definitely going to tutoring if you don't understand what she's teaching. When she offers study sessions go to them for REAL. If you're a pro at chem, you'll be okay... I think. She just sucks at teaching most of the time imo.",
+          "tags": [
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "2a2f81f7887fa725",
+          "id": "dcd3ab38-f7f0-4960-bd35-b58571f267c7",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-10-29T03:33:29.965Z"
         }
       ]
     }
@@ -847703,10 +847865,10 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 3,
-    "overallRating": 0.67,
-    "materialClear": 0.67,
-    "studentDifficulties": 1.33,
+    "numEvals": 4,
+    "overallRating": 0.75,
+    "materialClear": 0.5,
+    "studentDifficulties": 1,
     "courses": [
       "CPE 2300"
     ],
@@ -847759,6 +847921,19 @@
           "id": "a4cc40d7-e546-4b11-bca9-1b760d9518fe",
           "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
           "postDate": "2026-10-21T01:05:29.166Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I hate to write this review because Dr. Yasin is a very kind guy and is knowledgeable about the subject. However, this class is extremely hard to do well in because he does not teach very well. He speeds really fast through confusing topics and expects you to pick it up very quickly. He tries to get us to engage with the class by asking questions frequently, but nobody ever answers them because nobody knows what's going on. It's to the point where I don't even know what questions to ask because I'm that lost. He's also really bad about consistently communicating between sections, as I've heard different things from my friends in other sections about things like what will be on the quizzes. He's pretty unorganized. I have noticed his teaching has gotten a little better with time, but I still have to pretty much teach myself most things. He uses a ton of AI to make homework, quizzes, and in class exercises, which I have actually found to be the most helpful part of the class. But honestly, if there is any other professor available you should take them. I love the guy, but he really needs to improve before I can recommend him",
+          "anonymousIdentifier": "f7051f10ca675989",
+          "id": "b628d51e-6a55-4fe0-a686-d68b86a96415",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "2026-10-29T03:50:06.053Z"
         }
       ]
     }
@@ -859084,24 +859259,24 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 4,
-    "overallRating": 3.75,
+    "numEvals": 5,
+    "overallRating": 3.8,
     "materialClear": 4,
-    "studentDifficulties": 3.5,
+    "studentDifficulties": 3.6,
     "courses": [
       "ME 2111",
       "ENGR 2211"
     ],
     "tags": {
       "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Fast Response Time": 1,
       "Inflexible Grading Policy": 2,
-      "Uploads Slides": 2,
-      "Supplemental Study Material": 2,
+      "Uploads Slides": 3,
+      "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     },
     "reviews": {
       "ME 2111": [
@@ -859178,6 +859353,25 @@
           "id": "8f41ea25-9ef7-41ff-a2cc-e91875ce7af8",
           "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
           "postDate": "2026-10-28T21:12:44.547Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "What sound does a goat make? Whatever noise is coming out of this guys mouth. I didn't realize that when I stepped into this class I was in the presence of a god. Lebron James of Cal Poly Professors. Nuff said",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "a7576585692710f8",
+          "id": "a06684d7-1da4-4c13-b5d5-201f9bc5e771",
+          "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+          "postDate": "2026-10-29T01:00:53.089Z"
         }
       ]
     }
@@ -909485,10 +909679,10 @@
     "department": "BUS",
     "firstName": "Tamara",
     "lastName": "Sui",
-    "numEvals": 6,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2.33,
+    "numEvals": 7,
+    "overallRating": 2.29,
+    "materialClear": 2.29,
+    "studentDifficulties": 2.57,
     "courses": [
       "BUS 3319"
     ],
@@ -909592,6 +909786,19 @@
           "id": "8e44b4bc-791b-444c-b17b-920c6ee3e4e4",
           "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
           "postDate": "2026-10-28T19:11:44.563Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "First of all, Sui has been thrown in a whirlwind. It's her first semester teaching ever; the curriculum is being altered multiple times during the semester so far because Cal Poly's Alteryx license got revoked and bc of semester change. This class has a ton of crammed information, but there's never homework. If you cram even the week before, it'll be hard, but if you consistently study for the time that you're not spending on hw, you'll do fine. There is a project you work on throughout the semester, but deliverables are very spread out and don;t take too much time. She reads off slides, but I don't blame her because it's another professor's slides that, again, are actively being changed through the semester. Pity aside, she's been very responsive to feedback made during the semester, and she's clearly very knowledgeable about the topics taught. She has her CPA and CFA and just got a phd. The midterm scores are very low, but you earn coins on a videogame interface called Z-Change for in-class battles that can be used to buy extra credit on exams. I got a raw 82 score, but with coins my score bumped to 100 (raw average was 60 though). So overall, it's a very dense class, but for future terms as the curriculum is solidified and class objectives become clearer, I'm sure this class will be worth your time, especially if you're interested in technology, data analytics, and AI!",
+          "anonymousIdentifier": "c3ae8172d3567d74",
+          "id": "663ad027-096e-45e0-ac42-c86e7d3fadc3",
+          "professor": "ff1a114f-76e8-4470-b267-c85d0469bca2",
+          "postDate": "2026-10-28T22:33:14.372Z"
         }
       ]
     }
