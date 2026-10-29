@@ -4917,19 +4917,24 @@
     "department": "ART",
     "firstName": "Nick",
     "lastName": "Bockelman",
-    "numEvals": 7,
-    "overallRating": 2.29,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.43,
+    "numEvals": 8,
+    "overallRating": 2.5,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.63,
     "courses": [
       "ART 182",
-      "ART 183"
+      "ART 183",
+      "ART 3351"
     ],
     "tags": {
       "Zoom Office Hours": 3,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 7,
-      "Inflexible Grading Policy": 3
+      "Inflexible Grading Policy": 3,
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1
     }
   },
   {
@@ -19099,20 +19104,21 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
-      "COMS 322"
+      "COMS 322",
+      "COMS 1101"
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 9,
+      "Flexible Attendance Policy": 10,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 8,
-      "Flexible Deadline Policy": 4,
+      "Flexible Grading Policy": 9,
+      "Flexible Deadline Policy": 5,
       "High In-Person Availability": 7,
       "Honor DRC Accommodations": 1
     }

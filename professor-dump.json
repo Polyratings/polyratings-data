@@ -83384,19 +83384,24 @@
     "department": "ART",
     "firstName": "Nick",
     "lastName": "Bockelman",
-    "numEvals": 7,
-    "overallRating": 2.29,
-    "materialClear": 2.57,
-    "studentDifficulties": 2.43,
+    "numEvals": 8,
+    "overallRating": 2.5,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.63,
     "courses": [
       "ART 182",
-      "ART 183"
+      "ART 183",
+      "ART 3351"
     ],
     "tags": {
       "Zoom Office Hours": 3,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Inflexible Deadline Policy": 7,
-      "Inflexible Grading Policy": 3
+      "Inflexible Grading Policy": 3,
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Fast Response Time": 1
     },
     "reviews": {
       "ART 182": [
@@ -83521,6 +83526,28 @@
           "id": "6e651001-db8e-499b-bb58-99a6c34f4bd4",
           "professor": "167efafd-c4e5-4f9c-a4c3-27559065d451",
           "postDate": "Mon Jun 23 2025 07:02:20 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ART 3351": [
+        {
+          "grade": "B",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I have had Nick as a freshman for 182 and for illustration a couple years later, and have had great experiences with him both times. Personally, I appreciate the detailed, in-depth lecture style he has in terms of working with adobe software. I\u2019ve also had Enrica and other GD design professors over the years, and I found a lot of their lectures/workshops with the software to be extremely fast paced and confusing. So, I appreciated that Nick actually taught expecting the class to be beginners which I did not feel like many professors did freshman/sophmore yr, coming into the GD major with no prior experience. If you\u2019re coming to cal poly to actually learn graphic design and the adobe software starting from basics (essentially no prior knowledge) I would highly recommend Nick. If you\u2019re bored in lecture as a Freshman in a 182 class with nick, just understand he\u2019s teaching for everyone, not expecting any prior knowledge, which I think is the ideal way to go about an 100 level class. Just take that time as a gift if it\u2019s review for you, and get some work time in. I never had issues with him critiquing my work but I also ask follow up questions when needed and found him always happy to go more in depth. Advocate for yourself. Especially in Illustration (a smaller class size), he\u2019s open to feedback from the class on pacing and due dates. I find if you just talk to him about your concerns he may adjust things, either for you personally or the class depending on the situation. He\u2019s actually really approachable and chill, I think he can just be a little on the shyer side which could seem intimidating. Of all professors I have had in GD I felt he had the most respect and understanding towards students. From my experience, he treats students as peers or colleagues and doesn\u2019t talk down or make snide remarks. He\u2019s a professor who doesn\u2019t make you feel like a disappointment or failure for having a misstep, not getting everything done, etc. He doesn\u2019t meet you with a lecture on how you won\u2019t make it professionally when you\u2019re already disappointed or dissatisfied with your work/project/delivery etc. He understands things happen and that\u2019s real life. He won\u2019t dwell on it or hold it against you. He\u2019s also really talented and shares a lot of cool tricks if you\u2019re interested. Communicate, be honest, and ask questions when you have them, and you\u2019ll easily build and good relationship. With the exercises/hw he does assign a lot. Most of it I think is helpful practice at the end of the day but definitely some of it seems a bit extra. At the end of the day love Nick he\u2019s great, has great experience + knowledge, funny and nice guy.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Honor DRC Accommodations",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Fast Response Time"
+          ],
+          "anonymousIdentifier": "d019d3d0472bc1b0",
+          "id": "bdce3988-9aa3-4c57-922b-908e8d3f3a6a",
+          "professor": "167efafd-c4e5-4f9c-a4c3-27559065d451",
+          "postDate": "2026-10-29T08:48:50.148Z"
         }
       ]
     }
@@ -333998,20 +334025,21 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 30,
+    "numEvals": 31,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
-      "COMS 322"
+      "COMS 322",
+      "COMS 1101"
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 9,
+      "Flexible Attendance Policy": 10,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 8,
-      "Flexible Deadline Policy": 4,
+      "Flexible Grading Policy": 9,
+      "Flexible Deadline Policy": 5,
       "High In-Person Availability": 7,
       "Honor DRC Accommodations": 1
     },
@@ -334490,6 +334518,26 @@
           "id": "f76ef681-c195-4aa2-9745-618f10c41e7b",
           "professor": "5b58b448-2c19-4c36-82ab-5074dc00f30a",
           "postDate": "Mon Mar 09 2026 19:33:02 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "COMS 1101": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Lit the best in-person public speaking teacher oat, so funny and gen enjoyed public speaking because of him. Other than mandatory attendance which he still is lenient on you can practically fade without any difficulty.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "63ea2aa972c69d2d",
+          "id": "845fcc3a-9067-4367-91a2-d88b8505e293",
+          "professor": "5b58b448-2c19-4c36-82ab-5074dc00f30a",
+          "postDate": "2026-10-29T08:35:03.002Z"
         }
       ]
     }
