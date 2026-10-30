@@ -575,10 +575,10 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 5,
-    "overallRating": 1.6,
-    "materialClear": 1,
-    "studentDifficulties": 1.4,
+    "numEvals": 4,
+    "overallRating": 1,
+    "materialClear": 0.25,
+    "studentDifficulties": 0.75,
     "courses": [
       "EE 2328"
     ],
@@ -589,11 +589,11 @@
       "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "Uploads Slides": 1,
-      "Hybrid Option": 1,
-      "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1,
-      "High In-Person Availability": 1
+      "Hybrid Option": 0,
+      "Zoom Office Hours": 0,
+      "Fast Response Time": 0,
+      "Honor DRC Accommodations": 0,
+      "High In-Person Availability": 0
     },
     "reviews": {
       "EE 2328": [
@@ -644,26 +644,6 @@
           "id": "4d179061-980d-457f-8aa4-bf75b8256e3f",
           "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
           "postDate": "2026-10-23T18:23:18.938Z"
-        },
-        {
-          "grade": "F",
-          "gradeLevel": "5th/6th Year",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "Ive never taken an EE class before. I asked my advisor to take signals and systems cause I was like, huh Signals sound super cool. Systems not so much. Anyways, first day of class he starts talking some guy named Fourier. I'm not sure what was going on. But all I know is that EE is super cool! I'm gonna consider switching from my English degree. \n\nBasu IS THE GOAT. Would take again. gg frickin ez",
-          "tags": [
-            "Hybrid Option",
-            "Zoom Office Hours",
-            "Fast Response Time",
-            "Honor DRC Accommodations",
-            "High In-Person Availability"
-          ],
-          "anonymousIdentifier": "af62f9d2db51ec1b",
-          "id": "2bd40424-1295-4336-acb9-22aa82c9469b",
-          "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
-          "postDate": "2026-10-25T23:25:00.480Z"
         },
         {
           "grade": "N/A",
@@ -7468,10 +7448,10 @@
     "department": "SPAN",
     "firstName": "Tanya",
     "lastName": "Chroman",
-    "numEvals": 24,
-    "overallRating": 3.38,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.46,
+    "numEvals": 25,
+    "overallRating": 3.4,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.48,
     "courses": [
       "SPAN 101",
       "SPAN 102",
@@ -7479,12 +7459,17 @@
       "SPAN 124",
       "SPAN 202",
       "SPAN 203",
-      "WLC 310"
+      "WLC 310",
+      "SPAN 3301"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
       "Class Handouts": 2,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "SPAN 101": [
@@ -7798,6 +7783,28 @@
           "id": "e65d2376-6686-4c0e-a1e2-333a13cb69fd",
           "professor": "031a6bf3-e433-4149-a82f-f6488c282eec",
           "postDate": "Tue Mar 25 2025 22:29:19 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "SPAN 3301": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Love the class. The professor is very knowledgeable and explain things very well",
+          "tags": [
+            "Zoom Office Hours",
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Honor DRC Accommodations",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "6ce8c9e8a7d04d57",
+          "id": "19721bef-e25b-4efc-8598-93d057ecf449",
+          "professor": "031a6bf3-e433-4149-a82f-f6488c282eec",
+          "postDate": "2026-10-30T03:05:05.761Z"
         }
       ]
     }
@@ -126279,10 +126286,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 209,
-    "overallRating": 1.89,
-    "materialClear": 1.98,
-    "studentDifficulties": 2.01,
+    "numEvals": 210,
+    "overallRating": 1.88,
+    "materialClear": 1.97,
+    "studentDifficulties": 2,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -129099,6 +129106,19 @@
           "id": "851ad614-4681-4775-b70a-f3fb76e7dc1d",
           "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
           "postDate": "2026-10-29T21:05:44.207Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "If you imagine what hell on earth looks like, it\u2019s a 1 to 1 replica of taking this class. 100% the shittiest teacher I\u2019ve ever had in my life. You could submit something that\u2019s written better than Shakespeare and she\u2019ll still give you a C because she wants to take out the anger in her sorry ass life on you. I bet Hellen Keller would be able to teach this class better.",
+          "anonymousIdentifier": "6916165f45c77ba9",
+          "id": "1ed79393-55f7-4423-9ff4-ce2b6f161145",
+          "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
+          "postDate": "2026-10-29T23:36:43.131Z"
         }
       ]
     }
@@ -266261,7 +266281,7 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 88,
+    "numEvals": 90,
     "overallRating": 3.81,
     "materialClear": 3.79,
     "studentDifficulties": 3.79,
@@ -266276,17 +266296,19 @@
       "MATH 341",
       "MATH 344",
       "MATH 481",
-      "MATH 482"
+      "MATH 482",
+      "MATH 1262"
     ],
     "tags": {
-      "High In-Person Availability": 3,
-      "Flexible Grading Policy": 3,
-      "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 3,
+      "High In-Person Availability": 5,
+      "Flexible Grading Policy": 5,
+      "Flexible Attendance Policy": 4,
+      "Supplemental Study Material": 4,
       "No Breaks During Lecture": 3,
       "Class Handouts": 1,
-      "Fast Response Time": 1,
-      "Uploads Slides": 1
+      "Fast Response Time": 3,
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "MATH 141": [
@@ -267417,6 +267439,48 @@
           "id": "d499a4a8-205a-4720-a205-22fdf9258d0f",
           "professor": "47945cd0-54af-44b0-bf4c-10bdd53b084f",
           "postDate": "Sat Dec 13 2025 21:39:39 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1262": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Greatest professor that I have ever had the pleasure to listen to. introduced me to the \"Fab Four\" and truly changed the direction of my life. Makes every morning brighter and more enjoyable. I always woke up excited to learn knowing that it was Easton teaching me. He has mastered the skill of using chalk. He so fluid and efficient when writing on the whiteboard. Worth it to take a class just to watch him write. If the aliens had the death ray pointed at earth and only one person could solve a math equation to save us. I'm taking Easton.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "High In-Person Availability",
+            "Fast Response Time"
+          ],
+          "anonymousIdentifier": "e7c4762e5d6bd7aa",
+          "id": "8c0cd1be-69c2-4d24-9c97-34998632deae",
+          "professor": "47945cd0-54af-44b0-bf4c-10bdd53b084f",
+          "postDate": "2026-10-30T04:34:45.537Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "If there was a 5 star option I would give him 5. He has come to every single class with energy and an enthusiasm to teach, inevitably rubbing off on his class. Such a wonderful teacher who cares about his students and genuinely wishes the best for them. He is a marvelous, professional, and skilled teacher who has given me a better understand in math over any teacher I have had before. Very skilled with chalk btw he is a craftsman.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "63ea2aa972c69d2d",
+          "id": "66046686-8810-48b6-b438-6819624cc3b6",
+          "professor": "47945cd0-54af-44b0-bf4c-10bdd53b084f",
+          "postDate": "2026-10-30T04:35:05.358Z"
         }
       ]
     }
@@ -343412,12 +343476,12 @@
     "department": "ME",
     "firstName": "Glynn",
     "lastName": "Gallaway",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 0,
-    "materialClear": 2,
+    "materialClear": 1,
     "studentDifficulties": 0,
     "courses": [
-      "ME"
+      "ME 3328"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
@@ -343440,6 +343504,19 @@
           "id": "bf144296-91f4-49db-a0a6-8defb6b9760a",
           "professor": "5c110ff5-3d9a-47b5-afa8-4a93e0588886",
           "postDate": "2026-10-25T23:50:52.232Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Holy crash out after midterm 2. Idk wth she was on writing that exam and why she was so obsessed with measuring tapes...",
+          "anonymousIdentifier": "336c2657e14d8939",
+          "id": "ef8f43fe-36f9-4916-8f96-9b91ffa5af51",
+          "professor": "5c110ff5-3d9a-47b5-afa8-4a93e0588886",
+          "postDate": "2026-10-29T23:23:38.756Z"
         }
       ]
     }
@@ -392611,15 +392688,20 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 4,
-    "overallRating": 0.5,
+    "numEvals": 5,
+    "overallRating": 0.4,
     "materialClear": 1,
-    "studentDifficulties": 1.75,
+    "studentDifficulties": 1.4,
     "courses": [
       "BUS 214",
       "BUS 3320"
     ],
-    "tags": {},
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    },
     "reviews": {
       "BUS 214": [
         {
@@ -392674,6 +392756,25 @@
           "id": "5b30cdb5-63a5-4925-b87d-d79d0683a15a",
           "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
           "postDate": "Wed Oct 14 2026 17:27:27 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "An extremely frustrating professor as he makes it purposefully difficult to succeed. He assigned a large tax assignment with zero previous teaching or preparation, refuses to answer questions, and actually discourages students from talking to classmates for help. He offers no curve whatsoever and completely fails to recognize or accommodate any difficulties students are experiencing",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "959825400e5c9d6b",
+          "id": "80bad8b3-5e04-46ed-ab79-e3369eb15f5b",
+          "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
+          "postDate": "2026-10-29T23:17:15.409Z"
         }
       ]
     }
@@ -617567,21 +617668,24 @@
     "department": "ES",
     "firstName": "Michael",
     "lastName": "Parra",
-    "numEvals": 9,
-    "overallRating": 3.23,
-    "materialClear": 2.89,
-    "studentDifficulties": 3,
+    "numEvals": 10,
+    "overallRating": 3.31,
+    "materialClear": 3,
+    "studentDifficulties": 3.1,
     "courses": [
-      "ES 252"
+      "ES 252",
+      "ES 2252"
     ],
     "tags": {
       "Recorded Lectures": 1,
-      "Flexible Deadline Policy": 2,
-      "Uploads Slides": 5,
+      "Flexible Deadline Policy": 3,
+      "Uploads Slides": 6,
       "Flexible Attendance Policy": 3,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Hybrid Option": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Zoom Office Hours": 1
     },
     "reviews": {
       "ES 252": [
@@ -617726,6 +617830,28 @@
           "id": "0c63731c-47ba-4434-a003-b9125f5e9c2f",
           "professor": "a8bc0f93-c129-48ef-a8b2-fe536441d79d",
           "postDate": "Wed Jul 22 2026 04:21:22 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ES 2252": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took this class virtually. The way it's graded is by doing analysis on 3-5 readings a week and reading comprehension quizzes. On all of these you can ctrl f all of the info needed for all of these. The class is incredibly easy and the professor is understanding. His late work policy is about a week with no penalty for assignments, which is incredibly generous. He requires you show up to everything but 3 lectures but understands illness or other excused absences.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Inflexible Attendance Policy",
+            "Zoom Office Hours",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "1e658d5c7de979db",
+          "id": "54d0d667-dac5-4bea-8a8f-7cb0cda081c0",
+          "professor": "a8bc0f93-c129-48ef-a8b2-fe536441d79d",
+          "postDate": "2026-10-30T04:58:31.412Z"
         }
       ]
     }
@@ -641853,10 +641979,10 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "McDonough",
-    "numEvals": 2,
-    "overallRating": 2,
-    "materialClear": 2,
-    "studentDifficulties": 2.5,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 1.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "MATH 1264",
       "MATH 1263"
@@ -641865,8 +641991,11 @@
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 2,
       "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Flexible Attendance Policy": 2,
+      "Class Handouts": 2,
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "MATH 1264": [
@@ -641906,6 +642035,26 @@
           "id": "0e676479-76ef-42e0-8ae1-4edb51269ab9",
           "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
           "postDate": "Wed Oct 14 2026 22:05:26 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "He's an extremely nice person but isn't a very structured teacher (though some of this could partially be because of the quarter->semester switch). \n\nMy main issues with him are\n1. The lectures get off topic very easily. He loves to go on long tangents about very complicated and theoretical concepts not relevant to the lecture.\n2. The problems he gives in class aren't well explained and some problems he gives even he doesn't know how to solve\n3. His quizzes are extremely easy as long as you know the concepts; however the test are 50% conceptual and 50% problems. Even though I understood how to solve the problems, I struggled with the conceptual problems as he doesn't go over them in class.\n4. He said that some of the practice problems he gives us aren't because we can solve them or because it's required, but because he found the theory interesting (his words...)\n5. He takes off points for decorative reasons not because you got the wrong answer or the wrong solution (telescoping series, got points taken off because I didn't EXPLICITLY state that it continuouly decreases)\n\nBenefits:\n1. No homework required though practice problems are given\n2. The quizzes are easy as long as you know the materials. They're very straight-forward\n3. He's very responsive to messages\n4. Gives around 2-5 easy bonus points on exams (like \"what do you know about x\" for 2 points) plus another 4-5 for extra problems",
+          "tags": [
+            "Fast Response Time",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "1e658d5c7de979db",
+          "id": "8add0713-615a-4b18-bf4d-3950bf78fb03",
+          "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
+          "postDate": "2026-10-30T04:41:38.806Z"
         }
       ]
     }
@@ -748631,10 +748780,10 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 8,
-    "overallRating": 1.38,
-    "materialClear": 0.75,
-    "studentDifficulties": 2.5,
+    "numEvals": 9,
+    "overallRating": 1.34,
+    "materialClear": 0.78,
+    "studentDifficulties": 2.44,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
@@ -748774,6 +748923,19 @@
           "id": "dcd3ab38-f7f0-4960-bd35-b58571f267c7",
           "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
           "postDate": "2026-10-29T03:33:29.965Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Simply not a good professor. Disorganized and cannot present clearly. Strange tests and is constantly making mistakes when working through problems. Office hours are useless.",
+          "anonymousIdentifier": "ea255c573b88a8f6",
+          "id": "fce93483-be81-4976-80f1-87164fac5cf4",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-10-29T22:45:06.075Z"
         }
       ]
     }
@@ -816823,24 +816985,28 @@
     "department": "CE",
     "firstName": "Hani",
     "lastName": "Alzraiee",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 3,
-    "studentDifficulties": 2.75,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 3.2,
+    "studentDifficulties": 2.6,
     "courses": [
       "CE 371",
       "CE 3371",
-      "CE 4415"
+      "CE 4415",
+      "CE 5575"
     ],
     "tags": {
       "Recorded Lectures": 3,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Supplemental Study Material": 2,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Hybrid Option": 1,
-      "Zoom Office Hours": 1
+      "Zoom Office Hours": 1,
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1,
+      "Class Handouts": 1
     },
     "reviews": {
       "CE 371": [
@@ -816919,6 +817085,28 @@
           "id": "0fb82385-7342-4198-acbc-c79b641edb17",
           "professor": "e680acfe-77af-487b-a432-e8f2930bf637",
           "postDate": "2026-10-29T19:38:36.253Z"
+        }
+      ],
+      "CE 5575": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 2,
+          "rating": "I took CE571 Engineering Project Management in spring 2025 with Hani. The course is relevant to every civil engineer.  Reflecting back after 2 .5 years of taking this class, and I can say this class helped me a lot to understand the management aspects of the engineering. He prepared me well for my role as project engineer in the company industry. Really appreciate his dedication to his students and the case studies he shared during the lab. Exams are easy and from what was covered. But I remember the final exam was so long and all handwriting. His expectation are high from his students but he invest in you to learn.",
+          "tags": [
+            "High In-Person Availability",
+            "Honor DRC Accommodations",
+            "Uploads Slides",
+            "Class Handouts",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "ccab971f66443998",
+          "id": "5ddecb96-6d55-47df-abf6-3c50f1e92583",
+          "professor": "e680acfe-77af-487b-a432-e8f2930bf637",
+          "postDate": "2026-10-30T02:39:24.464Z"
         }
       ]
     }
