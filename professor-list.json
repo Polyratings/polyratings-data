@@ -8484,10 +8484,10 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 16,
-    "overallRating": 2.44,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.7,
+    "numEvals": 17,
+    "overallRating": 2.53,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.78,
     "courses": [
       "BUS 215",
       "BUS 412",
@@ -22260,18 +22260,18 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 5,
-    "overallRating": 0.4,
-    "materialClear": 1,
-    "studentDifficulties": 1.4,
+    "numEvals": 6,
+    "overallRating": 0.33,
+    "materialClear": 0.83,
+    "studentDifficulties": 1.17,
     "courses": [
       "BUS 214",
       "BUS 3320"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 1
     }
   },
@@ -25457,17 +25457,19 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 5,
-    "overallRating": 0.2,
-    "materialClear": 1.4,
-    "studentDifficulties": 1.6,
+    "numEvals": 6,
+    "overallRating": 0.33,
+    "materialClear": 1.17,
+    "studentDifficulties": 1.33,
     "courses": [
       "ENGL 2242"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Pop Quizzes": 2,
+      "Inflexible Grading Policy": 2,
+      "Hybrid Option": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -45982,10 +45984,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 63,
+    "numEvals": 64,
     "overallRating": 0.23,
     "materialClear": 0.19,
-    "studentDifficulties": 0.41,
+    "studentDifficulties": 0.4,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -45994,14 +45996,14 @@
       "CHEM 1120"
     ],
     "tags": {
-      "No Breaks During Lecture": 23,
-      "Inflexible Attendance Policy": 16,
+      "No Breaks During Lecture": 24,
+      "Inflexible Attendance Policy": 17,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
-      "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 10,
-      "Inflexible Grading Policy": 9,
+      "Uploads Slides": 7,
+      "Inflexible Deadline Policy": 11,
+      "Inflexible Grading Policy": 10,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
       "Class Handouts": 1

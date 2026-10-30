@@ -147628,10 +147628,10 @@
     "department": "AEPS",
     "firstName": "Emily",
     "lastName": "Hickman",
-    "numEvals": 16,
-    "overallRating": 2.44,
-    "materialClear": 2.37,
-    "studentDifficulties": 2.7,
+    "numEvals": 17,
+    "overallRating": 2.53,
+    "materialClear": 2.47,
+    "studentDifficulties": 2.78,
     "courses": [
       "BUS 215",
       "BUS 412",
@@ -147915,6 +147915,19 @@
           "id": "464820c5-a9b7-4b46-bb32-d88c97e3b6ef",
           "professor": "27f53828-8c54-45bd-a75c-312a894061fe",
           "postDate": "2026-10-20T21:46:49.890Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This stands alone as one of the only accounting classes that doesn't leave me puzzled for hours doing the homework. Out of all the accounting professors I've had, she explains concepts the most clearly, and her lectures are also super effective. I only spend about 1-2 hours MAX doing the weekly homework because we work through many similar problems in class that show up on the homework. She lectures quite fast, but it's very possible to keep up, and she has a very good understanding of what concepts can be breezed over and which need more time to go over. No reading for this class, and we also have gone over a lot of concepts from intro to managerial accounting so far, so the concepts are not that foreign. The one thing is that some conceptual questions on the test are not from info in the slides, but she makes it pretty clear when she explains a concept in class if it'll be important to memorize for the exam. If you're someone who shows up to class and does the homework, you'll have no problem in this class.",
+          "anonymousIdentifier": "09b73430ed2a12d9",
+          "id": "3bcffe4f-c811-4924-a11a-80874725ae47",
+          "professor": "27f53828-8c54-45bd-a75c-312a894061fe",
+          "postDate": "2026-10-30T17:57:46.170Z"
         }
       ]
     }
@@ -392688,18 +392701,18 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 5,
-    "overallRating": 0.4,
-    "materialClear": 1,
-    "studentDifficulties": 1.4,
+    "numEvals": 6,
+    "overallRating": 0.33,
+    "materialClear": 0.83,
+    "studentDifficulties": 1.17,
     "courses": [
       "BUS 214",
       "BUS 3320"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 1
     },
     "reviews": {
@@ -392775,6 +392788,24 @@
           "id": "80bad8b3-5e04-46ed-ab79-e3369eb15f5b",
           "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
           "postDate": "2026-10-29T23:17:15.409Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "He told a student he was \"f**king [him] in the a$$\" for not following the no technology policy, and to go to \"f**king cambridge or something\" if he doesn't like it?? Insane work from the old demon.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "1c5a69f354503ecc",
+          "id": "da4b9897-6ae9-4472-b8b9-2745ea5bc45f",
+          "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
+          "postDate": "2026-10-30T20:26:16.815Z"
         }
       ]
     }
@@ -447685,17 +447716,19 @@
     "department": "ENGL",
     "firstName": "Suzie",
     "lastName": "Hanrahan",
-    "numEvals": 5,
-    "overallRating": 0.2,
-    "materialClear": 1.4,
-    "studentDifficulties": 1.6,
+    "numEvals": 6,
+    "overallRating": 0.33,
+    "materialClear": 1.17,
+    "studentDifficulties": 1.33,
     "courses": [
       "ENGL 2242"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Pop Quizzes": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Attendance Policy": 2,
+      "Pop Quizzes": 2,
+      "Inflexible Grading Policy": 2,
+      "Hybrid Option": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "ENGL 2242": [
@@ -447768,6 +447801,26 @@
           "id": "c92b2dfc-7990-4a49-889c-a121079a2e04",
           "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
           "postDate": "Wed Oct 14 2026 05:07:17 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Very difficult class, a lot of homework and harsh grading. I am someone that does all the readings and I still cant get good grades on the quizzes. Try to avoid if you can. Suzie is a nice women and if you cannot get out of this class make sure to utilize her office hours. That is the only thing that is keeping me at a b right now.",
+          "tags": [
+            "Hybrid Option",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "9371bbfc2528c99b",
+          "id": "9b16ee99-f04b-4241-a03d-140550d87b83",
+          "professor": "78aa047d-4a41-4274-885d-825ef333af7d",
+          "postDate": "2026-10-30T21:32:33.104Z"
         }
       ]
     }
@@ -801625,10 +801678,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 63,
+    "numEvals": 64,
     "overallRating": 0.23,
     "materialClear": 0.19,
-    "studentDifficulties": 0.41,
+    "studentDifficulties": 0.4,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -801637,14 +801690,14 @@
       "CHEM 1120"
     ],
     "tags": {
-      "No Breaks During Lecture": 23,
-      "Inflexible Attendance Policy": 16,
+      "No Breaks During Lecture": 24,
+      "Inflexible Attendance Policy": 17,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 2,
       "Does Not Use Canvas": 3,
-      "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 10,
-      "Inflexible Grading Policy": 9,
+      "Uploads Slides": 7,
+      "Inflexible Deadline Policy": 11,
+      "Inflexible Grading Policy": 10,
       "Supplemental Study Material": 2,
       "Zoom Office Hours": 1,
       "Class Handouts": 1
@@ -802617,6 +802670,26 @@
           "id": "8597079c-67e2-43b7-91a4-364b3a9b32ee",
           "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
           "postDate": "Tue Oct 13 2026 23:40:43 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "HORRIBLE DONT EVER TAKE HER SHES HORRIBLE. PLS DROP THE CLASS IF YOU HAVE HER",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "89842b293a741d9b",
+          "id": "a12cc283-2372-445f-a23b-91f4ff92be59",
+          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
+          "postDate": "2026-10-30T21:03:35.693Z"
         }
       ]
     }
