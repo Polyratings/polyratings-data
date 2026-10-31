@@ -22260,19 +22260,20 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 6,
-    "overallRating": 0.33,
-    "materialClear": 0.83,
-    "studentDifficulties": 1.17,
+    "numEvals": 7,
+    "overallRating": 0.28,
+    "materialClear": 0.71,
+    "studentDifficulties": 1,
     "courses": [
       "BUS 214",
       "BUS 3320"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 3,
+      "No Breaks During Lecture": 2,
+      "Uploads Slides": 1
     }
   },
   {

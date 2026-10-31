@@ -392701,19 +392701,20 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 6,
-    "overallRating": 0.33,
-    "materialClear": 0.83,
-    "studentDifficulties": 1.17,
+    "numEvals": 7,
+    "overallRating": 0.28,
+    "materialClear": 0.71,
+    "studentDifficulties": 1,
     "courses": [
       "BUS 214",
       "BUS 3320"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 2,
-      "Inflexible Deadline Policy": 2,
-      "Inflexible Grading Policy": 2,
-      "No Breaks During Lecture": 1
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 3,
+      "No Breaks During Lecture": 2,
+      "Uploads Slides": 1
     },
     "reviews": {
       "BUS 214": [
@@ -392806,6 +392807,26 @@
           "id": "da4b9897-6ae9-4472-b8b9-2745ea5bc45f",
           "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
           "postDate": "2026-10-30T20:26:16.815Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Lectures are very confusing. He assigns a major project on a subject from the first few weeks of the course that he barely covered. Feels like I am teaching myself this class.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Inflexible Attendance Policy",
+            "No Breaks During Lecture",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "4dc1917232b041ad",
+          "id": "5e689cc2-1fa7-4780-8b63-f30a76763fc2",
+          "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
+          "postDate": "2026-10-31T00:11:49.452Z"
         }
       ]
     }
