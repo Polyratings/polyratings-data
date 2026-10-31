@@ -761599,10 +761599,10 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 21,
-    "overallRating": 2.86,
-    "materialClear": 3.3,
-    "studentDifficulties": 2.99,
+    "numEvals": 22,
+    "overallRating": 2.78,
+    "materialClear": 3.15,
+    "studentDifficulties": 2.85,
     "courses": [
       "EE 201",
       "EE 306",
@@ -761611,16 +761611,18 @@
       "EE 2115"
     ],
     "tags": {
-      "Recorded Lectures": 12,
+      "Recorded Lectures": 13,
       "High In-Person Availability": 1,
-      "Uploads Slides": 5,
+      "Uploads Slides": 6,
       "Hybrid Option": 7,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
       "Class Handouts": 1,
       "Pop Quizzes": 1,
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "EE 201": [
@@ -761967,6 +761969,26 @@
           "id": "5c77acf7-598a-42f3-847b-0a234677c7c5",
           "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
           "postDate": "2026-10-29T20:36:06.715Z"
+        },
+        {
+          "grade": "W",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Failed the midterm so bad I decided to just withdraw. Th midterm avg was 40-45 percent no curve worth like 20 percent of yuor grade. Lectures so ass people just show up to quizzes.",
+          "tags": [
+            "Recorded Lectures",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "7aa2941e63d5c49e",
+          "id": "b2c47222-b65c-4135-b5ac-28ab2acfc9e1",
+          "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
+          "postDate": "2026-10-31T06:31:09.848Z"
         }
       ]
     }
