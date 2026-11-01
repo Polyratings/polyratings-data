@@ -32619,10 +32619,10 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 38,
-    "overallRating": 1.94,
-    "materialClear": 1.85,
-    "studentDifficulties": 1.94,
+    "numEvals": 39,
+    "overallRating": 1.89,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.89,
     "courses": [
       "BUS 438",
       "BUS 439",
@@ -32635,11 +32635,14 @@
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Zoom Office Hours": 2,
       "Pop Quizzes": 1,
-      "Class Handouts": 2,
-      "Honor DRC Accommodations": 1
+      "Class Handouts": 3,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     },
     "reviews": {
       "BUS 438": [
@@ -33147,6 +33150,26 @@
           "id": "146363b3-31a1-42de-beaf-c8ac0e961d13",
           "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
           "postDate": "2026-10-26T16:41:59.095Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I think he wants to be a good teacher but just isn't. Crazy unrealistic expectations for the content in the class, it's supposed to be intro but definitely requires accounting knowledge. Also has about a 7-10 page worksheet with mostly just words every class and no space to fill it in/he skips over half of it and expects you to do it separately. chat is teaching me better than him. everyone (including me) failed his last quiz even after studying for 5+ hours. you get a note sheet but if you don't understand content it doesn't even matter. Super confusing class. I don't even think he comprehends that no one knows what's happening. So frustrating. DO NOT TAKE.",
+          "tags": [
+            "Uploads Slides",
+            "Class Handouts",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "f98820e1d91bfa07",
+          "id": "9e912919-5e36-411c-8bed-1078713ed8a2",
+          "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
+          "postDate": "2026-10-31T22:07:47.502Z"
         }
       ]
     }
@@ -198756,25 +198779,27 @@
     "department": "BIO",
     "firstName": "Michele",
     "lastName": "Roest",
-    "numEvals": 25,
-    "overallRating": 3.36,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.64,
+    "numEvals": 26,
+    "overallRating": 3.38,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.65,
     "courses": [
       "BIO 227",
       "BIO 222",
-      "BIO 150"
+      "BIO 150",
+      "BIO 2215"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Uploads Slides": 10,
-      "Flexible Attendance Policy": 7,
+      "Fast Response Time": 2,
+      "Uploads Slides": 11,
+      "Flexible Attendance Policy": 8,
       "Recorded Lectures": 2,
       "Does Not Use Canvas": 4,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "BIO 227": [
@@ -199165,6 +199190,28 @@
           "id": "ad52ba05-be5d-46f4-b83e-f691dabe3a65",
           "professor": "3510e39e-ea82-44fc-8e33-a77b358fcbcb",
           "postDate": "Mon Dec 15 2025 10:43:14 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 2215": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Roest is awesome! Her class is pretty easy if you literally just show up. She has all quizzes online, and they are all about identifying various species from California. Love her teaching method; she is a great teacher with extensive outside experience, something hard to find in professors in general. She reminds me of a loving and caring grandmother who cares about your success a ton. Take her for a great class to learn a lot and connect with someone who truly cares about you.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Fast Response Time",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "6c0aeadf5238edd7",
+          "id": "948fbf10-992e-44bb-8163-ca7b061834d2",
+          "professor": "3510e39e-ea82-44fc-8e33-a77b358fcbcb",
+          "postDate": "2026-10-31T21:41:50.967Z"
         }
       ]
     }
@@ -543131,10 +543178,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 40,
-    "overallRating": 3.63,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.57,
+    "numEvals": 41,
+    "overallRating": 3.64,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.56,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -543144,22 +543191,24 @@
       "MATH 221",
       "MATH 141",
       "MATH 227",
-      "MATH 1261"
+      "MATH 1261",
+      "MATH 1263"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "High In-Person Availability": 13,
-      "Class Handouts": 14,
+      "Class Handouts": 15,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 4,
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "Honor DRC Accommodations": 2,
       "Flexible Deadline Policy": 3,
       "No Breaks During Lecture": 1,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 3,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "MATH 112": [
@@ -543774,6 +543823,26 @@
           "id": "2e8e4e55-87e9-4379-8503-e86b3ea8a03f",
           "professor": "9209bfb7-e9d0-4d4e-8cf3-0bfd8c9f537e",
           "postDate": "2026-10-29T19:29:02.220Z"
+        }
+      ],
+      "MATH 1263": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "I loved Saba! Of every class I have taken at Poly so far, she had the best relationship with students, learning all of our names in a couple of weeks and making sure everyone felt included and eager to participate. Her notes are easy to follow and the homework is manageable. However, her tests are very strictly graded, docking points if you don't perfectly follow her method, even if you get to the write answer, so make sure you pay close to attention to her process and don't be afraid to ask for help, she's very approachable.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "8384486e5767d0f8",
+          "id": "16ede1dc-0207-42c8-aabf-2b941710136c",
+          "professor": "9209bfb7-e9d0-4d4e-8cf3-0bfd8c9f537e",
+          "postDate": "2026-11-01T00:53:03.340Z"
         }
       ]
     }

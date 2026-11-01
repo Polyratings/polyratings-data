@@ -1980,10 +1980,10 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 38,
-    "overallRating": 1.94,
-    "materialClear": 1.85,
-    "studentDifficulties": 1.94,
+    "numEvals": 39,
+    "overallRating": 1.89,
+    "materialClear": 1.8,
+    "studentDifficulties": 1.89,
     "courses": [
       "BUS 438",
       "BUS 439",
@@ -1996,11 +1996,14 @@
       "Recorded Lectures": 1,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
-      "Uploads Slides": 4,
+      "Uploads Slides": 5,
       "Zoom Office Hours": 2,
       "Pop Quizzes": 1,
-      "Class Handouts": 2,
-      "Honor DRC Accommodations": 1
+      "Class Handouts": 3,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -11428,25 +11431,27 @@
     "department": "BIO",
     "firstName": "Michele",
     "lastName": "Roest",
-    "numEvals": 25,
-    "overallRating": 3.36,
-    "materialClear": 3.47,
-    "studentDifficulties": 3.64,
+    "numEvals": 26,
+    "overallRating": 3.38,
+    "materialClear": 3.45,
+    "studentDifficulties": 3.65,
     "courses": [
       "BIO 227",
       "BIO 222",
-      "BIO 150"
+      "BIO 150",
+      "BIO 2215"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Uploads Slides": 10,
-      "Flexible Attendance Policy": 7,
+      "Fast Response Time": 2,
+      "Uploads Slides": 11,
+      "Flexible Attendance Policy": 8,
       "Recorded Lectures": 2,
       "Does Not Use Canvas": 4,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -30612,10 +30617,10 @@
     "department": "MATH",
     "firstName": "Saba",
     "lastName": "Gerami",
-    "numEvals": 40,
-    "overallRating": 3.63,
-    "materialClear": 3.54,
-    "studentDifficulties": 3.57,
+    "numEvals": 41,
+    "overallRating": 3.64,
+    "materialClear": 3.55,
+    "studentDifficulties": 3.56,
     "courses": [
       "MATH 112",
       "MATH 117",
@@ -30625,22 +30630,24 @@
       "MATH 221",
       "MATH 141",
       "MATH 227",
-      "MATH 1261"
+      "MATH 1261",
+      "MATH 1263"
     ],
     "tags": {
       "Zoom Office Hours": 1,
       "High In-Person Availability": 13,
-      "Class Handouts": 14,
+      "Class Handouts": 15,
       "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 2,
       "Fast Response Time": 4,
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "Honor DRC Accommodations": 2,
       "Flexible Deadline Policy": 3,
       "No Breaks During Lecture": 1,
       "Pop Quizzes": 1,
       "Supplemental Study Material": 3,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
