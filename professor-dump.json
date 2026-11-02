@@ -824564,22 +824564,24 @@
     "department": "ES",
     "firstName": "Dan",
     "lastName": "Castilow",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 4,
     "materialClear": 3.91,
     "studentDifficulties": 3.91,
     "courses": [
-      "ES 254"
+      "ES 254",
+      "ES 2254"
     ],
     "tags": {
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Zoom Office Hours": 4,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 4,
       "Hybrid Option": 1,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Pop Quizzes": 1
     },
     "reviews": {
       "ES 254": [
@@ -824926,6 +824928,25 @@
           "id": "aa688604-e898-407b-a33c-dfb6c94145ca",
           "professor": "e96a96cb-3de2-41ad-8909-e46e3b6ba16b",
           "postDate": "Tue Jun 02 2026 20:47:15 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ES 2254": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "TRULY the best teacher ever!!! He is very entertaining to listen to as a lecturer, despite the class being a GE, often sharing stories from his personal life, making the content more exciting. Classwork is fairly simple, and quizzes are often take-home. He will also let you out of class early almost every time. The only downside is that he often forgets to post things to Canvas and doesn't really respond to emails. Would 100% choose to have him as a teacher again if I could.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "041ca210076624e8",
+          "id": "7a45b6a6-5065-4db1-8309-c79c6a2fb72d",
+          "professor": "e96a96cb-3de2-41ad-8909-e46e3b6ba16b",
+          "postDate": "2026-11-02T01:13:30.908Z"
         }
       ]
     }
@@ -849526,10 +849547,10 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 94,
-    "overallRating": 2.38,
-    "materialClear": 2.47,
-    "studentDifficulties": 2.39,
+    "numEvals": 95,
+    "overallRating": 2.35,
+    "materialClear": 2.44,
+    "studentDifficulties": 2.36,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -849537,7 +849558,8 @@
       "ENGL 252",
       "ENGL 253",
       "ENGL 254",
-      "ENGL 350"
+      "ENGL 350",
+      "ENGL 1145"
     ],
     "tags": {
       "Fast Response Time": 7,
@@ -849545,10 +849567,10 @@
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 9,
+      "Flexible Deadline Policy": 10,
       "Honor DRC Accommodations": 2,
       "Class Handouts": 5,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 2,
       "Uploads Slides": 4,
@@ -850806,6 +850828,25 @@
           "id": "7a9feb4a-ad25-40ae-b1ae-8358fd8be672",
           "professor": "f0800cbd-a45f-46f1-9f19-e662d5f1b1b1",
           "postDate": "2013-08-01T07:00:00.000Z"
+        }
+      ],
+      "ENGL 1145": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Worst teacher I have ever had. Will give you nearly a 0 on an assignment with no valid explanation. The harshest grader you will ever have you can't do anything right in her class. ever. Even if you try really hard and follow the rubric you will still get a horrible grade. Do not take a class with her. It will take up all of your time and you will still have to deal with her unreasonably bad grading.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "4de1470436a989c9",
+          "id": "1dc6a604-2be2-428d-9743-18a0cc8973a1",
+          "professor": "f0800cbd-a45f-46f1-9f19-e662d5f1b1b1",
+          "postDate": "2026-11-01T23:51:17.729Z"
         }
       ]
     }
@@ -860126,10 +860167,10 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.33,
+    "studentDifficulties": 3,
     "courses": [
       "ME 2111",
       "ENGR 2211"
@@ -860138,12 +860179,15 @@
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Uploads Slides": 3,
       "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "ME 2111": [
@@ -860239,6 +860283,25 @@
           "id": "a06684d7-1da4-4c13-b5d5-201f9bc5e771",
           "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
           "postDate": "2026-10-29T01:00:53.089Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "He has to be putting these reviews in himself. He is not understanding whatsoever. Completely unaware of how much time it takes to complete problems. He makes you make this class your only priority in life. Also, be ready for his emails to remind you that this class is the biggest priority in life.",
+          "tags": [
+            "Inflexible Grading Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "041ca210076624e8",
+          "id": "6d8ff4fa-dcbc-4e1c-8370-7e4bd707fc4a",
+          "professor": "f2c5313a-5c9c-4f3b-b4e6-930f310f85da",
+          "postDate": "2026-11-01T23:24:48.629Z"
         }
       ]
     }

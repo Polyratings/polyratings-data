@@ -47298,22 +47298,24 @@
     "department": "ES",
     "firstName": "Dan",
     "lastName": "Castilow",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 4,
     "materialClear": 3.91,
     "studentDifficulties": 3.91,
     "courses": [
-      "ES 254"
+      "ES 254",
+      "ES 2254"
     ],
     "tags": {
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Zoom Office Hours": 4,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 4,
       "Hybrid Option": 1,
       "Supplemental Study Material": 2,
       "Recorded Lectures": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Pop Quizzes": 1
     }
   },
   {
@@ -48740,10 +48742,10 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 94,
-    "overallRating": 2.38,
-    "materialClear": 2.47,
-    "studentDifficulties": 2.39,
+    "numEvals": 95,
+    "overallRating": 2.35,
+    "materialClear": 2.44,
+    "studentDifficulties": 2.36,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -48751,7 +48753,8 @@
       "ENGL 252",
       "ENGL 253",
       "ENGL 254",
-      "ENGL 350"
+      "ENGL 350",
+      "ENGL 1145"
     ],
     "tags": {
       "Fast Response Time": 7,
@@ -48759,10 +48762,10 @@
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 9,
+      "Flexible Deadline Policy": 10,
       "Honor DRC Accommodations": 2,
       "Class Handouts": 5,
-      "Inflexible Grading Policy": 5,
+      "Inflexible Grading Policy": 6,
       "Zoom Office Hours": 1,
       "No Breaks During Lecture": 2,
       "Uploads Slides": 4,
@@ -49274,10 +49277,10 @@
     "department": "ME",
     "firstName": "Kuba",
     "lastName": "Preis",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 4,
-    "studentDifficulties": 3.6,
+    "numEvals": 6,
+    "overallRating": 3.17,
+    "materialClear": 3.33,
+    "studentDifficulties": 3,
     "courses": [
       "ME 2111",
       "ENGR 2211"
@@ -49286,12 +49289,15 @@
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Uploads Slides": 3,
       "Supplemental Study Material": 3,
       "Flexible Attendance Policy": 2,
       "Flexible Deadline Policy": 2,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
