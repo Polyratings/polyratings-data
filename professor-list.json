@@ -19633,21 +19633,23 @@
     "department": "AEPS",
     "firstName": "Jeffrey",
     "lastName": "Wong",
-    "numEvals": 4,
-    "overallRating": 2,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.25,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 1.8,
     "courses": [
       "AEPS 150",
       "AG 101",
       "AEPS 304",
-      "AEPS 190"
+      "AEPS 190",
+      "AEPS 1150"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     }
   },
   {

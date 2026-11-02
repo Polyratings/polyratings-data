@@ -346542,21 +346542,23 @@
     "department": "AEPS",
     "firstName": "Jeffrey",
     "lastName": "Wong",
-    "numEvals": 4,
-    "overallRating": 2,
-    "materialClear": 3.5,
-    "studentDifficulties": 2.25,
+    "numEvals": 5,
+    "overallRating": 1.6,
+    "materialClear": 3.4,
+    "studentDifficulties": 1.8,
     "courses": [
       "AEPS 150",
       "AG 101",
       "AEPS 304",
-      "AEPS 190"
+      "AEPS 190",
+      "AEPS 1150"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "AEPS 150": [
@@ -346624,6 +346626,27 @@
           "id": "bd921f99-8293-4ce1-bda6-7b4857c3fbe1",
           "professor": "5d3fdb90-99d5-4ccd-80ee-85756d4b7dbc",
           "postDate": "Tue Jun 02 2026 23:53:51 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "AEPS 1150": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 0,
+          "rating": "He explains well and is very knowledgeable on the subject, decent guy. However, his test are extremely difficult and your entire grade is basically just exam grades so if you are a bad test taker you will struggle. He purposefully tries to make them hard to pass I am not sure what he gains from students failing. He really needs to redo his grading style. He is one of the most difficult professors I have had and I have taken physics, chemistry, high math, etc.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "68e8b5547a564f7f",
+          "id": "66224588-5426-4d1f-a479-5c9667d7408f",
+          "professor": "5d3fdb90-99d5-4ccd-80ee-85756d4b7dbc",
+          "postDate": "2026-11-02T08:29:50.528Z"
         }
       ]
     }
