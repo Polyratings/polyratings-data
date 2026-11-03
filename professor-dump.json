@@ -249102,21 +249102,25 @@
     "department": "COMS",
     "firstName": "Sandra",
     "lastName": "Valois",
-    "numEvals": 16,
-    "overallRating": 3.88,
-    "materialClear": 3.8,
-    "studentDifficulties": 3.45,
+    "numEvals": 17,
+    "overallRating": 3.89,
+    "materialClear": 3.81,
+    "studentDifficulties": 3.48,
     "courses": [
       "COMS 101",
-      "COMS 213"
+      "COMS 213",
+      "COMS 1101"
     ],
     "tags": {
       "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 8,
+      "Flexible Attendance Policy": 9,
       "Flexible Deadline Policy": 5,
       "Flexible Grading Policy": 2,
-      "Fast Response Time": 4,
-      "Uploads Slides": 3
+      "Fast Response Time": 5,
+      "Uploads Slides": 3,
+      "Supplemental Study Material": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "COMS 101": [
@@ -249374,6 +249378,28 @@
           "id": "d76f806d-6399-4b5c-ae5e-5291871609b5",
           "professor": "437bb1b7-ca77-4eef-97d7-591ca368513c",
           "postDate": "Fri Feb 27 2026 19:53:23 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "COMS 1101": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Absolutely love Sandra. She's a great person who is enthusiastic about what she teaches. She cancels friday class basically every other week which is great. Only three speeches all semester, and they are very straightforward and have a clear outline to follow. She's pretty specific about what she wants in your speech, but it's literally laid out for you, so just dont deviate too much and you're good. If you're a crippling introvert, you probably won't like this class, but since you HAVE to take it, I'd recommend Prof Valois, because she makes sure that the class really gets to know each other, so by the second speech you're very comfortable with your audience. Not too much course work, just very short readings and questions that you can complete at your own schedule. There is a required online textbook you have to buy, but literally just ask her for a code and she'll give it to you.",
+          "tags": [
+            "Fast Response Time",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "7fa275f992bb11e7",
+          "id": "99432404-cce7-4da3-be4b-b66d27f975c7",
+          "professor": "437bb1b7-ca77-4eef-97d7-591ca368513c",
+          "postDate": "2026-11-03T22:06:44.719Z"
         }
       ]
     }
@@ -498104,9 +498130,9 @@
     "department": "CHEM",
     "firstName": "Corinne",
     "lastName": "Lehr",
-    "numEvals": 52,
+    "numEvals": 53,
     "overallRating": 2.02,
-    "materialClear": 2.07,
+    "materialClear": 2.05,
     "studentDifficulties": 2.14,
     "courses": [
       "CHEM 110",
@@ -498114,7 +498140,8 @@
       "CHEM 129",
       "CHEM 331",
       "CHEM 341",
-      "CHEM 439"
+      "CHEM 439",
+      "CHEM 1110"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
@@ -498123,8 +498150,11 @@
       "Zoom Office Hours": 2,
       "Flexible Attendance Policy": 1,
       "Pop Quizzes": 1,
-      "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Fast Response Time": 2,
+      "Honor DRC Accommodations": 2,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "CHEM 110": [
@@ -498794,6 +498824,28 @@
           "id": "6c7948d4-663b-4787-ab9e-f215c09c766e",
           "professor": "868c827b-6fa4-4255-9b55-03b154160b74",
           "postDate": "2012-01-01T08:00:00.000Z"
+        }
+      ],
+      "CHEM 1110": [
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "I have very mixed reviews about this class. First, I want to say that she is genuinely a very kind and good person. She is friendly, approachable, and always willing to help. However, I honestly don't think teaching is her strong suit.\n\nOne thing I REALLY wish someone had mentioned in previous reviews is how genuinely difficult it is to listen to her speak during lectures. I don't know exactly how to describe it, but she has a very distinct way of speaking that I personally find incredibly hard to listen to and understand. It's not just that the material is confusing; the actual experience of listening to her talk for an entire lecture can be exhausting and frustrating. I really don't mean this to be unkind, but I cannot emphasize enough how much I struggled with this. I'm genuinely surprised more reviews haven't mentioned it because it affected my ability to pay attention and learn in class.\n\nOn top of that, she seems to think her explanations are very clear when they often aren't. Even when you ask for help, her explanations can still be confusing. I think she is so incredibly knowledgeable about chemistry that she struggles to break things down in a way that makes sense to someone learning the material for the first time.\n\nThe two LAs (student learning assistants) also often seemed unsure of what was going on and were rarely helpful when students needed assistance. I basically had to teach myself the entire class. I'm someone who doesn't naturally find science or math easy, but I spent hours and hours working my ass off trying to understand the material. I would study for four days straight before a quiz, putting in so much time and effort, and still struggle, averaging around a 7.2/10 on the quizzes. It was incredibly frustrating to work that hard and still feel like I wasn't fully understanding what I was being taught.\n\nOne positive is that there is no midterm or final, just quizzes every other week, which makes the class a little less stressful. There is quite a bit of busywork, although some of the labs are actually fun.\n\nOverall, I really want to emphasize that she is a genuinely wonderful person, and I appreciate how kind and willing to help she is. But unfortunately, I found her teaching style and lectures extremely difficult to learn from. I personally would not recommend this class, especially to anyone who struggles with science or needs clear, step-by-step explanations.",
+          "tags": [
+            "Fast Response Time",
+            "Honor DRC Accommodations",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "906634fca3e2330d",
+          "id": "e3c49db5-1e47-4060-acf3-cf73c39a17c8",
+          "professor": "868c827b-6fa4-4255-9b55-03b154160b74",
+          "postDate": "2026-11-03T21:02:01.028Z"
         }
       ]
     }
@@ -516547,15 +516599,16 @@
     "department": "BIO",
     "firstName": "Heather",
     "lastName": "Liwanag",
-    "numEvals": 20,
-    "overallRating": 2.42,
-    "materialClear": 2.7,
-    "studentDifficulties": 2.52,
+    "numEvals": 21,
+    "overallRating": 2.35,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.45,
     "courses": [
       "BIO 231",
       "BIO 361",
       "BIO 162",
-      "BIO 123"
+      "BIO 123",
+      "BIO 3352"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -516837,6 +516890,21 @@
           "id": "a4457af9-7bb5-44ef-9d95-3c1d4d4cacf2",
           "professor": "8bc4af2f-2d2f-48d5-9442-e35dbbd68f2e",
           "postDate": "Mon Jun 02 2025 00:07:08 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 3352": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Not a very good professor. The content in this class was fairly straight forward but she made the class and tests difficult for no reason. The study guides she gave were not clear and did not accurately say what would be on tests. She is very smart but not understanding at all.  seems like she is trying to boost her ego by making the test hard. I would take another professor for this class.",
+          "anonymousIdentifier": "2f38adcf68f4759b",
+          "id": "ed2988ed-d0e8-45f6-9c4d-08fcedadee83",
+          "professor": "8bc4af2f-2d2f-48d5-9442-e35dbbd68f2e",
+          "postDate": "2026-11-03T18:25:45.495Z"
         }
       ]
     }
@@ -642255,10 +642323,10 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "McDonough",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 1.67,
-    "studentDifficulties": 2.33,
+    "numEvals": 4,
+    "overallRating": 2,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.25,
     "courses": [
       "MATH 1264",
       "MATH 1263"
@@ -642291,6 +642359,19 @@
           "id": "a92e3511-5ebd-481d-80eb-5335ed5d81e9",
           "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
           "postDate": "Thu Sep 24 2026 16:20:24 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "honestly idk why this guy gets such a bad rap. the class is difficult but so is any high level math course. i came in with zero calc knowledge and VERY minimal algebra and i managed to do fine. there are weekly quizzes that are super fair and the midterms are fair as well. he's a funny guy and honestly i dont think this is the worst option",
+          "anonymousIdentifier": "f590bc67910a908d",
+          "id": "f03a1039-c63e-40ca-941a-ca7272c5eeff",
+          "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
+          "postDate": "2026-11-03T18:02:14.488Z"
         }
       ],
       "MATH 1263": [
@@ -674723,10 +674804,10 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 142,
+    "numEvals": 143,
     "overallRating": 3.89,
     "materialClear": 3.92,
-    "studentDifficulties": 3.87,
+    "studentDifficulties": 3.86,
     "courses": [
       "MATH 112",
       "MATH 141",
@@ -674747,14 +674828,15 @@
       "HNRS 1263"
     ],
     "tags": {
-      "High In-Person Availability": 9,
-      "Fast Response Time": 7,
-      "Flexible Attendance Policy": 4,
+      "High In-Person Availability": 10,
+      "Fast Response Time": 8,
+      "Flexible Attendance Policy": 5,
       "Supplemental Study Material": 3,
-      "Does Not Use Canvas": 4,
+      "Does Not Use Canvas": 5,
       "Flexible Deadline Policy": 3,
       "Honor DRC Accommodations": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1
     },
     "reviews": {
       "MATH 112": [
@@ -676569,6 +676651,26 @@
           "id": "ceb3045d-87c8-49aa-a7e8-2f6a3587a674",
           "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
           "postDate": "2026-11-02T20:35:44.519Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Retsek is a great teacher, so long as you are a great student. He thoroughly goes through each topic and answers questions eagerly and with nuance.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Does Not Use Canvas",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "7fa275f992bb11e7",
+          "id": "e7539081-8c70-445b-801a-55c566fc7c92",
+          "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
+          "postDate": "2026-11-03T22:00:16.881Z"
         }
       ]
     }
@@ -715424,13 +715526,14 @@
     "department": "BIO",
     "firstName": "Mallary",
     "lastName": "Greenly-Wacker",
-    "numEvals": 22,
-    "overallRating": 3.06,
-    "materialClear": 3.27,
-    "studentDifficulties": 3.04,
+    "numEvals": 23,
+    "overallRating": 3.1,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.08,
     "courses": [
       "BIO 161",
-      "BIO 452"
+      "BIO 452",
+      "BIO 4456"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
@@ -715786,6 +715889,21 @@
           "id": "75c95e77-d383-4bd6-8b70-dc6ae798e57c",
           "professor": "c79362fb-b5e6-4f81-8838-d785380cc966",
           "postDate": "Mon Jan 05 2026 19:09:34 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 4456": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "She is a great professor. The content i difficult but she provides ample resources to help and really wants you to succeed. Going to her office hours is very helpful, she answers your questions well and detailed. She is very smart but is able to communicate the content well and makes her tests relatively straight forward.",
+          "anonymousIdentifier": "2f38adcf68f4759b",
+          "id": "0d68895a-6a42-4b03-b3a0-06df38fda47b",
+          "professor": "c79362fb-b5e6-4f81-8838-d785380cc966",
+          "postDate": "2026-11-03T18:21:14.753Z"
         }
       ]
     }
