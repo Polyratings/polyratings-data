@@ -80982,20 +80982,22 @@
     "department": "ART",
     "firstName": "Marco Polo",
     "lastName": "Juarez Cruz",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.83,
     "courses": [
-      "ART 111"
+      "ART 111",
+      "ART 1111"
     ],
     "tags": {
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
-      "High In-Person Availability": 1
+      "No Breaks During Lecture": 2,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "ART 111": [
@@ -81075,6 +81077,27 @@
           "id": "ef802e36-6934-4dc5-bb31-cc0198752c15",
           "professor": "15aa6152-e495-4ed3-857f-cf524c9dc9e3",
           "postDate": "Thu Jul 02 2026 21:27:55 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ART 1111": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took this class mainly to fulfill my GE requirement, but I ended up appreciating art way more than I expected. The professor is super chill and has projects like creating art with sticks or visiting the local museums or the art gallery on campus. Overall, it's a pretty easy GE, there's a lot of cool and interesting stuff and the workload isn't heavy",
+          "tags": [
+            "Class Handouts",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "9b1adbcd25032ae3",
+          "id": "7c0699eb-6900-45f9-b513-bc13895d862b",
+          "professor": "15aa6152-e495-4ed3-857f-cf524c9dc9e3",
+          "postDate": "2026-11-03T08:08:21.365Z"
         }
       ]
     }
@@ -220472,10 +220495,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 90,
-    "overallRating": 2,
+    "numEvals": 91,
+    "overallRating": 2.01,
     "materialClear": 2.32,
-    "studentDifficulties": 1.9,
+    "studentDifficulties": 1.91,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -220487,20 +220510,21 @@
       "PHYS 143",
       "PHYS 142",
       "PSY 121",
-      "PHYS 121"
+      "PHYS 121",
+      "PHYS 1121"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Deadline Policy": 6,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 5,
       "Zoom Office Hours": 3,
-      "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1,
-      "Recorded Lectures": 1,
+      "High In-Person Availability": 2,
+      "Flexible Deadline Policy": 2,
+      "Recorded Lectures": 2,
       "Supplemental Study Material": 5,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1
     },
     "reviews": {
@@ -221704,6 +221728,28 @@
           "id": "7628db1f-bae0-4ae4-840a-cff08cc54b48",
           "professor": "3dad6655-92e6-403d-91fc-af63ca736da6",
           "postDate": "Mon Jun 08 2026 02:46:18 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PHYS 1121": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Dr. Echols is getting flamed by everyone, but I think he's not bad at all. Its unfortunate that physics 1 only gets 3hrs a week to fit a shitload of content into the semester, but echols presents pretty clearly. At times he will get rushed and throw an equation on the board that doesn't really make sense and leaves you feeling behind, but otherwise he does what he can to convey everything. HE CURVES HIS TESTS TO 80% AVERAGE. I got bumped from like 74 -> 105 on a midterm because the majority of the class is completely lost. For phys 1, if you realistically study for tests and go to some office hours when youre behind youll do totally fine. Only about 65ish percent of the grade is actually tested content and the rest is lab and assignments.",
+          "tags": [
+            "Recorded Lectures",
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Flexible Deadline Policy",
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "163302d11693dfc1",
+          "id": "aa391fc7-d954-481c-adc4-261436d5d699",
+          "professor": "3dad6655-92e6-403d-91fc-af63ca736da6",
+          "postDate": "2026-11-03T03:57:59.066Z"
         }
       ]
     }
@@ -334338,7 +334384,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -334349,11 +334395,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 10,
+      "Flexible Attendance Policy": 11,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 9,
-      "Flexible Deadline Policy": 5,
-      "High In-Person Availability": 7,
+      "Flexible Grading Policy": 10,
+      "Flexible Deadline Policy": 6,
+      "High In-Person Availability": 8,
       "Honor DRC Accommodations": 1
     },
     "reviews": {
@@ -334851,6 +334897,25 @@
           "id": "845fcc3a-9067-4367-91a2-d88b8505e293",
           "professor": "5b58b448-2c19-4c36-82ab-5074dc00f30a",
           "postDate": "2026-10-29T08:35:03.002Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "His class is actually one of the best classes I have taken in my life :D He for sure is one of the best profs on campus!",
+          "tags": [
+            "High In-Person Availability",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "2a2f81f7887fa725",
+          "id": "7f79522e-a1d5-4716-b91d-c95253faee49",
+          "professor": "5b58b448-2c19-4c36-82ab-5074dc00f30a",
+          "postDate": "2026-11-03T02:27:31.983Z"
         }
       ]
     }
@@ -497069,15 +497134,16 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 67,
-    "overallRating": 1.85,
-    "materialClear": 1.85,
-    "studentDifficulties": 2.12,
+    "numEvals": 68,
+    "overallRating": 1.82,
+    "materialClear": 1.82,
+    "studentDifficulties": 2.09,
     "courses": [
       "STAT 218",
       "STAT 251",
       "STAT 321",
-      "STAT 217"
+      "STAT 217",
+      "STAT 2218"
     ],
     "tags": {
       "Hybrid Option": 2,
@@ -497085,9 +497151,9 @@
       "Zoom Office Hours": 3,
       "Pop Quizzes": 1,
       "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 5,
+      "Inflexible Deadline Policy": 6,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
       "Inflexible Attendance Policy": 1,
@@ -498010,6 +498076,25 @@
           "id": "87c561ec-de58-4f34-99ab-065c8da20dbf",
           "professor": "868794af-4ad8-4edc-9374-e05de9a7caf7",
           "postDate": "Mon Nov 17 2025 00:23:59 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "STAT 2218": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Genuinely the worst class I have possibly ever taken. Took it async because I thought it was going to be easier to be able to manage my classes and all my other STEM classes. No. Maddie Scroth does not care about her students, has terrible response time, and grades so harshly and will not budge your grade at all. DO NOT TAKE this class unless you loving spending AT LEASTTT two hours every day just doing stats homework. I literally took AP stats GOT A 4 and somehow ended with a B- in this class. I beg of you to learn from my mistake and DOOOO NOTTT TAKE HER.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "80d9de8186b7f6e7",
+          "id": "f2bab024-0339-45d4-b7f6-137857088cbf",
+          "professor": "868794af-4ad8-4edc-9374-e05de9a7caf7",
+          "postDate": "2026-11-03T02:51:49.766Z"
         }
       ]
     }

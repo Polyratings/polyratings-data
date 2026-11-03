@@ -4806,20 +4806,22 @@
     "department": "ART",
     "firstName": "Marco Polo",
     "lastName": "Juarez Cruz",
-    "numEvals": 5,
-    "overallRating": 3.8,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.8,
+    "numEvals": 6,
+    "overallRating": 3.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.83,
     "courses": [
-      "ART 111"
+      "ART 111",
+      "ART 1111"
     ],
     "tags": {
-      "Class Handouts": 2,
+      "Class Handouts": 3,
       "Supplemental Study Material": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
-      "High In-Person Availability": 1
+      "No Breaks During Lecture": 2,
+      "High In-Person Availability": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -12944,10 +12946,10 @@
     "department": "PHYS",
     "firstName": "Sean",
     "lastName": "Echols",
-    "numEvals": 90,
-    "overallRating": 2,
+    "numEvals": 91,
+    "overallRating": 2.01,
     "materialClear": 2.32,
-    "studentDifficulties": 1.9,
+    "studentDifficulties": 1.91,
     "courses": [
       "PHYS 122",
       "PHYS 131",
@@ -12959,20 +12961,21 @@
       "PHYS 143",
       "PHYS 142",
       "PSY 121",
-      "PHYS 121"
+      "PHYS 121",
+      "PHYS 1121"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Deadline Policy": 6,
       "Inflexible Grading Policy": 1,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 5,
       "Zoom Office Hours": 3,
-      "High In-Person Availability": 1,
-      "Flexible Deadline Policy": 1,
-      "Recorded Lectures": 1,
+      "High In-Person Availability": 2,
+      "Flexible Deadline Policy": 2,
+      "Recorded Lectures": 2,
       "Supplemental Study Material": 5,
-      "Fast Response Time": 2,
+      "Fast Response Time": 3,
       "Flexible Grading Policy": 1
     }
   },
@@ -19127,7 +19130,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 31,
+    "numEvals": 32,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19138,11 +19141,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 10,
+      "Flexible Attendance Policy": 11,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 9,
-      "Flexible Deadline Policy": 5,
-      "High In-Person Availability": 7,
+      "Flexible Grading Policy": 10,
+      "Flexible Deadline Policy": 6,
+      "High In-Person Availability": 8,
       "Honor DRC Accommodations": 1
     }
   },
@@ -28069,15 +28072,16 @@
     "department": "STAT",
     "firstName": "Madeline",
     "lastName": "Schroth-Glanz",
-    "numEvals": 67,
-    "overallRating": 1.85,
-    "materialClear": 1.85,
-    "studentDifficulties": 2.12,
+    "numEvals": 68,
+    "overallRating": 1.82,
+    "materialClear": 1.82,
+    "studentDifficulties": 2.09,
     "courses": [
       "STAT 218",
       "STAT 251",
       "STAT 321",
-      "STAT 217"
+      "STAT 217",
+      "STAT 2218"
     ],
     "tags": {
       "Hybrid Option": 2,
@@ -28085,9 +28089,9 @@
       "Zoom Office Hours": 3,
       "Pop Quizzes": 1,
       "Uploads Slides": 6,
-      "Inflexible Deadline Policy": 5,
+      "Inflexible Deadline Policy": 6,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Supplemental Study Material": 1,
       "Flexible Attendance Policy": 1,
       "Inflexible Attendance Policy": 1,
