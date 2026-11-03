@@ -13764,27 +13764,30 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 48,
-    "overallRating": 3.47,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.38,
+    "numEvals": 49,
+    "overallRating": 3.46,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.37,
     "courses": [
       "ENGL 134",
       "ENGL 145",
-      "ENGL 149"
+      "ENGL 149",
+      "ENGL 1133"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Honor DRC Accommodations": 2,
-      "No Breaks During Lecture": 2,
-      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 3,
+      "Flexible Attendance Policy": 2,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Hybrid Option": 1,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -38024,10 +38027,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 55,
-    "overallRating": 3.18,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.33,
+    "numEvals": 56,
+    "overallRating": 3.19,
+    "materialClear": 3.32,
+    "studentDifficulties": 3.34,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -38037,11 +38040,12 @@
       "ENGL 350",
       "ENGL 487",
       "ENGL 380",
-      "ISLA 320"
+      "ISLA 320",
+      "ISLA 3320"
     ],
     "tags": {
       "Pop Quizzes": 1,
-      "Recorded Lectures": 12,
+      "Recorded Lectures": 13,
       "Zoom Office Hours": 3,
       "Fast Response Time": 5,
       "Hybrid Option": 2,
@@ -38613,7 +38617,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 141,
+    "numEvals": 142,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -38633,16 +38637,18 @@
       "MATH 412",
       "MATH 413",
       "MATH 550",
-      "MATH 1263"
+      "MATH 1263",
+      "HNRS 1263"
     ],
     "tags": {
       "High In-Person Availability": 9,
-      "Fast Response Time": 6,
-      "Flexible Attendance Policy": 3,
+      "Fast Response Time": 7,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 3,
-      "Does Not Use Canvas": 3,
-      "Flexible Deadline Policy": 2,
-      "Honor DRC Accommodations": 2
+      "Does Not Use Canvas": 4,
+      "Flexible Deadline Policy": 3,
+      "Honor DRC Accommodations": 2,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -43844,10 +43850,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 62,
-    "overallRating": 3.31,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.19,
+    "numEvals": 63,
+    "overallRating": 3.27,
+    "materialClear": 3.07,
+    "studentDifficulties": 3.16,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -43856,7 +43862,8 @@
       "MATH 182",
       "MATH 221",
       "MATH 244",
-      "MATH 241"
+      "MATH 241",
+      "MATH 2244"
     ],
     "tags": {
       "Uploads Slides": 11,
@@ -47241,25 +47248,26 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 45,
-    "overallRating": 2.84,
-    "materialClear": 2.87,
-    "studentDifficulties": 3,
+    "numEvals": 46,
+    "overallRating": 2.87,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.02,
     "courses": [
       "CHEM 312",
       "CHEM 127",
       "CHEM 216",
       "CHEM 217",
-      "CHEM 224"
+      "CHEM 224",
+      "CHEM 2242"
     ],
     "tags": {
-      "High In-Person Availability": 18,
-      "Fast Response Time": 11,
+      "High In-Person Availability": 19,
+      "Fast Response Time": 12,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 23,
       "Supplemental Study Material": 5,
-      "Pop Quizzes": 10,
+      "Pop Quizzes": 11,
       "Inflexible Grading Policy": 6,
       "Inflexible Deadline Policy": 1,
       "No Breaks During Lecture": 4
@@ -47490,20 +47498,25 @@
     "department": "BIO",
     "firstName": "Lars",
     "lastName": "Tomanek",
-    "numEvals": 14,
-    "overallRating": 2.08,
-    "materialClear": 1.86,
-    "studentDifficulties": 2.29,
+    "numEvals": 16,
+    "overallRating": 1.95,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.13,
     "courses": [
       "BIO 162",
       "BIO 324",
-      "BIO 361"
+      "BIO 361",
+      "BIO 3352"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Uploads Slides": 2,
-      "No Breaks During Lecture": 1,
-      "Zoom Office Hours": 1
+      "Uploads Slides": 3,
+      "No Breaks During Lecture": 3,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "Pop Quizzes": 1
     }
   },
   {

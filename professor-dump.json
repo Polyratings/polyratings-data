@@ -239150,27 +239150,30 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 48,
-    "overallRating": 3.47,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.38,
+    "numEvals": 49,
+    "overallRating": 3.46,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.37,
     "courses": [
       "ENGL 134",
       "ENGL 145",
-      "ENGL 149"
+      "ENGL 149",
+      "ENGL 1133"
     ],
     "tags": {
       "High In-Person Availability": 2,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "Honor DRC Accommodations": 2,
-      "No Breaks During Lecture": 2,
-      "Flexible Attendance Policy": 1,
+      "No Breaks During Lecture": 3,
+      "Flexible Attendance Policy": 2,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
       "Hybrid Option": 1,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "ENGL 134": [
@@ -239799,6 +239802,28 @@
           "id": "0442cd14-c24c-4e95-8c43-ac2d4d2f79f5",
           "professor": "41651929-d98d-4d7f-9271-ca439b2dfa4e",
           "postDate": "2020-02-01T08:00:00.000Z"
+        }
+      ],
+      "ENGL 1133": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 3,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Overall, an okay professor. I hate English or anything related to writing, so I like how we don't have to write a lot of super long essays for this class. The weekly assignments are fine, sometimes kind of long and repetitive, but really not bad. They are due on Friday nights, which is annoying, but whatever. There are minor assignments and major assignments; the major assignments are a good amount of work and coordination, but there are only ~4 in a semester. The only thing to keep in mind for this class, if you care about grades, is that even if you do all the assignments and do well on them, you get an automatic 84%. If you don't complete things or get marked down, then you get a percentage decrease. If you want an A or anything higher than an 84%, you do have to do extra credit for % bumps, which is quite annoying. Again, the class/professor is fine overall, just boring.",
+          "tags": [
+            "Class Handouts",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "4df30700beddbbb5",
+          "id": "8325a10f-c7ba-4a2e-883f-a51e7bc7fae3",
+          "professor": "41651929-d98d-4d7f-9271-ca439b2dfa4e",
+          "postDate": "2026-11-02T20:27:47.961Z"
         }
       ]
     }
@@ -666431,10 +666456,10 @@
     "department": "ENGL",
     "firstName": "Todd",
     "lastName": "Pierce",
-    "numEvals": 55,
-    "overallRating": 3.18,
-    "materialClear": 3.31,
-    "studentDifficulties": 3.33,
+    "numEvals": 56,
+    "overallRating": 3.19,
+    "materialClear": 3.32,
+    "studentDifficulties": 3.34,
     "courses": [
       "ENGL 134",
       "ENGL 240",
@@ -666444,11 +666469,12 @@
       "ENGL 350",
       "ENGL 487",
       "ENGL 380",
-      "ISLA 320"
+      "ISLA 320",
+      "ISLA 3320"
     ],
     "tags": {
       "Pop Quizzes": 1,
-      "Recorded Lectures": 12,
+      "Recorded Lectures": 13,
       "Zoom Office Hours": 3,
       "Fast Response Time": 5,
       "Hybrid Option": 2,
@@ -667210,6 +667236,24 @@
           "id": "be1b7531-1e4a-4b56-8c40-a9661c73e7b7",
           "professor": "b823d69f-8e41-409e-91e0-e9c4a2098377",
           "postDate": "Tue Sep 01 2026 20:56:38 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ISLA 3320": [
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "NGL, this class was work.  But as I want to work in film production after graduation, I actually learned a lot about film history, in terms of the creative and also the technical sides.  We even learned how chemists made color movie images using only black and white negatives.  All the lectures were audio.  And it was kinda like listening to an Audible book about different famous animators from 80 or 100 years ago.  I felt this professor knew a lot about this subject.  The writing assignments and the quizzes weren't too hard if you did the reading and watched the film.  I took this over summer, so maybe it might feel like less work during the regular school year.  It was a good experience, but also there was work to do every week.",
+          "tags": [
+            "Recorded Lectures"
+          ],
+          "anonymousIdentifier": "9b756d9549d393ac",
+          "id": "68780544-b560-401f-a265-6a2daa8d398d",
+          "professor": "b823d69f-8e41-409e-91e0-e9c4a2098377",
+          "postDate": "2026-11-02T21:33:02.852Z"
         }
       ]
     }
@@ -674594,7 +674638,7 @@
     "department": "MATH",
     "firstName": "Dylan",
     "lastName": "Retsek",
-    "numEvals": 141,
+    "numEvals": 142,
     "overallRating": 3.89,
     "materialClear": 3.92,
     "studentDifficulties": 3.87,
@@ -674614,16 +674658,18 @@
       "MATH 412",
       "MATH 413",
       "MATH 550",
-      "MATH 1263"
+      "MATH 1263",
+      "HNRS 1263"
     ],
     "tags": {
       "High In-Person Availability": 9,
-      "Fast Response Time": 6,
-      "Flexible Attendance Policy": 3,
+      "Fast Response Time": 7,
+      "Flexible Attendance Policy": 4,
       "Supplemental Study Material": 3,
-      "Does Not Use Canvas": 3,
-      "Flexible Deadline Policy": 2,
-      "Honor DRC Accommodations": 2
+      "Does Not Use Canvas": 4,
+      "Flexible Deadline Policy": 3,
+      "Honor DRC Accommodations": 2,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "MATH 112": [
@@ -676416,6 +676462,28 @@
           "id": "c014b924-1e30-4cbd-9ee0-593fe6fd96b6",
           "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
           "postDate": "2026-10-21T15:13:22.921Z"
+        }
+      ],
+      "HNRS 1263": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "great prof. doesnt use canvas and no slides posted but explains very well in class. if you pay attention, ask questions, and email, the difficult content will be okay. wish i got a higher grade but its okay!",
+          "tags": [
+            "Fast Response Time",
+            "Does Not Use Canvas",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "4df30700beddbbb5",
+          "id": "ceb3045d-87c8-49aa-a7e8-2f6a3587a674",
+          "professor": "bc48b82c-c3f3-4025-865c-83f6286664fb",
+          "postDate": "2026-11-02T20:35:44.519Z"
         }
       ]
     }
@@ -766289,10 +766357,10 @@
     "department": "BUS",
     "firstName": "Haoyan",
     "lastName": "Chi",
-    "numEvals": 62,
-    "overallRating": 3.31,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.19,
+    "numEvals": 63,
+    "overallRating": 3.27,
+    "materialClear": 3.07,
+    "studentDifficulties": 3.16,
     "courses": [
       "MATH 118",
       "MATH 141",
@@ -766301,7 +766369,8 @@
       "MATH 182",
       "MATH 221",
       "MATH 244",
-      "MATH 241"
+      "MATH 241",
+      "MATH 2244"
     ],
     "tags": {
       "Uploads Slides": 11,
@@ -767172,6 +767241,21 @@
           "id": "eecae994-ec22-4e42-b1fc-4c080f95bb17",
           "professor": "d7a3980b-69f3-4c17-8f9c-513e2f7e7315",
           "postDate": "Tue Apr 29 2025 16:40:22 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 2244": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Don't bother. She said she would post her notes online but took them down because people weren't showing up to her 8 am. started taking attendance against her syllabus policies. When students did not remember methods from the pre-req course she showed some random notes for 30 seconds and moved on without actually explaining.\n\nFind someone better.",
+          "anonymousIdentifier": "5481f8872ee7e89c",
+          "id": "c87c2c91-24d4-4776-9eca-ae34099f7935",
+          "professor": "d7a3980b-69f3-4c17-8f9c-513e2f7e7315",
+          "postDate": "2026-11-02T21:44:34.269Z"
         }
       ]
     }
@@ -823025,25 +823109,26 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 45,
-    "overallRating": 2.84,
-    "materialClear": 2.87,
-    "studentDifficulties": 3,
+    "numEvals": 46,
+    "overallRating": 2.87,
+    "materialClear": 2.89,
+    "studentDifficulties": 3.02,
     "courses": [
       "CHEM 312",
       "CHEM 127",
       "CHEM 216",
       "CHEM 217",
-      "CHEM 224"
+      "CHEM 224",
+      "CHEM 2242"
     ],
     "tags": {
-      "High In-Person Availability": 18,
-      "Fast Response Time": 11,
+      "High In-Person Availability": 19,
+      "Fast Response Time": 12,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
       "Uploads Slides": 23,
       "Supplemental Study Material": 5,
-      "Pop Quizzes": 10,
+      "Pop Quizzes": 11,
       "Inflexible Grading Policy": 6,
       "Inflexible Deadline Policy": 1,
       "No Breaks During Lecture": 4
@@ -823788,6 +823873,26 @@
           "id": "bbdd9136-33f6-4a55-b73b-65fc730ce24a",
           "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
           "postDate": "Thu Oct 15 2026 02:47:23 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CHEM 2242": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr Hartung is proof that if academic gods exist, at least one is merciful.\nYou bring confusion.\nShe gives patience.\nYou bring terrible reasoning.\nShe gives kindness.\nYou bring an impossible question.\nShe gives an explanation.\nI don't deserve this level of office hours.\nNone of us do.",
+          "tags": [
+            "Pop Quizzes",
+            "Fast Response Time",
+            "High In-Person Availability"
+          ],
+          "anonymousIdentifier": "358ef58c2a50652f",
+          "id": "7bf016b4-f240-4174-ab0c-56a6334db2ca",
+          "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
+          "postDate": "2026-11-02T22:08:02.826Z"
         }
       ]
     }
@@ -828505,20 +828610,25 @@
     "department": "BIO",
     "firstName": "Lars",
     "lastName": "Tomanek",
-    "numEvals": 14,
-    "overallRating": 2.08,
-    "materialClear": 1.86,
-    "studentDifficulties": 2.29,
+    "numEvals": 16,
+    "overallRating": 1.95,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.13,
     "courses": [
       "BIO 162",
       "BIO 324",
-      "BIO 361"
+      "BIO 361",
+      "BIO 3352"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Uploads Slides": 2,
-      "No Breaks During Lecture": 1,
-      "Zoom Office Hours": 1
+      "Uploads Slides": 3,
+      "No Breaks During Lecture": 3,
+      "Zoom Office Hours": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "Pop Quizzes": 1
     },
     "reviews": {
       "BIO 162": [
@@ -828704,6 +828814,48 @@
           "id": "6983819f-55ad-4d55-ac77-45b9435cefd8",
           "professor": "ea5cb999-fd7b-48a0-8be2-0ca91347c25f",
           "postDate": "Fri Apr 03 2026 21:17:27 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BIO 3352": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "every time I have asked him a question he will condescendingly lecture me about not paying attention and being addicted to my screens and algorithm even though I always pay full attention and don't even have my phone or computer out. He blames you for any confusion or misunderstanding even though he is genuinely horrible at teaching. Spends half the time he should be teaching ranting about how our generation is ruined and we are no longer people just algorithms. Rants about how AI is ruining us all but very obviously uses AI to create all his quizzes and tests. Most lab experiments fail because he just makes them up arbitrarily and clearly dose not even understand what the labs are asking himself. Will literally take your phone away or say you have to call your mother if he sees it out and explain to her your bad behavior. If you try to justify/explain your work to him he will just say no and blame you for not paying attention. He has lab quizzes every week that are so detailed you have to almost completely memorize every single thing in the lab directions that are like 10 pages long. Literally said that If the class does good on a test he makes the next ones harder in attempt to lower the class average. He makes me dread this class and learning in general. He has not taught me a single thing and has been extremely rude and disrespectful to so many students in my class.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "4d1c81cbc7eca201",
+          "id": "67ec5309-89f0-4b9f-8c61-c006501f1242",
+          "professor": "ea5cb999-fd7b-48a0-8be2-0ca91347c25f",
+          "postDate": "2026-11-02T23:21:28.979Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "His class is survivable but definitely get a different professor if you can. This class could be super fun and interesting but he is mean and bad at teaching. Some people said that he is not as bad as the reviews make him out to be but he definitely is. Just prepare to be rage baited and confused and DO NOT go on your phone in class even if you have nothing to do. Use AI to make all his tests and quizzes which is just sad to see.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "f146a42cab6f86e3",
+          "id": "1e76d5f2-cf56-4e06-b6dd-2009b2c6ce29",
+          "professor": "ea5cb999-fd7b-48a0-8be2-0ca91347c25f",
+          "postDate": "2026-11-02T23:33:49.097Z"
         }
       ]
     }
