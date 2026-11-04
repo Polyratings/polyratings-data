@@ -32619,10 +32619,10 @@
     "department": "BUS",
     "firstName": "Mahdi",
     "lastName": "Rastad",
-    "numEvals": 39,
-    "overallRating": 1.89,
-    "materialClear": 1.8,
-    "studentDifficulties": 1.89,
+    "numEvals": 40,
+    "overallRating": 1.84,
+    "materialClear": 1.76,
+    "studentDifficulties": 1.84,
     "courses": [
       "BUS 438",
       "BUS 439",
@@ -33170,6 +33170,19 @@
           "id": "9e912919-5e36-411c-8bed-1078713ed8a2",
           "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
           "postDate": "2026-10-31T22:07:47.502Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "this is the worst professor i've ever had please do not take this class whatever you do. he does not deserve a job at cal poly. also not even a nice dude",
+          "anonymousIdentifier": "52a24adc111ecce9",
+          "id": "2a3097c8-3283-4f9a-b8a2-00de7703a6f0",
+          "professor": "09ac10ca-f988-4d97-9f22-48c399b29648",
+          "postDate": "2026-11-04T18:56:26.994Z"
         }
       ]
     }
@@ -110888,10 +110901,10 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 134,
-    "overallRating": 2.09,
+    "numEvals": 135,
+    "overallRating": 2.07,
     "materialClear": 2.55,
-    "studentDifficulties": 2.3,
+    "studentDifficulties": 2.28,
     "courses": [
       "BUS 387",
       "COMS 101",
@@ -110900,18 +110913,19 @@
       "BUS 206",
       "BUS 270",
       "HNRS 270",
-      "HNRS 261"
+      "HNRS 261",
+      "BUS 3387"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 34,
-      "Inflexible Deadline Policy": 20,
-      "Inflexible Grading Policy": 15,
-      "No Breaks During Lecture": 5,
+      "Inflexible Attendance Policy": 35,
+      "Inflexible Deadline Policy": 21,
+      "Inflexible Grading Policy": 16,
+      "No Breaks During Lecture": 6,
       "Class Handouts": 12,
       "Fast Response Time": 4,
       "Zoom Office Hours": 2,
       "High In-Person Availability": 4,
-      "Pop Quizzes": 6
+      "Pop Quizzes": 7
     },
     "reviews": {
       "BUS 387": [
@@ -112797,6 +112811,28 @@
           "id": "ab8fc4e1-4c7c-46bd-9116-3353b3441431",
           "professor": "1e067e7f-5926-4120-9863-932f7f1ad870",
           "postDate": "Thu Mar 13 2025 18:41:25 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3387": [
+        {
+          "grade": "D",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 0,
+          "rating": "DO. NOT. TAKE. HER.\n\nShe is the epitome of a nightmare professor. Do not let the no midterm or no final entice you. You will sit there every morning, wishing your life was different. Wishing you listened to the polyratings you saw. Wishing she never existed. She doesn\u2019t get enough play at home to be teaching a course. She is awful.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Pop Quizzes",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "7e175e181a468b17",
+          "id": "28ca3708-6725-42aa-84e8-393177a92821",
+          "professor": "1e067e7f-5926-4120-9863-932f7f1ad870",
+          "postDate": "2026-11-04T21:17:34.539Z"
         }
       ]
     }
@@ -159412,10 +159448,10 @@
     "department": "MATH",
     "firstName": "Elena",
     "lastName": "Dimitrova",
-    "numEvals": 28,
-    "overallRating": 3.22,
-    "materialClear": 3.1,
-    "studentDifficulties": 3.25,
+    "numEvals": 29,
+    "overallRating": 3.18,
+    "materialClear": 3.03,
+    "studentDifficulties": 3.21,
     "courses": [
       "MATH 142",
       "MATH 206",
@@ -159424,7 +159460,8 @@
       "MATH 143",
       "MATH 241",
       "MATH 118",
-      "MATH 1263"
+      "MATH 1263",
+      "MATH 1005"
     ],
     "tags": {
       "High In-Person Availability": 7,
@@ -159895,6 +159932,21 @@
           "id": "2c19ec6b-aa2f-45b2-a23a-a6b46303cad7",
           "professor": "2be673cc-d6b8-483b-a02f-aba184b86a4d",
           "postDate": "Wed Oct 14 2026 23:40:37 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1005": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "If you want to write a page full of notes but no examples, take this class. We didn\u2019t have her as a teacher at the beginning of the year but she covered for our other teacher who had to take a leave of absence. It seems like she is just reading from the textbook and doesn\u2019t fully have a grasp on why she\u2019s telling us what she\u2019s writing down. She never finishes  the lectures in on class because while she is trying to make the lecture interactive, she is sitting in front of us for 5 minutes waiting for us to tell her the answer on something she didn\u2019t teach us. I don\u2019t recommend taking this class if you have taken ap calc it\u2019s repetitive and I would try to jsut pass the placement exam to avoid this class.",
+          "anonymousIdentifier": "9037515f6affa368",
+          "id": "256f2665-3f6f-4433-ab49-da89f1dab52e",
+          "professor": "2be673cc-d6b8-483b-a02f-aba184b86a4d",
+          "postDate": "2026-11-04T16:20:58.862Z"
         }
       ]
     }
@@ -320887,17 +320939,21 @@
     "department": "AGB",
     "firstName": "Dwayne",
     "lastName": "Brummett",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.8,
+    "studentDifficulties": 3.83,
     "courses": [
-      "AGB 202"
+      "AGB 202",
+      "AGB 3369"
     ],
     "tags": {
       "Inflexible Attendance Policy": 3,
-      "Class Handouts": 1,
-      "No Breaks During Lecture": 2
+      "Class Handouts": 2,
+      "No Breaks During Lecture": 2,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Uploads Slides": 1
     },
     "reviews": {
       "AGB 202": [
@@ -320976,6 +321032,27 @@
           "id": "1e7203a4-66b7-4454-800f-c3c8fb8b4578",
           "professor": "57c560d9-3a84-4439-93d6-cee47edead84",
           "postDate": "Wed Apr 01 2026 06:13:27 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "AGB 3369": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Super laid-back professor! You do have to show up to pretty much every class since a lot of the work involves reading case studies and answering questions in assigned groups. It might not sound ideal, but I actually really enjoyed the group work because you get to know your peers pretty well. There\u2019s also zero pressure to speak in class, but by the end you\u2019ll probably feel comfortable talking to just about anyone or even speaking in front of the class. Some of the actual course material can be pretty boring, but he incorporates case studies that I found interesting and made the topics a lot more engaging. Professor Brummett is also really understanding if you have a valid reason for missing class and is willing to excuse missed in-class work. Weekly quizzes are all online through Canvas, there's 1 group project at the end, and iClicker attendance is part of your grade. Overall, I really liked him as a professor! Super chill, approachable, and makes the class enjoyable even when the material itself isn't the most exciting.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Class Handouts",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "f98820e1d91bfa07",
+          "id": "1fc7994a-9145-4f96-9111-de957c76b618",
+          "professor": "57c560d9-3a84-4439-93d6-cee47edead84",
+          "postDate": "2026-11-04T21:57:05.277Z"
         }
       ]
     }
@@ -613053,20 +613130,22 @@
     "department": "PSY",
     "firstName": "Hannah",
     "lastName": "Roberts",
-    "numEvals": 8,
-    "overallRating": 3.38,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.5,
+    "numEvals": 9,
+    "overallRating": 3.45,
+    "materialClear": 3.66,
+    "studentDifficulties": 3.56,
     "courses": [
       "PSY 405",
-      "PSY 311"
+      "PSY 311",
+      "PSY 4405"
     ],
     "tags": {
-      "High In-Person Availability": 3,
-      "Fast Response Time": 1,
-      "Uploads Slides": 2,
+      "High In-Person Availability": 4,
+      "Fast Response Time": 2,
+      "Uploads Slides": 3,
       "Inflexible Attendance Policy": 4,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 3,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "PSY 405": [
@@ -613198,6 +613277,28 @@
           "id": "7e33ef37-113d-43c4-9801-27722929111b",
           "professor": "a6564320-c842-46d9-b3f7-54fad420361d",
           "postDate": "Wed Jun 24 2026 23:12:33 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PSY 4405": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I absolutely loved this class. dr. roberts is so so kind and knowledge and you can really tell how much she loves the field of psychology. the workload is super fair for it being an upper division class, we had a few papers, one midterm (all multiple choice) an online final, and really no homework at all. yes she does read off the slides but dr. roberts is also a clinical psychologist so she stops a lot to talk about her own experiences and the different disorders she has dealt with which makes the class so interesting, and she is so approachable with whatever you need. take her if you can!!",
+          "tags": [
+            "Uploads Slides",
+            "Fast Response Time",
+            "High In-Person Availability",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "1fd20069855132e7",
+          "id": "a6fb2409-a61f-4901-a5e4-02e5f1ac76b5",
+          "professor": "a6564320-c842-46d9-b3f7-54fad420361d",
+          "postDate": "2026-11-04T18:02:13.205Z"
         }
       ]
     }
@@ -717856,18 +717957,22 @@
     "department": "ISLA",
     "firstName": "Melissa",
     "lastName": "Manzanares",
-    "numEvals": 2,
-    "overallRating": 1,
-    "materialClear": 1,
-    "studentDifficulties": 2,
+    "numEvals": 3,
+    "overallRating": 1.67,
+    "materialClear": 2,
+    "studentDifficulties": 2.33,
     "courses": [
       "SOC 308",
-      "ISLA 440"
+      "ISLA 440",
+      "ISLA 2255"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 1
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 2,
+      "Class Handouts": 1,
+      "Flexible Grading Policy": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "SOC 308": [
@@ -717902,6 +718007,28 @@
           "id": "1dffdc79-db22-4366-a431-3ef342644b6f",
           "professor": "c8583c59-6943-49f2-8f7f-ac2cb494287d",
           "postDate": "Wed Aug 12 2026 04:39:29 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ISLA 2255": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "The semester isn't over but I thought I'd give a review as the class seems like it will be the same towards the end. The class is not difficult at all. There are about 2 assignments per week and each are annotating an article. Towards the middle of the semster she added on another assignment per week. This was for our annotated sources. Each week we submit one which goes towards the Lit review we will do. If anything, this is helpful. It does get a bit repetitive to keep coming to class and get into groups to discuss the article. Participation isnt exactly \"mandatory\" but there is a grade for it that invovles how often you participate and if you use tech in class(this class is tech-free, btw). Clearly she has improved a lot from looking at the other reviews. She is very lenient with grading, I feel.",
+          "tags": [
+            "Uploads Slides",
+            "Class Handouts",
+            "Flexible Grading Policy",
+            "Flexible Deadline Policy",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "c3ae8172d3567d74",
+          "id": "e78a32f0-a622-4872-82ae-cb40b9ef1fa4",
+          "professor": "c8583c59-6943-49f2-8f7f-ac2cb494287d",
+          "postDate": "2026-11-04T21:35:39.780Z"
         }
       ]
     }
