@@ -69049,8 +69049,8 @@
     "department": "STAT",
     "firstName": "Felicia",
     "lastName": "Korengel",
-    "numEvals": 30,
-    "overallRating": 3.01,
+    "numEvals": 31,
+    "overallRating": 3.04,
     "materialClear": 2.9,
     "studentDifficulties": 2.98,
     "courses": [
@@ -69065,15 +69065,16 @@
       "Uploads Slides": 18,
       "Recorded Lectures": 1,
       "Fast Response Time": 3,
-      "Flexible Attendance Policy": 6,
-      "Zoom Office Hours": 3,
+      "Flexible Attendance Policy": 7,
+      "Zoom Office Hours": 4,
       "Class Handouts": 6,
       "No Breaks During Lecture": 3,
-      "Flexible Grading Policy": 1,
-      "Flexible Deadline Policy": 3,
+      "Flexible Grading Policy": 2,
+      "Flexible Deadline Policy": 4,
       "Supplemental Study Material": 1,
       "Inflexible Attendance Policy": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 1,
+      "Hybrid Option": 1
     },
     "reviews": {
       "STAT 217": [
@@ -69574,6 +69575,26 @@
           "id": "43faeeca-0550-45c4-9d92-e79a7ca3817c",
           "professor": "125b8b2c-b881-4d72-8398-77f93a4c21f6",
           "postDate": "2026-10-28T23:56:28.509Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Took Stats in high school, shes a good teacher if you do the work and pay attention and actually apply yourself then your fine dont stress, take her class if you can.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Hybrid Option",
+            "Zoom Office Hours"
+          ],
+          "anonymousIdentifier": "e8c7596c832074cb",
+          "id": "b1586b94-e701-45fc-8e29-29b14240042a",
+          "professor": "125b8b2c-b881-4d72-8398-77f93a4c21f6",
+          "postDate": "2026-11-03T23:28:38.226Z"
         }
       ]
     }
@@ -148452,14 +148473,20 @@
     "department": "BUS",
     "firstName": "Paul",
     "lastName": "Stimpfl",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "BUS"
+      "BUS 1204"
     ],
-    "tags": {},
+    "tags": {
+      "Recorded Lectures": 1,
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
+    },
     "reviews": {
       "BUS 1204": [
         {
@@ -148473,6 +148500,26 @@
           "id": "47c9c159-87d6-4ef4-9548-d9e4bd76d066",
           "professor": "283213bf-e1ed-4dc2-b093-4deaad869ed3",
           "postDate": "2026-10-20T04:08:24.519Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He was the best professor this semester for me, and his tests are an exact copy of the SmartBook assignments that he gives us. He is a very interactive professor and very understanding. I would definitely take this course again or another course under Professor Stimpfl. I'm new to Cal Poly SLO this year, and he gave a great introduction to the fundamentals of finance,e such as budgeting, saving, and how to manage your money.",
+          "tags": [
+            "Recorded Lectures",
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "906634fca3e2330d",
+          "id": "968610d4-1c38-4eba-8243-db96cd6f4124",
+          "professor": "283213bf-e1ed-4dc2-b093-4deaad869ed3",
+          "postDate": "2026-11-04T00:43:11.813Z"
         }
       ]
     }
@@ -203066,21 +203113,23 @@
     "department": "ENGL",
     "firstName": "Jeff",
     "lastName": "Shutt",
-    "numEvals": 22,
-    "overallRating": 3.91,
-    "materialClear": 3.88,
-    "studentDifficulties": 4,
+    "numEvals": 23,
+    "overallRating": 3.78,
+    "materialClear": 3.71,
+    "studentDifficulties": 3.83,
     "courses": [
-      "ENGL 145"
+      "ENGL 145",
+      "ENGL 1145"
     ],
     "tags": {
-      "Flexible Deadline Policy": 9,
+      "Flexible Deadline Policy": 10,
       "Supplemental Study Material": 2,
       "Flexible Grading Policy": 4,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "Uploads Slides": 5,
       "High In-Person Availability": 1,
-      "Fast Response Time": 4
+      "Fast Response Time": 4,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "ENGL 145": [
@@ -203421,6 +203470,26 @@
           "id": "21c01f92-7481-4f9f-904a-833cb3c875d1",
           "professor": "37355b45-4669-4bcb-a207-7239444dc6e4",
           "postDate": "Thu Jun 18 2026 08:38:00 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGL 1145": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I can't stand him, I'm sorry. When doing big assignments his instruction is unclear and his feedback is even more unclear. He refuses to actually put in effort when giving feedback to our essays saying things like \"word choice\" and simply highlighting the claim with no comment. If you took AP lang, he basically tells you the complete opposite of what you learn in that class. This is not an uncommon opinion I promise. Ive talked to many others in this class and they whole heartedly agree.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "e8c7596c832074cb",
+          "id": "97fb7f8d-38c9-479b-9ad5-c0fe6d745a70",
+          "professor": "37355b45-4669-4bcb-a207-7239444dc6e4",
+          "postDate": "2026-11-04T00:31:06.981Z"
         }
       ]
     }
@@ -337512,28 +337581,30 @@
     "department": "CSC",
     "firstName": "Adnan",
     "lastName": "Awan",
-    "numEvals": 42,
-    "overallRating": 1.91,
-    "materialClear": 1.72,
-    "studentDifficulties": 2.27,
+    "numEvals": 43,
+    "overallRating": 1.87,
+    "materialClear": 1.68,
+    "studentDifficulties": 2.24,
     "courses": [
       "CSC 202",
       "EE 201",
-      "EE 321"
+      "EE 321",
+      "EE 2211"
     ],
     "tags": {
-      "Flexible Attendance Policy": 12,
+      "Flexible Attendance Policy": 13,
       "Supplemental Study Material": 6,
-      "Uploads Slides": 17,
+      "Uploads Slides": 18,
       "Inflexible Deadline Policy": 2,
       "Does Not Use Canvas": 1,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Flexible Deadline Policy": 4,
-      "Flexible Grading Policy": 1,
+      "Flexible Grading Policy": 2,
       "High In-Person Availability": 1,
       "Fast Response Time": 2,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "CSC 202": [
@@ -338168,6 +338239,27 @@
           "id": "420cc838-401a-42cc-a49b-c572391fa9c2",
           "professor": "5bc3ff7e-9a78-4471-850c-ea1455fce836",
           "postDate": "Tue Jan 06 2026 08:44:23 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 2211": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Pro: Easy A due to somewhat easy quizzes and chill HW assignments. Posts slides. I've only been to half the classes, not because I'm lazy, but it's just not worth it to go and listen to this guy. That's about it for pros. Cons: Worst professor I have ever had to learn from. He is incredibly unorganized, makes frequent mistakes, and typically gets only halfway through a concept or example before getting lazy and saying, \"you can go look at that on your own.\" He DOES NOT TEACH THEORY. Instead, he rambles through an example which is poorly written on the board and which is probably just plain wrong. He spent the first 2-3 weeks not teaching much and taking way too long on one slide, then panicked once he realized we were behind lab, and has skimmed through every presentation. Once you get to the HW assignments, you'll realize you'll have to learn the concept from scratch to get it done. This isn't bad for the first half of the course (easy DC circuit stuff), but once Op-Amps and AC stuff starts to appear, you're practically teaching yourself everything. He made a mistake on a quiz question that half the class got marked wrong for even though they got it right. After bringing it up to him, he didn't look into it until 5 weeks later and the quizzes are still uncorrected. That was a week 3 quiz and it is week 11. It's a real bummer this is one of the main teachers for this fundamental circuit course. He's a nice guy, but he shouldn't be teaching.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "8f449a9ddecae9f7",
+          "id": "fb300bb3-34da-4f7c-96ed-f0f0cb41b0d2",
+          "professor": "5bc3ff7e-9a78-4471-850c-ea1455fce836",
+          "postDate": "2026-11-04T01:38:15.265Z"
         }
       ]
     }
@@ -483664,10 +483756,10 @@
     "department": "MATH",
     "firstName": "Mike",
     "lastName": "Robertson",
-    "numEvals": 240,
-    "overallRating": 2.67,
+    "numEvals": 242,
+    "overallRating": 2.65,
     "materialClear": 2.53,
-    "studentDifficulties": 2.4,
+    "studentDifficulties": 2.38,
     "courses": [
       "MATH 112",
       "MATH 118",
@@ -483686,14 +483778,14 @@
     ],
     "tags": {
       "Flexible Grading Policy": 6,
-      "Inflexible Deadline Policy": 6,
+      "Inflexible Deadline Policy": 7,
       "Inflexible Grading Policy": 4,
-      "Supplemental Study Material": 10,
+      "Supplemental Study Material": 11,
       "Inflexible Attendance Policy": 1,
       "Does Not Use Canvas": 2,
-      "High In-Person Availability": 11,
-      "Fast Response Time": 11,
-      "Flexible Attendance Policy": 10,
+      "High In-Person Availability": 12,
+      "Fast Response Time": 12,
+      "Flexible Attendance Policy": 11,
       "Class Handouts": 1,
       "No Breaks During Lecture": 2,
       "Flexible Deadline Policy": 2
@@ -486772,6 +486864,39 @@
           "id": "f0bffe27-fa82-412b-918b-d53cd4d45129",
           "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
           "postDate": "2026-10-29T21:36:07.925Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Midterms and quizzes were consistent with his optional homework assignments and textbook problems, and fairly easy if you use his study materials. However, he is a very difficult teacher to learn from and be motivated by as he will insult you to your face when you ask a question in class. Calling students dumb and embarrassing them when they are late is a horrible way to make them want to show up on time and learn from you. I learned the concepts decently well but mainly because I already had a grasp on them. Overall just felt horrible being in his class.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "1e5e06decd908355",
+          "id": "9b78c0bc-d816-4185-a38a-d907393db91c",
+          "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
+          "postDate": "2026-11-04T01:01:01.348Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Unless you're already very comfortable with Calculus, try to avoid this guy at all costs. His Bridge Calc II class which was only a half-semester long, so it was pretty fast paced from the start. Dr. Robertson doesn't give out any graded homework and his quizzes aren't the hardest (if you pay attention), but his main problem is that he's just a horrible guy. It's impossible to ask a question without being insulted and he has zero consideration for you or your problems.",
+          "anonymousIdentifier": "1e658d5c7de979db",
+          "id": "52811859-4a09-4713-babf-4981f10f5f3b",
+          "professor": "82a5be11-a8a4-4790-94ab-90a13231443a",
+          "postDate": "2026-11-04T04:04:55.611Z"
         }
       ]
     }
@@ -649490,26 +649615,28 @@
     "department": "BUS",
     "firstName": "Ashish",
     "lastName": "Hingle",
-    "numEvals": 29,
-    "overallRating": 3.68,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.68,
+    "numEvals": 30,
+    "overallRating": 3.56,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.56,
     "courses": [
       "BUS 391",
       "IS 391",
-      "BUS 399"
+      "BUS 399",
+      "BUS 3391"
     ],
     "tags": {
       "Zoom Office Hours": 4,
-      "Fast Response Time": 9,
-      "Uploads Slides": 11,
-      "High In-Person Availability": 3,
+      "Fast Response Time": 10,
+      "Uploads Slides": 12,
+      "High In-Person Availability": 4,
       "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
       "Flexible Attendance Policy": 1,
       "Honor DRC Accommodations": 1,
-      "Inflexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Inflexible Attendance Policy": 2,
+      "Supplemental Study Material": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "BUS 391": [
@@ -649958,6 +650085,28 @@
           "id": "f25c365e-c39d-4efe-bcac-5ea7dd2e2a26",
           "professor": "b32d901b-637d-48e9-83b0-97031daf6a8e",
           "postDate": "Wed May 06 2026 03:27:08 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3391": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Fully changed his teaching style he says the school got mad at him for being too easy and now his class is genuinely impossible and he has zero capability of understanding how hard it is. He talks about his coffee shop dates than teaching in the class. He is a super awkward little boy and avoid him at all costs",
+          "tags": [
+            "Uploads Slides",
+            "Fast Response Time",
+            "High In-Person Availability",
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "685ec7194a083cb4",
+          "id": "e8388319-fdfc-45fb-b3c7-eb222a03c584",
+          "professor": "b32d901b-637d-48e9-83b0-97031daf6a8e",
+          "postDate": "2026-11-04T03:35:27.529Z"
         }
       ]
     }
@@ -684276,32 +684425,33 @@
     "department": "CHEM",
     "firstName": "Jay",
     "lastName": "Erker",
-    "numEvals": 129,
+    "numEvals": 130,
     "overallRating": 1.63,
     "materialClear": 1.53,
-    "studentDifficulties": 1.71,
+    "studentDifficulties": 1.7,
     "courses": [
       "CHEM 110",
       "CHEM 124",
       "CHEM 125",
       "CHEM 127",
       "CHEM 128",
-      "CHEM 129"
+      "CHEM 129",
+      "CHEM 1120"
     ],
     "tags": {
       "Flexible Deadline Policy": 2,
       "Uploads Slides": 11,
       "Flexible Grading Policy": 3,
-      "No Breaks During Lecture": 9,
+      "No Breaks During Lecture": 10,
       "Class Handouts": 2,
-      "Does Not Use Canvas": 8,
+      "Does Not Use Canvas": 9,
       "Honor DRC Accommodations": 3,
       "Fast Response Time": 1,
       "Supplemental Study Material": 7,
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 5,
+      "Inflexible Deadline Policy": 2,
       "High In-Person Availability": 6,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Grading Policy": 4,
       "Flexible Attendance Policy": 1
     },
     "reviews": {
@@ -686017,6 +686167,28 @@
           "id": "f30884e6-6518-41d9-aee1-02623ebc2c53",
           "professor": "bf69c318-ff3f-4a0e-9265-dff5454e96b0",
           "postDate": "Thu Jun 18 2026 04:37:55 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CHEM 1120": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "TLDR: explains nothing, overcomplicates everything, impossible exams, unorganized and unforgiving teaching style, DO NOT TAKE THIS CLASS!!!\n\nDr. Erker is not a bad person, but HE IS A HORRIBLE PROFESSOR. Before I go on about how awful he is at teaching, I want to say that, for the record, he is a pretty nice guy and his lab demonstrations can be entertaining sometimes. That being said, DO NOT TAKE HIM IF YOU DON'T HAVE TO!!!\n\nHe \"teaches\" by showing us outdated and often incorrect lecture slides in class, which he goes through entirely too fast and out-of-order. He also does not explain any of the information contained on these slides- he only reads from them and expects you to fill in the blanks as if you already have a complete understanding of chemistry. There are weekly quizzes which are nearly impossible to study for. It is not uncommon for the average grade on a quiz to be 60% because the questions asked are not based on what was learned in class, but instead on extremely complicated concepts that are usually past the scope of this class, and if it WAS mentioned at all, it was only mentioned one time in an easy-to-miss portion of the lab or said verbally in lecture. The class average for the first midterm was a 58% (people LITERALLY started crying in class when they saw their grades). The first class after the midterm we had a quiz which was an extension of a free-response question on the midterm that no one got correct. Mind you, he had already graded our midterms before he even made the quiz, so he knew he was asking us about something that we did not know at all, and he didn't explain it before OR after giving us the quiz either. Speaking of grades, he disables your ability to see your overall grade on canvas, so you never know how you are doing in his class. Anyone who does well in the class credits it to their prior knowledge from taking AP chemistry, staying up late and teaching themselves material, or getting tutored by other professors.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "c21f992c09ec6830",
+          "id": "d1264305-863f-41dd-abc1-3cfedb2865d6",
+          "professor": "bf69c318-ff3f-4a0e-9265-dff5454e96b0",
+          "postDate": "2026-11-04T00:29:30.922Z"
         }
       ]
     }
@@ -849108,10 +849280,10 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 4,
-    "overallRating": 0.75,
-    "materialClear": 0.5,
-    "studentDifficulties": 1,
+    "numEvals": 5,
+    "overallRating": 1.4,
+    "materialClear": 0.6,
+    "studentDifficulties": 1.6,
     "courses": [
       "CPE 2300"
     ],
@@ -849119,7 +849291,12 @@
       "Zoom Office Hours": 0,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 0,
-      "Does Not Use Canvas": 1
+      "Does Not Use Canvas": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Class Handouts": 1,
+      "Supplemental Study Material": 1
     },
     "reviews": {
       "CPE 2300": [
@@ -849177,6 +849354,26 @@
           "id": "b628d51e-6a55-4fe0-a686-d68b86a96415",
           "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
           "postDate": "2026-10-29T03:50:06.053Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 4,
+          "rating": "i do agree that the lectures aren't great, he goes too fast for me or i dont really understand whats on the board, but the html sites he gives along with his lecture are actually very helpful in understanding the material, and i think office hours are helpful too. the quizzes used to be on paper which were very hard but he moved them to html sites and for a coding class, it made it way better than the first couple of weeks. he's a new teacher and very receptive to feedback and i don't think anyone will do bad in this class, as it takes not that much self teaching, and i found that if i studied the material a bit beforehand, i actually comprehended the lectures much better. \nthere's also only one midterm and the study guides actually helped a LOT. and he let us have a double-sided cheat sheet so we don't have to memorize what every register is/does.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Flexible Attendance Policy",
+            "Class Handouts",
+            "Supplemental Study Material"
+          ],
+          "anonymousIdentifier": "f7f036b801991ea0",
+          "id": "b72615d3-438c-4fee-956c-ae0107df32e1",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "2026-11-04T05:07:57.142Z"
         }
       ]
     }
@@ -853979,7 +854176,7 @@
     "department": "CHEM",
     "firstName": "Yuting",
     "lastName": "Chen",
-    "numEvals": 3,
+    "numEvals": 4,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -853987,10 +854184,12 @@
       "CHEM 1120"
     ],
     "tags": {
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 3,
       "Flexible Grading Policy": 1,
-      "Uploads Slides": 2,
-      "Class Handouts": 1
+      "Uploads Slides": 3,
+      "Class Handouts": 2,
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1
     },
     "reviews": {
       "CHEM 1120": [
@@ -854041,6 +854240,26 @@
           "id": "4937ee7d-404b-4669-a27c-00065283b00c",
           "professor": "f1dfc746-bce8-4e4c-afb6-a6df78f1e792",
           "postDate": "2026-10-17T02:38:16.619Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Amazing professor! He is really great at explaining things without making you feel stupid, he has tons of office hours, gives almost no homework (It max takes 5 minutes), he posted everything on canvas, gives huge midterm review packets, and is such a sweet guy. He does do an inverted classroom where you have to watch lecture outside of class, however he reviews them in class and the videos are never more than 25 min long. I highly recommend taking his class!",
+          "tags": [
+            "Fast Response Time",
+            "Recorded Lectures",
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "f7051f10ca675989",
+          "id": "7837efda-92aa-4b3f-867d-351097b2dcdf",
+          "professor": "f1dfc746-bce8-4e4c-afb6-a6df78f1e792",
+          "postDate": "2026-11-04T05:27:42.453Z"
         }
       ]
     }
