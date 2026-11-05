@@ -126389,10 +126389,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 210,
-    "overallRating": 1.88,
-    "materialClear": 1.97,
-    "studentDifficulties": 2,
+    "numEvals": 211,
+    "overallRating": 1.87,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.99,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -126401,15 +126401,15 @@
     ],
     "tags": {
       "Flexible Attendance Policy": 5,
-      "Pop Quizzes": 19,
-      "Inflexible Grading Policy": 28,
+      "Pop Quizzes": 20,
+      "Inflexible Grading Policy": 29,
       "Zoom Office Hours": 8,
       "Fast Response Time": 9,
       "Recorded Lectures": 5,
-      "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 16,
+      "Inflexible Attendance Policy": 4,
+      "Inflexible Deadline Policy": 17,
       "Hybrid Option": 7,
-      "Does Not Use Canvas": 8,
+      "Does Not Use Canvas": 9,
       "Flexible Deadline Policy": 2
     },
     "reviews": {
@@ -129222,6 +129222,26 @@
           "id": "1ed79393-55f7-4423-9ff4-ce2b6f161145",
           "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
           "postDate": "2026-10-29T23:36:43.131Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "awful teacher, awful grading, awful communication, and awful understanding.",
+          "tags": [
+            "Does Not Use Canvas",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "ecc829f6f9b40ac5",
+          "id": "eed24550-4c1a-4f11-a347-d40f99493d4d",
+          "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
+          "postDate": "2026-11-05T00:28:22.389Z"
         }
       ]
     }
@@ -179242,24 +179262,28 @@
     "department": "ENGL",
     "firstName": "Morgan",
     "lastName": "White",
-    "numEvals": 12,
-    "overallRating": 3.5,
+    "numEvals": 13,
+    "overallRating": 3.54,
     "materialClear": 4,
-    "studentDifficulties": 3.67,
+    "studentDifficulties": 3.7,
     "courses": [
       "ENGL 147",
-      "ENGL 317"
+      "ENGL 317",
+      "ENGL 1147"
     ],
     "tags": {
       "Hybrid Option": 5,
       "Recorded Lectures": 2,
       "Inflexible Attendance Policy": 3,
-      "Fast Response Time": 4,
+      "Fast Response Time": 5,
       "Honor DRC Accommodations": 1,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Zoom Office Hours": 2,
       "Inflexible Deadline Policy": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "ENGL 147": [
@@ -179461,6 +179485,28 @@
           "id": "8fe6e857-610c-4d76-89af-dbbad27404d8",
           "professor": "2fa02879-9ec0-4c35-a6dc-1e755cc1091a",
           "postDate": "Wed Feb 26 2025 01:09:59 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ENGL 1147": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "She is such a nice professor and I personally have had a very positive experience in this class. She grades based off of a grading contract and so if you complete all the assignments, you get an 86 in the class, and if you want a better grade you just have to do a few extra credit assignments. Her canvas and lectures are very clear and although there is a bit of busy work, I would say everything is pretty straightforward and she gives very clear instructions. We also often get out of class 30 minutes early because all of her lectures are clear and concise. Overall, love this professor and if you are taking this class I highly recommend taking her.",
+          "tags": [
+            "Fast Response Time",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "38e9358bbf132ee7",
+          "id": "85154078-22fb-4d5c-b426-8049d9394755",
+          "professor": "2fa02879-9ec0-4c35-a6dc-1e755cc1091a",
+          "postDate": "2026-11-05T03:52:46.304Z"
         }
       ]
     }
@@ -351783,18 +351829,22 @@
     "department": "NR",
     "firstName": "Nicholas",
     "lastName": "Babin",
-    "numEvals": 6,
-    "overallRating": 2.67,
-    "materialClear": 3.83,
-    "studentDifficulties": 2.33,
+    "numEvals": 7,
+    "overallRating": 2.86,
+    "materialClear": 3.57,
+    "studentDifficulties": 2.43,
     "courses": [
-      "NR 306"
+      "NR 306",
+      "NR 3306"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Uploads Slides": 3,
+      "Fast Response Time": 2,
+      "Uploads Slides": 4,
       "Inflexible Attendance Policy": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1,
+      "Class Handouts": 1
     },
     "reviews": {
       "NR 306": [
@@ -351882,6 +351932,28 @@
           "id": "f5ca6ab8-cd67-401d-b61b-1b1a6c7ac86e",
           "professor": "5f222ad7-6348-4f20-9920-76d084dbdf5b",
           "postDate": "Thu Mar 19 2026 04:19:04 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "NR 3306": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "such a chiller. I love this guy. we had labs every week at a different place around SLO which was a ton of fun, (except for the experimental farm boooo) and we did a class trip to the Mojave desert which was so fun and light and really bonded our class. I don't really get the bad reviews about this class, I personally haven't had any bad experiences with Nick, he grades easily and accepts late work so there's really no reason you wouldn't get an A in this class unless you don't go to class. Lab reports are due each week as well as a discussion post based on the readings, and lecture videos are optional to watch to prepare for tests.",
+          "tags": [
+            "Recorded Lectures",
+            "Fast Response Time",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "5cc853fabdb0d935",
+          "id": "bfb71d6a-a620-4b6a-b4e1-7699a053f5a6",
+          "professor": "5f222ad7-6348-4f20-9920-76d084dbdf5b",
+          "postDate": "2026-11-04T23:39:05.526Z"
         }
       ]
     }
@@ -457575,21 +457647,24 @@
     "department": "PHIL",
     "firstName": "Kyle",
     "lastName": "Dickey",
-    "numEvals": 11,
-    "overallRating": 3,
-    "materialClear": 3.09,
-    "studentDifficulties": 3.09,
+    "numEvals": 12,
+    "overallRating": 2.83,
+    "materialClear": 3.08,
+    "studentDifficulties": 2.92,
     "courses": [
       "PHIL 126",
-      "PHIL 1126"
+      "PHIL 1126",
+      "PHIL 2231"
     ],
     "tags": {
       "Zoom Office Hours": 3,
       "Fast Response Time": 2,
       "Flexible Deadline Policy": 1,
-      "Recorded Lectures": 1,
+      "Recorded Lectures": 2,
       "Hybrid Option": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "PHIL 126": [
@@ -457753,6 +457828,26 @@
           "id": "f70fc9c4-0c19-4ec8-bd71-b75db1495841",
           "professor": "7c2c4d24-4950-414f-8a09-359ec4e406d7",
           "postDate": "2026-10-19T05:26:07.430Z"
+        }
+      ],
+      "PHIL 2231": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 1,
+          "rating": "way too hard for a ge, grades midterms very harshly, which are all written response on paper, he expects 3-4 pages worth of content for each question on the midterm. 75% of the grade is 3 midterms and u have to know your stuff for all of them. Not worth taking at all if you want an easy ge.",
+          "tags": [
+            "Recorded Lectures",
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "aaa5fcd0fc551adc",
+          "id": "1837ac41-197f-4647-b6d6-4f19cebb297f",
+          "professor": "7c2c4d24-4950-414f-8a09-359ec4e406d7",
+          "postDate": "2026-11-05T03:06:38.823Z"
         }
       ]
     }
@@ -589161,10 +589256,10 @@
     "department": "BUS",
     "firstName": "Paul",
     "lastName": "Patterson",
-    "numEvals": 19,
-    "overallRating": 3.04,
-    "materialClear": 3,
-    "studentDifficulties": 3.37,
+    "numEvals": 20,
+    "overallRating": 2.94,
+    "materialClear": 2.95,
+    "studentDifficulties": 3.35,
     "courses": [
       "BUS 346",
       "BUS 3346"
@@ -589173,9 +589268,9 @@
       "Flexible Attendance Policy": 3,
       "Supplemental Study Material": 1,
       "Flexible Grading Policy": 9,
-      "No Breaks During Lecture": 1,
-      "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 4,
+      "No Breaks During Lecture": 2,
+      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 5,
       "Flexible Deadline Policy": 3,
       "Fast Response Time": 1
     },
@@ -589474,6 +589569,24 @@
           "id": "78aabed2-06e0-4a33-936a-54c95863993e",
           "professor": "a013ca4b-5a13-4b62-a251-4d60d6038e70",
           "postDate": "2026-10-29T16:58:58.438Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Although he can be a good guy, while also giving you a free A. I still would not recommend this class to someone who actually wants to learn about Marketing; I've learned absolutely nothing from his lectures. Professor Patterson is very passive-aggressive and always seems to belittle his students by picking on them during class if they make even a small mistake. His lectures take 20-30 minutes, and for the rest of the class, he expects you to stay the full hour while both he and the students do absolutely nothing. His attendance policy makes it such a drag to always go, and it genuinely enrages me every time I have to sit in his class while he blabbers about KCPR. In conclusion, if you want the easy and free A take him, but if you actually want to learn and not waste your time and money take a different professor.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "8384486e5767d0f8",
+          "id": "9f519b16-ba4b-41fb-9db4-26d758220f2c",
+          "professor": "a013ca4b-5a13-4b62-a251-4d60d6038e70",
+          "postDate": "2026-11-05T00:34:18.542Z"
         }
       ]
     }
@@ -687754,10 +687867,10 @@
     "department": "HIST",
     "firstName": "Cole",
     "lastName": "Manley",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 3,
+    "overallRating": 3.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "HIST 2202"
     ],
@@ -687803,6 +687916,19 @@
           "id": "92481e97-23b0-435b-b20d-cf91b88da8df",
           "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
           "postDate": "2026-10-21T15:03:25.540Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Professor Manley is overall pretty boring, I feel like it's almost impossible to get an A in his class unless you get really good grades on both tests, participation and essay because those are the only grades inputs .He is a very harsh grader on the essay and writing parts of tests. He is a very nice guy and is super smart but he needs to find a way to be more engaging and offer more points to make his class more accessible to get a higher grade",
+          "anonymousIdentifier": "fc9b5e7d4585334f",
+          "id": "9581f6be-63e4-4ba7-8d0d-23ea8404d14a",
+          "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
+          "postDate": "2026-11-05T00:10:47.279Z"
         }
       ]
     }
@@ -749539,10 +749665,10 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 9,
-    "overallRating": 1.34,
-    "materialClear": 0.78,
-    "studentDifficulties": 2.44,
+    "numEvals": 10,
+    "overallRating": 1.31,
+    "materialClear": 0.7,
+    "studentDifficulties": 2.3,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
@@ -749555,7 +749681,8 @@
       "Honor DRC Accommodations": 1,
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 1,
-      "No Breaks During Lecture": 1
+      "No Breaks During Lecture": 2,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "CHEM 120": [
@@ -749695,6 +749822,23 @@
           "id": "fce93483-be81-4976-80f1-87164fac5cf4",
           "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
           "postDate": "2026-10-29T22:45:06.075Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "She is a very nice and friendly person, however it is very clear she is new to teaching. Her lectures are super long and it is hard to stay engaged, also she writes on the whiteboard in a very disorganized way and constantly makes mistakes that she has to go back and fix. She has very few slides and most of the stuff you learn is based on what she writes on the whiteboard, so it is hard very to follow. We have a quiz every week that I would say you have to prepare pretty well for in order to get a good grade (however she does drop your bottom two grades), she does provide practice questions but they look completely different than what we learn in class and what is on the test. The labs are mainly online and doable although we are given little instruction and explanation to what we are doing. You have two exams and a final, and throughout this semester I have mainly had to teach myself everything. During her lectures she makes very simple concepts more confusing than they have to be and it is easier to just learn them yourself.",
+          "tags": [
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "38e9358bbf132ee7",
+          "id": "9e844800-8858-4e25-ac27-30fa801e195d",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-11-05T03:47:25.254Z"
         }
       ]
     }
