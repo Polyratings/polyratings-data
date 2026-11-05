@@ -4902,10 +4902,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 62,
-    "overallRating": 1.41,
-    "materialClear": 1.53,
-    "studentDifficulties": 1.38,
+    "numEvals": 63,
+    "overallRating": 1.39,
+    "materialClear": 1.51,
+    "studentDifficulties": 1.36,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -4915,13 +4915,16 @@
       "AGB 318",
       "AGB 404",
       "AGB 406",
-      "AGB 3301"
+      "AGB 3301",
+      "AGB 4462"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -19154,7 +19157,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -19165,11 +19168,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 11,
+      "Flexible Attendance Policy": 12,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 10,
-      "Flexible Deadline Policy": 6,
-      "High In-Person Availability": 8,
+      "Flexible Grading Policy": 11,
+      "Flexible Deadline Policy": 7,
+      "High In-Person Availability": 9,
       "Honor DRC Accommodations": 1
     }
   },
@@ -22303,10 +22306,10 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 7,
-    "overallRating": 0.28,
-    "materialClear": 0.71,
-    "studentDifficulties": 1,
+    "numEvals": 8,
+    "overallRating": 0.5,
+    "materialClear": 0.62,
+    "studentDifficulties": 1.25,
     "courses": [
       "BUS 214",
       "BUS 3320"

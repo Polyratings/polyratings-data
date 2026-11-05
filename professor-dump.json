@@ -82683,10 +82683,10 @@
     "department": "AGB",
     "firstName": "Christiane",
     "lastName": "Schroeter",
-    "numEvals": 62,
-    "overallRating": 1.41,
-    "materialClear": 1.53,
-    "studentDifficulties": 1.38,
+    "numEvals": 63,
+    "overallRating": 1.39,
+    "materialClear": 1.51,
+    "studentDifficulties": 1.36,
     "courses": [
       "AGB 212",
       "AGB 301",
@@ -82696,13 +82696,16 @@
       "AGB 318",
       "AGB 404",
       "AGB 406",
-      "AGB 3301"
+      "AGB 3301",
+      "AGB 4462"
     ],
     "tags": {
       "Zoom Office Hours": 1,
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "AGB 212": [
@@ -83482,6 +83485,26 @@
           "id": "a99d226f-d9dd-4373-9959-534aa2f254c2",
           "professor": "16784ab6-136f-449a-b1ad-d2a8554cc69b",
           "postDate": "2026-10-21T20:19:48.379Z"
+        }
+      ],
+      "AGB 4462": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Don't get me wrong, Schroeter is an entertaining professor. But that's about it. This is a senior project class; I expected a lot more than just creating a slide deck. That's all it is. Lecture time is spent showing our slides on the projector for her to give objective criticism in front of the rest of the class. When we aren't sharing our slides, she's spending 45 minutes taking attendance and telling unrelated stories. The workbook we were required to buy had absolutely nothing to do with the course. The instructions for assignments regarding the workbook read as if she didn't proofread her own material before posting it on Amazon. Other assignments were quite literally copied and pasted from 200 level courses. I even compared them to the earlier classes I had taken with her, they were the EXACT same. I was just trying to scrape by and have an easy final year, but this was actually too little stimulation. Don't even bother asking to clarify instructions, she will always have a justification for why you are wrong and she is right.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "872168fd6b870298",
+          "id": "28caea20-40e8-4413-891f-ac6701b5b383",
+          "professor": "16784ab6-136f-449a-b1ad-d2a8554cc69b",
+          "postDate": "2026-11-05T19:25:25.627Z"
         }
       ]
     }
@@ -334625,7 +334648,7 @@
     "department": "COMS",
     "firstName": "Matt",
     "lastName": "Kay",
-    "numEvals": 32,
+    "numEvals": 33,
     "overallRating": 3.93,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -334636,11 +334659,11 @@
     ],
     "tags": {
       "Zoom Office Hours": 10,
-      "Flexible Attendance Policy": 11,
+      "Flexible Attendance Policy": 12,
       "Fast Response Time": 7,
-      "Flexible Grading Policy": 10,
-      "Flexible Deadline Policy": 6,
-      "High In-Person Availability": 8,
+      "Flexible Grading Policy": 11,
+      "Flexible Deadline Policy": 7,
+      "High In-Person Availability": 9,
       "Honor DRC Accommodations": 1
     },
     "reviews": {
@@ -335157,6 +335180,25 @@
           "id": "7f79522e-a1d5-4716-b91d-c95253faee49",
           "professor": "5b58b448-2c19-4c36-82ab-5074dc00f30a",
           "postDate": "2026-11-03T02:27:31.983Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great professor who's funny and makes an English class enjoyable. You will pass as long as you give the speeches and show at least some sign of improvement. Very lenient with due dates and attendance as well.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "High In-Person Availability"
+          ],
+          "anonymousIdentifier": "89151bf4f024eb37",
+          "id": "a4da6880-6548-48ba-9735-8776312d051d",
+          "professor": "5b58b448-2c19-4c36-82ab-5074dc00f30a",
+          "postDate": "2026-11-05T06:38:23.082Z"
         }
       ]
     }
@@ -393151,10 +393193,10 @@
     "department": "BUS",
     "firstName": "Steven",
     "lastName": "Danowitz",
-    "numEvals": 7,
-    "overallRating": 0.28,
-    "materialClear": 0.71,
-    "studentDifficulties": 1,
+    "numEvals": 8,
+    "overallRating": 0.5,
+    "materialClear": 0.62,
+    "studentDifficulties": 1.25,
     "courses": [
       "BUS 214",
       "BUS 3320"
@@ -393277,6 +393319,19 @@
           "id": "5e689cc2-1fa7-4780-8b63-f30a76763fc2",
           "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
           "postDate": "2026-10-31T00:11:49.452Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 3,
+          "rating": "______Lectures (0/4) - Lectures are very slow. I wouldn't call them pointless but if you have a short attention span or are not interested in tax you will want to fall asleep.                       \n\n______Homework (3/4) - Homework is generally short, easy, and fairly representative of other material covered in class. You may need to self teach a problem or two but compared to other classes which use McGraw Hill it is very tolerable.                      \n\n______Projects (4/4) - You may select from several project options which range in difficulty and accordingly points that are possible to earn. If you choose a problem which allows you to earn a lot of points, it will be difficult. The project takes many hours to do well and if tax doesn't interest you just pick an easy problem or it will be painful. The problems themselves are interesting to puzzle through, however, and as OCOB students we rarely get to do proper research projects so I found it enjoyable.  \n\n______Exams (2/4) - Exams can be difficult and for some of the questions the wording can be unclear. However Danowitz allows you to write in the exam where you think the wording is unclear and he may grade accordingly if you have a reasonable grounding for your confusion. Also if you have questions go to office hours and talk to him, he'll listen.",
+          "anonymousIdentifier": "e66d19f8783008ec",
+          "id": "49635da3-5cf1-47ed-a4d7-b7f2201141e6",
+          "professor": "698bbe14-95a4-4803-80e6-81d66237073d",
+          "postDate": "2026-11-05T19:42:13.857Z"
         }
       ]
     }
