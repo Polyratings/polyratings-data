@@ -70759,10 +70759,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 64,
-    "overallRating": 1.49,
-    "materialClear": 1.96,
-    "studentDifficulties": 2.7,
+    "numEvals": 65,
+    "overallRating": 1.47,
+    "materialClear": 1.93,
+    "studentDifficulties": 2.66,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -71791,6 +71791,19 @@
           "id": "2f79e217-4525-4180-8150-72f9628b1253",
           "professor": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
           "postDate": "2026-10-26T03:58:19.634Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "bitchy professor who thinks shes so much better than her students. zero accomodation for anyone, if it bothers her and requires her to do more than needed shes not going to help you and is very rude",
+          "anonymousIdentifier": "041ca210076624e8",
+          "id": "8155da68-4a37-46f2-b595-ae2493926f61",
+          "professor": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
+          "postDate": "2026-11-07T02:39:29.186Z"
         }
       ]
     }
@@ -153090,7 +153103,7 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 99,
+    "numEvals": 100,
     "overallRating": 2.4,
     "materialClear": 2.31,
     "studentDifficulties": 2.36,
@@ -154450,6 +154463,19 @@
           "id": "41197d49-2a10-45bb-aceb-0fbba924e009",
           "professor": "2a9a925e-6305-4546-957b-b10b78f95f9d",
           "postDate": "2026-10-25T00:24:31.306Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Statics does not need to be this hard. He's a good guy and knows his stuff, but he isn't the best at teaching it to kids once they are confused. Which is inevitable. HW is hard and takes extremely long. Exams feel impossible, Avg in my class for midterm 1 was a 58. He also has canceled so many classes and lectures he posts aren't that helpful. Class sounds like physics jargon. My roommate is in a different statics class and has an A currently, while I am struggling to keep a C. I know statics is hard, but this is unnecessarily hard. My bsf at WSU is a statics TA for the equivalent class; both he and his professor have seen my homework and agree it's way harder than it should be. Niebuhr said he will curve the class at the end. He's a nice guy and does want you to succeed, but man, he makes it hard to. I've never been an F student either.",
+          "anonymousIdentifier": "38e9358bbf132ee7",
+          "id": "92bdb9e0-c50b-4a38-aa4d-96607e38bdd7",
+          "professor": "2a9a925e-6305-4546-957b-b10b78f95f9d",
+          "postDate": "2026-11-07T03:14:13.051Z"
         }
       ]
     }
@@ -343039,14 +343065,15 @@
     "department": "HLTH",
     "firstName": "Adrienne",
     "lastName": "Lent",
-    "numEvals": 9,
-    "overallRating": 1.67,
-    "materialClear": 1.88,
-    "studentDifficulties": 1.22,
+    "numEvals": 10,
+    "overallRating": 1.5,
+    "materialClear": 1.69,
+    "studentDifficulties": 1.1,
     "courses": [
       "HLTH 402",
       "HLTH 298",
-      "HLTH 318"
+      "HLTH 318",
+      "HLTH 3318"
     ],
     "tags": {
       "Recorded Lectures": 2,
@@ -343056,7 +343083,7 @@
       "Flexible Attendance Policy": 1,
       "Class Handouts": 1,
       "No Breaks During Lecture": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Flexible Deadline Policy": 1
     },
@@ -343214,6 +343241,24 @@
           "id": "ae1dec3d-19c2-4d39-93f9-6f6a1efea73b",
           "professor": "5bf9b22c-ee09-42d6-81b7-4ece403bf933",
           "postDate": "Mon Jun 22 2026 02:32:23 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "HLTH 3318": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Awful do not take. Save yourself.",
+          "tags": [
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "a32386acac8717c2",
+          "id": "795dc23e-2a02-41d9-aa18-25fcbd7c704b",
+          "professor": "5bf9b22c-ee09-42d6-81b7-4ece403bf933",
+          "postDate": "2026-11-06T21:07:20.498Z"
         }
       ]
     }
@@ -609588,25 +609633,27 @@
     "department": "EE",
     "firstName": "Brendan",
     "lastName": "Rhatigan",
-    "numEvals": 21,
-    "overallRating": 3.81,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.91,
+    "numEvals": 22,
+    "overallRating": 3.64,
+    "materialClear": 3.64,
+    "studentDifficulties": 3.78,
     "courses": [
       "EE 242",
       "EE 201",
       "EE 211",
-      "EE 251"
+      "EE 251",
+      "EE 2328"
     ],
     "tags": {
       "Fast Response Time": 2,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Class Handouts": 1,
       "Uploads Slides": 4,
       "High In-Person Availability": 2,
-      "Flexible Grading Policy": 1,
-      "Honor DRC Accommodations": 1
+      "Flexible Grading Policy": 2,
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "EE 242": [
@@ -609919,6 +609966,26 @@
           "id": "69a9a98e-a6e6-4768-ad75-cc6d36023d7e",
           "professor": "a546008e-c378-4b50-b7f4-b882eca5d604",
           "postDate": "Mon Mar 30 2026 04:17:11 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 2328": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Terrible signals professor. He just started and it\u2019s a train wreck. Nice guy, but you\u2019re not learning.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "dc0719a39bcf77f8",
+          "id": "27e304fe-0776-4277-b163-e1fca57a6223",
+          "professor": "a546008e-c378-4b50-b7f4-b882eca5d604",
+          "postDate": "2026-11-07T00:28:54.348Z"
         }
       ]
     }
@@ -850706,10 +850773,10 @@
     "department": "ENGL",
     "firstName": "Carol",
     "lastName": "Curiel",
-    "numEvals": 95,
-    "overallRating": 2.35,
-    "materialClear": 2.44,
-    "studentDifficulties": 2.36,
+    "numEvals": 96,
+    "overallRating": 2.33,
+    "materialClear": 2.41,
+    "studentDifficulties": 2.34,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -852006,6 +852073,19 @@
           "id": "1dc6a604-2be2-428d-9743-18a0cc8973a1",
           "professor": "f0800cbd-a45f-46f1-9f19-e662d5f1b1b1",
           "postDate": "2026-11-01T23:51:17.729Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "She is such a harsh grader and takes forever to grade assignments. Assigns so much work and takes so much time to give you feedback that it basically doesn't even matter. I currently have an A but who knows how much longer that is going to last based off of her just marking me down for useless things. Do not take her class such a hard GE. Attendance is mandatory and she just goes on rants the entire time I deadass almost fall asleep every Monday and Wednesday. She complains about grading when mind you assigns multiple essays and useless worksheets that will take you hours. Also gives concept quizzes on information I would never need to know and the whole class fails every time.",
+          "anonymousIdentifier": "cafe3d1b343aa59e",
+          "id": "a7c28bfa-01df-4f8e-b60a-40a91294c616",
+          "professor": "f0800cbd-a45f-46f1-9f19-e662d5f1b1b1",
+          "postDate": "2026-11-07T03:45:47.518Z"
         }
       ]
     }
