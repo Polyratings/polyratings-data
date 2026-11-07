@@ -575,17 +575,17 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 4,
-    "overallRating": 1,
-    "materialClear": 0.25,
-    "studentDifficulties": 0.75,
+    "numEvals": 5,
+    "overallRating": 0.8,
+    "materialClear": 0.2,
+    "studentDifficulties": 0.6,
     "courses": [
       "EE 2328"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "No Breaks During Lecture": 2,
       "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "Uploads Slides": 1,
@@ -593,7 +593,8 @@
       "Zoom Office Hours": 0,
       "Fast Response Time": 0,
       "Honor DRC Accommodations": 0,
-      "High In-Person Availability": 0
+      "High In-Person Availability": 0,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "EE 2328": [
@@ -660,6 +661,25 @@
           "id": "0e554f89-20a4-4633-bd8a-dd1a455c697a",
           "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
           "postDate": "2026-10-27T01:09:06.393Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Elective",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "DO NOT TAKE. Avoid taking this class at all costs with this professor, its week 11 and I could not tell you a single thing I have learned",
+          "tags": [
+            "No Breaks During Lecture",
+            "Inflexible Grading Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "8569a07ffb8e1d6a",
+          "id": "e3f62fbb-db0b-493d-a798-33b04df90aa4",
+          "professor": "00492d42-dbcb-4f63-be30-226ebc0af9e5",
+          "postDate": "2026-11-07T06:31:32.092Z"
         }
       ]
     }

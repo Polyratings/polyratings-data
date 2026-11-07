@@ -50,17 +50,17 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 4,
-    "overallRating": 1,
-    "materialClear": 0.25,
-    "studentDifficulties": 0.75,
+    "numEvals": 5,
+    "overallRating": 0.8,
+    "materialClear": 0.2,
+    "studentDifficulties": 0.6,
     "courses": [
       "EE 2328"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 2,
+      "No Breaks During Lecture": 2,
       "Flexible Deadline Policy": 2,
       "Supplemental Study Material": 1,
       "Uploads Slides": 1,
@@ -68,7 +68,8 @@
       "Zoom Office Hours": 0,
       "Fast Response Time": 0,
       "Honor DRC Accommodations": 0,
-      "High In-Person Availability": 0
+      "High In-Person Availability": 0,
+      "Flexible Attendance Policy": 1
     }
   },
   {
