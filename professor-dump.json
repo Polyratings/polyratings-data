@@ -609653,10 +609653,10 @@
     "department": "EE",
     "firstName": "Brendan",
     "lastName": "Rhatigan",
-    "numEvals": 22,
-    "overallRating": 3.64,
-    "materialClear": 3.64,
-    "studentDifficulties": 3.78,
+    "numEvals": 23,
+    "overallRating": 3.53,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.75,
     "courses": [
       "EE 242",
       "EE 201",
@@ -610006,6 +610006,19 @@
           "id": "27e304fe-0776-4277-b163-e1fca57a6223",
           "professor": "a546008e-c378-4b50-b7f4-b882eca5d604",
           "postDate": "2026-11-07T00:28:54.348Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Super sweet guy, but he has zero idea what he's actually teaching. For a math-heavy class, Prof. Rhatigan can barely do precalc. DO NOT make the mistake of trusting his lectures. I've double-checked his explanations with AI and he's wrong almost every time.",
+          "anonymousIdentifier": "524af93f3e2d5957",
+          "id": "03d507b5-7515-412c-a1a0-438f7814a6a1",
+          "professor": "a546008e-c378-4b50-b7f4-b882eca5d604",
+          "postDate": "2026-11-07T21:44:54.060Z"
         }
       ]
     }
@@ -762786,10 +762799,10 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 22,
-    "overallRating": 2.78,
-    "materialClear": 3.15,
-    "studentDifficulties": 2.85,
+    "numEvals": 23,
+    "overallRating": 2.66,
+    "materialClear": 3.01,
+    "studentDifficulties": 2.77,
     "courses": [
       "EE 201",
       "EE 306",
@@ -762798,9 +762811,9 @@
       "EE 2115"
     ],
     "tags": {
-      "Recorded Lectures": 13,
+      "Recorded Lectures": 14,
       "High In-Person Availability": 1,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "Hybrid Option": 7,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
@@ -763176,6 +763189,23 @@
           "id": "b2c47222-b65c-4135-b5ac-28ab2acfc9e1",
           "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
           "postDate": "2026-10-31T06:31:09.848Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Ridiculously bad. I swear the only thing I\u2019ve actually gotten out of this class so far is voltage divider circuits. The guy just straight-up cannot teach.\nLook at this video https://www.youtube.com/watch?v=R2DuwxbdzAg&list=PLVu-XkeXthqk&index=10  where he took forever trying to explain a basic opamp comparator and still messes it up. I showed it to my uncle who\u2019s an EE, and he literally told me to just ignore everything this guy says. He was laughing so hard at the comparator breakdown that he actually spilled his coffee. His rc circuit explanation at around 16 minute is also wrong. I am posting this here so you can all see that this guy is incapable of teaching basic circuits. He also takes forever to grade our work.\nHis whole teaching style is just scribbling and circling all over his slides while pulling random, awful explanations out of nowhere. The only win here is that after our feedback, he turned all the exams into open-note. So at least we got that going for us.",
+          "tags": [
+            "Uploads Slides",
+            "Recorded Lectures"
+          ],
+          "anonymousIdentifier": "524af93f3e2d5957",
+          "id": "21907c77-b981-48e7-941f-e41d5d8ccfbb",
+          "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
+          "postDate": "2026-11-07T23:19:26.870Z"
         }
       ]
     }
