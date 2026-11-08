@@ -366659,10 +366659,10 @@
     "department": "ENGL",
     "firstName": "Leslie",
     "lastName": "St. John",
-    "numEvals": 62,
-    "overallRating": 3.31,
-    "materialClear": 3.29,
-    "studentDifficulties": 3.24,
+    "numEvals": 63,
+    "overallRating": 3.32,
+    "materialClear": 3.3,
+    "studentDifficulties": 3.25,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -366670,7 +366670,8 @@
       "ENGL 386",
       "AEPS 388",
       "ENGL 388",
-      "ENGL 3388"
+      "ENGL 3388",
+      "ENGL 2253"
     ],
     "tags": {
       "Zoom Office Hours": 2,
@@ -366684,7 +366685,8 @@
       "Inflexible Grading Policy": 1,
       "Supplemental Study Material": 1,
       "Does Not Use Canvas": 1,
-      "Fast Response Time": 3
+      "Fast Response Time": 3,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "ENGL 134": [
@@ -367507,6 +367509,24 @@
           "id": "65718b9c-7c68-463d-9927-57db4d6bc7e7",
           "professor": "6447729f-af52-475c-bcd9-423d918998f1",
           "postDate": "2026-10-26T18:25:56.043Z"
+        }
+      ],
+      "ENGL 2253": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I reccomend this class. I took this course prior to the semester switch, so the course number may look different now, but it was called \"Introduction to Romantic to Modernist literature\". Reflecting back on my time at Cal Poly, this was one of my favorite classes despite it not pertaining to my major (I study science). I admire how passionate Leslie is not only about what she teaches, but also about life; this really helped me stay engaged throughout the class and truly like her not only as a professor but as a person. I also absoultely loved the literature that she picked out for us, which says something because in past english classes I did not always actually do the reading... Overall I thought she brought a special and healing energy to the room and I felt this even more through the course work. Wonderful class and professor.",
+          "tags": [
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "78508e4eba346d57",
+          "id": "9c0585df-455f-4ca9-9c9a-1b5ca5dc7ad2",
+          "professor": "6447729f-af52-475c-bcd9-423d918998f1",
+          "postDate": "2026-11-08T09:19:45.776Z"
         }
       ]
     }
@@ -762799,10 +762819,10 @@
     "department": "EE",
     "firstName": "Hiren",
     "lastName": "Trada",
-    "numEvals": 23,
-    "overallRating": 2.66,
-    "materialClear": 3.01,
-    "studentDifficulties": 2.77,
+    "numEvals": 24,
+    "overallRating": 2.59,
+    "materialClear": 2.97,
+    "studentDifficulties": 2.7,
     "courses": [
       "EE 201",
       "EE 306",
@@ -762811,10 +762831,10 @@
       "EE 2115"
     ],
     "tags": {
-      "Recorded Lectures": 14,
+      "Recorded Lectures": 15,
       "High In-Person Availability": 1,
-      "Uploads Slides": 7,
-      "Hybrid Option": 7,
+      "Uploads Slides": 8,
+      "Hybrid Option": 8,
       "Fast Response Time": 4,
       "Flexible Grading Policy": 1,
       "Class Handouts": 1,
@@ -763206,6 +763226,24 @@
           "id": "21907c77-b981-48e7-941f-e41d5d8ccfbb",
           "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
           "postDate": "2026-11-07T23:19:26.870Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Nice guy, just cannot convey an idea to the class clearly so that we can solve a problem. Trada spends way too long circling and explaining vague concepts, then will throw a problem at you with no actual clear guidance because he'd spent so long on the theory. The midterm average was atrocious, and this class genuinely just feels like a trudge till the end. Wish I could've learned more but man, it has been so difficult to build any problem solving skills because the MAJORITY of our classes have been pure theory with no actual implementation. Felt like he'd teach a concept and then move onto the next one with no actual practice. Props to him for at least pausing for questions, but in reality, hardly anybody even knew what they were looking at enough to ASK a formative question! The silence was loud when he asked if there were any questions.",
+          "tags": [
+            "Uploads Slides",
+            "Recorded Lectures",
+            "Hybrid Option"
+          ],
+          "anonymousIdentifier": "48bbd904a0abfb13",
+          "id": "fd4c6067-0b50-4a2d-8d29-f518a36cde9f",
+          "professor": "d6989d6e-4fe7-4d47-b978-76e28b3566e9",
+          "postDate": "2026-11-08T07:25:19.675Z"
         }
       ]
     }
