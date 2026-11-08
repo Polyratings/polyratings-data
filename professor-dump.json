@@ -609673,10 +609673,10 @@
     "department": "EE",
     "firstName": "Brendan",
     "lastName": "Rhatigan",
-    "numEvals": 23,
-    "overallRating": 3.53,
-    "materialClear": 3.48,
-    "studentDifficulties": 3.75,
+    "numEvals": 24,
+    "overallRating": 3.38,
+    "materialClear": 3.34,
+    "studentDifficulties": 3.68,
     "courses": [
       "EE 242",
       "EE 201",
@@ -609687,13 +609687,13 @@
     "tags": {
       "Fast Response Time": 2,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 4,
+      "Flexible Attendance Policy": 5,
       "Class Handouts": 1,
       "Uploads Slides": 4,
       "High In-Person Availability": 2,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Honor DRC Accommodations": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 2
     },
     "reviews": {
       "EE 242": [
@@ -610039,6 +610039,24 @@
           "id": "03d507b5-7515-412c-a1a0-438f7814a6a1",
           "professor": "a546008e-c378-4b50-b7f4-b882eca5d604",
           "postDate": "2026-11-07T21:44:54.060Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "My recommendation for Rhatigan is that he enroll in Calc I and Calc II before he decides to teach this class again. I cannot imagine what made him think that he is fit to teach this class and who in EE leadership thought he is fit to teach this class.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "18ad46b213841e2c",
+          "id": "9d12d26d-64c9-4959-97c1-f8668b1c926b",
+          "professor": "a546008e-c378-4b50-b7f4-b882eca5d604",
+          "postDate": "2026-11-08T16:12:49.705Z"
         }
       ]
     }
