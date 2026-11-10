@@ -2701,15 +2701,21 @@
     "department": "IME",
     "firstName": "Alessandro",
     "lastName": "Hill",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 2,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "IME 305",
-      "IME 520"
+      "IME 520",
+      "IME 3420"
     ],
-    "tags": {}
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    }
   },
   {
     "id": "0d0f9438-6115-407d-88ec-b1f0302dd49d",
@@ -4116,10 +4122,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 65,
-    "overallRating": 1.47,
-    "materialClear": 1.93,
-    "studentDifficulties": 2.66,
+    "numEvals": 66,
+    "overallRating": 1.46,
+    "materialClear": 1.96,
+    "studentDifficulties": 2.62,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -4129,18 +4135,19 @@
       "MATH 1411"
     ],
     "tags": {
-      "Flexible Attendance Policy": 11,
-      "Class Handouts": 23,
+      "Flexible Attendance Policy": 12,
+      "Class Handouts": 24,
       "Inflexible Grading Policy": 14,
       "Zoom Office Hours": 4,
       "Supplemental Study Material": 10,
       "Fast Response Time": 5,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Deadline Policy": 9,
+      "Inflexible Deadline Policy": 10,
       "No Breaks During Lecture": 5,
       "High In-Person Availability": 3,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 1
     }
   },
   {
@@ -12926,10 +12933,10 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Descamps",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "PHYS 1141"
     ],
@@ -12938,9 +12945,11 @@
       "Class Handouts": 2,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -36099,23 +36108,24 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "O'Leary",
-    "numEvals": 28,
+    "numEvals": 29,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
-      "COMS 421"
+      "COMS 421",
+      "COMS 4421"
     ],
     "tags": {
       "Hybrid Option": 1,
       "Fast Response Time": 15,
       "Flexible Grading Policy": 6,
-      "Zoom Office Hours": 17,
+      "Zoom Office Hours": 18,
       "High In-Person Availability": 1,
       "Recorded Lectures": 4,
-      "Uploads Slides": 4,
-      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 5,
+      "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 3
     }
   },
@@ -39781,24 +39791,26 @@
     "department": "FSN",
     "firstName": "Mary Beth",
     "lastName": "Brumit",
-    "numEvals": 10,
-    "overallRating": 3.9,
-    "materialClear": 3.9,
+    "numEvals": 11,
+    "overallRating": 3.91,
+    "materialClear": 3.91,
     "studentDifficulties": 4,
     "courses": [
       "FSN 305",
       "FSN 202",
-      "FSN 250"
+      "FSN 250",
+      "FSN 3305"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 6,
-      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 7,
+      "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 3,
       "Fast Response Time": 2,
       "Class Handouts": 1,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -42295,10 +42307,10 @@
     "department": "IME",
     "firstName": "Trian",
     "lastName": "Georgeou",
-    "numEvals": 29,
-    "overallRating": 3.73,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.77,
+    "numEvals": 30,
+    "overallRating": 3.64,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.71,
     "courses": [
       "IME 140",
       "IME 142",
@@ -42306,15 +42318,17 @@
       "IME 144",
       "IME 145",
       "IME 335",
-      "IME 146"
+      "IME 146",
+      "IME 1143"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "High In-Person Availability": 2,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -48715,10 +48729,10 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 5,
-    "overallRating": 1.4,
-    "materialClear": 0.6,
-    "studentDifficulties": 1.6,
+    "numEvals": 6,
+    "overallRating": 1.33,
+    "materialClear": 0.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "CPE 2300"
     ],
@@ -48727,11 +48741,13 @@
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 0,
       "Does Not Use Canvas": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     }
   },
   {

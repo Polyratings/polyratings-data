@@ -45408,15 +45408,21 @@
     "department": "IME",
     "firstName": "Alessandro",
     "lastName": "Hill",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.5,
+    "numEvals": 3,
+    "overallRating": 2,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.67,
     "courses": [
       "IME 305",
-      "IME 520"
+      "IME 520",
+      "IME 3420"
     ],
-    "tags": {},
+    "tags": {
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Flexible Attendance Policy": 1,
+      "Uploads Slides": 1
+    },
     "reviews": {
       "IME 305": [
         {
@@ -45445,6 +45451,27 @@
           "id": "444e9d0d-0e48-446e-a36d-2f516492321f",
           "professor": "0cd9fc81-f2c3-4435-93ae-6773db1310d4",
           "postDate": "Thu Jun 04 2026 20:54:45 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "IME 3420": [
+        {
+          "grade": "B",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Tragically immature professor. Not liked in the department by multiple professors for a reason. Acts like a child, feelings get hurt easiliy. Class is easy and slow and his lectures are usually unhelpful tangents on side projects he worked on during his career. Picks favorites, fragile ego, not open-minded. If he doesn't like you he will make it known.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Flexible Attendance Policy",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "06ca9b707eef997e",
+          "id": "45c863e9-1a36-41cf-a783-9019888d1560",
+          "professor": "0cd9fc81-f2c3-4435-93ae-6773db1310d4",
+          "postDate": "2026-11-10T20:15:12.238Z"
         }
       ]
     }
@@ -70806,10 +70833,10 @@
     "department": "MATH",
     "firstName": "Kathryn",
     "lastName": "Voltmer",
-    "numEvals": 65,
-    "overallRating": 1.47,
-    "materialClear": 1.93,
-    "studentDifficulties": 2.66,
+    "numEvals": 66,
+    "overallRating": 1.46,
+    "materialClear": 1.96,
+    "studentDifficulties": 2.62,
     "courses": [
       "MATH 141",
       "MATH 119",
@@ -70819,18 +70846,19 @@
       "MATH 1411"
     ],
     "tags": {
-      "Flexible Attendance Policy": 11,
-      "Class Handouts": 23,
+      "Flexible Attendance Policy": 12,
+      "Class Handouts": 24,
       "Inflexible Grading Policy": 14,
       "Zoom Office Hours": 4,
       "Supplemental Study Material": 10,
       "Fast Response Time": 5,
       "Flexible Grading Policy": 1,
       "Honor DRC Accommodations": 2,
-      "Inflexible Deadline Policy": 9,
+      "Inflexible Deadline Policy": 10,
       "No Breaks During Lecture": 5,
       "High In-Person Availability": 3,
-      "Inflexible Attendance Policy": 2
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 1
     },
     "reviews": {
       "MATH 141": [
@@ -71851,6 +71879,25 @@
           "id": "8155da68-4a37-46f2-b595-ae2493926f61",
           "professor": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
           "postDate": "2026-11-07T02:39:29.186Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 0,
+          "rating": "For me personally, I don't think Voltmer is all that bad. She gives out useful handouts/notes and sometimes she gives us problems she wants us to try in class. Her canvas is very simple and clear. If you ask her a question in class, she'll help you understand it and work through the problem with you (somewhat). However, I do see why the other ratings are low. Her homework can be lengthy and its due on Sundays and if you fail to upload it or upload it wrong shes not going to accept it. Her grading on quizzes/exams are rough and she barely gives partial credit. She also very rude and condescending when I went to her office hours and not understanding at all. I would say take another professor if you can but I wouldn't say it's the end of the world if you have to take her.",
+          "tags": [
+            "Class Handouts",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "e65331800f6aca37",
+          "id": "fc9f04cd-b313-49c1-961b-cd98e6f60bec",
+          "professor": "12d08ffe-e871-4689-a84d-f5d18d5d081b",
+          "postDate": "2026-11-10T19:35:25.642Z"
         }
       ]
     }
@@ -220655,10 +220702,10 @@
     "department": "PHYS",
     "firstName": "Ian",
     "lastName": "Descamps",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 3,
+    "numEvals": 3,
+    "overallRating": 2.33,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.67,
     "courses": [
       "PHYS 1141"
     ],
@@ -220667,9 +220714,11 @@
       "Class Handouts": 2,
       "Flexible Grading Policy": 1,
       "High In-Person Availability": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Supplemental Study Material": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Honor DRC Accommodations": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "PHYS 1141": [
@@ -220709,6 +220758,25 @@
           "id": "0b7ca5fd-49dd-49c4-9bd2-4e95bd9df18a",
           "professor": "3d89d2ab-e3c6-4613-8c1c-591ef83a33d0",
           "postDate": "2026-10-29T20:13:10.912Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "This is his first year teaching and you can definitely tell. He is trying his best but his class is sometimes a bit unorganized and he is hard to reach, as he does not regularly respond to emails. He definitely cares a lot and is willing to help out in office hours, but overall, this class could definitely use some work.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "4a2e6d89c1c73816",
+          "id": "623a75d1-cd53-4064-92b4-c6388de6f98d",
+          "professor": "3d89d2ab-e3c6-4613-8c1c-591ef83a33d0",
+          "postDate": "2026-11-10T22:01:43.016Z"
         }
       ]
     }
@@ -633558,23 +633626,24 @@
     "department": "COMS",
     "firstName": "Danielle",
     "lastName": "O'Leary",
-    "numEvals": 28,
+    "numEvals": 29,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
       "COMS 101",
-      "COMS 421"
+      "COMS 421",
+      "COMS 4421"
     ],
     "tags": {
       "Hybrid Option": 1,
       "Fast Response Time": 15,
       "Flexible Grading Policy": 6,
-      "Zoom Office Hours": 17,
+      "Zoom Office Hours": 18,
       "High In-Person Availability": 1,
       "Recorded Lectures": 4,
-      "Uploads Slides": 4,
-      "Inflexible Attendance Policy": 1,
+      "Uploads Slides": 5,
+      "Inflexible Attendance Policy": 2,
       "Flexible Deadline Policy": 3
     },
     "reviews": {
@@ -634035,6 +634104,26 @@
           "id": "fe86f6d4-d021-403d-afea-ffd34710ad71",
           "professor": "ada72be3-42ac-4349-97b8-ee146d128174",
           "postDate": "Fri Mar 13 2026 03:52:39 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "COMS 4421": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "She is an incredible professor. Especially considering she is a virtual/synchronous lecturer. I've learned so much from taking her Gender and Communication course, and it is SO APPLICABLE. She is such a caring, knowledgable, and considerate person. Take her if you can!",
+          "tags": [
+            "Zoom Office Hours",
+            "Uploads Slides",
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "da4e8e0a9ff18a3e",
+          "id": "a16c0326-5261-4f12-9671-3151911feaa8",
+          "professor": "ada72be3-42ac-4349-97b8-ee146d128174",
+          "postDate": "2026-11-10T20:46:51.826Z"
         }
       ]
     }
@@ -696665,24 +696754,26 @@
     "department": "FSN",
     "firstName": "Mary Beth",
     "lastName": "Brumit",
-    "numEvals": 10,
-    "overallRating": 3.9,
-    "materialClear": 3.9,
+    "numEvals": 11,
+    "overallRating": 3.91,
+    "materialClear": 3.91,
     "studentDifficulties": 4,
     "courses": [
       "FSN 305",
       "FSN 202",
-      "FSN 250"
+      "FSN 250",
+      "FSN 3305"
     ],
     "tags": {
-      "Flexible Attendance Policy": 1,
-      "Uploads Slides": 6,
-      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 2,
+      "Uploads Slides": 7,
+      "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 3,
       "Fast Response Time": 2,
       "Class Handouts": 1,
       "Flexible Grading Policy": 2,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "FSN 305": [
@@ -696852,6 +696943,27 @@
           "id": "fabdab82-aee0-4090-ba78-f2add406b47d",
           "professor": "c1a450ee-54f9-4dac-8ed0-43f0d27e5705",
           "postDate": "Fri Mar 13 2026 20:03:23 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "FSN 3305": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Take this class. Really chill and easy. She has an adorable dog she sometimes brings to class. Passionate about Nutrition and I took away a lot of content from it. Left more aware of food, wellness, aging. Go to lecture and take notes, there is weekly assignments due sunday nights, but you can finish them in class. Exams are online and take-home. Took if for my upper div science and my gpa is glad.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "f7f036b801991ea0",
+          "id": "5997abd3-5ba3-4dbe-a928-ec6ab4032eac",
+          "professor": "c1a450ee-54f9-4dac-8ed0-43f0d27e5705",
+          "postDate": "2026-11-10T21:42:40.470Z"
         }
       ]
     }
@@ -741977,10 +742089,10 @@
     "department": "IME",
     "firstName": "Trian",
     "lastName": "Georgeou",
-    "numEvals": 29,
-    "overallRating": 3.73,
-    "materialClear": 3.78,
-    "studentDifficulties": 3.77,
+    "numEvals": 30,
+    "overallRating": 3.64,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.71,
     "courses": [
       "IME 140",
       "IME 142",
@@ -741988,15 +742100,17 @@
       "IME 144",
       "IME 145",
       "IME 335",
-      "IME 146"
+      "IME 146",
+      "IME 1143"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "High In-Person Availability": 2,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "IME 140": [
@@ -742387,6 +742501,26 @@
           "id": "0f03cde1-3900-4322-bcd0-393c26abcf42",
           "professor": "cf9327f9-d768-40d7-8408-9beed4ece604",
           "postDate": "Fri Jun 09 2023 00:09:19 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "IME 1143": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 2,
+          "rating": "genuinely just an annoying dude. long story short, this class is supposed to be easy and light (as it\u2019s two units), but he\u2019s stuckup and wants to feel important, so he makes it annoyingly hard because people don\u2019t take him seriously. Attendance is mandatory, and he\u2019s a dihhead about it.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "e007a207cdf5104a",
+          "id": "f64316b7-ce35-4eb0-9a0c-46f9cc436b1f",
+          "professor": "cf9327f9-d768-40d7-8408-9beed4ece604",
+          "postDate": "2026-11-10T20:04:27.577Z"
         }
       ]
     }
@@ -850466,10 +850600,10 @@
     "department": "CPE",
     "firstName": "Muhammad",
     "lastName": "Yasin",
-    "numEvals": 5,
-    "overallRating": 1.4,
-    "materialClear": 0.6,
-    "studentDifficulties": 1.6,
+    "numEvals": 6,
+    "overallRating": 1.33,
+    "materialClear": 0.67,
+    "studentDifficulties": 1.67,
     "courses": [
       "CPE 2300"
     ],
@@ -850478,11 +850612,13 @@
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 0,
       "Does Not Use Canvas": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Class Handouts": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1
     },
     "reviews": {
       "CPE 2300": [
@@ -850560,6 +850696,25 @@
           "id": "b72615d3-438c-4fee-956c-ae0107df32e1",
           "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
           "postDate": "2026-11-04T05:07:57.142Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "First of all, I will say he is nice dude and very understanding person. There were times I missed a quiz and even a midterm and he allowed me to make it up without any reductions so that was pretty nice. He also uses html (it is made with AI) to help prepare for quizzes/class work which is very nice and helpful. However, his teaching is very unclear and its hard to understand what he is talking about. Half of the class stopped showing up just because the lecture is not really helpful. The canvas is also very unorganized so its hard to keep track of what we are doing currently. My recommendation is to avoid and take another professor if you want to learn this subject.",
+          "tags": [
+            "Fast Response Time",
+            "Flexible Attendance Policy",
+            "Uploads Slides",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "e65331800f6aca37",
+          "id": "411f3e2b-1d50-4127-90eb-3529f310ece1",
+          "professor": "f00cadb7-c30d-44b0-a2c6-62c01010fc2b",
+          "postDate": "2026-11-10T19:18:42.091Z"
         }
       ]
     }
