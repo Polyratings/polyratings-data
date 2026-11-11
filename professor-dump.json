@@ -499808,10 +499808,10 @@
     "department": "BIO",
     "firstName": "Aubrey",
     "lastName": "Davis",
-    "numEvals": 25,
-    "overallRating": 2.21,
-    "materialClear": 1.94,
-    "studentDifficulties": 2.28,
+    "numEvals": 26,
+    "overallRating": 2.13,
+    "materialClear": 1.87,
+    "studentDifficulties": 2.19,
     "courses": [
       "BIO 161",
       "BIO 1151"
@@ -500232,6 +500232,19 @@
           "id": "87503f6b-9a32-4088-93c4-b8fdab4fe1c6",
           "professor": "869c0e34-fe4b-4e79-8853-42e71202fe1c",
           "postDate": "2026-10-17T06:29:02.370Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "All these good reviews are teachers pets. she is awful. most horrible lecturer and lab prof",
+          "anonymousIdentifier": "6633e8925848373d",
+          "id": "ee9242f5-ff7c-49e9-89ef-505a3e051337",
+          "professor": "869c0e34-fe4b-4e79-8853-42e71202fe1c",
+          "postDate": "2026-11-11T11:14:43.263Z"
         }
       ]
     }
