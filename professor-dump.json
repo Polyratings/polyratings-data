@@ -203114,12 +203114,13 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 14,
-    "overallRating": 3.93,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.79,
+    "numEvals": 15,
+    "overallRating": 3.8,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.6,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 3399"
     ],
     "tags": {
       "Flexible Attendance Policy": 6,
@@ -203127,7 +203128,8 @@
       "Uploads Slides": 6,
       "Flexible Deadline Policy": 4,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 2,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "BUS 391": [
@@ -203349,6 +203351,24 @@
           "id": "31d9640f-aeaf-44fc-8941-2190bbafd903",
           "professor": "36c9036d-6ae2-4dff-ae74-8213ca6f24e1",
           "postDate": "Wed Apr 29 2026 19:23:43 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 3399": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Try to take Hingle if possible, heard he was much easier. Not a hard class but a lot of unnecessary work with the online labs taking 2-3 hours each time. Also cancelled class once without explanation 3 minutes before the class started and a lot of ppl had to drive back home. He also doesn't answer emails",
+          "tags": [
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "091d4a1ed63e8320",
+          "id": "f8987ef8-86e1-44b2-9ced-fab2f18708a4",
+          "professor": "36c9036d-6ae2-4dff-ae74-8213ca6f24e1",
+          "postDate": "2026-11-10T23:43:25.225Z"
         }
       ]
     }
@@ -797979,28 +797999,30 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 22,
-    "overallRating": 1.91,
-    "materialClear": 1.32,
-    "studentDifficulties": 2,
+    "numEvals": 23,
+    "overallRating": 2,
+    "materialClear": 1.44,
+    "studentDifficulties": 2.09,
     "courses": [
       "WGS 201",
-      "WGQS 2268"
+      "WGQS 2268",
+      "WGQS 2201"
     ],
     "tags": {
       "Recorded Lectures": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 4,
+      "Flexible Deadline Policy": 5,
       "Hybrid Option": 7,
-      "Inflexible Attendance Policy": 3,
-      "Flexible Grading Policy": 3,
+      "Inflexible Attendance Policy": 4,
+      "Flexible Grading Policy": 4,
       "Flexible Attendance Policy": 3,
       "Zoom Office Hours": 3,
       "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 3,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     },
     "reviews": {
       "WGS 201": [
@@ -798359,6 +798381,27 @@
           "id": "3cf18ea5-4e59-438e-a331-e856664332d6",
           "professor": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
           "postDate": "Sun Oct 11 2026 19:48:50 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "WGQS 2201": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Ignore the bad reviews, people either take the class seriously or are literally too lazy to use AI. This is literally the easiest class I've ever taken. She expects you to read an absurd amount of material and yaps all class but just use AI bro. Take this class. Free A for a GE you have to go to once a week.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "cd227569b3a68a51",
+          "id": "3472e1ab-b69d-43ab-ace2-3b73e038ff50",
+          "professor": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
+          "postDate": "2026-11-11T01:32:09.091Z"
         }
       ]
     }

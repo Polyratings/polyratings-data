@@ -11780,12 +11780,13 @@
     "department": "BUS",
     "firstName": "William",
     "lastName": "Harrison",
-    "numEvals": 14,
-    "overallRating": 3.93,
-    "materialClear": 3.72,
-    "studentDifficulties": 3.79,
+    "numEvals": 15,
+    "overallRating": 3.8,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.6,
     "courses": [
-      "BUS 391"
+      "BUS 391",
+      "BUS 3399"
     ],
     "tags": {
       "Flexible Attendance Policy": 6,
@@ -11793,7 +11794,8 @@
       "Uploads Slides": 6,
       "Flexible Deadline Policy": 4,
       "Flexible Grading Policy": 1,
-      "Supplemental Study Material": 2
+      "Supplemental Study Material": 2,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -45764,28 +45766,30 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 22,
-    "overallRating": 1.91,
-    "materialClear": 1.32,
-    "studentDifficulties": 2,
+    "numEvals": 23,
+    "overallRating": 2,
+    "materialClear": 1.44,
+    "studentDifficulties": 2.09,
     "courses": [
       "WGS 201",
-      "WGQS 2268"
+      "WGQS 2268",
+      "WGQS 2201"
     ],
     "tags": {
       "Recorded Lectures": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 4,
+      "Flexible Deadline Policy": 5,
       "Hybrid Option": 7,
-      "Inflexible Attendance Policy": 3,
-      "Flexible Grading Policy": 3,
+      "Inflexible Attendance Policy": 4,
+      "Flexible Grading Policy": 4,
       "Flexible Attendance Policy": 3,
       "Zoom Office Hours": 3,
       "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 1,
       "No Breaks During Lecture": 3,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Uploads Slides": 1
     }
   },
   {
