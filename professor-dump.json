@@ -592674,20 +592674,23 @@
     "department": "CSC",
     "firstName": "Irene",
     "lastName": "Humer",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 2.75,
-    "studentDifficulties": 3,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.8,
     "courses": [
       "CSC 203",
-      "CSC 357"
+      "CSC 357",
+      "CSC 4553"
     ],
     "tags": {
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1,
+      "Flexible Attendance Policy": 2,
       "Inflexible Deadline Policy": 2,
       "Zoom Office Hours": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "CSC 203": [
@@ -592752,6 +592755,26 @@
           "id": "d60aef38-dedb-45f4-ba53-4118ca7f86c1",
           "professor": "a114e164-1a3d-4a3c-af84-6728118dcacd",
           "postDate": "Wed Jun 21 2023 17:19:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 4553": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "wouldn't recommend but there are worse you could take. don't use ai in her class.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "0d25123e14010625",
+          "id": "7da272ef-077f-4f11-b775-e29b2b78c18c",
+          "professor": "a114e164-1a3d-4a3c-af84-6728118dcacd",
+          "postDate": "2026-11-12T07:06:49.921Z"
         }
       ]
     }
@@ -860989,10 +861012,10 @@
     "department": "COMS",
     "firstName": "Maria",
     "lastName": "Subert",
-    "numEvals": 49,
-    "overallRating": 2.64,
-    "materialClear": 2.32,
-    "studentDifficulties": 2.89,
+    "numEvals": 50,
+    "overallRating": 2.59,
+    "materialClear": 2.27,
+    "studentDifficulties": 2.83,
     "courses": [
       "COMS 100",
       "COMS 316",
@@ -861754,6 +861777,19 @@
           "id": "be385e41-c71a-45d0-8a07-05be6a7a17e3",
           "professor": "f2633611-976b-424a-954f-8c2649da095b",
           "postDate": "2026-10-27T05:51:01.178Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "A very poor professor. She does not present on the class material whatsoever. Her biggest aspirations seem to be to become a student again so that she can write essays...imagine how you will be in a class where all the teacher wants to do is write essays. She preaches about AI use and how you shouldn't use it and uses phrases like \"avoid AI like language\" and \"avoid verbose language\" yet its obvious that she uses AI for all of her rubrics and published documents. She cannot form complete English sentences and will only answer like one question if you ask her multiple. Do not take this class or this professor. She will make this class your most difficult class for no reason. Save yourself and tale a different USCP.",
+          "anonymousIdentifier": "fdf9b820744296da",
+          "id": "faf05dcd-c909-4f2a-af35-5a0d3b8d4eba",
+          "professor": "f2633611-976b-424a-954f-8c2649da095b",
+          "postDate": "2026-11-12T06:56:10.848Z"
         }
       ]
     }
@@ -890808,7 +890844,7 @@
     "department": "MATH",
     "firstName": "Jeffrey",
     "lastName": "Gervasi",
-    "numEvals": 85,
+    "numEvals": 86,
     "overallRating": 3.77,
     "materialClear": 3.84,
     "studentDifficulties": 3.75,
@@ -890825,19 +890861,20 @@
       "MATH 1262"
     ],
     "tags": {
-      "Zoom Office Hours": 32,
+      "Zoom Office Hours": 33,
       "Fast Response Time": 16,
       "Supplemental Study Material": 5,
       "Recorded Lectures": 3,
       "Honor DRC Accommodations": 1,
       "Flexible Grading Policy": 4,
-      "Flexible Attendance Policy": 11,
+      "Flexible Attendance Policy": 12,
       "Class Handouts": 1,
       "Inflexible Grading Policy": 3,
       "High In-Person Availability": 2,
-      "Does Not Use Canvas": 2,
+      "Does Not Use Canvas": 3,
       "Uploads Slides": 2,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "MATH 118": [
@@ -892069,6 +892106,25 @@
           "id": "7624b653-1413-42e1-97e9-0aeb9d563544",
           "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
           "postDate": "2026-10-24T07:24:07.396Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Greatest professor ever. I woke up 30 minutes late and still showed up to class and he was joyous to see me. He remembers your name, your face, and wants to see you succeed. He writes on the chalkboard so if you miss the lecture it\u2019s gone, but he explains from the textbook very clearly and you can just read textbook to make it up. Homework is optional and he doesn\u2019t grade it. Quizzes and tests make up your grade but he\u2019s very generous and he\u2019s so chill. Love how he called us gang and kids. \u2764\ufe0f\u2764\ufe0f\u2764\ufe0f",
+          "tags": [
+            "Zoom Office Hours",
+            "Does Not Use Canvas",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "cf28905185d18d1f",
+          "id": "fdc54ed3-7197-4df7-8d82-5f8ca1959a91",
+          "professor": "fa4c324a-d864-46d0-b151-1dbadf750ac9",
+          "postDate": "2026-11-12T06:12:25.745Z"
         }
       ],
       "MATH 1262": [
