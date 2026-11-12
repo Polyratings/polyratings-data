@@ -6316,14 +6316,15 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 72,
+    "numEvals": 73,
     "overallRating": 3.74,
     "materialClear": 3.77,
     "studentDifficulties": 3.75,
     "courses": [
       "ART 112",
       "ART 212",
-      "ART 371"
+      "ART 371",
+      "ART 3321"
     ],
     "tags": {
       "Supplemental Study Material": 7,
@@ -9874,20 +9875,21 @@
     "department": "WGS",
     "firstName": "Ceylan",
     "lastName": "Cemali",
-    "numEvals": 13,
-    "overallRating": 2.62,
-    "materialClear": 2.15,
-    "studentDifficulties": 2.38,
+    "numEvals": 14,
+    "overallRating": 2.5,
+    "materialClear": 2.07,
+    "studentDifficulties": 2.42,
     "courses": [
-      "WGS 145"
+      "WGS 145",
+      "WGQS 1145"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 4,
       "Honor DRC Accommodations": 2,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     }
   },
   {
@@ -12348,23 +12350,26 @@
     "department": "KINE",
     "firstName": "Jafra",
     "lastName": "Thomas",
-    "numEvals": 5,
-    "overallRating": 1.8,
-    "materialClear": 1.4,
-    "studentDifficulties": 2.2,
+    "numEvals": 6,
+    "overallRating": 1.67,
+    "materialClear": 1.33,
+    "studentDifficulties": 2.17,
     "courses": [
       "KINE 278",
       "HLTH 405",
       "KINE 323",
-      "KINE 3325"
+      "KINE 3325",
+      "KINE 3323"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Uploads Slides": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -38473,24 +38478,27 @@
     "department": "SOC",
     "firstName": "Lata",
     "lastName": "Murti",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3.75,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
       "SOC 305",
       "SOC 323",
-      "SOC 311"
+      "SOC 311",
+      "SOC 3311"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Class Handouts": 1,
       "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -47372,10 +47380,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 46,
-    "overallRating": 2.87,
-    "materialClear": 2.89,
-    "studentDifficulties": 3.02,
+    "numEvals": 47,
+    "overallRating": 2.89,
+    "materialClear": 2.91,
+    "studentDifficulties": 3.04,
     "courses": [
       "CHEM 312",
       "CHEM 127",
@@ -47385,11 +47393,11 @@
       "CHEM 2242"
     ],
     "tags": {
-      "High In-Person Availability": 19,
+      "High In-Person Availability": 20,
       "Fast Response Time": 12,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 23,
+      "Uploads Slides": 24,
       "Supplemental Study Material": 5,
       "Pop Quizzes": 11,
       "Inflexible Grading Policy": 6,
@@ -48602,22 +48610,25 @@
     "department": "ARCH",
     "firstName": "Casey",
     "lastName": "Benito",
-    "numEvals": 14,
-    "overallRating": 1,
-    "materialClear": 0.79,
-    "studentDifficulties": 1.22,
+    "numEvals": 15,
+    "overallRating": 0.93,
+    "materialClear": 0.74,
+    "studentDifficulties": 1.14,
     "courses": [
       "ARCH 132",
       "ARCH 133",
       "ARCH 252",
-      "ARCH 253"
+      "ARCH 253",
+      "ARCH 4544"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Attendance Policy": 4,
+      "Inflexible Deadline Policy": 3,
       "Pop Quizzes": 2,
       "Honor DRC Accommodations": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {

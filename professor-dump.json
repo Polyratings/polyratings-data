@@ -105499,14 +105499,15 @@
     "department": "ART",
     "firstName": "Thomas",
     "lastName": "DePasquale",
-    "numEvals": 72,
+    "numEvals": 73,
     "overallRating": 3.74,
     "materialClear": 3.77,
     "studentDifficulties": 3.75,
     "courses": [
       "ART 112",
       "ART 212",
-      "ART 371"
+      "ART 371",
+      "ART 3321"
     ],
     "tags": {
       "Supplemental Study Material": 7,
@@ -106530,6 +106531,21 @@
           "id": "6acbea19-f7ff-444a-85b1-c4b76eafe712",
           "professor": "1c5ab556-0689-4f09-a19d-0dc0f54197e0",
           "postDate": "Thu May 28 2026 22:41:45 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ART 3321": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "im in love with him\u2026\u2026\u2026\u2026\u2026..",
+          "anonymousIdentifier": "85a604f69f80f764",
+          "id": "6a26e4f3-9693-4385-b05e-fcfadf4e0b86",
+          "professor": "1c5ab556-0689-4f09-a19d-0dc0f54197e0",
+          "postDate": "2026-11-12T19:39:48.935Z"
         }
       ]
     }
@@ -170491,20 +170507,21 @@
     "department": "WGS",
     "firstName": "Ceylan",
     "lastName": "Cemali",
-    "numEvals": 13,
-    "overallRating": 2.62,
-    "materialClear": 2.15,
-    "studentDifficulties": 2.38,
+    "numEvals": 14,
+    "overallRating": 2.5,
+    "materialClear": 2.07,
+    "studentDifficulties": 2.42,
     "courses": [
-      "WGS 145"
+      "WGS 145",
+      "WGQS 1145"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 3,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 4,
       "Honor DRC Accommodations": 2,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 2
     },
     "reviews": {
       "WGS 145": [
@@ -170696,6 +170713,26 @@
           "id": "9803a3b9-9414-4b91-9f07-fa9eb541a41c",
           "professor": "2e268f25-57b0-4768-99ab-3a5f2e028fac",
           "postDate": "Mon Jun 29 2026 01:20:28 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "WGQS 1145": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 3,
+          "rating": "This professor grades midterms assignments and exams, too harshly. For your midterm and exam she expects you to just use what you have learned in class not much of your outside knowledge, especially for the midterm where she wants you to just use notes that she gave you from her own perspectiv. In my opinion, unless you know how to type really fast or right she talks too fast and uses big words and doesn't give you enough time to write her question and answer it. She does have daily pops when you take her class and she expects you to submit them the same day as well. She graded off points and you need a 74 to pass with a C. If I could, I would take a different section with a different professor.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "badfd7a4b67790d1",
+          "id": "3e400c0d-de48-4cdf-89e2-315768e090ca",
+          "professor": "2e268f25-57b0-4768-99ab-3a5f2e028fac",
+          "postDate": "2026-11-12T17:00:31.290Z"
         }
       ]
     }
@@ -212498,23 +212535,26 @@
     "department": "KINE",
     "firstName": "Jafra",
     "lastName": "Thomas",
-    "numEvals": 5,
-    "overallRating": 1.8,
-    "materialClear": 1.4,
-    "studentDifficulties": 2.2,
+    "numEvals": 6,
+    "overallRating": 1.67,
+    "materialClear": 1.33,
+    "studentDifficulties": 2.17,
     "courses": [
       "KINE 278",
       "HLTH 405",
       "KINE 323",
-      "KINE 3325"
+      "KINE 3325",
+      "KINE 3323"
     ],
     "tags": {
       "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "No Breaks During Lecture": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Uploads Slides": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1
     },
     "reviews": {
       "KINE 278": [
@@ -212601,6 +212641,27 @@
           "id": "8de8627c-8d1b-4a9e-8b12-ecaf398d034f",
           "professor": "3a022846-d480-43a2-bd7f-da9f165b2f5b",
           "postDate": "Thu Oct 01 2026 00:16:55 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "KINE 3323": [
+        {
+          "grade": "C",
+          "gradeLevel": "Junior",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "I took his course asynchronous because I needed to fulfill an upper GE and I wasn\u2019t expecting it to be an easy course but it was way worse than I thought. Each week there is one lengthy writing assignment which isn\u2019t terrible but his grading was another story. I spent good hours on the assignments and went based on the rubric and felt I did decent, but on most of my assignments I received a C and maybe a B- if I was lucky and got very little feedback as to why. So if you are looking for an easy A for a GE, don\u2019t take this class with him because you will most likely barely pass :)",
+          "tags": [
+            "Hybrid Option",
+            "Zoom Office Hours",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "b04fa3306a101247",
+          "id": "5cc5da29-9d1f-4160-8577-368fbd0403df",
+          "professor": "3a022846-d480-43a2-bd7f-da9f165b2f5b",
+          "postDate": "2026-11-12T19:19:03.841Z"
         }
       ]
     }
@@ -673233,24 +673294,27 @@
     "department": "SOC",
     "firstName": "Lata",
     "lastName": "Murti",
-    "numEvals": 4,
-    "overallRating": 3.25,
-    "materialClear": 3.75,
-    "studentDifficulties": 4,
+    "numEvals": 5,
+    "overallRating": 3,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.8,
     "courses": [
       "SOC 305",
       "SOC 323",
-      "SOC 311"
+      "SOC 311",
+      "SOC 3311"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
-      "Flexible Deadline Policy": 1,
+      "Flexible Deadline Policy": 2,
       "Class Handouts": 1,
       "Flexible Grading Policy": 2,
-      "Flexible Attendance Policy": 1,
-      "No Breaks During Lecture": 1
+      "Flexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Hybrid Option": 1,
+      "Zoom Office Hours": 1
     },
     "reviews": {
       "SOC 305": [
@@ -673323,6 +673387,28 @@
           "id": "aff24340-9c34-4c76-bcf9-0d6d54c883ce",
           "professor": "ba88ca7a-7922-4899-a0d2-66e26e2034d7",
           "postDate": "Wed Jun 17 2026 07:52:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "SOC 3311": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "So I\u2019ll start by saying Dr. Murti is such sweet and kind person and she\u2019s very understanding and open minded. However this class is probably the most boring and pointless class i\u2019ve taken. I understand that this class may be more interesting to certain students depending on what you\u2019re interested in. Every single class is the same outline - she talks for 10ish minutes then we get in groups and work on a discussion post that takes 5-10 min and then we talk and share as a class and it goes the whole 2 hours when all of it could be done in under an hour. We basically \u201ctaught\u201d ourselves and I still didn\u2019t retain any of the info. She also talks very slowly and monotone and says \u201cum\u201d every few words which for me was very hard to listen to. Overall I took this class because it was a pre requisite but I wish I didn\u2019t have to. I didn\u2019t learn anything new from this class, didn\u2019t do many of the readings, skipped a couple of classes, and I still ended with an 100%.  Again nothing against her but her class and teaching are not very beneficial. Class felt like a waste of time and money.",
+          "tags": [
+            "Hybrid Option",
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "76b9f54647f99a64",
+          "id": "e8ef0ec4-e1cc-476c-9827-ff84a7bb1049",
+          "professor": "ba88ca7a-7922-4899-a0d2-66e26e2034d7",
+          "postDate": "2026-11-12T18:35:57.487Z"
         }
       ]
     }
@@ -824883,10 +824969,10 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 46,
-    "overallRating": 2.87,
-    "materialClear": 2.89,
-    "studentDifficulties": 3.02,
+    "numEvals": 47,
+    "overallRating": 2.89,
+    "materialClear": 2.91,
+    "studentDifficulties": 3.04,
     "courses": [
       "CHEM 312",
       "CHEM 127",
@@ -824896,11 +824982,11 @@
       "CHEM 2242"
     ],
     "tags": {
-      "High In-Person Availability": 19,
+      "High In-Person Availability": 20,
       "Fast Response Time": 12,
       "Class Handouts": 2,
       "Flexible Attendance Policy": 2,
-      "Uploads Slides": 23,
+      "Uploads Slides": 24,
       "Supplemental Study Material": 5,
       "Pop Quizzes": 11,
       "Inflexible Grading Policy": 6,
@@ -825667,6 +825753,23 @@
           "id": "7bf016b4-f240-4174-ab0c-56a6334db2ca",
           "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
           "postDate": "2026-11-02T22:08:02.826Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Went to Professor Hartung's office hours because I didn't understand the material. She explained it perfectly, fixed my confidence, complimented my reasoning, and sent me on my way. Oh. That's mother. My actual mother will be informed of the custody change.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "e6f0e59dea093830",
+          "id": "1484315f-a461-4dbc-b45a-99de1afa0400",
+          "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
+          "postDate": "2026-11-12T21:58:18.582Z"
         }
       ]
     }
@@ -848850,22 +848953,25 @@
     "department": "ARCH",
     "firstName": "Casey",
     "lastName": "Benito",
-    "numEvals": 14,
-    "overallRating": 1,
-    "materialClear": 0.79,
-    "studentDifficulties": 1.22,
+    "numEvals": 15,
+    "overallRating": 0.93,
+    "materialClear": 0.74,
+    "studentDifficulties": 1.14,
     "courses": [
       "ARCH 132",
       "ARCH 133",
       "ARCH 252",
-      "ARCH 253"
+      "ARCH 253",
+      "ARCH 4544"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Attendance Policy": 4,
+      "Inflexible Deadline Policy": 3,
       "Pop Quizzes": 2,
       "Honor DRC Accommodations": 1,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "ARCH 132": [
@@ -849072,6 +849178,27 @@
           "id": "feb78161-f265-459c-9837-859700da447d",
           "professor": "ef827255-6ced-4550-8047-d3554eafdc95",
           "postDate": "Sun Jul 12 2026 16:57:15 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ARCH 4544": [
+        {
+          "grade": "B",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I can't even wait until the end of this semester to write this review, thats how terr*ble this guy is. He is a bad lecturer, his labs are boring, he grades on a whim and he is generally the worst professor I have had at this school in 5 years. He is intirely incompitent and should not be allowed anywhere near a classroom. He refuses to listen to anyone, especially when he is being unreasonable. He changes due dates and requirements whenever he pleases, and talks down to any student that is not on his good side. honestly, get this guy out of this school, he is already way past his educational expiration date.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "9845b2cc5d6f4aba",
+          "id": "c886664c-7f56-403d-8ad9-b8b33a8743c7",
+          "professor": "ef827255-6ced-4550-8047-d3554eafdc95",
+          "postDate": "2026-11-12T23:29:41.747Z"
         }
       ]
     }
