@@ -49820,17 +49820,18 @@
     "department": "ARCH",
     "firstName": "Ansgar",
     "lastName": "Killing",
-    "numEvals": 22,
-    "overallRating": 2.31,
-    "materialClear": 2.19,
-    "studentDifficulties": 2.31,
+    "numEvals": 23,
+    "overallRating": 2.3,
+    "materialClear": 2.14,
+    "studentDifficulties": 2.25,
     "courses": [
       "ARCH 106",
       "ARCH 251",
       "ARCH 252",
       "ARCH 481",
       "ARCH 241",
-      "ARCH 242"
+      "ARCH 242",
+      "ARCH 2241"
     ],
     "tags": {
       "Inflexible Attendance Policy": 1,
@@ -50118,6 +50119,21 @@
           "id": "795aa9e9-7b94-47ed-a2df-705a0b71f3f3",
           "professor": "0e40a11d-1bea-4b7b-8c4e-448bff923221",
           "postDate": "Thu Apr 02 2026 01:34:12 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ARCH 2241": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I don\u2019t like how he\u2019ll call you out for the littlest thing during class and get angry at you or make you a laughing stock. He doesn\u2019t really present well since he moves too quickly during the activities and assumes everyone is an expert and knows the material. Also he\u2019s very picky about work and needing it to be high quality despite his teaching being terrible.",
+          "anonymousIdentifier": "74a7b4b7b6091a93",
+          "id": "0ead0407-eb73-4892-a6a0-205fc6f1559d",
+          "professor": "0e40a11d-1bea-4b7b-8c4e-448bff923221",
+          "postDate": "2026-11-13T02:23:05.054Z"
         }
       ]
     }
@@ -93491,25 +93507,27 @@
     "department": "ARCE",
     "firstName": "Michael",
     "lastName": "Deigert",
-    "numEvals": 9,
-    "overallRating": 1.78,
-    "materialClear": 2.22,
-    "studentDifficulties": 1.78,
+    "numEvals": 10,
+    "overallRating": 1.6,
+    "materialClear": 2,
+    "studentDifficulties": 1.6,
     "courses": [
       "ARCE 315",
       "ARCE 304",
       "ARCE 212",
       "ARCE 372",
-      "ARCE 371"
+      "ARCE 371",
+      "ARCE 3332"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 2,
-      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 5,
+      "Inflexible Deadline Policy": 3,
+      "Uploads Slides": 4,
       "Pop Quizzes": 1,
       "Zoom Office Hours": 1,
       "High In-Person Availability": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "ARCE 315": [
@@ -93658,6 +93676,27 @@
           "id": "f44cebde-3b7a-4eea-a947-92faeedcb8a9",
           "professor": "18c0da3f-930c-423b-8eaa-16de5b9697dc",
           "postDate": "Wed May 27 2026 05:49:20 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ARCE 3332": [
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Deigert is probably the most two-faced professor I have ever encountered in the 3 years I have been here. He will act all buddy buddy with you, just to turn around and yell and scream at you for the littlest of things. He will ask the class when due dates want to be assigned or extended, then become completely unhelpful if the work piles on or deadlines become unreasonable. He's the kind of guy who will ask you to send him an email to remember something, then never actually read the email for 3 straight weeks, then ask you on monday \u201cwhy didn't you send me an email?\u201d (THIS ACTUALLY HAPPENED MULTIPLE TIMES). Deigert is utterly useless when it comes to classroom management, which sucks because he is actually a good teacher. Repeatedly, deadlines shifted last minute, submittals would not be opened on canvas until right before the due date, and it took until week 10 to get a simple pdf that he said he would upload on week 1. It also didn't help that half of the class had already taken a lab with him before, so he couldn't be bothered to go over basic guidelines or rules for submittals. This became a repeated problem over the quarter, with students who had not had a lab before being at a clear disadvantage for everything. That being said, Deigert did a good job explaining and going over things, to the point where I actually felt like I learned a lot. However, the clear disregard for student struggles and the ignorance he showed for the sheer amount of work he assigned really made me dread this class. What was particularly annoying was the fact that he did not grade a single thing all quarter. Prior to the final submittals, there was 0 feedback on anything. With the hundreds of pages of calculations being submitted, none of them actually received feedback or even a grade. A professor has 3 jobs: to teach, to assign work, and to provide feedback. Deigert is \u2153 of a professor. It feels like Deigert has one foot out the door, and I hope he retires from teaching soon, as students should not be subjected to the kind of psychological torture that he calls a \u201clearning environment.\u201d",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "Inflexible Deadline Policy",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "9845b2cc5d6f4aba",
+          "id": "ad59922d-d9d8-4f7a-8df0-3628abd9d10a",
+          "professor": "18c0da3f-930c-423b-8eaa-16de5b9697dc",
+          "postDate": "2026-11-12T23:33:20.938Z"
         }
       ]
     }
@@ -245477,10 +245516,10 @@
     "department": "ARCE",
     "firstName": "Craig",
     "lastName": "Baltimore",
-    "numEvals": 40,
-    "overallRating": 2.07,
-    "materialClear": 2.28,
-    "studentDifficulties": 2,
+    "numEvals": 41,
+    "overallRating": 2.02,
+    "materialClear": 2.22,
+    "studentDifficulties": 1.95,
     "courses": [
       "ARCE 211",
       "ARCE 212",
@@ -245492,11 +245531,15 @@
       "ARCE 321",
       "ARCE 322",
       "ARCE 444",
-      "ARCE 226"
+      "ARCE 226",
+      "ARCE 3331"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
-      "Class Handouts": 1
+      "Inflexible Attendance Policy": 2,
+      "Class Handouts": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "ARCE 211": [
@@ -246006,6 +246049,27 @@
           "id": "bd47a265-b795-4e64-9195-4a7250e48e18",
           "professor": "424ec767-b9c0-462d-a3f3-daf87e36458a",
           "postDate": "2022-07-31T22:33:17.035Z"
+        }
+      ],
+      "ARCE 3331": [
+        {
+          "grade": "C",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I will start off by saying, there is a reason why this class is half-empty. Craig is a horrible professor. He is extremely narcissistic, to the point where he feels the need to flex his PHD on a bunch of undergrad students. News flash: just because you wrote a paper, does not make you and expert, and it does NOT mean you are even remotely correct. Honestly, he feels like the nepotism hire who feels bulletproof because his dad is the big boss. He honestly just rubbs me the wrong way, and in a class with nowhere to hide (because everyone else avoids him like the plague) this becomes even worse. This dude is way past his acedemic prime, if he ever had one to begin with. Id rather have a grad student fail to teach me, than spend one more minute in a classroom with him.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "9845b2cc5d6f4aba",
+          "id": "a347f219-b6be-4847-be6f-d49d6ae2a259",
+          "professor": "424ec767-b9c0-462d-a3f3-daf87e36458a",
+          "postDate": "2026-11-12T23:45:00.775Z"
         }
       ]
     }
@@ -322205,13 +322269,14 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 41,
-    "overallRating": 1.23,
-    "materialClear": 1.91,
-    "studentDifficulties": 1.36,
+    "numEvals": 42,
+    "overallRating": 1.3,
+    "materialClear": 1.96,
+    "studentDifficulties": 1.42,
     "courses": [
       "CSC 101",
-      "CSC 203"
+      "CSC 203",
+      "CSC 1101"
     ],
     "tags": {
       "Zoom Office Hours": 6,
@@ -322220,14 +322285,15 @@
       "High In-Person Availability": 2,
       "Uploads Slides": 6,
       "No Breaks During Lecture": 7,
-      "Inflexible Attendance Policy": 9,
+      "Inflexible Attendance Policy": 10,
       "Inflexible Deadline Policy": 7,
-      "Class Handouts": 14,
+      "Class Handouts": 15,
       "Fast Response Time": 6,
       "Honor DRC Accommodations": 2,
-      "Flexible Grading Policy": 2,
+      "Flexible Grading Policy": 3,
       "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "CSC 101": [
@@ -322897,6 +322963,27 @@
           "id": "a3f96024-8b16-4eeb-9b3f-b67bcc3bd867",
           "professor": "57e49b9a-5bbb-441a-91e6-04f53aa9f981",
           "postDate": "Tue Jun 03 2025 16:42:27 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 1101": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Bro genuinely just get to know her outside of class, and that goes for a lot of the professors you see in college. It\u2019s very easy to feel glazed over if you make no effort.  She\u2019s not nice but she is a kind person and that\u2019s an important distinction. I absolutely loved her, and miss her quite a bit.",
+          "tags": [
+            "Class Handouts",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "bccedbdca17e59b7",
+          "id": "7fc531c5-9281-4606-bef1-e47de8981b6e",
+          "professor": "57e49b9a-5bbb-441a-91e6-04f53aa9f981",
+          "postDate": "2026-11-13T05:15:38.473Z"
         }
       ]
     }
@@ -543665,16 +543752,25 @@
     "department": "ARCH",
     "firstName": "Joshua",
     "lastName": "Miller",
-    "numEvals": 2,
-    "overallRating": 4,
-    "materialClear": 3.5,
-    "studentDifficulties": 4,
+    "numEvals": 4,
+    "overallRating": 3,
+    "materialClear": 2.5,
+    "studentDifficulties": 2.75,
     "courses": [
       "ARCH 131",
-      "ARCH 132"
+      "ARCH 132",
+      "ARCH 2262",
+      "ARCH 1310"
     ],
     "tags": {
-      "Fast Response Time": 1
+      "Fast Response Time": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Inflexible Grading Policy": 1,
+      "Does Not Use Canvas": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "ARCH 131": [
@@ -543707,6 +543803,48 @@
           "id": "149fef99-93f3-4bca-bbb7-e73095d608d7",
           "professor": "91916bd2-8be0-413b-b0d4-8fe18acd49cc",
           "postDate": "Tue May 05 2026 16:24:45 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ARCH 2262": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "One of the worst professors out there! Any question you ask he\u2019ll answer back in the form of a question! Also his constant jokes aren\u2019t funny! Hes a professor but acts like a student. I\u2019m the one who has to constantly teach myself everything because he doesn\u2019t know. I honestly recommend to never speak to him because you\u2019ll just end up more confused or wondering how did he land this job.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Attendance Policy",
+            "No Breaks During Lecture",
+            "Inflexible Grading Policy",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "74a7b4b7b6091a93",
+          "id": "325d5af2-03e4-4e4b-8f01-43ef93f2db4c",
+          "professor": "91916bd2-8be0-413b-b0d4-8fe18acd49cc",
+          "postDate": "2026-11-13T02:06:36.585Z"
+        }
+      ],
+      "ARCH 1310": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "This is for 131 studio ( idk why it won\u2019t let me) He\u2019s alright. Only way you\u2019ll have a good time is if you really get to know him and surpass his annoyance. During class/studio he does answer back with more confusing question. I do like that he minimizes work so we can prioritize on creating good quality work. Overall he isn\u2019t bad but he does have favorites and puts more effort into helping others\u2026I also wish he can be more flexible with studio and outside related issues because he\u2019ll always say prioritize studio first over whatever issues or problems come up. That\u2019s the major down side.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "74a7b4b7b6091a93",
+          "id": "400d1575-e8d7-4c7d-931f-3cbb01e9b366",
+          "professor": "91916bd2-8be0-413b-b0d4-8fe18acd49cc",
+          "postDate": "2026-11-13T02:15:36.023Z"
         }
       ]
     }
