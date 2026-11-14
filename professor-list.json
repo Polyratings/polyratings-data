@@ -50,10 +50,10 @@
     "department": "EE",
     "firstName": "Himadri",
     "lastName": "Basu",
-    "numEvals": 5,
-    "overallRating": 0.8,
-    "materialClear": 0.2,
-    "studentDifficulties": 0.6,
+    "numEvals": 6,
+    "overallRating": 0.67,
+    "materialClear": 0.17,
+    "studentDifficulties": 1.17,
     "courses": [
       "EE 2328"
     ],
@@ -7491,10 +7491,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 211,
-    "overallRating": 1.87,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.99,
+    "numEvals": 212,
+    "overallRating": 1.86,
+    "materialClear": 1.95,
+    "studentDifficulties": 1.98,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -7502,17 +7502,18 @@
       "ENGL 1145"
     ],
     "tags": {
-      "Flexible Attendance Policy": 5,
+      "Flexible Attendance Policy": 6,
       "Pop Quizzes": 20,
-      "Inflexible Grading Policy": 29,
-      "Zoom Office Hours": 8,
+      "Inflexible Grading Policy": 30,
+      "Zoom Office Hours": 9,
       "Fast Response Time": 9,
       "Recorded Lectures": 5,
       "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 17,
+      "Inflexible Deadline Policy": 18,
       "Hybrid Option": 7,
       "Does Not Use Canvas": 9,
-      "Flexible Deadline Policy": 2
+      "Flexible Deadline Policy": 2,
+      "Class Handouts": 1
     }
   },
   {
@@ -38680,15 +38681,16 @@
     "department": "ECON",
     "firstName": "Aniruddha",
     "lastName": "Ghosh",
-    "numEvals": 54,
+    "numEvals": 55,
     "overallRating": 3.8,
-    "materialClear": 3.67,
+    "materialClear": 3.66,
     "studentDifficulties": 3.83,
     "courses": [
       "ECON 222",
       "ECON 408",
       "ECON 312",
-      "ECON 510"
+      "ECON 510",
+      "ECON 5100"
     ],
     "tags": {
       "Fast Response Time": 12,
