@@ -553088,14 +553088,21 @@
     "department": "POLS",
     "firstName": "Paige",
     "lastName": "Pellaton",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 3338",
+      "POLS 3375"
     ],
-    "tags": {},
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
     "reviews": {
       "POLS 3338": [
         {
@@ -553109,6 +553116,28 @@
           "id": "b157f7c5-cbe7-4a40-a3f5-0910b8efe095",
           "professor": "95f8c898-1e68-438d-927b-4f9ab8c165a3",
           "postDate": "Wed Oct 14 2026 04:56:32 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "POLS 3375": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Pellaton is great. She has a really engaging energy and presents clearly in class with slides that have easy to take down notes. That being said there is a decent amount of work to do, as she has multiple readings due before each class that aren't too long but she does check as well as some larger assignments. She isn't too harsh of a grader and if she marks you down on an assignment she explains well why she did. During election season we had to do a research presentation and project on a California ballot proposition which was actually really valuable. She does require and mark attendance. Overall great energy, definitely learning something from her and would highly recommend.",
+          "tags": [
+            "Fast Response Time",
+            "Class Handouts",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "de43cae50f8f63fc",
+          "id": "217af907-3570-413c-82bb-e715d6ebdbec",
+          "professor": "95f8c898-1e68-438d-927b-4f9ab8c165a3",
+          "postDate": "2026-11-15T01:06:41.424Z"
         }
       ]
     }

@@ -31344,14 +31344,21 @@
     "department": "POLS",
     "firstName": "Paige",
     "lastName": "Pellaton",
-    "numEvals": 1,
+    "numEvals": 2,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "POLS"
+      "POLS 3338",
+      "POLS 3375"
     ],
-    "tags": {}
+    "tags": {
+      "Fast Response Time": 1,
+      "Class Handouts": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    }
   },
   {
     "id": "95f8c98e-9393-4cf0-9119-23749d39d1eb",
