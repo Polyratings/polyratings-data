@@ -6184,20 +6184,21 @@
     "department": "BUS",
     "firstName": "Coby",
     "lastName": "Snyder",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "BUS 4445"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -30096,10 +30097,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 167,
-    "overallRating": 1.76,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.81,
+    "numEvals": 168,
+    "overallRating": 1.75,
+    "materialClear": 1.64,
+    "studentDifficulties": 1.8,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -30117,7 +30118,8 @@
       "MATH 408",
       "MATH 412",
       "MATH 481",
-      "MATH 242"
+      "MATH 242",
+      "MATH 2016"
     ],
     "tags": {
       "High In-Person Availability": 8,
@@ -47347,16 +47349,17 @@
     "department": "CHEM",
     "firstName": "Carson",
     "lastName": "Hasselbrink",
-    "numEvals": 15,
-    "overallRating": 3.74,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.73,
+    "numEvals": 16,
+    "overallRating": 3.51,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "CHEM 216",
       "CHEM 312",
       "CHEM 127",
       "CHEM 217",
-      "CHEM 218"
+      "CHEM 218",
+      "CHEM 2218"
     ],
     "tags": {
       "High In-Person Availability": 4,
@@ -47365,7 +47368,8 @@
       "Uploads Slides": 6,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {

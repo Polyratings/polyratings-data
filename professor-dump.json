@@ -103396,20 +103396,21 @@
     "department": "BUS",
     "firstName": "Coby",
     "lastName": "Snyder",
-    "numEvals": 2,
-    "overallRating": 2.5,
-    "materialClear": 2.5,
-    "studentDifficulties": 1.5,
+    "numEvals": 3,
+    "overallRating": 3,
+    "materialClear": 2.67,
+    "studentDifficulties": 2.33,
     "courses": [
       "BUS 4445"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 2,
       "Pop Quizzes": 1,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 1,
       "Class Handouts": 1,
-      "Uploads Slides": 1
+      "Uploads Slides": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "BUS 4445": [
@@ -103447,6 +103448,23 @@
           "id": "ecbb719e-b8c5-4a60-98bb-76b62265dd5e",
           "professor": "1b621540-8c85-40b0-8c81-d4a42ac205db",
           "postDate": "Wed Oct 14 2026 22:32:46 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Agree with the review below. Mr. Snyder is new to teaching, but he clearly wants to see his students succeed. Lecturing clearly and effectively is a skill that\u2019s learned over time, and every professor at Cal Poly handles it differently. The material can be challenging and sometimes dull, but it\u2019s very applicable, since insurance terms and situations will come up in all of our lives. If you\u2019re planning to take the CFP or going into any kind of insurance or financial planning, this is a must-take class. Mr. Snyder is there to help you out, and might keep you from talking to your friend in class out of fear that he\u2019ll call you out on your BS and make you lock in by reading the next question (and attempt to answer) aloud. \n\nBi-weekly quizzes that each cover a few chapters. Midterm and Final. Very light on homework. Averages on exams are low (70ish%, but a curve is given)",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "49831f362162c801",
+          "id": "ab82f8e8-2bfb-4ef4-a6a0-937c313cdac1",
+          "professor": "1b621540-8c85-40b0-8c81-d4a42ac205db",
+          "postDate": "2026-11-16T05:49:04.505Z"
         }
       ]
     }
@@ -530753,10 +530771,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 167,
-    "overallRating": 1.76,
-    "materialClear": 1.65,
-    "studentDifficulties": 1.81,
+    "numEvals": 168,
+    "overallRating": 1.75,
+    "materialClear": 1.64,
+    "studentDifficulties": 1.8,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -530774,7 +530792,8 @@
       "MATH 408",
       "MATH 412",
       "MATH 481",
-      "MATH 242"
+      "MATH 242",
+      "MATH 2016"
     ],
     "tags": {
       "High In-Person Availability": 8,
@@ -532947,6 +532966,21 @@
           "id": "c1e36c66-f9bc-45ce-b900-da0580e619cd",
           "professor": "900c2457-ebc0-4e85-8f94-c7fe8bdc1252",
           "postDate": "Sun Mar 30 2025 07:20:54 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 2016": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist",
+          "anonymousIdentifier": "d75bb5234672b2cd",
+          "id": "8c2838c6-a45e-4f3e-8b4a-30912a95a71d",
+          "professor": "900c2457-ebc0-4e85-8f94-c7fe8bdc1252",
+          "postDate": "2026-11-16T02:51:08.761Z"
         }
       ]
     }
@@ -824531,16 +824565,17 @@
     "department": "CHEM",
     "firstName": "Carson",
     "lastName": "Hasselbrink",
-    "numEvals": 15,
-    "overallRating": 3.74,
-    "materialClear": 3.73,
-    "studentDifficulties": 3.73,
+    "numEvals": 16,
+    "overallRating": 3.51,
+    "materialClear": 3.5,
+    "studentDifficulties": 3.5,
     "courses": [
       "CHEM 216",
       "CHEM 312",
       "CHEM 127",
       "CHEM 217",
-      "CHEM 218"
+      "CHEM 218",
+      "CHEM 2218"
     ],
     "tags": {
       "High In-Person Availability": 4,
@@ -824549,7 +824584,8 @@
       "Uploads Slides": 6,
       "Inflexible Deadline Policy": 1,
       "Supplemental Study Material": 2,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "CHEM 216": [
@@ -824799,6 +824835,24 @@
           "id": "d37db618-c7f9-4dda-af5d-888cf0fa2f3e",
           "professor": "e8b83e2e-eb49-4c58-bf4c-adc69cba7a2a",
           "postDate": "Wed Jun 03 2026 03:02:22 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CHEM 2218": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Stuck up, rude, and inconsiderate.",
+          "tags": [
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "8f0f7187954b7f24",
+          "id": "f4751cb2-fe9b-47dd-83ae-ceffa5dc2903",
+          "professor": "e8b83e2e-eb49-4c58-bf4c-adc69cba7a2a",
+          "postDate": "2026-11-15T22:20:10.622Z"
         }
       ]
     }
