@@ -153304,10 +153304,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 100,
-    "overallRating": 2.4,
-    "materialClear": 2.31,
-    "studentDifficulties": 2.36,
+    "numEvals": 101,
+    "overallRating": 2.39,
+    "materialClear": 2.3,
+    "studentDifficulties": 2.35,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -154677,6 +154677,19 @@
           "id": "92bdb9e0-c50b-4a38-aa4d-96607e38bdd7",
           "professor": "2a9a925e-6305-4546-957b-b10b78f95f9d",
           "postDate": "2026-11-07T03:14:13.051Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I literally don\u2019t think there is a worse professor. He has canceled class 16 times so far this quarter (4 weeks worth of class). Sometimes he\u2019ll post videos but they\u2019re long and unhelpful and he never follows up on the content in person. His lectures are just examples and he never explains the concepts or has a consistent problem flow, he is constantly making mistakes. He does every example just to get a solution but not to actually show you how to work the problem, and he expects you to already know how to do do everything and assumes you\u2019re following his insane scratch work that\u2019s scattered across the board. He\u2019s pretty bad with questions and grades extremely harshly. The midterm 1 average was a 45% with about half the class scoring 30s and below, he seemed mad at us for it. I am learning all the content from YouTube and it\u2019s actually way simpler than he ever presents it to be. Overall I would do anything to avoid this guy. Literally just take this class in cc over the summer or ANYTHING else.",
+          "anonymousIdentifier": "a23a8b80cdf287f5",
+          "id": "f1ff65e8-6cc3-483b-a04b-942653183da8",
+          "professor": "2a9a925e-6305-4546-957b-b10b78f95f9d",
+          "postDate": "2026-11-16T20:10:25.546Z"
         }
       ]
     }
@@ -171752,18 +171765,21 @@
     "department": "ASCI",
     "firstName": "Morgan",
     "lastName": "Wonderly",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.4,
     "studentDifficulties": 4,
     "courses": [
-      "ASCI 222"
+      "ASCI 222",
+      "ASCI 2022"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "ASCI 222": [
@@ -171829,6 +171845,28 @@
           "id": "7106c2e2-1b6f-4d9e-b188-0362085482c6",
           "professor": "2ed2cdbe-89e0-476c-909d-d724d667685d",
           "postDate": "Wed Apr 01 2026 15:23:27 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ASCI 2022": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took her last year and I love her she's so funny and interacts with the students. Morgan if you're seeing this I miss you <3",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "f33c4ba1402ff3bb",
+          "id": "ad081003-fd9c-43a4-8900-562c76cef0c6",
+          "professor": "2ed2cdbe-89e0-476c-909d-d724d667685d",
+          "postDate": "2026-11-16T08:41:44.457Z"
         }
       ]
     }
@@ -507690,27 +507728,29 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 22,
-    "overallRating": 3.32,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.27,
+    "numEvals": 23,
+    "overallRating": 3.31,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.26,
     "courses": [
-      "BUS 410"
+      "BUS 410",
+      "BUS 4410"
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 14,
+      "Uploads Slides": 15,
       "Flexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Honor DRC Accommodations": 1,
       "Zoom Office Hours": 3,
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Pop Quizzes": 4
+      "Pop Quizzes": 4,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "BUS 410": [
@@ -508074,6 +508114,27 @@
           "id": "ea175d4e-61af-4ecf-b932-193c670cc815",
           "professor": "88d72cca-74ab-45aa-bd6e-4eb0f5452663",
           "postDate": "Sun Jun 07 2026 21:36:49 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BUS 4410": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "He's definitely passionate about the subject, but being new to teaching he tends to just ramble and lecture straight off the slides. Main thing is that he's very slow to grading and posting study guides. It's taken him a month to get our last scantron midterm back. Hard to pay attention in class since he just reads off the slides which I could easily do at home. He's a nice guy but material can be dry, lots of memorizing cases for tests. The study guides he gives are very helpful for midterms.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "6b99fdf9020f5dcb",
+          "id": "ef89f94b-9637-44c3-a9b1-4db3e74e9d63",
+          "professor": "88d72cca-74ab-45aa-bd6e-4eb0f5452663",
+          "postDate": "2026-11-16T20:40:48.113Z"
         }
       ]
     }
@@ -742058,22 +742119,26 @@
     "department": "ASCI",
     "firstName": "Karen",
     "lastName": "Vagnoni",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.5,
     "courses": [
       "ASCI 440",
       "ASCI 3351"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Uploads Slides": 2,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Supplemental Study Material": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "ASCI 440": [
@@ -742128,6 +742193,26 @@
           "id": "5e631871-45ab-4f10-a150-72c81a6567dc",
           "professor": "cf3d7fe4-795d-49a6-9558-a4761b988f7a",
           "postDate": "2026-11-09T22:17:11.380Z"
+        },
+        {
+          "grade": "W",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Karen Vagnoni seems like she'd be nice to have a drink with, but I'd never take her class again. While her exams aren't impossible, her lectures are. The lectures are overall unorganized with little slides. She will spend the whole lecture drawing out diagrams from the textbook which are honestly useless because you won't be able to read them anyways. Attending her lecture is genuinely just watching someone with undiagnosed ADHD scribble on the board. She will also give you sass if you ask a simple question like \"what does that say on the diagram?\" as if it's you're fault it's illegible. I've genuinely seen Kindergarteners with better handwriting then hers. Again her personality as a whole isn't too bad, but if you cant understand the material she'll make you feel dumb as if you should somehow magically know it. For example, over half the class failed one of the exams and it was somehow all of our faults for \"not studying properly.\" Best of luck to those who are required to take her.",
+          "tags": [
+            "Fast Response Time",
+            "Honor DRC Accommodations",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "f33c4ba1402ff3bb",
+          "id": "98ac0b19-d63b-41e1-982f-2f9497b820eb",
+          "professor": "cf3d7fe4-795d-49a6-9558-a4761b988f7a",
+          "postDate": "2026-11-16T08:28:04.183Z"
         }
       ]
     }
@@ -775627,9 +775712,9 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 104,
-    "overallRating": 3.47,
-    "materialClear": 3.27,
+    "numEvals": 105,
+    "overallRating": 3.48,
+    "materialClear": 3.28,
     "studentDifficulties": 3.49,
     "courses": [
       "MATH 141",
@@ -775639,7 +775724,8 @@
       "MATH 221",
       "MATH 241",
       "MATH 244",
-      "MATH 182"
+      "MATH 182",
+      "MATH 2341"
     ],
     "tags": {
       "Class Handouts": 25,
@@ -777140,6 +777226,21 @@
           "id": "279e39bc-68b2-491f-a96d-f197c0817d5c",
           "professor": "d9c150e7-4368-40d9-8c0d-9692a276d57d",
           "postDate": "Sat Jun 07 2025 05:06:05 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 2341": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This guy runs class like a machine. He is extremely organized and gives in depth lectures on exactly the content you need to know. He teaches everything from the beginning and doesn\u2019t take shortcuts or expect you to already know anything. This is by far my easiest class because I know exactly what\u2019s expected of me and do hardly any studying outside of class. His homework translates basically directly to the tests and quizzes so if you do it and review it that\u2019s all you need to study.\n\nClass structure: Daily lecture explains concepts, proofs, and goes through examples. Pre lecture videos followed by a canvas quiz (with 3 attempts) 1-2x/week, pair-up quizzes 1x/week (decently long and hard, you need to study for these), 3 exams (he tells you every problem type beforehand), and a final.\n\nWarning: he grades based on his own insane rubric and will take of tiny fractions of points if you don\u2019t follow the exact problem flow of his solutions- but all problems will be a copy/paste of these so you can practice the flow beforehand and just recreate on the exams. Partial points take off a lot but also gives a ton of partial credit. Overall he\u2019s made this class extremely digestible.",
+          "anonymousIdentifier": "fe9ae7463ec5ff2b",
+          "id": "24e3bdf1-8f09-4d1c-ad34-491d1d328b9d",
+          "professor": "d9c150e7-4368-40d9-8c0d-9692a276d57d",
+          "postDate": "2026-11-16T19:59:50.112Z"
         }
       ]
     }

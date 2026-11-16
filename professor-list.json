@@ -8948,10 +8948,10 @@
     "department": "MATE",
     "firstName": "David",
     "lastName": "Niebuhr",
-    "numEvals": 100,
-    "overallRating": 2.4,
-    "materialClear": 2.31,
-    "studentDifficulties": 2.36,
+    "numEvals": 101,
+    "overallRating": 2.39,
+    "materialClear": 2.3,
+    "studentDifficulties": 2.35,
     "courses": [
       "CHEM 110",
       "CHEM 111",
@@ -10014,18 +10014,21 @@
     "department": "ASCI",
     "firstName": "Morgan",
     "lastName": "Wonderly",
-    "numEvals": 4,
+    "numEvals": 5,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.4,
     "studentDifficulties": 4,
     "courses": [
-      "ASCI 222"
+      "ASCI 222",
+      "ASCI 2022"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 3,
+      "Uploads Slides": 3,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 2,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -28657,27 +28660,29 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 22,
-    "overallRating": 3.32,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.27,
+    "numEvals": 23,
+    "overallRating": 3.31,
+    "materialClear": 3.4,
+    "studentDifficulties": 3.26,
     "courses": [
-      "BUS 410"
+      "BUS 410",
+      "BUS 4410"
     ],
     "tags": {
       "Supplemental Study Material": 3,
-      "Uploads Slides": 14,
+      "Uploads Slides": 15,
       "Flexible Grading Policy": 1,
       "Does Not Use Canvas": 1,
-      "Inflexible Attendance Policy": 5,
+      "Inflexible Attendance Policy": 6,
       "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 1,
-      "No Breaks During Lecture": 1,
+      "No Breaks During Lecture": 2,
       "Honor DRC Accommodations": 1,
       "Zoom Office Hours": 3,
       "High In-Person Availability": 3,
       "Fast Response Time": 1,
-      "Pop Quizzes": 4
+      "Pop Quizzes": 4,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -42280,22 +42285,26 @@
     "department": "ASCI",
     "firstName": "Karen",
     "lastName": "Vagnoni",
-    "numEvals": 3,
-    "overallRating": 1.67,
-    "materialClear": 2.33,
-    "studentDifficulties": 3,
+    "numEvals": 4,
+    "overallRating": 1.5,
+    "materialClear": 1.75,
+    "studentDifficulties": 2.5,
     "courses": [
       "ASCI 440",
       "ASCI 3351"
     ],
     "tags": {
       "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 2,
       "Uploads Slides": 2,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 1,
       "Supplemental Study Material": 1,
-      "Class Handouts": 1
+      "Class Handouts": 1,
+      "Fast Response Time": 1,
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
@@ -44531,9 +44540,9 @@
     "department": "MATH",
     "firstName": "Fan",
     "lastName": "Yang",
-    "numEvals": 104,
-    "overallRating": 3.47,
-    "materialClear": 3.27,
+    "numEvals": 105,
+    "overallRating": 3.48,
+    "materialClear": 3.28,
     "studentDifficulties": 3.49,
     "courses": [
       "MATH 141",
@@ -44543,7 +44552,8 @@
       "MATH 221",
       "MATH 241",
       "MATH 244",
-      "MATH 182"
+      "MATH 182",
+      "MATH 2341"
     ],
     "tags": {
       "Class Handouts": 25,
