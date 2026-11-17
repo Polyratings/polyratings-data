@@ -308090,26 +308090,28 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 78,
-    "overallRating": 0.5,
-    "materialClear": 0.7,
-    "studentDifficulties": 0.68,
+    "numEvals": 79,
+    "overallRating": 0.49,
+    "materialClear": 0.69,
+    "studentDifficulties": 0.7,
     "courses": [
       "TH 210",
       "TH 228",
-      "TH 227"
+      "TH 227",
+      "TH 2210"
     ],
     "tags": {
       "Fast Response Time": 4,
-      "Inflexible Grading Policy": 32,
+      "Inflexible Grading Policy": 33,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 40,
-      "Inflexible Deadline Policy": 28,
+      "Inflexible Deadline Policy": 29,
       "Recorded Lectures": 1,
-      "Hybrid Option": 6,
-      "No Breaks During Lecture": 3,
+      "Hybrid Option": 7,
+      "No Breaks During Lecture": 4,
       "Zoom Office Hours": 3,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1
     },
     "reviews": {
       "TH 210": [
@@ -309343,6 +309345,28 @@
           "id": "a5004ac1-bbe6-4202-a7d7-52cd8dba05cd",
           "professor": "5331d1e5-7c62-4e6b-8849-ff2ca608f332",
           "postDate": "Fri Feb 27 2026 00:09:21 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "TH 2210": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Grades harshly, evil ass final. don't take avoid at all cost. If you're blocked into this as a first year switch out into some other art class. it's not worth it. This is harder then the major classes im taking",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture",
+            "Hybrid Option"
+          ],
+          "anonymousIdentifier": "89151bf4f024eb37",
+          "id": "5b4a7d11-f4fd-4837-a581-56a3b2992855",
+          "professor": "5331d1e5-7c62-4e6b-8849-ff2ca608f332",
+          "postDate": "2026-11-16T23:43:50.843Z"
         }
       ]
     }
@@ -318851,10 +318875,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 123,
+    "numEvals": 124,
     "overallRating": 2.18,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.35,
+    "materialClear": 2.18,
+    "studentDifficulties": 2.34,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -318868,19 +318892,20 @@
       "COMS 1101"
     ],
     "tags": {
-      "Inflexible Grading Policy": 17,
+      "Inflexible Grading Policy": 18,
       "Uploads Slides": 2,
       "High In-Person Availability": 2,
       "Fast Response Time": 5,
-      "Inflexible Attendance Policy": 9,
+      "Inflexible Attendance Policy": 10,
       "Inflexible Deadline Policy": 4,
       "Pop Quizzes": 3,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 3,
       "Class Handouts": 1,
       "No Breaks During Lecture": 2,
-      "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 1
+      "Honor DRC Accommodations": 2,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     },
     "reviews": {
       "COMS 101": [
@@ -320514,6 +320539,26 @@
           "id": "14cbd306-b6c2-4836-97ec-896ae44f3e42",
           "professor": "5751af10-419e-4e69-a377-af7f37eefbc6",
           "postDate": "2026-11-05T22:05:04.981Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Super nice sweet lady, feel like I learned a lot. Literally impossible to get an A in the class. She grades the hardest I've ever seen in a GE class, floor for grades is reasonably high though. A little bit sexist in grading towards guys, girl in my class proabably the worst public speaker of all time. She doesn't even finish her speech, \"um\" 1000 times, sounded like she was getting presented to along with us, gets a 78. Class average was 85. Get a different professor if you care about your GPA",
+          "tags": [
+            "Zoom Office Hours",
+            "Honor DRC Accommodations",
+            "Supplemental Study Material",
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "155ce8bd7e8ba899",
+          "id": "6d8c515d-3bf3-4e22-b3aa-75ca84783e4b",
+          "professor": "5751af10-419e-4e69-a377-af7f37eefbc6",
+          "postDate": "2026-11-16T23:57:01.594Z"
         }
       ]
     }
@@ -459353,7 +459398,7 @@
     "department": "COMS",
     "firstName": "Jarrod",
     "lastName": "Ventura",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -459363,12 +459408,12 @@
     "tags": {
       "Zoom Office Hours": 2,
       "Fast Response Time": 8,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Pop Quizzes": 1,
-      "Flexible Attendance Policy": 3,
-      "Flexible Grading Policy": 5,
-      "High In-Person Availability": 3,
-      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 4,
+      "Flexible Grading Policy": 6,
+      "High In-Person Availability": 4,
+      "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 1,
       "Hybrid Option": 1,
       "Honor DRC Accommodations": 1
@@ -459595,6 +459640,26 @@
           "id": "6d3e7b5b-837e-4ead-8509-9a99d306cf79",
           "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
           "postDate": "2026-10-29T18:10:05.025Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Jarrod Ventura is one of the best professors. Prior to taking this class I absolutely dreaded public speaking and struggled a lot with maintaining eye contact, however Jarrod creates such a welcoming environment in the classroom that allows you to connect with your peers as you are all growing together. He gives a good amount of time to prep for each speech and it is super easy to make up any speeches that you miss. There is a weekly chapter that is assigned however it is super easy to complete since you can just skim the chapter and complete the questions and get full points. I absolutely love this class and would highly recommend taking it.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy",
+            "Flexible Deadline Policy",
+            "High In-Person Availability",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "88d9250831718210",
+          "id": "8cb551af-49df-4c6a-be1d-a4d2e5598243",
+          "professor": "7c8d50d1-f559-4207-8dec-06dda414c808",
+          "postDate": "2026-11-17T03:52:27.788Z"
         }
       ]
     }
@@ -591906,22 +591971,23 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 70,
+    "numEvals": 71,
     "overallRating": 3.76,
     "materialClear": 3.76,
-    "studentDifficulties": 3.72,
+    "studentDifficulties": 3.71,
     "courses": [
       "BIO 102",
       "BIO 114",
       "BIO 121",
       "BOT 121",
-      "BIO 111"
+      "BIO 111",
+      "BOT 1121"
     ],
     "tags": {
-      "High In-Person Availability": 14,
-      "Flexible Attendance Policy": 18,
+      "High In-Person Availability": 15,
+      "Flexible Attendance Policy": 19,
       "Uploads Slides": 30,
-      "Fast Response Time": 7,
+      "Fast Response Time": 8,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 2,
       "Recorded Lectures": 1,
@@ -591929,7 +591995,9 @@
       "Honor DRC Accommodations": 5,
       "Supplemental Study Material": 3,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "BIO 102": [
@@ -592981,6 +593049,28 @@
           "id": "ada2a6b1-157d-43fe-ac9d-910ce4e94a11",
           "professor": "a0e769a4-13d1-4691-ba68-805b2e2ec989",
           "postDate": "Mon Nov 03 2025 22:56:55 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "BOT 1121": [
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Very good professor he explains well and is very interactive. His classes were never boring but his tests were a bit difficult. I got a D on all his tests but it balanced out with lab grade.",
+          "tags": [
+            "Fast Response Time",
+            "High In-Person Availability",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "0d921ab90d2ce15a",
+          "id": "a77cf7b7-b87b-4ff8-b462-026b97c568e1",
+          "professor": "a0e769a4-13d1-4691-ba68-805b2e2ec989",
+          "postDate": "2026-11-16T22:36:34.922Z"
         }
       ]
     }
@@ -604165,31 +604255,33 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 125,
-    "overallRating": 1.04,
-    "materialClear": 1.02,
+    "numEvals": 126,
+    "overallRating": 1.06,
+    "materialClear": 1.04,
     "studentDifficulties": 1.26,
     "courses": [
       "MATH 118",
       "MATH 141",
       "MATH 161",
       "MATH 221",
-      "MATH 142"
+      "MATH 142",
+      "MATH 1005"
     ],
     "tags": {
-      "Flexible Attendance Policy": 10,
+      "Flexible Attendance Policy": 11,
       "Inflexible Grading Policy": 23,
       "Honor DRC Accommodations": 5,
       "High In-Person Availability": 10,
       "Fast Response Time": 8,
-      "Flexible Deadline Policy": 17,
+      "Flexible Deadline Policy": 18,
       "Flexible Grading Policy": 6,
       "Pop Quizzes": 2,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "No Breaks During Lecture": 7,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 7
+      "Inflexible Deadline Policy": 7,
+      "Zoom Office Hours": 1
     },
     "reviews": {
       "MATH 118": [
@@ -606032,6 +606124,28 @@
           "id": "1368f0e9-17ce-4187-a933-8a3bfcfd7aca",
           "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
           "postDate": "Thu Oct 15 2026 05:28:34 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1005": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Zoe Nepsa is an amazing professor, for being STRETCH-Precalculous she makes sures to take her time giving out the material and answering questions, the amount of 0's I've seen for her is crazy. I believe those that gave 0's have only showed up to a few lectures. She genuinely takes her time and asks if anyone is confused or needs help with understanding. She is so sweet, and is genuinely there to help. As a student that has gone to every single lecture I can say I've learned more from her than any other professor. The tests I will say are a little all over the place but if you do the homework and show up to the lectures you'll be fine.",
+          "tags": [
+            "Zoom Office Hours",
+            "Class Handouts",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "4f6b4263bd5d735e",
+          "id": "64029427-b2fa-4fa2-be5a-0090305077cc",
+          "professor": "a311b098-c030-4f44-8faa-37f36ba5b422",
+          "postDate": "2026-11-17T01:36:17.096Z"
         }
       ]
     }
@@ -643866,10 +643980,10 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "McDonough",
-    "numEvals": 5,
-    "overallRating": 1.8,
-    "materialClear": 1.6,
-    "studentDifficulties": 2,
+    "numEvals": 6,
+    "overallRating": 1.67,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.83,
     "courses": [
       "MATH 1264",
       "MATH 1263"
@@ -643877,12 +643991,12 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 2,
-      "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 3,
+      "Honor DRC Accommodations": 2,
+      "Flexible Attendance Policy": 4,
       "Class Handouts": 2,
-      "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 2,
+      "Fast Response Time": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Flexible Deadline Policy": 1
     },
     "reviews": {
@@ -643934,6 +644048,26 @@
           "id": "35c628ef-7ad6-4eab-b18c-5c72df227c5c",
           "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
           "postDate": "2026-11-05T22:40:30.808Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "To be completely honest, he is a great, sweet guy who loves math, but gets lost in the theoretical explanations of every single possible answer to the question, which makes it insanely hard to track what is actually being solved. I wish he had been better at explaining how to diagnose problems. He uses really weird wording on quizzes that confused me heavily at 8 am on a Friday, so it could just be that. From experience, you will not be successful if you have other time-consuming classes/activities and you did not take ab/bc in high school. Also, he expects us to understand calculus when he's explaining in class, not really \"learning by doing\" if he doesn't explain how to solve the problems beforehand.",
+          "tags": [
+            "Fast Response Time",
+            "Honor DRC Accommodations",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "155ce8bd7e8ba899",
+          "id": "88c0ac4a-aabe-4f96-8d08-fc6f6e36ca58",
+          "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
+          "postDate": "2026-11-16T23:52:44.736Z"
         }
       ],
       "MATH 1263": [
@@ -659144,10 +659278,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 54,
-    "overallRating": 1.19,
-    "materialClear": 1.2,
-    "studentDifficulties": 1.29,
+    "numEvals": 55,
+    "overallRating": 1.24,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.34,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -659914,6 +660048,19 @@
           "id": "440ee860-ac07-4975-ba51-8527d166f520",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "2026-10-20T19:59:38.148Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Zhang is probably one of the most ambitious professors in all of OCOB. He actually cares about our learning and adapts his course to what firms actually want us to learn. This class was not hard and had a lot of actual useful information. If you don't get an A it's your own fault.",
+          "anonymousIdentifier": "65d6d23d10c56cf6",
+          "id": "fce74e60-93a9-4cb4-99c7-3f1e24ff6ba3",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-11-17T02:46:05.293Z"
         }
       ]
     }
@@ -740434,29 +740581,30 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 72,
-    "overallRating": 3.01,
-    "materialClear": 3.12,
-    "studentDifficulties": 2.93,
+    "numEvals": 73,
+    "overallRating": 2.98,
+    "materialClear": 3.1,
+    "studentDifficulties": 2.9,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 350",
       "PHIL 411",
       "PHIL 412",
-      "PHIL 449"
+      "PHIL 449",
+      "PHIL 2300"
     ],
     "tags": {
       "Flexible Attendance Policy": 7,
       "Fast Response Time": 3,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 3,
       "High In-Person Availability": 1,
       "Class Handouts": 1,
       "Supplemental Study Material": 2,
       "Pop Quizzes": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2
     },
     "reviews": {
       "PHIL 230": [
@@ -741406,6 +741554,26 @@
           "id": "77a7db50-b901-4e96-9a4d-e899104e517d",
           "professor": "cf14b30f-57e9-41d6-830c-b9a1846f5da9",
           "postDate": "Mon Jun 16 2025 10:37:43 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PHIL 2300": [
+        {
+          "grade": "A",
+          "gradeLevel": "Senior",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "This dude presents his own opinions as the law of philosophy. He takes up too much time talking about the unimportant parts of the content. Unfortunately, he's one of those professors where you get more from the book and gain nothing from the lecture.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "anonymousIdentifier": "2b1ef7c8d3904625",
+          "id": "99087346-5675-4eff-88f7-6872f93b5b0c",
+          "professor": "cf14b30f-57e9-41d6-830c-b9a1846f5da9",
+          "postDate": "2026-11-17T00:03:58.499Z"
         }
       ]
     }
@@ -825341,17 +825509,18 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 47,
-    "overallRating": 2.89,
-    "materialClear": 2.91,
-    "studentDifficulties": 3.04,
+    "numEvals": 48,
+    "overallRating": 2.91,
+    "materialClear": 2.93,
+    "studentDifficulties": 3.06,
     "courses": [
       "CHEM 312",
       "CHEM 127",
       "CHEM 216",
       "CHEM 217",
       "CHEM 224",
-      "CHEM 2242"
+      "CHEM 2242",
+      "CHEM 2161"
     ],
     "tags": {
       "High In-Person Availability": 20,
@@ -826142,6 +826311,21 @@
           "id": "1484315f-a461-4dbc-b45a-99de1afa0400",
           "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
           "postDate": "2026-11-12T21:58:18.582Z"
+        }
+      ],
+      "CHEM 2161": [
+        {
+          "grade": "B",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I took Huang and Hartung, and let me tell you, the difference is INSANE. You're telling me Professor Huang might be THREE WHOLE DECADES older than Professor Hartung??? GIRLLLLL. Hartung really pulled up with less experience and started teaching like she'd been sent from the future to correct Huang's mistakes. Hartung teaches like she genuinely wants students to succeed. Huang taught like we're supposed to arrive already knowing everything. The fact that Hartung might be nearly 30 years younger makes this even more diabolical. Imagine getting professionally BODIED by someone who was possibly still learning multiplication when you were already teaching.",
+          "anonymousIdentifier": "8de63105ee39bf60",
+          "id": "2c7e4e44-de24-4baf-8ba0-a5d81fd5bf7d",
+          "professor": "e90ebd1f-347b-4f25-a76d-ae017445cfbc",
+          "postDate": "2026-11-17T02:41:52.229Z"
         }
       ]
     }

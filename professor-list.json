@@ -17376,26 +17376,28 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 78,
-    "overallRating": 0.5,
-    "materialClear": 0.7,
-    "studentDifficulties": 0.68,
+    "numEvals": 79,
+    "overallRating": 0.49,
+    "materialClear": 0.69,
+    "studentDifficulties": 0.7,
     "courses": [
       "TH 210",
       "TH 228",
-      "TH 227"
+      "TH 227",
+      "TH 2210"
     ],
     "tags": {
       "Fast Response Time": 4,
-      "Inflexible Grading Policy": 32,
+      "Inflexible Grading Policy": 33,
       "Uploads Slides": 1,
       "Inflexible Attendance Policy": 40,
-      "Inflexible Deadline Policy": 28,
+      "Inflexible Deadline Policy": 29,
       "Recorded Lectures": 1,
-      "Hybrid Option": 6,
-      "No Breaks During Lecture": 3,
+      "Hybrid Option": 7,
+      "No Breaks During Lecture": 4,
       "Zoom Office Hours": 3,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1
     }
   },
   {
@@ -18178,10 +18180,10 @@
     "department": "COMS",
     "firstName": "Nina",
     "lastName": "Truch",
-    "numEvals": 123,
+    "numEvals": 124,
     "overallRating": 2.18,
-    "materialClear": 2.17,
-    "studentDifficulties": 2.35,
+    "materialClear": 2.18,
+    "studentDifficulties": 2.34,
     "courses": [
       "COMS 101",
       "SCM 101",
@@ -18195,19 +18197,20 @@
       "COMS 1101"
     ],
     "tags": {
-      "Inflexible Grading Policy": 17,
+      "Inflexible Grading Policy": 18,
       "Uploads Slides": 2,
       "High In-Person Availability": 2,
       "Fast Response Time": 5,
-      "Inflexible Attendance Policy": 9,
+      "Inflexible Attendance Policy": 10,
       "Inflexible Deadline Policy": 4,
       "Pop Quizzes": 3,
-      "Zoom Office Hours": 1,
+      "Zoom Office Hours": 2,
       "Flexible Deadline Policy": 3,
       "Class Handouts": 1,
       "No Breaks During Lecture": 2,
-      "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 1
+      "Honor DRC Accommodations": 2,
+      "Flexible Attendance Policy": 1,
+      "Supplemental Study Material": 1
     }
   },
   {
@@ -26360,7 +26363,7 @@
     "department": "COMS",
     "firstName": "Jarrod",
     "lastName": "Ventura",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 4,
@@ -26370,12 +26373,12 @@
     "tags": {
       "Zoom Office Hours": 2,
       "Fast Response Time": 8,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "Pop Quizzes": 1,
-      "Flexible Attendance Policy": 3,
-      "Flexible Grading Policy": 5,
-      "High In-Person Availability": 3,
-      "Flexible Deadline Policy": 2,
+      "Flexible Attendance Policy": 4,
+      "Flexible Grading Policy": 6,
+      "High In-Person Availability": 4,
+      "Flexible Deadline Policy": 3,
       "Supplemental Study Material": 1,
       "Hybrid Option": 1,
       "Honor DRC Accommodations": 1
@@ -33555,22 +33558,23 @@
     "department": "BIO",
     "firstName": "Sean",
     "lastName": "Ryan",
-    "numEvals": 70,
+    "numEvals": 71,
     "overallRating": 3.76,
     "materialClear": 3.76,
-    "studentDifficulties": 3.72,
+    "studentDifficulties": 3.71,
     "courses": [
       "BIO 102",
       "BIO 114",
       "BIO 121",
       "BOT 121",
-      "BIO 111"
+      "BIO 111",
+      "BOT 1121"
     ],
     "tags": {
-      "High In-Person Availability": 14,
-      "Flexible Attendance Policy": 18,
+      "High In-Person Availability": 15,
+      "Flexible Attendance Policy": 19,
       "Uploads Slides": 30,
-      "Fast Response Time": 7,
+      "Fast Response Time": 8,
       "Pop Quizzes": 1,
       "No Breaks During Lecture": 2,
       "Recorded Lectures": 1,
@@ -33578,7 +33582,9 @@
       "Honor DRC Accommodations": 5,
       "Supplemental Study Material": 3,
       "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 1
+      "Flexible Deadline Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     }
   },
   {
@@ -34146,31 +34152,33 @@
     "department": "MATH",
     "firstName": "Zoe",
     "lastName": "Nepsa",
-    "numEvals": 125,
-    "overallRating": 1.04,
-    "materialClear": 1.02,
+    "numEvals": 126,
+    "overallRating": 1.06,
+    "materialClear": 1.04,
     "studentDifficulties": 1.26,
     "courses": [
       "MATH 118",
       "MATH 141",
       "MATH 161",
       "MATH 221",
-      "MATH 142"
+      "MATH 142",
+      "MATH 1005"
     ],
     "tags": {
-      "Flexible Attendance Policy": 10,
+      "Flexible Attendance Policy": 11,
       "Inflexible Grading Policy": 23,
       "Honor DRC Accommodations": 5,
       "High In-Person Availability": 10,
       "Fast Response Time": 8,
-      "Flexible Deadline Policy": 17,
+      "Flexible Deadline Policy": 18,
       "Flexible Grading Policy": 6,
       "Pop Quizzes": 2,
-      "Class Handouts": 3,
+      "Class Handouts": 4,
       "No Breaks During Lecture": 7,
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Inflexible Attendance Policy": 3,
-      "Inflexible Deadline Policy": 7
+      "Inflexible Deadline Policy": 7,
+      "Zoom Office Hours": 1
     }
   },
   {
@@ -36762,10 +36770,10 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "McDonough",
-    "numEvals": 5,
-    "overallRating": 1.8,
-    "materialClear": 1.6,
-    "studentDifficulties": 2,
+    "numEvals": 6,
+    "overallRating": 1.67,
+    "materialClear": 1.5,
+    "studentDifficulties": 1.83,
     "courses": [
       "MATH 1264",
       "MATH 1263"
@@ -36773,12 +36781,12 @@
     "tags": {
       "High In-Person Availability": 1,
       "Flexible Grading Policy": 2,
-      "Honor DRC Accommodations": 1,
-      "Flexible Attendance Policy": 3,
+      "Honor DRC Accommodations": 2,
+      "Flexible Attendance Policy": 4,
       "Class Handouts": 2,
-      "Fast Response Time": 1,
-      "Inflexible Deadline Policy": 1,
-      "Inflexible Grading Policy": 2,
+      "Fast Response Time": 2,
+      "Inflexible Deadline Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Flexible Deadline Policy": 1
     }
   },
@@ -37591,10 +37599,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 54,
-    "overallRating": 1.19,
-    "materialClear": 1.2,
-    "studentDifficulties": 1.29,
+    "numEvals": 55,
+    "overallRating": 1.24,
+    "materialClear": 1.25,
+    "studentDifficulties": 1.34,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -42224,29 +42232,30 @@
     "department": "PHIL",
     "firstName": "Todd",
     "lastName": "Long",
-    "numEvals": 72,
-    "overallRating": 3.01,
-    "materialClear": 3.12,
-    "studentDifficulties": 2.93,
+    "numEvals": 73,
+    "overallRating": 2.98,
+    "materialClear": 3.1,
+    "studentDifficulties": 2.9,
     "courses": [
       "PHIL 230",
       "PHIL 231",
       "PHIL 350",
       "PHIL 411",
       "PHIL 412",
-      "PHIL 449"
+      "PHIL 449",
+      "PHIL 2300"
     ],
     "tags": {
       "Flexible Attendance Policy": 7,
       "Fast Response Time": 3,
-      "Inflexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 2,
       "Zoom Office Hours": 3,
       "High In-Person Availability": 1,
       "Class Handouts": 1,
       "Supplemental Study Material": 2,
       "Pop Quizzes": 1,
-      "Inflexible Deadline Policy": 1
+      "Inflexible Deadline Policy": 2
     }
   },
   {
@@ -47421,17 +47430,18 @@
     "department": "CHEM",
     "firstName": "Kaitlin",
     "lastName": "Hartung",
-    "numEvals": 47,
-    "overallRating": 2.89,
-    "materialClear": 2.91,
-    "studentDifficulties": 3.04,
+    "numEvals": 48,
+    "overallRating": 2.91,
+    "materialClear": 2.93,
+    "studentDifficulties": 3.06,
     "courses": [
       "CHEM 312",
       "CHEM 127",
       "CHEM 216",
       "CHEM 217",
       "CHEM 224",
-      "CHEM 2242"
+      "CHEM 2242",
+      "CHEM 2161"
     ],
     "tags": {
       "High In-Person Availability": 20,
