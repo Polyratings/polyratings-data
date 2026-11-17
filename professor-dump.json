@@ -308090,9 +308090,9 @@
     "department": "TH",
     "firstName": "Hala",
     "lastName": "Baki",
-    "numEvals": 79,
-    "overallRating": 0.49,
-    "materialClear": 0.69,
+    "numEvals": 80,
+    "overallRating": 0.51,
+    "materialClear": 0.71,
     "studentDifficulties": 0.7,
     "courses": [
       "TH 210",
@@ -308104,8 +308104,8 @@
       "Fast Response Time": 4,
       "Inflexible Grading Policy": 33,
       "Uploads Slides": 1,
-      "Inflexible Attendance Policy": 40,
-      "Inflexible Deadline Policy": 29,
+      "Inflexible Attendance Policy": 41,
+      "Inflexible Deadline Policy": 30,
       "Recorded Lectures": 1,
       "Hybrid Option": 7,
       "No Breaks During Lecture": 4,
@@ -309367,6 +309367,23 @@
           "id": "5b4a7d11-f4fd-4837-a581-56a3b2992855",
           "professor": "5331d1e5-7c62-4e6b-8849-ff2ca608f332",
           "postDate": "2026-11-16T23:43:50.843Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "while the class is quite boring and the readings are long overall i didn\u2019t think the class was awful. i didn\u2019t do basically any of the readings and i only fully read one of the plays. just make sure to go to class and take good notes because she does not release the slides. i made them all into a giant quizlet and just memorized all of the important terms for the final. just make sure you know important vocabulary (especially the theater history bits) and you know all of the characters in each play. i do have some past theater experience but overall i didn\u2019t think the final was too awful. its just a boring class. make sure you go to class if you do take it because she does not let you skip unless you give two days notice. good luck to you all",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "34dedde61a8094c3",
+          "id": "a8cf0ce0-5b25-4c9f-a5ba-069f012dcb86",
+          "professor": "5331d1e5-7c62-4e6b-8849-ff2ca608f332",
+          "postDate": "2026-11-17T17:56:01.539Z"
         }
       ]
     }
@@ -545454,22 +545471,23 @@
     "department": "AGB",
     "firstName": "Hong",
     "lastName": "Hoang",
-    "numEvals": 6,
-    "overallRating": 3.5,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.67,
+    "numEvals": 7,
+    "overallRating": 3.57,
+    "materialClear": 3.57,
+    "studentDifficulties": 3.72,
     "courses": [
       "AGB 369",
-      "BUS 302"
+      "BUS 302",
+      "AGB 3369"
     ],
     "tags": {
       "Flexible Grading Policy": 2,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Flexible Attendance Policy": 3,
       "High In-Person Availability": 1,
       "Fast Response Time": 1,
       "Flexible Deadline Policy": 2,
-      "Hybrid Option": 1
+      "Hybrid Option": 2
     },
     "reviews": {
       "AGB 369": [
@@ -545572,6 +545590,25 @@
           "id": "7c9d153b-bf5f-43fc-8543-41fd82511da1",
           "professor": "922666a1-9357-4813-9fb9-189535c9c775",
           "postDate": "Fri Feb 27 2026 18:20:47 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "AGB 3369": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "You are getting an A if you have half a brain. We literally just sit in class while she gives a 5 minute lecture on HR that is very obvious common sense. We had no homework and you can miss class and do a makeup assignment. I have thrown every single assignment/in class work/presentation into Chat GPT and have gotten full credit on all of it and have like a 150% in this class. She is a very nice person too and brings us food and snacks all the time. The only con I have for this class is that it is $115 for her quiz program, but she was able to get us a discount that cut it down to $57. Take this class and get your free A.",
+          "tags": [
+            "Hybrid Option",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "385a9294928e884a",
+          "id": "de842edc-548c-49fb-81c5-d2b91a7b9f5e",
+          "professor": "922666a1-9357-4813-9fb9-189535c9c775",
+          "postDate": "2026-11-17T15:40:40.719Z"
         }
       ]
     }
