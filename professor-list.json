@@ -7364,10 +7364,10 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 14,
+    "numEvals": 15,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.78,
+    "studentDifficulties": 3.79,
     "courses": [
       "EE 306",
       "EE 307",
@@ -7378,14 +7378,14 @@
       "EE 2211"
     ],
     "tags": {
-      "Fast Response Time": 1,
-      "Flexible Attendance Policy": 3,
-      "No Breaks During Lecture": 1,
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 4,
+      "No Breaks During Lecture": 2,
       "Recorded Lectures": 3,
       "Class Handouts": 5,
       "Zoom Office Hours": 3,
       "Flexible Deadline Policy": 3,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
       "High In-Person Availability": 1,
@@ -16498,10 +16498,10 @@
     "department": "PHIL",
     "firstName": "Sean",
     "lastName": "Pierce",
-    "numEvals": 16,
-    "overallRating": 3.75,
-    "materialClear": 3.81,
-    "studentDifficulties": 3.76,
+    "numEvals": 17,
+    "overallRating": 3.76,
+    "materialClear": 3.82,
+    "studentDifficulties": 3.77,
     "courses": [
       "PHIL 231",
       "PHIL 2231"
@@ -16510,12 +16510,15 @@
       "Fast Response Time": 6,
       "Supplemental Study Material": 2,
       "Uploads Slides": 5,
-      "Flexible Deadline Policy": 4,
+      "Flexible Deadline Policy": 5,
       "No Breaks During Lecture": 3,
       "Zoom Office Hours": 4,
       "Recorded Lectures": 2,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 1
+      "Inflexible Grading Policy": 1,
+      "Honor DRC Accommodations": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -17409,20 +17412,21 @@
     "department": "ARCE",
     "firstName": "Dahlia",
     "lastName": "Hafez",
-    "numEvals": 12,
-    "overallRating": 3.13,
-    "materialClear": 2.72,
-    "studentDifficulties": 2.95,
+    "numEvals": 13,
+    "overallRating": 2.97,
+    "materialClear": 2.59,
+    "studentDifficulties": 2.88,
     "courses": [
       "ARCE 211",
       "ARCE 212",
       "ARCE 421",
-      "ARCE 422"
+      "ARCE 422",
+      "CM 2113"
     ],
     "tags": {
       "Fast Response Time": 1,
       "Class Handouts": 2,
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "Recorded Lectures": 2,
       "Supplemental Study Material": 1,
       "Pop Quizzes": 1
@@ -26167,10 +26171,10 @@
     "department": "COMS",
     "firstName": "Ritch",
     "lastName": "Woffinden",
-    "numEvals": 37,
-    "overallRating": 2.66,
-    "materialClear": 3.08,
-    "studentDifficulties": 2.82,
+    "numEvals": 38,
+    "overallRating": 2.59,
+    "materialClear": 3.05,
+    "studentDifficulties": 2.75,
     "courses": [
       "COMS 101",
       "COMS 213",
