@@ -7364,10 +7364,10 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.76,
+    "studentDifficulties": 3.78,
     "courses": [
       "EE 306",
       "EE 307",
@@ -7379,16 +7379,17 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 3,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Zoom Office Hours": 3,
       "Flexible Deadline Policy": 3,
       "Uploads Slides": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     }
   },
   {
@@ -14053,24 +14054,27 @@
     "department": "PHYS",
     "firstName": "Themistoklis",
     "lastName": "Mastoridis",
-    "numEvals": 23,
-    "overallRating": 3.5,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.5,
+    "numEvals": 24,
+    "overallRating": 3.52,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.52,
     "courses": [
       "PHYS 133",
       "PHYS 141",
-      "PHYS 143"
+      "PHYS 143",
+      "PHYS 1143"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
       "Uploads Slides": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "High In-Person Availability": 1,
-      "Class Handouts": 2
+      "Class Handouts": 2,
+      "Pop Quizzes": 1,
+      "Flexible Grading Policy": 1
     }
   },
   {
@@ -23119,23 +23123,24 @@
     "department": "COMS",
     "firstName": "Stephenson",
     "lastName": "Whitestone",
-    "numEvals": 18,
-    "overallRating": 3.21,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.44,
+    "numEvals": 19,
+    "overallRating": 3.25,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.47,
     "courses": [
       "COMS 101",
       "COMS 211",
-      "COMS 206"
+      "COMS 206",
+      "COMS 2211"
     ],
     "tags": {
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Inflexible Attendance Policy": 3,
       "Zoom Office Hours": 1,
-      "Uploads Slides": 4,
-      "Flexible Deadline Policy": 3,
-      "Flexible Grading Policy": 2,
+      "Uploads Slides": 5,
+      "Flexible Deadline Policy": 4,
+      "Flexible Grading Policy": 3,
       "Inflexible Grading Policy": 1
     }
   },
@@ -25516,10 +25521,10 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 110,
-    "overallRating": 1.97,
+    "numEvals": 111,
+    "overallRating": 1.96,
     "materialClear": 2.29,
-    "studentDifficulties": 1.88,
+    "studentDifficulties": 1.86,
     "courses": [
       "ENGL 134",
       "ENGL 141",
@@ -25538,14 +25543,16 @@
       "Fast Response Time": 4,
       "Flexible Deadline Policy": 3,
       "Flexible Attendance Policy": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Hybrid Option": 4,
       "Recorded Lectures": 2,
       "Zoom Office Hours": 5,
       "High In-Person Availability": 3,
       "Honor DRC Accommodations": 1,
-      "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 3
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 3,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
@@ -39420,17 +39427,17 @@
     "department": "HIST",
     "firstName": "Cole",
     "lastName": "Manley",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 2.25,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.6,
     "courses": [
       "HIST 2202"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 2,
-      "Uploads Slides": 3,
+      "High In-Person Availability": 2,
+      "Class Handouts": 3,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
@@ -42910,10 +42917,10 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 10,
-    "overallRating": 1.31,
-    "materialClear": 0.7,
-    "studentDifficulties": 2.3,
+    "numEvals": 11,
+    "overallRating": 1.28,
+    "materialClear": 0.82,
+    "studentDifficulties": 2.09,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
@@ -45826,10 +45833,10 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 2,
-    "materialClear": 1.44,
-    "studentDifficulties": 2.09,
+    "materialClear": 1.42,
+    "studentDifficulties": 2.04,
     "courses": [
       "WGS 201",
       "WGQS 2268",
@@ -45838,11 +45845,11 @@
     "tags": {
       "Recorded Lectures": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 5,
-      "Hybrid Option": 7,
+      "Flexible Deadline Policy": 6,
+      "Hybrid Option": 8,
       "Inflexible Attendance Policy": 4,
-      "Flexible Grading Policy": 4,
-      "Flexible Attendance Policy": 3,
+      "Flexible Grading Policy": 5,
+      "Flexible Attendance Policy": 4,
       "Zoom Office Hours": 3,
       "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,

@@ -124783,10 +124783,10 @@
     "department": "EE",
     "firstName": "Siddharth",
     "lastName": "Vyas",
-    "numEvals": 13,
+    "numEvals": 14,
     "overallRating": 4,
     "materialClear": 4,
-    "studentDifficulties": 3.76,
+    "studentDifficulties": 3.78,
     "courses": [
       "EE 306",
       "EE 307",
@@ -124798,16 +124798,17 @@
     ],
     "tags": {
       "Fast Response Time": 1,
-      "Flexible Attendance Policy": 2,
+      "Flexible Attendance Policy": 3,
       "No Breaks During Lecture": 1,
       "Recorded Lectures": 3,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Zoom Office Hours": 3,
       "Flexible Deadline Policy": 3,
       "Uploads Slides": 3,
       "Flexible Grading Policy": 1,
       "Supplemental Study Material": 1,
-      "High In-Person Availability": 1
+      "High In-Person Availability": 1,
+      "Honor DRC Accommodations": 1
     },
     "reviews": {
       "EE 306": [
@@ -125027,6 +125028,24 @@
           "id": "0db3d1f4-995e-422a-9f49-5930a99de8f3",
           "professor": "229cb75c-b14c-4014-b701-2efe5f95db7f",
           "postDate": "2026-10-28T20:28:26.698Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This class has a lot of tough material, so having a professor who actually knows how to teach makes a huge difference. Nothing feels thrown together last minute. His ices are super thorough and helped me learn way more than the textbook ever did.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Class Handouts",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "f53e5896b52a653b",
+          "id": "8990dff7-e2b7-4ee5-b384-8c999fdcee57",
+          "professor": "229cb75c-b14c-4014-b701-2efe5f95db7f",
+          "postDate": "2026-11-18T00:14:04.848Z"
         }
       ]
     }
@@ -243979,24 +243998,27 @@
     "department": "PHYS",
     "firstName": "Themistoklis",
     "lastName": "Mastoridis",
-    "numEvals": 23,
-    "overallRating": 3.5,
-    "materialClear": 3.46,
-    "studentDifficulties": 3.5,
+    "numEvals": 24,
+    "overallRating": 3.52,
+    "materialClear": 3.48,
+    "studentDifficulties": 3.52,
     "courses": [
       "PHYS 133",
       "PHYS 141",
-      "PHYS 143"
+      "PHYS 143",
+      "PHYS 1143"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Flexible Deadline Policy": 1,
+      "Flexible Attendance Policy": 3,
+      "Flexible Deadline Policy": 2,
       "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
       "Uploads Slides": 1,
-      "Supplemental Study Material": 2,
+      "Supplemental Study Material": 3,
       "High In-Person Availability": 1,
-      "Class Handouts": 2
+      "Class Handouts": 2,
+      "Pop Quizzes": 1,
+      "Flexible Grading Policy": 1
     },
     "reviews": {
       "PHYS 133": [
@@ -244313,6 +244335,28 @@
           "id": "159f89a1-9092-43aa-8e08-5d1cfda31730",
           "professor": "41ea6378-4ef5-4b5b-b102-6cf410ab933b",
           "postDate": "Tue Jun 02 2026 16:26:32 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "PHYS 1143": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. M. is my GOAT. He gives NO homework, only optional practice problems. The only things that go into your grade are lab reports, weekly quizzes, tests, and the final. His lectures are mostly clear, although sometimes his intelligence gets ahead of him. But he wants everyone to succeed so he takes the time to clarify your confusion.",
+          "tags": [
+            "Supplemental Study Material",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Pop Quizzes",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "55c0778085e81372",
+          "id": "329a61c9-53cf-4624-a3b7-91192409db82",
+          "professor": "41ea6378-4ef5-4b5b-b102-6cf410ab933b",
+          "postDate": "2026-11-18T02:30:47.319Z"
         }
       ]
     }
@@ -405002,23 +405046,24 @@
     "department": "COMS",
     "firstName": "Stephenson",
     "lastName": "Whitestone",
-    "numEvals": 18,
-    "overallRating": 3.21,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.44,
+    "numEvals": 19,
+    "overallRating": 3.25,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.47,
     "courses": [
       "COMS 101",
       "COMS 211",
-      "COMS 206"
+      "COMS 206",
+      "COMS 2211"
     ],
     "tags": {
       "Fast Response Time": 5,
-      "Flexible Attendance Policy": 6,
+      "Flexible Attendance Policy": 7,
       "Inflexible Attendance Policy": 3,
       "Zoom Office Hours": 1,
-      "Uploads Slides": 4,
-      "Flexible Deadline Policy": 3,
-      "Flexible Grading Policy": 2,
+      "Uploads Slides": 5,
+      "Flexible Deadline Policy": 4,
+      "Flexible Grading Policy": 3,
       "Inflexible Grading Policy": 1
     },
     "reviews": {
@@ -405307,6 +405352,27 @@
           "id": "ce2d58ad-3436-460a-8e2b-21d3be708aef",
           "professor": "6d77d876-82a2-492d-af2d-d5d903ec9fa3",
           "postDate": "Wed Jun 03 2026 08:30:50 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "COMS 2211": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. Whitestone is a very chill, understanding professor. The workload is very light being a weekly discussion post and the occasional online quiz. There are 2 longer writing assignments and 1 final paper. If you participate, her discussions can be entertaining and insightful. The material itself is pretty interesting (coming from an engineer). There is no final exam. Take this class!",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "55c0778085e81372",
+          "id": "4b48a23e-4920-4491-94e7-33aaba3f5bf0",
+          "professor": "6d77d876-82a2-492d-af2d-d5d903ec9fa3",
+          "postDate": "2026-11-18T02:38:14.412Z"
         }
       ]
     }
@@ -447612,10 +447678,10 @@
     "department": "ENGL",
     "firstName": "David",
     "lastName": "Hennessee",
-    "numEvals": 110,
-    "overallRating": 1.97,
+    "numEvals": 111,
+    "overallRating": 1.96,
     "materialClear": 2.29,
-    "studentDifficulties": 1.88,
+    "studentDifficulties": 1.86,
     "courses": [
       "ENGL 134",
       "ENGL 141",
@@ -447634,14 +447700,16 @@
       "Fast Response Time": 4,
       "Flexible Deadline Policy": 3,
       "Flexible Attendance Policy": 2,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Grading Policy": 3,
       "Hybrid Option": 4,
       "Recorded Lectures": 2,
       "Zoom Office Hours": 5,
       "High In-Person Availability": 3,
       "Honor DRC Accommodations": 1,
-      "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 3
+      "Inflexible Attendance Policy": 2,
+      "Uploads Slides": 3,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "ENGL 134": [
@@ -449060,6 +449128,25 @@
           "id": "80962e72-6595-48ed-91a3-041044eb7d7f",
           "professor": "7881e728-fde1-46f9-be1f-bdab1b9cc216",
           "postDate": "2026-10-26T22:31:59.719Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 0,
+          "rating": "If you can take any other professor for this class, do so. \nThis review is going to be two parts: one discussing his abilities as a professor, and one addressing the actual content of the course\n\nAs a professor, Hennessee is condescending and very clearly does not think very highly of his students. Maybe it is because the course was a GE (writing arguments), but regardless any question a student asked was answered with a \"you-should-know-this\" tone, while also giving zero actual information that would help answer your question. He is incredibly inflexible with any extensions and adheres to a guilty-until-proven-innocent mindset. As a side note, I find his opinions on AI incredibly disappointing for an English professor, but that is a personal opinion.\n\nAs for the content, the class consisted of two essays and a midterm. The midterm was fairly simple, just memorization of fallacies given in lecture and identifying them in different prompts. The way he grades essays is incredibly frustrating. A single sentence can be the difference between earning a zero and a 90 and I'm not even being hyperbolic. Although he does allow revisions, the class feels like it is teaching you how to write a good essay for HIS CLASS and specific grading, rather than generally building your essay writing abilities and skills. The rubrics feel more geared to his personal preference, rather than whether or not you are actually making a good well supported argument. \nThe assignments definitely feel like busywork a lot of the time, and other students who took the class both before and after me agreed that they did not retain and important information from this class.\n\nthe only thing I gained from this class was friends who i am now trauma bonded with and a deep dislike for this class.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "c7e1347c3a6e3fd5",
+          "id": "68c35bf7-f182-4c46-9ef9-11876923657c",
+          "professor": "7881e728-fde1-46f9-be1f-bdab1b9cc216",
+          "postDate": "2026-11-17T22:06:00.969Z"
         }
       ]
     }
@@ -689311,17 +689398,17 @@
     "department": "HIST",
     "firstName": "Cole",
     "lastName": "Manley",
-    "numEvals": 4,
-    "overallRating": 3,
-    "materialClear": 2,
-    "studentDifficulties": 2.25,
+    "numEvals": 5,
+    "overallRating": 3.2,
+    "materialClear": 2.4,
+    "studentDifficulties": 2.6,
     "courses": [
       "HIST 2202"
     ],
     "tags": {
-      "High In-Person Availability": 1,
-      "Class Handouts": 2,
-      "Uploads Slides": 3,
+      "High In-Person Availability": 2,
+      "Class Handouts": 3,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 2,
       "Inflexible Attendance Policy": 1,
       "Inflexible Deadline Policy": 1,
@@ -689396,6 +689483,24 @@
           "id": "27cab6fd-0975-4475-becb-be6d1f49b8fe",
           "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
           "postDate": "2026-11-10T02:38:03.488Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "The only problems you're gonna have in this class is that he lectures very fast, so online notes are a must-have. That alongside the fact that if you get bored easily, you're going to most likely fall asleep during his lectures. His handouts are extremely light work and discussion-based, and as long as you understand the progression and content of what he covers his midterm and essay are also incredibly easy. He's also a pretty laid-back professor and if you manage your resources well this GE is one of the easiest credits you will ever earn.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "89151bf4f024eb37",
+          "id": "01f3854d-0935-4f75-887d-57c2c38807a4",
+          "professor": "c017c23f-6488-4787-b146-3e7c7031a2d2",
+          "postDate": "2026-11-18T00:53:26.999Z"
         }
       ]
     }
@@ -751272,10 +751377,10 @@
     "department": "CHEM",
     "firstName": "Madeline",
     "lastName": "Riffel",
-    "numEvals": 10,
-    "overallRating": 1.31,
-    "materialClear": 0.7,
-    "studentDifficulties": 2.3,
+    "numEvals": 11,
+    "overallRating": 1.28,
+    "materialClear": 0.82,
+    "studentDifficulties": 2.09,
     "courses": [
       "CHEM 120",
       "CHEM 1120"
@@ -751446,6 +751551,19 @@
           "id": "9e844800-8858-4e25-ac27-30fa801e195d",
           "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
           "postDate": "2026-11-05T03:47:25.254Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Madeline Riffel is one of the most fustrating teachers I have experienced. You can tell that she is very intelligent, however she has a very hard time communicating the subject material. Her weekly quizzes are difficult and not typically related to what she teaches during her long and not engaging lectures. One thing that is helpful is that she provides useful study guides for the midterms and final. However, you can definitely tell it is her first year teaching. I'm sure that as time goes on she will get better at teaching but currently she is disorganized and typically gets multiple questions wrong when lecturing.",
+          "anonymousIdentifier": "f0d2240f85bd3add",
+          "id": "6aa505ad-8c7f-4885-bccb-3acf91955aa9",
+          "professor": "d2d7b718-f62d-443d-a88f-c9661ddd10a4",
+          "postDate": "2026-11-18T00:12:45.963Z"
         }
       ]
     }
@@ -798678,10 +798796,10 @@
     "department": "WGS",
     "firstName": "Ednie",
     "lastName": "Garrison",
-    "numEvals": 23,
+    "numEvals": 24,
     "overallRating": 2,
-    "materialClear": 1.44,
-    "studentDifficulties": 2.09,
+    "materialClear": 1.42,
+    "studentDifficulties": 2.04,
     "courses": [
       "WGS 201",
       "WGQS 2268",
@@ -798690,11 +798808,11 @@
     "tags": {
       "Recorded Lectures": 2,
       "Fast Response Time": 2,
-      "Flexible Deadline Policy": 5,
-      "Hybrid Option": 7,
+      "Flexible Deadline Policy": 6,
+      "Hybrid Option": 8,
       "Inflexible Attendance Policy": 4,
-      "Flexible Grading Policy": 4,
-      "Flexible Attendance Policy": 3,
+      "Flexible Grading Policy": 5,
+      "Flexible Attendance Policy": 4,
       "Zoom Office Hours": 3,
       "Inflexible Grading Policy": 3,
       "Inflexible Deadline Policy": 1,
@@ -799081,6 +799199,25 @@
           "id": "3472e1ab-b69d-43ab-ace2-3b73e038ff50",
           "professor": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
           "postDate": "2026-11-11T01:32:09.091Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Although she\u2019s a good person, she gives an insane amount of work for the weekly assignments (10 pages of notes minimum along with a creative project!). You only need to complete 8 of these assignments (her grading system is a whole other conversation) so if you stay on track you can be done with all assignments (including an additional 4 presentations and 20 discussion responses) 8 weeks into the semester.\n\nPros: no quizzes, tests, or final. Mostly a self-paced course. \nCons: so much work! Super slow grader. Boring lectures",
+          "tags": [
+            "Hybrid Option",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "55c0778085e81372",
+          "id": "b9f4b705-265c-4246-bdd7-1061312ef66d",
+          "professor": "e0b41199-72e4-48f9-9e22-c8be48259cf6",
+          "postDate": "2026-11-18T02:21:25.607Z"
         }
       ]
     }
