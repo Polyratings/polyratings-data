@@ -170090,10 +170090,10 @@
     "department": "EE",
     "firstName": "Ali",
     "lastName": "Dehghan-Banadaki",
-    "numEvals": 31,
-    "overallRating": 3.26,
-    "materialClear": 3.22,
-    "studentDifficulties": 3.41,
+    "numEvals": 32,
+    "overallRating": 3.22,
+    "materialClear": 3.21,
+    "studentDifficulties": 3.37,
     "courses": [
       "EE 255",
       "EE 228",
@@ -170106,10 +170106,11 @@
       "EE 328",
       "EE 368",
       "EE 321",
-      "EE 329"
+      "EE 329",
+      "EE 3329"
     ],
     "tags": {
-      "Uploads Slides": 10,
+      "Uploads Slides": 11,
       "High In-Person Availability": 5,
       "Supplemental Study Material": 2,
       "Inflexible Deadline Policy": 1,
@@ -170120,8 +170121,8 @@
       "Honor DRC Accommodations": 2,
       "Fast Response Time": 2,
       "Zoom Office Hours": 3,
-      "Flexible Deadline Policy": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Deadline Policy": 3,
+      "Flexible Attendance Policy": 2
     },
     "reviews": {
       "EE 255": [
@@ -170608,6 +170609,26 @@
           "id": "218b457b-ffa5-474c-a0cf-61751af0e50c",
           "professor": "2e1da759-8c4f-4aca-b3f2-9c7a30b711ae",
           "postDate": "Sat Jun 06 2026 07:13:10 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 3329": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Chronically apathetic about microcontrollers.  Also, terrible about the administrative side of teaching.  I.e. managing a Canvas page, getting things graded within a month, making decisions and sticking to them.  Otherwise, he's a nice guy, the exams were pretty easy, and he presents well enough.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "d487b6e7d5f8ab63",
+          "id": "3c604ffa-b63a-4700-bb78-bffcbfff82ae",
+          "professor": "2e1da759-8c4f-4aca-b3f2-9c7a30b711ae",
+          "postDate": "2026-11-19T16:59:52.594Z"
         }
       ]
     }
@@ -456313,10 +456334,10 @@
     "department": "COMS",
     "firstName": "Ritch",
     "lastName": "Woffinden",
-    "numEvals": 38,
-    "overallRating": 2.59,
-    "materialClear": 3.05,
-    "studentDifficulties": 2.75,
+    "numEvals": 39,
+    "overallRating": 2.52,
+    "materialClear": 3,
+    "studentDifficulties": 2.68,
     "courses": [
       "COMS 101",
       "COMS 213",
@@ -456327,15 +456348,15 @@
       "Flexible Attendance Policy": 6,
       "Uploads Slides": 3,
       "Recorded Lectures": 1,
-      "Inflexible Attendance Policy": 4,
+      "Inflexible Attendance Policy": 5,
       "Honor DRC Accommodations": 6,
       "No Breaks During Lecture": 2,
       "Fast Response Time": 3,
-      "Inflexible Deadline Policy": 3,
-      "Inflexible Grading Policy": 2,
+      "Inflexible Deadline Policy": 4,
+      "Inflexible Grading Policy": 3,
       "High In-Person Availability": 1,
       "Supplemental Study Material": 1,
-      "Pop Quizzes": 1
+      "Pop Quizzes": 2
     },
     "reviews": {
       "COMS 101": [
@@ -456910,6 +456931,25 @@
           "id": "9cf8acdc-d458-48ac-bfcb-1562b7978878",
           "professor": "7bac9d37-e73f-4b5c-8b89-f99fdabf2a7f",
           "postDate": "2026-11-18T09:18:03.160Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 0,
+          "rating": "I thought he was cool at first, but then I realized its just a front he puts up to try and make students like him. He tries to act \"hip\" and like the students friend and then switches up. He makes you take these quizzes that are somewhat easy but also try to trick you and they are 4/5 questions so if you get one wrong, that automatically is an 8/10 and it drags your grade down a lot. When it comes to grading speeches, he doesn't actually care about your delivery, only if you stick perfectly to his rubrick which is nearly impossible. I'm a pretty good public speaker, and now matter how hard I try to stick to his rubrick I never get a good grade. Get a different teacher if can, this class should not be as difficult as he makes it.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Pop Quizzes"
+          ],
+          "anonymousIdentifier": "6157c3ca6440d043",
+          "id": "d44f0ac7-bb2c-48a5-abd8-0bba9c6a2a6f",
+          "professor": "7bac9d37-e73f-4b5c-8b89-f99fdabf2a7f",
+          "postDate": "2026-11-19T18:24:48.636Z"
         }
       ]
     }
