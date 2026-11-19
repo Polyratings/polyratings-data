@@ -4214,9 +4214,9 @@
     "department": "CSC",
     "firstName": "Dev",
     "lastName": "Sisodia",
-    "numEvals": 27,
-    "overallRating": 3.86,
-    "materialClear": 3.52,
+    "numEvals": 28,
+    "overallRating": 3.87,
+    "materialClear": 3.54,
     "studentDifficulties": 3.88,
     "courses": [
       "CPE 101",
@@ -4225,18 +4225,19 @@
       "CSC 436",
       "CSC 321",
       "CSC 320",
-      "CSC 364"
+      "CSC 364",
+      "CSC 3201"
     ],
     "tags": {
       "High In-Person Availability": 5,
       "Fast Response Time": 6,
-      "Flexible Deadline Policy": 13,
-      "Zoom Office Hours": 6,
-      "Uploads Slides": 14,
+      "Flexible Deadline Policy": 14,
+      "Zoom Office Hours": 7,
+      "Uploads Slides": 15,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 5,
+      "Flexible Grading Policy": 6,
       "Supplemental Study Material": 3,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 1
     }
   },
@@ -6712,10 +6713,10 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 136,
-    "overallRating": 2.05,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.26,
+    "numEvals": 137,
+    "overallRating": 2.04,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.24,
     "courses": [
       "BUS 387",
       "COMS 101",
@@ -6728,10 +6729,10 @@
       "BUS 3387"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 35,
-      "Inflexible Deadline Policy": 21,
-      "Inflexible Grading Policy": 16,
-      "No Breaks During Lecture": 6,
+      "Inflexible Attendance Policy": 36,
+      "Inflexible Deadline Policy": 22,
+      "Inflexible Grading Policy": 17,
+      "No Breaks During Lecture": 7,
       "Class Handouts": 12,
       "Fast Response Time": 4,
       "Zoom Office Hours": 2,
@@ -7493,10 +7494,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 212,
-    "overallRating": 1.86,
-    "materialClear": 1.95,
-    "studentDifficulties": 1.98,
+    "numEvals": 213,
+    "overallRating": 1.85,
+    "materialClear": 1.94,
+    "studentDifficulties": 1.97,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -7506,14 +7507,14 @@
     "tags": {
       "Flexible Attendance Policy": 6,
       "Pop Quizzes": 20,
-      "Inflexible Grading Policy": 30,
+      "Inflexible Grading Policy": 31,
       "Zoom Office Hours": 9,
       "Fast Response Time": 9,
       "Recorded Lectures": 5,
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 18,
+      "Inflexible Attendance Policy": 5,
+      "Inflexible Deadline Policy": 19,
       "Hybrid Option": 7,
-      "Does Not Use Canvas": 9,
+      "Does Not Use Canvas": 10,
       "Flexible Deadline Policy": 2,
       "Class Handouts": 1
     }
@@ -23807,20 +23808,21 @@
     "department": "HLTH",
     "firstName": "Daryl",
     "lastName": "Mangosing",
-    "numEvals": 4,
-    "overallRating": 2.25,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.8,
+    "studentDifficulties": 3.4,
     "courses": [
       "HLTH 3348",
       "HLTH 3305"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "High In-Person Availability": 1,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1
     }
   },
   {
@@ -28674,10 +28676,10 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 23,
-    "overallRating": 3.31,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.26,
+    "numEvals": 24,
+    "overallRating": 3.34,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.29,
     "courses": [
       "BUS 410",
       "BUS 4410"
@@ -33462,10 +33464,10 @@
     "department": "BUS",
     "firstName": "Paul",
     "lastName": "Patterson",
-    "numEvals": 20,
-    "overallRating": 2.94,
-    "materialClear": 2.95,
-    "studentDifficulties": 3.35,
+    "numEvals": 21,
+    "overallRating": 2.99,
+    "materialClear": 3,
+    "studentDifficulties": 3.38,
     "courses": [
       "BUS 346",
       "BUS 3346"
@@ -46917,10 +46919,10 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 33,
+    "numEvals": 34,
     "overallRating": 3.87,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.75,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.76,
     "courses": [
       "STAT 252",
       "STAT 1220"
@@ -46929,7 +46931,7 @@
       "Honor DRC Accommodations": 2,
       "Uploads Slides": 16,
       "Fast Response Time": 7,
-      "Flexible Attendance Policy": 16,
+      "Flexible Attendance Policy": 17,
       "Class Handouts": 1,
       "Supplemental Study Material": 9,
       "Flexible Grading Policy": 2,

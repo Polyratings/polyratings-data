@@ -72341,9 +72341,9 @@
     "department": "CSC",
     "firstName": "Dev",
     "lastName": "Sisodia",
-    "numEvals": 27,
-    "overallRating": 3.86,
-    "materialClear": 3.52,
+    "numEvals": 28,
+    "overallRating": 3.87,
+    "materialClear": 3.54,
     "studentDifficulties": 3.88,
     "courses": [
       "CPE 101",
@@ -72352,18 +72352,19 @@
       "CSC 436",
       "CSC 321",
       "CSC 320",
-      "CSC 364"
+      "CSC 364",
+      "CSC 3201"
     ],
     "tags": {
       "High In-Person Availability": 5,
       "Fast Response Time": 6,
-      "Flexible Deadline Policy": 13,
-      "Zoom Office Hours": 6,
-      "Uploads Slides": 14,
+      "Flexible Deadline Policy": 14,
+      "Zoom Office Hours": 7,
+      "Uploads Slides": 15,
       "Class Handouts": 1,
-      "Flexible Grading Policy": 5,
+      "Flexible Grading Policy": 6,
       "Supplemental Study Material": 3,
-      "Flexible Attendance Policy": 3,
+      "Flexible Attendance Policy": 4,
       "Honor DRC Accommodations": 1
     },
     "reviews": {
@@ -72825,6 +72826,28 @@
           "id": "68d0d554-b0d4-4d58-9cc3-e992012d7896",
           "professor": "138f93c1-0d91-486f-a7ef-c736eebd6204",
           "postDate": "Wed Apr 16 2025 02:52:49 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 3201": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Dev has a bit of everything you want in a professor: he\u2019s tough and strict but  lenient when we\u2019re struggling, he\u2019s serious about the material but can be really funny at times, he knows his stuff but isn\u2019t cocky at all and is never dismissive, but above all he\u2019s kind and he truly cares about his students. He also presents tough to grasp concepts in a way that is easy to grasp. The only thing that may be annoying is he can be repetitive and slow in explaining certain things but I\u2019m sure many students appreciate that. If you can, you should take him at least once, whatever course he\u2019s teaching. He\u2019s one of the best of the best.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Zoom Office Hours",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "d6f187d2b642256d",
+          "id": "ee0d4ce6-da11-4675-9735-5316dbde7fd9",
+          "professor": "138f93c1-0d91-486f-a7ef-c736eebd6204",
+          "postDate": "2026-11-18T22:34:19.331Z"
         }
       ]
     }
@@ -111161,10 +111184,10 @@
     "department": "BUS",
     "firstName": "Sara",
     "lastName": "Daubert",
-    "numEvals": 136,
-    "overallRating": 2.05,
-    "materialClear": 2.53,
-    "studentDifficulties": 2.26,
+    "numEvals": 137,
+    "overallRating": 2.04,
+    "materialClear": 2.51,
+    "studentDifficulties": 2.24,
     "courses": [
       "BUS 387",
       "COMS 101",
@@ -111177,10 +111200,10 @@
       "BUS 3387"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 35,
-      "Inflexible Deadline Policy": 21,
-      "Inflexible Grading Policy": 16,
-      "No Breaks During Lecture": 6,
+      "Inflexible Attendance Policy": 36,
+      "Inflexible Deadline Policy": 22,
+      "Inflexible Grading Policy": 17,
+      "No Breaks During Lecture": 7,
       "Class Handouts": 12,
       "Fast Response Time": 4,
       "Zoom Office Hours": 2,
@@ -113106,6 +113129,25 @@
           "id": "c6ff2c89-051c-4638-813d-2af7e160b4ca",
           "professor": "1e067e7f-5926-4120-9863-932f7f1ad870",
           "postDate": "2026-11-06T00:12:53.771Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Save yourself the pain and suffering of dealing with this women",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "923b00457b9885f2",
+          "id": "989e15da-bf04-4f3c-8e11-a76b66e2e206",
+          "professor": "1e067e7f-5926-4120-9863-932f7f1ad870",
+          "postDate": "2026-11-18T20:32:46.236Z"
         }
       ]
     }
@@ -126700,10 +126742,10 @@
     "department": "ENGL",
     "firstName": "Courtney",
     "lastName": "Brogno",
-    "numEvals": 212,
-    "overallRating": 1.86,
-    "materialClear": 1.95,
-    "studentDifficulties": 1.98,
+    "numEvals": 213,
+    "overallRating": 1.85,
+    "materialClear": 1.94,
+    "studentDifficulties": 1.97,
     "courses": [
       "ENGL 134",
       "ENGL 145",
@@ -126713,14 +126755,14 @@
     "tags": {
       "Flexible Attendance Policy": 6,
       "Pop Quizzes": 20,
-      "Inflexible Grading Policy": 30,
+      "Inflexible Grading Policy": 31,
       "Zoom Office Hours": 9,
       "Fast Response Time": 9,
       "Recorded Lectures": 5,
-      "Inflexible Attendance Policy": 4,
-      "Inflexible Deadline Policy": 18,
+      "Inflexible Attendance Policy": 5,
+      "Inflexible Deadline Policy": 19,
       "Hybrid Option": 7,
-      "Does Not Use Canvas": 9,
+      "Does Not Use Canvas": 10,
       "Flexible Deadline Policy": 2,
       "Class Handouts": 1
     },
@@ -129574,6 +129616,25 @@
           "id": "1247e047-a11e-43b1-8147-99eaea357041",
           "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
           "postDate": "2026-11-14T01:53:45.973Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Doesn't follow her syllabus, will mark you a 0 for simple little mistakes and will not except a late re-submission even though her syllabus says she does. This class ruined me and my teammates life. She is a awful person who treats people even worse than how she feels on the inside. DO NOT TAKE HER PLEASE. Everyone should ace this course but instead it is mostly D's and C's due to how awful and confusing she teaches, and how rude and lazy she grades. Do not let her saying \"hello my beautiful people\" fool you. Do NOT take this course.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Does Not Use Canvas"
+          ],
+          "anonymousIdentifier": "155ce8bd7e8ba899",
+          "id": "cac5cafb-0673-40ec-b89b-7e4f27e7468d",
+          "professor": "232418f4-56c0-40af-8c87-eecb4a104a3e",
+          "postDate": "2026-11-19T03:59:27.276Z"
         }
       ]
     }
@@ -413681,20 +413742,21 @@
     "department": "HLTH",
     "firstName": "Daryl",
     "lastName": "Mangosing",
-    "numEvals": 4,
-    "overallRating": 2.25,
-    "materialClear": 2.5,
-    "studentDifficulties": 3.25,
+    "numEvals": 5,
+    "overallRating": 2.6,
+    "materialClear": 2.8,
+    "studentDifficulties": 3.4,
     "courses": [
       "HLTH 3348",
       "HLTH 3305"
     ],
     "tags": {
-      "Uploads Slides": 3,
+      "Uploads Slides": 4,
       "High In-Person Availability": 1,
       "Zoom Office Hours": 1,
       "Fast Response Time": 1,
-      "Honor DRC Accommodations": 1
+      "Honor DRC Accommodations": 1,
+      "Inflexible Attendance Policy": 1
     },
     "reviews": {
       "HLTH 3348": [
@@ -413725,6 +413787,23 @@
           "id": "83d66436-7b7e-422c-b0ec-76a0338a828c",
           "professor": "7159923e-11cb-49c7-aa5e-fdffe9cbd4ea",
           "postDate": "Mon Oct 12 2026 18:18:28 GMT+0000 (Coordinated Universal Time)"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. Mangosing is a wonderful professor who truly cares about not only how well students do in the course, but their well being as well. They provide weekly slides before class as well as additional resources to help support students on quizzes. There is one final, a group project, and one literature review. Dr. Mangosing has helpful office hours and is more than happy to answer any questions. As long as you pay attention during lectures and go to class you should get a pretty good grade.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "ce4b5d243f4bb19f",
+          "id": "494a4ce6-5ce3-4483-b700-fc0839e5a69f",
+          "professor": "7159923e-11cb-49c7-aa5e-fdffe9cbd4ea",
+          "postDate": "2026-11-18T22:18:10.947Z"
         }
       ],
       "HLTH 3305": [
@@ -507970,10 +508049,10 @@
     "department": "BUS",
     "firstName": "Remy",
     "lastName": "Kormos",
-    "numEvals": 23,
-    "overallRating": 3.31,
-    "materialClear": 3.4,
-    "studentDifficulties": 3.26,
+    "numEvals": 24,
+    "overallRating": 3.34,
+    "materialClear": 3.43,
+    "studentDifficulties": 3.29,
     "courses": [
       "BUS 410",
       "BUS 4410"
@@ -508377,6 +508456,19 @@
           "id": "ef89f94b-9637-44c3-a9b1-4db3e74e9d63",
           "professor": "88d72cca-74ab-45aa-bd6e-4eb0f5452663",
           "postDate": "2026-11-16T20:40:48.113Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Nice professor, that tells some good stories from time to time. If you are interested in law, highly recommend taking the class.",
+          "anonymousIdentifier": "923b00457b9885f2",
+          "id": "c68a47f4-c240-4b3b-b599-fbbebb9d082a",
+          "professor": "88d72cca-74ab-45aa-bd6e-4eb0f5452663",
+          "postDate": "2026-11-18T20:38:49.610Z"
         }
       ]
     }
@@ -590579,10 +590671,10 @@
     "department": "BUS",
     "firstName": "Paul",
     "lastName": "Patterson",
-    "numEvals": 20,
-    "overallRating": 2.94,
-    "materialClear": 2.95,
-    "studentDifficulties": 3.35,
+    "numEvals": 21,
+    "overallRating": 2.99,
+    "materialClear": 3,
+    "studentDifficulties": 3.38,
     "courses": [
       "BUS 346",
       "BUS 3346"
@@ -590910,6 +591002,19 @@
           "id": "9f519b16-ba4b-41fb-9db4-26d758220f2c",
           "professor": "a013ca4b-5a13-4b62-a251-4d60d6038e70",
           "postDate": "2026-11-05T00:34:18.542Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "The GOAT of marketing",
+          "anonymousIdentifier": "923b00457b9885f2",
+          "id": "c8ef9ef9-eda0-44e7-aa62-f050b0283eb3",
+          "professor": "a013ca4b-5a13-4b62-a251-4d60d6038e70",
+          "postDate": "2026-11-18T20:36:46.510Z"
         }
       ]
     }
@@ -818680,10 +818785,10 @@
     "department": "STAT",
     "firstName": "Vance",
     "lastName": "Larsen",
-    "numEvals": 33,
+    "numEvals": 34,
     "overallRating": 3.87,
-    "materialClear": 3.79,
-    "studentDifficulties": 3.75,
+    "materialClear": 3.8,
+    "studentDifficulties": 3.76,
     "courses": [
       "STAT 252",
       "STAT 1220"
@@ -818692,7 +818797,7 @@
       "Honor DRC Accommodations": 2,
       "Uploads Slides": 16,
       "Fast Response Time": 7,
-      "Flexible Attendance Policy": 16,
+      "Flexible Attendance Policy": 17,
       "Class Handouts": 1,
       "Supplemental Study Material": 9,
       "Flexible Grading Policy": 2,
@@ -819239,6 +819344,22 @@
           "id": "275105ba-fddb-4d7b-9b99-3b8d76184f61",
           "professor": "e6435044-40d7-45cd-8dbb-eac8eb9c6b75",
           "postDate": "2026-10-26T16:37:55.401Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great professor, highly recommend taking his class.",
+          "tags": [
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "923b00457b9885f2",
+          "id": "e5aab873-63ba-484c-abe2-68832c4a7ad1",
+          "professor": "e6435044-40d7-45cd-8dbb-eac8eb9c6b75",
+          "postDate": "2026-11-18T20:35:00.270Z"
         }
       ]
     }
