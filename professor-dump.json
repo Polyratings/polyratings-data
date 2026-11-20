@@ -188045,12 +188045,13 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 38,
+    "numEvals": 39,
     "overallRating": 3.89,
     "materialClear": 3.83,
     "studentDifficulties": 3.86,
     "courses": [
-      "ES 254"
+      "ES 254",
+      "ES 2254"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -188062,10 +188063,10 @@
       "Flexible Attendance Policy": 2,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 5,
-      "No Breaks During Lecture": 10,
+      "No Breaks During Lecture": 11,
       "Inflexible Deadline Policy": 1,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     },
     "reviews": {
       "ES 254": [
@@ -188657,6 +188658,25 @@
           "id": "73689325-0b73-4140-ab9d-edb0a0335f3e",
           "professor": "31a7bcad-9d07-4f6d-94db-4cb15faa22e5",
           "postDate": "Sat Aug 22 2026 22:03:07 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ES 2254": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Take his class, I would a million times over. Great lectures, clearly passionate about what he's talking about. Doesn't want to push an agenda, just educates the class on the topic. Workload isn't too heavy and the readings are interesting. Allows quiz makeups and and quizzes are online. All around goated professor!",
+          "tags": [
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "876516563964b98a",
+          "id": "643fb2da-946a-43e8-822f-baac113be122",
+          "professor": "31a7bcad-9d07-4f6d-94db-4cb15faa22e5",
+          "postDate": "2026-11-20T01:33:08.651Z"
         }
       ]
     }
@@ -372240,12 +372260,13 @@
     "department": "SS",
     "firstName": "Cody",
     "lastName": "Cameron",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
-      "SS 120"
+      "SS 120",
+      "SS 1101"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
@@ -372325,6 +372346,21 @@
           "id": "be6e8783-93bc-4d53-a37f-306274d4408f",
           "professor": "6538b797-e6ee-4b0e-8fcb-68790cd44d87",
           "postDate": "Wed Jun 03 2026 22:18:24 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "SS 1101": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "super cool dude, an absolute chiller, and little bit of a diva. would def recommend",
+          "anonymousIdentifier": "c348c5b37be1fe1a",
+          "id": "6f7eaaca-32be-42f8-8cae-1d24d262f2ce",
+          "professor": "6538b797-e6ee-4b0e-8fcb-68790cd44d87",
+          "postDate": "2026-11-19T20:45:12.090Z"
         }
       ]
     }

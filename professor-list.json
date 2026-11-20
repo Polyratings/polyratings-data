@@ -10909,12 +10909,13 @@
     "department": "ES",
     "firstName": "Dallas Taylor",
     "lastName": "Donnell",
-    "numEvals": 38,
+    "numEvals": 39,
     "overallRating": 3.89,
     "materialClear": 3.83,
     "studentDifficulties": 3.86,
     "courses": [
-      "ES 254"
+      "ES 254",
+      "ES 2254"
     ],
     "tags": {
       "Recorded Lectures": 1,
@@ -10926,10 +10927,10 @@
       "Flexible Attendance Policy": 2,
       "High In-Person Availability": 2,
       "Honor DRC Accommodations": 5,
-      "No Breaks During Lecture": 10,
+      "No Breaks During Lecture": 11,
       "Inflexible Deadline Policy": 1,
       "Inflexible Attendance Policy": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 2
     }
   },
   {
@@ -21298,12 +21299,13 @@
     "department": "SS",
     "firstName": "Cody",
     "lastName": "Cameron",
-    "numEvals": 5,
+    "numEvals": 6,
     "overallRating": 4,
-    "materialClear": 4,
+    "materialClear": 3.83,
     "studentDifficulties": 4,
     "courses": [
-      "SS 120"
+      "SS 120",
+      "SS 1101"
     ],
     "tags": {
       "Flexible Deadline Policy": 1,
