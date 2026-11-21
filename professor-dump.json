@@ -239947,28 +239947,29 @@
     "department": "ENGL",
     "firstName": "Sean",
     "lastName": "Green",
-    "numEvals": 49,
-    "overallRating": 3.46,
-    "materialClear": 3.71,
-    "studentDifficulties": 3.37,
+    "numEvals": 50,
+    "overallRating": 3.45,
+    "materialClear": 3.72,
+    "studentDifficulties": 3.38,
     "courses": [
       "ENGL 134",
       "ENGL 145",
       "ENGL 149",
-      "ENGL 1133"
+      "ENGL 1133",
+      "ENGL 1145"
     ],
     "tags": {
-      "High In-Person Availability": 2,
+      "High In-Person Availability": 3,
       "Flexible Deadline Policy": 1,
-      "Class Handouts": 4,
+      "Class Handouts": 5,
       "Honor DRC Accommodations": 2,
       "No Breaks During Lecture": 3,
       "Flexible Attendance Policy": 2,
       "Zoom Office Hours": 1,
-      "Fast Response Time": 1,
-      "Hybrid Option": 1,
+      "Fast Response Time": 2,
+      "Hybrid Option": 2,
       "Inflexible Attendance Policy": 1,
-      "Uploads Slides": 1,
+      "Uploads Slides": 2,
       "Inflexible Deadline Policy": 1,
       "Flexible Grading Policy": 1
     },
@@ -240621,6 +240622,28 @@
           "id": "8325a10f-c7ba-4a2e-883f-a51e7bc7fae3",
           "professor": "41651929-d98d-4d7f-9271-ca439b2dfa4e",
           "postDate": "2026-11-02T20:27:47.961Z"
+        }
+      ],
+      "ENGL 1145": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I think he just makes the class more work than it needs to be. He's a pretty chill grader, but the way the class is structured is kind of dumb. You start with an 84-ish percent and have to do extra credit work to get an A. It's just a lot of work for GE. But as a prof, he's pretty good. Attendence is also kinda chill, you get basically 2 skips the entire semester for a class that only met once a week. After that you have to have an actual reason to be gone.",
+          "tags": [
+            "Hybrid Option",
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Fast Response Time",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "894f7eed6bc77fbb",
+          "id": "1bbb1320-338c-48ec-a03b-73e6322e6ff9",
+          "professor": "41651929-d98d-4d7f-9271-ca439b2dfa4e",
+          "postDate": "2026-11-20T22:57:25.034Z"
         }
       ]
     }
@@ -322627,30 +322650,31 @@
     "department": "CSC",
     "firstName": "Anita",
     "lastName": "Rathi",
-    "numEvals": 42,
-    "overallRating": 1.3,
-    "materialClear": 1.96,
-    "studentDifficulties": 1.42,
+    "numEvals": 43,
+    "overallRating": 1.36,
+    "materialClear": 1.98,
+    "studentDifficulties": 1.46,
     "courses": [
       "CSC 101",
       "CSC 203",
-      "CSC 1101"
+      "CSC 1101",
+      "CSC 1001"
     ],
     "tags": {
       "Zoom Office Hours": 6,
       "Pop Quizzes": 2,
       "Inflexible Grading Policy": 9,
       "High In-Person Availability": 2,
-      "Uploads Slides": 6,
+      "Uploads Slides": 7,
       "No Breaks During Lecture": 7,
       "Inflexible Attendance Policy": 10,
-      "Inflexible Deadline Policy": 7,
-      "Class Handouts": 15,
+      "Inflexible Deadline Policy": 8,
+      "Class Handouts": 16,
       "Fast Response Time": 6,
       "Honor DRC Accommodations": 2,
       "Flexible Grading Policy": 3,
-      "Flexible Attendance Policy": 1,
-      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 2,
+      "Supplemental Study Material": 2,
       "Flexible Deadline Policy": 1
     },
     "reviews": {
@@ -323342,6 +323366,28 @@
           "id": "7fc531c5-9281-4606-bef1-e47de8981b6e",
           "professor": "57e49b9a-5bbb-441a-91e6-04f53aa9f981",
           "postDate": "2026-11-13T05:15:38.473Z"
+        }
+      ],
+      "CSC 1001": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Honestly, the old reviews are just wrong. She's so sweet and genuinely likes to check in on you and connect. I will say the class could be slightly challenging if you have no experience with Python, but she will genuinely help you a lot if you just go to her office hours. It does kinda feel like a lot of work each week, but if you try to actually stay on top of it rather than procrastinating, you'll be fine. The quizzes are every other week and are pen and paper, which is slightly annoying, but I think pretty common now. And I think she's a pretty chill grader (also most of the time its her ISA grading and they're like hella chill).",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "894f7eed6bc77fbb",
+          "id": "de91d57b-80ed-46fd-9b8d-7c372c5c4f29",
+          "professor": "57e49b9a-5bbb-441a-91e6-04f53aa9f981",
+          "postDate": "2026-11-20T23:04:40.793Z"
         }
       ]
     }
@@ -514229,19 +514275,21 @@
     "department": "MU",
     "firstName": "Stephen",
     "lastName": "Nutt",
-    "numEvals": 9,
-    "overallRating": 3.68,
-    "materialClear": 3.56,
-    "studentDifficulties": 3.79,
+    "numEvals": 10,
+    "overallRating": 3.61,
+    "materialClear": 3.6,
+    "studentDifficulties": 3.71,
     "courses": [
-      "MU 120"
+      "MU 120",
+      "MU 1120"
     ],
     "tags": {
-      "Inflexible Attendance Policy": 3,
-      "Uploads Slides": 3,
+      "Inflexible Attendance Policy": 4,
+      "Uploads Slides": 4,
       "No Breaks During Lecture": 2,
       "Supplemental Study Material": 1,
-      "Flexible Grading Policy": 1
+      "Flexible Grading Policy": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "MU 120": [
@@ -514380,6 +514428,26 @@
           "id": "f724187d-d3fb-49b4-8d6f-2227c7501a5a",
           "professor": "8a2a3a94-1600-4811-93e0-66fde0cf0ce6",
           "postDate": "Tue Mar 17 2026 04:01:58 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MU 1120": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "honestly the class wasnt that hard, i think the class was j dumb but you genuinly just have to go to class, all of the midterms and finals are online and you can take them from home. as a prof he's pretty chill",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "894f7eed6bc77fbb",
+          "id": "858cb83e-e792-4c55-88e3-3a440371779c",
+          "professor": "8a2a3a94-1600-4811-93e0-66fde0cf0ce6",
+          "postDate": "2026-11-20T23:10:32.223Z"
         }
       ]
     }
@@ -881814,10 +881882,10 @@
     "department": "EE",
     "firstName": "Wayne",
     "lastName": "Pilkington",
-    "numEvals": 53,
-    "overallRating": 3.52,
-    "materialClear": 3.62,
-    "studentDifficulties": 3.39,
+    "numEvals": 54,
+    "overallRating": 3.49,
+    "materialClear": 3.59,
+    "studentDifficulties": 3.38,
     "courses": [
       "CPE 129",
       "EE 129",
@@ -881826,15 +881894,16 @@
       "EE 328",
       "EE 368",
       "EE 419",
-      "EE 327"
+      "EE 327",
+      "EE 2328"
     ],
     "tags": {
-      "Supplemental Study Material": 3,
+      "Supplemental Study Material": 4,
       "Uploads Slides": 5,
-      "Recorded Lectures": 6,
-      "Flexible Attendance Policy": 2,
-      "Class Handouts": 2,
-      "No Breaks During Lecture": 1,
+      "Recorded Lectures": 7,
+      "Flexible Attendance Policy": 3,
+      "Class Handouts": 3,
+      "No Breaks During Lecture": 2,
       "Zoom Office Hours": 2,
       "Fast Response Time": 1,
       "Flexible Grading Policy": 1
@@ -882543,6 +882612,28 @@
           "id": "6188b2e8-c4cc-437b-be1a-36a8a76f7c9c",
           "professor": "f8406f27-58fe-470b-9858-3d8eb61fb422",
           "postDate": "Wed Mar 27 2024 22:46:15 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "EE 2328": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "TLDR: No matter who you take for 2328 it's going to be hard, and a lot of the teachers aren't great at lecturing. Still, I'd take someone other than Pilkington, since it will probably be easier. (Caveat: I didn't really use the book, which was for the quarter version of the class, or go to office hours.). If you can tough out the first part of this class it gradually gets easier. However, I wouldn\u2019t say it ever gets easy. It all builds on its self, you learn the most complicated, than learn easier and easier ways to solve the same/a bit more complicated problems. \n\n\nLecturing: Pilkington is very thorough, but it was so much that I had a hard time following. He takes a long time to get to the relevant info, so I often missed a key point. He also speeds past the important stuff and then spends ages on derivations and examples, which were hard to understand without that info. Everything builds on the previous topic, so once I got lost it was hard to tune back in. Sometimes he'll fully explain something, then say \"here's an easier version you'll actually use\" or \"we'll learn this later,\" which means you took notes on something that didn't matter (not super frequent though). The lecturing takes up the full 2 hours (rarely having lab time during class), with maybe a 50/50 chance of a break at the 1 hour mark, so you have to stay locked in the whole time. The good news is that after the first midterm the lectures feel more streamlined, though a lot more mathy. If you can follow his logic or self teach, you'll end up with a great understanding of signals as a whole.\n\n\nSupplemental materials: His notes are just his slides with fill in the blank sections (usually 60 to 200 slides). He doesn't post the slides, so these are helpful for review. However I wouldn\u2019t use these to understand the topic (take hand notes). He also posts recorded lectures and extra videos covering the math. The lecture videos have the same issues as the live lectures, but being able to rewatch sections helps. The extra videos are good for homework, though not as useful for midterms. Honestly, if you want an A, get ready to find info online and teach yourself.\n\n\nMidterms: Really hard. For the first one, he was adamant that this wasn't a math class, so it was mostly transforms and concepts. That was tough to study for, since the homework and quizzes were basically all math (they're only useful for classifications and getting started on problems). The first midterm also had only one multiple part question on something we spent many homework assignments on. The second midterm wasn't as bad, but it still felt hard to study for (could be my fault).\n\n\nHomework, quizzes, project: Definitely hard, and they can feel pointless since they don't match the midterms. Since the lectures are hard to follow, the homework can also feel needlessly hard. It's manageable though, and it really helped for the second midterm by building a base understanding.\n\nTips:\n* Take handwritten notes from the very start.\n* After class try and summarize the lecture in broad points (HW/quizzes can be helpful). This can help with looking up online videos to help you understand.\n* Make flashcards for confusing terms (like \"time invariant stable signal\"). He introduces words and then uses them together heavily.\n* Show up to every class. He sometimes drops hints about the midterms.\n* If you fall asleep in class: Get a good night's sleep or bring a coffee or energy drink. Step out if you're nodding off. FIND A WAY TO BE UNCOMFORTABLE IN CLASS!\n* Pray to whatever god you believe in, because 2328 as a whole sucked major butt.",
+          "tags": [
+            "Class Handouts",
+            "Supplemental Study Material",
+            "Recorded Lectures",
+            "Flexible Attendance Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "55c0778085e81372",
+          "id": "0ba72393-bb7d-4638-8034-cb72e7594495",
+          "professor": "f8406f27-58fe-470b-9858-3d8eb61fb422",
+          "postDate": "2026-11-20T22:41:30.209Z"
         }
       ]
     }
@@ -885919,26 +886010,28 @@
     "department": "ES",
     "firstName": "Grace",
     "lastName": "Yeh",
-    "numEvals": 49,
-    "overallRating": 3.29,
-    "materialClear": 3.5,
-    "studentDifficulties": 3.36,
+    "numEvals": 50,
+    "overallRating": 3.3,
+    "materialClear": 3.51,
+    "studentDifficulties": 3.37,
     "courses": [
       "ES 244",
       "ES 322",
       "ES 335",
-      "ES 256"
+      "ES 256",
+      "ES 2256"
     ],
     "tags": {
-      "Fast Response Time": 1,
+      "Fast Response Time": 2,
       "Class Handouts": 1,
       "Supplemental Study Material": 2,
-      "Uploads Slides": 5,
-      "Zoom Office Hours": 1,
+      "Uploads Slides": 6,
+      "Zoom Office Hours": 2,
       "Pop Quizzes": 2,
       "No Breaks During Lecture": 3,
       "Flexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2,
+      "High In-Person Availability": 1
     },
     "reviews": {
       "ES 244": [
@@ -886578,6 +886671,28 @@
           "professor": "f9678ddb-b323-4dd2-80e9-b2832215ed70",
           "postDate": "Tue May 05 2026 19:28:37 GMT+0000 (Coordinated Universal Time)"
         }
+      ],
+      "ES 2256": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "grade is made up of weekly quizzes and 3 group projects. The quizzes are pretty easy if you just do the reading and pay attention in class, and the projects are all in class. It kinda is a lot to read especially if you have a lot of other work, but attendance isn't mandatory unless you are taking a quiz or working on the project. She posts all the slides with a notes guide in Canvas, so it's really easy to go over the material if you miss class.",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "894f7eed6bc77fbb",
+          "id": "042bfbb7-6fc0-48e9-8e2b-4c78fc7b23cf",
+          "professor": "f9678ddb-b323-4dd2-80e9-b2832215ed70",
+          "postDate": "2026-11-20T22:36:13.814Z"
+        }
       ]
     }
   },
@@ -886586,10 +886701,10 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Watson",
-    "numEvals": 74,
-    "overallRating": 1.81,
+    "numEvals": 75,
+    "overallRating": 1.79,
     "materialClear": 1.77,
-    "studentDifficulties": 2.19,
+    "studentDifficulties": 2.16,
     "courses": [
       "MATH 244",
       "MATH 142",
@@ -886600,15 +886715,16 @@
     "tags": {
       "Flexible Grading Policy": 2,
       "Fast Response Time": 15,
-      "Flexible Attendance Policy": 18,
+      "Flexible Attendance Policy": 19,
       "Does Not Use Canvas": 5,
-      "High In-Person Availability": 7,
+      "High In-Person Availability": 8,
       "Inflexible Deadline Policy": 7,
       "Honor DRC Accommodations": 3,
       "Inflexible Grading Policy": 12,
       "No Breaks During Lecture": 3,
       "Flexible Deadline Policy": 1,
-      "Inflexible Attendance Policy": 1
+      "Inflexible Attendance Policy": 1,
+      "Zoom Office Hours": 1
     },
     "reviews": {
       "MATH 244": [
@@ -887734,6 +887850,24 @@
           "id": "12d267c0-5837-406a-ba0a-fd356ae1200f",
           "professor": "f96d727a-f112-4c41-b3e4-c55719e5b1ea",
           "postDate": "2026-10-27T01:16:05.429Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Genuinely, all of the reviews are true. If you can get any other prof, go with them. He doesn't curve any tests. For your grade, quizzes are 10%, homework is 10%, you have three midterms worth 15% each, and a final worth 35%. Our first midterm average was 50%, and he still didn't curve it, and when he told the class, he chuckled that pmo. The homework is just problems from the textbook, but the difficulty of the homework and the difficulty of the quizzes are very hit or miss; you're better off asking chat for practice problems. I will say to go to the workshop if you can; that was helpful and probably the only reason I passed.",
+          "tags": [
+            "Zoom Office Hours",
+            "High In-Person Availability",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "894f7eed6bc77fbb",
+          "id": "e5d33f91-649d-49f8-8fa7-37e947f2b43a",
+          "professor": "f96d727a-f112-4c41-b3e4-c55719e5b1ea",
+          "postDate": "2026-11-20T22:50:36.085Z"
         }
       ]
     }
