@@ -644426,22 +644426,22 @@
     "department": "MATH",
     "firstName": "Alex",
     "lastName": "McDonough",
-    "numEvals": 6,
-    "overallRating": 1.67,
-    "materialClear": 1.5,
-    "studentDifficulties": 1.83,
+    "numEvals": 7,
+    "overallRating": 1.57,
+    "materialClear": 1.43,
+    "studentDifficulties": 1.71,
     "courses": [
       "MATH 1264",
       "MATH 1263"
     ],
     "tags": {
       "High In-Person Availability": 1,
-      "Flexible Grading Policy": 2,
-      "Honor DRC Accommodations": 2,
-      "Flexible Attendance Policy": 4,
+      "Flexible Grading Policy": 3,
+      "Honor DRC Accommodations": 3,
+      "Flexible Attendance Policy": 5,
       "Class Handouts": 2,
       "Fast Response Time": 2,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Inflexible Grading Policy": 3,
       "Flexible Deadline Policy": 1
     },
@@ -644514,6 +644514,25 @@
           "id": "88c0ac4a-aabe-4f96-8d08-fc6f6e36ca58",
           "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
           "postDate": "2026-11-16T23:52:44.736Z"
+        },
+        {
+          "grade": "F",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "he\u2019s a nice enough guy, but i\u2019ve never learned less in a class in my life. he clearly understands the material but 95% of the lectures go way too in-depth, way too quickly for a data calc 1 class. he spends too much time trying to get us to understand why the right answers are right and the wrong answers are wrong. he doesn\u2019t provide an answer key for the homework and his office hours are generally unhelpful because he just repeats what he did in class. the class is entirely graded from weekly 1-2 question quizzes, 2 midterms, and a final. you do get to use a one sided note sheet which is very helpful, but the way he structures his exams makes knowing the formulas unhelpful if you didn\u2019t understand his theories he teaches in class. overall wouldn\u2019t recommend if you\u2019re new to calculus or are not a genius in math.",
+          "tags": [
+            "Honor DRC Accommodations",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "b62c528f5f32b74c",
+          "id": "5b59872e-31e1-491f-9ba4-804f7f9afe48",
+          "professor": "b0fc43d3-4616-43ec-8537-5ddbe8d42671",
+          "postDate": "2026-11-23T05:37:11.567Z"
         }
       ],
       "MATH 1263": [
