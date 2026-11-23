@@ -66790,17 +66790,18 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 39,
+    "numEvals": 40,
     "overallRating": 3.82,
     "materialClear": 3.86,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.76,
     "courses": [
       "MATH 142",
       "MATH 141",
       "MATH 118",
       "MATH 182",
       "MATH 143",
-      "MATH 1256"
+      "MATH 1256",
+      "MATH 1262"
     ],
     "tags": {
       "Flexible Attendance Policy": 10,
@@ -67400,6 +67401,21 @@
           "id": "9243a442-dd44-4a8a-918f-aca4b5579cba",
           "professor": "11efec99-0614-49b8-9189-bf871ce14fe5",
           "postDate": "2026-10-29T19:39:50.597Z"
+        }
+      ],
+      "MATH 1262": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Possibly the nicest professor I've ever had. Genuinely can't think of a single bad thing about him or his class.",
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "fa67f3a5-9a7c-4197-ac5a-48d0d79e91e4",
+          "professor": "11efec99-0614-49b8-9189-bf871ce14fe5",
+          "postDate": "2026-11-23T08:46:24.228Z"
         }
       ]
     }
@@ -139865,7 +139881,7 @@
     "department": "MATH",
     "firstName": "Lukas",
     "lastName": "Dakhlia",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 3.91,
@@ -139875,7 +139891,8 @@
       "MATH 162",
       "MATH 141",
       "MATH 221",
-      "MATH 112"
+      "MATH 112",
+      "MATH 1261"
     ],
     "tags": {
       "High In-Person Availability": 7,
@@ -140235,6 +140252,21 @@
           "id": "cf9f2dc6-4f87-4979-91b1-f5bd15dccd6c",
           "professor": "26555ddb-47ad-4287-8563-f5d615df76dd",
           "postDate": "Tue Jun 02 2026 20:08:12 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1261": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I think all the other reviews made every point I could tbh. He's the goat.",
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "b1b6239e-a7b2-4c0d-8a00-fe9250cd2a21",
+          "professor": "26555ddb-47ad-4287-8563-f5d615df76dd",
+          "postDate": "2026-11-23T08:43:01.574Z"
         }
       ]
     }
@@ -179748,10 +179780,10 @@
     "department": "ENGL",
     "firstName": "Morgan",
     "lastName": "White",
-    "numEvals": 13,
-    "overallRating": 3.54,
+    "numEvals": 14,
+    "overallRating": 3.57,
     "materialClear": 4,
-    "studentDifficulties": 3.7,
+    "studentDifficulties": 3.72,
     "courses": [
       "ENGL 147",
       "ENGL 317",
@@ -179761,7 +179793,7 @@
       "Hybrid Option": 5,
       "Recorded Lectures": 2,
       "Inflexible Attendance Policy": 3,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 4,
       "Zoom Office Hours": 2,
@@ -179993,6 +180025,22 @@
           "id": "85154078-22fb-4d5c-b426-8049d9394755",
           "professor": "2fa02879-9ec0-4c35-a6dc-1e755cc1091a",
           "postDate": "2026-11-05T03:52:46.304Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor White made all the projects we did super easy to get into. As someone who normally gets stressed out by writing projects, I found myself getting really interested in these and finding them a lot more fun than the ones I usually do. Great teacher overall and can also help a lot if you are unsure about an aspect of your writing/project.",
+          "tags": [
+            "Fast Response Time"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "dc101941-400d-4d93-a2a8-96f419aafbbf",
+          "professor": "2fa02879-9ec0-4c35-a6dc-1e755cc1091a",
+          "postDate": "2026-11-23T08:31:31.832Z"
         }
       ]
     }
@@ -237605,10 +237653,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 41,
-    "overallRating": 3.74,
+    "numEvals": 42,
+    "overallRating": 3.75,
     "materialClear": 3.83,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.75,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -237618,7 +237666,8 @@
       "CSC 430",
       "CSC 248",
       "CSC 445",
-      "CSC 202"
+      "CSC 202",
+      "CSC 2001"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -237629,7 +237678,7 @@
       "Hybrid Option": 1,
       "High In-Person Availability": 1,
       "Inflexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     },
     "reviews": {
       "CPE 101": [
@@ -238180,6 +238229,24 @@
           "id": "0ced2489-44d0-407a-932a-68c41d75f5ab",
           "professor": "414047ed-6130-48b3-a8ca-c305329ccf94",
           "postDate": "Fri Apr 24 2026 09:24:16 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 2001": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Such a good professor. Every concept he would explain felt intuitive and his tests are very doable if you pay attention in class. One of the best lecturers I've ever had. Really chill guy too.",
+          "tags": [
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "6233bf86-c4cf-40cb-a3e6-4e88d02b7074",
+          "professor": "414047ed-6130-48b3-a8ca-c305329ccf94",
+          "postDate": "2026-11-23T08:07:07.196Z"
         }
       ]
     }
@@ -264879,31 +264946,32 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 71,
-    "overallRating": 2.68,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.88,
+    "numEvals": 72,
+    "overallRating": 2.7,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.9,
     "courses": [
       "CPE 225",
       "CSC 225",
       "CPE 315",
       "EE 449",
       "CPE 357",
-      "CPE 133"
+      "CPE 133",
+      "CPE 2300"
     ],
     "tags": {
       "Class Handouts": 6,
-      "Uploads Slides": 18,
+      "Uploads Slides": 19,
       "Fast Response Time": 11,
       "Zoom Office Hours": 4,
-      "Flexible Attendance Policy": 7,
+      "Flexible Attendance Policy": 8,
       "Supplemental Study Material": 6,
-      "Flexible Grading Policy": 2,
-      "High In-Person Availability": 3,
+      "Flexible Grading Policy": 3,
+      "High In-Person Availability": 4,
       "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 3,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Flexible Deadline Policy": 2,
       "Does Not Use Canvas": 1
     },
@@ -265942,6 +266010,28 @@
           "id": "76fb3118-0540-4c8a-a2e0-ea956e97ce05",
           "professor": "4730925a-34d3-47b9-b66c-4efbb6f070c6",
           "postDate": "Mon Jan 05 2026 01:53:28 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CPE 2300": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I absolutely LOVED taking this class. He's a really funny guy and posts comprehensive slides that have pretty much everything you'll need to know to pass the class. His lecturing is a bit disorganized and can leave you behind if you try to keep up while writing neat notes, but they helped me get a better understanding of the material and I could check the slides at any time to get all the info I'd need. I came into this class without any knowledge of C or assembly, but I was still able to learn and use both. Though you might need to take an hour or so on your own to learn C syntax if you only know python. I learned so much here and Planck made it enjoyable the whole time. TAKE THIS CLASS.",
+          "tags": [
+            "High In-Person Availability",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "7085409d-973c-4fcc-b6e4-a9dde7f2dac1",
+          "professor": "4730925a-34d3-47b9-b66c-4efbb6f070c6",
+          "postDate": "2026-11-23T08:02:45.218Z"
         }
       ]
     }
@@ -269751,16 +269841,17 @@
     "department": "CSC",
     "firstName": "Lara",
     "lastName": "Nichols-Brown",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC 365"
+      "CSC 365",
+      "CSC 3100"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1
     },
@@ -269799,6 +269890,24 @@
           "id": "ad910a07-ebcd-42b6-ab4a-d2d8b838314a",
           "professor": "48223d07-b04f-485f-a6b1-7672426f2bf0",
           "postDate": "Wed Jun 17 2026 06:26:04 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 3100": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "She puts a lot of effort into the class and helping us students succeed. Slides are posted and if you keep up with the material on those you can do really well on all quizzes and the midterm. This really is a class where you get as much out of it as you put in. You can get good grades by doing the minimum, but there's also a lot you can learn if you take the project seriously and use what you learned in class.",
+          "tags": [
+            "Uploads Slides"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "b05ce1ba-5d47-40e3-af2c-47b0e4c831b4",
+          "professor": "48223d07-b04f-485f-a6b1-7672426f2bf0",
+          "postDate": "2026-11-23T08:21:33.674Z"
         }
       ]
     }
@@ -410733,19 +410842,20 @@
     "department": "ME",
     "firstName": "Marjan",
     "lastName": "Zare",
-    "numEvals": 15,
-    "overallRating": 2.2,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.2,
+    "numEvals": 16,
+    "overallRating": 2.19,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.13,
     "courses": [
-      "ME 303"
+      "ME 303",
+      "ME 3341"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Deadline Policy": 4,
       "Uploads Slides": 7,
       "No Breaks During Lecture": 0,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 2
     },
     "reviews": {
       "ME 303": [
@@ -410970,6 +411080,26 @@
           "id": "cdb33fc0-cc2b-4882-971b-8f8539f5951b",
           "professor": "70821e35-0bc5-42de-b7b1-d821f6faad3c",
           "postDate": "Wed Oct 07 2026 22:33:51 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ME 3341": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "I would say she teaches Fluids as all of her students were majoring in Fluid Mechanics. She is unclear with her curriculum.",
+          "tags": [
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Flexible Attendance Policy"
+          ],
+          "anonymousIdentifier": "ca682f9e7d139d91",
+          "id": "6f5247e7-c274-427b-8bda-f59a5aa692a6",
+          "professor": "70821e35-0bc5-42de-b7b1-d821f6faad3c",
+          "postDate": "2026-11-23T22:09:33.789Z"
         }
       ]
     }
@@ -611582,20 +611712,21 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 30,
-    "overallRating": 3.67,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.7,
+    "numEvals": 31,
+    "overallRating": 3.68,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.71,
     "courses": [
       "CSC 101",
       "CSC 203",
-      "CSC 357"
+      "CSC 357",
+      "CSC 2050"
     ],
     "tags": {
       "Class Handouts": 3,
       "Supplemental Study Material": 9,
-      "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 7,
+      "Flexible Grading Policy": 3,
+      "Flexible Deadline Policy": 8,
       "High In-Person Availability": 4,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
@@ -612095,6 +612226,25 @@
           "id": "b0ef650a-697d-4561-af60-f4932f66f512",
           "professor": "a58067ee-9241-41f5-9065-29e8a03e9cd4",
           "postDate": "Sun Jun 07 2026 21:02:58 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "CSC 2050": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "She is such a great teacher and a really good presenter. You can tell she puts a lot of effort into making sure everyone understands and it feels like she's super invested in students' success in the class. goat.",
+          "tags": [
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "ae83fc3a-1834-4aca-bcd1-ba2939846d6d",
+          "professor": "a58067ee-9241-41f5-9065-29e8a03e9cd4",
+          "postDate": "2026-11-23T08:15:49.019Z"
         }
       ]
     }
@@ -795399,7 +795549,7 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 59,
+    "numEvals": 60,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.79,
@@ -795409,14 +795559,17 @@
       "MATH 142",
       "MATH 143",
       "MATH 241",
-      "MATH 244"
+      "MATH 244",
+      "MATH 1262"
     ],
     "tags": {
       "High In-Person Availability": 15,
       "Fast Response Time": 13,
       "No Breaks During Lecture": 5,
-      "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 3
+      "Flexible Attendance Policy": 3,
+      "Supplemental Study Material": 3,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
     },
     "reviews": {
       "MATH 112": [
@@ -796230,6 +796383,26 @@
           "id": "764e8748-74be-4a7a-b74b-d279e28ff36a",
           "professor": "e0175751-ca70-45f8-bfbe-0dc73549597a",
           "postDate": "Wed Jun 10 2026 23:53:45 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "MATH 1262": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Every lecture he does is so well structured it feels like he practices them beforehand lol. Introduces complex topics in a way that leads you to understand them intuitively instead of just throwing proofs at you. He's also pretty funny and clearly loves math. No homework but gives recommended problems to solve. You can ace quizzes if you review your lecture notes then solve a couple questions. Same for the midterms, which are basically just a collection of the most generic question type for each topic. If you have an understanding of the concepts he's teaching and know where to start for the basic kinds of questions, you'll def do well.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Class Handouts"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "dac57ac2-c50d-48da-ba54-321be062505f",
+          "professor": "e0175751-ca70-45f8-bfbe-0dc73549597a",
+          "postDate": "2026-11-23T08:54:32.658Z"
         }
       ]
     }
@@ -896456,14 +896629,15 @@
     "department": "ES",
     "firstName": "Lizzie",
     "lastName": "Lamoree",
-    "numEvals": 14,
-    "overallRating": 3.57,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.65,
+    "numEvals": 15,
+    "overallRating": 3.6,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "WGS 201",
       "ES 112",
-      "ES 382"
+      "ES 382",
+      "ES 1112"
     ],
     "tags": {
       "Honor DRC Accommodations": 6,
@@ -896471,10 +896645,11 @@
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 5,
       "Uploads Slides": 6,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 3,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1
     },
     "reviews": {
       "WGS 201": [
@@ -896714,6 +896889,25 @@
           "id": "6dfa67f5-1ea1-4bca-9d6f-e44163bae0a2",
           "professor": "faa1bbc4-269b-4ea5-bf98-17df2a34040c",
           "postDate": "Tue Jun 02 2026 19:39:41 GMT+0000 (Coordinated Universal Time)"
+        }
+      ],
+      "ES 1112": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This class really taught me a lot and you can tell Dr. Lamoree is really knowledgable/passionate about what she's teaching. The topic is inherently interesting and it's made all the more interesting by her teaching and the readings she chooses. The tests are not memorization heavy and just require you to understand the major concepts of what's being taught. If you are not an ethnic studies major and need a class like this as a GE or state requirement, CHOOSE THIS ONE.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "anonymousIdentifier": "d10a68697f1fa43b",
+          "id": "e5c434cc-b686-4510-b7b9-feeb316659d1",
+          "professor": "faa1bbc4-269b-4ea5-bf98-17df2a34040c",
+          "postDate": "2026-11-23T08:39:58.483Z"
         }
       ]
     }

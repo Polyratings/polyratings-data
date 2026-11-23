@@ -3892,17 +3892,18 @@
     "department": "MATH",
     "firstName": "James",
     "lastName": "Crew",
-    "numEvals": 39,
+    "numEvals": 40,
     "overallRating": 3.82,
     "materialClear": 3.86,
-    "studentDifficulties": 3.75,
+    "studentDifficulties": 3.76,
     "courses": [
       "MATH 142",
       "MATH 141",
       "MATH 118",
       "MATH 182",
       "MATH 143",
-      "MATH 1256"
+      "MATH 1256",
+      "MATH 1262"
     ],
     "tags": {
       "Flexible Attendance Policy": 10,
@@ -8150,7 +8151,7 @@
     "department": "MATH",
     "firstName": "Lukas",
     "lastName": "Dakhlia",
-    "numEvals": 22,
+    "numEvals": 23,
     "overallRating": 4,
     "materialClear": 4,
     "studentDifficulties": 3.91,
@@ -8160,7 +8161,8 @@
       "MATH 162",
       "MATH 141",
       "MATH 221",
-      "MATH 112"
+      "MATH 112",
+      "MATH 1261"
     ],
     "tags": {
       "High In-Person Availability": 7,
@@ -10326,10 +10328,10 @@
     "department": "ENGL",
     "firstName": "Morgan",
     "lastName": "White",
-    "numEvals": 13,
-    "overallRating": 3.54,
+    "numEvals": 14,
+    "overallRating": 3.57,
     "materialClear": 4,
-    "studentDifficulties": 3.7,
+    "studentDifficulties": 3.72,
     "courses": [
       "ENGL 147",
       "ENGL 317",
@@ -10339,7 +10341,7 @@
       "Hybrid Option": 5,
       "Recorded Lectures": 2,
       "Inflexible Attendance Policy": 3,
-      "Fast Response Time": 5,
+      "Fast Response Time": 6,
       "Honor DRC Accommodations": 1,
       "Uploads Slides": 4,
       "Zoom Office Hours": 2,
@@ -13737,10 +13739,10 @@
     "department": "MATH",
     "firstName": "Brian",
     "lastName": "Jones",
-    "numEvals": 41,
-    "overallRating": 3.74,
+    "numEvals": 42,
+    "overallRating": 3.75,
     "materialClear": 3.83,
-    "studentDifficulties": 3.74,
+    "studentDifficulties": 3.75,
     "courses": [
       "CPE 101",
       "CPE 103",
@@ -13750,7 +13752,8 @@
       "CSC 430",
       "CSC 248",
       "CSC 445",
-      "CSC 202"
+      "CSC 202",
+      "CSC 2001"
     ],
     "tags": {
       "Zoom Office Hours": 1,
@@ -13761,7 +13764,7 @@
       "Hybrid Option": 1,
       "High In-Person Availability": 1,
       "Inflexible Grading Policy": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 2
     }
   },
   {
@@ -15105,31 +15108,32 @@
     "department": "CPE",
     "firstName": "John",
     "lastName": "Planck",
-    "numEvals": 71,
-    "overallRating": 2.68,
-    "materialClear": 2.39,
-    "studentDifficulties": 2.88,
+    "numEvals": 72,
+    "overallRating": 2.7,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.9,
     "courses": [
       "CPE 225",
       "CSC 225",
       "CPE 315",
       "EE 449",
       "CPE 357",
-      "CPE 133"
+      "CPE 133",
+      "CPE 2300"
     ],
     "tags": {
       "Class Handouts": 6,
-      "Uploads Slides": 18,
+      "Uploads Slides": 19,
       "Fast Response Time": 11,
       "Zoom Office Hours": 4,
-      "Flexible Attendance Policy": 7,
+      "Flexible Attendance Policy": 8,
       "Supplemental Study Material": 6,
-      "Flexible Grading Policy": 2,
-      "High In-Person Availability": 3,
+      "Flexible Grading Policy": 3,
+      "High In-Person Availability": 4,
       "Honor DRC Accommodations": 2,
       "Inflexible Grading Policy": 2,
       "No Breaks During Lecture": 3,
-      "Inflexible Deadline Policy": 2,
+      "Inflexible Deadline Policy": 3,
       "Flexible Deadline Policy": 2,
       "Does Not Use Canvas": 1
     }
@@ -15263,16 +15267,17 @@
     "department": "CSC",
     "firstName": "Lara",
     "lastName": "Nichols-Brown",
-    "numEvals": 2,
-    "overallRating": 3.5,
+    "numEvals": 3,
+    "overallRating": 3.67,
     "materialClear": 4,
     "studentDifficulties": 4,
     "courses": [
-      "CSC 365"
+      "CSC 365",
+      "CSC 3100"
     ],
     "tags": {
       "Supplemental Study Material": 1,
-      "Uploads Slides": 2,
+      "Uploads Slides": 3,
       "High In-Person Availability": 1,
       "Honor DRC Accommodations": 1
     }
@@ -23639,19 +23644,20 @@
     "department": "ME",
     "firstName": "Marjan",
     "lastName": "Zare",
-    "numEvals": 15,
-    "overallRating": 2.2,
-    "materialClear": 2.35,
-    "studentDifficulties": 2.2,
+    "numEvals": 16,
+    "overallRating": 2.19,
+    "materialClear": 2.33,
+    "studentDifficulties": 2.13,
     "courses": [
-      "ME 303"
+      "ME 303",
+      "ME 3341"
     ],
     "tags": {
-      "Inflexible Deadline Policy": 3,
+      "Inflexible Deadline Policy": 4,
       "Uploads Slides": 7,
       "No Breaks During Lecture": 0,
-      "Flexible Attendance Policy": 1,
-      "Inflexible Grading Policy": 1
+      "Flexible Attendance Policy": 2,
+      "Inflexible Grading Policy": 2
     }
   },
   {
@@ -34622,20 +34628,21 @@
     "department": "CSC",
     "firstName": "Vanessa",
     "lastName": "Rivera",
-    "numEvals": 30,
-    "overallRating": 3.67,
-    "materialClear": 3.55,
-    "studentDifficulties": 3.7,
+    "numEvals": 31,
+    "overallRating": 3.68,
+    "materialClear": 3.56,
+    "studentDifficulties": 3.71,
     "courses": [
       "CSC 101",
       "CSC 203",
-      "CSC 357"
+      "CSC 357",
+      "CSC 2050"
     ],
     "tags": {
       "Class Handouts": 3,
       "Supplemental Study Material": 9,
-      "Flexible Grading Policy": 2,
-      "Flexible Deadline Policy": 7,
+      "Flexible Grading Policy": 3,
+      "Flexible Deadline Policy": 8,
       "High In-Person Availability": 4,
       "Fast Response Time": 2,
       "Inflexible Attendance Policy": 2,
@@ -45711,7 +45718,7 @@
     "department": "MATH",
     "firstName": "Sean",
     "lastName": "Gasiorek",
-    "numEvals": 59,
+    "numEvals": 60,
     "overallRating": 3.78,
     "materialClear": 3.84,
     "studentDifficulties": 3.79,
@@ -45721,14 +45728,17 @@
       "MATH 142",
       "MATH 143",
       "MATH 241",
-      "MATH 244"
+      "MATH 244",
+      "MATH 1262"
     ],
     "tags": {
       "High In-Person Availability": 15,
       "Fast Response Time": 13,
       "No Breaks During Lecture": 5,
-      "Flexible Attendance Policy": 2,
-      "Supplemental Study Material": 3
+      "Flexible Attendance Policy": 3,
+      "Supplemental Study Material": 3,
+      "Flexible Deadline Policy": 1,
+      "Class Handouts": 1
     }
   },
   {
@@ -51380,14 +51390,15 @@
     "department": "ES",
     "firstName": "Lizzie",
     "lastName": "Lamoree",
-    "numEvals": 14,
-    "overallRating": 3.57,
-    "materialClear": 3.65,
-    "studentDifficulties": 3.65,
+    "numEvals": 15,
+    "overallRating": 3.6,
+    "materialClear": 3.67,
+    "studentDifficulties": 3.67,
     "courses": [
       "WGS 201",
       "ES 112",
-      "ES 382"
+      "ES 382",
+      "ES 1112"
     ],
     "tags": {
       "Honor DRC Accommodations": 6,
@@ -51395,10 +51406,11 @@
       "High In-Person Availability": 3,
       "Flexible Attendance Policy": 5,
       "Uploads Slides": 6,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Inflexible Grading Policy": 1,
       "Fast Response Time": 3,
-      "Supplemental Study Material": 1
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1
     }
   },
   {
