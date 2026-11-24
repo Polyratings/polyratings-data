@@ -4533,21 +4533,23 @@
     "department": "BUS",
     "firstName": "Drexler",
     "lastName": "Alcantara",
-    "numEvals": 14,
-    "overallRating": 3.86,
-    "materialClear": 3.79,
+    "numEvals": 15,
+    "overallRating": 3.87,
+    "materialClear": 3.8,
     "studentDifficulties": 3.94,
     "courses": [
-      "BUS 100"
+      "BUS 100",
+      "UNIV 1000"
     ],
     "tags": {
-      "Flexible Deadline Policy": 1,
-      "Flexible Grading Policy": 5,
-      "Uploads Slides": 4,
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 6,
+      "Uploads Slides": 5,
       "Fast Response Time": 4,
       "High In-Person Availability": 3,
-      "Flexible Attendance Policy": 1,
-      "Hybrid Option": 1
+      "Flexible Attendance Policy": 2,
+      "Hybrid Option": 1,
+      "No Breaks During Lecture": 1
     }
   },
   {
