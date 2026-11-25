@@ -60184,10 +60184,10 @@
     "department": "BUS",
     "firstName": "Chris",
     "lastName": "Carr",
-    "numEvals": 239,
-    "overallRating": 3.52,
-    "materialClear": 3.61,
-    "studentDifficulties": 3.32,
+    "numEvals": 238,
+    "overallRating": 3.53,
+    "materialClear": 3.62,
+    "studentDifficulties": 3.33,
     "courses": [
       "BUS 202",
       "BUS 207",
@@ -60459,19 +60459,6 @@
           "id": "b9677140-1297-4404-91ce-046f7e46e7f6",
           "professor": "10566fa1-e8c6-419c-967a-68057f2643f8",
           "postDate": "Thu Jul 02 2026 18:38:09 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Support)",
-          "overallRating": 1,
-          "presentsMaterialClearly": 1,
-          "recognizesStudentDifficulties": 1,
-          "rating": "He is sexist, I don't recommend this class.",
-          "anonymousIdentifier": "a69a91370cd22452",
-          "id": "33de2da7-83a1-4acd-8d8b-faa54e45a026",
-          "professor": "10566fa1-e8c6-419c-967a-68057f2643f8",
-          "postDate": "Thu Sep 24 2026 03:44:23 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "BUS 207": [
@@ -267823,7 +267810,7 @@
     "department": "MATH",
     "firstName": "Robert",
     "lastName": "Easton",
-    "numEvals": 90,
+    "numEvals": 89,
     "overallRating": 3.81,
     "materialClear": 3.79,
     "studentDifficulties": 3.79,
@@ -267865,18 +267852,6 @@
           "id": "85c1fe58-e19f-4908-9b66-38e6fd5045cb",
           "professor": "47945cd0-54af-44b0-bf4c-10bdd53b084f",
           "postDate": "2011-11-01T07:00:00.000Z"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Required)",
-          "overallRating": 3.82,
-          "presentsMaterialClearly": 3.8,
-          "recognizesStudentDifficulties": 3.82,
-          "rating": "This guy give a liter of content and a gallon of insight. He's no Van Lingen, but like Kaul, he's a f**kin' man-child.",
-          "id": "7c0de630-c73c-4974-9463-702867892aa7",
-          "professor": "47945cd0-54af-44b0-bf4c-10bdd53b084f",
-          "postDate": "2011-12-01T08:00:00.000Z"
         },
         {
           "grade": "B",
@@ -291025,10 +291000,10 @@
     "department": "PHIL",
     "firstName": "Sean",
     "lastName": "Pierce",
-    "numEvals": 17,
-    "overallRating": 3.76,
-    "materialClear": 3.82,
-    "studentDifficulties": 3.77,
+    "numEvals": 16,
+    "overallRating": 3.93,
+    "materialClear": 4,
+    "studentDifficulties": 3.94,
     "courses": [
       "PHIL 231",
       "PHIL 2231"
@@ -291040,9 +291015,9 @@
       "Flexible Deadline Policy": 5,
       "No Breaks During Lecture": 3,
       "Zoom Office Hours": 4,
-      "Recorded Lectures": 2,
+      "Recorded Lectures": 1,
       "High In-Person Availability": 1,
-      "Inflexible Grading Policy": 1,
+      "Inflexible Grading Policy": 0,
       "Honor DRC Accommodations": 1,
       "Flexible Attendance Policy": 1,
       "Flexible Grading Policy": 1
@@ -291291,23 +291266,6 @@
         }
       ],
       "PHIL 2231": [
-        {
-          "grade": "N/A",
-          "gradeLevel": "Junior",
-          "courseType": "General Ed",
-          "overallRating": 1,
-          "presentsMaterialClearly": 1,
-          "recognizesStudentDifficulties": 1,
-          "rating": "Ignore the reviews. He is so harsh at grading. He always claims my work is AI when it isn't, then gives a 0 on the assignment. He claims he understands and tries to reason whenever I tell him otherwise, then tries to accuse me again of AI when it isn't. Really annoying tbh. Said my work just felt \"sus\" and gave a 0. Really weird and never had a teacher like that",
-          "tags": [
-            "Recorded Lectures",
-            "Inflexible Grading Policy"
-          ],
-          "anonymousIdentifier": "a56bb958ef70c17a",
-          "id": "75d12d60-739e-448d-9d1c-2b19d69cc600",
-          "professor": "4efd7c2f-28bf-4d86-ab28-ab448acf56b7",
-          "postDate": "2026-10-29T18:57:16.734Z"
-        },
         {
           "grade": "A",
           "gradeLevel": "Freshman",
@@ -457942,10 +457900,10 @@
     "department": "TH",
     "firstName": "Phyllis",
     "lastName": "Wong",
-    "numEvals": 80,
-    "overallRating": 2.28,
-    "materialClear": 2.54,
-    "studentDifficulties": 2.25,
+    "numEvals": 77,
+    "overallRating": 2.36,
+    "materialClear": 2.62,
+    "studentDifficulties": 2.32,
     "courses": [
       "TH 210",
       "TH 227",
@@ -457953,20 +457911,20 @@
       "TH 380"
     ],
     "tags": {
-      "Flexible Attendance Policy": 2,
-      "Inflexible Attendance Policy": 17,
+      "Inflexible Attendance Policy": 16,
+      "Flexible Attendance Policy": 1,
       "Class Handouts": 3,
       "Inflexible Grading Policy": 3,
       "Recorded Lectures": 1,
       "Zoom Office Hours": 5,
       "Hybrid Option": 3,
       "Fast Response Time": 10,
-      "High In-Person Availability": 2,
       "Flexible Deadline Policy": 2,
-      "Honor DRC Accommodations": 3,
       "Supplemental Study Material": 3,
+      "Honor DRC Accommodations": 3,
       "Pop Quizzes": 1,
-      "Flexible Grading Policy": 2
+      "Flexible Grading Policy": 2,
+      "High In-Person Availability": 2
     },
     "reviews": {
       "TH 210": [
@@ -458926,45 +458884,6 @@
           "id": "42134870-8d9f-4e16-9017-99baba642de8",
           "professor": "7bd30ced-4a5c-438d-896a-d22380692a95",
           "postDate": "Tue Jun 02 2026 19:50:58 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Freshman",
-          "courseType": "General Ed",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "bro all of these good ratings are LIES LIES LIES you hear me??? LIES",
-          "anonymousIdentifier": "10fb492b6b217a60",
-          "id": "7c1f9426-66d8-4d8d-823a-7532042dd49d",
-          "professor": "7bd30ced-4a5c-438d-896a-d22380692a95",
-          "postDate": "Fri Jun 05 2026 03:21:47 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Sophomore",
-          "courseType": "General Ed",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "i listen to the good ratings and let me tell you, you will regret it",
-          "anonymousIdentifier": "10fb492b6b217a60",
-          "id": "c92ac946-a230-4456-be8f-83140cc90b83",
-          "professor": "7bd30ced-4a5c-438d-896a-d22380692a95",
-          "postDate": "Fri Jun 05 2026 03:25:41 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Junior",
-          "courseType": "General Ed",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "oh nahhhhhhhhhh bum",
-          "anonymousIdentifier": "10fb492b6b217a60",
-          "id": "5badc86d-bb0b-43c5-9866-b1c9cee73c62",
-          "professor": "7bd30ced-4a5c-438d-896a-d22380692a95",
-          "postDate": "Fri Jun 05 2026 03:27:01 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "B",
@@ -476929,10 +476848,10 @@
     "department": "CSC",
     "firstName": "Eric",
     "lastName": "Yocam",
-    "numEvals": 16,
-    "overallRating": 3.01,
-    "materialClear": 2.82,
-    "studentDifficulties": 3.19,
+    "numEvals": 15,
+    "overallRating": 2.93,
+    "materialClear": 2.73,
+    "studentDifficulties": 3.33,
     "courses": [
       "CSC 321",
       "CSC 3021"
@@ -477180,19 +477099,6 @@
         }
       ],
       "CSC 3021": [
-        {
-          "grade": "A",
-          "gradeLevel": "Senior",
-          "courseType": "General Ed",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 1,
-          "rating": "Was a good professor enjoyed his classes alot.",
-          "anonymousIdentifier": "62712540aabbf6c2",
-          "id": "e25e4e08-8571-42e2-bc27-8158df5c9b08",
-          "professor": "81270ba5-d799-465c-b9d7-61f4247bb13d",
-          "postDate": "2026-10-16T18:17:44.435Z"
-        },
         {
           "grade": "A",
           "gradeLevel": "Senior",
@@ -532263,10 +532169,10 @@
     "department": "MATH",
     "firstName": "Mark",
     "lastName": "Stankus",
-    "numEvals": 168,
-    "overallRating": 1.75,
-    "materialClear": 1.64,
-    "studentDifficulties": 1.8,
+    "numEvals": 167,
+    "overallRating": 1.76,
+    "materialClear": 1.65,
+    "studentDifficulties": 1.81,
     "courses": [
       "MATH 118",
       "MATH 133",
@@ -532284,8 +532190,7 @@
       "MATH 408",
       "MATH 412",
       "MATH 481",
-      "MATH 242",
-      "MATH 2016"
+      "MATH 242"
     ],
     "tags": {
       "High In-Person Availability": 8,
@@ -534458,21 +534363,6 @@
           "id": "c1e36c66-f9bc-45ce-b900-da0580e619cd",
           "professor": "900c2457-ebc0-4e85-8f94-c7fe8bdc1252",
           "postDate": "Sun Mar 30 2025 07:20:54 GMT+0000 (Coordinated Universal Time)"
-        }
-      ],
-      "MATH 2016": [
-        {
-          "grade": "N/A",
-          "gradeLevel": "Sophomore",
-          "courseType": "Major (Support)",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist Terrorist",
-          "anonymousIdentifier": "d75bb5234672b2cd",
-          "id": "8c2838c6-a45e-4f3e-8b4a-30912a95a71d",
-          "professor": "900c2457-ebc0-4e85-8f94-c7fe8bdc1252",
-          "postDate": "2026-11-16T02:51:08.761Z"
         }
       ]
     }
@@ -551463,10 +551353,10 @@
     "department": "EE",
     "firstName": "Anu",
     "lastName": "Aggarwal",
-    "numEvals": 44,
-    "overallRating": 2.36,
-    "materialClear": 2.64,
-    "studentDifficulties": 2.77,
+    "numEvals": 37,
+    "overallRating": 2.05,
+    "materialClear": 2.38,
+    "studentDifficulties": 2.54,
     "courses": [
       "EE 251",
       "EE 307",
@@ -551575,45 +551465,6 @@
           "id": "776300bd-07c0-49cf-9baa-885b70b1929f",
           "professor": "94803593-5bb7-4778-a758-a554481f6281",
           "postDate": "Wed May 13 2026 21:58:04 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "An absolute gem of a professor! Engineering is inherently stressful, but she makes the environment feel incredibly safe and supportive. When I got sick and missed a lecture, she was so understanding and genuinely concerned for my health\u2014she even offered to meet during separate office hours to help me catch up. She truly treats her students like human beings first and engineers second. Couldn't recommend her more!",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "c1714910-3fb0-4652-9a14-6074dab42b9c",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sun Jun 14 2026 01:04:56 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "Yes, her class is challenging, but she is the furthest thing from 'hellish.' She has high expectations because she wants us to succeed in the industry, but she backs it up with unmatched support. She is extremely encouraging, approachable, and always gives constructive, positive feedback. If you show that you care, she will match your energy tenfold. Best professor I\u2019ve had in the department.",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "b66b529b-416c-4f19-b18f-aa717dfb1295",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sun Jun 14 2026 01:05:24 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "I was terrified of taking this class because of the rumors about EE department, but she made it a breeze. She is incredibly sweet, patient, and has zero passive-aggressive energy\u2014just pure transparency and kindness. She handles extensions and student absences with so much grace and flexibility. Take her if you want a professor who actually roots for your success!",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "bcb7e3e5-aedc-49cf-8369-545c5ff443f3",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sun Jun 14 2026 01:06:06 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "N/A",
@@ -551903,58 +551754,6 @@
           "id": "de397f06-d6f3-4ce3-8ae8-c312e108d099",
           "professor": "94803593-5bb7-4778-a758-a554481f6281",
           "postDate": "Sat Jun 13 2026 02:16:43 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Junior",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "This is my honest review of Aggarwal, she is a marvelous instructor however what stood out to me the most was how kind, compassionate and overall an outstanding human being she is and her academic credentials show that to us. I am looking forward to more classes with her in the future. Highly recommend!",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "dd704375-92b1-4c7d-8189-c1852aba2fd2",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sat Jun 13 2026 19:31:57 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Senior",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "An absolute pioneer in classroom logistics! She structures her lectures beautifully and utilizes recording technology perfectly so that both sections get a seamless, identical learning experience. The audio quality in her lectures is crystal clear, and she uses the physical classroom space so dynamically to keep everyone engaged. She values our time so much that attendance feels like a reward, not a chore. 10/10 organization!",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "488e4901-0542-431c-a8b9-a4b8f3119283",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sun Jun 14 2026 01:09:39 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Junior",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "I loved the take-home exams! Unlike other professors who just copy-paste from old test banks, she crafts highly original, bespoke midterm and final questions that perfectly test your conceptual understanding. On the rare occasion there's a typo in the answer key, she is incredibly humble, takes immediate accountability, and thanks the class for collaborating with her. She treats learning as a two-way street",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "2e4ab992-7e0d-4093-af17-7fd129a1f2f8",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sun Jun 14 2026 01:10:25 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Junior",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "If you're nervous about the 306-308 series, take her! She is the most patient listener in the department. After every exam, she dedicates time to gently check in on our stress levels and validate our struggles. She never cuts anyone off and creates a beautiful, safe space for students to voice their concerns.",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "d0f808ac-4011-4eb3-9b15-d810cc631745",
-          "professor": "94803593-5bb7-4778-a758-a554481f6281",
-          "postDate": "Sun Jun 14 2026 01:12:35 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "A",
@@ -660984,10 +660783,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 56,
-    "overallRating": 1.29,
-    "materialClear": 1.3,
-    "studentDifficulties": 1.39,
+    "numEvals": 53,
+    "overallRating": 1.36,
+    "materialClear": 1.38,
+    "studentDifficulties": 1.45,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -661574,32 +661373,6 @@
         {
           "grade": "N/A",
           "gradeLevel": "Junior",
-          "courseType": "Elective",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "SOS this man and Professor Sui are terminators here to take over the world with Z-change ai slop.",
-          "anonymousIdentifier": "43eea51666356873",
-          "id": "3f464554-66a8-4e1f-935a-a4403b1bd00f",
-          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
-          "postDate": "Wed Oct 14 2026 16:01:15 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Freshman",
-          "courseType": "Elective",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "Armstrong, Kaney, David Groom if youu can hear us. Save us from this bs please.",
-          "anonymousIdentifier": "43eea51666356873",
-          "id": "709c1486-f3c6-4317-a231-723964fcec71",
-          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
-          "postDate": "Thu Oct 15 2026 20:43:36 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "Junior",
           "courseType": "Major (Required)",
           "overallRating": 4,
           "presentsMaterialClearly": 4,
@@ -661622,19 +661395,6 @@
           "id": "f1e8c230-9dd4-439b-8c4b-a9e31c02865b",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "Thu Oct 15 2026 20:58:09 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "N/A",
-          "gradeLevel": "5th/6th Year",
-          "courseType": "Elective",
-          "overallRating": 0,
-          "presentsMaterialClearly": 0,
-          "recognizesStudentDifficulties": 0,
-          "rating": "Sui herself may have written the last two reviews. Today was the first day she showed emotion. Dean Fleming please save us from this AI slop class I genuinely don't know how Cal Poly is allowing for a class written by gen AI to be taught.",
-          "anonymousIdentifier": "43eea51666356873",
-          "id": "3fc173f6-1af0-4d68-b7ca-204e9614c8ac",
-          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
-          "postDate": "Thu Oct 15 2026 22:04:10 GMT+0000 (Coordinated Universal Time)"
         }
       ],
       "BUS 3319": [
@@ -806210,10 +805970,10 @@
     "department": "CHEM",
     "firstName": "Meilin",
     "lastName": "Huang",
-    "numEvals": 67,
-    "overallRating": 0.23,
-    "materialClear": 0.19,
-    "studentDifficulties": 0.37,
+    "numEvals": 66,
+    "overallRating": 0.17,
+    "materialClear": 0.13,
+    "studentDifficulties": 0.32,
     "courses": [
       "CHEM 127",
       "CHEM 128",
@@ -806946,19 +806706,6 @@
           "id": "16854519-e3d8-4ab0-8e98-28645be1c47b",
           "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
           "postDate": "Fri May 22 2026 23:23:01 GMT+0000 (Coordinated Universal Time)"
-        },
-        {
-          "grade": "A",
-          "gradeLevel": "Freshman",
-          "courseType": "Major (Required)",
-          "overallRating": 4,
-          "presentsMaterialClearly": 4,
-          "recognizesStudentDifficulties": 4,
-          "rating": "Meilin was amazing, she had good structure and her lectures were clear and thorough.",
-          "anonymousIdentifier": "661a939503f43dff",
-          "id": "57706f74-2007-4498-b425-bd460c05b6b1",
-          "professor": "e29f813c-0973-4180-80fe-8fe215ef218a",
-          "postDate": "Sat Jun 13 2026 23:51:49 GMT+0000 (Coordinated Universal Time)"
         },
         {
           "grade": "N/A",
