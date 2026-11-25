@@ -6978,6 +6978,111 @@
     }
   },
   {
+    "id": "02cd9269-9805-49d5-8c45-fe06b530e4ce",
+    "department": "BUS",
+    "firstName": "Nelson",
+    "lastName": "Cutter",
+    "numEvals": 4,
+    "overallRating": 3.75,
+    "materialClear": 3.75,
+    "studentDifficulties": 3.5,
+    "courses": [
+      "BUS 2207"
+    ],
+    "tags": {
+      "High In-Person Availability": 3,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 2,
+      "Pop Quizzes": 2,
+      "Fast Response Time": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 2,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "BUS 2207": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Cutter was really engaging and funny. He explained things so well for the test. If you went to his class (about 25% did not) it was an easy class. Don't be depressed if you get a low score. He grades on the curve and if you pay attention, you will end up with a good grade.",
+          "tags": [
+            "High In-Person Availability",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Pop Quizzes"
+          ],
+          "id": "9421448d-b471-4113-9df4-a865888f3625",
+          "professor": "02cd9269-9805-49d5-8c45-fe06b530e4ce",
+          "postDate": "2026-10-26T14:43:00.514Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Great guy!! Explains everything with clarity and precision.",
+          "tags": [
+            "High In-Person Availability",
+            "Fast Response Time",
+            "Uploads Slides",
+            "Inflexible Deadline Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "a14c8a32-597b-423f-97f8-00f66314758a",
+          "professor": "02cd9269-9805-49d5-8c45-fe06b530e4ce",
+          "postDate": "2026-10-27T14:24:43.915Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He was so engaging and really worked hard in making clear presentations. He makes Business Law actually FUN. Because of his extensive experience he has a lot of interesting stories to share.",
+          "tags": [
+            "High In-Person Availability",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Pop Quizzes"
+          ],
+          "id": "e84a4e76-5906-473a-8898-5ee353ce2a97",
+          "professor": "02cd9269-9805-49d5-8c45-fe06b530e4ce",
+          "postDate": "2026-11-21T14:49:28.851Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Teacher is very nice and accommodating. He is passionate and learned a lot about students and technology in order to teach the best way he could. The course is very reading heavy and there is a good amount of outside work.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "5d945baf-c4c0-49b9-9e44-3b663e3e7589",
+          "professor": "02cd9269-9805-49d5-8c45-fe06b530e4ce",
+          "postDate": "2026-11-21T18:01:42.178Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "02d1d453-2d00-4512-813d-fee0c7d2105c",
     "department": "ARCH",
     "firstName": "Gabriel",
@@ -11306,6 +11411,71 @@
           "id": "592fba4b-c675-470b-b52e-9a7523f8d4da",
           "professor": "03a195d6-44a4-4e94-bee6-976383c3b825",
           "postDate": "Thu Jun 04 2026 19:13:02 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "03a84df6-724a-4713-82f3-1801544efe29",
+    "department": "STAT",
+    "firstName": "Ethan",
+    "lastName": "Marzban",
+    "numEvals": 2,
+    "overallRating": 1,
+    "materialClear": 2,
+    "studentDifficulties": 1,
+    "courses": [
+      "STAT 1110"
+    ],
+    "tags": {
+      "Uploads Slides": 2,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 2,
+      "No Breaks During Lecture": 1,
+      "Recorded Lectures": 1,
+      "Supplemental Study Material": 1,
+      "Inflexible Attendance Policy": 1
+    },
+    "reviews": {
+      "STAT 1110": [
+        {
+          "grade": "C",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "If you need to take this class for either gen ed or major support, take another professor. Prof. Marzban makes this class 10x harder than it needs to be; he expects you to read the assigned material, and if you have this class at the beginning of the week (Monday), you'll have an in-person exam that Monday after the weekend instead of the second day of the week. Overall, the material isn't that hard to understand, but when he does \"reading reviews,\" he expects you to already know and be knowledgeable about every piece of information. He doesn't teach the book's material and only reiterates when needed; it's barely a review just a couple of practice problems that he does throughout the entire lecture. He also is very test-heavy and makes \"homeworks\" that aren't graded, not a great thing for a bunch of college students who are gonna not use it until the big tests. He has discussion posts, but they don't offset how much the weekly quizzes count toward your grade. This class was constant stress over things that shouldn't be worth stressing about. My grade dropped on every single quiz, and those are like 20% of the grade. I didn't know my actual grade because he failed to link Gradescope to Canvas. His practice tests and questions are so unrelated to the exams that he even says it in class. I would be more lost if I didn't attend class. He also takes forever to post grades, slideshows, and answer keys for in-class activities (also not graded). He seems organized but clueless, especially about what is actually on the exams. Idk if it's because he is new or just clueless.\n\n\nDON'T TAKE THIS COURSE IF YOU'RE NOT THE BEST TEST TAKER. He only allows 20 minutes at the beginning of every class, and it's in person. He only increased it to 30 because he changed the quiz format halfway through the semester.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "3eff9cad-42ee-4107-9d9b-68572c2071d7",
+          "professor": "03a84df6-724a-4713-82f3-1801544efe29",
+          "postDate": "2026-11-10T00:13:27.787Z"
+        },
+        {
+          "grade": "C",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 1,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 1,
+          "rating": "If you need to take this class, choose a different professor. \"Dr.\" Marzban spends most of his lectures just working on practice problems, so it's mostly helpful if you did the assigned reading. As a result, he never teaches the concepts from the readings until they are somewhat relevant to something in class. He does in-person quizzes and on the first day of the week (mondays which I've heard is different than most other classes that take thier weekly quizzes on canvas and at the end of the week. If you are not a good test taker, avoid Marzban most of what goes on the gradebook is the quizzes and exams. He does have discussion post assignments, but those add nothing to your overall grade. He has homeworks that are ungraded, expecting most to do them but to be honest no one is going to do them. Overall he makes an already hard subject harder than it needs to be, don't take him if you expect an easy GE class. Overall, Marzban is an irritating teacher who looks down on non STATS majors, and expects us to cover 2+ chapters of reading and be prepared for quizzes the following monday. He often sends weekly emails that sound a little condescending if the whole class does badly in a quiz, and his only solution he gives to his students is to come in to office hours and refuses to heavily review even if most of the class needs it. Another thing is that half of the time he is clueless of what actually is on the exams, often saying he doesn't know the format even though in the same breath he says he worked on the exams with the department over the summer. He also fails to update grades for half of the semester I did not know my overall grades because his gradescope was not linked to Canvas. AVOID AVOID AVOID if you want to keep your grades above a B.",
+          "tags": [
+            "Recorded Lectures",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "6b0e64d5-be4e-42f6-900a-30fd52885051",
+          "professor": "03a84df6-724a-4713-82f3-1801544efe29",
+          "postDate": "2026-11-13T18:41:53.254Z"
         }
       ]
     }
@@ -25314,6 +25484,49 @@
           "id": "9ef5d69e-c437-46fd-b637-7ca549ec1720",
           "professor": "0655c4ba-79ab-4c0a-a24b-58eb883a3e4c",
           "postDate": "2013-10-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "066f0965-3b6a-45dc-87c5-cb5be84a5a71",
+    "department": "ES",
+    "firstName": "Jaime",
+    "lastName": "Ding",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ES"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "ES 2256": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "This was a perfect GE to take my first semester. It was asynchronous and low pressure. You can tell she wanted us to be interested in the topics instead of only doing the assignments for a grade. The assignments were very simple, a few readings and maybe a video to watch each week. We also had a discussion post to reflect on that week's content but even that was sometimes optional. I found everything really interesting and I appreciated that for the midterm we had some freedom in choosing our topic and how we wanted to present it.",
+          "tags": [
+            "Zoom Office Hours",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "dea0a4e5-b593-4a5e-aafb-d5d325adde51",
+          "professor": "066f0965-3b6a-45dc-87c5-cb5be84a5a71",
+          "postDate": "2026-11-09T18:13:22.371Z"
         }
       ]
     }
@@ -39803,6 +40016,49 @@
           "id": "95b6275d-3eb0-436f-a0c6-3123bb4b3af4",
           "professor": "0b0836c9-598a-4af2-b738-2018f87a5d36",
           "postDate": "2026-10-19T18:17:43.621Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "0b479197-eef3-4801-b88f-a9c3092dc323",
+    "department": "BIO",
+    "firstName": "Primrose",
+    "lastName": "Boynton",
+    "numEvals": 1,
+    "overallRating": 1,
+    "materialClear": 1,
+    "studentDifficulties": 2,
+    "courses": [
+      "MCRO"
+    ],
+    "tags": {
+      "Class Handouts": 1,
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
+    },
+    "reviews": {
+      "MCRO 2224": [
+        {
+          "grade": "D",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Primrose needs to completely reassess her teaching style. She is a completely ineffective teacher that goes way too fast during lecture and is the most confusing presenter I've ever experienced. She turns the simplest topics into mind-benders and purposely makes her tests overly confusing, with extremely low averages. She is very unapproachable and does not seem to care if her students succeed. She is very interested in the course material, but will emphasize things that aren't relevant to the course/students' grade. Also, its nice that she tries to do interactive activities, but in a 200 person lecture it becomes extremely disorganized and time-wasting.",
+          "tags": [
+            "Class Handouts",
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "eac7e152-2145-4265-9bcc-0307d7d965b8",
+          "professor": "0b479197-eef3-4801-b88f-a9c3092dc323",
+          "postDate": "2026-11-16T20:18:31.162Z"
         }
       ]
     }
@@ -106960,6 +107216,47 @@
           "id": "3ee2d21f-9df6-43f3-b1d9-89e6d12ea9a4",
           "professor": "1c7b86b7-501c-4902-ac45-165e938d2f75",
           "postDate": "Sun Dec 21 2025 07:05:33 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1c8c9230-d93d-4c1d-8324-4e1710c4f3f0",
+    "department": "ENGL",
+    "firstName": "Evan",
+    "lastName": "Doi",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGL"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "ENGL 1134": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Evan is an amazing teacher who grades generously, gives you extra time for assignments if you ask and is always available for office hours or questions. Absolutely take his class.",
+          "tags": [
+            "Zoom Office Hours",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "974b33d8-98f5-49bc-8ac5-7035fbe6512d",
+          "professor": "1c8c9230-d93d-4c1d-8324-4e1710c4f3f0",
+          "postDate": "2026-11-04T05:37:35.751Z"
         }
       ]
     }
@@ -199521,6 +199818,79 @@
     }
   },
   {
+    "id": "34e2ceb3-61a6-498f-afd7-b06c12714e17",
+    "department": "CE",
+    "firstName": "Jennifer",
+    "lastName": "Epp",
+    "numEvals": 3,
+    "overallRating": 0.67,
+    "materialClear": 0.67,
+    "studentDifficulties": 0.67,
+    "courses": [
+      "CE 1111"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 3,
+      "Inflexible Deadline Policy": 3,
+      "Inflexible Grading Policy": 3
+    },
+    "reviews": {
+      "CE 1111": [
+        {
+          "grade": "CR",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 2,
+          "rating": "The class itself is very easy. Essentially just come to class and go to clubs. However, the professor \ud83e\udd72\ud83e\udd72\ud83e\udd72. She acts like she's teaching a 4 unit upper division class. The class requires you to go to 15/16 lectures for an 8am class. This is enforced through an attendance quiz every day. Before, it used to be given out at the end of the lecture; however it got switched halfway through the semester because too many people were coming in 3-7 minutes late... to an 8am class... She then switched it to at the beginning of the class. You couldn't show up even 3 minutes late. If you came to class even 3 minutes late you'd have to complete an essay to get credit for the day. She calls people out for whispering in her class (theres like 200 people there). Furthermore, if you pack up even 2 minutes early she'll tell you to stop because she's still talking. One time she told the class off because there was still 30 seconds left of class. The class itself is having people from clubs come and persent, she doesn't even teach but she has the ego of the most insufferable high school teacher you've ever had.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "341aa105-b7b7-42aa-ba9f-bc7aae24d261",
+          "professor": "34e2ceb3-61a6-498f-afd7-b06c12714e17",
+          "postDate": "2026-10-30T04:51:58.098Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Mandatory attendence for an 8 am, if you miss more than 1 class you fail. The teacher also is incredibly strict for some reason and will fail you if you are late or leave early. She also just on week 11 gave out a survey at the end of class which if you didn't fill out you fail, so be sure to pick that up. You don't actually learn anything in this class with this professor she literally just makes you show up for no reason and you have to retake it if you fail it. Just a total nightmare of a professor if any other teacher teaches this class take it with them instead.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "id": "b8710006-b25b-4989-8958-4c5226161578",
+          "professor": "34e2ceb3-61a6-498f-afd7-b06c12714e17",
+          "postDate": "2026-11-10T02:09:13.308Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 0,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 0,
+          "rating": "This teacher sucks avoid her at all costs if you have any other option to get this credit. Mandatory attendance for her 8 am class don't even think about skipping more than one in person lecture where she literally just brings a random engineering club to present their club on a Friday or u get failed automatically. Super inflexible on her assignments never responds to emails, i would not be surprised if by the end of this semester majority of the class gets no credit for the course.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "9832e315-1c73-4b65-b3a1-b8e36aa48220",
+          "professor": "34e2ceb3-61a6-498f-afd7-b06c12714e17",
+          "postDate": "2026-11-22T12:51:18.512Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "3510e39e-ea82-44fc-8e33-a77b358fcbcb",
     "department": "BIO",
     "firstName": "Michele",
@@ -256547,6 +256917,45 @@
     }
   },
   {
+    "id": "45e5f7a3-e160-42c8-9d84-68469557bb1f",
+    "department": "MU",
+    "firstName": "Lorenzo",
+    "lastName": "Johnson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "MU"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Class Handouts": 1,
+      "Hybrid Option": 1
+    },
+    "reviews": {
+      "MU 3324": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Dr. Johnson is the goat for real. Classes are often a mix of lectures and small group discussions alongside lots of videos of songs and sometimes he sings for us as well. It's a fairly interesting class that really focuses on Black spirituals and the role experiences of slavery/racism had on music. This class also focuses on the importance of empathizing and understanding contexts in performances. There are weekly discussion posts and around one reading assignment a week, but other than that the coursework is pretty light. Exams aren't generally graded on the correctness of it but more so the writing, and Dr. Johnson is a pretty light grader in that sense. (And mind you he gives the exam questions prior to the actual exam as a study guide + the avg & median were both around 95%). And his exam questions really push you to think critically which I honestly enjoy as I feel that is crucial in learning. Overall, he is a very jolly guy and is a really amazing singer who really puts emphasis on the importance of education and learning. Class is mandatory as he takes attendance and this really makes a difference in your grade. I took it half async, so I only had 50-minute classes on Tuesday and Thursday, so it was pretty chill. TAKE THIS CLASS!!!!",
+          "tags": [
+            "Uploads Slides",
+            "Class Handouts",
+            "Hybrid Option"
+          ],
+          "id": "6ef5857e-0216-4476-a0d9-d17da006187a",
+          "professor": "45e5f7a3-e160-42c8-9d84-68469557bb1f",
+          "postDate": "2026-11-19T20:33:34.635Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "461245c0-275a-4da4-b409-8ba3ccd2b652",
     "department": "TH",
     "firstName": "Philip",
@@ -268933,6 +269342,45 @@
     }
   },
   {
+    "id": "47d8bbcc-d05a-412d-a3b9-25108a16f58d",
+    "department": "CE",
+    "firstName": "Alireza",
+    "lastName": "Shams",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "CE"
+    ],
+    "tags": {
+      "Recorded Lectures": 1,
+      "Uploads Slides": 1,
+      "No Breaks During Lecture": 1
+    },
+    "reviews": {
+      "CE 1112": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great great professor!! Responds to feedback, offers a good amount of extra credit, and allows cheat sheets on exams. Sometimes gives videos to watch outside of lecture which can be annoying but overall really helpful to complete homework, labs, and test material.",
+          "tags": [
+            "Recorded Lectures",
+            "Uploads Slides",
+            "No Breaks During Lecture"
+          ],
+          "id": "1a584b6d-b317-4ddb-8557-f18595fe9153",
+          "professor": "47d8bbcc-d05a-412d-a3b9-25108a16f58d",
+          "postDate": "2026-10-29T17:39:19.367Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "47dbf43d-97ca-4d62-baf8-3696b3a9f4ab",
     "department": "BUS",
     "firstName": "Jim",
@@ -269856,6 +270304,45 @@
           "id": "0e5f0e48-c8ae-4e81-b5ce-b6dbe6275a28",
           "professor": "480d5a00-8603-4ac6-a7cc-17be945f6bf7",
           "postDate": "2005-04-01T08:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "481657a1-7f37-48c7-b114-b1fba64c1e65",
+    "department": "BRAE",
+    "firstName": "Mary",
+    "lastName": "Stanton",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "BRAE"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "BRAE 2237": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Mary is the best. Easy A if you know what you are doing. There are two practical midterms with an online MCQ, and the final is also online. The labs can be a little confusing but you'll survive.... or not. (Used to be BRAE 237)",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "69e08f63-0d14-4095-83d3-a83a3eb7c6d8",
+          "professor": "481657a1-7f37-48c7-b114-b1fba64c1e65",
+          "postDate": "2026-10-27T05:24:13.828Z"
         }
       ]
     }
@@ -283122,6 +283609,45 @@
     }
   },
   {
+    "id": "4b6d94be-24d9-49a9-8130-a11506b57549",
+    "department": "ARCH",
+    "firstName": "Jonathan",
+    "lastName": "Bean",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 3,
+    "studentDifficulties": 0,
+    "courses": [
+      "ARCH"
+    ],
+    "tags": {
+      "Inflexible Grading Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1
+    },
+    "reviews": {
+      "ARCH 2241": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 0,
+          "rating": "Jonathan Bean is new so I\u2019ll give him the benefit of the doubt but he takes everything much too seriously. He grades much harder than all the other tech professors and when he leads activity he is hard to follow and doesn\u2019t know when to stop to let everyone else catch up. Never seen anyone say anything good about him.",
+          "tags": [
+            "Inflexible Grading Policy",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "id": "ca75020a-158c-44ed-838c-f33f00a1ee2e",
+          "professor": "4b6d94be-24d9-49a9-8130-a11506b57549",
+          "postDate": "2026-10-28T01:51:39.952Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "4b8391cb-7ece-4dc4-87d0-683bb7a27e58",
     "department": "MU",
     "firstName": "Alicia",
@@ -289151,6 +289677,67 @@
           "id": "bb4c94c9-ea6e-416f-a5ee-b971b3522ac5",
           "professor": "4def0287-ca36-4f6d-8b50-ef6252b5e025",
           "postDate": "Fri Oct 09 2026 20:41:58 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4df868a4-1630-494c-b78d-0dc5bd148041",
+    "department": "BUS",
+    "firstName": "Ben",
+    "lastName": "Galvin",
+    "numEvals": 2,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS 3387"
+    ],
+    "tags": {
+      "Fast Response Time": 2,
+      "Flexible Attendance Policy": 2,
+      "Flexible Deadline Policy": 2,
+      "Flexible Grading Policy": 2,
+      "Uploads Slides": 1
+    },
+    "reviews": {
+      "BUS 3387": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Ben is a wonderful teacher! Class is so chill and he is so understanding. The workload is super light with just two finals and a semester long project. He is so kind and optimistic and makes every student feel welcomed. Only note is that lectures can be kinda boring.",
+          "tags": [
+            "Fast Response Time",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "01a82ea7-b6a9-40fc-b22d-971fa434c00f",
+          "professor": "4df868a4-1630-494c-b78d-0dc5bd148041",
+          "postDate": "2026-11-16T20:09:34.929Z"
+        },
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "One of the best teachers I have ever had. I could not be there to take a midterm and he completely understood. He is one of the kindest people I ever met, he knows every student's name and their hobbies, and he will always say \"Hi\" outside of class. he is very good at preparing you for midterms, and really values students mental health and well being. You can tell he loves teaching, and really wants the students to learn the material. The biggest project you have all semester long to do and he is very helpful if you need insights or advice. He is the best teacher I have had at Cal Poly.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Uploads Slides",
+            "Fast Response Time"
+          ],
+          "id": "feadb369-8a35-49d2-9eea-e66b4a189832",
+          "professor": "4df868a4-1630-494c-b78d-0dc5bd148041",
+          "postDate": "2026-11-16T20:13:53.531Z"
         }
       ]
     }
@@ -304656,25 +305243,28 @@
     "department": "COMS",
     "firstName": "Sergio",
     "lastName": "Juarez",
-    "numEvals": 9,
-    "overallRating": 3.11,
-    "materialClear": 2.78,
-    "studentDifficulties": 3.88,
+    "numEvals": 10,
+    "overallRating": 3,
+    "materialClear": 2.7,
+    "studentDifficulties": 3.79,
     "courses": [
       "COMS 101",
       "COMS 316",
-      "COMS 1100"
+      "COMS 1100",
+      "COMS 1101"
     ],
     "tags": {
       "Class Handouts": 4,
       "Uploads Slides": 1,
       "No Breaks During Lecture": 2,
-      "Inflexible Attendance Policy": 2,
+      "Inflexible Attendance Policy": 3,
       "Flexible Grading Policy": 3,
       "Flexible Deadline Policy": 4,
       "Fast Response Time": 4,
       "High In-Person Availability": 1,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1
     },
     "reviews": {
       "COMS 101": [
@@ -304835,6 +305425,25 @@
           "id": "faabef60-9022-4e4e-9e6f-c4ded5ee9648",
           "professor": "51cf5d50-3e37-4dc6-a63b-a52ac8883b1b",
           "postDate": "2026-11-04T06:43:23.097Z"
+        }
+      ],
+      "COMS 1101": [
+        {
+          "grade": "C",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "He's a nice guy, I'll give him that. BUT DO NOT TAKE HIM FOR GE COMS!!!!!!!! His class is organized TERRIBLY. He never follows the syllabus. He gives more time for easy assignments and absolutely no time for difficult long ones. I had to draft, prepare, and give a 9 minute speech in a 1 and half week time frame. He is also a harsh grader, and gives no wiggle room with attendance policies. He also told me he \"isn't required to respect my DRC accommodations.\" He sucks.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy"
+          ],
+          "id": "03d8ab41-bd79-4665-9b5d-c0d4d6dab9ae",
+          "professor": "51cf5d50-3e37-4dc6-a63b-a52ac8883b1b",
+          "postDate": "2026-11-17T02:32:49.713Z"
         }
       ]
     }
@@ -403609,6 +404218,49 @@
     }
   },
   {
+    "id": "6c452684-8825-4874-9ec5-ecd7ee9e5e4b",
+    "department": "NR",
+    "firstName": "Aakash",
+    "lastName": "Ahamed",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "NR 2218"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Fast Response Time": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "NR 2218": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "I would HIGHLY recommend taking Aakash if you want to take intro to GIS. He manages to break down topics into lessons that feel like elementary schoolers would understand without being annoying or rude. He is a super accomplished person, but he is still humble and cares for his students. The class is fully project based which means no tests. He starts out using QGIS and switches to ARC Pro in the last few weeks. I found that I kinda just mostly understood how to use ARC Pro pretty quickly since it's similar to QGIS but a lot more intuitive in my opinion. He reviews the material we've gone through in previous classes every lecture, which can feel long and sometimes even a bit boring, but it was helpful to engrave topics into my head. He also is young which I feel like is helpful for a tech class since he has modern views on GIS I think and I think it creates for a better learning experience. He also also completely self taught in GIS which is also cool. I really like his approach to teaching this class, and he's also very personable and always has helpful info and cool people and opportunities to point you towards.",
+          "tags": [
+            "Uploads Slides",
+            "Fast Response Time",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "c2d2cb2e-95fc-419b-864b-f787ef97f3fd",
+          "professor": "6c452684-8825-4874-9ec5-ecd7ee9e5e4b",
+          "postDate": "2026-11-12T20:34:32.418Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "6c492fb2-77f4-439d-8f98-15a60aa68098",
     "department": "MATH",
     "firstName": "Anna",
@@ -465905,6 +466557,45 @@
     }
   },
   {
+    "id": "7d7d7add-e016-40c3-9add-93b575bdefc4",
+    "department": "PHYS",
+    "firstName": "Tori",
+    "lastName": "Bonidie",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "PHYS"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Class Handouts": 1,
+      "Flexible Attendance Policy": 1
+    },
+    "reviews": {
+      "PHYS 1141": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Tori is amazing! She clearly puts a lot of time into making sure everyone in the class can understand the material and succeed in the class. She starts each class with some review questions on the board, explains the slides' content really intuitively, goes through examples with us, and posts the slides (which are really well made) afterwards. She's also one of the nicest professors I've ever had. Can't express enough how much I appreciate the effort she put into the class.",
+          "tags": [
+            "Uploads Slides",
+            "Class Handouts",
+            "Flexible Attendance Policy"
+          ],
+          "id": "d52ad394-cc8a-46f4-a58f-d01bdbdead00",
+          "professor": "7d7d7add-e016-40c3-9add-93b575bdefc4",
+          "postDate": "2026-11-23T09:11:03.591Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "7d8c83fb-8cbe-4bfb-ab0c-79cd940bae04",
     "department": "FSN",
     "firstName": "Hannah",
@@ -466010,6 +466701,49 @@
           "id": "5def81ba-5c24-4b96-9750-dc4974e3079d",
           "professor": "7d8d2101-38d4-4953-b511-d7b1ab9e475d",
           "postDate": "Fri Jun 07 2024 05:42:13 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "7de803c1-4c2e-41b0-891b-66bb841eb1b9",
+    "department": "COMS",
+    "firstName": "Yuming",
+    "lastName": "Fang",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 0,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    },
+    "reviews": {
+      "COMS 2213": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Easiest A I have ever gotten. With that being said, I cannot believe this teacher gets paid to \"teach\" this class. The teacher only teaches 4 classes and leaves the rest of the semester up to each individual group to present and teach the class each week. She sits on her phone while you present or just gets up and leaves the class. Easy A but it is stupid that this is a teacher that gets paid by our school.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "a3bbbb1c-b189-415d-bf21-685612c4d8f3",
+          "professor": "7de803c1-4c2e-41b0-891b-66bb841eb1b9",
+          "postDate": "2026-10-28T16:51:23.064Z"
         }
       ]
     }
@@ -519749,6 +520483,71 @@
     }
   },
   {
+    "id": "8c145cea-285f-4c37-bd34-8a52273e9a52",
+    "department": "BUS",
+    "firstName": "Roxanne",
+    "lastName": "Ross",
+    "numEvals": 2,
+    "overallRating": 3,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS 3387"
+    ],
+    "tags": {
+      "Uploads Slides": 2,
+      "Inflexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1,
+      "Fast Response Time": 1,
+      "Supplemental Study Material": 1,
+      "Class Handouts": 1
+    },
+    "reviews": {
+      "BUS 3387": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Class feels like it drags, not too bad of a class if you're interested in the topics.",
+          "tags": [
+            "Uploads Slides",
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "5313f2f7-a4f3-45d1-8cc9-f6577de2d737",
+          "professor": "8c145cea-285f-4c37-bd34-8a52273e9a52",
+          "postDate": "2026-10-27T16:19:00.464Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "honestly have not learned much in this class and i feel like it drags so long every time. The midterm was pretty hard and had a lot of different niche topics from the book and assigned readings. definitely not the hardest class but feels like a psych class which i dont like",
+          "tags": [
+            "Fast Response Time",
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Class Handouts",
+            "Inflexible Attendance Policy"
+          ],
+          "id": "224429f0-ca0d-45ec-bf37-da0a58a9cbb5",
+          "professor": "8c145cea-285f-4c37-bd34-8a52273e9a52",
+          "postDate": "2026-11-05T18:51:38.835Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "8c33ff97-b8fa-4e9d-b3e9-db3fb2e87e55",
     "department": "ME",
     "firstName": "Alex",
@@ -553340,6 +554139,49 @@
     }
   },
   {
+    "id": "95aa939a-28a5-4ce9-9a4d-ef7e3403691a",
+    "department": "LS",
+    "firstName": "Renae",
+    "lastName": "Mattson",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "LS"
+    ],
+    "tags": {
+      "Zoom Office Hours": 1,
+      "Fast Response Time": 1,
+      "High In-Person Availability": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1
+    },
+    "reviews": {
+      "LS 2255": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "BEST TEACHER EVER. if you get chance to take her please do. ive never even rated a prof but shes so great I had to rant. she is kind, understanding, and understands college stress. no final, no exams, she reminds me so much of elementary teachers that actually like connecting with students. she cares so much and you can tell in every class. pls take her and treat her with kindness",
+          "tags": [
+            "Zoom Office Hours",
+            "Fast Response Time",
+            "High In-Person Availability",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy"
+          ],
+          "id": "36139a75-3e13-466c-948c-117b75084268",
+          "professor": "95aa939a-28a5-4ce9-9a4d-ef7e3403691a",
+          "postDate": "2026-11-10T01:17:54.611Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "95b9945e-864c-4cf3-9694-ede68a93c49c",
     "department": "CHEM",
     "firstName": "Elahe",
@@ -563201,6 +564043,36 @@
           "id": "996ffd59-3f27-4a02-9e2f-f2a2e3645f20",
           "professor": "98904beb-cda2-4fae-b968-431bb0f50f7a",
           "postDate": "2017-11-01T07:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "98bd64b0-5ef7-4b1e-99b9-e5b91b8301e1",
+    "department": "ENGR",
+    "firstName": "Nina",
+    "lastName": "Aliamus",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "ENGR"
+    ],
+    "tags": {},
+    "reviews": {
+      "ENGR 2211": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Still in this class so this can change, but thought I'd be her first review. She's the goat, genuine good teacher and one of the most forgiving graders I've had at Cal Poly. She gives a lot of HW but tbh I think every mechanics/statics professor does. Zero midterms, quizzes like every few weeks but the quizzes are either copy paste of HW problems with different numbers or a take home quiz or group quiz. 10/10 would recommend.",
+          "id": "a96cd0c3-b53c-44b0-b441-f501503fb29d",
+          "professor": "98bd64b0-5ef7-4b1e-99b9-e5b91b8301e1",
+          "postDate": "2026-10-29T04:33:33.619Z"
         }
       ]
     }
@@ -582546,6 +583418,43 @@
     }
   },
   {
+    "id": "9d3efa68-3335-4d15-9836-ac08ad7f78e5",
+    "department": "COMS",
+    "firstName": "Kay",
+    "lastName": "Gim",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Pop Quizzes": 1
+    },
+    "reviews": {
+      "COMS 2215": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Overall, this was his first year teaching at Cal Poly, but he is super sweet. The class isn't very hard with one group project that is a large portion of your grade as well as two midterms. The first midterm was online, but he is making the second on in person, so idk if he will change them to be in person only from now on. The lectures are kinda boring but not complex at all. He does do random pop quizzes for attendance every so often so you do kinda need to go to class somewhat often. He also will grade for in class time to work on your project and if you are not there he will take points off. He is a really nice guy tho and I def recommend him as a teacher.",
+          "tags": [
+            "Uploads Slides",
+            "Pop Quizzes"
+          ],
+          "id": "7eb07309-7672-4d3a-9ccc-9fc6de563a74",
+          "professor": "9d3efa68-3335-4d15-9836-ac08ad7f78e5",
+          "postDate": "2026-11-05T22:03:16.702Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "9d48cd91-d505-47a6-a15f-5ae2502d73ab",
     "department": "SPAN",
     "firstName": "Karen",
@@ -589384,6 +590293,45 @@
           "id": "841e3bfc-2c8b-45ea-998f-143c2b41fcde",
           "professor": "9f085275-d1cb-49ad-9832-49f5805fb3f9",
           "postDate": "2003-04-01T08:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9f271621-9b77-4453-bfb4-26c8f0fa5176",
+    "department": "BIO",
+    "firstName": "Reed",
+    "lastName": "Kenny",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BIO"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Supplemental Study Material": 1,
+      "Flexible Attendance Policy": 1
+    },
+    "reviews": {
+      "BIO 1114": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "great lecture prof for bio 1114, his lectures are interesting and he does engage people a decent amount without it being annoying, and you can tell he is passionate and very knowledgeable about California ecology. You learn lots about California ecosystems, unique plants and their structures, as well as a little about more broad plants and ecosystems in general. The lecture exams are pretty easy and he gives excellent study guides (which the tests closely follow) and the lab is going on hikes and learning plants, and sometimes looking at plants under the microscope. He also gives short breaks during lecture, and though attendance usually isn't mandatory, he talks a lot beyond the slides, and his lectures are just interesting to be at. The lab midterm/final are inherently harder since you are memorizing scientific names/visual clues, but its not like math where you have to \"get it\" - you just study",
+          "tags": [
+            "Uploads Slides",
+            "Supplemental Study Material",
+            "Flexible Attendance Policy"
+          ],
+          "id": "857dc0a1-95ff-4fad-9021-feae92146d43",
+          "professor": "9f271621-9b77-4453-bfb4-26c8f0fa5176",
+          "postDate": "2026-11-23T02:14:33.441Z"
         }
       ]
     }
@@ -607272,6 +608220,41 @@
     }
   },
   {
+    "id": "a39c25c8-e2f2-44a3-a120-ed917e58a8f7",
+    "department": "BUS",
+    "firstName": "Mike",
+    "lastName": "Hammons",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS 4401"
+    ],
+    "tags": {
+      "Uploads Slides": 1
+    },
+    "reviews": {
+      "BUS 4401": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Genuinely a great and funny guy, has decades of experience within the business world, knows what he is talking about, lots of corporate and entrepreneurship experience, worked with several renowned CEOs of huge companies, prepped high value companies to sell or be acquired. The quizzes, midterm, and final are open-note/book, and you get assigned a group that you work with for the final project (pick a company + analyze it) + present. Great professor, cannot recommend more",
+          "tags": [
+            "Uploads Slides"
+          ],
+          "id": "933d0bd7-f970-4eee-b755-7b324faf8951",
+          "professor": "a39c25c8-e2f2-44a3-a120-ed917e58a8f7",
+          "postDate": "2026-10-26T18:02:48.567Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "a3a3448c-a0e6-4dbf-bf2a-c79c3c707e05",
     "department": "KINE",
     "firstName": "Heather",
@@ -623880,6 +624863,49 @@
           "id": "dad1a1e6-cc8f-4ea3-b677-51c989498217",
           "professor": "a9edc759-2b16-440d-a460-cab95836335b",
           "postDate": "Sun Jun 07 2026 20:19:21 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "aa2a3c35-a547-4eda-9117-596edcd1ed8e",
+    "department": "BOT",
+    "firstName": "Cole",
+    "lastName": "Ivie",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BOT"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "High In-Person Availability": 1,
+      "Fast Response Time": 1
+    },
+    "reviews": {
+      "BOT 1121": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "He was my lab professor and explained everything so well. I sometimes understood things from his lab better than lecture.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "High In-Person Availability",
+            "Fast Response Time"
+          ],
+          "id": "e3b99f52-eb3b-4149-a21e-c9973a7be0d8",
+          "professor": "aa2a3c35-a547-4eda-9117-596edcd1ed8e",
+          "postDate": "2026-11-16T22:38:05.243Z"
         }
       ]
     }
@@ -646830,6 +647856,47 @@
     }
   },
   {
+    "id": "b21295ad-f005-4da9-af46-0a8ddcaa0818",
+    "department": "BUS",
+    "firstName": "Diana",
+    "lastName": "Quevedo",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "BUS 3310": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Great professor overall and pretty easy class. Class is based on a a semester long group project. Be prepared to present frequently but they are very chill presentations. Lecture days are pretty boring but she does add in some fun activities in class. No exams or quizzes and she does not take attendance. Quevedo is an easy grader and if you show effort and care in your project idea, you will be fine in the class.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "3870fc82-7d1a-4b6f-a3be-e8d1a517a83e",
+          "professor": "b21295ad-f005-4da9-af46-0a8ddcaa0818",
+          "postDate": "2026-11-02T19:00:31.699Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "b23d7312-6906-4c1c-a8cd-dcf14c6c59a5",
     "department": "ENGL",
     "firstName": "Kacie",
@@ -659917,10 +660984,10 @@
     "department": "BUS",
     "firstName": "Chuancai",
     "lastName": "Zhang",
-    "numEvals": 55,
-    "overallRating": 1.24,
-    "materialClear": 1.25,
-    "studentDifficulties": 1.34,
+    "numEvals": 56,
+    "overallRating": 1.29,
+    "materialClear": 1.3,
+    "studentDifficulties": 1.39,
     "courses": [
       "BUS 319",
       "BUS 3319"
@@ -660700,6 +661767,19 @@
           "id": "fce74e60-93a9-4cb4-99c7-3f1e24ff6ba3",
           "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
           "postDate": "2026-11-17T02:46:05.293Z"
+        },
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "goat professor ignore the other ratings take his class",
+          "anonymousIdentifier": "7365d9f4207181e0",
+          "id": "2c9f4d3d-99ab-4f8b-aa4f-1697f2fe5f8b",
+          "professor": "b56653d7-d5a3-409d-aa33-dc6e70e90f24",
+          "postDate": "2026-11-25T02:53:41.765Z"
         }
       ]
     }
@@ -727086,6 +728166,43 @@
     }
   },
   {
+    "id": "cb4b8cd2-7cdd-4c68-95a0-b57df7263324",
+    "department": "NR",
+    "firstName": "Ryoko",
+    "lastName": "Araki",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "NR"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Class Handouts": 1
+    },
+    "reviews": {
+      "NR 3319": [
+        {
+          "grade": "A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "So sweet so wholesome & super smart. Will understand and is open to any questions, also loves when people chat with her or go to her office hours. Sooo wholesome. For the class one midterm and one final both can bring a one-page cheat sheet. Labs are fun, some use GIS, and whole class gets to go to Swanton.",
+          "tags": [
+            "Uploads Slides",
+            "Class Handouts"
+          ],
+          "id": "d239ae71-da61-4cf0-9313-0441de3a04a3",
+          "professor": "cb4b8cd2-7cdd-4c68-95a0-b57df7263324",
+          "postDate": "2026-11-09T04:05:42.351Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "cb4fea7d-9eb0-45c9-8856-f6b02d726bd9",
     "department": "BIO",
     "firstName": "Claire",
@@ -727116,6 +728233,47 @@
           "id": "2c721ff6-f308-4746-9667-f38e31870648",
           "professor": "cb4fea7d-9eb0-45c9-8856-f6b02d726bd9",
           "postDate": "Tue Apr 07 2026 20:27:29 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "cb511744-a743-4945-86c5-39568295b107",
+    "department": "COMS",
+    "firstName": "Hamsini",
+    "lastName": "Sridharan",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 1,
+    "studentDifficulties": 1,
+    "courses": [
+      "COMS"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "No Breaks During Lecture": 1
+    },
+    "reviews": {
+      "COMS 3317": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 1,
+          "rating": "This is the most boring class ever. The professor was, without fail, 10-15 minutes late each class period. Was nice because her lectures are so insanely boring and hard to follow, but so annoying because we were expected to be there on time. I'll give her the benefit of the doubt because it's her first semester teaching, but her lectures are boring af and only based on analyzing the readings (which no one ever did, so class discussions were just her talking at us). It also felt hard to speak up during class and answer her questions because it felt like she was judging what we had to say. Overall, this course is pretty easy, with not much work required outside the class and no midterm or final, just a big group project that we work on in groups all semester with a presentation and essay aspect involved. If you are willing to sit through a VERY boring class period, I would say that it's worth it because the content is somewhat interesting and relevant to our time, and the work is easy and does not take much effort. However, the tradeoff is a lazy, boring professor who cannot engage the class for shit and feels judgemental. If you are going to take anything away from this rating, she is unapproachable, but there is no attendance policy, and the class is extremely easy.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Grading Policy",
+            "Inflexible Deadline Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "3d1133d6-92ed-4fbe-aff1-9768e7b5c7eb",
+          "professor": "cb511744-a743-4945-86c5-39568295b107",
+          "postDate": "2026-11-10T20:49:43.861Z"
         }
       ]
     }
@@ -746549,6 +747707,49 @@
           "id": "4a97333d-df44-4e1c-9fdd-add4e70a2947",
           "professor": "d0393e45-e0b5-4d44-bbd0-ed640d5fc599",
           "postDate": "2014-02-01T08:00:00.000Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d09c4006-66cc-468b-b81f-a9629f587564",
+    "department": "WGQS",
+    "firstName": "Deni",
+    "lastName": "Li",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 2,
+    "studentDifficulties": 4,
+    "courses": [
+      "WGQS"
+    ],
+    "tags": {
+      "Hybrid Option": 1,
+      "Recorded Lectures": 1,
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "WGQS 2301": [
+        {
+          "grade": "A",
+          "gradeLevel": "Freshman",
+          "courseType": "General Ed",
+          "overallRating": 4,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 4,
+          "rating": "If you just want to get a GE over with I definitely recommend this class. Deni is a really nice and understanding professor and they don't grade harshly at all. I will say that the class can be boring since we only watch videos or they read off their slides. There are rarely assignments and there are only 2 big assignments which are essays about readings/videos from the course. This class is definitely manageable and how all GE's should be.",
+          "tags": [
+            "Hybrid Option",
+            "Recorded Lectures",
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "92bf58c6-ba95-4ce1-a6c7-48a721217e17",
+          "professor": "d09c4006-66cc-468b-b81f-a9629f587564",
+          "postDate": "2026-10-27T06:56:34.080Z"
         }
       ]
     }
@@ -781432,6 +782633,37 @@
     }
   },
   {
+    "id": "db0a3cb5-adc5-4256-9f6a-0be57cdab75a",
+    "department": "CSC",
+    "firstName": "Snehal",
+    "lastName": "Prabhudesai",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 2,
+    "courses": [
+      "CSC"
+    ],
+    "tags": {},
+    "reviews": {
+      "CSC 4184": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Senior",
+          "courseType": "Elective",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Great prof and leniently-graded class but the material was not helpful at all in terms of applying concepts to the industry, felt useless.",
+          "tags": [],
+          "id": "6760c14e-261f-474b-a990-d18f567e9ac9",
+          "professor": "db0a3cb5-adc5-4256-9f6a-0be57cdab75a",
+          "postDate": "2026-11-10T23:14:33.916Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "db2a5278-1575-443e-abcf-5d68b6e82243",
     "department": "BUS",
     "firstName": "Ali",
@@ -799824,6 +801056,49 @@
           "id": "8208c39b-4d10-4efb-a762-f389e07dade0",
           "professor": "e0bed313-8cec-4da1-9266-f2a7f34e7a6a",
           "postDate": "Sun Mar 16 2025 04:52:16 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "e0e93003-60e3-455f-b051-a5295d108b48",
+    "department": "BUS",
+    "firstName": "Christian",
+    "lastName": "Parry",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 4,
+    "courses": [
+      "BUS"
+    ],
+    "tags": {
+      "Uploads Slides": 1,
+      "Flexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "Zoom Office Hours": 1
+    },
+    "reviews": {
+      "BUS 3396": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Elective",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Is a new prof at Cal Poly teaching two sections of consumer behavior. I am taking this course for my sales minor but most times you'll find alot of marketing concentrations in the course and he makes it pretty easy, there are a couple of readings each week with a midterm, final, and required group project. He is very nice and is more than willing to help his students get to where they need to go. is also a very interesting guy that moved from Utah and has a deep passion for marketing and research. Also lectures with slidedecks that he posts but admittedly lectures are not that useful as he is not the best yet.",
+          "tags": [
+            "Uploads Slides",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "Zoom Office Hours"
+          ],
+          "id": "d9fb11a2-78c6-4781-8174-27449df658b9",
+          "professor": "e0e93003-60e3-455f-b051-a5295d108b48",
+          "postDate": "2026-10-26T16:40:10.432Z"
         }
       ]
     }
@@ -821555,6 +822830,49 @@
     }
   },
   {
+    "id": "e6fac2df-abab-4c1e-8b55-8f71ebb13480",
+    "department": "PSY",
+    "firstName": "Kellie",
+    "lastName": "Conn",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 3,
+    "studentDifficulties": 3,
+    "courses": [
+      "PSY"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "Recorded Lectures": 1,
+      "Fast Response Time": 1
+    },
+    "reviews": {
+      "PSY 3350": [
+        {
+          "grade": "A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Support)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 3,
+          "recognizesStudentDifficulties": 3,
+          "rating": "Chill lady, very sweet and passionate about organizational psychology. Teamworks Class relies heavily on group projects (pretty much the majority of the class). Midterms are open note and multiple choice, and she posts a thorough study guide. Final is a paper, and you present 2-3 times with your semester long group. Not a hard class and she gives a good amount of extra credit opportunities. Just make sure you're on top of the work, because occasionally it can feel very disorganized. Says there is required readings but you'd be fine w/out it. 2 weeks are asynchronous which was chill.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "Recorded Lectures",
+            "Fast Response Time"
+          ],
+          "id": "a1360443-a3c2-4ea0-ae0c-c880ba8194d3",
+          "professor": "e6fac2df-abab-4c1e-8b55-8f71ebb13480",
+          "postDate": "2026-11-10T21:37:57.683Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "e7048c08-5bb7-4601-91bb-43ff4844b705",
     "department": "CE",
     "firstName": "Radhavi",
@@ -842385,6 +843703,47 @@
     }
   },
   {
+    "id": "ed4f9a54-cc83-4651-8633-e7ba9de1b61f",
+    "department": "AGB",
+    "firstName": "Gil",
+    "lastName": "De Paula",
+    "numEvals": 1,
+    "overallRating": 2,
+    "materialClear": 2,
+    "studentDifficulties": 3,
+    "courses": [
+      "AGB"
+    ],
+    "tags": {
+      "Inflexible Attendance Policy": 1,
+      "Inflexible Deadline Policy": 1,
+      "Inflexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
+    },
+    "reviews": {
+      "AGB 2212": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 2,
+          "presentsMaterialClearly": 2,
+          "recognizesStudentDifficulties": 3,
+          "rating": "He\u2019s pretty hard, all work is done in class so attendance is pretty much mandatory, there\u2019s never really homework except class work that isn\u2019t finished. Concepts are difficult and tests are hard.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Inflexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "d0f9f8ec-3abd-4c0e-afbd-b0ff346b8b17",
+          "professor": "ed4f9a54-cc83-4651-8633-e7ba9de1b61f",
+          "postDate": "2026-10-29T04:24:21.851Z"
+        }
+      ]
+    }
+  },
+  {
     "id": "ed54bc01-3ab7-40c7-9a55-4cedbcfcf16d",
     "department": "MATE",
     "firstName": "Aniruddha",
@@ -851138,6 +852497,70 @@
           "id": "f5f05690-aafc-4053-8116-edbfe1aec726",
           "professor": "efd06b6c-5a55-4dd6-8e1a-ab9ca851064e",
           "postDate": "Sun Jun 14 2026 03:28:21 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "efd6defa-fd5b-4c18-b1b4-a7c03096feb9",
+    "department": "IME",
+    "firstName": "Will",
+    "lastName": "Haslett",
+    "numEvals": 2,
+    "overallRating": 1,
+    "materialClear": 0.5,
+    "studentDifficulties": 1.5,
+    "courses": [
+      "IME 1140"
+    ],
+    "tags": {
+      "Class Handouts": 2,
+      "Flexible Attendance Policy": 2,
+      "Inflexible Deadline Policy": 2,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1,
+      "Zoom Office Hours": 1,
+      "Inflexible Grading Policy": 1
+    },
+    "reviews": {
+      "IME 1140": [
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 0,
+          "recognizesStudentDifficulties": 1,
+          "rating": "Nice guy but actually a horrible professor. He does such a bad job at teaching the class because all he does is starts presenting and going over the tools to use but it's so easy to get lost and he rarely stops the class to answer questions. He's also very monotone and boring to listen to. Other classes have TA's but he doesn't. Also if he were to just post videos to help us with the assignments, the class would be so much easier to follow and actually have tutorials to know what and how to use each tool. The only time you'll get help is after 2 hours of him basically talking to himself because barely anyone actually can pay attention to his lectures.",
+          "tags": [
+            "Class Handouts",
+            "Flexible Attendance Policy",
+            "Inflexible Deadline Policy",
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "id": "45b654ae-1a90-4162-8564-d97e28a545dd",
+          "professor": "efd6defa-fd5b-4c18-b1b4-a7c03096feb9",
+          "postDate": "2026-10-27T00:20:38.824Z"
+        },
+        {
+          "grade": "B",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 1,
+          "presentsMaterialClearly": 1,
+          "recognizesStudentDifficulties": 2,
+          "rating": "So hard to follow this dude he's all in all just not a good instructor whatsoever. He speaks so monotonic and rarely checks in to see how the students are doing and just expects everyone to be able to listen to all the words he's saying like there's a live transcript we're able to follow. No, half the class is constantly lost not knowing what to do. It's a bummer since this class is actually super important for engineering and he's just the worst teacher possible for this class. I know he knows what he's doing, but, as a professor, he's awful. Do not take Will Haslett.",
+          "tags": [
+            "Class Handouts",
+            "Zoom Office Hours",
+            "Flexible Attendance Policy",
+            "Inflexible Grading Policy",
+            "Inflexible Deadline Policy"
+          ],
+          "id": "0203e114-d87c-4fb4-8bc4-89346378185d",
+          "professor": "efd6defa-fd5b-4c18-b1b4-a7c03096feb9",
+          "postDate": "2026-11-10T02:53:08.576Z"
         }
       ]
     }
@@ -870567,6 +871990,66 @@
           "id": "c282df86-3d99-4fe7-b273-d2b95c7d8d65",
           "professor": "f47c9768-f6da-4c8c-ad57-a9ba87ca5e5e",
           "postDate": "2026-10-27T20:34:38.218Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4a61c89-5d7d-4398-834a-1bce0d5e5f53",
+    "department": "SOC",
+    "firstName": "Jeewoo",
+    "lastName": "Shin",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "SOC"
+    ],
+    "tags": {},
+    "reviews": {
+      "SOC 1110": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Freshman",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Super easy class and Professor Shin is very sweet and understanding. I recommend this class. I had the class in person but exams are online which was nice and overall a very easy A.",
+          "id": "a36fe741-ea8c-462b-b722-e177c333e268",
+          "professor": "f4a61c89-5d7d-4398-834a-1bce0d5e5f53",
+          "postDate": "2026-10-30T21:37:03.093Z"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f4a819bf-4871-4a0e-a3f9-5a0441b97e7d",
+    "department": "CM",
+    "firstName": "Sydnee",
+    "lastName": "Greer",
+    "numEvals": 1,
+    "overallRating": 4,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CM"
+    ],
+    "tags": {},
+    "reviews": {
+      "CM 1280": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Sophomore",
+          "courseType": "Major (Required)",
+          "overallRating": 4,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Sydnee is an amazing teacher. She is kind and patient. If you have the opportunity to take it please do. She grades fairly and is actually trying to help you learn.",
+          "id": "3e07d7bb-5872-481d-8ba2-5aaaa00dda85",
+          "professor": "f4a819bf-4871-4a0e-a3f9-5a0441b97e7d",
+          "postDate": "2026-10-27T23:40:28.687Z"
         }
       ]
     }
@@ -916934,6 +918417,45 @@
           "id": "20fcfa45-cb29-4250-9dcf-ee0b98f8fca3",
           "professor": "ffa1ee89-8770-427e-a995-df27d943c7a2",
           "postDate": "Fri Aug 22 2025 06:06:02 GMT+0000 (Coordinated Universal Time)"
+        }
+      ]
+    }
+  },
+  {
+    "id": "ffb0bcdb-0e57-41c5-b693-0c9593cf95f3",
+    "department": "CM",
+    "firstName": "Maryam",
+    "lastName": "Kouhirostami",
+    "numEvals": 1,
+    "overallRating": 3,
+    "materialClear": 4,
+    "studentDifficulties": 4,
+    "courses": [
+      "CM"
+    ],
+    "tags": {
+      "Flexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1
+    },
+    "reviews": {
+      "CM 3317": [
+        {
+          "grade": "N/A",
+          "gradeLevel": "Junior",
+          "courseType": "Major (Required)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 4,
+          "rating": "Professor Maryam is the best asynchronous professor I have ever had. She understands that things happen in life and is more than welcome to give you an extension even if its last minute. She grades easily in a way that she just wants to know that you went over the material and understood it. There can be a bit of reading and video watching at times, but if you take good notes, you should understand the material fine. Absolutely will take her again given the opportunity.",
+          "tags": [
+            "Flexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy"
+          ],
+          "id": "74658a80-607d-415f-b124-619c28679064",
+          "professor": "ffb0bcdb-0e57-41c5-b693-0c9593cf95f3",
+          "postDate": "2026-11-05T00:43:24.232Z"
         }
       ]
     }
