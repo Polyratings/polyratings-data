@@ -348561,10 +348561,10 @@
     "department": "AEPS",
     "firstName": "Jeffrey",
     "lastName": "Wong",
-    "numEvals": 5,
-    "overallRating": 1.6,
-    "materialClear": 3.4,
-    "studentDifficulties": 1.8,
+    "numEvals": 6,
+    "overallRating": 1.83,
+    "materialClear": 3.5,
+    "studentDifficulties": 1.83,
     "courses": [
       "AEPS 150",
       "AG 101",
@@ -348577,7 +348577,11 @@
       "Inflexible Grading Policy": 2,
       "High In-Person Availability": 1,
       "Uploads Slides": 2,
-      "Flexible Attendance Policy": 1
+      "Flexible Attendance Policy": 1,
+      "Inflexible Attendance Policy": 1,
+      "Flexible Deadline Policy": 1,
+      "Flexible Grading Policy": 1,
+      "No Breaks During Lecture": 1
     },
     "reviews": {
       "AEPS 150": [
@@ -348666,6 +348670,25 @@
           "id": "66224588-5426-4d1f-a479-5c9667d7408f",
           "professor": "5d3fdb90-99d5-4ccd-80ee-85756d4b7dbc",
           "postDate": "2026-11-02T08:29:50.528Z"
+        },
+        {
+          "grade": "NC",
+          "gradeLevel": "5th/6th Year",
+          "courseType": "Major (Support)",
+          "overallRating": 3,
+          "presentsMaterialClearly": 4,
+          "recognizesStudentDifficulties": 2,
+          "rating": "Dr. Wong is a good lecturer and explains concepts in simple terms that are easy to understand. His tests are challenging but if you take good notes and review it shouldn't be too hard, especially for 100 level classes. Only issue is grading. He takes a very long time to grade assignments which doesn't help if you have anxiety about that kind of stuff. He doesn't appreciate students who are late so make sure to show up to classes and labs on time.",
+          "tags": [
+            "Inflexible Attendance Policy",
+            "Flexible Deadline Policy",
+            "Flexible Grading Policy",
+            "No Breaks During Lecture"
+          ],
+          "anonymousIdentifier": "e3a326bfb68d82d5",
+          "id": "ecc891a1-4bcf-4be0-afaf-af2e1152bc61",
+          "professor": "5d3fdb90-99d5-4ccd-80ee-85756d4b7dbc",
+          "postDate": "2026-11-27T22:57:56.626Z"
         }
       ]
     }
